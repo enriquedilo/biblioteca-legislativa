@@ -1,0 +1,2960 @@
+{
+  "fecha": "2026-09-10T14:11:19.874979+00:00",
+  "ordenamientos": 151,
+  "reportes_reubicados": 157,
+  "campos_incompletos": [
+    {
+      "id": 1,
+      "nombre": "Código Civil",
+      "incidencias": [
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Código de Procedimientos Civiles",
+      "incidencias": [
+        {
+          "campo": "po_publicacion",
+          "motivo": "Publicación seriada en varios números; el objeto singular no representa la lista.",
+          "evidencia": "Publicado en los suplementos de los periódicos oficiales de los números siguientes: 126, de 22 de octubre de 1940; 127, de 24 de octubre de 1940; 128, de 26 de octubre de 1940; 129, de 29 de octubre de 1940; 130, de 31 de octubre de 1940; 131, de 2 de noviembre de 1940; 132, de 5 de noviembre de 1940; 133, de 7 de noviembre de 1940; 134, de 9 de noviembre de 1940; 135, de 12 de noviembre de 1940; 136, de 14 de noviembre de 1940; 137, de 16 de noviembre de 1940; 138, de 19 de noviembre de 1940; 139, de 21 de noviembre de 1940; 140, de 23 de noviembre de 1940; 141, de 26 de noviembre de 1940, y 142, de 28 de noviembre de 1940."
+        },
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "po_publicacion.fecha",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Código de Procedimientos Familiares",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "po_publicacion.fecha",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Código Familiar",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "Encabezado de reformas detectado; filas requieren lectura manual."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Código Fiscal",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "Encabezado de reformas detectado; filas requieren lectura manual."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "Código Fiscal Municipal",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "Código Penal",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "Encabezado de reformas detectado; filas requieren lectura manual."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "Constitución Política del Estado de Sinaloa",
+      "incidencias": [
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "decreto_numero",
+          "motivo": "Dato no localizado expresamente en el encabezado/publicación del documento."
+        },
+        {
+          "campo": "po_publicacion.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "nombre": "Ley Ambiental para el Desarrollo Sustentable",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "nombre": "Ley de Acceso de las Mujeres a una Vida Libre de Violencia",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "Encabezado de reformas detectado; filas requieren lectura manual."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "nombre": "Ley de Adquisiciones, Arrendamientos, Servicios y Administración de Bienes Muebles",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "nombre": "Ley de Agua Potable y Alcantarillado",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "Encabezado de reformas detectado; filas requieren lectura manual."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "nombre": "Ley de Aranceles",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "Encabezado de reformas detectado; filas requieren lectura manual."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "nombre": "Ley de Aranceles para los Abogados",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "nombre": "Ley de Atención y Protección a Víctimas",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "nombre": "Ley de Austeridad",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "nombre": "Ley de Bibliotecas",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "nombre": "Ley de Cámaras de la Propiedad Urbana",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "nombre": "Ley de Catastro",
+      "incidencias": [
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "nombre": "Ley de Ciencia, Tecnología e Innovación",
+      "incidencias": [
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "nombre": "Ley de Contratos de Colaboración Público Privada",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "nombre": "Ley de Coordinación de Sanidad e Inocuidad Agrícola",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "nombre": "Ley de Coordinación Fiscal",
+      "incidencias": [
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "nombre": "Ley de Cultura",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "nombre": "Ley de Cultura Física y Deporte",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "nombre": "Ley de Desarrollo Forestal Sustentable",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "Encabezado de reformas detectado; filas requieren lectura manual."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "nombre": "Ley de Desarrollo Ganadero",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "nombre": "Ley de desarrollo rural sustentable",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "nombre": "Ley de Deuda Pública",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "nombre": "Ley de Educación",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "nombre": "Ley de Ejecución de las Consecuencias Jurídicas del Delito",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "nombre": "Ley de Entidades Paraestatales",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "nombre": "Ley de Entrega y Recepción de los Asuntos y Recursos Públicos",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "nombre": "Ley de Extinción de Dominio",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "nombre": "Ley de Fomento a la Inversión para el Desarrollo Económico",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "Encabezado de reformas detectado; filas requieren lectura manual."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "nombre": "Ley de Fomento a la Lectura y el Libro",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "nombre": "Ley de Fomento de Valores, Formación Cívica y Cultura de la Legalidad",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "nombre": "Ley de Fomento Minero",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "nombre": "Ley de Fomento para el Desarrollo Económico de Madres Jefas de Familia",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "nombre": "Ley de Gobierno Electrónico",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "nombre": "Ley de Gobierno Municipal",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "nombre": "Ley de Hacienda",
+      "incidencias": [
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "nombre": "Ley de Hacienda Municipal",
+      "incidencias": [
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "nombre": "Ley de Instituciones de Asistencia Privada",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "nombre": "Ley de Instituciones y Procedimientos Electorales",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "Encabezado de reformas detectado; filas requieren lectura manual."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "nombre": "Ley de Integración Social de Personas con Discapacidad",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "nombre": "Ley de Justicia Administrativa",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "Encabezado de reformas detectado; filas requieren lectura manual."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "nombre": "Ley de la Auditoría Superior del Estado de Sinaloa",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "nombre": "Ley de la Defensoría Pública",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "nombre": "Ley de la Juventud",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "nombre": "Ley de los Comités Locales de Caminos Vecinales",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.fecha",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "nombre": "Ley de los Derechos de las Personas Adultas Mayores",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "nombre": "Ley de los Derechos de los Pueblos y Comunidades Indígenas",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "nombre": "Ley de los Derechos de Niñas, Niños y Adolescentes",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "Encabezado de reformas detectado; filas requieren lectura manual."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "nombre": "Ley de los Trabajadores al Servicio de los Municipios",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "Encabezado de reformas detectado; filas requieren lectura manual."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "nombre": "Ley de los Trabajadores al Servicio del Estado de Sinaloa",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "nombre": "Ley de Mejora Regulatoria y Gestión Empresarial",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "nombre": "Ley de Movilidad Sustentable y Seguridad Vial",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "Encabezado de reformas detectado; filas requieren lectura manual."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "nombre": "Ley de Obras Públicas y Servicios Relacionados con las Mismas",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "nombre": "Ley de Ordenamiento Territorial y Desarrollo Urbano",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "nombre": "Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Sinaloa",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "nombre": "Ley de Organizaciones Agrícolas",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "Encabezado de reformas detectado; filas requieren lectura manual."
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "nombre": "Ley de Participación Ciudadana",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "nombre": "Ley de Pensiones",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "nombre": "Ley de Pesca y Acuacultura Sustentables",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "nombre": "Ley de Planeación",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "Encabezado de reformas detectado; filas requieren lectura manual."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "nombre": "Ley de prestación de servicios para la atención, cuidado y desarrollo integral infantil",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "nombre": "Ley de Presupuesto y Responsabilidad Hacendaria",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "Encabezado de reformas detectado; filas requieren lectura manual."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "nombre": "Ley de Profesiones",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "nombre": "Ley de Protección a los Animales",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "nombre": "Ley de Protección Civil",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "nombre": "Ley de Protección de Datos Personales en Posesión de Sujetos Obligados",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "nombre": "Ley de Regularización de Predios Rurales",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "nombre": "Ley de Remuneraciones de los Servidores Públicos",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "nombre": "Ley de Residuos",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "nombre": "Ley de Responsabilidades Administrativas",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "nombre": "Ley de Responsabilidades de los Servidores Públicos",
+      "incidencias": [
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "nombre": "Ley de Salud",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "Encabezado de reformas detectado; filas requieren lectura manual."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "po_publicacion.fecha",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "nombre": "Ley de Salud Mental",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "nombre": "Ley de Seguridad Pública",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "Encabezado de reformas detectado; filas requieren lectura manual."
+        },
+        {
+          "campo": "po_publicacion.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "po_publicacion.fecha",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "nombre": "Ley de Sociedades Mutualistas",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "nombre": "Ley de Transparencia y Acceso a la Información Pública",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "nombre": "Ley de Vivienda",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "nombre": "Ley del Instituto de Evaluación Educativa",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "nombre": "Ley del Mérito Social del Estado de Sinaloa",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "nombre": "Ley del Notariado del Estado de Sinaloa",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "nombre": "Ley del Servicio de Administración Tributaria",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "nombre": "Ley del Sistema Anticorrupción",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "nombre": "Ley del Sistema de Medios de Impugnación en Materia Electoral y de Participación Ciudadana",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "Encabezado de reformas detectado; filas requieren lectura manual."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "nombre": "Ley en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Estatal de Búsqueda de Personas de Sinaloa",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "nombre": "Ley Orgánica de la Administración Pública",
+      "incidencias": [
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "nombre": "Ley Orgánica de la Comisión Estatal de Derechos Humanos",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "nombre": "Ley Orgánica de la Fiscalía General",
+      "incidencias": [
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "nombre": "Ley Orgánica de la Procuraduría Fiscal",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "nombre": "Ley Orgánica de la Universidad Autónoma de Occidente",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "nombre": "Ley Orgánica de la Universidad Autónoma de Sinaloa",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "nombre": "Ley Orgánica de la Universidad Autónoma Indígena de México",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "nombre": "Ley Orgánica de la Universidad Pedagógica del Estado de Sinaloa",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "po_publicacion.fecha",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "nombre": "Ley Orgánica del Congreso del Estado de Sinaloa",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "Encabezado de reformas detectado; filas requieren lectura manual."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "nombre": "Ley Orgánica del Fondo Auxiliar para la Administración de Justicia",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "ultima_reforma.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "nombre": "Ley Orgánica del Poder Judicial",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "Encabezado de reformas detectado; filas requieren lectura manual."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "nombre": "Ley para el Aprovechamiento Integral de Alimentos y su Donación Altruista",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "nombre": "Ley para el Desarrollo de la Competitividad de las Micro, Pequeñas y Medianas Empresas",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "nombre": "Ley para el Fomento de la Actividad Artesanal",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "nombre": "Ley para el Fomento del Turismo",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "nombre": "Ley para Impulsar la Productividad y Competitividad de la Economía",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "nombre": "Ley para la Administración de Bienes Asegurados, Decomisados o Abandonados",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "nombre": "Ley para la Atención y Protección a Personas con la Condición del Espectro Autista",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "nombre": "Ley para la Igualdad entre Mujeres y Hombres",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "nombre": "Ley para la Prevención Social de la Violencia y la Delincuencia, con Participación Ciudadana",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "nombre": "Ley para la Prevención y Atención de la Violencia Familiar",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "nombre": "Ley para la Promoción y Desarrollo de los Jóvenes Emprendedores",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "nombre": "Ley para la Protección de Personas que Intervienen en el Procedimiento Penal",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "nombre": "Ley para la Protección, Apoyo y Promoción a la Lactancia Materna",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "nombre": "Ley para la Protección, Atención y Asistencia a las Víctimas de los Delitos en Materia de Trata de Personas",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "nombre": "Ley para Prevenir y Eliminar la Discriminación",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "nombre": "Ley para Prevenir, Atender y Erradicar la Violencia Escolar",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "nombre": "Ley por las que se establece el Fondo para la Dotación y Mantenimiento de Equipo y Programas de Cómputo a los Planteles de Educación Pública Básica",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "nombre": "Ley que crea el Instituto de Seguridad y Servicios Sociales de los Trabajadores de la Educación",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "nombre": "Ley que crea la Institución Pública descentralizada Viveros de Sinaloa",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "nombre": "Ley que Establece el Catálogo de Pueblos y Comunidades Indígenas",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "nombre": "Ley que Establece el Derecho de Vía de las Carreteras y Caminos Locales",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "nombre": "Ley que establece las Bases Normativas para la Expedición de los Bandos de Policía y Gobierno",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "nombre": "Ley que Protege la Salud y los Derechos de los No Fumadores",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "Encabezado de reformas detectado; filas requieren lectura manual."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "nombre": "Ley que Regula el Aseguramiento, Administración, Enajenación y Disposición Final de Vehículos Automotores, Accesorios o Componentes Abandonados",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "nombre": "Ley que Regula la Prevención y el Control de las Adicciones",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "nombre": "Ley que Regula las Casas de Empeño",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "Encabezado de reformas detectado; filas requieren lectura manual."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "nombre": "Ley Reglamentaria de la Fracción III, del Artículo 104 de la Constitución Política",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "ultima_reforma.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "nombre": "Ley Reglamentaria del Artículo 154 Reformado de la Constitución Política del Estado",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "nombre": "Ley sobre el Régimen de Propiedad en Condominio de Inmuebles",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "nombre": "Ley sobre el Sistema Estatal de Asistencia Social",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "nombre": "Ley sobre Inmuebles del Estado y Municipios",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "ultima_reforma.numero",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "nombre": "Ley sobre Operación y Funcionamiento de Establecimientos Destinados a la Producción, Distribución, Venta y Consumo de Bebidas Alcohólicas",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "nombre": "Ley para la Dotación Gratuita de Uniformes, Calzado Deportivo y Útiles Escolares",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "nombre": "Ley para Prevenir, Atender y Reparar Integralmente el Desplazamiento Forzado Interno",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "Encabezado de reformas detectado; filas requieren lectura manual."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "nombre": "Ley Estatal de Cambio Climático",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "nombre": "Ley de Amnistía",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "nombre": "Ley de Fomento Apícola y Protección de Agentes Polinizadores",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "nombre": "Ley de Fomento y Protección del Maíz Nativo",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "nombre": "Ley Orgánica de la Universidad de la Policía",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "Encabezado de reformas detectado; filas requieren lectura manual."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "nombre": "Ley Orgánica del Centro de Conciliación Laboral",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "nombre": "Ley de Archivos",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "nombre": "Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "nombre": "Ley para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "nombre": "Ley de Prestación de Servicios Inmobiliarios",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "nombre": "Ley de Educación Superior",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "nombre": "Ley para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "nombre": "Ley de Responsabilidad Patrimonial para el Estado de Sinaloa y sus Municipios",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "nombre": "Ley de Revocación de Mandato",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "nombre": "Ley de Mecanismos Alternativos de Solución de Controversias",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "nombre": "Ley para Prevenir, Investigar y Sancionar el Delito de Extorsión",
+      "incidencias": [
+        {
+          "campo": "reformas",
+          "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+        },
+        {
+          "campo": "abroga",
+          "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+        },
+        {
+          "campo": "po_publicacion.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        },
+        {
+          "campo": "ultima_reforma.edicion",
+          "motivo": "Dato no localizado en la mención impresa seleccionada."
+        }
+      ]
+    }
+  ],
+  "regla": "Sólo menciones impresas; no se consultaron fuentes externas; texto, originales y hashes protegidos.",
+  "nota_reubicacion": "Los reportes JSON con nombre revision-*.json fueron distribuidos por ordenamiento en versiones/<version>/revisiones/; reportes/ conserva únicamente síntesis."
+}

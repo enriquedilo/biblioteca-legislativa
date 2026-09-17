@@ -1,0 +1,667 @@
+{
+  "texto_conservado": true,
+  "paginas_pdf": 38,
+  "paginas_sin_texto": [
+    30
+  ],
+  "articulos_word": [
+    "1",
+    "2",
+    "3",
+    "3o bis",
+    "3o bis a",
+    "3o bis b",
+    "3o bis c",
+    "3o bis d",
+    "3o bis e",
+    "4",
+    "4o bis",
+    "4o bis",
+    "4o bis",
+    "4o bis",
+    "4o bis",
+    "4o bis",
+    "4o bis",
+    "5",
+    "5o bis",
+    "6",
+    "6o bis",
+    "6o bis a",
+    "6o bis b",
+    "6o bis c",
+    "6o bis d",
+    "6o bis e",
+    "6o bis f",
+    "6o bis g",
+    "6o bis h",
+    "6o bis i",
+    "6o bis j",
+    "6o bis k",
+    "6o bis l",
+    "6o bis m",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23"
+  ],
+  "articulos_pdf": [
+    "1",
+    "2",
+    "3",
+    "3o bis",
+    "3o bis a",
+    "3o bis b",
+    "3o bis c",
+    "3o bis d",
+    "3o bis e",
+    "4",
+    "4o bis",
+    "4",
+    "4o bis",
+    "4o bis",
+    "4o bis",
+    "4o bis",
+    "4o bis",
+    "4o bis",
+    "5",
+    "5o bis",
+    "6",
+    "6o bis",
+    "6o bis a",
+    "6o bis b",
+    "6o bis c",
+    "6o bis d",
+    "6o bis e",
+    "6o bis f",
+    "6o bis g",
+    "6o bis h",
+    "6o bis i",
+    "6o bis j",
+    "6o bis k",
+    "6o bis l",
+    "6o bis m",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "3 bis a"
+  ],
+  "solo_pdf": [
+    "3 bis a"
+  ],
+  "solo_word": [],
+  "transitorios_word": 4,
+  "transitorios_pdf": 5,
+  "alcance": "Control mecánico; requiere cotejo visual y no certifica vigencia jurídica.",
+  "revision_incidencias": {
+    "fecha": "2026-09-10T13:06:38.185766+00:00",
+    "estado": "46 expresiones gráficas restituidas en texto por página; cotejo general pendiente",
+    "hallazgos": [
+      "Inspección de los 38 inventarios de página: 46 elementos de imagen en 11 páginas.",
+      "Páginas 3–8 y 10–14 preservadas completas, a 140 dpi, sin reconstruir símbolos.",
+      "El Word antiguo contiene ecuaciones estructuradas; textutil las omite. No se insertaron fragmentos internos sin correspondencia comprobada.",
+      "46 expresiones restituidas como LaTeX y cotejadas con las imágenes."
+    ],
+    "paginas_visuales": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "alcance": "Recuperación visual de todos los elementos de imagen detectados. No equivale a transcripción matemática en texto ni validación jurídica integral.",
+    "imagenes": [
+      {
+        "pagina": 3,
+        "elementos_imagen": 1,
+        "archivo": "imagenes/pagina-03.png",
+        "sha256": "69ce174c1d5dec9d591cc82e24699281daa6c1696d0f545ff3d6a1042310773e"
+      },
+      {
+        "pagina": 4,
+        "elementos_imagen": 4,
+        "archivo": "imagenes/pagina-04.png",
+        "sha256": "c792062e4fac8b3e3a1793548c361e511d472ee06ad2b11d7bf1e6c7b5be0b90"
+      },
+      {
+        "pagina": 5,
+        "elementos_imagen": 6,
+        "archivo": "imagenes/pagina-05.png",
+        "sha256": "c458bef5f103c4a5820c103a5ad6723acfa70f348f19fc5714a504c11381c3f8"
+      },
+      {
+        "pagina": 6,
+        "elementos_imagen": 4,
+        "archivo": "imagenes/pagina-06.png",
+        "sha256": "78574a68cc04370927efd7d000f7288706718768a29ee2c0685d382edf6c6cdc"
+      },
+      {
+        "pagina": 7,
+        "elementos_imagen": 8,
+        "archivo": "imagenes/pagina-07.png",
+        "sha256": "e7ef1784570e8ba77ce83c8d5ff77789855d22d1333ea3b060f0d700ccde5b6c"
+      },
+      {
+        "pagina": 8,
+        "elementos_imagen": 1,
+        "archivo": "imagenes/pagina-08.png",
+        "sha256": "97203fbce98d95f71636831286486fde378541b1d605f3f3a85373911951528a"
+      },
+      {
+        "pagina": 10,
+        "elementos_imagen": 6,
+        "archivo": "imagenes/pagina-10.png",
+        "sha256": "1201ffb86cc99f8c7cf54988e4ba3697f56daa4d4bc034619f0365aff30a012b"
+      },
+      {
+        "pagina": 11,
+        "elementos_imagen": 4,
+        "archivo": "imagenes/pagina-11.png",
+        "sha256": "3c3c26a5de41a56b3ed94d37acc9f0232fc3d6e01cc3660457ec91c7463df766"
+      },
+      {
+        "pagina": 12,
+        "elementos_imagen": 8,
+        "archivo": "imagenes/pagina-12.png",
+        "sha256": "9737bdc054d91b79a82be822449ced49c434b6cac581475d5165b46c84f889a2"
+      },
+      {
+        "pagina": 13,
+        "elementos_imagen": 3,
+        "archivo": "imagenes/pagina-13.png",
+        "sha256": "e49617817a6c9a6dc48c72480dd7cded010eb68495a737b3ac55e4973cd061b5"
+      },
+      {
+        "pagina": 14,
+        "elementos_imagen": 1,
+        "archivo": "imagenes/pagina-14.png",
+        "sha256": "ee93020b573d90d57468af7a2c7fccd85c9cd859e4c175a419ac2899657de315"
+      }
+    ]
+  },
+  "integridad_documento_completo": false,
+  "integridad_documento_completo_alcance": "Fórmulas recuperadas en suplementos por página; integridad general no certificada.",
+  "recuperacion_grafica": {
+    "fecha": "2026-09-10T13:06:38.185766+00:00",
+    "estado": "Fórmulas preservadas en imágenes vinculadas; no convertidas a texto matemático",
+    "hallazgos": [
+      "Inspección de los 38 inventarios de página: 46 elementos de imagen en 11 páginas.",
+      "Páginas 3–8 y 10–14 preservadas completas, a 140 dpi, sin reconstruir símbolos.",
+      "El Word antiguo contiene ecuaciones estructuradas; textutil las omite. No se insertaron fragmentos internos sin correspondencia comprobada."
+    ],
+    "paginas_visuales": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "alcance": "Recuperación visual de todos los elementos de imagen detectados. No equivale a transcripción matemática en texto ni validación jurídica integral.",
+    "imagenes": [
+      {
+        "pagina": 3,
+        "elementos_imagen": 1,
+        "archivo": "imagenes/pagina-03.png",
+        "sha256": "69ce174c1d5dec9d591cc82e24699281daa6c1696d0f545ff3d6a1042310773e"
+      },
+      {
+        "pagina": 4,
+        "elementos_imagen": 4,
+        "archivo": "imagenes/pagina-04.png",
+        "sha256": "c792062e4fac8b3e3a1793548c361e511d472ee06ad2b11d7bf1e6c7b5be0b90"
+      },
+      {
+        "pagina": 5,
+        "elementos_imagen": 6,
+        "archivo": "imagenes/pagina-05.png",
+        "sha256": "c458bef5f103c4a5820c103a5ad6723acfa70f348f19fc5714a504c11381c3f8"
+      },
+      {
+        "pagina": 6,
+        "elementos_imagen": 4,
+        "archivo": "imagenes/pagina-06.png",
+        "sha256": "78574a68cc04370927efd7d000f7288706718768a29ee2c0685d382edf6c6cdc"
+      },
+      {
+        "pagina": 7,
+        "elementos_imagen": 8,
+        "archivo": "imagenes/pagina-07.png",
+        "sha256": "e7ef1784570e8ba77ce83c8d5ff77789855d22d1333ea3b060f0d700ccde5b6c"
+      },
+      {
+        "pagina": 8,
+        "elementos_imagen": 1,
+        "archivo": "imagenes/pagina-08.png",
+        "sha256": "97203fbce98d95f71636831286486fde378541b1d605f3f3a85373911951528a"
+      },
+      {
+        "pagina": 10,
+        "elementos_imagen": 6,
+        "archivo": "imagenes/pagina-10.png",
+        "sha256": "1201ffb86cc99f8c7cf54988e4ba3697f56daa4d4bc034619f0365aff30a012b"
+      },
+      {
+        "pagina": 11,
+        "elementos_imagen": 4,
+        "archivo": "imagenes/pagina-11.png",
+        "sha256": "3c3c26a5de41a56b3ed94d37acc9f0232fc3d6e01cc3660457ec91c7463df766"
+      },
+      {
+        "pagina": 12,
+        "elementos_imagen": 8,
+        "archivo": "imagenes/pagina-12.png",
+        "sha256": "9737bdc054d91b79a82be822449ced49c434b6cac581475d5165b46c84f889a2"
+      },
+      {
+        "pagina": 13,
+        "elementos_imagen": 3,
+        "archivo": "imagenes/pagina-13.png",
+        "sha256": "e49617817a6c9a6dc48c72480dd7cded010eb68495a737b3ac55e4973cd061b5"
+      },
+      {
+        "pagina": 14,
+        "elementos_imagen": 1,
+        "archivo": "imagenes/pagina-14.png",
+        "sha256": "ee93020b573d90d57468af7a2c7fccd85c9cd859e4c175a419ac2899657de315"
+      }
+    ]
+  },
+  "recuperacion_matematica": {
+    "fecha": "2026-09-10T13:11:42.687761+00:00",
+    "estado": "46 expresiones gráficas restituidas en texto por página; cotejo general pendiente",
+    "expresiones": [
+      {
+        "pagina": 3,
+        "elemento": 1,
+        "latex": "P_{i,t}=\\frac{\\left(\\frac{\\Delta PA_{i,t-3}+\\Delta PA_{i,t-2}+\\Delta PA_{i,t-1}}{3}\\right)n_{i,t}}{\\sum_i \\left(\\frac{\\Delta PA_{i,t-3}+\\Delta PA_{i,t-2}+\\Delta PA_{i,t-1}}{3}\\right)n_{i,t}}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 4,
+        "elemento": 1,
+        "latex": "F_{i,t}=F_{i,15}+\\Delta FFM_{15,t}(0.7C_{i,t}+0.3CP_{i,t})",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 4,
+        "elemento": 2,
+        "latex": "0.7C_{i,t}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 4,
+        "elemento": 3,
+        "latex": "0.3CP_{i,t}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 4,
+        "elemento": 4,
+        "latex": "CP_{i,t}=\\left(\\frac{TP_{i,t-1}\\times n_{i,t}}{\\Sigma TP_{i,t-1}\\times n_{i,t}}\\right)",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 5,
+        "elemento": 1,
+        "latex": "P_{i,t}=P_{i,15}+\\Delta FMP_{15,t}(0.4C1_{i,t}+0.4C2_{i,t}+0.1C3_{i,t}+0.1C4_{i,t})",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 5,
+        "elemento": 2,
+        "latex": "C1_{i,t}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 5,
+        "elemento": 3,
+        "latex": "C2_{i,t},C3_{i,t}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 5,
+        "elemento": 4,
+        "latex": "C4_{i,t}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 5,
+        "elemento": 5,
+        "latex": "C1_{i,t}=\\frac{\\left(\\frac{\\Delta CA_{i,t-3}+\\Delta CA_{i,t-2}+\\Delta CA_{i,t-1}}{3}\\right)n_{i,t}}{\\sum_i \\left(\\frac{\\Delta CA_{i,t-3}+\\Delta CA_{i,t-2}+\\Delta CA_{i,t-1}}{3}\\right)n_{i,t}}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 5,
+        "elemento": 6,
+        "latex": "C1_{i,t}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 6,
+        "elemento": 1,
+        "latex": "C2_{i,t}=\\frac{\\left(\\frac{\\Delta RP_{i,t-3}+\\Delta RP_{i,t-2}+\\Delta RP_{i,t-1}}{3}\\right)n_{i,t}}{\\sum_i \\left(\\frac{\\Delta RP_{i,t-3}+\\Delta RP_{i,t-2}+\\Delta RP_{i,t-1}}{3}\\right)n_{i,t}}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 6,
+        "elemento": 2,
+        "latex": "C2_{i,t}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 6,
+        "elemento": 3,
+        "latex": "C3_{i,t}=\\frac{\\left(\\frac{\\Delta IP_{i,t-3}+\\Delta IP_{i,t-2}+\\Delta IP_{i,t-1}}{3}\\right)n_{i,t}}{\\sum_i \\left(\\frac{\\Delta IP_{i,t-3}+\\Delta IP_{i,t-2}+\\Delta IP_{i,t-1}}{3}\\right)n_{i,t}}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 6,
+        "elemento": 4,
+        "latex": "C3_{i,t}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 7,
+        "elemento": 1,
+        "latex": "C4_{i,t}=\\frac{\\left(\\frac{PM_{i,t}}{\\sum_i(PC1_{i,t}+PC2_{i,t}+PC3_{i,t})}\\right)}{\\sum_i\\left(\\frac{PM_{i,t}}{\\sum_i(PC1_{i,t}+PC2_{i,t}+PC3_{i,t})}\\right)}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 7,
+        "elemento": 2,
+        "latex": "C4_{i,t}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 7,
+        "elemento": 3,
+        "latex": "PC1_{i,t}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 7,
+        "elemento": 4,
+        "latex": "i,t",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 7,
+        "elemento": 5,
+        "latex": "PC2_{i,t}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 7,
+        "elemento": 6,
+        "latex": "i,t",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 7,
+        "elemento": 7,
+        "latex": "PC3_{i,t}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 7,
+        "elemento": 8,
+        "latex": "i,t",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 8,
+        "elemento": 1,
+        "latex": "P_{i,t}=\\frac{\\frac{IP_{i,t-1}}{IP_{i,t-2}}}{\\sum\\frac{IP_{i,t-1}}{IP_{i,t-2}}}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 10,
+        "elemento": 1,
+        "latex": "CE_{i,t}=(0.4C1_{i,t}+0.4C2_{i,t}+0.1C3_{i,t}+0.1C4_{i,t})",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 10,
+        "elemento": 2,
+        "latex": "C1_{i,t}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 10,
+        "elemento": 3,
+        "latex": "C2_{i,t},C3_{i,t}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 10,
+        "elemento": 4,
+        "latex": "C4_{i,t}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 10,
+        "elemento": 5,
+        "latex": "C1_{i,t}=\\frac{\\left(\\frac{\\Delta CA_{i,t-3}+\\Delta CA_{i,t-2}+\\Delta CA_{i,t-1}}{3}\\right)n_{i,t}}{\\sum_i \\left(\\frac{\\Delta CA_{i,t-3}+\\Delta CA_{i,t-2}+\\Delta CA_{i,t-1}}{3}\\right)n_{i,t}}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 10,
+        "elemento": 6,
+        "latex": "C1_{i,t}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 11,
+        "elemento": 1,
+        "latex": "C2_{i,t}=\\frac{\\left(\\frac{\\Delta RP_{i,t-3}+\\Delta RP_{i,t-2}+\\Delta RP_{i,t-1}}{3}\\right)n_{i,t}}{\\sum_i \\left(\\frac{\\Delta RP_{i,t-3}+\\Delta RP_{i,t-2}+\\Delta RP_{i,t-1}}{3}\\right)n_{i,t}}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 11,
+        "elemento": 2,
+        "latex": "C2_{i,t}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 11,
+        "elemento": 3,
+        "latex": "C3_{i,t}=\\frac{\\left(\\frac{\\Delta IP_{i,t-3}+\\Delta IP_{i,t-2}+\\Delta IP_{i,t-1}}{3}\\right)n_{i,t}}{\\sum_i \\left(\\frac{\\Delta IP_{i,t-3}+\\Delta IP_{i,t-2}+\\Delta IP_{i,t-1}}{3}\\right)n_{i,t}}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 11,
+        "elemento": 4,
+        "latex": "C3_{i,t}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 12,
+        "elemento": 1,
+        "latex": "C4_{i,t}=\\frac{\\left(\\frac{PM_{i,t}}{\\sum_i(PC1_{i,t}+PC2_{i,t}+PC3_{i,t})}\\right)}{\\sum_i\\left(\\frac{PM_{i,t}}{\\sum_i(PC1_{i,t}+PC2_{i,t}+PC3_{i,t})}\\right)}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 12,
+        "elemento": 2,
+        "latex": "C4_{i,t}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 12,
+        "elemento": 3,
+        "latex": "i,t",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 12,
+        "elemento": 4,
+        "latex": "PC1_{i,t}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 12,
+        "elemento": 5,
+        "latex": "i,t",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 12,
+        "elemento": 6,
+        "latex": "PC2_{i,t}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 12,
+        "elemento": 7,
+        "latex": "i,t",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 12,
+        "elemento": 8,
+        "latex": "PC3_{i,t}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 13,
+        "elemento": 1,
+        "latex": "CE_{i,t}=(0.7C_{i,t}+0.3CP_{i,t})",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 13,
+        "elemento": 2,
+        "latex": "0.7C_{i,t}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 13,
+        "elemento": 3,
+        "latex": "0.3CP_{i,t}",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      },
+      {
+        "pagina": 14,
+        "elemento": 1,
+        "latex": "CP_{i,t}=\\left(\\frac{TP_{i,t-1}\\times n_{i,t}}{\\Sigma TP_{i,t-1}\\times n_{i,t}}\\right)",
+        "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+      }
+    ],
+    "metodo": "Transcripción LaTeX cotejada visualmente con 46 elementos del PDF y ecuaciones OMML embebidas en DOC; no se usa OCR para inferir operadores.",
+    "limite": "Suplementos al comienzo de cada página; el cuerpo extraído conserva los huecos. Se conserva literalmente la notación de sumas y símbolos del original sin interpretación algebraica."
+  },
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-10T14:11:19.874979+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "po_publicacion.edicion",
+        "motivo": "Dato no localizado en la mención impresa seleccionada."
+      },
+      {
+        "campo": "ultima_reforma.edicion",
+        "motivo": "Dato no localizado en la mención impresa seleccionada."
+      }
+    ],
+    "evidencia": {
+      "decreto_numero": {
+        "pagina": 1,
+        "texto": "\n\n                                           DECRETO NÚMERO 7"
+      },
+      "ultima_reforma": {
+        "pagina": 1,
+        "texto": "Última reforma publicada en el P.O. No. 069, del 06 de junio de 2025."
+      },
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "Publicado en el P.O. No. 7, del 15 de enero de 1990"
+      },
+      "reformas": {
+        "pagina_inicio": 38,
+        "encabezado": "DECRETOS QUE REFORMAN LA LEY DE COORDINACIÓN",
+        "filas": [
+          {
+            "fila": 0,
+            "texto": "Decreto No. 227, publicado en el Periódico Oficial No. 32, de fecha 15 de marzo de 1991."
+          },
+          {
+            "fila": 1,
+            "texto": "Decreto No. 650, publicado en el P.O. No. 113 del 19 de septiembre del 2001."
+          },
+          {
+            "fila": 2,
+            "texto": "Decreto No. 385, publicado en el P.O. No. 154 del 26 de diciembre de 2011, sexta sección."
+          },
+          {
+            "fila": 3,
+            "texto": "Decreto No. 853, publicado en el P.O. No. 075 del 21 de junio del 2013."
+          },
+          {
+            "fila": 4,
+            "texto": "Decreto No. 334, publicado en el P.O. No. 161, segunda sección del 22 de diciembre de 2017."
+          },
+          {
+            "fila": 5,
+            "texto": "Decreto No. 436 publicado en el P.O No. 156 BIS, quinta sección, de fecha 25 de diciembre de"
+          },
+          {
+            "fila": 6,
+            "texto": "2019. Decreto 375, publicado en el P.O. No. 009, del 20 de enero del 2023."
+          },
+          {
+            "fila": 7,
+            "texto": "Decreto No. 8, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 150, de fecha 11 de diciembre de 2024."
+          },
+          {
+            "fila": 8,
+            "texto": "Decreto No. 119, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 069, de fecha 06 de junio de 2025)"
+          }
+        ]
+      },
+      "abroga": [
+        {
+          "pagina": 36,
+          "texto": "Se abroga la Ley Orgánica de la Procuraduría Fiscal del Estado de Sinaloa, publicada en el Periódico Oficial \"El Estado de Sinaloa\", número 99, de fecha 18 de agosto de 1993, Segunda Sección."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,5052 @@
+{
+  "id": 83,
+  "fecha_revision": "2026-09-15T10:48:57.359259+00:00",
+  "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 185,
+  "paginas_sin_texto": [],
+  "pagina_blanca_confirmada_visualmente": false,
+  "texto_conservado": true,
+  "comparacion_word_pdf": {
+    "palabras_comparadas": 60845,
+    "palabras_pdf": 63627,
+    "frecuencias_coinciden": false,
+    "orden_coincide_separando_nota_al_pie": false,
+    "nota_al_pie_reubicada_por_lector_word": null,
+    "normalizaciones_solo_comparacion": [
+      "Misma función lexical_tokens de Sinaloa; no modifica los originales ni el Markdown."
+    ],
+    "limite": "Campos Word y encabezados permanecen en el control; las diferencias se reportan sin reparación.",
+    "solo_word": {
+      "segundode": 2,
+      "idel": 2,
+      "tendrá": 1,
+      "vde": 3,
+      "tercerode": 2,
+      "ide": 5,
+      "iidel": 4,
+      "podrá": 1,
+      "cuartode": 2,
+      "iide": 6,
+      "iiide": 6,
+      "ivdel": 2,
+      "vdel": 3,
+      "viiidel": 1,
+      "mantendrá": 1,
+      "ivde": 5,
+      "iiidel": 2,
+      "viiide": 2,
+      "ixde": 1,
+      "ivderogado": 1,
+      "vide": 2,
+      "viide": 2,
+      "xde": 1,
+      "xide": 1,
+      "juárez": 1
+    },
+    "solo_pdf": {
+      "ley": 185,
+      "de": 595,
+      "movilidad": 185,
+      "del": 384,
+      "estado": 370,
+      "nayarit": 370,
+      "poder": 185,
+      "legislativo": 185,
+      "secretaría": 185,
+      "general": 185,
+      "segundo": 2,
+      "tercero": 2,
+      "cuarto": 2,
+      "mantendra": 1,
+      "podra": 1,
+      "derogado": 1,
+      "jua": 1,
+      "rez": 1,
+      "tendra": 1
+    }
+  },
+  "articulos_word": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "5bis",
+    "6",
+    "6bis",
+    "7",
+    "7bis",
+    "7ter",
+    "8",
+    "9",
+    "10",
+    "10bis",
+    "11",
+    "12",
+    "13",
+    "13bis",
+    "13ter",
+    "14",
+    "14bis",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "20bis",
+    "21",
+    "22",
+    "22bis",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "41bis",
+    "41ter",
+    "41quáter",
+    "41",
+    "41",
+    "42",
+    "42bis",
+    "43",
+    "44",
+    "45",
+    "45bis",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "54bis",
+    "54ter",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "78bis",
+    "79",
+    "79bis",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "85bis",
+    "86",
+    "87",
+    "88",
+    "89",
+    "89bis",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98",
+    "99",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118",
+    "119",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124",
+    "125",
+    "126",
+    "127",
+    "128",
+    "129",
+    "130",
+    "131",
+    "132",
+    "133",
+    "134",
+    "135",
+    "136",
+    "137",
+    "138",
+    "138bis",
+    "139",
+    "140",
+    "141",
+    "142",
+    "143",
+    "144",
+    "145",
+    "146",
+    "147",
+    "148",
+    "149",
+    "150",
+    "151",
+    "152",
+    "153",
+    "154",
+    "155",
+    "156",
+    "157",
+    "158",
+    "158bis",
+    "159",
+    "160",
+    "161",
+    "162",
+    "163",
+    "164",
+    "165",
+    "166",
+    "167",
+    "168",
+    "169",
+    "170",
+    "171",
+    "172",
+    "173",
+    "174",
+    "175",
+    "176",
+    "177",
+    "178",
+    "179",
+    "180",
+    "181",
+    "182",
+    "183",
+    "184",
+    "185",
+    "186",
+    "187",
+    "188",
+    "189",
+    "190",
+    "191",
+    "192",
+    "193",
+    "194",
+    "195",
+    "196",
+    "197",
+    "198",
+    "199",
+    "200",
+    "201",
+    "202",
+    "203",
+    "204",
+    "205",
+    "206",
+    "207",
+    "208",
+    "209",
+    "210",
+    "211",
+    "212",
+    "213",
+    "214",
+    "215",
+    "216",
+    "217",
+    "218",
+    "219",
+    "220",
+    "221",
+    "222",
+    "223",
+    "224",
+    "225",
+    "226",
+    "227",
+    "228",
+    "229",
+    "230",
+    "231",
+    "232",
+    "233",
+    "234",
+    "235",
+    "236",
+    "237",
+    "238",
+    "239",
+    "240",
+    "241",
+    "242",
+    "243",
+    "244",
+    "245",
+    "246",
+    "247",
+    "248",
+    "249",
+    "250",
+    "251",
+    "252",
+    "253",
+    "254",
+    "255",
+    "256",
+    "257",
+    "258",
+    "259",
+    "260",
+    "261",
+    "262",
+    "263",
+    "264",
+    "265",
+    "266",
+    "267",
+    "268",
+    "269",
+    "270",
+    "271",
+    "272",
+    "273",
+    "274",
+    "275",
+    "276",
+    "277",
+    "278",
+    "279",
+    "280",
+    "281",
+    "282",
+    "283",
+    "284",
+    "285",
+    "286",
+    "287",
+    "288",
+    "289",
+    "290",
+    "291",
+    "292",
+    "293",
+    "294",
+    "295",
+    "296",
+    "297",
+    "298",
+    "299",
+    "300",
+    "301",
+    "302",
+    "303",
+    "304",
+    "305",
+    "306",
+    "307",
+    "308",
+    "309",
+    "310",
+    "311",
+    "312",
+    "313",
+    "314",
+    "315",
+    "316",
+    "317",
+    "318",
+    "319",
+    "320",
+    "321",
+    "322",
+    "323",
+    "324",
+    "325",
+    "326",
+    "327",
+    "328",
+    "329",
+    "330",
+    "331",
+    "332",
+    "333",
+    "334",
+    "335",
+    "336",
+    "337",
+    "338",
+    "339",
+    "340",
+    "341",
+    "342",
+    "343",
+    "344",
+    "345",
+    "346",
+    "347",
+    "348",
+    "349",
+    "350",
+    "351",
+    "352",
+    "353",
+    "354",
+    "355",
+    "356",
+    "357",
+    "358",
+    "359",
+    "360",
+    "361",
+    "362",
+    "363",
+    "364",
+    "365",
+    "366",
+    "367",
+    "368",
+    "369",
+    "370",
+    "371",
+    "372",
+    "373",
+    "374",
+    "375",
+    "376",
+    "377",
+    "378",
+    "379",
+    "380",
+    "381",
+    "382",
+    "383",
+    "384",
+    "385",
+    "386",
+    "387",
+    "388",
+    "389",
+    "390",
+    "391",
+    "392",
+    "393",
+    "394",
+    "395",
+    "396",
+    "397",
+    "398",
+    "399",
+    "400",
+    "401",
+    "402",
+    "403",
+    "404",
+    "405",
+    "406",
+    "407",
+    "408",
+    "409",
+    "410",
+    "411",
+    "412",
+    "413",
+    "414",
+    "415",
+    "416",
+    "417",
+    "418",
+    "419",
+    "420",
+    "421",
+    "422",
+    "423",
+    "424",
+    "425",
+    "426",
+    "427",
+    "428",
+    "429",
+    "430",
+    "431",
+    "432",
+    "433",
+    "434",
+    "435",
+    "436",
+    "437",
+    "438",
+    "439",
+    "440",
+    "441",
+    "442"
+  ],
+  "articulos_pdf": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "5bis",
+    "6",
+    "6bis",
+    "7",
+    "7bis",
+    "7ter",
+    "8",
+    "9",
+    "10",
+    "10bis",
+    "11",
+    "12",
+    "13",
+    "13bis",
+    "13ter",
+    "14",
+    "14bis",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "20bis",
+    "21",
+    "22",
+    "22bis",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "41bis",
+    "41ter",
+    "41quáter",
+    "41",
+    "41",
+    "42",
+    "42bis",
+    "43",
+    "44",
+    "45",
+    "45bis",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "54bis",
+    "54ter",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "78bis",
+    "79",
+    "79bis",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "85bis",
+    "86",
+    "87",
+    "88",
+    "89",
+    "89bis",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98",
+    "99",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118",
+    "119",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124",
+    "125",
+    "126",
+    "127",
+    "128",
+    "129",
+    "130",
+    "131",
+    "132",
+    "133",
+    "134",
+    "135",
+    "136",
+    "137",
+    "138",
+    "138bis",
+    "139",
+    "140",
+    "141",
+    "142",
+    "143",
+    "144",
+    "145",
+    "146",
+    "147",
+    "148",
+    "149",
+    "150",
+    "151",
+    "152",
+    "153",
+    "154",
+    "155",
+    "156",
+    "157",
+    "158",
+    "158bis",
+    "159",
+    "160",
+    "161",
+    "162",
+    "163",
+    "164",
+    "165",
+    "166",
+    "167",
+    "168",
+    "169",
+    "170",
+    "171",
+    "172",
+    "173",
+    "174",
+    "175",
+    "176",
+    "177",
+    "178",
+    "179",
+    "180",
+    "181",
+    "182",
+    "183",
+    "184",
+    "185",
+    "186",
+    "187",
+    "188",
+    "189",
+    "190",
+    "191",
+    "192",
+    "193",
+    "194",
+    "195",
+    "196",
+    "197",
+    "198",
+    "199",
+    "200",
+    "201",
+    "202",
+    "203",
+    "204",
+    "205",
+    "206",
+    "207",
+    "208",
+    "209",
+    "210",
+    "211",
+    "212",
+    "213",
+    "214",
+    "215",
+    "216",
+    "217",
+    "218",
+    "219",
+    "220",
+    "221",
+    "222",
+    "223",
+    "224",
+    "225",
+    "226",
+    "227",
+    "228",
+    "229",
+    "230",
+    "231",
+    "232",
+    "233",
+    "234",
+    "235",
+    "236",
+    "237",
+    "238",
+    "239",
+    "240",
+    "241",
+    "242",
+    "243",
+    "244",
+    "245",
+    "246",
+    "247",
+    "248",
+    "249",
+    "250",
+    "251",
+    "252",
+    "253",
+    "254",
+    "255",
+    "256",
+    "257",
+    "258",
+    "259",
+    "260",
+    "261",
+    "262",
+    "263",
+    "264",
+    "265",
+    "266",
+    "267",
+    "268",
+    "269",
+    "270",
+    "271",
+    "272",
+    "273",
+    "274",
+    "275",
+    "276",
+    "277",
+    "278",
+    "279",
+    "280",
+    "281",
+    "282",
+    "283",
+    "284",
+    "285",
+    "286",
+    "287",
+    "288",
+    "289",
+    "290",
+    "291",
+    "292",
+    "293",
+    "294",
+    "295",
+    "296",
+    "297",
+    "298",
+    "299",
+    "300",
+    "301",
+    "302",
+    "303",
+    "304",
+    "305",
+    "306",
+    "307",
+    "308",
+    "309",
+    "310",
+    "311",
+    "312",
+    "313",
+    "314",
+    "315",
+    "316",
+    "317",
+    "318",
+    "319",
+    "320",
+    "321",
+    "322",
+    "323",
+    "324",
+    "325",
+    "326",
+    "327",
+    "328",
+    "329",
+    "330",
+    "331",
+    "332",
+    "333",
+    "334",
+    "335",
+    "336",
+    "337",
+    "338",
+    "339",
+    "340",
+    "341",
+    "342",
+    "343",
+    "344",
+    "345",
+    "346",
+    "347",
+    "348",
+    "349",
+    "350",
+    "351",
+    "352",
+    "353",
+    "354",
+    "355",
+    "356",
+    "357",
+    "358",
+    "359",
+    "360",
+    "361",
+    "362",
+    "363",
+    "364",
+    "365",
+    "366",
+    "367",
+    "368",
+    "369",
+    "370",
+    "371",
+    "372",
+    "373",
+    "374",
+    "375",
+    "376",
+    "377",
+    "378",
+    "379",
+    "380",
+    "381",
+    "382",
+    "383",
+    "384",
+    "385",
+    "386",
+    "387",
+    "388",
+    "389",
+    "390",
+    "391",
+    "392",
+    "393",
+    "394",
+    "395",
+    "396",
+    "397",
+    "398",
+    "399",
+    "400",
+    "401",
+    "402",
+    "403",
+    "404",
+    "405",
+    "406",
+    "407",
+    "408",
+    "409",
+    "410",
+    "411",
+    "412",
+    "413",
+    "414",
+    "415",
+    "416",
+    "417",
+    "418",
+    "419",
+    "420",
+    "421",
+    "422",
+    "423",
+    "424",
+    "425",
+    "426",
+    "427",
+    "428",
+    "429",
+    "430",
+    "431",
+    "432",
+    "433",
+    "434",
+    "435",
+    "436",
+    "437",
+    "438",
+    "439",
+    "440",
+    "441",
+    "442"
+  ],
+  "identificadores_articulos_coinciden": true,
+  "encabezados_transitorios": [
+    {
+      "pagina": 174,
+      "encabezado": "TRANSITORIOS"
+    }
+  ],
+  "encabezados_ordinales_en_seccion_transitoria": [
+    "PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el",
+    "SEGUNDO. La Ley de Movilidad para el Estado de Nayarit, deberá publicarse en el",
+    "TERCERO. Se abroga la Ley de Tránsito y Transporte del Estado de Nayarit, con numero",
+    "CUARTO. Se derogan todas aquellas disposiciones que se opongan al presente",
+    "QUINTO. El Ejecutivo del Estado deberá expedir el Reglamento de la Ley de Movilidad",
+    "SEXTO. Los ayuntamientos deberán expedir o adecuar los reglamentos municipales que",
+    "SÉPTIMO. El Reglamento Interior de la Secretaría de Movilidad del Estado de Nayarit y",
+    "OCTAVO. Las obligaciones y compromisos adquiridos por la Dirección General de",
+    "NOVENO. Cualquier referencia en leyes, decretos, contratos, convenios y demás",
+    "DÉCIMO. La Secretaría General de Gobierno se coordinará con la Secretaría de",
+    "DÉCIMO PRIMERO. Las Secretarías de Administración Finanzas y de Contraloría",
+    "DÉCIMO SEGUNDO. Las concesiones, permisos y autorizaciones, otorgadas con apego",
+    "DÉCIMO TERCERO. Los trámites y procedimientos administrativos, los de aplicación de",
+    "DÉCIMO CUARTO. A efecto de actualizar el Registro Estatal de Concesiones y",
+    "DÉCIMO QUINTO. A partir de la publicación de la presente Ley, se deberá incluir en la",
+    "DÉCIMO SEXTO. En un término de trecientos sesenta y cinco días contados días a partir",
+    "DÉCIMO SÉPTIMO. Posterior a la culminación del Programa Integral de Movilidad",
+    "DÉCIMO OCTAVO. Dentro de los primeros cinco años contados a partir de la entrada en",
+    "DÉCIMO NOVENO. La Secretaría y los concesionarios del servicio crearán un",
+    "ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el",
+    "PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el",
+    "SEGUNDO. Los Ayuntamientos deberán armonizar sus respectivos reglamentos en",
+    "TERCERO. Durante el periodo de 90 días naturales posteriores a la entrada en vigor del",
+    "PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el",
+    "SEGUNDO. En un plazo no mayor a 90 días hábiles posteriores a la entrada en vigor del",
+    "ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el",
+    "PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el",
+    "SEGUNDO. Comuníquese el Decreto a los Ayuntamientos de la Entidad, para los efectos",
+    "TERCERO. Comuníquese el presente Decreto al Sistema para el Desarrollo Integral de",
+    "CUARTO. El presente Decreto, deberá publicarse en lenguaje accesible y comprensible,",
+    "PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico",
+    "SEGUNDO. Notifíquese el presente Decreto para sus efectos conducentes, a las",
+    "PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el",
+    "SEGUNDO.- En un plazo no mayor a 360 días hábiles, el Honorable Congreso del Estado",
+    "TERCERO.- En un plazo no mayor a 360 días hábiles, deberán armonizarse los",
+    "CUARTO.- De manera paulatina y en atención a la disponibilidad presupuestaria, deberá",
+    "QUINTO.- Se derogan las disposiciones contrarias al presente Decreto.",
+    "ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el",
+    "Primero. - El presente Decreto entrará en vigor al día siguiente de su publicación en el",
+    "Segundo. - Se derogan todas aquellas disposiciones que se opongan al contenido del",
+    "Tercero. - Los asuntos y procedimientos que se encuentren en trámite ante la Secretaría",
+    "Cuarto. - El Ejecutivo del Estado deberá realizar las adecuaciones pertinentes al"
+  ],
+  "articulos_numericos_en_seccion_transitoria": [],
+  "transitorios_y_notas_completos_incluidos": true,
+  "paginas_cotejadas_visualmente": [],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 1514,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "1"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 2119,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "2"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 2102,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "3"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 2022,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "4"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 2136,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "5"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 1961,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "6"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 2109,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 13,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "7"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 1823,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "8"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 1759,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "9"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 2313,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "10"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 11,
+      "caracteres_no_blancos": 2074,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "11"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 12,
+      "caracteres_no_blancos": 2230,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 8,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "12"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 13,
+      "caracteres_no_blancos": 2070,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "13"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 14,
+      "caracteres_no_blancos": 2048,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "14"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 15,
+      "caracteres_no_blancos": 2157,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "15"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 16,
+      "caracteres_no_blancos": 2284,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "16"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 17,
+      "caracteres_no_blancos": 1807,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "17"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 18,
+      "caracteres_no_blancos": 2305,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "18"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 19,
+      "caracteres_no_blancos": 1902,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "19"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 20,
+      "caracteres_no_blancos": 1753,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "20"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 21,
+      "caracteres_no_blancos": 1915,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "21"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 22,
+      "caracteres_no_blancos": 2057,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "22"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 23,
+      "caracteres_no_blancos": 2123,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "23"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 24,
+      "caracteres_no_blancos": 2019,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "24"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 25,
+      "caracteres_no_blancos": 2094,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "25"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 26,
+      "caracteres_no_blancos": 1965,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "26"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 27,
+      "caracteres_no_blancos": 1901,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "27"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 28,
+      "caracteres_no_blancos": 1991,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "28"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 29,
+      "caracteres_no_blancos": 1894,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "29"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 30,
+      "caracteres_no_blancos": 2167,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "30"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 31,
+      "caracteres_no_blancos": 2119,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "31"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 32,
+      "caracteres_no_blancos": 2278,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "32"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 33,
+      "caracteres_no_blancos": 1971,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "33"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 34,
+      "caracteres_no_blancos": 1919,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "34"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 35,
+      "caracteres_no_blancos": 2205,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "35"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 36,
+      "caracteres_no_blancos": 2038,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "36"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 37,
+      "caracteres_no_blancos": 2220,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "37"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 38,
+      "caracteres_no_blancos": 1667,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 13,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "38"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 39,
+      "caracteres_no_blancos": 2017,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "39"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 40,
+      "caracteres_no_blancos": 1875,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "40"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 41,
+      "caracteres_no_blancos": 1798,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "41"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 42,
+      "caracteres_no_blancos": 1726,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [
+        {
+          "linea": 51,
+          "texto": "42"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 43,
+      "caracteres_no_blancos": 2200,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 47,
+          "texto": "43"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 44,
+      "caracteres_no_blancos": 2094,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [
+        {
+          "linea": 51,
+          "texto": "44"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 45,
+      "caracteres_no_blancos": 2227,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 49,
+          "texto": "45"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 46,
+      "caracteres_no_blancos": 2118,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "46"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 47,
+      "caracteres_no_blancos": 1996,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "47"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 48,
+      "caracteres_no_blancos": 2043,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "48"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 49,
+      "caracteres_no_blancos": 1685,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "49"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 50,
+      "caracteres_no_blancos": 1751,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 17,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "50"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 51,
+      "caracteres_no_blancos": 1811,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "51"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 52,
+      "caracteres_no_blancos": 2309,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "52"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 53,
+      "caracteres_no_blancos": 1743,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [
+        {
+          "linea": 50,
+          "texto": "53"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 54,
+      "caracteres_no_blancos": 1774,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "54"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 55,
+      "caracteres_no_blancos": 2044,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "55"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 56,
+      "caracteres_no_blancos": 2012,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "56"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 57,
+      "caracteres_no_blancos": 1700,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "57"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 58,
+      "caracteres_no_blancos": 1861,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "58"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 59,
+      "caracteres_no_blancos": 1770,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "59"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 60,
+      "caracteres_no_blancos": 2126,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "60"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 61,
+      "caracteres_no_blancos": 2101,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "61"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 62,
+      "caracteres_no_blancos": 2276,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "62"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 63,
+      "caracteres_no_blancos": 2392,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [
+        {
+          "linea": 49,
+          "texto": "63"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 64,
+      "caracteres_no_blancos": 2493,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "64"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 65,
+      "caracteres_no_blancos": 2118,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "65"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 66,
+      "caracteres_no_blancos": 2374,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "66"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 67,
+      "caracteres_no_blancos": 1910,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "67"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 68,
+      "caracteres_no_blancos": 2306,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "68"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 69,
+      "caracteres_no_blancos": 1985,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "69"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 70,
+      "caracteres_no_blancos": 2362,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "70"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 71,
+      "caracteres_no_blancos": 2090,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "71"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 72,
+      "caracteres_no_blancos": 2402,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "72"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 73,
+      "caracteres_no_blancos": 2067,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "73"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 74,
+      "caracteres_no_blancos": 1904,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "74"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 75,
+      "caracteres_no_blancos": 1982,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "75"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 76,
+      "caracteres_no_blancos": 1969,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "76"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 77,
+      "caracteres_no_blancos": 1676,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "77"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 78,
+      "caracteres_no_blancos": 2093,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "78"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 79,
+      "caracteres_no_blancos": 1568,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 18,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "79"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 80,
+      "caracteres_no_blancos": 2371,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "80"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 81,
+      "caracteres_no_blancos": 1940,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "81"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 82,
+      "caracteres_no_blancos": 1192,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 22,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "82"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 83,
+      "caracteres_no_blancos": 2120,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "83"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 84,
+      "caracteres_no_blancos": 1553,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "84"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 85,
+      "caracteres_no_blancos": 1865,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "85"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 86,
+      "caracteres_no_blancos": 1883,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "86"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 87,
+      "caracteres_no_blancos": 1334,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 13,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "87"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 88,
+      "caracteres_no_blancos": 1758,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "88"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 89,
+      "caracteres_no_blancos": 2155,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "89"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 90,
+      "caracteres_no_blancos": 2162,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "90"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 91,
+      "caracteres_no_blancos": 2194,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "91"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 92,
+      "caracteres_no_blancos": 1454,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "92"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 93,
+      "caracteres_no_blancos": 2026,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "93"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 94,
+      "caracteres_no_blancos": 1634,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "94"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 95,
+      "caracteres_no_blancos": 1734,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 13,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "95"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 96,
+      "caracteres_no_blancos": 1785,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "96"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 97,
+      "caracteres_no_blancos": 1826,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "97"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 98,
+      "caracteres_no_blancos": 1650,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "98"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 99,
+      "caracteres_no_blancos": 2124,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "99"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 100,
+      "caracteres_no_blancos": 2424,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "100"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 101,
+      "caracteres_no_blancos": 2195,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "101"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 102,
+      "caracteres_no_blancos": 2006,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "102"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 103,
+      "caracteres_no_blancos": 1805,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "103"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 104,
+      "caracteres_no_blancos": 2352,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "104"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 105,
+      "caracteres_no_blancos": 2058,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "105"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 106,
+      "caracteres_no_blancos": 2070,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "106"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 107,
+      "caracteres_no_blancos": 2052,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "107"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 108,
+      "caracteres_no_blancos": 1936,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "108"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 109,
+      "caracteres_no_blancos": 2227,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "109"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 110,
+      "caracteres_no_blancos": 2140,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "110"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 111,
+      "caracteres_no_blancos": 1975,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 48,
+          "texto": "111"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 112,
+      "caracteres_no_blancos": 1890,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "112"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 113,
+      "caracteres_no_blancos": 1712,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "113"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 114,
+      "caracteres_no_blancos": 1896,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "114"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 115,
+      "caracteres_no_blancos": 1141,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 19,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "115"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 116,
+      "caracteres_no_blancos": 1912,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "116"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 117,
+      "caracteres_no_blancos": 1901,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "117"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 118,
+      "caracteres_no_blancos": 1861,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "118"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 119,
+      "caracteres_no_blancos": 2051,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "119"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 120,
+      "caracteres_no_blancos": 1890,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "120"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 121,
+      "caracteres_no_blancos": 2245,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "121"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 122,
+      "caracteres_no_blancos": 2126,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "122"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 123,
+      "caracteres_no_blancos": 2402,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "123"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 124,
+      "caracteres_no_blancos": 2371,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "124"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 125,
+      "caracteres_no_blancos": 2351,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "125"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 126,
+      "caracteres_no_blancos": 2231,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "126"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 127,
+      "caracteres_no_blancos": 1611,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "127"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 128,
+      "caracteres_no_blancos": 1836,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "128"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 129,
+      "caracteres_no_blancos": 1668,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "129"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 130,
+      "caracteres_no_blancos": 1369,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 22,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "130"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 131,
+      "caracteres_no_blancos": 2057,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "131"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 132,
+      "caracteres_no_blancos": 1970,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "132"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 133,
+      "caracteres_no_blancos": 2281,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "133"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 134,
+      "caracteres_no_blancos": 1944,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "134"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 135,
+      "caracteres_no_blancos": 1795,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "135"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 136,
+      "caracteres_no_blancos": 2127,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "136"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 137,
+      "caracteres_no_blancos": 2182,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "137"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 138,
+      "caracteres_no_blancos": 1954,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "138"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 139,
+      "caracteres_no_blancos": 2049,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "139"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 140,
+      "caracteres_no_blancos": 2072,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "140"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 141,
+      "caracteres_no_blancos": 2205,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "141"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 142,
+      "caracteres_no_blancos": 2206,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "142"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 143,
+      "caracteres_no_blancos": 1919,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "143"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 144,
+      "caracteres_no_blancos": 2016,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "144"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 145,
+      "caracteres_no_blancos": 2019,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "145"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 146,
+      "caracteres_no_blancos": 1632,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "146"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 147,
+      "caracteres_no_blancos": 2054,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "147"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 148,
+      "caracteres_no_blancos": 1856,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 15,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "148"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 149,
+      "caracteres_no_blancos": 1840,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "149"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 150,
+      "caracteres_no_blancos": 1964,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "150"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 151,
+      "caracteres_no_blancos": 2008,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "151"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 152,
+      "caracteres_no_blancos": 1961,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "152"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 153,
+      "caracteres_no_blancos": 2273,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "153"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 154,
+      "caracteres_no_blancos": 2246,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "154"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 155,
+      "caracteres_no_blancos": 2023,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "155"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 156,
+      "caracteres_no_blancos": 1707,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "156"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 157,
+      "caracteres_no_blancos": 1979,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "157"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 158,
+      "caracteres_no_blancos": 1706,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "158"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 159,
+      "caracteres_no_blancos": 1746,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "159"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 160,
+      "caracteres_no_blancos": 1601,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "160"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 161,
+      "caracteres_no_blancos": 1844,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "161"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 162,
+      "caracteres_no_blancos": 2128,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "162"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 163,
+      "caracteres_no_blancos": 2516,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "163"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 164,
+      "caracteres_no_blancos": 1382,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 15,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "164"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 165,
+      "caracteres_no_blancos": 1562,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "165"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 166,
+      "caracteres_no_blancos": 1844,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "166"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 167,
+      "caracteres_no_blancos": 2057,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "167"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 168,
+      "caracteres_no_blancos": 1907,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 36,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "168"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 169,
+      "caracteres_no_blancos": 2032,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 24,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "169"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 170,
+      "caracteres_no_blancos": 2274,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 19,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "170"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 171,
+      "caracteres_no_blancos": 2248,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "171"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 172,
+      "caracteres_no_blancos": 1963,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "172"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 173,
+      "caracteres_no_blancos": 1725,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "173"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 174,
+      "caracteres_no_blancos": 1965,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "174"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 175,
+      "caracteres_no_blancos": 2337,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "175"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 176,
+      "caracteres_no_blancos": 2303,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [
+        {
+          "linea": 52,
+          "texto": "176"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 177,
+      "caracteres_no_blancos": 2298,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "177"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 178,
+      "caracteres_no_blancos": 2052,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "178"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 179,
+      "caracteres_no_blancos": 1879,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [
+        {
+          "linea": 50,
+          "texto": "179"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 180,
+      "caracteres_no_blancos": 1899,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 45,
+          "texto": "180"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 181,
+      "caracteres_no_blancos": 382,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 16,
+          "texto": "181"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 182,
+      "caracteres_no_blancos": 3410,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 41,
+          "texto": "182"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 183,
+      "caracteres_no_blancos": 3591,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 41,
+          "texto": "183"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 184,
+      "caracteres_no_blancos": 3804,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 41,
+          "texto": "184"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 185,
+      "caracteres_no_blancos": 1969,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 30,
+          "texto": "185"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    }
+  ],
+  "alcance": "Controles de conservación en todas las páginas; comparación de cifras con Poppler y pypdf. El cotejo visual se registra por separado. No certifica vigencia jurídica.",
+  "incidencias_resueltas": [],
+  "diferencias_de_fuente": [
+    "La comparación léxica Word/PDF no coincide: encabezados repetidos, campos Word y otras diferencias pendientes de cotejo. No equivale a pérdida del Markdown.",
+    "Hay discrepancias en la secuencia de cifras entre los dos lectores PDF; requieren cotejo, no se reparan."
+  ],
+  "formato_word_original": "docx",
+  "ocr_ejecutado": false,
+  "incidencias_descarga": [],
+  "promociones_encabezado_evitadas": [
+    {
+      "linea": 10,
+      "texto": "Artículo 41 Quinquies. En el orden municipal, podrán conformarse Observatorios",
+      "anterior": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+      "siguiente": "Ciudadanos en materia de Movilidad y Seguridad Vial. Los Ayuntamientos establecerán",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 44
+    },
+    {
+      "linea": 17,
+      "texto": "Artículo 41 Sexies. Las autoridades estatales y municipales deberán proporcionar a los",
+      "anterior": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+      "siguiente": "Observatorios Ciudadanos de Movilidad la información sobre el proceso de",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 44
+    }
+  ],
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-15T10:48:57.359259+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "decreto_numero",
+        "motivo": "Dato no impreso de forma identificable; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.numero",
+        "motivo": "Dato no impreso de forma identificable; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.edicion",
+        "motivo": "Dato no impreso de forma identificable; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "ultima_reforma.numero",
+        "motivo": "Dato no impreso de forma identificable; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "ultima_reforma.edicion",
+        "motivo": "Dato no impreso de forma identificable; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "reformas[].po_numero",
+        "motivo": "Dato ausente o no normalizable sin corregir la nota impresa; queda null y se conserva evidencia literal.",
+        "indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154
+        ]
+      },
+      {
+        "campo": "reformas[].decreto",
+        "motivo": "Dato ausente o no normalizable sin corregir la nota impresa; queda null y se conserva evidencia literal.",
+        "indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154
+        ]
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Cláusulas expresas capturadas para cotejo; no se infieren nombres ni fechas faltantes. Revisar evidencia impresa."
+      },
+      {
+        "campo": "abroga[].nombre",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          1
+        ]
+      },
+      {
+        "campo": "abroga[].po_numero",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0,
+          1
+        ]
+      },
+      {
+        "campo": "abroga[].fecha",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          1
+        ]
+      },
+      {
+        "campo": "abroga[].decreto",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          1
+        ]
+      }
+    ],
+    "evidencia": {
+      "abroga": [
+        {
+          "pagina": 174,
+          "texto": "TERCERO. Se abroga la Ley de Tránsito y Transporte del Estado de Nayarit, con numero de decreto 8066 publicada en el Periódico Oficial, Órgano del Gobierno del Estado del Nayarit con fecha 17 de diciembre de 1997."
+        },
+        {
+          "pagina": 175,
+          "texto": "DÉCIMO SEGUNDO. Las concesiones, permisos y autorizaciones, otorgadas con apego a la Ley que se abroga, conservarán su vigencia, debiendo regirse en lo sucesivo y sin perjuicio de los derechos adquiridos, por las disposiciones de la presente Ley y su reglamentación."
+        }
+      ],
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el martes 7 de enero de 2020."
+      },
+      "ultima_reforma": {
+        "pagina": 1,
+        "texto": "ÚLTIMA ENMIENDA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2026"
+      },
+      "reformas": {
+        "pagina_inicio": 1,
+        "encabezado": null,
+        "filas": [
+          {
+            "fila": 0,
+            "texto": "(REFORMADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 1
+          },
+          {
+            "fila": 1,
+            "texto": "(REFORMADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 3
+          },
+          {
+            "fila": 2,
+            "texto": "(ADICIONADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 3
+          },
+          {
+            "fila": 3,
+            "texto": "(ADICIONADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 4
+          },
+          {
+            "fila": 4,
+            "texto": "(REFORMADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 4
+          },
+          {
+            "fila": 5,
+            "texto": "(ADICIONADA, P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 5
+          },
+          {
+            "fila": 6,
+            "texto": "(ADICIONADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 5
+          },
+          {
+            "fila": 7,
+            "texto": "(REFORMADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 6
+          },
+          {
+            "fila": 8,
+            "texto": "(REFORMADA, P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 6
+          },
+          {
+            "fila": 9,
+            "texto": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 8
+          },
+          {
+            "fila": 10,
+            "texto": "(REFORMADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 8
+          },
+          {
+            "fila": 11,
+            "texto": "(REFORMADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 9
+          },
+          {
+            "fila": 12,
+            "texto": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 10
+          },
+          {
+            "fila": 13,
+            "texto": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 13
+          },
+          {
+            "fila": 14,
+            "texto": "(REFORMADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 13
+          },
+          {
+            "fila": 15,
+            "texto": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 14
+          },
+          {
+            "fila": 16,
+            "texto": "(REFORMADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 14
+          },
+          {
+            "fila": 17,
+            "texto": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 17
+          },
+          {
+            "fila": 18,
+            "texto": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 18
+          },
+          {
+            "fila": 19,
+            "texto": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 19
+          },
+          {
+            "fila": 20,
+            "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 19
+          },
+          {
+            "fila": 21,
+            "texto": "(REFORMADA, P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 19
+          },
+          {
+            "fila": 22,
+            "texto": "(REFORMADO, P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 20
+          },
+          {
+            "fila": 23,
+            "texto": "(REFORMADA, P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 21
+          },
+          {
+            "fila": 24,
+            "texto": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 21
+          },
+          {
+            "fila": 25,
+            "texto": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 22
+          },
+          {
+            "fila": 26,
+            "texto": "(REFORMADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 22
+          },
+          {
+            "fila": 27,
+            "texto": "(REFORMADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 23
+          },
+          {
+            "fila": 28,
+            "texto": "(REFORMADA, P.O. 20 DE JULIO DE 2026)",
+            "pagina": 23
+          },
+          {
+            "fila": 29,
+            "texto": "(REFORMADA, P.O. 6 DE AGOSTO DE 2021)",
+            "pagina": 23
+          },
+          {
+            "fila": 30,
+            "texto": "(REFORMADA, P.O. 6 DE AGOSTO DE 2021)",
+            "pagina": 24
+          },
+          {
+            "fila": 31,
+            "texto": "(REFORMADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 24
+          },
+          {
+            "fila": 32,
+            "texto": "(ADICIONADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 24
+          },
+          {
+            "fila": 33,
+            "texto": "(ADICIONADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 25
+          },
+          {
+            "fila": 34,
+            "texto": "(REFORMADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 25
+          },
+          {
+            "fila": 35,
+            "texto": "(REFORMADA, P.O. 1 DE MARZO DE 2024)",
+            "pagina": 25
+          },
+          {
+            "fila": 36,
+            "texto": "(ADICIONADO, P.O. 1 DE MARZO DE 2024)",
+            "pagina": 25
+          },
+          {
+            "fila": 37,
+            "texto": "(REFORMADA, P.O. 6 DE AGOSTO DE 2021)",
+            "pagina": 25
+          },
+          {
+            "fila": 38,
+            "texto": "(REFORMADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 26
+          },
+          {
+            "fila": 39,
+            "texto": "(ADICIONADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 26
+          },
+          {
+            "fila": 40,
+            "texto": "(ADICIONADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 27
+          },
+          {
+            "fila": 41,
+            "texto": "(ADICIONADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 28
+          },
+          {
+            "fila": 42,
+            "texto": "(REFORMADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 28
+          },
+          {
+            "fila": 43,
+            "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 30
+          },
+          {
+            "fila": 44,
+            "texto": "(REFORMADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 30
+          },
+          {
+            "fila": 45,
+            "texto": "(ADICIONADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 31
+          },
+          {
+            "fila": 46,
+            "texto": "(REFORMADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 32
+          },
+          {
+            "fila": 47,
+            "texto": "(ADICIONADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 32
+          },
+          {
+            "fila": 48,
+            "texto": "(ADICIONADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 33
+          },
+          {
+            "fila": 49,
+            "texto": "(ADICIONADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 34
+          },
+          {
+            "fila": 50,
+            "texto": "(ADICIONADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 35
+          },
+          {
+            "fila": 51,
+            "texto": "(REFORMADA, P.O. 8 DE ABRIL DE 2024)",
+            "pagina": 36
+          },
+          {
+            "fila": 52,
+            "texto": "(ADICIONADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 36
+          },
+          {
+            "fila": 53,
+            "texto": "(ADICIONADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 37
+          },
+          {
+            "fila": 54,
+            "texto": "(REFORMADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 37
+          },
+          {
+            "fila": 55,
+            "texto": "(ADICIONADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 38
+          },
+          {
+            "fila": 56,
+            "texto": "(REFORMADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 42
+          },
+          {
+            "fila": 57,
+            "texto": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 42
+          },
+          {
+            "fila": 58,
+            "texto": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 43
+          },
+          {
+            "fila": 59,
+            "texto": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 44
+          },
+          {
+            "fila": 60,
+            "texto": "(REFORMADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 44
+          },
+          {
+            "fila": 61,
+            "texto": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 45
+          },
+          {
+            "fila": 62,
+            "texto": "(REFORMADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 45
+          },
+          {
+            "fila": 63,
+            "texto": "(REFORMADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 46
+          },
+          {
+            "fila": 64,
+            "texto": "(REFORMADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 47
+          },
+          {
+            "fila": 65,
+            "texto": "(ADICIONADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 47
+          },
+          {
+            "fila": 66,
+            "texto": "(ADICIONADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 48
+          },
+          {
+            "fila": 67,
+            "texto": "(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)",
+            "pagina": 48
+          },
+          {
+            "fila": 68,
+            "texto": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 48
+          },
+          {
+            "fila": 69,
+            "texto": "(REFORMADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 49
+          },
+          {
+            "fila": 70,
+            "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 49
+          },
+          {
+            "fila": 71,
+            "texto": "(REFORMADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 49
+          },
+          {
+            "fila": 72,
+            "texto": "(ADICIONADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 50
+          },
+          {
+            "fila": 73,
+            "texto": "(REFORMADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 50
+          },
+          {
+            "fila": 74,
+            "texto": "(REFORMADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 51
+          },
+          {
+            "fila": 75,
+            "texto": "(REFORMADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 52
+          },
+          {
+            "fila": 76,
+            "texto": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 52
+          },
+          {
+            "fila": 77,
+            "texto": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 53
+          },
+          {
+            "fila": 78,
+            "texto": "(REFORMADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 54
+          },
+          {
+            "fila": 79,
+            "texto": "(ADICIONADO, P.O. 8 DE ABRIL DE 2024)",
+            "pagina": 55
+          },
+          {
+            "fila": 80,
+            "texto": "(REFORMADA SU DENOMINACIÓN, P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 59
+          },
+          {
+            "fila": 81,
+            "texto": "(REFORMADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 60
+          },
+          {
+            "fila": 82,
+            "texto": "(ADICIONADO, P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 61
+          },
+          {
+            "fila": 83,
+            "texto": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 62
+          },
+          {
+            "fila": 84,
+            "texto": "(REFORMADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 63
+          },
+          {
+            "fila": 85,
+            "texto": "(REFORMADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 64
+          },
+          {
+            "fila": 86,
+            "texto": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 64
+          },
+          {
+            "fila": 87,
+            "texto": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 67
+          },
+          {
+            "fila": 88,
+            "texto": "(REFORMADA, P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 76
+          },
+          {
+            "fila": 89,
+            "texto": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 80
+          },
+          {
+            "fila": 90,
+            "texto": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 83
+          },
+          {
+            "fila": 91,
+            "texto": "(REFORMADA, P.O. 6 DE AGOSTO DE 2021)",
+            "pagina": 85
+          },
+          {
+            "fila": 92,
+            "texto": "(REFORMADA, P.O. 6 DE AGOSTO DE 2021)",
+            "pagina": 86
+          },
+          {
+            "fila": 93,
+            "texto": "(REFORMADO, P.O. 6 DE AGOSTO DE 2021)",
+            "pagina": 86
+          },
+          {
+            "fila": 94,
+            "texto": "(REFORMADO, P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 90
+          },
+          {
+            "fila": 95,
+            "texto": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 91
+          },
+          {
+            "fila": 96,
+            "texto": "(REFORMADO, P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 91
+          },
+          {
+            "fila": 97,
+            "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 92
+          },
+          {
+            "fila": 98,
+            "texto": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 92
+          },
+          {
+            "fila": 99,
+            "texto": "(REFORMADO, P.O. 6 DE AGOSTO DE 2021)",
+            "pagina": 93
+          },
+          {
+            "fila": 100,
+            "texto": "(REFORMADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 93
+          },
+          {
+            "fila": 101,
+            "texto": "(ADICIONADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 93
+          },
+          {
+            "fila": 102,
+            "texto": "(REFORMADO, P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 98
+          },
+          {
+            "fila": 103,
+            "texto": "(REFORMADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 98
+          },
+          {
+            "fila": 104,
+            "texto": "(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)",
+            "pagina": 98
+          },
+          {
+            "fila": 105,
+            "texto": "(REFORMADA, P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 114
+          },
+          {
+            "fila": 106,
+            "texto": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 119
+          },
+          {
+            "fila": 107,
+            "texto": "(REFORMADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 119
+          },
+          {
+            "fila": 108,
+            "texto": "(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)",
+            "pagina": 123
+          },
+          {
+            "fila": 109,
+            "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 128
+          },
+          {
+            "fila": 110,
+            "texto": "(REFORMADO, P. O. 26 DE AGOSTO DE 2022)",
+            "pagina": 136
+          },
+          {
+            "fila": 111,
+            "texto": "(REFORMADO, P.O. 20 DE JULIO DE 2026)",
+            "pagina": 136
+          },
+          {
+            "fila": 112,
+            "texto": "(ADICIONADO, P.O. 20 DE JULIO DE 2026)",
+            "pagina": 137
+          },
+          {
+            "fila": 113,
+            "texto": "(REFORMADA, P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 138
+          },
+          {
+            "fila": 114,
+            "texto": "(REFORMADO, P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 138
+          },
+          {
+            "fila": 115,
+            "texto": "(REFORMADO, P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 139
+          },
+          {
+            "fila": 116,
+            "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 139
+          },
+          {
+            "fila": 117,
+            "texto": "(REFORMADA, P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 139
+          },
+          {
+            "fila": 118,
+            "texto": "(REFORMADO, P.O. 20 DE JULIO DE 2026)",
+            "pagina": 139
+          },
+          {
+            "fila": 119,
+            "texto": "(REFORMADO, P.O. 20 DE JULIO DE 2026)",
+            "pagina": 142
+          },
+          {
+            "fila": 120,
+            "texto": "(REFORMADA, P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 142
+          },
+          {
+            "fila": 121,
+            "texto": "(REFORMADA, P.O. 20 DE JULIO DE 2026)",
+            "pagina": 142
+          },
+          {
+            "fila": 122,
+            "texto": "(REFORMADO, P.O. 20 DE JULIO DE 2026)",
+            "pagina": 143
+          },
+          {
+            "fila": 123,
+            "texto": "(REFORMADO, P.O. 20 DE JULIO DE 2026)",
+            "pagina": 144
+          },
+          {
+            "fila": 124,
+            "texto": "(ADICIONADO, P.O. 20 DE JULIO DE 2026)",
+            "pagina": 144
+          },
+          {
+            "fila": 125,
+            "texto": "(REFORMADO, P.O. 20 DE JULIO DE 2026)",
+            "pagina": 146
+          },
+          {
+            "fila": 126,
+            "texto": "(REFORMADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 147
+          },
+          {
+            "fila": 127,
+            "texto": "(REFORMADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 149
+          },
+          {
+            "fila": 128,
+            "texto": "(REFORMADA, P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 156
+          },
+          {
+            "fila": 129,
+            "texto": "(REFORMADA [ADICIONADA], P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 156
+          },
+          {
+            "fila": 130,
+            "texto": "(ADICIONADA [ANTES FRACCIÓN VII] P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 157
+          },
+          {
+            "fila": 131,
+            "texto": "(REFORMADA, P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 157
+          },
+          {
+            "fila": 132,
+            "texto": "(REFORMADO, P.O. 20 DE JULIO DE 2026)",
+            "pagina": 157
+          },
+          {
+            "fila": 133,
+            "texto": "(ADICIONADO, P.O. 20 DE JULIO DE 2026)",
+            "pagina": 157
+          },
+          {
+            "fila": 134,
+            "texto": "(REFORMADO, P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 162
+          },
+          {
+            "fila": 135,
+            "texto": "(REFORMADO, P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 163
+          },
+          {
+            "fila": 136,
+            "texto": "(REFORMADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 163
+          },
+          {
+            "fila": 137,
+            "texto": "(REFORMADO, P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 164
+          },
+          {
+            "fila": 138,
+            "texto": "(REFORMADA, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 165
+          },
+          {
+            "fila": 139,
+            "texto": "(REFORMADO, P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 166
+          },
+          {
+            "fila": 140,
+            "texto": "(REFORMADO, P.O. 11 DE MAYO DE 2022)",
+            "pagina": 169
+          },
+          {
+            "fila": 141,
+            "texto": "(ADICIONADO, P.O. 11 DE MAYO DE 2022)",
+            "pagina": 169
+          },
+          {
+            "fila": 142,
+            "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 170
+          },
+          {
+            "fila": 143,
+            "texto": "(REFORMADO, P.O. 26 DE AGOSTO DE 2022)",
+            "pagina": 171
+          },
+          {
+            "fila": 144,
+            "texto": "P.O. 6 DE AGOSTO DE 2021",
+            "pagina": 178
+          },
+          {
+            "fila": 145,
+            "texto": "P.O. 11 DE MAYO DE 2022",
+            "pagina": 178
+          },
+          {
+            "fila": 146,
+            "texto": "P.O. 26 DE AGOSTO DE 2022",
+            "pagina": 179
+          },
+          {
+            "fila": 147,
+            "texto": "P.O. 4 DE ABRIL DE 2023",
+            "pagina": 179
+          },
+          {
+            "fila": 148,
+            "texto": "P.O. 1 DE MARZO DE 2024",
+            "pagina": 179
+          },
+          {
+            "fila": 149,
+            "texto": "P.O. 8 DE ABRIL DE 2024",
+            "pagina": 180
+          },
+          {
+            "fila": 150,
+            "texto": "P.O. 17 DE ABRIL DE 2024",
+            "pagina": 180
+          },
+          {
+            "fila": 151,
+            "texto": "P.O. 15 DE SEPTIEMBRE DE 2025",
+            "pagina": 180
+          },
+          {
+            "fila": 152,
+            "texto": "P.O. 20 DE JULIO DE 2026",
+            "pagina": 180
+          },
+          {
+            "fila": 153,
+            "texto": "(ADICIONADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 182
+          },
+          {
+            "fila": 154,
+            "texto": "(REFORMADO, P.O. 17 DE ABRIL DE 2024)",
+            "pagina": 182
+          }
+        ]
+      }
+    }
+  }
+}

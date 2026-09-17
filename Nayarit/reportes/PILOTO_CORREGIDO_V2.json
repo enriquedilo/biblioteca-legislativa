@@ -1,0 +1,137 @@
+{
+  "fecha": "2026-09-14T12:39:39.771079+00:00",
+  "documentos": [
+    {
+      "id": 1,
+      "nombre": "Código Civil para el Estado de Nayarit",
+      "paginas": 437,
+      "remisiones_corregidas": [],
+      "version": "7df671a396523de16f7e52dd2f1bf481c6f3f1a4b9a8292d25c44854b0a03b39",
+      "hash_sha256": {
+        "pdf": "d6e4724c6b72c8fe34654560ccbdfef55a2c718826c44a500ecd402eb673c9ec",
+        "word": "e8caf1f0b3e5ede099abb8ee4d838f3bca0b35f64e9ad5b5cedf46e8ea186603"
+      },
+      "campos_incompletos": [
+        "abroga[0].fecha",
+        "abroga[].fecha",
+        "abroga[].po_numero",
+        "po_publicacion.edicion",
+        "po_publicacion.numero",
+        "reformas[].decreto",
+        "reformas[].fecha",
+        "reformas[].po_numero",
+        "ultima_reforma.edicion",
+        "ultima_reforma.numero"
+      ],
+      "resultado": "Piloto corregido v2: conservación verificada; cotejo Word/PDF con incidencias",
+      "paginas_sin_texto": []
+    },
+    {
+      "id": 5,
+      "nombre": "Constitución Política del Estado Libre y Soberano de Nayarit",
+      "paginas": 181,
+      "remisiones_corregidas": [
+        {
+          "linea": 10,
+          "texto": "Artículo 131 de la Constitución Política del Estado, suscríbase la Minuta Proyecto",
+          "anterior": "ARTICULO PRIMERO.- Para cumplir las condiciones y efectos a que se refiere el",
+          "siguiente": "de Decreto por los Ciudadanos Diputados integrantes de esta Honorable",
+          "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+          "pagina": 128
+        },
+        {
+          "linea": 49,
+          "texto": "Artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, a",
+          "anterior": "Ayuntamientos Constitucionales del Estado, para los efectos a que alude el",
+          "siguiente": "cuyo término deberán computarse los resultados y tramitarse el Decreto",
+          "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+          "pagina": 133
+        },
+        {
+          "linea": 24,
+          "texto": "Artículo 105 de la Constitución Política del Estado Libre y Soberano de Nayarit.",
+          "anterior": "Decreto que tiene por objeto reformar el Artículo 104 y el Segundo Párrafo del",
+          "siguiente": "",
+          "motivo": "renglón anterior sin punto final",
+          "pagina": 163
+        }
+      ],
+      "version": "3d18b8c6b961310ca90b51e9951b4b6f032cfe0d31e12190206874bf5a677ee7",
+      "hash_sha256": {
+        "pdf": "b437858954f1c10eab8a69368d1b44893c782d0ab0a82890a79d9c4e54e24fe5",
+        "word": "d84cc4f24c363dbbfacb97453f02015a7c86661179d1174c9e0b9028ff7d4faa"
+      },
+      "campos_incompletos": [
+        "abroga",
+        "decreto_numero",
+        "po_publicacion.edicion",
+        "po_publicacion.fecha",
+        "po_publicacion.numero",
+        "po_publicacion.seccion",
+        "reformas[].decreto",
+        "reformas[].fecha",
+        "reformas[].po_numero",
+        "ultima_reforma.edicion",
+        "ultima_reforma.numero"
+      ],
+      "resultado": "Piloto corregido v2: conservación verificada; cotejo Word/PDF con incidencias",
+      "paginas_sin_texto": []
+    },
+    {
+      "id": 12,
+      "nombre": "Ley Arancelaria de los Abogados para el Estado de Nayarit",
+      "paginas": 15,
+      "remisiones_corregidas": [],
+      "version": "7192089fe01a64be9f38ab3ef381b21571e24d75efbc0bf4c76d552406eb87fa",
+      "hash_sha256": {
+        "pdf": "a4e7f73db7fd9669f9db1f4cc662a043adc57d1b96db283c54e559075160817e",
+        "word": "15cba6de8f8a7469610b30c37a2c61967bd834151cb19bc079e997f50c988e18"
+      },
+      "campos_incompletos": [
+        "abroga[].po_numero",
+        "decreto_numero",
+        "po_publicacion.edicion",
+        "po_publicacion.numero",
+        "reformas[].decreto",
+        "reformas[].po_numero",
+        "ultima_reforma.edicion",
+        "ultima_reforma.numero"
+      ],
+      "resultado": "Piloto corregido v2: conservación verificada; cotejo Word/PDF con incidencias",
+      "paginas_sin_texto": []
+    },
+    {
+      "id": 139,
+      "nombre": "Ley Municipal para el Estado de Nayarit",
+      "paginas": 160,
+      "remisiones_corregidas": [],
+      "version": "4b05f8810bf20aca0ec77227f36622aea507a7be4fcbffe13e7216616b8ecc60",
+      "hash_sha256": {
+        "pdf": "4a323cf6b3650fa66130d386efab7e1a0b2182323a4caff84903c6fe377e75f3",
+        "word": "524d6448f9b87527e9375b8d17e2f5063afc827c41da2a5501226ab90e17e254"
+      },
+      "campos_incompletos": [
+        "abroga[1].nombre",
+        "abroga[].nombre",
+        "abroga[].po_numero",
+        "po_publicacion.edicion",
+        "po_publicacion.numero",
+        "reformas[].decreto",
+        "reformas[].po_numero",
+        "ultima_reforma.edicion",
+        "ultima_reforma.numero"
+      ],
+      "resultado": "Piloto corregido v2: conservación verificada; cotejo Word/PDF con incidencias",
+      "paginas_sin_texto": []
+    }
+  ],
+  "versiones_y_originales_conservados": true,
+  "ids_slugs_procedencia_sin_cambios": true,
+  "catalogo_normalizado": 139,
+  "regimen": {
+    "general": 131,
+    "legislativo": 6,
+    "municipal": 2
+  },
+  "regresiones_parrafos_aprobadas": true
+}

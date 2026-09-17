@@ -1,0 +1,88 @@
+{
+  "1": {
+    "pdf_sha256": "d6e4724c6b72c8fe34654560ccbdfef55a2c718826c44a500ecd402eb673c9ec",
+    "nombre_oficial": "Código Civil para el Estado de Nayarit",
+    "abroga": [
+      {
+        "nombre": "Código Civil adoptado para el estado de Nayarit",
+        "po_numero": null,
+        "fecha": null,
+        "decreto": "1736"
+      }
+    ],
+    "evidencia_abroga": [
+      {
+        "pagina": 414,
+        "texto": "Artículo Segundo.- Desde esa misma fecha queda abrogado el Código Civil adoptado para el estado de Nayarit, conforme a lo dispuesto en el artículo 2º. del Decreto Número 1736 de ese H. Congreso, publicado en el Periódico Oficial local y que entró en vigor el día primero de Julio del mil novecientos treinta y ocho, salvo lo expresado en los artículos siguientes."
+      }
+    ],
+    "incidencias": [
+      {
+        "campo": "abroga[0].fecha",
+        "motivo": "El 1 de julio de 1938 impreso corresponde a entrada en vigor, no a publicación; fecha queda null.",
+        "pagina": 414
+      }
+    ]
+  },
+  "5": {
+    "pdf_sha256": "b437858954f1c10eab8a69368d1b44893c782d0ab0a82890a79d9c4e54e24fe5",
+    "nombre_oficial": "Constitución Política del Estado Libre y Soberano de Nayarit",
+    "abroga": [],
+    "evidencia_abroga": [],
+    "incidencias": []
+  },
+  "12": {
+    "pdf_sha256": "a4e7f73db7fd9669f9db1f4cc662a043adc57d1b96db283c54e559075160817e",
+    "nombre_oficial": "Ley Arancelaria de los Abogados para el Estado de Nayarit",
+    "abroga": [
+      {
+        "nombre": "Arancel de los Abogados para el Estado de Nayarit",
+        "po_numero": null,
+        "fecha": "1978-01-21",
+        "decreto": "5991"
+      }
+    ],
+    "evidencia_abroga": [
+      {
+        "pagina": 13,
+        "texto": "Artículo Segundo.- Se abroga el Arancel de los Abogados para el Estado de Nayarit, publicado mediante decreto número 5991 en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el día 21 de enero de 1978."
+      }
+    ],
+    "incidencias": []
+  },
+  "139": {
+    "pdf_sha256": "4a323cf6b3650fa66130d386efab7e1a0b2182323a4caff84903c6fe377e75f3",
+    "nombre_oficial": "Ley Municipal para el Estado de Nayarit",
+    "abroga": [
+      {
+        "nombre": "Ley Orgánica para la Administración Municipal del Estado de Nayarit",
+        "po_numero": null,
+        "fecha": "1990-09-15",
+        "decreto": "7295"
+      },
+      {
+        "nombre": null,
+        "po_numero": null,
+        "fecha": "1990-03-28",
+        "decreto": "7281"
+      }
+    ],
+    "evidencia_abroga": [
+      {
+        "pagina": 142,
+        "texto": "ARTÍCULO SEGUNDO.- Se abroga el decreto 7295 publicado en el Periódico Oficial, Órgano del Gobierno del Estado, el 15 de septiembre de 1990, que contiene la Ley Orgánica para la Administración Municipal del Estado de Nayarit, así como todas sus reformas o adiciones."
+      },
+      {
+        "pagina": 142,
+        "texto": "ARTÍCULO TERCERO.- Se abroga el decreto 7281 publicado en el Periódico Oficial, Órgano del Gobierno del Estado, el 28 de marzo de 1990, que contiene las disposiciones normativas aplicables para la entrega-recepción de las administraciones municipales."
+      }
+    ],
+    "incidencias": [
+      {
+        "campo": "abroga[1].nombre",
+        "motivo": "El transitorio tercero identifica decreto 7281 y describe disposiciones de entrega-recepción, sin título oficial; nombre queda null.",
+        "pagina": 142
+      }
+    ]
+  }
+}

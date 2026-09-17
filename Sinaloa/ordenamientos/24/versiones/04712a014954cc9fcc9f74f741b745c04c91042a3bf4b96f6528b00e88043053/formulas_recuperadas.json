@@ -1,0 +1,284 @@
+{
+  "fecha": "2026-09-10T13:11:42.687761+00:00",
+  "estado": "46 expresiones gráficas restituidas en texto por página; cotejo general pendiente",
+  "expresiones": [
+    {
+      "pagina": 3,
+      "elemento": 1,
+      "latex": "P_{i,t}=\\frac{\\left(\\frac{\\Delta PA_{i,t-3}+\\Delta PA_{i,t-2}+\\Delta PA_{i,t-1}}{3}\\right)n_{i,t}}{\\sum_i \\left(\\frac{\\Delta PA_{i,t-3}+\\Delta PA_{i,t-2}+\\Delta PA_{i,t-1}}{3}\\right)n_{i,t}}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 4,
+      "elemento": 1,
+      "latex": "F_{i,t}=F_{i,15}+\\Delta FFM_{15,t}(0.7C_{i,t}+0.3CP_{i,t})",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 4,
+      "elemento": 2,
+      "latex": "0.7C_{i,t}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 4,
+      "elemento": 3,
+      "latex": "0.3CP_{i,t}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 4,
+      "elemento": 4,
+      "latex": "CP_{i,t}=\\left(\\frac{TP_{i,t-1}\\times n_{i,t}}{\\Sigma TP_{i,t-1}\\times n_{i,t}}\\right)",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 5,
+      "elemento": 1,
+      "latex": "P_{i,t}=P_{i,15}+\\Delta FMP_{15,t}(0.4C1_{i,t}+0.4C2_{i,t}+0.1C3_{i,t}+0.1C4_{i,t})",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 5,
+      "elemento": 2,
+      "latex": "C1_{i,t}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 5,
+      "elemento": 3,
+      "latex": "C2_{i,t},C3_{i,t}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 5,
+      "elemento": 4,
+      "latex": "C4_{i,t}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 5,
+      "elemento": 5,
+      "latex": "C1_{i,t}=\\frac{\\left(\\frac{\\Delta CA_{i,t-3}+\\Delta CA_{i,t-2}+\\Delta CA_{i,t-1}}{3}\\right)n_{i,t}}{\\sum_i \\left(\\frac{\\Delta CA_{i,t-3}+\\Delta CA_{i,t-2}+\\Delta CA_{i,t-1}}{3}\\right)n_{i,t}}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 5,
+      "elemento": 6,
+      "latex": "C1_{i,t}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 6,
+      "elemento": 1,
+      "latex": "C2_{i,t}=\\frac{\\left(\\frac{\\Delta RP_{i,t-3}+\\Delta RP_{i,t-2}+\\Delta RP_{i,t-1}}{3}\\right)n_{i,t}}{\\sum_i \\left(\\frac{\\Delta RP_{i,t-3}+\\Delta RP_{i,t-2}+\\Delta RP_{i,t-1}}{3}\\right)n_{i,t}}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 6,
+      "elemento": 2,
+      "latex": "C2_{i,t}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 6,
+      "elemento": 3,
+      "latex": "C3_{i,t}=\\frac{\\left(\\frac{\\Delta IP_{i,t-3}+\\Delta IP_{i,t-2}+\\Delta IP_{i,t-1}}{3}\\right)n_{i,t}}{\\sum_i \\left(\\frac{\\Delta IP_{i,t-3}+\\Delta IP_{i,t-2}+\\Delta IP_{i,t-1}}{3}\\right)n_{i,t}}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 6,
+      "elemento": 4,
+      "latex": "C3_{i,t}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 7,
+      "elemento": 1,
+      "latex": "C4_{i,t}=\\frac{\\left(\\frac{PM_{i,t}}{\\sum_i(PC1_{i,t}+PC2_{i,t}+PC3_{i,t})}\\right)}{\\sum_i\\left(\\frac{PM_{i,t}}{\\sum_i(PC1_{i,t}+PC2_{i,t}+PC3_{i,t})}\\right)}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 7,
+      "elemento": 2,
+      "latex": "C4_{i,t}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 7,
+      "elemento": 3,
+      "latex": "PC1_{i,t}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 7,
+      "elemento": 4,
+      "latex": "i,t",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 7,
+      "elemento": 5,
+      "latex": "PC2_{i,t}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 7,
+      "elemento": 6,
+      "latex": "i,t",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 7,
+      "elemento": 7,
+      "latex": "PC3_{i,t}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 7,
+      "elemento": 8,
+      "latex": "i,t",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 8,
+      "elemento": 1,
+      "latex": "P_{i,t}=\\frac{\\frac{IP_{i,t-1}}{IP_{i,t-2}}}{\\sum\\frac{IP_{i,t-1}}{IP_{i,t-2}}}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 10,
+      "elemento": 1,
+      "latex": "CE_{i,t}=(0.4C1_{i,t}+0.4C2_{i,t}+0.1C3_{i,t}+0.1C4_{i,t})",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 10,
+      "elemento": 2,
+      "latex": "C1_{i,t}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 10,
+      "elemento": 3,
+      "latex": "C2_{i,t},C3_{i,t}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 10,
+      "elemento": 4,
+      "latex": "C4_{i,t}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 10,
+      "elemento": 5,
+      "latex": "C1_{i,t}=\\frac{\\left(\\frac{\\Delta CA_{i,t-3}+\\Delta CA_{i,t-2}+\\Delta CA_{i,t-1}}{3}\\right)n_{i,t}}{\\sum_i \\left(\\frac{\\Delta CA_{i,t-3}+\\Delta CA_{i,t-2}+\\Delta CA_{i,t-1}}{3}\\right)n_{i,t}}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 10,
+      "elemento": 6,
+      "latex": "C1_{i,t}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 11,
+      "elemento": 1,
+      "latex": "C2_{i,t}=\\frac{\\left(\\frac{\\Delta RP_{i,t-3}+\\Delta RP_{i,t-2}+\\Delta RP_{i,t-1}}{3}\\right)n_{i,t}}{\\sum_i \\left(\\frac{\\Delta RP_{i,t-3}+\\Delta RP_{i,t-2}+\\Delta RP_{i,t-1}}{3}\\right)n_{i,t}}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 11,
+      "elemento": 2,
+      "latex": "C2_{i,t}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 11,
+      "elemento": 3,
+      "latex": "C3_{i,t}=\\frac{\\left(\\frac{\\Delta IP_{i,t-3}+\\Delta IP_{i,t-2}+\\Delta IP_{i,t-1}}{3}\\right)n_{i,t}}{\\sum_i \\left(\\frac{\\Delta IP_{i,t-3}+\\Delta IP_{i,t-2}+\\Delta IP_{i,t-1}}{3}\\right)n_{i,t}}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 11,
+      "elemento": 4,
+      "latex": "C3_{i,t}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 12,
+      "elemento": 1,
+      "latex": "C4_{i,t}=\\frac{\\left(\\frac{PM_{i,t}}{\\sum_i(PC1_{i,t}+PC2_{i,t}+PC3_{i,t})}\\right)}{\\sum_i\\left(\\frac{PM_{i,t}}{\\sum_i(PC1_{i,t}+PC2_{i,t}+PC3_{i,t})}\\right)}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 12,
+      "elemento": 2,
+      "latex": "C4_{i,t}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 12,
+      "elemento": 3,
+      "latex": "i,t",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 12,
+      "elemento": 4,
+      "latex": "PC1_{i,t}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 12,
+      "elemento": 5,
+      "latex": "i,t",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 12,
+      "elemento": 6,
+      "latex": "PC2_{i,t}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 12,
+      "elemento": 7,
+      "latex": "i,t",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 12,
+      "elemento": 8,
+      "latex": "PC3_{i,t}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 13,
+      "elemento": 1,
+      "latex": "CE_{i,t}=(0.7C_{i,t}+0.3CP_{i,t})",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 13,
+      "elemento": 2,
+      "latex": "0.7C_{i,t}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 13,
+      "elemento": 3,
+      "latex": "0.3CP_{i,t}",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    },
+    {
+      "pagina": 14,
+      "elemento": 1,
+      "latex": "CP_{i,t}=\\left(\\frac{TP_{i,t-1}\\times n_{i,t}}{\\Sigma TP_{i,t-1}\\times n_{i,t}}\\right)",
+      "cotejo": "Word estructurado y PDF visual; página 3 transcrita directamente del PDF"
+    }
+  ],
+  "metodo": "Transcripción LaTeX cotejada visualmente con 46 elementos del PDF y ecuaciones OMML embebidas en DOC; no se usa OCR para inferir operadores.",
+  "limite": "Suplementos al comienzo de cada página; el cuerpo extraído conserva los huecos. Se conserva literalmente la notación de sumas y símbolos del original sin interpretación algebraica."
+}

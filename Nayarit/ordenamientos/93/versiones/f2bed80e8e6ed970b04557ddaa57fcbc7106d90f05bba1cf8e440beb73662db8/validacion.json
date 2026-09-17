@@ -1,0 +1,403 @@
+{
+  "id": 93,
+  "fecha_revision": "2026-09-15T10:55:59.446934+00:00",
+  "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 10,
+  "paginas_sin_texto": [],
+  "pagina_blanca_confirmada_visualmente": false,
+  "texto_conservado": true,
+  "comparacion_word_pdf": {
+    "palabras_comparadas": 2754,
+    "palabras_pdf": 2921,
+    "frecuencias_coinciden": false,
+    "orden_coincide_separando_nota_al_pie": false,
+    "nota_al_pie_reubicada_por_lector_word": null,
+    "normalizaciones_solo_comparacion": [
+      "Misma función lexical_tokens de Sinaloa; no modifica los originales ni el Markdown."
+    ],
+    "limite": "Campos Word y encabezados permanecen en el control; las diferencias se reportan sin reparación.",
+    "solo_word": {
+      "h": 6,
+      "o": 1,
+      "u": 1,
+      "toc": 15,
+      "z": 1,
+      "hyperlink": 9,
+      "l": 9,
+      "pageref": 5,
+      "escribir": 1,
+      "texto": 1
+    },
+    "solo_pdf": {
+      "ley": 9,
+      "para": 9,
+      "la": 18,
+      "prevencion": 9,
+      "de": 27,
+      "obesidad": 9,
+      "sobrepeso": 9,
+      "y": 9,
+      "trastornos": 9,
+      "alimenticios": 9,
+      "en": 9,
+      "el": 9,
+      "estado": 18,
+      "nayarit": 18,
+      "poder": 9,
+      "legislativo": 9,
+      "del": 9,
+      "secretaría": 9,
+      "general": 9
+    }
+  },
+  "articulos_word": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "13bis",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "19bis",
+    "20",
+    "21"
+  ],
+  "articulos_pdf": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "13bis",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "19bis",
+    "20",
+    "21"
+  ],
+  "identificadores_articulos_coinciden": true,
+  "encabezados_transitorios": [
+    {
+      "pagina": 8,
+      "encabezado": "Transitorios:"
+    }
+  ],
+  "encabezados_ordinales_en_seccion_transitoria": [
+    "Artículo Primero.- La presente ley entrará en vigor a los treinta días siguientes",
+    "Artículo Segundo.- El Consejo deberá ser instalado a más tardar sesenta días",
+    "Artículo Tercero.- El Consejo contará con un plazo de sesenta días contados a",
+    "Único. El presente Decreto entrará en vigor al día siguiente de su publicación en"
+  ],
+  "articulos_numericos_en_seccion_transitoria": [],
+  "transitorios_y_notas_completos_incluidos": true,
+  "paginas_cotejadas_visualmente": [],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 1168,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [
+        {
+          "linea": 55,
+          "texto": "1"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 2386,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [
+        {
+          "linea": 54,
+          "texto": "2"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 1891,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [
+        {
+          "linea": 54,
+          "texto": "3"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 1989,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [
+        {
+          "linea": 55,
+          "texto": "4"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 2115,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 54,
+          "texto": "5"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 2372,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [
+        {
+          "linea": 53,
+          "texto": "6"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 2218,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [
+        {
+          "linea": 55,
+          "texto": "7"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 1494,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 51,
+          "texto": "8"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 717,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [
+        {
+          "linea": 26,
+          "texto": "9"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 929,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 47,
+          "texto": "10"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    }
+  ],
+  "alcance": "Controles de conservación en todas las páginas; comparación de cifras con Poppler y pypdf. El cotejo visual se registra por separado. No certifica vigencia jurídica.",
+  "incidencias_resueltas": [],
+  "diferencias_de_fuente": [
+    "La comparación léxica Word/PDF no coincide: encabezados repetidos, campos Word y otras diferencias pendientes de cotejo. No equivale a pérdida del Markdown.",
+    "Hay discrepancias en la secuencia de cifras entre los dos lectores PDF; requieren cotejo, no se reparan.",
+    "Word original .doc conservado por autorización expresa del usuario; no se fabrica original.docx."
+  ],
+  "formato_word_original": "doc",
+  "ocr_ejecutado": false,
+  "incidencias_descarga": [],
+  "promociones_encabezado_evitadas": [],
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-15T10:55:59.446934+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "decreto_numero",
+        "motivo": "Dato no impreso de forma identificable; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.numero",
+        "motivo": "Dato no impreso de forma identificable; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.edicion",
+        "motivo": "Dato no impreso de forma identificable; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "ultima_reforma.numero",
+        "motivo": "Dato no impreso de forma identificable; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "ultima_reforma.edicion",
+        "motivo": "Dato no impreso de forma identificable; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "reformas[].po_numero",
+        "motivo": "Dato ausente o no normalizable sin corregir la nota impresa; queda null y se conserva evidencia literal.",
+        "indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "campo": "reformas[].decreto",
+        "motivo": "Dato ausente o no normalizable sin corregir la nota impresa; queda null y se conserva evidencia literal.",
+        "indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "campo": "abroga",
+        "motivo": "No se localizaron cláusulas con la forma expresa se abroga/queda abrogado; arreglo vacío pendiente de cotejo."
+      }
+    ],
+    "evidencia": {
+      "abroga": [],
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "Ley publicada en la Trigésima Cuarta Sección del Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el miércoles 25 de diciembre de 2010."
+      },
+      "ultima_reforma": {
+        "pagina": 1,
+        "texto": "ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2015"
+      },
+      "reformas": {
+        "pagina_inicio": 3,
+        "encabezado": null,
+        "filas": [
+          {
+            "fila": 0,
+            "texto": "(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)",
+            "pagina": 3
+          },
+          {
+            "fila": 1,
+            "texto": "(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2015)",
+            "pagina": 5
+          },
+          {
+            "fila": 2,
+            "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2015)",
+            "pagina": 6
+          },
+          {
+            "fila": 3,
+            "texto": "(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)",
+            "pagina": 6
+          },
+          {
+            "fila": 4,
+            "texto": "(ADICIONADO [ANTES FRACCIÓN VI], P.O. 5 DE SEPTIEMBRE DE 2015)",
+            "pagina": 7
+          },
+          {
+            "fila": 5,
+            "texto": "(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)",
+            "pagina": 7
+          },
+          {
+            "fila": 6,
+            "texto": "(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2015)",
+            "pagina": 7
+          },
+          {
+            "fila": 7,
+            "texto": "P.O. 5 DE SEPTIEMBRE DE 2015",
+            "pagina": 9
+          }
+        ]
+      }
+    }
+  }
+}

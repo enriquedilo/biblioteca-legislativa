@@ -1,0 +1,105 @@
+{
+  "texto_conservado": true,
+  "paginas_pdf": 4,
+  "paginas_sin_texto": [],
+  "articulos_word": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "1",
+    "3",
+    "1",
+    "2"
+  ],
+  "articulos_pdf": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "154",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "1",
+    "3",
+    "1",
+    "2"
+  ],
+  "solo_pdf": [
+    "154"
+  ],
+  "solo_word": [],
+  "transitorios_word": 2,
+  "transitorios_pdf": 2,
+  "alcance": "Control mecánico; requiere cotejo visual y no certifica vigencia jurídica.",
+  "revision_incidencias": {
+    "fecha": "2026-09-07T18:14:57.287054+00:00",
+    "estado": "Incidencia puntual resuelta; cotejo general pendiente",
+    "hallazgos": [
+      "Página 2: 154 es una referencia dentro de un párrafo, no un artículo omitido."
+    ],
+    "alcance": "Cotejo visual dirigido a incidencias; no validación completa del documento ni de vigencia.",
+    "paginas_visuales": [
+      2
+    ]
+  },
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-10T14:11:19.874979+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "reformas",
+        "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+      },
+      {
+        "campo": "abroga",
+        "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+      },
+      {
+        "campo": "po_publicacion.edicion",
+        "motivo": "Dato no localizado en la mención impresa seleccionada."
+      },
+      {
+        "campo": "ultima_reforma.numero",
+        "motivo": "Dato no localizado en la mención impresa seleccionada."
+      },
+      {
+        "campo": "ultima_reforma.edicion",
+        "motivo": "Dato no localizado en la mención impresa seleccionada."
+      }
+    ],
+    "evidencia": {
+      "decreto_numero": {
+        "pagina": 1,
+        "texto": "\n                                     DECRETO NÚMERO 126"
+      },
+      "ultima_reforma": {
+        "pagina": 1,
+        "texto": "Última reforma publicado P.O. 13 de Febrero de 1954."
+      },
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "* Publicado en el P.O. No. 19 de 13 de febrero de 1937."
+      },
+      "abroga": []
+    }
+  }
+}

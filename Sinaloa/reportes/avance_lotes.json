@@ -1,0 +1,3031 @@
+{
+  "creado": "2026-09-07T17:19:12.844233+00:00",
+  "actualizado": "2026-09-10T13:13:51.606580+00:00",
+  "tamano_lote": 10,
+  "catalogo_origen": "catalogo/leyes-estatales.json",
+  "catalogo_sha256": "a3bdbf2cbbf0ab5b07039e1ce4b97c3d7eb9416dbd8584a7acc83b179c726468",
+  "nota": "Plan basado en inventario guardado; no implica nueva consulta al Congreso. Nuevos registros se agregarán después sin renumerar lotes.",
+  "items": [
+    {
+      "id": 1,
+      "nombre": "Código Civil",
+      "lote": 0,
+      "estado": "piloto_verificado",
+      "detalle": {
+        "version": "6b52a749c856222c53905acaaa787bd6a71e19488b9d01cf50b0c5c7f386c62c",
+        "revision": "Conversión verificada: controles completos y cotejo visual por muestra",
+        "markdown_sha256": "fb90cbf8340f928288a32b54095ce67dfdb5a0e118aea0b8b9b007046c01a250"
+      },
+      "catalogo": {
+        "id": 1,
+        "ley": "Código Civil",
+        "fecha": "11/03/2022",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 2,
+      "nombre": "Código de Procedimientos Civiles",
+      "lote": 1,
+      "estado": "procesado",
+      "detalle": {
+        "version": "58af6a99afa80034d78590cb56d1a59d0cf5db5ba97b82d8ef7da33810f2f525",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "5990cf9c2bae38f28cddfa27e43fc810dc02665566afa32f2a7e970d10ae598e"
+      },
+      "catalogo": {
+        "id": 2,
+        "ley": "Código de Procedimientos Civiles",
+        "fecha": "28/12/2016",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 3,
+      "nombre": "Código de Procedimientos Familiares",
+      "lote": 1,
+      "estado": "procesado",
+      "detalle": {
+        "version": "d93c51347bd93ab2e34f321eb3281d5f312ab547d567e35f965a9a15c44a1084",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "c50a7bc3f850b423b9b01a140a039f6e703862db0cddd18576e2ac34c58668bc"
+      },
+      "catalogo": {
+        "id": 3,
+        "ley": "Código de Procedimientos Familiares",
+        "fecha": "22/07/2019",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 4,
+      "nombre": "Código Familiar",
+      "lote": 1,
+      "estado": "procesado",
+      "detalle": {
+        "version": "9953117f71cb658babd913bbaa96b8f8b59f623bac9c210367a508f79fb37506",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "3e01b6b59cda3c45135f1c5ad7e1e8859c02833191953c44232eb91c8d7bc59c"
+      },
+      "catalogo": {
+        "id": 4,
+        "ley": "Código Familiar",
+        "fecha": "19/06/2026",
+        "id_tipoley": 1,
+        "nb_extword": "doc",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 5,
+      "nombre": "Código Fiscal",
+      "lote": 1,
+      "estado": "procesado",
+      "detalle": {
+        "version": "a75a0e18be3fb7205de0650c27b24c3f77f9e943696c3b6d4f40d1cbaebe2d79",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "4f23fc0b634006115d1cd9da1a10a67ababb22039fabdceb4421883f70482cd2"
+      },
+      "catalogo": {
+        "id": 5,
+        "ley": "Código Fiscal",
+        "fecha": "25/12/2019",
+        "id_tipoley": 1,
+        "nb_extword": "doc",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 6,
+      "nombre": "Código Fiscal Municipal",
+      "lote": 1,
+      "estado": "procesado",
+      "detalle": {
+        "version": "77268847201d09c39576aaeaa8da3f895520ea3b9ebf1581e8879ae17e955e05",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "0881a478de3350a1b107baa30c9211f251354af30a4353537f498c9e2d1f242b"
+      },
+      "catalogo": {
+        "id": 6,
+        "ley": "Código Fiscal Municipal",
+        "fecha": "22/12/2017",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 7,
+      "nombre": "Código Penal",
+      "lote": 1,
+      "estado": "procesado",
+      "detalle": {
+        "version": "38f72a68ce9acb069236f1ff7a7991dd1243fffb8dcf70b6a5c1ee403e667ed6",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "08d9a7bca49067a7d7a81095cf1d0d30a72f6d48aea99f6f9e0eba98aaecd1ce"
+      },
+      "catalogo": {
+        "id": 7,
+        "ley": "Código Penal",
+        "fecha": "13/05/2026",
+        "id_tipoley": 1,
+        "nb_extword": "doc",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 9,
+      "nombre": "Constitución Política del Estado de Sinaloa",
+      "lote": 0,
+      "estado": "piloto_verificado",
+      "detalle": {
+        "version": "9a17a27aa83c84a72e5b5da47b1e83e41a140c69491f6ff2045468fa20253fe5",
+        "revision": "Conversión verificada: controles completos y cotejo visual por muestra",
+        "markdown_sha256": "805478d49dd33e0d3b4d4dbae944556045b8747be8c810adbeb3ea9128ecfdea"
+      },
+      "catalogo": {
+        "id": 9,
+        "ley": "Constitución Política del Estado de Sinaloa",
+        "fecha": "26/08/2026",
+        "id_tipoley": 1,
+        "nb_extword": "doc",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 10,
+      "nombre": "Ley Ambiental para el Desarrollo Sustentable",
+      "lote": 1,
+      "estado": "procesado",
+      "detalle": {
+        "version": "46c183fdb0b354ee50ff529c8b12a9dbe5d1e355a03a44d5f087bb2c3e3f4112",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "2893b79b7f41744fb008076e46583fb42e39751230485acae4a0caf9161c3790"
+      },
+      "catalogo": {
+        "id": 10,
+        "ley": "Ley Ambiental para el Desarrollo Sustentable",
+        "fecha": "26/08/2026",
+        "id_tipoley": 1,
+        "nb_extword": "doc",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 11,
+      "nombre": "Ley de Acceso de las Mujeres a una Vida Libre de Violencia",
+      "lote": 1,
+      "estado": "procesado",
+      "detalle": {
+        "version": "d6a4abdeeda57fb42803dde118fbb5c0c95de5e2d15c8d1af1b4c240df24aed6",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "18eee5d82d739b1f1e3ea0400dd9bc203a90d8f16eb7671733e4d5a3fe042de4"
+      },
+      "catalogo": {
+        "id": 11,
+        "ley": "Ley de Acceso de las Mujeres a una Vida Libre de Violencia",
+        "fecha": "06/06/2025",
+        "id_tipoley": 1,
+        "nb_extword": "doc",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 12,
+      "nombre": "Ley de Adquisiciones, Arrendamientos, Servicios y Administración de Bienes Muebles",
+      "lote": 1,
+      "estado": "procesado",
+      "detalle": {
+        "version": "5062c53c83e8c20f1195bf15a26a4d9555cf2a681454f9595537a47a58ea2acc",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "7dc9f17d48194eab884dcc15bc1ad6ca9993768af610dcb700781b35870b6e27"
+      },
+      "catalogo": {
+        "id": 12,
+        "ley": "Ley de Adquisiciones, Arrendamientos, Servicios y Administración de Bienes Muebles",
+        "fecha": "28/12/2016",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 13,
+      "nombre": "Ley de Agua Potable y Alcantarillado",
+      "lote": 1,
+      "estado": "procesado",
+      "detalle": {
+        "version": "f372b5ccf7670ad07783cf9b48215dd250969b90530c438db0e830911215d116",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "c467d3d681a8885c881a552ad29abdc347f431b5282bc25f2b2c7ba8ba7f3882"
+      },
+      "catalogo": {
+        "id": 13,
+        "ley": "Ley de Agua Potable y Alcantarillado",
+        "fecha": "09/02/2022",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 14,
+      "nombre": "Ley de Aranceles",
+      "lote": 2,
+      "estado": "procesado",
+      "detalle": {
+        "version": "66349896364c9a2dd5bc30ca93efb19b0eee68f93b9e9affe86bb78ed89d5c5b",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "986e195813adbf9b3d2c646fb8934e38c27a91afcf3fe8ea9e4d9941bf3651e0"
+      },
+      "catalogo": {
+        "id": 14,
+        "ley": "Ley de Aranceles",
+        "fecha": "31/10/1977",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 15,
+      "nombre": "Ley de Aranceles para los Abogados",
+      "lote": 2,
+      "estado": "procesado",
+      "detalle": {
+        "version": "2fadd090a061a24c4d870e178af8dfbcb936f2cd3ecb2f31aaa38337cfa162e7",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "798af4155e6bde0c0bd11d75cdcf76ca1eed1ab72758f2a4184bbf998b1f6a98"
+      },
+      "catalogo": {
+        "id": 15,
+        "ley": "Ley de Aranceles para los Abogados",
+        "fecha": "06/10/2021",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 16,
+      "nombre": "Ley de Atención y Protección a Víctimas",
+      "lote": 2,
+      "estado": "procesado",
+      "detalle": {
+        "version": "cce9ad930a7041152a36c0d738f8f4ecf14c98630de61d79c3945d8c01b3f94b",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "1d339b76218430b2808fd5ea2681c704c817d04d93a5ad4e03c4f8b1ae1418cb"
+      },
+      "catalogo": {
+        "id": 16,
+        "ley": "Ley de Atención y Protección a Víctimas",
+        "fecha": "17/07/2026",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 17,
+      "nombre": "Ley de Austeridad",
+      "lote": 2,
+      "estado": "procesado",
+      "detalle": {
+        "version": "96b8e893ff6dca93ca3abae6dd07fc41e2ad178fca06f545f05eaa920e5f192b",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "a330efff12e725e04c0c4c8ca845e2c5ea0e1508352a1c046d230818768940aa"
+      },
+      "catalogo": {
+        "id": 17,
+        "ley": "Ley de Austeridad",
+        "fecha": "06/02/2019",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 18,
+      "nombre": "Ley de Bibliotecas",
+      "lote": 2,
+      "estado": "procesado",
+      "detalle": {
+        "version": "f16e5e932da3256df6b74a40c048582911b833d3bf5ab655b84fa7266eb63299",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "196d2738371e08910a5abc64a1ccd5fdcbb974d842769c285911f8ebadd4c731"
+      },
+      "catalogo": {
+        "id": 18,
+        "ley": "Ley de Bibliotecas",
+        "fecha": "22/09/2021",
+        "id_tipoley": 1,
+        "nb_extword": "doc",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 19,
+      "nombre": "Ley de Cámaras de la Propiedad Urbana",
+      "lote": 2,
+      "estado": "procesado",
+      "detalle": {
+        "version": "8b26e0d1a38e8ef59b7a10497ed5ff4451626e0b4f8063a5e88fa3761bb8a18b",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "c04309e3cf05a26152bd3f2299f2fa90c9861d1f2d3557dc7c59965b97a8fee7"
+      },
+      "catalogo": {
+        "id": 19,
+        "ley": "Ley de Cámaras de la Propiedad Urbana",
+        "fecha": "14/11/1970",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 20,
+      "nombre": "Ley de Catastro",
+      "lote": 2,
+      "estado": "procesado",
+      "detalle": {
+        "version": "29e6d6bb9c8f494ebe16dbf64bae75ffc690fdf5632106eb65f04f97bb85af07",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "739de8b1dc0653f5a7dea37565562579cd73df6351c5fd6f63346596d3d26a61"
+      },
+      "catalogo": {
+        "id": 20,
+        "ley": "Ley de Catastro",
+        "fecha": "28/12/2016",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 21,
+      "nombre": "Ley de Ciencia, Tecnología e Innovación",
+      "lote": 2,
+      "estado": "procesado",
+      "detalle": {
+        "version": "60066946f4a9da6462ffd54c885eff9d8d3c50fc64cdfd67059deea9313c5ed0",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "76ff26c853183129fa644310e5471a1bd3855b465fddf035542a541c164e402e"
+      },
+      "catalogo": {
+        "id": 21,
+        "ley": "Ley de Ciencia, Tecnología e Innovación",
+        "fecha": "23/09/2022",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 22,
+      "nombre": "Ley de Contratos de Colaboración Público Privada",
+      "lote": 2,
+      "estado": "procesado",
+      "detalle": {
+        "version": "e22c2ec700fa4b1cbe99473b58c20dff40c81fb012be879602cead10791c6831",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "03924c0cc9e2ca3e0c784ccefb958b30b663ae229b4a425b34f49c1baf246b9b"
+      },
+      "catalogo": {
+        "id": 22,
+        "ley": "Ley de Contratos de Colaboración Público Privada",
+        "fecha": "27/12/2017",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 23,
+      "nombre": "Ley de Coordinación de Sanidad e Inocuidad Agrícola",
+      "lote": 2,
+      "estado": "procesado",
+      "detalle": {
+        "version": "2ffab4bcd0d74c1a65b9d6ef9cd950b7360a16dda89517e08a7f860406258bc0",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "df89f01a508a805ce8ef834a4a4b82ea6f196d9f6b0b6f5b9dfbdbdde1fb2d23"
+      },
+      "catalogo": {
+        "id": 23,
+        "ley": "Ley de Coordinación de Sanidad e Inocuidad Agrícola",
+        "fecha": "24/01/2018",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 24,
+      "nombre": "Ley de Coordinación Fiscal",
+      "lote": 3,
+      "estado": "procesado",
+      "detalle": {
+        "version": "04712a014954cc9fcc9f74f741b745c04c91042a3bf4b96f6528b00e88043053",
+        "revision": "46 expresiones gráficas restituidas en texto por página; cotejo general pendiente",
+        "markdown_sha256": "e9acdf9ebb27c0b71764bb27d0d9838897057891415bf48595a7574a3fdbca98"
+      },
+      "catalogo": {
+        "id": 24,
+        "ley": "Ley de Coordinación Fiscal",
+        "fecha": "06/06/2025",
+        "id_tipoley": 1,
+        "nb_extword": "doc",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 25,
+      "nombre": "Ley de Cultura",
+      "lote": 3,
+      "estado": "procesado",
+      "detalle": {
+        "version": "dd5d69caf024727bcab25a6a9258b9096650afcd2897f4e3b3d4c2fd22f7873e",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "ed4c0b919a82f570d51727ef0d9ffb7e41b13593c91000cb51f67106652915a2"
+      },
+      "catalogo": {
+        "id": 25,
+        "ley": "Ley de Cultura",
+        "fecha": "03/09/2021",
+        "id_tipoley": 1,
+        "nb_extword": "doc",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 26,
+      "nombre": "Ley de Cultura Física y Deporte",
+      "lote": 3,
+      "estado": "procesado",
+      "detalle": {
+        "version": "eb8d02e14054ae6a295c653abc4b44430fba3aa824ed549f88d1ec9d3b83fc21",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "7e85ad3f581cfc855dff18052bb7ddea4b66441a9fe9ae8e6eb73b151d656b9a"
+      },
+      "catalogo": {
+        "id": 26,
+        "ley": "Ley de Cultura Física y Deporte",
+        "fecha": "24/12/2025",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 27,
+      "nombre": "Ley de Desarrollo Forestal Sustentable",
+      "lote": 3,
+      "estado": "procesado",
+      "detalle": {
+        "version": "859747c12a35a15cd0b00cf5d80539c7ab75aa50808dcba93a8a52b4f85e653d",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "98b9f2e5895a9fd6924040e7aaf29643873443fbc6ec519b03d9f83ff6fc71b3"
+      },
+      "catalogo": {
+        "id": 27,
+        "ley": "Ley de Desarrollo Forestal Sustentable",
+        "fecha": "19/08/2016",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 28,
+      "nombre": "Ley de Desarrollo Ganadero",
+      "lote": 3,
+      "estado": "procesado",
+      "detalle": {
+        "version": "3f5e3f51fe9a5742877d69d954d31cbcbecd5ca4e1bf0da763aab47ab517795e",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "0502e4c2de04c64433f2e7449c531bf816e2b6e1ea88f9df41602918f3a5b50c"
+      },
+      "catalogo": {
+        "id": 28,
+        "ley": "Ley de Desarrollo Ganadero",
+        "fecha": "18/02/2022",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 29,
+      "nombre": "Ley de desarrollo rural sustentable",
+      "lote": 3,
+      "estado": "procesado",
+      "detalle": {
+        "version": "fee7f694ef2b4d85178a72e317f6ba03f3f49e196ce74cdf923d7acebcb3253a",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "ed92e5bc359efcdfb6654911b06c80f041830b054b61e65759984539d6ab742f"
+      },
+      "catalogo": {
+        "id": 29,
+        "ley": "Ley de desarrollo rural sustentable",
+        "fecha": "17/07/2026",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 30,
+      "nombre": "Ley de Deuda Pública",
+      "lote": 3,
+      "estado": "procesado",
+      "detalle": {
+        "version": "8651c0df94dea4d9e4103070b8b51e67c2ad2df7cf88ad5281dd1dc7cd43caa5",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "973d7b73d817fd48b474b27fd7b54052b52229f0323675d8167d3d100bd671c6"
+      },
+      "catalogo": {
+        "id": 30,
+        "ley": "Ley de Deuda Pública",
+        "fecha": "22/12/2017",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 31,
+      "nombre": "Ley de Educación",
+      "lote": 3,
+      "estado": "procesado",
+      "detalle": {
+        "version": "03230841e76029eb202a0910436d5ed0f77a257ac8df91a3f383097523131066",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "8ad2c17cb730042e1e37d202c983d44a777a69357ccd74cfd181fb9474c2da26"
+      },
+      "catalogo": {
+        "id": 31,
+        "ley": "Ley de Educación",
+        "fecha": "22/07/2026",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 32,
+      "nombre": "Ley de Ejecución de las Consecuencias Jurídicas del Delito",
+      "lote": 3,
+      "estado": "procesado",
+      "detalle": {
+        "version": "fdd8229e9bb4c55c79c2f57fcd889e2a168868e2de05d3c992388df6c7a01a97",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "c43ea2ea41b3b84b6ff4a901a4d5dfce65dfaf5137612aa8aca3bae5c5d091bb"
+      },
+      "catalogo": {
+        "id": 32,
+        "ley": "Ley de Ejecución de las Consecuencias Jurídicas del Delito",
+        "fecha": "30/05/2014",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 33,
+      "nombre": "Ley de Entidades Paraestatales",
+      "lote": 3,
+      "estado": "procesado",
+      "detalle": {
+        "version": "bd3c38c8cf49fb0f419202ad8202c1278524fde69ff40670da4f64ffe7058e74",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "8670dc6bb78598faccbcdebb8586643d92a61df64194fe5ff246207f8ac93fb4"
+      },
+      "catalogo": {
+        "id": 33,
+        "ley": "Ley de Entidades Paraestatales",
+        "fecha": "23/09/2022",
+        "id_tipoley": 1,
+        "nb_extword": "rtf",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 34,
+      "nombre": "Ley de Entrega y Recepción de los Asuntos y Recursos Públicos",
+      "lote": 4,
+      "estado": "procesado",
+      "detalle": {
+        "version": "89c313feafb4f136aa86a5c30d84fd5548ffb7efa52b50fe8016f0dcdf80fd89",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "ba04327b903b7a7bb29bf09b65ec6573c8ae2819047e21c805f64245258343f3"
+      },
+      "catalogo": {
+        "id": 34,
+        "ley": "Ley de Entrega y Recepción de los Asuntos y Recursos Públicos",
+        "fecha": "07/05/2010",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 35,
+      "nombre": "Ley de Extinción de Dominio",
+      "lote": 4,
+      "estado": "procesado",
+      "detalle": {
+        "version": "e6ba83c60131d9c332b691616099610d20387b947a5cae07bad781c6261ad81a",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "38af419b9ab339c3c26712cf67c058a96f1fe31cdcb09d18205162c32d7a14f2"
+      },
+      "catalogo": {
+        "id": 35,
+        "ley": "Ley de Extinción de Dominio",
+        "fecha": "18/07/2016",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 36,
+      "nombre": "Ley de Fomento a la Inversión para el Desarrollo Económico",
+      "lote": 4,
+      "estado": "procesado",
+      "detalle": {
+        "version": "9003b88e25c58395c65d6886098339465d8c0a9b17cf1aeba84459137ecd7989",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "d1d833eb0ba4e4865b513de0a70e0179c298051cce81ccd516f5eca83f6e00fe"
+      },
+      "catalogo": {
+        "id": 36,
+        "ley": "Ley de Fomento a la Inversión para el Desarrollo Económico",
+        "fecha": "24/08/2018",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 37,
+      "nombre": "Ley de Fomento a la Lectura y el Libro",
+      "lote": 4,
+      "estado": "procesado",
+      "detalle": {
+        "version": "d9bcc389a34296f511b3cf1503e71c0ff7a97c11c137e8cc27a8bc284bb89b3f",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "42b0d08b01b80682eb1b7a6649f2b15a2fdea057136ddcb8af29c80400fa3ce8"
+      },
+      "catalogo": {
+        "id": 37,
+        "ley": "Ley de Fomento a la Lectura y el Libro",
+        "fecha": "04/05/2016",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 38,
+      "nombre": "Ley de Fomento de Valores, Formación Cívica y Cultura de la Legalidad",
+      "lote": 4,
+      "estado": "procesado",
+      "detalle": {
+        "version": "e48a85d790ca46e91f8fcce2dfa85bd53e755d15d91d09bb7d235e38c6d3d2cd",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "2751118d87d8c8a7a6fb1677a9ff2fa6caae686c67425ca0412fd051a5f5e89e"
+      },
+      "catalogo": {
+        "id": 38,
+        "ley": "Ley de Fomento de Valores, Formación Cívica y Cultura de la Legalidad",
+        "fecha": "04/05/2016",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 39,
+      "nombre": "Ley de Fomento Minero",
+      "lote": 4,
+      "estado": "procesado",
+      "detalle": {
+        "version": "dc8d38c73fa47a41e073b70696da3b8c3aa80be5107d317d4764ddd629257a08",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "2c32ebcef01eaaa1b66ec57972f8f2f3433a9b5d91fcb62b2d334651e7e9e93e"
+      },
+      "catalogo": {
+        "id": 39,
+        "ley": "Ley de Fomento Minero",
+        "fecha": "27/12/2019",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 40,
+      "nombre": "Ley de Fomento para el Desarrollo Económico de Madres Jefas de Familia",
+      "lote": 4,
+      "estado": "procesado",
+      "detalle": {
+        "version": "0f73b2edcc34d568119f4c4093607858f91f552eca823a62d25e58a2e4c6801e",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "656bd941e481bee62707fafd137ef92ae5de56fa8a368de7730dfaaffacdd7fb"
+      },
+      "catalogo": {
+        "id": 40,
+        "ley": "Ley de Fomento para el Desarrollo Económico de Madres Jefas de Familia",
+        "fecha": "08/09/2017",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 41,
+      "nombre": "Ley de Gobierno Electrónico",
+      "lote": 4,
+      "estado": "procesado",
+      "detalle": {
+        "version": "297ff97cd9f9ea7cd74621803026b20459e08d6663c00bf84fd43e994ac715db",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "5ed082248cf8d35a892dd5c7b3d0e17a82bd1a5fcc86d241588afb7228ffe623"
+      },
+      "catalogo": {
+        "id": 41,
+        "ley": "Ley de Gobierno Electrónico",
+        "fecha": "01/08/2016",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 42,
+      "nombre": "Ley de Gobierno Municipal",
+      "lote": 0,
+      "estado": "piloto_verificado",
+      "detalle": {
+        "version": "3d93c0dac7666ff9d6f9fb9798ddc605c818f5c0f972cf66eb7dda41ca5f83c0",
+        "revision": "Conversión verificada: controles completos y cotejo visual por muestra",
+        "markdown_sha256": "09235f3d50da4d57591b521b8fb08d785c84c873ef38ceec6622d3cf1f517ef1"
+      },
+      "catalogo": {
+        "id": 42,
+        "ley": "Ley de Gobierno Municipal",
+        "fecha": "17/08/2026",
+        "id_tipoley": 1,
+        "nb_extword": "doc",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 43,
+      "nombre": "Ley de Hacienda",
+      "lote": 4,
+      "estado": "procesado",
+      "detalle": {
+        "version": "c959652ecac79ec5d8af696ad14d782e253c66bb85f7ee0285c88ba47b75c482",
+        "revision": "Incidencia puntual resuelta; cotejo general pendiente",
+        "markdown_sha256": "fd15f4d73f95ce3096da373abfeeca7807835d08ebb89641077d6e6f11d793af"
+      },
+      "catalogo": {
+        "id": 43,
+        "ley": "Ley de Hacienda",
+        "fecha": "17/07/2026",
+        "id_tipoley": 1,
+        "nb_extword": "doc",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 44,
+      "nombre": "Ley de Hacienda Municipal",
+      "lote": 4,
+      "estado": "procesado",
+      "detalle": {
+        "version": "ca013876475f8d27b9fdc42ff715636a3a3a88804c137f0813442681a316a92b",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "bb2c32c590c017db87d98ea1b6e16078ec4d24ea087dfda9b591560626825727"
+      },
+      "catalogo": {
+        "id": 44,
+        "ley": "Ley de Hacienda Municipal",
+        "fecha": "17/06/2024",
+        "id_tipoley": 1,
+        "nb_extword": "doc",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 45,
+      "nombre": "Ley de Instituciones de Asistencia Privada",
+      "lote": 5,
+      "estado": "procesado",
+      "detalle": {
+        "version": "4d3819833ff7fe881e7fa9929637dd6933aea44609d6edea9f7671acc36e0f5d",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "56d513ded22a80150044e6cdd0c4245d119373644c2b55521eb708bc6873e008"
+      },
+      "catalogo": {
+        "id": 45,
+        "ley": "Ley de Instituciones de Asistencia Privada",
+        "fecha": "28/12/2016",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 46,
+      "nombre": "Ley de Instituciones y Procedimientos Electorales",
+      "lote": 5,
+      "estado": "procesado",
+      "detalle": {
+        "version": "5411c55bf47e69cb8cc061341f0085360786579d7331c73babd089ee032dc2a8",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "94245c9fc8f397d9d26394afcb95add4cab36e6cfba08784e93ed82e1300d332"
+      },
+      "catalogo": {
+        "id": 46,
+        "ley": "Ley de Instituciones y Procedimientos Electorales",
+        "fecha": "30/08/2024",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 47,
+      "nombre": "Ley de Integración Social de Personas con Discapacidad",
+      "lote": 5,
+      "estado": "procesado",
+      "detalle": {
+        "version": "162424fbc4bef8bb995c00aa9f6a4c15238dc9c35538a114277e47111143b8b3",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "81cb10b45b960c5677659630fd97650992f2cef0096306407a5fd307ff5a9007"
+      },
+      "catalogo": {
+        "id": 47,
+        "ley": "Ley de Integración Social de Personas con Discapacidad",
+        "fecha": "05/10/2018",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 48,
+      "nombre": "Ley de Justicia Administrativa",
+      "lote": 5,
+      "estado": "procesado",
+      "detalle": {
+        "version": "80d786a6efcad69ef844a85fdad6e6935cc48e786112b02811c6bf86c03aa39a",
+        "revision": "Incidencia puntual resuelta; cotejo general pendiente",
+        "markdown_sha256": "4f68ad0c3183c03af84b3edd427aeb1cd62d8418d75773fc6d662fa441572dd8"
+      },
+      "catalogo": {
+        "id": 48,
+        "ley": "Ley de Justicia Administrativa",
+        "fecha": "27/09/2021",
+        "id_tipoley": 1,
+        "nb_extword": "doc",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 49,
+      "nombre": "Ley de la Auditoría Superior del Estado de Sinaloa",
+      "lote": 5,
+      "estado": "procesado",
+      "detalle": {
+        "version": "a6306b3f372e96fd5620c59e132be1ed11a413af0a0f871abcfa49bec04529bc",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "429d0c3cc2d03749eaa3fa0070187fa32951ea2fb195f0df4a72e552b0b79d89"
+      },
+      "catalogo": {
+        "id": 49,
+        "ley": "Ley de la Auditoría Superior del Estado de Sinaloa",
+        "fecha": "15/07/2026",
+        "id_tipoley": 1,
+        "nb_extword": "doc",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 50,
+      "nombre": "Ley de la Defensoría Pública",
+      "lote": 5,
+      "estado": "procesado",
+      "detalle": {
+        "version": "57b4d905d425e7bc4da5610e576db82041f587dcc233a529684134b7c8e1d354",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "37891d6488f2d2361cc2909a83b2b31935d93e2bf4b7e2b5c41c05bc260342c8"
+      },
+      "catalogo": {
+        "id": 50,
+        "ley": "Ley de la Defensoría Pública",
+        "fecha": "13/12/2021",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 51,
+      "nombre": "Ley de la Juventud",
+      "lote": 5,
+      "estado": "procesado",
+      "detalle": {
+        "version": "5a5acd1d54a8800cef960beb15b93f280d4a3e5783d9164abb54a405c5689101",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "59d785f7bb3ae995a1eab070a7cafd291b0dabff304610d3e1551da51ac3831c"
+      },
+      "catalogo": {
+        "id": 51,
+        "ley": "Ley de la Juventud",
+        "fecha": "18/04/2016",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 52,
+      "nombre": "Ley de los Comités Locales de Caminos Vecinales",
+      "lote": 5,
+      "estado": "procesado",
+      "detalle": {
+        "version": "d3fa62fb49363359295887b22e237353250b727b0891db32c35a04aae720a053",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "1a09dad318ce99bfa908fff071e873a81c22d4e6c2b0e9b7336b813f814bc8a4"
+      },
+      "catalogo": {
+        "id": 52,
+        "ley": "Ley de los Comités Locales de Caminos Vecinales",
+        "fecha": "27/06/1983",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 53,
+      "nombre": "Ley de los Derechos de las Personas Adultas Mayores",
+      "lote": 5,
+      "estado": "procesado",
+      "detalle": {
+        "version": "94d39873968bedcb9489dd82eb8fe08ad2f73b47ac5792d610d8bc9340147098",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "80de74e315efa41c1fb5daff6a670b580cd96e53dfb8dfdede0d2578cbf1ea7f"
+      },
+      "catalogo": {
+        "id": 53,
+        "ley": "Ley de los Derechos de las Personas Adultas Mayores",
+        "fecha": "29/10/2021",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 54,
+      "nombre": "Ley de los Derechos de los Pueblos y Comunidades Indígenas",
+      "lote": 5,
+      "estado": "procesado",
+      "detalle": {
+        "version": "b3c41028776c2ff1b78af483eb8d2adb2426f2193fde4d6d7e63127315808c96",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "0fffc56f406e575a0f8aa4a2cfbc45c7c451714bba789c98eb7f56c995693843"
+      },
+      "catalogo": {
+        "id": 54,
+        "ley": "Ley de los Derechos de los Pueblos y Comunidades Indígenas",
+        "fecha": "09/02/2018",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 55,
+      "nombre": "Ley de los Derechos de Niñas, Niños y Adolescentes",
+      "lote": 6,
+      "estado": "procesado",
+      "detalle": {
+        "version": "44136de51a30a06edced8ac594f1286379f63d017a40c189b84a21342ffd7dda",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "431b31c6b2b407de3e83ce1e63b6dc2ee2a17406982eaaf1c8568b1fe4eac065"
+      },
+      "catalogo": {
+        "id": 55,
+        "ley": "Ley de los Derechos de Niñas, Niños y Adolescentes",
+        "fecha": "22/07/2026",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 56,
+      "nombre": "Ley de los Trabajadores al Servicio de los Municipios\r\n",
+      "lote": 6,
+      "estado": "procesado",
+      "detalle": {
+        "version": "f3d36c66b290018b7713bd5fc78a8ccde17e0bba5cee6f8c6b356ac88c5b534c",
+        "revision": "Incidencia puntual resuelta; cotejo general pendiente",
+        "markdown_sha256": "5140b031779cf9e72eb8d16090edce3520bba0f88a6b2b2ffd49e6fb761266ef"
+      },
+      "catalogo": {
+        "id": 56,
+        "ley": "Ley de los Trabajadores al Servicio de los Municipios\r\n",
+        "fecha": "22/11/2024",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 57,
+      "nombre": "Ley de los Trabajadores al Servicio del Estado de Sinaloa",
+      "lote": 6,
+      "estado": "procesado",
+      "detalle": {
+        "version": "45f7d7bdd38f65d07e8307c7b9ad8cfc0522b620c0cf568ad53f67f0b4bd93f0",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "224a8e20024dced954528007a722df8456c7e99043bb09026c506a4a34ae6c23"
+      },
+      "catalogo": {
+        "id": 57,
+        "ley": "Ley de los Trabajadores al Servicio del Estado de Sinaloa",
+        "fecha": "13/02/2026",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 58,
+      "nombre": "Ley de Mejora Regulatoria y Gestión Empresarial",
+      "lote": 6,
+      "estado": "procesado",
+      "detalle": {
+        "version": "16e2d1d0d3b81bede5b68ac56a3a55f417c37ef027cab3b55a150e410a5b7a2d",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "8916bc9a219a7be24c49b0a4e26261e4cade12c21617a9e5234d4571636b26cb"
+      },
+      "catalogo": {
+        "id": 58,
+        "ley": "Ley de Mejora Regulatoria y Gestión Empresarial",
+        "fecha": "07/11/2018",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 59,
+      "nombre": "Ley de Movilidad Sustentable y Seguridad Vial",
+      "lote": 6,
+      "estado": "procesado",
+      "detalle": {
+        "version": "7547ce52c2a97d3d318b94d1c446a824c8b215464df9875b759ef92ae78e9ef6",
+        "revision": "Incidencia puntual resuelta; cotejo general pendiente",
+        "markdown_sha256": "3565d03111b5da7dc2f68bdacb3a008067c9fb4b5cd1a1ff93b0d2b17ad3dbb6"
+      },
+      "catalogo": {
+        "id": 59,
+        "ley": "Ley de Movilidad Sustentable y Seguridad Vial",
+        "fecha": "22/07/2026",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 60,
+      "nombre": "Ley de Obras Públicas y Servicios Relacionados con las Mismas",
+      "lote": 6,
+      "estado": "procesado",
+      "detalle": {
+        "version": "d5e0b58c45b11f9acd50d5b93ad7ccf4d125656d961ec4ffd5fa51ac0bd98394",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "1a099a27788d9fa899b328dc79301e31dc5364aca3282110a24b6544c1afa267"
+      },
+      "catalogo": {
+        "id": 60,
+        "ley": "Ley de Obras Públicas y Servicios Relacionados con las Mismas",
+        "fecha": "23/10/2020",
+        "id_tipoley": 1,
+        "nb_extword": "doc",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 61,
+      "nombre": "Ley de Ordenamiento Territorial y Desarrollo Urbano",
+      "lote": 6,
+      "estado": "procesado",
+      "detalle": {
+        "version": "670c04efc88ae9e09a6edcf73ffc417ea974ac18e7c7b1f194a38d42b3007ff3",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "17b74ee6dae0aa6213f0f7dba5df4c8850516cb27b29edd1e1ec542240315dba"
+      },
+      "catalogo": {
+        "id": 61,
+        "ley": "Ley de Ordenamiento Territorial y Desarrollo Urbano",
+        "fecha": "06/11/2024",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 62,
+      "nombre": "Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Sinaloa",
+      "lote": 6,
+      "estado": "procesado",
+      "detalle": {
+        "version": "342151704a56584c67fbb4dedf432aaa6990eed2f87130ed4a90b800c0e2d02f",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "bd90634cdf4a55d041c60d2cd34948abffd145ffaacc7a7339a94c07293d77bb"
+      },
+      "catalogo": {
+        "id": 62,
+        "ley": "Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Sinaloa",
+        "fecha": "23/09/2022",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 63,
+      "nombre": "Ley de Organizaciones Agrícolas",
+      "lote": 6,
+      "estado": "procesado",
+      "detalle": {
+        "version": "027f8487d1b8be2b34e6243b0493f41e5b7c5ce72971f42171da960af63b128d",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "3f9bb6ca99fa0ba2028de46faf7ae35f1c7c822b650ba2abd315785a22eafc49"
+      },
+      "catalogo": {
+        "id": 63,
+        "ley": "Ley de Organizaciones Agrícolas",
+        "fecha": "20/12/2017",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 64,
+      "nombre": "Ley de Participación Ciudadana",
+      "lote": 6,
+      "estado": "procesado",
+      "detalle": {
+        "version": "863ae697c65714874431c1574eb96a4c2f0ba97f9dbfa16f0a2a840d8d33a0bb",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "9771d84e52ba837b5ecc309b247f445e68a7226ca538357a0b0451019df9ee28"
+      },
+      "catalogo": {
+        "id": 64,
+        "ley": "Ley de Participación Ciudadana",
+        "fecha": "25/08/2023",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 65,
+      "nombre": "Ley de Pensiones",
+      "lote": 7,
+      "estado": "procesado",
+      "detalle": {
+        "version": "fa359e5febc36b5fc44b1406d60d7c7fbfd4107e67e9850990b3cfc561b4c939",
+        "revision": "Tabla de pensiones conservada como imagen; valores no transcritos",
+        "markdown_sha256": "476fcea05075b78434f94a145ae1dc90b1c328f42ac9925782e1858e3f98303c"
+      },
+      "catalogo": {
+        "id": 65,
+        "ley": "Ley de Pensiones",
+        "fecha": "04/12/2020",
+        "id_tipoley": 1,
+        "nb_extword": "doc",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 66,
+      "nombre": "Ley de Pesca y Acuacultura Sustentables",
+      "lote": 7,
+      "estado": "procesado",
+      "detalle": {
+        "version": "b0a14e588bb7253aa975f508df2b2bb2f530e599d0055a64b867cf441a4cf7ce",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "f584b0be3a7535732dba771235d90f3b8a09ad864c3acb6050124d64d2cfb454"
+      },
+      "catalogo": {
+        "id": 66,
+        "ley": "Ley de Pesca y Acuacultura Sustentables",
+        "fecha": "16/07/2025",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 67,
+      "nombre": "Ley de Planeación",
+      "lote": 7,
+      "estado": "procesado",
+      "detalle": {
+        "version": "4df2544c9c46091a7d431fa761168cf601fc088341ecbea6811ebc76e544a63e",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "d71b24c8f7d32c5b1ea7363d0197385dbfbb13b32dd330c3ca08d138376e96a7"
+      },
+      "catalogo": {
+        "id": 67,
+        "ley": "Ley de Planeación",
+        "fecha": "22/12/2017",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 68,
+      "nombre": "Ley de prestación de servicios para la atención, cuidado y desarrollo integral infantil",
+      "lote": 7,
+      "estado": "procesado",
+      "detalle": {
+        "version": "9aa0df2dcb1c929bc8c9e84a43d319a6048eb56b32a88608202be3bc9f05f5da",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "ec58fc1cb1e806b430cf1be8fc37f7d60a13b71ea29f95ac0e7edcaebbe15fb7"
+      },
+      "catalogo": {
+        "id": 68,
+        "ley": "Ley de prestación de servicios para la atención, cuidado y desarrollo integral infantil",
+        "fecha": "11/08/2023",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 69,
+      "nombre": "Ley de Presupuesto y Responsabilidad Hacendaria",
+      "lote": 7,
+      "estado": "procesado",
+      "detalle": {
+        "version": "4396e295f19eec1078121fc574bb8901b3870971ff25f424a02783206ee77dc9",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "71d5b24aba7e9e5d88ee473db6a06ade838f386155b1616ddb08e3925e40e221"
+      },
+      "catalogo": {
+        "id": 69,
+        "ley": "Ley de Presupuesto y Responsabilidad Hacendaria",
+        "fecha": "21/08/2020",
+        "id_tipoley": 1,
+        "nb_extword": "rtf",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 70,
+      "nombre": "Ley de Profesiones",
+      "lote": 0,
+      "estado": "piloto_verificado",
+      "detalle": {
+        "version": "615eac6e3f921042f3674b4f35f2be6ffb1c2527e5d994bf2684ebbd8888fb36",
+        "revision": "Conversión verificada: controles completos y cotejo visual por muestra",
+        "markdown_sha256": "bec177f35f250dcf264b5852a2084afabbc8050a2158a72b8340d3cbba5e2a74"
+      },
+      "catalogo": {
+        "id": 70,
+        "ley": "Ley de Profesiones",
+        "fecha": "27/09/2019",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 71,
+      "nombre": "Ley de Protección a los Animales",
+      "lote": 7,
+      "estado": "procesado",
+      "detalle": {
+        "version": "0755634740758c627f32de368a64c20f78a2001d28304c80022a3954ad83c62e",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "8be214fa26555cefe18039703ab34bb279064da9c51a33650f4cbf0dab34e608"
+      },
+      "catalogo": {
+        "id": 71,
+        "ley": "Ley de Protección a los Animales",
+        "fecha": "18/08/2025",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 72,
+      "nombre": "Ley de Protección Civil",
+      "lote": 7,
+      "estado": "procesado",
+      "detalle": {
+        "version": "58c60677e3cd52d157f6408536c8bed9b8662d39be23bdaf57b79ac84a076c21",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "10338be004d393a2047f695c475d4d4de1b880ff04ca4ae262c7d2a589cee461"
+      },
+      "catalogo": {
+        "id": 72,
+        "ley": "Ley de Protección Civil",
+        "fecha": "01/11/2017",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 73,
+      "nombre": "Ley de Protección de Datos Personales en Posesión de Sujetos Obligados",
+      "lote": 7,
+      "estado": "procesado",
+      "detalle": {
+        "version": "ef06acfcdde0c939fb0291e8720c1f0b418475ddab25ccfd6d3a76835f59879d",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "fb812e6dfea72747ab64532da174beabf671122e167d1c6d7035b0af29304c31"
+      },
+      "catalogo": {
+        "id": 73,
+        "ley": "Ley de Protección de Datos Personales en Posesión de Sujetos Obligados",
+        "fecha": "26/07/2017",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 74,
+      "nombre": "Ley de Regularización de Predios Rurales",
+      "lote": 7,
+      "estado": "procesado",
+      "detalle": {
+        "version": "c554d9c61035bc55db71012aa848f1eac0849c9dab9886140f770598f6743e0c",
+        "revision": "Incidencia puntual resuelta; cotejo general pendiente",
+        "markdown_sha256": "0bc73380a95ee326f4f00dbdbe9582b84f59961a337753afc7225c274f18be8b"
+      },
+      "catalogo": {
+        "id": 74,
+        "ley": "Ley de Regularización de Predios Rurales",
+        "fecha": "28/12/2016",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 75,
+      "nombre": "Ley de Remuneraciones de los Servidores Públicos",
+      "lote": 7,
+      "estado": "procesado",
+      "detalle": {
+        "version": "302127bab8ff722693a032101159ba9a1ba75720cbf0ab989725b36658390799",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "b6a138713fd30a6ad47e12434472d6f4530d29bd990673709fd2370131d45f49"
+      },
+      "catalogo": {
+        "id": 75,
+        "ley": "Ley de Remuneraciones de los Servidores Públicos",
+        "fecha": "01/02/2019",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 76,
+      "nombre": "Ley de Residuos",
+      "lote": 8,
+      "estado": "procesado",
+      "detalle": {
+        "version": "9848803f9778d4d99ab84f6f3997b49b4ae4e06fdc777cb127b6b2169d23e259",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "f6e399abca4b3fe3dd90eec8be606b7ec37113462a1b7eb0288af2de308a4a06"
+      },
+      "catalogo": {
+        "id": 76,
+        "ley": "Ley de Residuos",
+        "fecha": "26/08/2026",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 77,
+      "nombre": "Ley de Responsabilidades Administrativas",
+      "lote": 8,
+      "estado": "procesado",
+      "detalle": {
+        "version": "c4b744c24897f15f55adbd2f10b4966b849b54e77dcbbec4916ac82d5ad0affd",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "76db829c7e215c66a1824de7f8c7f5efc7eb673448cf89eee7386506b80a468d"
+      },
+      "catalogo": {
+        "id": 77,
+        "ley": "Ley de Responsabilidades Administrativas",
+        "fecha": "13/02/2026",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 78,
+      "nombre": "Ley de Responsabilidades de los Servidores Públicos",
+      "lote": 8,
+      "estado": "procesado",
+      "detalle": {
+        "version": "24faa948b92afe34cbb04c0930d6a24dee8101fe4a55a4a7f29941702ba03360",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "d241294fd9e9d9d142a9632d5acc25082f022624d2b0a2e37bcbfa519ff5f8fc"
+      },
+      "catalogo": {
+        "id": 78,
+        "ley": "Ley de Responsabilidades de los Servidores Públicos",
+        "fecha": "22/12/2017",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 79,
+      "nombre": "Ley de Salud",
+      "lote": 8,
+      "estado": "procesado",
+      "detalle": {
+        "version": "a8507f01e1cdc69d38a12c95291c8d9d2c67f30e03118a21d6f48031c87594f8",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "bc5e22aa8a6265370b493ec33f8f3bcbac92d6289aa457c044a2c7befe30518d"
+      },
+      "catalogo": {
+        "id": 79,
+        "ley": "Ley de Salud",
+        "fecha": "19/06/2026",
+        "id_tipoley": 1,
+        "nb_extword": "doc",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 80,
+      "nombre": "Ley de Salud Mental",
+      "lote": 8,
+      "estado": "procesado",
+      "detalle": {
+        "version": "851df5bf79b18c9bb6cf26bf20f12be6f0f15607fae37fb1278a3637e19f4081",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "f46ebb3bf497385e88dd1900ee26d528686abaf896c9206f004e0b5f68047ce0"
+      },
+      "catalogo": {
+        "id": 80,
+        "ley": "Ley de Salud Mental",
+        "fecha": "17/07/2026",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 81,
+      "nombre": "Ley de Seguridad Pública",
+      "lote": 8,
+      "estado": "procesado",
+      "detalle": {
+        "version": "8fb07082444ded70a1152239b3dfb04cf5d8321a021d2cd4e4e4195a8820b1c8",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "c128826463794face1a18885643aaeaa1fa54be5f5fe5c8b1466531f3b227842"
+      },
+      "catalogo": {
+        "id": 81,
+        "ley": "Ley de Seguridad Pública",
+        "fecha": "22/07/2026",
+        "id_tipoley": 1,
+        "nb_extword": "doc",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 82,
+      "nombre": "Ley de Sociedades Mutualistas",
+      "lote": 8,
+      "estado": "procesado",
+      "detalle": {
+        "version": "3476234df0b55ab2e7a7f0821e71ce33d46b48f1bb15765cac550d5665ba30d0",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "65fb4fc2187b40044008daf1fa2e0c55f78111ff9fa56dbe93d07ec3a54e9fe9"
+      },
+      "catalogo": {
+        "id": 82,
+        "ley": "Ley de Sociedades Mutualistas",
+        "fecha": "05/03/1982",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 83,
+      "nombre": "Ley de Transparencia y Acceso a la Información Pública",
+      "lote": 8,
+      "estado": "procesado",
+      "detalle": {
+        "version": "f91d60fb5c66609bb70c8593cc94cb0889336df448a29783dfedca2b10a35fc4",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "f09d22544451923c97b6e3a54bf3b40e18ca86a906eccd179677a6f0954b3d2a"
+      },
+      "catalogo": {
+        "id": 83,
+        "ley": "Ley de Transparencia y Acceso a la Información Pública",
+        "fecha": "23/09/2022",
+        "id_tipoley": 1,
+        "nb_extword": "doc",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 84,
+      "nombre": "Ley de Vivienda",
+      "lote": 8,
+      "estado": "procesado",
+      "detalle": {
+        "version": "b395cffda08753b464a9bb6175d6bd172e7d3bb0e3a6b4412be246c84b1f84d7",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "72cc96f964689d7f07d8ab2c3c3134aae5073436be773f7ccd8ed5c01888d1f8"
+      },
+      "catalogo": {
+        "id": 84,
+        "ley": "Ley de Vivienda",
+        "fecha": "15/08/2018",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 85,
+      "nombre": "Ley del Instituto de Evaluación Educativa",
+      "lote": 8,
+      "estado": "procesado",
+      "detalle": {
+        "version": "1312973bcd0174bb5b6d42b02988c57f32c25221082f043d1b2ec9509585014d",
+        "revision": "Numeración cotejada con Periódico Oficial; cotejo general pendiente",
+        "markdown_sha256": "0f9de93d2b3c47fd6e3365b45c40b374f5b9ff4608bbb1099779c1186d5b9c39"
+      },
+      "catalogo": {
+        "id": 85,
+        "ley": "Ley del Instituto de Evaluación Educativa",
+        "fecha": "05/10/2007",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 87,
+      "nombre": "Ley del Mérito Social del Estado de Sinaloa",
+      "lote": 9,
+      "estado": "procesado",
+      "detalle": {
+        "version": "60ecded4da65a988f1db7c244335910416ae63cb656dded53d6ff4e4160a34b9",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "a6db298268a0ac95b63f427fd56ec8a85a3ca2f7d9e7a3c6fc521cdccd29e2e4"
+      },
+      "catalogo": {
+        "id": 87,
+        "ley": "Ley del Mérito Social del Estado de Sinaloa",
+        "fecha": "04/02/1980",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 88,
+      "nombre": "Ley del Notariado del Estado de Sinaloa",
+      "lote": 9,
+      "estado": "procesado",
+      "detalle": {
+        "version": "7df6a82a57fab2b0321e4d7c3b9345b1f0cfd09dfc88c9cdcad022009fb3e7e2",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "72fa191fd93f6e7600aba06ab34ac32f9bcb8991b2523d33d31ccce3660e3f7f"
+      },
+      "catalogo": {
+        "id": 88,
+        "ley": "Ley del Notariado del Estado de Sinaloa",
+        "fecha": "23/09/2022",
+        "id_tipoley": 1,
+        "nb_extword": "doc",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 89,
+      "nombre": "Ley del Servicio de Administración Tributaria",
+      "lote": 9,
+      "estado": "procesado",
+      "detalle": {
+        "version": "586c9267bc54eb59c0fd5823beb407cb4fb9df4a205bba0d50ebbed24aa7d6ae",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "94e16b0bc13d295da02df987481ac93e811a99ae35f851fd8acba2cca0b0f606"
+      },
+      "catalogo": {
+        "id": 89,
+        "ley": "Ley del Servicio de Administración Tributaria",
+        "fecha": "22/12/2017",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 90,
+      "nombre": "Ley del Sistema Anticorrupción",
+      "lote": 9,
+      "estado": "procesado",
+      "detalle": {
+        "version": "a0ea0d44c3b84ca0267fe1b2631ce1489f14607777b8ab8568ef081d5681f597",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "9434c213a209eb31e54d0f9fafb8999e0468c67cd5237ef43936950c18b4b9b6"
+      },
+      "catalogo": {
+        "id": 90,
+        "ley": "Ley del Sistema Anticorrupción",
+        "fecha": "23/09/2022",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 91,
+      "nombre": "Ley del Sistema de Medios de Impugnación en Materia Electoral y de Participación Ciudadana",
+      "lote": 9,
+      "estado": "procesado",
+      "detalle": {
+        "version": "30b1e2e7e7cf96e7bc0583ae45bdcabc1efc61d1663f0c8cd9fcfd417e1bfa8a",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "87f38d9f152fce3a13e4fa28b0c6a0598667a0a454ec8a3aa0c3aa4e890501df"
+      },
+      "catalogo": {
+        "id": 91,
+        "ley": "Ley del Sistema de Medios de Impugnación en Materia Electoral y de Participación Ciudadana",
+        "fecha": "20/01/2023",
+        "id_tipoley": 1,
+        "nb_extword": "doc",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 92,
+      "nombre": "Ley en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Estatal de Búsqueda de Personas de Sinaloa",
+      "lote": 9,
+      "estado": "procesado",
+      "detalle": {
+        "version": "32368ec26c763da766f07d4db46aae2de6c67f31ec7e0690f8e4bc5e2eee67a4",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "f1923c53c3b216eb3d9a4075531eb6302b8498b1b66b91f350f3764aabbcaf43"
+      },
+      "catalogo": {
+        "id": 92,
+        "ley": "Ley en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Estatal de Búsqueda de Personas de Sinaloa",
+        "fecha": "24/12/2025",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 93,
+      "nombre": "Ley Orgánica de la Administración Pública",
+      "lote": 9,
+      "estado": "procesado",
+      "detalle": {
+        "version": "ef7a3baa0c3c819ce53bdc85537244615ce3be66e328f3ec66e4a0998359a258",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "a80fa49232051a33a3eb08720beeeeabb9033cef45b034ece51308ded6822b7d"
+      },
+      "catalogo": {
+        "id": 93,
+        "ley": "Ley Orgánica de la Administración Pública",
+        "fecha": "23/09/2022",
+        "id_tipoley": 1,
+        "nb_extword": "doc",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 94,
+      "nombre": "Ley Orgánica de la Comisión Estatal de Derechos Humanos",
+      "lote": 9,
+      "estado": "procesado",
+      "detalle": {
+        "version": "ae892abc114710f62834fe10bc2ff1536b64eb1b66cfa90e8ffb79c81a2b1af3",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "abe239141da5d48337f9e0cda375e8c01550f25cf88d5600f0097f8e54ed2c69"
+      },
+      "catalogo": {
+        "id": 94,
+        "ley": "Ley Orgánica de la Comisión Estatal de Derechos Humanos",
+        "fecha": "23/09/2022",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 95,
+      "nombre": "Ley Orgánica de la Fiscalía General",
+      "lote": 9,
+      "estado": "procesado",
+      "detalle": {
+        "version": "74721bea89706f522ac84048c78adcff1fbb8253bba32dddfc353fc2f91fbf53",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "81c3f13a9ea681ac0f8d76cfdbab947f13940cf1c0744dd1522743a8bb5a7e01"
+      },
+      "catalogo": {
+        "id": 95,
+        "ley": "Ley Orgánica de la Fiscalía General",
+        "fecha": "31/12/2025",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 96,
+      "nombre": "Ley Orgánica de la Procuraduría Fiscal",
+      "lote": 9,
+      "estado": "procesado",
+      "detalle": {
+        "version": "527b53a09169714f7bd5cb05034898f7a858aa8d3b4eb99b885730aeb82c3c2b",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "b267f08ef5504e2f832c718d0f2aa35c3ecf729996023823c287b6d0934eed7b"
+      },
+      "catalogo": {
+        "id": 96,
+        "ley": "Ley Orgánica de la Procuraduría Fiscal",
+        "fecha": "22/12/2017",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 97,
+      "nombre": "Ley Orgánica de la Universidad Autónoma de Occidente",
+      "lote": 10,
+      "estado": "procesado",
+      "detalle": {
+        "version": "e9342c2721119e807ecdaf3e764aeee609cbbcc2a227111554540422e060cc68",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "96900dfff290c9709f618c4de0077bbe80cb5a5e14cc2f156885616a69c9a0af"
+      },
+      "catalogo": {
+        "id": 97,
+        "ley": "Ley Orgánica de la Universidad Autónoma de Occidente",
+        "fecha": "05/04/2024",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 98,
+      "nombre": "Ley Orgánica de la Universidad Autónoma de Sinaloa",
+      "lote": 10,
+      "estado": "procesado",
+      "detalle": {
+        "version": "0256426319ed2d20854e4626192de442f5a12f87791304c61b3f0d4178cdb66a",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "b11207395fc85b0411c3cfeaa4662a16ec8885dc75ff7c8371aa4e443285291b"
+      },
+      "catalogo": {
+        "id": 98,
+        "ley": "Ley Orgánica de la Universidad Autónoma de Sinaloa",
+        "fecha": "02/10/2024",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 99,
+      "nombre": "Ley Orgánica de la Universidad Autónoma Indígena de México",
+      "lote": 10,
+      "estado": "procesado",
+      "detalle": {
+        "version": "6985562899a5265bf740cfd542fa4eb388b7e5d86d116c8ee6209642ab5b9d7a",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "e3fccb98d37f046a95ad0b80e9a4712d556d624f9245d06ba3a5406d4b9bec50"
+      },
+      "catalogo": {
+        "id": 99,
+        "ley": "Ley Orgánica de la Universidad Autónoma Indígena de México",
+        "fecha": "27/11/2019",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 100,
+      "nombre": "Ley Orgánica de la Universidad Pedagógica del Estado de Sinaloa",
+      "lote": 10,
+      "estado": "procesado",
+      "detalle": {
+        "version": "effc39d833cfaf5988efffbaea9141ae21bf46c7bc34649e60c94cb9e03e662f",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "29eb8fdffd059c0215bbf34c194f3b30c36d27e653fec63a753cf188617db338"
+      },
+      "catalogo": {
+        "id": 100,
+        "ley": "Ley Orgánica de la Universidad Pedagógica del Estado de Sinaloa",
+        "fecha": "08/04/2013",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 101,
+      "nombre": "Ley Orgánica del Congreso del Estado de Sinaloa",
+      "lote": 10,
+      "estado": "procesado",
+      "detalle": {
+        "version": "975c630a6a061c7024d42a82ee3f97ff99ecd734e381f4d8eda8d224d6f2e69b",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "c90ebbdfc1acf3eaffb892710937117e38b17858aa370cee239965ab062c58c6"
+      },
+      "catalogo": {
+        "id": 101,
+        "ley": "Ley Orgánica del Congreso del Estado de Sinaloa",
+        "fecha": "14/02/2025",
+        "id_tipoley": 1,
+        "nb_extword": "doc",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 102,
+      "nombre": "Ley Orgánica del Fondo Auxiliar para la Administración de Justicia",
+      "lote": 10,
+      "estado": "procesado",
+      "detalle": {
+        "version": "ec72d7607e3be56eb5fc80f780e9b9f7887409ddc68612c454fcb94f60dd193c",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "a4015ea6865b2f5eb2707e63f0899947df243419470a8ed766030e1d6b8157f0"
+      },
+      "catalogo": {
+        "id": 102,
+        "ley": "Ley Orgánica del Fondo Auxiliar para la Administración de Justicia",
+        "fecha": "12/06/1985",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 104,
+      "nombre": "Ley Orgánica del Poder Judicial",
+      "lote": 10,
+      "estado": "procesado",
+      "detalle": {
+        "version": "7a926fab0f5a3460a2a3309c22e7284fd5ed1c53f3681cac11c1c0238bcb6aee",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "af099293e3b127c08d39f48e79c7603516441348ac294ba62b499f0bd8c6d1d4"
+      },
+      "catalogo": {
+        "id": 104,
+        "ley": "Ley Orgánica del Poder Judicial",
+        "fecha": "07/06/2023",
+        "id_tipoley": 1,
+        "nb_extword": "doc",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 105,
+      "nombre": "Ley para el Aprovechamiento Integral de Alimentos y su Donación Altruista",
+      "lote": 10,
+      "estado": "procesado",
+      "detalle": {
+        "version": "bc96c5af456a46794ac10c356c19dadee14662ca4f25856515ff1e888019faf7",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "00ccc1b44eb644ce0b1cdb836422d313b683ba60fa4b92bd3a93d7f5e603a276"
+      },
+      "catalogo": {
+        "id": 105,
+        "ley": "Ley para el Aprovechamiento Integral de Alimentos y su Donación Altruista",
+        "fecha": "01/10/2018",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 106,
+      "nombre": "Ley para el Desarrollo de la Competitividad de las Micro, Pequeñas y Medianas Empresas",
+      "lote": 10,
+      "estado": "procesado",
+      "detalle": {
+        "version": "f871eeb2003c0cfd0f1f798d6c06754794a3d2178eecf47bd41996bb6709d9bf",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "e5876339b59e632ede31b92b2d5b126acf357982f677315ea52fc4eef489f827"
+      },
+      "catalogo": {
+        "id": 106,
+        "ley": "Ley para el Desarrollo de la Competitividad de las Micro, Pequeñas y Medianas Empresas",
+        "fecha": "14/11/2025",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 107,
+      "nombre": "Ley para el Fomento de la Actividad Artesanal",
+      "lote": 10,
+      "estado": "procesado",
+      "detalle": {
+        "version": "c4a63cb88e1d1a99c702a6b2e5e5e53d3ce8621162f65582b8a0d89392584605",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "05534ef930da6dd48cd05bc2734d2d8983b89c56af3e68b846a5fc74f07b67b9"
+      },
+      "catalogo": {
+        "id": 107,
+        "ley": "Ley para el Fomento de la Actividad Artesanal",
+        "fecha": "06/06/2018",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 108,
+      "nombre": "Ley para el Fomento del Turismo",
+      "lote": 11,
+      "estado": "procesado",
+      "detalle": {
+        "version": "b0802a47610d5863807ff6307ac54571d387e1bafc61a421c0644fe55d83a672",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "f5f7200d4f858dc3db10da2b122a9fe3728239898c8293249df3aabd3e8f1947"
+      },
+      "catalogo": {
+        "id": 108,
+        "ley": "Ley para el Fomento del Turismo",
+        "fecha": "11/08/2023",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 109,
+      "nombre": "Ley para Impulsar la Productividad y Competitividad de la Economía",
+      "lote": 11,
+      "estado": "procesado",
+      "detalle": {
+        "version": "2e35d62acb9124c0999b7a7d2bdea7482203839b34e8a13d6f126616e68559d0",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "b12261ebc532daac6503b9ac3f2da5d110cc6ec7af5fa9b8b1a29a6ccf30294a"
+      },
+      "catalogo": {
+        "id": 109,
+        "ley": "Ley para Impulsar la Productividad y Competitividad de la Economía",
+        "fecha": "27/04/2018",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 110,
+      "nombre": "Ley para la Administración de Bienes Asegurados, Decomisados o Abandonados",
+      "lote": 11,
+      "estado": "procesado",
+      "detalle": {
+        "version": "2b6a6ebebf4a6d306a415590c599f6df70fa7e23da3bd2200b369daa6d9d2352",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "f84a06a8728b6570c20b596ad624f224b97246071af621da6e93b96bf071197b"
+      },
+      "catalogo": {
+        "id": 110,
+        "ley": "Ley para la Administración de Bienes Asegurados, Decomisados o Abandonados",
+        "fecha": "09/12/2015",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 111,
+      "nombre": "Ley para la Atención y Protección a Personas con la Condición del Espectro Autista",
+      "lote": 11,
+      "estado": "procesado",
+      "detalle": {
+        "version": "816b368a3cdd796e2f8a4c6e3070a559581ab8845d4ca453b59bd50db22c4a40",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "fb57359959d871129a4d4544e332784cb85b19d44fd82b2d3f107080ed91911e"
+      },
+      "catalogo": {
+        "id": 111,
+        "ley": "Ley para la Atención y Protección a Personas con la Condición del Espectro Autista",
+        "fecha": "17/07/2026",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 112,
+      "nombre": "Ley para la Igualdad entre Mujeres y Hombres",
+      "lote": 11,
+      "estado": "procesado",
+      "detalle": {
+        "version": "5f775d6c9ebb3746297fb33e7ccac2af5ae41545552e87b60d6ea7372c51676d",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "ff34bf65bef6a3ba578f2ff180a29afb171b917db606a97bc8841d44179c37f6"
+      },
+      "catalogo": {
+        "id": 112,
+        "ley": "Ley para la Igualdad entre Mujeres y Hombres",
+        "fecha": "18/08/2025",
+        "id_tipoley": 1,
+        "nb_extword": "doc",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 113,
+      "nombre": "Ley para la Prevención Social de la Violencia y la Delincuencia, con Participación Ciudadana",
+      "lote": 11,
+      "estado": "procesado",
+      "detalle": {
+        "version": "b4a098dcaf268bd5dc4d43b4b2eba95033f64cc6ce672628b951fdcc8400065a",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "02117991481014ba640fa5657e7f0675ec4fda881842dd6310f27484b405f12a"
+      },
+      "catalogo": {
+        "id": 113,
+        "ley": "Ley para la Prevención Social de la Violencia y la Delincuencia, con Participación Ciudadana",
+        "fecha": "16/01/2015",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 114,
+      "nombre": "Ley para la Prevención y Atención de la Violencia Familiar",
+      "lote": 11,
+      "estado": "procesado",
+      "detalle": {
+        "version": "166e72833264882ba9396db37f4c1b692d493b091a9a0e2b138db886b0f93a41",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "ae3e4ba88cdf9eb517a1b15305e39dbc6f24e034a3158b89208da69ed95945ac"
+      },
+      "catalogo": {
+        "id": 114,
+        "ley": "Ley para la Prevención y Atención de la Violencia Familiar",
+        "fecha": "29/10/2021",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 115,
+      "nombre": "Ley para la Promoción y Desarrollo de los Jóvenes Emprendedores",
+      "lote": 11,
+      "estado": "procesado",
+      "detalle": {
+        "version": "c9ca26b6f63c1c3d60f9a0adc8c2e6076c2db322eccd67c32843cc965766eab9",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "8d1e2b428cd7b30764afa9353a66e7eb845318d39da5b267ed1b32de5dbf0718"
+      },
+      "catalogo": {
+        "id": 115,
+        "ley": "Ley para la Promoción y Desarrollo de los Jóvenes Emprendedores",
+        "fecha": "27/11/2013",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 116,
+      "nombre": "Ley para la Protección de Personas que Intervienen en el Procedimiento Penal",
+      "lote": 11,
+      "estado": "procesado",
+      "detalle": {
+        "version": "d452c2dd8822461fd5c7ac0ae40b472daca589640abf1006544a09730130389e",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "c8ce29305030c078cea1bf532b450b8c0d7aa9e079d743acbef9c951746856c5"
+      },
+      "catalogo": {
+        "id": 116,
+        "ley": "Ley para la Protección de Personas que Intervienen en el Procedimiento Penal",
+        "fecha": "13/12/2016",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 117,
+      "nombre": "Ley para la Protección, Apoyo y Promoción a la Lactancia Materna",
+      "lote": 11,
+      "estado": "procesado",
+      "detalle": {
+        "version": "62f09e1b345b716d25ed02cb995cfe654c7d2054897d0ab067e48fd7ee025da9",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "dee55d56a979686b5a6fe870744b52c8d92542aebf7b0c2535fdead0711ea6ba"
+      },
+      "catalogo": {
+        "id": 117,
+        "ley": "Ley para la Protección, Apoyo y Promoción a la Lactancia Materna",
+        "fecha": "11/08/2017",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 118,
+      "nombre": "Ley para la Protección, Atención y Asistencia a las Víctimas de los Delitos en Materia de Trata de Personas",
+      "lote": 12,
+      "estado": "procesado",
+      "detalle": {
+        "version": "a5e957f6846b14936833187eba9007698c443066e10ab03f9040437d6b6021f2",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "0147393873ba2c3e88882a29ade40a946a20d01af632e6f58af3636393a0fd06"
+      },
+      "catalogo": {
+        "id": 118,
+        "ley": "Ley para la Protección, Atención y Asistencia a las Víctimas de los Delitos en Materia de Trata de Personas",
+        "fecha": "20/01/2023",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 119,
+      "nombre": "Ley para Prevenir y Eliminar la Discriminación",
+      "lote": 12,
+      "estado": "procesado",
+      "detalle": {
+        "version": "788c8106c6d9816401fad9498f9153dc9c08ddd45ab7b1c478fb1b4aab26de0d",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "2cbee2f062bd14178d90fcfbc245880374574785ab5be6cf9fdb5962d12461ba"
+      },
+      "catalogo": {
+        "id": 119,
+        "ley": "Ley para Prevenir y Eliminar la Discriminación",
+        "fecha": "19/08/2024",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 120,
+      "nombre": "Ley para Prevenir, Atender y Erradicar la Violencia Escolar",
+      "lote": 12,
+      "estado": "procesado",
+      "detalle": {
+        "version": "cb5128433d09520e16b192c38a19c79165828c6bb348159097a61feafb057d76",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "9a522adc291f7e86d58b4da9deaeed70aac4116656a3e2cbd2daa597271af69b"
+      },
+      "catalogo": {
+        "id": 120,
+        "ley": "Ley para Prevenir, Atender y Erradicar la Violencia Escolar",
+        "fecha": "02/09/2016",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 121,
+      "nombre": "Ley por las que se establece el Fondo para la Dotación y Mantenimiento de Equipo y Programas de Cómputo a los Planteles de Educación Pública Básica",
+      "lote": 12,
+      "estado": "procesado",
+      "detalle": {
+        "version": "1ac3dc008f6b85ab30a67ee1d82bb4809f3fb4594af2e34add414efb03380b14",
+        "revision": "Encabezados 1 a 9 cotejados con PDF IIP; cotejo general pendiente",
+        "markdown_sha256": "12dc59ff1d9fdf22a8491ea033e858e696e5b6f62d9c8cecd7b3ac964c2aa5fe"
+      },
+      "catalogo": {
+        "id": 121,
+        "ley": "Ley por las que se establece el Fondo para la Dotación y Mantenimiento de Equipo y Programas de Cómputo a los Planteles de Educación Pública Básica",
+        "fecha": "18/02/2000",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 123,
+      "nombre": "Ley que crea el Instituto de Seguridad y Servicios Sociales de los Trabajadores de la Educación",
+      "lote": 12,
+      "estado": "procesado",
+      "detalle": {
+        "version": "dccb351b6153fcd181218fe095f69ab2903a152fbfc94b3af1eeef0ef7d2d0a5",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "4418ca906bd6d6515b142504d409766684fbd1b4de67ecbc9905a44158f6a3be"
+      },
+      "catalogo": {
+        "id": 123,
+        "ley": "Ley que crea el Instituto de Seguridad y Servicios Sociales de los Trabajadores de la Educación",
+        "fecha": "27/01/1978",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 124,
+      "nombre": "Ley que crea la Institución Pública descentralizada Viveros de Sinaloa",
+      "lote": 12,
+      "estado": "procesado",
+      "detalle": {
+        "version": "a7e40a61d0dbc2b9be784396bce1bdfee8d3be4df9924318668602babdbbc5d2",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "351e1cd91c8e442c524ad695ca0ef80e2f9a877ff0cf7bb383e0c4c189987ff7"
+      },
+      "catalogo": {
+        "id": 124,
+        "ley": "Ley que crea la Institución Pública descentralizada Viveros de Sinaloa",
+        "fecha": "08/08/1994",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 125,
+      "nombre": "Ley que Establece el Catálogo de Pueblos y Comunidades Indígenas",
+      "lote": 12,
+      "estado": "procesado",
+      "detalle": {
+        "version": "1f990647992efb0616a72e1972c43e6be089d0b77dad7e9e666f1da0dabd72be",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "e02ac43029be33138eb6307de7a1739d4b0d6f2d761df39a5c86b4191a4f25c3"
+      },
+      "catalogo": {
+        "id": 125,
+        "ley": "Ley que Establece el Catálogo de Pueblos y Comunidades Indígenas",
+        "fecha": "25/05/2018",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 126,
+      "nombre": "Ley que Establece el Derecho de Vía de las Carreteras y Caminos Locales",
+      "lote": 12,
+      "estado": "procesado",
+      "detalle": {
+        "version": "a5dc1ae506a62a60eb1838a0343c1304c68237c865b7d409eb4a8399035df03c",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "edf16888e659aa4f5945a7d485df653f7b1228d1c758e2acd7b8585169a37cfe"
+      },
+      "catalogo": {
+        "id": 126,
+        "ley": "Ley que Establece el Derecho de Vía de las Carreteras y Caminos Locales",
+        "fecha": "16/02/2018",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 127,
+      "nombre": "Ley que establece las Bases Normativas para la Expedición de los Bandos de Policía y Gobierno ",
+      "lote": 12,
+      "estado": "procesado",
+      "detalle": {
+        "version": "5d4be1a08c0259b0cbf2cd562592605a413d9bee6f17a0d4369f2900a558f361",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "dd97c8e2ba21de3e5d369a9f97766f25b0aa7fabc4d8c99e33f588d48e04f005"
+      },
+      "catalogo": {
+        "id": 127,
+        "ley": "Ley que establece las Bases Normativas para la Expedición de los Bandos de Policía y Gobierno ",
+        "fecha": "31/07/2017",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 128,
+      "nombre": "Ley que Protege la Salud y los Derechos de los No Fumadores",
+      "lote": 12,
+      "estado": "procesado",
+      "detalle": {
+        "version": "7319185f5ff1097441b2e5fa7582dd5ea956432a3f8bb49ac5e61e61c550d93c",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "247c5be30e9dcab10a8b37e453ec353d305cd93b12cdb032ca345f3a338f75f7"
+      },
+      "catalogo": {
+        "id": 128,
+        "ley": "Ley que Protege la Salud y los Derechos de los No Fumadores",
+        "fecha": "07/09/2022",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 129,
+      "nombre": "Ley que Regula el Aseguramiento, Administración, Enajenación y Disposición Final de Vehículos Automotores, Accesorios o Componentes Abandonados",
+      "lote": 13,
+      "estado": "procesado",
+      "detalle": {
+        "version": "c9f352faf43b07d6e09ee123466769b284e14fc0e2976798567f02051f5d9f9c",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "cef8e816f9ac7b174e7c34941a3e9a48f69c3657213e8d87df5c21b177251ff9"
+      },
+      "catalogo": {
+        "id": 129,
+        "ley": "Ley que Regula el Aseguramiento, Administración, Enajenación y Disposición Final de Vehículos Automotores, Accesorios o Componentes Abandonados",
+        "fecha": "06/06/2018",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 130,
+      "nombre": "Ley que Regula la Prevención y el Control de las Adicciones",
+      "lote": 13,
+      "estado": "procesado",
+      "detalle": {
+        "version": "4eae5268891884b5de7a30b3cc53a84cf85a284105ff05aca32fc7acbaa50f1e",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "9520ffc4eb6dfae18fc81bc004d1dce8b3649f8be13a7998f7de1a9ef8fbae91"
+      },
+      "catalogo": {
+        "id": 130,
+        "ley": "Ley que Regula la Prevención y el Control de las Adicciones",
+        "fecha": "28/12/2016",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 131,
+      "nombre": "Ley que Regula las Casas de Empeño",
+      "lote": 13,
+      "estado": "procesado",
+      "detalle": {
+        "version": "e716b9fc2080021da3cec622f4dc12ef6c6ad70ae80fc1972323b0d82a7921e3",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "407c0ce31278070faefc12eb9382d1e24a08ddd3943380dcc1f399d1ceeb94b1"
+      },
+      "catalogo": {
+        "id": 131,
+        "ley": "Ley que Regula las Casas de Empeño",
+        "fecha": "25/12/2019",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 132,
+      "nombre": "Ley Reglamentaria de la Fracción III, del Artículo 104 de la Constitución Política",
+      "lote": 13,
+      "estado": "procesado",
+      "detalle": {
+        "version": "07f5064ccd2e70b3f0286b54a85bcf6f23edcef2f21d761afaed37e8519dad72",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "f7dac2d2f61a6c7c206351865b8193e9813588792be16883041533acd4c56187"
+      },
+      "catalogo": {
+        "id": 132,
+        "ley": "Ley Reglamentaria de la Fracción III, del Artículo 104 de la Constitución Política",
+        "fecha": "16/10/1998",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 133,
+      "nombre": "Ley Reglamentaria del Artículo 154 Reformado de la Constitución Política del Estado",
+      "lote": 13,
+      "estado": "procesado",
+      "detalle": {
+        "version": "a8731b177f1a8ca56c565cbaa5ffa8648316befb99a4482e3afe287379aa741f",
+        "revision": "Incidencia puntual resuelta; cotejo general pendiente",
+        "markdown_sha256": "c20eb3e45f7d2a5f0450066e337b6080216d254286550acf1507f432e490ec25"
+      },
+      "catalogo": {
+        "id": 133,
+        "ley": "Ley Reglamentaria del Artículo 154 Reformado de la Constitución Política del Estado",
+        "fecha": "13/02/1954",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 134,
+      "nombre": "Ley sobre el Régimen de Propiedad en Condominio de Inmuebles",
+      "lote": 13,
+      "estado": "procesado",
+      "detalle": {
+        "version": "956f1bdefc8c0ad3ddbade80274fb9c86fb598340cdd7f9a7be5c10f623733ff",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "aa910f509cb911f86e640167af1f790ca443592e034c338c524a5bcd569e2191"
+      },
+      "catalogo": {
+        "id": 134,
+        "ley": "Ley sobre el Régimen de Propiedad en Condominio de Inmuebles",
+        "fecha": "17/01/1992",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 135,
+      "nombre": "Ley sobre el Sistema Estatal de Asistencia Social",
+      "lote": 13,
+      "estado": "procesado",
+      "detalle": {
+        "version": "dfebc240a6037b56351b51938c7c23dd4a826bdfb7eabfcdd52e2d0eb680cf7c",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "016ee908c1440279690fe9c51ac4d40f7a24372994ce7ba8c37cf87eb8fe8bee"
+      },
+      "catalogo": {
+        "id": 135,
+        "ley": "Ley sobre el Sistema Estatal de Asistencia Social",
+        "fecha": "27/04/2018",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 136,
+      "nombre": "Ley sobre Inmuebles del Estado y Municipios",
+      "lote": 13,
+      "estado": "procesado",
+      "detalle": {
+        "version": "65d24e2bd5970a99bc97b42220d3a63e9cffc7b4cee7d71a6509998988b09c1e",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "6937f8c087677c6c760329e8e75f82df151c246a43963fe9f98b3f4963a4ff6b"
+      },
+      "catalogo": {
+        "id": 136,
+        "ley": "Ley sobre Inmuebles del Estado y Municipios",
+        "fecha": "28/12/2007",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 137,
+      "nombre": "Ley sobre Operación y Funcionamiento de Establecimientos Destinados a la Producción, Distribución, Venta y Consumo de Bebidas Alcohólicas",
+      "lote": 13,
+      "estado": "procesado",
+      "detalle": {
+        "version": "71c30857a8d3855fb2b1792c40d451f65eb724ff4fd1513f6f1272e8bc909b69",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "754bfbe8d1138e906eb8b598e4dc84e3889484e139e304cee413451166e894b4"
+      },
+      "catalogo": {
+        "id": 137,
+        "ley": "Ley sobre Operación y Funcionamiento de Establecimientos Destinados a la Producción, Distribución, Venta y Consumo de Bebidas Alcohólicas",
+        "fecha": "13/12/2023",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 138,
+      "nombre": "Ley para la Dotación Gratuita de Uniformes, Calzado Deportivo y Útiles Escolares",
+      "lote": 13,
+      "estado": "procesado",
+      "detalle": {
+        "version": "cca9beba582592d4fac59cae72819c4cac2e2bad454f5d8d5b3825d83787d842",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "64d8c792a7b4a5ef54bc073fad4dafd65e05956879ab169e0792a5f210bd694b"
+      },
+      "catalogo": {
+        "id": 138,
+        "ley": "Ley para la Dotación Gratuita de Uniformes, Calzado Deportivo y Útiles Escolares",
+        "fecha": "14/08/2020",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 159,
+      "nombre": "Ley para Prevenir, Atender y Reparar Integralmente el Desplazamiento Forzado Interno",
+      "lote": 14,
+      "estado": "procesado",
+      "detalle": {
+        "version": "15d8ee9808d36952fbbefcb690bb737cc6971b4622d81ae8692e6eaa4eb8d004",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "884c3d62a3be8192cff91abb187d6ff2953b6112d063d24b2f3986ffe200927d"
+      },
+      "catalogo": {
+        "id": 159,
+        "ley": "Ley para Prevenir, Atender y Reparar Integralmente el Desplazamiento Forzado Interno",
+        "fecha": "29/10/2021",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 160,
+      "nombre": "Ley Estatal de Cambio Climático",
+      "lote": 14,
+      "estado": "procesado",
+      "detalle": {
+        "version": "2554ea73997aa671b529570624b2a473e4f44ca13460aa265190af05d7c324b9",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "ca5319350b39b3164694201ad20c7274e36e668c790c5f8709bcf75da73c6787"
+      },
+      "catalogo": {
+        "id": 160,
+        "ley": "Ley Estatal de Cambio Climático",
+        "fecha": "04/12/2020",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 161,
+      "nombre": "Ley de Amnistía",
+      "lote": 14,
+      "estado": "procesado",
+      "detalle": {
+        "version": "9c27ae1876903b2e8462d71786537e0423c92fd3804016734ffd2a0de0e027ab",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "cee6042a760b4fe7fb0c2e06af1496dce4af3b0fa9909dadaf6ab43fd8569923"
+      },
+      "catalogo": {
+        "id": 161,
+        "ley": "Ley de Amnistía",
+        "fecha": "31/03/2021",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 162,
+      "nombre": "Ley de Fomento Apícola y Protección de Agentes Polinizadores",
+      "lote": 14,
+      "estado": "procesado",
+      "detalle": {
+        "version": "cf564cbb5f74b9147b60513941dca439ab75fbf8241ea3f165c435f1e7fead73",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "7d2858583e8b68fe57445510f23159d313f5bdd33619b6d8d8069bd1a4a33877"
+      },
+      "catalogo": {
+        "id": 162,
+        "ley": "Ley de Fomento Apícola y Protección de Agentes Polinizadores",
+        "fecha": "07/05/2021",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 163,
+      "nombre": "Ley de Fomento y Protección del Maíz Nativo",
+      "lote": 14,
+      "estado": "procesado",
+      "detalle": {
+        "version": "7a31959f2ff855e7bf3f1fa3b8c17411928ff31bdd3d0e53fb791717bb03ec54",
+        "revision": "Incidencia puntual resuelta; cotejo general pendiente",
+        "markdown_sha256": "10c9bb56102890c1b63bddeedc04d67aa8977d7b2571f8f618b3829cdeb6c90e"
+      },
+      "catalogo": {
+        "id": 163,
+        "ley": "Ley de Fomento y Protección del Maíz Nativo",
+        "fecha": "07/05/2021",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 164,
+      "nombre": "Ley Orgánica de la Universidad de la Policía",
+      "lote": 14,
+      "estado": "procesado",
+      "detalle": {
+        "version": "b43dde4b4971b5a81d4832a337acb501ec3d302a14a4738c79939d8a700753dc",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "ae8c06fc8b5bad4a553935a6fb93b0bdd194314276678caebb8349fa0671b7f2"
+      },
+      "catalogo": {
+        "id": 164,
+        "ley": "Ley Orgánica de la Universidad de la Policía",
+        "fecha": "23/09/2022",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 165,
+      "nombre": "Ley Orgánica del Centro de Conciliación Laboral",
+      "lote": 14,
+      "estado": "procesado",
+      "detalle": {
+        "version": "4d5fe72836cb7ecc42dc4ff48a50bd7a00e041806526a5f122123ecba7ff52af",
+        "revision": "Incidencia puntual resuelta; cotejo general pendiente",
+        "markdown_sha256": "fc621c5c1b211ef4d25bbfaba30c16224929783293b9c4d9915ac18188fc9d1b"
+      },
+      "catalogo": {
+        "id": 165,
+        "ley": "Ley Orgánica del Centro de Conciliación Laboral",
+        "fecha": "28/09/2022",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 166,
+      "nombre": "Ley de Archivos",
+      "lote": 14,
+      "estado": "procesado",
+      "detalle": {
+        "version": "30fa46335601e1aaab6c4d98755df5a614f50aa8d144433a605f456d8c3ca3ad",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "6cf2b16115459dbf36876af733206834006c0edeb4eb0abc901027000d923727"
+      },
+      "catalogo": {
+        "id": 166,
+        "ley": "Ley de Archivos",
+        "fecha": "04/02/2022",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 167,
+      "nombre": "Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas",
+      "lote": 14,
+      "estado": "procesado",
+      "detalle": {
+        "version": "471ed739caa87e64b815a03e22405408c342ae5efe738b616e51b39b545522ba",
+        "revision": "Incidencia puntual resuelta; cotejo general pendiente",
+        "markdown_sha256": "e5dfdb27fe9ca7087ad9c2866d78f3ad7cc79f5e5069b9ccefa0656bf9bb39d6"
+      },
+      "catalogo": {
+        "id": 167,
+        "ley": "Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas",
+        "fecha": "16/06/2025",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 168,
+      "nombre": "Ley para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia",
+      "lote": 14,
+      "estado": "procesado",
+      "detalle": {
+        "version": "0dd8455e80696100192841ccf6b050f31156e276a5700af8f171e0d92353ea70",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "13ce648f246e855182bf2c1821891ad159780c192904587b5a261e62671f2d66"
+      },
+      "catalogo": {
+        "id": 168,
+        "ley": "Ley para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia",
+        "fecha": "11/07/2022",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 169,
+      "nombre": "Ley de Prestación de Servicios Inmobiliarios",
+      "lote": 15,
+      "estado": "procesado",
+      "detalle": {
+        "version": "5da9697885618709294b9bb6e4a724f583e69f7631e2561ed6abad83b90cba46",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "a1c1a0d872c2a95696d1e5986805350f941c34c86aa4481ddc2e8d832c099d67"
+      },
+      "catalogo": {
+        "id": 169,
+        "ley": "Ley de Prestación de Servicios Inmobiliarios",
+        "fecha": "12/09/2022",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 170,
+      "nombre": "Ley de Educación Superior",
+      "lote": 15,
+      "estado": "procesado",
+      "detalle": {
+        "version": "9d779c7c50e2f59b1d0abab0ca291669e64a8d01512118e8ea93b2b78632e12a",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "babb6a19da63deb8aef271181b58b953438a1dc51bccfd0ccda1ddcd0a11fb34"
+      },
+      "catalogo": {
+        "id": 170,
+        "ley": "Ley de Educación Superior",
+        "fecha": "28/02/2023",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 171,
+      "nombre": "Ley para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes",
+      "lote": 15,
+      "estado": "procesado",
+      "detalle": {
+        "version": "a3ad2c1622730b483716eafe7ae7488b1126a126f19c44c6c761a67000b43e4f",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "c0908f449f0298bf7b2d4d7fafddda2f73662300e838d4d81a985151c682863d"
+      },
+      "catalogo": {
+        "id": 171,
+        "ley": "Ley para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes",
+        "fecha": "07/06/2023",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 172,
+      "nombre": "Ley de Responsabilidad Patrimonial para el Estado de Sinaloa y sus Municipios",
+      "lote": 15,
+      "estado": "procesado",
+      "detalle": {
+        "version": "4c4ee4e5d0c5bb7894de3a8ad8b9d60004c4b474eba629ea7332c5cdb72cac1b",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "21a9650f65aff49684f14eae8032f32fe21abac6fe7d12e61e99e8453e945ce1"
+      },
+      "catalogo": {
+        "id": 172,
+        "ley": "Ley de Responsabilidad Patrimonial para el Estado de Sinaloa y sus Municipios",
+        "fecha": "03/01/2024",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 173,
+      "nombre": "Ley de Revocación de Mandato",
+      "lote": 15,
+      "estado": "procesado",
+      "detalle": {
+        "version": "3aaa79e88be8b3ca6a5361552153ca39aaaac72ff549bfc2c940312be74cb6c0",
+        "revision": "Incidencia puntual resuelta; cotejo general pendiente",
+        "markdown_sha256": "82e4bb4fa34a2c3138c19df6af50f868eabd36929fc223085ae477f7f1c9ec1e"
+      },
+      "catalogo": {
+        "id": 173,
+        "ley": "Ley de Revocación de Mandato",
+        "fecha": "02/02/2024",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 174,
+      "nombre": "Ley de Mecanismos Alternativos de Solución de Controversias",
+      "lote": 15,
+      "estado": "procesado",
+      "detalle": {
+        "version": "8733d329bb6eae8720f80c35877804590b04dcfe0922736ab0618963a4b46eba",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "57f153fc71b7de39ba0090b186e6bb4144251a92b97fad32e9a7448437ecdb23"
+      },
+      "catalogo": {
+        "id": 174,
+        "ley": "Ley de Mecanismos Alternativos de Solución de Controversias",
+        "fecha": "06/11/2024",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    },
+    {
+      "id": 177,
+      "nombre": "Ley para Prevenir, Investigar y Sancionar el Delito de Extorsión",
+      "lote": 15,
+      "estado": "procesado",
+      "detalle": {
+        "version": "4423c921c4c3348881b47d9a2121931c1cc3a87f914d4340fd36886d2d459ddc",
+        "revision": "pendiente de cotejo visual",
+        "markdown_sha256": "63e0f8237ff96ea0bc799ff6149e9c6e49ba43bf72e6bc0fb73e9b7c66ddf523"
+      },
+      "catalogo": {
+        "id": 177,
+        "ley": "Ley para Prevenir, Investigar y Sancionar el Delito de Extorsión",
+        "fecha": "20/03/2026",
+        "id_tipoley": 1,
+        "nb_extword": "docx",
+        "pdf": true,
+        "word": true
+      }
+    }
+  ],
+  "ultimo_evento": "Preparadas pruebas con 5 leyes. Fórmulas ID24 recuperadas como texto. Tabla ID65 preservada con aviso: no transcrita."
+}

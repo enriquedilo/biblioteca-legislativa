@@ -1,0 +1,52 @@
+{
+  "id": 3,
+  "nombre_catalogo": "Código Fiscal del Estado de Nayarit",
+  "nombre_oficial": "CÓDIGO FISCAL DEL ESTADO DE NAYARIT",
+  "nombre_oficial_pendiente_de_cotejo": false,
+  "fuente": "https://congresonayarit.gob.mx/legislacion-estatal/",
+  "urls": {
+    "pdf": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/codigos/codigo_fiscal_estado_nayarit.pdf",
+    "word": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/codigos/codigo_fiscal_estado_nayarit.docx"
+  },
+  "fecha_descarga": "2026-09-14T12:43:14.180880+00:00",
+  "fecha_catalogo_sin_interpretar": null,
+  "ultima_reforma": null,
+  "evidencia_encabezado": [],
+  "hash_sha256": {
+    "pdf": "e127c821ff17c9698b11c0a3277a5b47c9dbe57ad61b34b6549550026ece991f",
+    "word": "1a7f71e4ebf382d2572872719389f19bf37fe0e45f4dc6246c79b1ba2d1b6b43"
+  },
+  "version": "ec82bc2960a11e3f173e11810b32c8212a6266eaa3bb9c3120249b85aeec0f07",
+  "origen_markdown": "PDF original; conserva texto, numeración impresa, fracciones, transitorios y notas",
+  "estatus": "Incluido en catálogo de Nayarit; vigencia jurídica no verificada",
+  "validacion": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "fecha_revision_conversion": "2026-09-14T12:43:14.180880+00:00",
+  "conversor": "Poppler pdftotext -layout / controles de Sinaloa adaptados a Nayarit v2",
+  "decreto_numero": null,
+  "po_publicacion": {
+    "numero": null,
+    "edicion": null,
+    "fecha": null,
+    "seccion": null
+  },
+  "reformas": [],
+  "abroga": [
+    {
+      "nombre": "Código Fiscal del Estado de Nayarit",
+      "po_numero": null,
+      "fecha": "2011-01-22",
+      "decreto": null
+    }
+  ],
+  "slug": "codigo-fiscal-del-estado-de-nayarit",
+  "url_pdf": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/codigos/codigo_fiscal_estado_nayarit.pdf",
+  "url_word": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/codigos/codigo_fiscal_estado_nayarit.docx",
+  "seccion_sitio": "Códigos",
+  "secciones_sitio": [
+    "Códigos"
+  ],
+  "nombre_catalogo_sitio": "Código Fiscal del Estado de Nayarit",
+  "orden": "estatal",
+  "regimen": "general",
+  "tipo": "codigo"
+}

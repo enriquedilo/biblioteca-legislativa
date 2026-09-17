@@ -1,0 +1,281 @@
+{
+  "lotes": [
+    9,
+    9
+  ],
+  "intentados": 10,
+  "con_version": 10,
+  "paginas": 536,
+  "documentos_sin_texto": [],
+  "errores": [],
+  "descargas_pendientes": [],
+  "cifras_discrepantes": [
+    {
+      "id": 93,
+      "nombre": "Ley para la Prevención de la Obesidad, Sobrepeso y Trastornos Alimenticios en el Estado de Nayarit",
+      "paginas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  ],
+  "documentos": [
+    {
+      "id": 84,
+      "nombre": "Ley del Notariado para el Estado de Nayarit",
+      "lote": 9,
+      "estado": "procesado_con_incidencias",
+      "paginas": 215,
+      "campos_incompletos": [
+        "abroga",
+        "abroga[].decreto",
+        "abroga[].fecha",
+        "abroga[].nombre",
+        "abroga[].po_numero",
+        "decreto_numero",
+        "po_publicacion.edicion",
+        "po_publicacion.fecha",
+        "po_publicacion.numero",
+        "po_publicacion.seccion",
+        "reformas[].decreto",
+        "reformas[].po_numero",
+        "ultima_reforma.edicion",
+        "ultima_reforma.numero"
+      ],
+      "sin_texto": [],
+      "cifras_discrepantes": [],
+      "descarga": [],
+      "error": null,
+      "remisiones_en_cuerpo": 0
+    },
+    {
+      "id": 85,
+      "nombre": "Ley de Obra Pública del Estado de Nayarit",
+      "lote": 9,
+      "estado": "procesado_con_incidencias",
+      "paginas": 128,
+      "campos_incompletos": [
+        "abroga",
+        "abroga[].decreto",
+        "abroga[].po_numero",
+        "decreto_numero",
+        "po_publicacion.edicion",
+        "po_publicacion.numero",
+        "po_publicacion.seccion",
+        "reformas",
+        "ultima_reforma.edicion",
+        "ultima_reforma.fecha",
+        "ultima_reforma.numero"
+      ],
+      "sin_texto": [],
+      "cifras_discrepantes": [],
+      "descarga": [],
+      "error": null,
+      "remisiones_en_cuerpo": 0
+    },
+    {
+      "id": 86,
+      "nombre": "Ley de Participación Ciudadana del Estado de Nayarit",
+      "lote": 9,
+      "estado": "procesado_con_incidencias",
+      "paginas": 22,
+      "campos_incompletos": [
+        "abroga",
+        "decreto_numero",
+        "po_publicacion.edicion",
+        "po_publicacion.fecha",
+        "po_publicacion.numero",
+        "po_publicacion.seccion",
+        "reformas[].decreto",
+        "reformas[].po_numero",
+        "ultima_reforma.edicion",
+        "ultima_reforma.fecha",
+        "ultima_reforma.numero"
+      ],
+      "sin_texto": [],
+      "cifras_discrepantes": [],
+      "descarga": [],
+      "error": null,
+      "remisiones_en_cuerpo": 0
+    },
+    {
+      "id": 87,
+      "nombre": "Ley del Patronato para Administrar el Impuesto Especial Destinado a la Universidad Autónoma de Nayarit",
+      "lote": 9,
+      "estado": "procesado_con_incidencias",
+      "paginas": 11,
+      "campos_incompletos": [
+        "abroga",
+        "nombre_oficial",
+        "po_publicacion.edicion",
+        "po_publicacion.numero",
+        "reformas[].decreto",
+        "reformas[].fecha",
+        "reformas[].po_numero",
+        "ultima_reforma.edicion",
+        "ultima_reforma.numero"
+      ],
+      "sin_texto": [],
+      "cifras_discrepantes": [],
+      "descarga": [],
+      "error": null,
+      "remisiones_en_cuerpo": 0
+    },
+    {
+      "id": 88,
+      "nombre": "Ley del Periódico Oficial del Estado de Nayarit",
+      "lote": 9,
+      "estado": "procesado_con_incidencias",
+      "paginas": 14,
+      "campos_incompletos": [
+        "abroga",
+        "po_publicacion.edicion",
+        "po_publicacion.numero",
+        "reformas[].decreto",
+        "reformas[].po_numero",
+        "ultima_reforma.edicion",
+        "ultima_reforma.numero"
+      ],
+      "sin_texto": [],
+      "cifras_discrepantes": [],
+      "descarga": [],
+      "error": null,
+      "remisiones_en_cuerpo": 4
+    },
+    {
+      "id": 89,
+      "nombre": "Ley de Pesca y Acuacultura Sustentables para el Estado de Nayarit",
+      "lote": 9,
+      "estado": "procesado_con_incidencias",
+      "paginas": 64,
+      "campos_incompletos": [
+        "abroga",
+        "decreto_numero",
+        "po_publicacion.edicion",
+        "po_publicacion.numero",
+        "reformas[].decreto",
+        "reformas[].fecha",
+        "reformas[].po_numero",
+        "ultima_reforma.edicion",
+        "ultima_reforma.numero"
+      ],
+      "sin_texto": [],
+      "cifras_discrepantes": [],
+      "descarga": [],
+      "error": null,
+      "remisiones_en_cuerpo": 2
+    },
+    {
+      "id": 90,
+      "nombre": "Ley de Planeación del Estado de Nayarit",
+      "lote": 9,
+      "estado": "procesado_con_incidencias",
+      "paginas": 24,
+      "campos_incompletos": [
+        "abroga",
+        "abroga[].decreto",
+        "abroga[].fecha",
+        "abroga[].po_numero",
+        "decreto_numero",
+        "po_publicacion.edicion",
+        "po_publicacion.fecha",
+        "po_publicacion.numero",
+        "po_publicacion.seccion",
+        "reformas[].decreto",
+        "reformas[].po_numero",
+        "ultima_reforma.edicion",
+        "ultima_reforma.numero"
+      ],
+      "sin_texto": [],
+      "cifras_discrepantes": [],
+      "descarga": [],
+      "error": null,
+      "remisiones_en_cuerpo": 0
+    },
+    {
+      "id": 91,
+      "nombre": "Ley de Presupuestación, contabilidad y gasto publico de la Administración del Gobierno del Estado de Nayarit",
+      "lote": 9,
+      "estado": "procesado_con_incidencias",
+      "paginas": 33,
+      "campos_incompletos": [
+        "abroga",
+        "nombre_oficial",
+        "po_publicacion.edicion",
+        "po_publicacion.numero",
+        "reformas[].decreto",
+        "reformas[].po_numero",
+        "ultima_reforma.edicion",
+        "ultima_reforma.numero"
+      ],
+      "sin_texto": [],
+      "cifras_discrepantes": [],
+      "descarga": [],
+      "error": null,
+      "remisiones_en_cuerpo": 0
+    },
+    {
+      "id": 92,
+      "nombre": "Ley de Prevención, Asistencia y Atención de la Violencia Intrafamiliar para el Estado de Nayarit",
+      "lote": 9,
+      "estado": "procesado_con_incidencias",
+      "paginas": 15,
+      "campos_incompletos": [
+        "abroga",
+        "po_publicacion.edicion",
+        "po_publicacion.numero",
+        "po_publicacion.seccion",
+        "reformas[].decreto",
+        "reformas[].po_numero",
+        "ultima_reforma.edicion",
+        "ultima_reforma.numero"
+      ],
+      "sin_texto": [],
+      "cifras_discrepantes": [],
+      "descarga": [],
+      "error": null,
+      "remisiones_en_cuerpo": 0
+    },
+    {
+      "id": 93,
+      "nombre": "Ley para la Prevención de la Obesidad, Sobrepeso y Trastornos Alimenticios en el Estado de Nayarit",
+      "lote": 9,
+      "estado": "procesado_con_incidencias",
+      "paginas": 10,
+      "campos_incompletos": [
+        "abroga",
+        "decreto_numero",
+        "po_publicacion.edicion",
+        "po_publicacion.numero",
+        "reformas[].decreto",
+        "reformas[].po_numero",
+        "ultima_reforma.edicion",
+        "ultima_reforma.numero"
+      ],
+      "sin_texto": [],
+      "cifras_discrepantes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "descarga": [],
+      "error": null,
+      "remisiones_en_cuerpo": 0
+    }
+  ]
+}

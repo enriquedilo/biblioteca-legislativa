@@ -1,0 +1,89 @@
+{
+  "texto_conservado": true,
+  "paginas_pdf": 11,
+  "paginas_sin_texto": [],
+  "articulos_word": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19"
+  ],
+  "articulos_pdf": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19"
+  ],
+  "solo_pdf": [],
+  "solo_word": [],
+  "transitorios_word": 2,
+  "transitorios_pdf": 2,
+  "alcance": "Control mecánico; requiere cotejo visual y no certifica vigencia jurídica.",
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-10T14:11:19.874979+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "reformas",
+        "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+      },
+      {
+        "campo": "abroga",
+        "motivo": "No se extrajo abrogación nominativa expresa en transitorios; no se convierten derogaciones genéricas en abrogaciones."
+      },
+      {
+        "campo": "po_publicacion.edicion",
+        "motivo": "Dato no localizado en la mención impresa seleccionada."
+      },
+      {
+        "campo": "ultima_reforma.edicion",
+        "motivo": "Dato no localizado en la mención impresa seleccionada."
+      }
+    ],
+    "evidencia": {
+      "decreto_numero": {
+        "pagina": 1,
+        "texto": "\n\n                                DECRETO NÚMERO: 535"
+      },
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "Publicado en el P.O. No. 54 del 04 de Mayo de 2016"
+      },
+      "ultima_reforma": {
+        "pagina": 1,
+        "texto": "Publicado en el P.O. No. 54 del 04 de Mayo de 2016"
+      },
+      "abroga": []
+    }
+  }
+}

@@ -1,0 +1,36 @@
+# ── Originales: respaldo de cotejo, no material de consulta ──────────────
+# Viven en la Mac (y en su respaldo). Git no versiona bien los binarios:
+# cada actualización sumaría una copia completa al historial.
+original.pdf
+original.doc
+original.docx
+original.rtf
+original.txt
+
+# ── Derivados regenerables ──────────────────────────────────────────────
+# Control de conversión: su resultado ya está en validacion.json
+extraccion.txt
+# Bases de búsqueda: se reconstruyen con bin/indices.py en segundos
+*.db
+*.db-journal
+*.db-wal
+
+# ── Historial que Git ya provee ─────────────────────────────────────────
+conversiones_anteriores/
+antes-correcciones-v2/
+intentos_anteriores/
+_to_delete/
+
+# ── Evidencia visual y pruebas ──────────────────────────────────────────
+muestra_visual/
+pruebas/
+
+# ── Ruido ───────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+.DS_Store
+*.bak
+*.lock
+.lotes.lock
+original.rtf
+original.txt

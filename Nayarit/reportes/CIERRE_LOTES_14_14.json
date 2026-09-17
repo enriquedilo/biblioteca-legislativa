@@ -1,0 +1,138 @@
+{
+  "lotes": [
+    14,
+    14
+  ],
+  "intentados": 5,
+  "con_version": 5,
+  "paginas": 251,
+  "documentos_sin_texto": [],
+  "errores": [],
+  "descargas_pendientes": [],
+  "cifras_discrepantes": [],
+  "documentos": [
+    {
+      "id": 134,
+      "nombre": "Reglamento para el Gobierno Interior del Congreso",
+      "lote": 14,
+      "estado": "procesado_con_incidencias",
+      "paginas": 136,
+      "campos_incompletos": [
+        "abroga",
+        "abroga[].decreto",
+        "abroga[].fecha",
+        "abroga[].nombre",
+        "abroga[].po_numero",
+        "decreto_numero",
+        "po_publicacion.edicion",
+        "po_publicacion.numero",
+        "reformas[].decreto",
+        "reformas[].po_numero",
+        "ultima_reforma.edicion",
+        "ultima_reforma.numero"
+      ],
+      "sin_texto": [],
+      "cifras_discrepantes": [],
+      "descarga": [],
+      "error": null,
+      "remisiones_en_cuerpo": 1
+    },
+    {
+      "id": 135,
+      "nombre": "Ley para la Inscripción de Nombres en el Muro de Honor del Recinto Legislativo y Conservación de Memoria Institucional, Homenajes Luctuosos o Póstumos y Protocolo Ceremonial",
+      "lote": 14,
+      "estado": "procesado_con_incidencias",
+      "paginas": 7,
+      "campos_incompletos": [
+        "abroga",
+        "decreto_numero",
+        "po_publicacion.edicion",
+        "po_publicacion.fecha",
+        "po_publicacion.numero",
+        "po_publicacion.seccion",
+        "reformas[].decreto",
+        "reformas[].po_numero",
+        "ultima_reforma.edicion",
+        "ultima_reforma.numero"
+      ],
+      "sin_texto": [],
+      "cifras_discrepantes": [],
+      "descarga": [],
+      "error": null,
+      "remisiones_en_cuerpo": 0
+    },
+    {
+      "id": 136,
+      "nombre": "Reglamento para la Organización de los Parlamentos y el Concurso de Debates del H. Congreso del Estado de Nayarit",
+      "lote": 14,
+      "estado": "procesado_con_incidencias",
+      "paginas": 16,
+      "campos_incompletos": [
+        "abroga",
+        "abroga[].decreto",
+        "abroga[].fecha",
+        "abroga[].nombre",
+        "abroga[].po_numero",
+        "decreto_numero",
+        "po_publicacion.edicion",
+        "po_publicacion.numero",
+        "reformas",
+        "ultima_reforma.edicion",
+        "ultima_reforma.fecha",
+        "ultima_reforma.numero"
+      ],
+      "sin_texto": [],
+      "cifras_discrepantes": [],
+      "descarga": [],
+      "error": null,
+      "remisiones_en_cuerpo": 0
+    },
+    {
+      "id": 137,
+      "nombre": "Ley Orgánica del Poder Legislativo del Estado de Nayarit",
+      "lote": 14,
+      "estado": "procesado_con_incidencias",
+      "paginas": 54,
+      "campos_incompletos": [
+        "abroga",
+        "abroga[].fecha",
+        "abroga[].po_numero",
+        "decreto_numero",
+        "po_publicacion.edicion",
+        "po_publicacion.numero",
+        "reformas[].decreto",
+        "reformas[].po_numero",
+        "ultima_reforma.edicion",
+        "ultima_reforma.numero"
+      ],
+      "sin_texto": [],
+      "cifras_discrepantes": [],
+      "descarga": [],
+      "error": null,
+      "remisiones_en_cuerpo": 0
+    },
+    {
+      "id": 138,
+      "nombre": "Ley de Hacienda Municipal del Estado de Nayarit",
+      "lote": 14,
+      "estado": "procesado_con_incidencias",
+      "paginas": 38,
+      "campos_incompletos": [
+        "abroga",
+        "abroga[].fecha",
+        "abroga[].po_numero",
+        "po_publicacion.edicion",
+        "po_publicacion.numero",
+        "reformas[].decreto",
+        "reformas[].po_numero",
+        "ultima_reforma.edicion",
+        "ultima_reforma.numero"
+      ],
+      "sin_texto": [],
+      "cifras_discrepantes": [],
+      "descarga": [],
+      "error": null,
+      "remisiones_en_cuerpo": 1
+    }
+  ]
+}

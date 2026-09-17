@@ -1,0 +1,316 @@
+[
+  {
+    "id": 24,
+    "nombre": "Ley de Coordinación Fiscal",
+    "fecha": "2026-09-10T13:06:38.185766+00:00",
+    "estado": "46 expresiones gráficas restituidas en texto por página; cotejo general pendiente",
+    "hallazgos": [
+      "Inspección de los 38 inventarios de página: 46 elementos de imagen en 11 páginas.",
+      "Páginas 3–8 y 10–14 preservadas completas, a 140 dpi, sin reconstruir símbolos.",
+      "El Word antiguo contiene ecuaciones estructuradas; textutil las omite. No se insertaron fragmentos internos sin correspondencia comprobada.",
+      "46 expresiones recuperadas como texto LaTeX en suplementos por página; imágenes conservadas."
+    ],
+    "alcance": "Recuperación visual de todos los elementos de imagen detectados. No equivale a transcripción matemática en texto ni validación jurídica integral.",
+    "paginas_visuales": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "imagenes": [
+      {
+        "pagina": 3,
+        "elementos_imagen": 1,
+        "archivo": "imagenes/pagina-03.png",
+        "sha256": "69ce174c1d5dec9d591cc82e24699281daa6c1696d0f545ff3d6a1042310773e"
+      },
+      {
+        "pagina": 4,
+        "elementos_imagen": 4,
+        "archivo": "imagenes/pagina-04.png",
+        "sha256": "c792062e4fac8b3e3a1793548c361e511d472ee06ad2b11d7bf1e6c7b5be0b90"
+      },
+      {
+        "pagina": 5,
+        "elementos_imagen": 6,
+        "archivo": "imagenes/pagina-05.png",
+        "sha256": "c458bef5f103c4a5820c103a5ad6723acfa70f348f19fc5714a504c11381c3f8"
+      },
+      {
+        "pagina": 6,
+        "elementos_imagen": 4,
+        "archivo": "imagenes/pagina-06.png",
+        "sha256": "78574a68cc04370927efd7d000f7288706718768a29ee2c0685d382edf6c6cdc"
+      },
+      {
+        "pagina": 7,
+        "elementos_imagen": 8,
+        "archivo": "imagenes/pagina-07.png",
+        "sha256": "e7ef1784570e8ba77ce83c8d5ff77789855d22d1333ea3b060f0d700ccde5b6c"
+      },
+      {
+        "pagina": 8,
+        "elementos_imagen": 1,
+        "archivo": "imagenes/pagina-08.png",
+        "sha256": "97203fbce98d95f71636831286486fde378541b1d605f3f3a85373911951528a"
+      },
+      {
+        "pagina": 10,
+        "elementos_imagen": 6,
+        "archivo": "imagenes/pagina-10.png",
+        "sha256": "1201ffb86cc99f8c7cf54988e4ba3697f56daa4d4bc034619f0365aff30a012b"
+      },
+      {
+        "pagina": 11,
+        "elementos_imagen": 4,
+        "archivo": "imagenes/pagina-11.png",
+        "sha256": "3c3c26a5de41a56b3ed94d37acc9f0232fc3d6e01cc3660457ec91c7463df766"
+      },
+      {
+        "pagina": 12,
+        "elementos_imagen": 8,
+        "archivo": "imagenes/pagina-12.png",
+        "sha256": "9737bdc054d91b79a82be822449ced49c434b6cac581475d5165b46c84f889a2"
+      },
+      {
+        "pagina": 13,
+        "elementos_imagen": 3,
+        "archivo": "imagenes/pagina-13.png",
+        "sha256": "e49617817a6c9a6dc48c72480dd7cded010eb68495a737b3ac55e4973cd061b5"
+      },
+      {
+        "pagina": 14,
+        "elementos_imagen": 1,
+        "archivo": "imagenes/pagina-14.png",
+        "sha256": "ee93020b573d90d57468af7a2c7fccd85c9cd859e4c175a419ac2899657de315"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "nombre": "Ley de Hacienda",
+    "fecha": "2026-09-07T18:14:57.287054+00:00",
+    "estado": "Incidencia puntual resuelta; cotejo general pendiente",
+    "hallazgos": [
+      "Página 60: 2899 es una referencia dentro de un párrafo, no un artículo omitido."
+    ],
+    "alcance": "Cotejo visual dirigido a incidencias; no validación completa del documento ni de vigencia.",
+    "paginas_visuales": [
+      60
+    ]
+  },
+  {
+    "id": 48,
+    "nombre": "Ley de Justicia Administrativa",
+    "fecha": "2026-09-07T18:14:57.287054+00:00",
+    "estado": "Incidencia puntual resuelta; cotejo general pendiente",
+    "hallazgos": [
+      "Páginas [64]: sin contenido normativo, confirmado visualmente en el PDF; sólo paginación cuando existe."
+    ],
+    "alcance": "Cotejo visual dirigido a incidencias; no validación completa del documento ni de vigencia.",
+    "paginas_visuales": [
+      64
+    ]
+  },
+  {
+    "id": 56,
+    "nombre": "Ley de los Trabajadores al Servicio de los Municipios",
+    "fecha": "2026-09-07T18:14:57.287054+00:00",
+    "estado": "Incidencia puntual resuelta; cotejo general pendiente",
+    "hallazgos": [
+      "Páginas [30]: sin contenido normativo, confirmado visualmente en el PDF; sólo paginación cuando existe."
+    ],
+    "alcance": "Cotejo visual dirigido a incidencias; no validación completa del documento ni de vigencia.",
+    "paginas_visuales": [
+      30
+    ]
+  },
+  {
+    "id": 59,
+    "nombre": "Ley de Movilidad Sustentable y Seguridad Vial",
+    "fecha": "2026-09-07T18:14:57.287054+00:00",
+    "estado": "Incidencia puntual resuelta; cotejo general pendiente",
+    "hallazgos": [
+      "Páginas [195]: sin contenido normativo, confirmado visualmente en el PDF; sólo paginación cuando existe."
+    ],
+    "alcance": "Cotejo visual dirigido a incidencias; no validación completa del documento ni de vigencia.",
+    "paginas_visuales": [
+      195
+    ]
+  },
+  {
+    "id": 74,
+    "nombre": "Ley de Regularización de Predios Rurales",
+    "fecha": "2026-09-07T18:14:57.287054+00:00",
+    "estado": "Incidencia puntual resuelta; cotejo general pendiente",
+    "hallazgos": [
+      "Página 4: 194 es una referencia dentro de un párrafo, no un artículo omitido."
+    ],
+    "alcance": "Cotejo visual dirigido a incidencias; no validación completa del documento ni de vigencia.",
+    "paginas_visuales": [
+      4
+    ]
+  },
+  {
+    "id": 85,
+    "nombre": "Ley del Instituto de Evaluación Educativa",
+    "fecha": "2026-09-10T13:06:38.185766+00:00",
+    "estado": "Numeración cotejada con Periódico Oficial; cotejo general pendiente",
+    "hallazgos": [
+      "Nueve encabezados cotejados y corregidos 1° a 9°.",
+      "Referencia del artículo 6(I) corregida de Artículo 31 a Artículo 3° según página 7 del Periódico Oficial."
+    ],
+    "alcance": "Diez sustituciones documentadas; resto del texto y transitorios sin cambios.",
+    "paginas_visuales": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "fuente": "https://media.transparencia.sinaloa.gob.mx/uploads/files/11624/POE-05-OCT-07-120.pdf",
+    "referencia": "referencias/POE-2007-10-05-120.pdf",
+    "sha256_referencia": "b00ef119719cc9b50298f1ab3185a4106edc0e97367089cc9185de74debe2d9b"
+  },
+  {
+    "id": 121,
+    "nombre": "Ley por las que se establece el Fondo para la Dotación y Mantenimiento de Equipo y Programas de Cómputo a los Planteles de Educación Pública Básica",
+    "fecha": "2026-09-07T18:14:57.287054+00:00",
+    "estado": "Encabezados 1 a 9 cotejados con PDF IIP; cotejo general pendiente",
+    "hallazgos": [
+      "PDF muestra 11, 21, 31… en los primeros artículos; Word muestra 1, 2, 3… Se conserva el PDF sin renumeración inferida.",
+      "2026-09-10: encabezados 1° a 9° corregidos según PDF IIP 097; se conserva referencia interna artículo 51."
+    ],
+    "alcance": "Cotejo visual dirigido a incidencias; no validación completa del documento ni de vigencia.",
+    "paginas_visuales": [
+      1
+    ],
+    "correccion_documentada": {
+      "fecha": "2026-09-10T12:49:14.253700+00:00",
+      "url": "https://iip.congresosinaloa.gob.mx/docs/le/097.pdf",
+      "archivo": "referencias/iip-097.pdf",
+      "sha256": "41186a9b87c5d71d69ad811cccea55c88738b9a3a69007360b03a4ee62e78836",
+      "cambios": [
+        {
+          "antes": "11",
+          "despues": "1°",
+          "ubicacion": "encabezado artículo 1"
+        },
+        {
+          "antes": "21",
+          "despues": "2°",
+          "ubicacion": "encabezado artículo 2"
+        },
+        {
+          "antes": "31",
+          "despues": "3°",
+          "ubicacion": "encabezado artículo 3"
+        },
+        {
+          "antes": "41",
+          "despues": "4°",
+          "ubicacion": "encabezado artículo 4"
+        },
+        {
+          "antes": "51",
+          "despues": "5°",
+          "ubicacion": "encabezado artículo 5"
+        },
+        {
+          "antes": "61",
+          "despues": "6°",
+          "ubicacion": "encabezado artículo 6"
+        },
+        {
+          "antes": "71",
+          "despues": "7°",
+          "ubicacion": "encabezado artículo 7"
+        },
+        {
+          "antes": "81",
+          "despues": "8°",
+          "ubicacion": "encabezado artículo 8"
+        },
+        {
+          "antes": "91",
+          "despues": "9°",
+          "ubicacion": "encabezado artículo 9"
+        }
+      ],
+      "alcance": "Sólo nueve encabezados; resto del cuerpo y transitorios sin cambios. Referencia interna artículo 51 conservada tal como aparece en ambas fuentes."
+    }
+  },
+  {
+    "id": 133,
+    "nombre": "Ley Reglamentaria del Artículo 154 Reformado de la Constitución Política del Estado",
+    "fecha": "2026-09-07T18:14:57.287054+00:00",
+    "estado": "Incidencia puntual resuelta; cotejo general pendiente",
+    "hallazgos": [
+      "Página 2: 154 es una referencia dentro de un párrafo, no un artículo omitido."
+    ],
+    "alcance": "Cotejo visual dirigido a incidencias; no validación completa del documento ni de vigencia.",
+    "paginas_visuales": [
+      2
+    ]
+  },
+  {
+    "id": 163,
+    "nombre": "Ley de Fomento y Protección del Maíz Nativo",
+    "fecha": "2026-09-07T18:14:57.287054+00:00",
+    "estado": "Incidencia puntual resuelta; cotejo general pendiente",
+    "hallazgos": [
+      "Páginas [12]: sin contenido normativo, confirmado visualmente en el PDF; sólo paginación cuando existe."
+    ],
+    "alcance": "Cotejo visual dirigido a incidencias; no validación completa del documento ni de vigencia.",
+    "paginas_visuales": [
+      12
+    ]
+  },
+  {
+    "id": 165,
+    "nombre": "Ley Orgánica del Centro de Conciliación Laboral",
+    "fecha": "2026-09-07T18:14:57.287054+00:00",
+    "estado": "Incidencia puntual resuelta; cotejo general pendiente",
+    "hallazgos": [
+      "Páginas [24]: sin contenido normativo, confirmado visualmente en el PDF; sólo paginación cuando existe."
+    ],
+    "alcance": "Cotejo visual dirigido a incidencias; no validación completa del documento ni de vigencia.",
+    "paginas_visuales": [
+      24
+    ]
+  },
+  {
+    "id": 167,
+    "nombre": "Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas",
+    "fecha": "2026-09-07T18:14:57.287054+00:00",
+    "estado": "Incidencia puntual resuelta; cotejo general pendiente",
+    "hallazgos": [
+      "Páginas [53]: sin contenido normativo, confirmado visualmente en el PDF; sólo paginación cuando existe."
+    ],
+    "alcance": "Cotejo visual dirigido a incidencias; no validación completa del documento ni de vigencia.",
+    "paginas_visuales": [
+      53
+    ]
+  },
+  {
+    "id": 173,
+    "nombre": "Ley de Revocación de Mandato",
+    "fecha": "2026-09-07T18:14:57.287054+00:00",
+    "estado": "Incidencia puntual resuelta; cotejo general pendiente",
+    "hallazgos": [
+      "Páginas [28]: sin contenido normativo, confirmado visualmente en el PDF; sólo paginación cuando existe."
+    ],
+    "alcance": "Cotejo visual dirigido a incidencias; no validación completa del documento ni de vigencia.",
+    "paginas_visuales": [
+      28
+    ]
+  }
+]

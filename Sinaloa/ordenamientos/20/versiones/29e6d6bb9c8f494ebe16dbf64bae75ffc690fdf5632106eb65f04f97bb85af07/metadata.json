@@ -1,0 +1,89 @@
+{
+  "id": 20,
+  "nombre_catalogo": "Ley de Catastro",
+  "nombre_oficial": null,
+  "nombre_oficial_pendiente_de_cotejo": true,
+  "fuente": "https://gaceta.congresosinaloa.gob.mx/#/leyes",
+  "urls": {
+    "pdf": "https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Ley_20.pdf",
+    "word": "https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Leyword_20.docx"
+  },
+  "fecha_descarga": "2026-09-07T17:29:57.492491+00:00",
+  "fecha_catalogo_sin_interpretar": "28/12/2016",
+  "ultima_reforma": {
+    "numero": "158",
+    "edicion": null,
+    "fecha": "2016-12-28"
+  },
+  "evidencia_encabezado": [
+    "TEXTO VIGENTE",
+    "Última reforma publicada en el P.O. No. 158 del 28 de diciembre de 2016.",
+    "Publicado en el P.O. No. 4 de 10 de enero de 1994. Segunda Sección."
+  ],
+  "hash_sha256": {
+    "pdf": "9078e50dc943edf5d7b3c9bfaef259cad32977b7286d05e873bc8de5194086bf",
+    "word": "0a3476d8ad0b9695eb2b9e7976a9996170a201b822c5fe6abc39c99e90783870"
+  },
+  "version": "29e6d6bb9c8f494ebe16dbf64bae75ffc690fdf5632106eb65f04f97bb85af07",
+  "origen_markdown": "PDF; conserva numeración impresa, notas y páginas",
+  "estatus": "Incluido en catálogo de Leyes Estatales; vigencia jurídica no verificada",
+  "validacion": "pendiente de cotejo visual",
+  "decreto_numero": "216",
+  "po_publicacion": {
+    "numero": "4",
+    "edicion": "Segunda Sección",
+    "fecha": "1994-01-10"
+  },
+  "reformas": [
+    {
+      "fecha": "1994-12-21",
+      "po_numero": "153",
+      "decreto": "490",
+      "nota": "Decreto Número 490, publicado en el P.O. 153, de 21 de diciembre de 1994."
+    },
+    {
+      "fecha": "1996-12-27",
+      "po_numero": "156",
+      "decreto": "187",
+      "nota": "Decreto Número 187, publicado en el P.O. 156, de 27 de diciembre de 1996."
+    },
+    {
+      "fecha": "2001-09-19",
+      "po_numero": "113",
+      "decreto": "650",
+      "nota": "Decreto Número 650, publicado en el P.O. No. 113 del 19 de septiembre del 2001."
+    },
+    {
+      "fecha": "2001-12-21",
+      "po_numero": "153",
+      "decreto": "717",
+      "nota": "Decreto Número717, publicado en el P. O. No.153 de 21 de diciembre de 2001."
+    },
+    {
+      "fecha": "2011-08-26",
+      "po_numero": "102",
+      "decreto": "309",
+      "nota": "Decreto Número 309, publicado en el P.O. No. 102 del 26 de agosto de 2011."
+    },
+    {
+      "fecha": "2016-06-24",
+      "po_numero": "077",
+      "decreto": "562",
+      "nota": "Decreto Número 562, publicado en el P.O. No. 077 del 24 de junio de 2016."
+    },
+    {
+      "fecha": "2016-12-28",
+      "po_numero": "158",
+      "decreto": "58",
+      "nota": "Decreto No. 58, publicado en el P.O. No. 158 del 28 de diciembre de 2016."
+    }
+  ],
+  "abroga": [
+    {
+      "nombre": "Ley de Catastro del Estado de Sinaloa",
+      "po_numero": "81",
+      "fecha": "1951-07-14",
+      "decreto": null
+    }
+  ]
+}

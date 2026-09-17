@@ -1,0 +1,489 @@
+{
+  "id": 87,
+  "fecha_revision": "2026-09-15T10:55:55.845936+00:00",
+  "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 11,
+  "paginas_sin_texto": [],
+  "pagina_blanca_confirmada_visualmente": false,
+  "texto_conservado": true,
+  "comparacion_word_pdf": {
+    "palabras_comparadas": 3192,
+    "palabras_pdf": 3380,
+    "frecuencias_coinciden": false,
+    "orden_coincide_separando_nota_al_pie": false,
+    "nota_al_pie_reubicada_por_lector_word": null,
+    "normalizaciones_solo_comparacion": [
+      "Misma función lexical_tokens de Sinaloa; no modifica los originales ni el Markdown."
+    ],
+    "limite": "Campos Word y encabezados permanecen en el control; las diferencias se reportan sin reparación.",
+    "solo_word": {
+      "h": 5,
+      "e": 2,
+      "r": 1,
+      "t": 1,
+      "o": 1,
+      "u": 1,
+      "toc": 12,
+      "z": 1,
+      "hyperlink": 7,
+      "l": 7,
+      "pageref": 4
+    },
+    "solo_pdf": {
+      "ley": 10,
+      "del": 20,
+      "patronato": 10,
+      "para": 10,
+      "administrar": 10,
+      "el": 10,
+      "impuesto": 10,
+      "especial": 10,
+      "destinado": 10,
+      "a": 9,
+      "la": 10,
+      "universidad": 10,
+      "autonoma": 10,
+      "de": 20,
+      "nayarit": 20,
+      "poder": 10,
+      "legislativo": 10,
+      "estado": 10,
+      "secretaría": 10,
+      "general": 10,
+      "decreta": 1
+    }
+  },
+  "articulos_word": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "6bis",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14"
+  ],
+  "articulos_pdf": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "6bis",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14"
+  ],
+  "identificadores_articulos_coinciden": true,
+  "encabezados_transitorios": [
+    {
+      "pagina": 7,
+      "encabezado": "TRANSITORIOS:"
+    }
+  ],
+  "encabezados_ordinales_en_seccion_transitoria": [
+    "ARTICULO PRIMERO.- El presente Decreto entrará en vigor el primero de",
+    "ARTICULO SEGUNDO.- El presente Decreto abroga su similar 5274 publicado",
+    "ARTICULO TERCERO.- El Decreto 5292 de fecha 3 de abril de 1971, que",
+    "ARTICULO CUARTO.- El actual Patronato, por conducto de su Presidente,",
+    "Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su",
+    "Artículo Segundo.- El Patronato Administrador del Impuesto Especial deberá",
+    "Primero.- El presente Decreto entrará en vigor al día siguiente de su",
+    "Segundo.- El Patronato en un plazo no mayor a cinco días hábiles contados a",
+    "Tercero.- El Patronato pon conducto de su representante legal, podrá convenir",
+    "Cuarto.- Se derogan todas las disposiciones contenidas en diversos",
+    "Quinto.- Dentro de los quince días hábiles siguientes a la entrada en vigor del",
+    "Sexto.- Dentro de un plazo no mayor a 20 días hábiles contados a partir de la",
+    "PRIMERO. El presente Decreto entrará en vigor al día siguiente de su",
+    "SEGUNDO. En lo que refiere al párrafo tercero, inciso b) del artículo 1 del",
+    "TERCERO. El saldo existente hasta la entrada en vigor del presente Decreto",
+    "CUARTO. El importe recaudado por concepto del Impuesto Especial destinado",
+    "QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se",
+    "SEXTO. El Congreso del Estado contará con el plazo de hasta 60 días",
+    "SÉPTIMO. La Universidad Autónoma de Nayarit contará con el plazo de hasta",
+    "OCTAVO. El presente Decreto tendrá vigencia hasta en tanto la Universidad"
+  ],
+  "articulos_numericos_en_seccion_transitoria": [],
+  "transitorios_y_notas_completos_incluidos": true,
+  "paginas_cotejadas_visualmente": [],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 1388,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 2134,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 11,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 2166,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 2067,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 1771,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 1944,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 10,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 1996,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 1592,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 2316,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 1617,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 11,
+      "caracteres_no_blancos": 708,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    }
+  ],
+  "alcance": "Controles de conservación en todas las páginas; comparación de cifras con Poppler y pypdf. El cotejo visual se registra por separado. No certifica vigencia jurídica.",
+  "incidencias_resueltas": [],
+  "diferencias_de_fuente": [
+    "La comparación léxica Word/PDF no coincide: encabezados repetidos, campos Word y otras diferencias pendientes de cotejo. No equivale a pérdida del Markdown.",
+    "Word original .doc conservado por autorización expresa del usuario; no se fabrica original.docx."
+  ],
+  "formato_word_original": "doc",
+  "ocr_ejecutado": false,
+  "incidencias_descarga": [],
+  "promociones_encabezado_evitadas": [],
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-15T10:55:55.845936+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "po_publicacion.numero",
+        "motivo": "Dato no impreso de forma identificable; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.edicion",
+        "motivo": "Dato no impreso de forma identificable; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "ultima_reforma.numero",
+        "motivo": "Dato no impreso de forma identificable; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "ultima_reforma.edicion",
+        "motivo": "Dato no impreso de forma identificable; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "reformas[].fecha",
+        "motivo": "Dato ausente o no normalizable sin corregir la nota impresa; queda null y se conserva evidencia literal.",
+        "indices": [
+          4,
+          11,
+          12
+        ]
+      },
+      {
+        "campo": "reformas[].po_numero",
+        "motivo": "Dato ausente o no normalizable sin corregir la nota impresa; queda null y se conserva evidencia literal.",
+        "indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      },
+      {
+        "campo": "reformas[].decreto",
+        "motivo": "Dato ausente o no normalizable sin corregir la nota impresa; queda null y se conserva evidencia literal.",
+        "indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      },
+      {
+        "campo": "abroga",
+        "motivo": "No se localizaron cláusulas con la forma expresa se abroga/queda abrogado; arreglo vacío pendiente de cotejo."
+      },
+      {
+        "campo": "nombre_oficial",
+        "motivo": "Nombre de catálogo no cotejado literalmente en la primera página; nombre oficial queda null."
+      }
+    ],
+    "evidencia": {
+      "abroga": [],
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit el miércoles 29 de Noviembre de 1995."
+      },
+      "ultima_reforma": {
+        "pagina": 1,
+        "texto": "ÚLTIMA ENMIENDA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2021"
+      },
+      "decreto_numero": {
+        "pagina": 1,
+        "texto": "DECRETO NUMERO 7888"
+      },
+      "reformas": {
+        "pagina_inicio": 1,
+        "encabezado": null,
+        "filas": [
+          {
+            "fila": 0,
+            "texto": "(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2008)",
+            "pagina": 1
+          },
+          {
+            "fila": 1,
+            "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2014)",
+            "pagina": 1
+          },
+          {
+            "fila": 2,
+            "texto": "(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)",
+            "pagina": 1
+          },
+          {
+            "fila": 3,
+            "texto": "(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2021)",
+            "pagina": 2
+          },
+          {
+            "fila": 4,
+            "texto": "(REFORMADO, P.O. 20 DE DICIEMBRE 2008)",
+            "pagina": 2
+          },
+          {
+            "fila": 5,
+            "texto": "(REFORMADO, P.O. 26 DE JULIO DE 2014)",
+            "pagina": 2
+          },
+          {
+            "fila": 6,
+            "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2014)",
+            "pagina": 2
+          },
+          {
+            "fila": 7,
+            "texto": "(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)",
+            "pagina": 2
+          },
+          {
+            "fila": 8,
+            "texto": "(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2021)",
+            "pagina": 2
+          },
+          {
+            "fila": 9,
+            "texto": "(REFORMADO, P.O. 26 DE JULIO DE 2014)",
+            "pagina": 3
+          },
+          {
+            "fila": 10,
+            "texto": "(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)",
+            "pagina": 3
+          },
+          {
+            "fila": 11,
+            "texto": "(REFORMADO, P.O. 20 DE DICIEMBRE 2008)",
+            "pagina": 3
+          },
+          {
+            "fila": 12,
+            "texto": "(ADICIONADO, P.O. 20 DE DICIEMBRE 2008)",
+            "pagina": 3
+          },
+          {
+            "fila": 13,
+            "texto": "(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)",
+            "pagina": 4
+          },
+          {
+            "fila": 14,
+            "texto": "(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)",
+            "pagina": 4
+          },
+          {
+            "fila": 15,
+            "texto": "(REFORMADA, P.O. 26 DE JULIO DE 2014)",
+            "pagina": 5
+          },
+          {
+            "fila": 16,
+            "texto": "(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)",
+            "pagina": 6
+          },
+          {
+            "fila": 17,
+            "texto": "(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)",
+            "pagina": 6
+          },
+          {
+            "fila": 18,
+            "texto": "(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)",
+            "pagina": 6
+          },
+          {
+            "fila": 19,
+            "texto": "(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)",
+            "pagina": 7
+          },
+          {
+            "fila": 20,
+            "texto": "P.O. 20 DE DICIEMBRE DE 2008",
+            "pagina": 8
+          },
+          {
+            "fila": 21,
+            "texto": "P.O. 26 DE JULIO DE 2014",
+            "pagina": 8
+          },
+          {
+            "fila": 22,
+            "texto": "P.O. 22 DE DICIEMBRE DE 2015",
+            "pagina": 9
+          },
+          {
+            "fila": 23,
+            "texto": "P.O. 8 DE DICIEMBRE DE 2021",
+            "pagina": 9
+          }
+        ]
+      }
+    }
+  }
+}

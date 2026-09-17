@@ -1,0 +1,44 @@
+{
+  "id": 84,
+  "nombre_catalogo": "Ley de Vivienda",
+  "nombre_oficial": null,
+  "nombre_oficial_pendiente_de_cotejo": true,
+  "fuente": "https://gaceta.congresosinaloa.gob.mx/#/leyes",
+  "urls": {
+    "pdf": "https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Ley_84.pdf",
+    "word": "https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Leyword_84.docx"
+  },
+  "fecha_descarga": "2026-09-07T17:55:02.427194+00:00",
+  "fecha_catalogo_sin_interpretar": "15/08/2018",
+  "ultima_reforma": {
+    "numero": "101",
+    "edicion": null,
+    "fecha": "2018-08-15"
+  },
+  "evidencia_encabezado": [
+    "TEXTO VIGENTE"
+  ],
+  "hash_sha256": {
+    "pdf": "ece718fa56bbf498aa5ee2aa05e13436b003bc86610a0ccff7744ae32fd334db",
+    "word": "e404f92e1ddf0e9e65152d225cee7f0b92d847c4762b8659a34e9d2de9a07c68"
+  },
+  "version": "b395cffda08753b464a9bb6175d6bd172e7d3bb0e3a6b4412be246c84b1f84d7",
+  "origen_markdown": "PDF; conserva numeración impresa, notas y páginas",
+  "estatus": "Incluido en catálogo de Leyes Estatales; vigencia jurídica no verificada",
+  "validacion": "pendiente de cotejo visual",
+  "decreto_numero": "815",
+  "po_publicacion": {
+    "numero": "101",
+    "edicion": null,
+    "fecha": "2018-08-15"
+  },
+  "reformas": [],
+  "abroga": [
+    {
+      "nombre": "Decreto 297, que expide la Ley que crea el Instituto de Vivienda del Estado de Sinaloa",
+      "po_numero": "59 Bis",
+      "fecha": "1983-05-18",
+      "decreto": "297"
+    }
+  ]
+}

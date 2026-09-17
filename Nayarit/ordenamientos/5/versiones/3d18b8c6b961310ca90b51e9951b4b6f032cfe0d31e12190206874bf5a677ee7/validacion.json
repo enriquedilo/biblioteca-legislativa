@@ -1,0 +1,6497 @@
+{
+  "id": 5,
+  "fecha_revision": "2026-09-14T12:14:23.073418+00:00",
+  "resultado": "Piloto corregido v2: conservación verificada; cotejo Word/PDF con incidencias",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 181,
+  "paginas_sin_texto": [],
+  "pagina_blanca_confirmada_visualmente": false,
+  "texto_conservado": true,
+  "comparacion_word_pdf": {
+    "palabras_comparadas": 62154,
+    "palabras_pdf": 64805,
+    "frecuencias_coinciden": false,
+    "orden_coincide_separando_nota_al_pie": false,
+    "nota_al_pie_reubicada_por_lector_word": null,
+    "normalizaciones_solo_comparacion": [
+      "Misma función lexical_tokens de Sinaloa; no modifica los originales ni el Markdown."
+    ],
+    "limite": "Campos Word y encabezados permanecen en el control; las diferencias se reportan sin reparación.",
+    "solo_word": {
+      "s": 2,
+      "a": 1,
+      "h": 65,
+      "o": 3,
+      "u": 1,
+      "e": 1,
+      "n": 1,
+      "archivos": 1,
+      "t": 2,
+      "r": 2,
+      "z": 1,
+      "hyperlink": 65,
+      "http": 1,
+      "periodicooficial": 1,
+      "gob": 1,
+      "mx": 1,
+      "periodico": 1,
+      "resources": 1,
+      "pdf": 1,
+      "entrara": 3,
+      "contara": 2,
+      "revisara": 1,
+      "identificara": 1,
+      "ste": 1,
+      "toc": 129,
+      "l": 64,
+      "pageref": 64
+    },
+    "solo_pdf": {
+      "constitucion": 180,
+      "politica": 180,
+      "del": 360,
+      "estado": 360,
+      "libre": 180,
+      "y": 180,
+      "soberano": 180,
+      "de": 360,
+      "nayarit": 359,
+      "poder": 180,
+      "legislativo": 180,
+      "secretaría": 180,
+      "general": 180,
+      "contará": 2,
+      "éste": 1,
+      "entrará": 3,
+      "identificará": 1,
+      "transitorios": 1,
+      "revisará": 1
+    }
+  },
+  "articulos_word": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "7bis",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "80bis",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98",
+    "99",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "115bis",
+    "116",
+    "117",
+    "118",
+    "119",
+    "120",
+    "121",
+    "121bis",
+    "122",
+    "123",
+    "124",
+    "125",
+    "126",
+    "127",
+    "128",
+    "129",
+    "130",
+    "131",
+    "132",
+    "133",
+    "134",
+    "135",
+    "136",
+    "137",
+    "138",
+    "139",
+    "1",
+    "2",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+  ],
+  "articulos_pdf": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "7bis",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "80bis",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98",
+    "99",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "115bis",
+    "116",
+    "117",
+    "118",
+    "119",
+    "120",
+    "121",
+    "121bis",
+    "122",
+    "123",
+    "124",
+    "125",
+    "126",
+    "127",
+    "128",
+    "129",
+    "130",
+    "131",
+    "132",
+    "133",
+    "134",
+    "135",
+    "136",
+    "137",
+    "138",
+    "139",
+    "1",
+    "2",
+    "131",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "131",
+    "105"
+  ],
+  "identificadores_articulos_coinciden": true,
+  "encabezados_transitorios": [
+    {
+      "pagina": 118,
+      "encabezado": "TRANSITORIOS"
+    }
+  ],
+  "encabezados_ordinales_en_seccion_transitoria": [
+    "Cuarto Distrito Electoral - Francisco R. Pérez/Diputado por el Quinto Distrito",
+    "ARTICULO PRIMERO.- Entre tanto se fijan los porcentajes adicionales a que se",
+    "ARTICULO SEGUNDO.- Las reformas a este decreto surten sus efectos desde la",
+    "Primero.- Se derogan todas las disposiciones que se opongan al presente",
+    "Segundo.- Este Decreto comienza a surtir sus efectos a partir del día de su",
+    "ARTICULO PRIMERO.- El Artículo primero del presente Decreto, que reforma el",
+    "ARTICULO SEGUNDO.- El artículo Segundo del presente Decreto que reforma el",
+    "UNICO.- El presente Decreto surte sus efectos desde la fecha de su publicación,",
+    "UNICO.- El presente Decreto surte sus efectos a partir del día primero de enero de",
+    "UNICO.- El presente Decreto entra en vigor desde la fecha en que se publique en",
+    "UNICO.- El presente Decreto surtirá sus efectos a partir de la fecha de su",
+    "UNICO.- El presente Decreto entra en vigor desde la fecha en que se publique en",
+    "UNICO.- El presente Decreto entrará en vigor el día primero de enero de mil",
+    "ARTÍCULO UNICO.- Por esta sola vez, el C. Gobernador Constitucional del",
+    "UNICO.- El presente Decreto entrará en vigor desde la fecha de su publicación en",
+    "UNICO.- La reforma a que se contrae el presente Decreto, surtirá sus efectos a",
+    "UNICO.- El presente Decreto surte sus efectos legales a partir de la fecha de su",
+    "Artículo Primero.- Envíese la presente Iniciativa de Reformas a los HH.",
+    "Artículo Segundo.- En las Leyes, Reglamentos y demás disposiciones vigentes, la",
+    "Artículo Tercero.- Las presentes reformas constitucionales entrarán en vigor al día",
+    "UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su",
+    "ARTICULO PRIMERO.- La Reforma introducida mediante este Decreto entrará en",
+    "ARTICULO SEGUNDO.- Los 2 Representantes que cubrirán las Diputaciones",
+    "ARTICULO UNICO.- La reforma introducida en el presente Decreto entrará en",
+    "UNICO.- El presente Decreto entrará en vigor en todo el Estado al día siguiente de",
+    "UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su",
+    "UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su",
+    "ARTICULO PRIMERO.- Por este solo año, el Gobernador rendirá el Informe que",
+    "ARTICULO SEGUNDO.- Este Decreto entrará en vigor a partir de la fecha de su",
+    "UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el",
+    "ARTICULO UNICO.- Este Decreto entrará en vigor al día siguiente al de su",
+    "UNICO.- El presente Decreto surtirá sus efectos legales a partir del día de su",
+    "ARTICULO UNICO. Este Decreto entrará en vigor al siguiente día de su",
+    "UNICO.- Este Decreto entrará en vigor al siguiente día de su publicación en el",
+    "UNICO.- Este Decreto entrará en vigor al siguiente día de su publicación en el",
+    "ARTICULO UNICO.- Este Decreto entrará en vigor al siguiente día de su",
+    "ARTICULO PRIMERO.- Solo por lo que respecta al presente año, el Gobernador",
+    "ARTICULO SEGUNDO.- Esta XIX Legislatura, durante el tercer año de su ejercicio",
+    "ARTICULO TERCERO.- El presente Decreto entrará en vigor el día de su",
+    "PRIMERO.- El presente Decreto entrará en vigor a partir del día de su publicación",
+    "SEGUNDO.- Las Instituciones de Educación Superior, dotadas de autonomía,",
+    "UNICO.- Este Decreto entrará en vigor en la fecha de su publicación en el",
+    "UNICO.- El presente Decreto entrará en vigor el día de su publicación en el",
+    "ARTICULO PRIMERO.- Sólo por lo que respecta al presente año, el Gobernador",
+    "ARTICULO SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de",
+    "ARTICULO UNICO.- El presente Decreto entrará en vigor a partir del día de su",
+    "ARTICULO UNICO.- El presente Decreto entrará en vigor a partir del día siguiente",
+    "UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en",
+    "ARTICULO PRIMERO.- El presente Decreto entrará en vigor el primer día de",
+    "ARTICULO SEGUNDO.- Se derogan todas las disposiciones que contravengan el",
+    "ARTICULO TERCERO.- Publíquese en el Periódico Oficial, Organo del Gobierno",
+    "UNICO.- El presente Decreto entrará en vigor a partir del día de su publicación en",
+    "UNICO.- Remítase el presente Decreto a los Ayuntamientos de la Entidad en los",
+    "UNICO.- Remítase el presente Decreto a los Honorables Ayuntamientos de la",
+    "UNICO.- El presente Decreto entrará en vigor, el día de su publicación en el",
+    "ARTICULO PRIMERO.- La presente reforma y adición a la Constitución Política",
+    "ARTICULO PRIMERO.- Para cumplir las condiciones y efectos a que se refiere el",
+    "ARTICULO SEGUNDO.- Se confiere un plazo de quince días hábiles a partir de",
+    "ARTICULO PRIMERO.- Las presentes Reformas y Adiciones entrarán en vigor al",
+    "ARTICULO SEGUNDO.- Para los efectos de ratificación a que se refiere el",
+    "ARTICULO TERCERO.- Los nombramientos de Jueces de Primera Instancia,",
+    "ARTICULO CUARTO.- Recábese la aprobación de los Honorables Ayuntamientos",
+    "PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del",
+    "SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente de su",
+    "ARTICULO PRIMERO.- El contenido del presente Decreto entrará en vigor al día",
+    "ARTICULO SEGUNDO.- Remítase la Minuta aprobada a los HH. Ayuntamientos",
+    "ARTICULO PRIMERO.- El contenido del presente Decreto entrará en vigor al día",
+    "ARTICULO SEGUNDO.- Remítase la Minuta aprobada a los HH. Ayuntamientos",
+    "UNICO.- Seguidos los trámites a que se refiere el Artículo 131 de la Constitución",
+    "ARTICULO PRIMERO.- Con fundamento a los trámites a que se refiere el Artículo",
+    "ARTICULO SEGUNDO.- Para todos los efectos prevenidos en la Ley Orgánica del",
+    "ARTICULO UNICO.- Con fundamento a los trámites a que se refiere el Artículo",
+    "ARTICULO PRIMERO.- El presente Decreto entrará en vigor, de conformidad al",
+    "ARTICULO SEGUNDO.- Lo dispuesto en los Artículos 81 y 83, en lo relativo a la",
+    "ARTICULO TERCERO.- El Gobernador que tome posesión del cargo el 19 de",
+    "ARTICULO CUARTO.- El Pleno del Tribunal Superior de Justicia continuará a",
+    "ARTICULO QUINTO.- Al entrar en vigor las presentes reformas y adiciones,",
+    "ARTICULO SEXTO.- Por esta única vez y para los efectos del Artículo 85 de la",
+    "PRIMERO.- El presente decreto de reformas entrará en vigor, previos los trámites",
+    "SEGUNDO.- Remítase el expediente y la minuta del presente decreto a los",
+    "ARTICULO PRIMERO.- El presente decreto entrará en vigor, previos trámites",
+    "ARTICULO SEGUNDO.- Remítase la minuta aprobada a los Honorables",
+    "PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO.- En cumplimiento a lo dispuesto por el artículo 131 de la Constitución",
+    "ARTICULO UNICO.- El presente decreto de adiciones y reformas entrará en vigor",
+    "ARTICULO PRIMERO.- El presente decreto entrará en vigor al día siguiente de su",
+    "ARTICULO SEGUNDO.- Remítase la minuta aprobada a cada uno de los",
+    "PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO.- Remítase la minuta aprobada a los Ayuntamientos Constitucionales",
+    "ARTICULO UNICO.- La presente reforma entrará en vigor al día siguiente de su",
+    "ARTICULO PRIMERO.- El presente decreto entrará en vigor al día siguiente de su",
+    "ARTICULO SEGUNDO.- La legislatura expedirá, en un plazo no mayor a seis",
+    "ARTICULO TERCERO.- A partir de la entrada en vigor de este decreto, la",
+    "ARTICULO CUARTO.- La Legislatura, por medio de sus órganos internos",
+    "ARTICULO QUINTO.- En tanto se expide la Ley Orgánica del Organo de",
+    "ARTICULO SEXTO.- A partir de la entrada en vigor del presente decreto el",
+    "Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su",
+    "Artículo Segundo.- Los Ayuntamientos deberán adecuar y, en su caso, expedir los",
+    "Artículo Tercero.- Para equiparar los valores unitarios de suelo que sirven de base",
+    "Artículo Cuarto.- Se entienden por reproducidos los artículos transitorios del",
+    "Artículo Quinto.- En su oportunidad, y de resultar aprobado por esta Asamblea",
+    "Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su",
+    "Artículo Segundo.- En cumplimiento a lo dispuesto por el artículo 131 de la",
+    "PRIMERO.- El presente Decreto, previa publicación en el Periódico Oficial, Organo",
+    "SEGUNDO.- Se derogan las disposiciones legales, reglamentarias, acuerdos y",
+    "TERCERO.- Remítase el presente Decreto a los H. Ayuntamientos",
+    "CUARTO.- Se dará un plazo de seis meses a partir de que entre en vigor la",
+    "Primero.- El presente decreto entrará en vigor el primero de enero de 2003,",
+    "Segundo.- En su oportunidad, y de resultar aprobado por esta Asamblea",
+    "ARTICULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su",
+    "ARTÍCULO SEGUNDO.- Las reformas y adiciones a las leyes que se requieran",
+    "ARTÍCULO TERCERO.- Remítase el presente Decreto a los H. Ayuntamientos",
+    "Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su",
+    "Artículo Segundo.- Remítase la presente Minuta de Proyecto de Decreto a los",
+    "ARTÍCULO PRIMERO.- La presente reforma entrará en vigor al día siguiente de",
+    "ARTÍCULO SEGUNDO.- Remítase el presente Decreto a los Ayuntamientos de la",
+    "ARTÍCULO PRIMERO. Remítase el presente decreto a los H. ayuntamientos",
+    "ARTÍCULO SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su",
+    "ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su",
+    "ARTÍCULO SEGUNDO.- Dentro de un plazo de treinta días, contados a partir de la",
+    "ARTÍCULO TERCERO.- Para los efectos del artículo 131 de la Constitución",
+    "ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su",
+    "ARTÍCULO SEGUNDO.- Para dar cumplimiento a lo dispuesto con relación al",
+    "ARTÍCULO TERCERO.- El Congreso del Estado deberá realizar las adecuaciones",
+    "ARTÍCULO CUARTO.- Para los efectos del artículo 131 de la Constitución Política",
+    "ARTÍCULO QUINTO.- Para los efectos a que alude la fracción II, apartado B del",
+    "Artículo Primero.- La presente reforma entrará en vigor al día siguiente de su",
+    "Artículo Segundo.- Remítase el presente Decreto a los Ayuntamientos de la",
+    "Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su",
+    "Artículo Segundo.- Las formalidades, procedimientos y principios que se",
+    "Artículo Tercero.- En todo caso, el Congreso del Estado deberá aprobar las",
+    "Artículo Cuarto.- Para los efectos del nombramiento del titular del Órgano de",
+    "Artículo Quinto.- Remítase el presente decreto a los Ayuntamientos de la entidad",
+    "Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su",
+    "Artículo Segundo.- Para los efectos previstos por el artículo 131 de la Constitución",
+    "Artículo Tercero.- El Poder Legislativo deberá en un término de 180 días naturales,",
+    "UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en",
+    "Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su",
+    "Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al",
+    "Artículo Tercero.- Remítase la presente Minuta con Proyecto de Decreto a los",
+    "Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su",
+    "Artículo Segundo.- Se derogan todas las disposiciones legales y administrativas",
+    "Artículo Tercero.- El Congreso en un plazo de tres meses contados a partir de la",
+    "Artículo Cuarto.- El Congreso en un plazo de seis meses contados a partir de la",
+    "Artículo Quinto.- En un plazo no mayor a 60 días posteriores a la entrada en vigor",
+    "Artículo Sexto.- En vista de las atribuciones que el presente Decreto otorga a la",
+    "Artículo Primero.- El presente Decreto entrará en vigor al siguiente día de su",
+    "Artículo Segundo.- Por lo que respecta a la derogación del artículo 99 surtirá sus",
+    "Artículo Tercero.- Para dar cumplimiento a lo establecido por el artículo 131 de la",
+    "Artículo Primero.- Para los efectos previstos en el artículo 135 de la Constitución",
+    "Artículo Segundo.- El presente decreto entrará en vigor al día siguiente de su",
+    "Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su",
+    "Artículo Segundo.- El Congreso del Estado, deberá realizar las modificaciones a la",
+    "Artículo Tercero.- En cuanto a lo dispuesto por el artículo 81 en su párrafo cuarto",
+    "Artículo Cuarto.- Para los efectos previstos por el artículo 131 de la Constitución",
+    "Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su",
+    "Artículo Segundo.- Por lo que respecta al artículo segundo del presente decreto",
+    "Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su",
+    "Artículo Segundo.- Para los efectos del artículo 131 de la Constitución Política del",
+    "Artículo Tercero.- El Congreso del Estado deberá realizar las adecuaciones",
+    "Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su",
+    "Artículo Segundo.- Para regular lo dispuesto en el artículo 17 del presente decreto",
+    "Artículo Tercero.- El Congreso del Estado dispondrá de un plazo de hasta un año",
+    "Artículo Cuarto.- La legislación relativa a los artículos 53 y 110 contenidos en el",
+    "Artículo Quinto.- El Congreso del Estado contará con un plazo de tres años para",
+    "Artículo Sexto.- Para los efectos previstos por el artículo 131 de la Constitución",
+    "ARTICULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su",
+    "ARTÍCULO SEGUNDO.- Las reformas y adiciones a las leyes que se requieran",
+    "ARTÍCULO TERCERO.- Remítase el presente Decreto a los H. Ayuntamientos",
+    "Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su",
+    "Artículo Segundo.- Para los efectos previstos por el artículo 131 de la Constitución",
+    "Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su",
+    "Artículo Segundo.- Para los efectos del segundo párrafo de la fracción VI del",
+    "Artículo Tercero.- A efecto de garantizar el cumplimiento de lo dispuesto por el",
+    "Artículo Cuarto.- Para los efectos previstos por el párrafo quinto del artículo 101,",
+    "Artículo Quinto.- Para los efectos previstos por el artículo 131 de la Constitución",
+    "Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su",
+    "Artículo Segundo.- El Congreso del Estado, dentro del plazo de un año contado a",
+    "Artículo Tercero.- En tanto se emitan las adecuaciones legislativas referidas en el",
+    "Artículo Cuarto.- El Congreso del Estado deberá realizar las adecuaciones",
+    "Artículo Quinto.- Para los efectos del artículo 131 de la Constitución Política del",
+    "Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su",
+    "Artículo Segundo.- El Poder Legislativo del Estado, deberá realizar las",
+    "Artículo Tercero.- Para los efectos previstos por el artículo 131 de la Constitución",
+    "Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su",
+    "Artículo Segundo.- Para los efectos previstos por el artículo 131 de la Constitución",
+    "Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su",
+    "Artículo Segundo.- En lo concerniente a las reformas en materia de jurisdicción",
+    "Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente",
+    "Artículo Cuarto.- Dentro de un plazo de sesenta días contados a partir del día",
+    "Artículo Quinto.- Para los efectos previstos por el artículo 131 de la Constitución",
+    "Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación",
+    "Segundo.- Las Leyes de Ingresos del Estado y de los Municipios deberán",
+    "Tercero.- El Congreso del Estado deberá armonizar la Ley de Transparencia y",
+    "Cuarto.- Quedan a salvo los derechos adquiridos por el Licenciado Jesús Ramón",
+    "Quinto.- Para los efectos previstos por el artículo 131 de la Constitución Política",
+    "Primero.- El presente decreto entrará en vigor al día siguiente de su publicación",
+    "Segundo.- Considerando lo dispuesto en el artículo 63 de la Constitución Política",
+    "Tercero.- Los integrantes del Congreso del Estado que resulten electos en el",
+    "Cuarto.- Los miembros de los ayuntamientos que resulten electos en el proceso",
+    "Quinto.- Para los efectos del artículo 135, apartado D, una vez concluido el",
+    "Sexto.- Una vez realizada la designación de los magistrados electorales, deberán",
+    "Primero. El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "Segundo. El Congreso del Estado, deberá aprobar las leyes y realizar las",
+    "Tercero. En un plazo de hasta sesenta días, contados a partir de la entrada en",
+    "Cuarto. Para la designación de los Magistrados del Tribunal de Justicia",
+    "Quinto. La ley reglamentaria del segundo párrafo del artículo 127 de la",
+    "Sexto. Las adiciones, reformas y derogaciones que por virtud del presente",
+    "Primero.- El presente decreto entrará en vigor al día siguiente de su publicación",
+    "Segundo.- Para los efectos previstos por el artículo 131 de la Constitución Política",
+    "Tercero.- En atención al resolutivo quinto de la sentencia emitida respecto de la",
+    "Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "Segundo.- El Fiscal General del Estado que se encuentre en funciones al entrar",
+    "Tercero.- Los bienes, recursos materiales y financieros con que actualmente",
+    "Cuarto.- Dentro de los seis meses contados a partir de la entrada en vigencia del",
+    "Quinto.- Para los efectos previstos por el artículo 131 de la Constitución Política",
+    "Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "Segundo.- Para la designación del Fiscal General a partir de la presente reforma,",
+    "Tercero.- Para los efectos de lo establecido en el presente Decreto en los",
+    "Cuarto.- Para los efectos previstos por el artículo 131 de la Constitución Política",
+    "Primero. - El presente decreto entrará en vigor el día 19 de septiembre del año",
+    "Segundo. - En un plazo que no exceda de noventa días, posteriores a la entrada",
+    "Tercero. - Para los efectos previstos por el artículo 131 de la Constitución Política",
+    "Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "Segundo.- Para la designación de los Fiscales Especializados, el Congreso del",
+    "Tercero.- Para los efectos previstos por el artículo 131 de la Constitución Política",
+    "PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO. DEROGADO, P.O. 1 DE MARZO DE 2021",
+    "TERCERO. La presente reforma garantizará y respetará todos los derechos de los",
+    "CUARTO. DEROGADO, P.O. 1 DE MARZO DE 2021",
+    "QUINTO. DEROGADO, P.O. 1 DE MARZO DE 2021",
+    "SEXTO. El Centro de Conciliación tendrá su funcionamiento de manera regional,",
+    "SÉPTIMO. El titular del Poder Ejecutivo del Estado garantizará las previsiones",
+    "OCTAVO. La integración de trece Magistrados Numerarios del Tribunal Superior",
+    "NOVENO. Se dejarán sin efectos los artículos transitorios noveno, décimo, décimo",
+    "DÉCIMO. El titular del Poder Ejecutivo del Estado, en un plazo no mayor a",
+    "DÉCIMO PRIMERO. El Poder Legislativo del Estado, en un plazo no mayor a",
+    "DÉCIMO SEGUNDO. En un plazo no mayor a treinta días naturales contados a",
+    "DÉCIMO TERCERO. Una vez que sea designado el Juez Consejero, la nueva",
+    "DÉCIMO CUARTO. En un plazo no mayor a noventa días naturales posteriores a",
+    "DÉCIMO QUINTO. Los Consejeros que designe el titular del Poder Ejecutivo y el",
+    "DÉCIMO SEXTO. La Ley Orgánica del Poder Judicial para el Estado de Nayarit,",
+    "DÉCIMO SÉPTIMO. El periodo de duración de un año de la presidencia del",
+    "DÉCIMO OCTAVO. Para los efectos previstos por el artículo 131 de la",
+    "PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO. El Honorable Congreso del Estado de Nayarit dentro de los 180 días",
+    "TERCERO. Para los efectos previstos por el artículo 131 de la Constitución",
+    "PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO.- En un plazo que no exceda de noventa días posteriores a la entrada",
+    "TERCERO.- En un plazo que no exceda de noventa días posteriores a la entrada",
+    "CUARTO.- Dentro del plazo de ciento ochenta días posteriores a la entrada en",
+    "QUINTO.- A partir de la instalación de la Junta de Gobierno del Instituto de",
+    "SEXTO.- El Congreso del Estado, dentro del plazo de un año siguiente a la",
+    "SÉPTIMO.- Para los efectos previstos por el artículo 131 de la Constitución",
+    "OCTAVO.- La Ley reglamentaria garantizará los derechos laborales de los",
+    "PRIMERO.- El presente Decreto entrará en vigor al año siguiente de su",
+    "SEGUNDO.- En un plazo que no exceda de noventa días, posteriores a la entrada",
+    "TERCERO.- Para los efectos previstos por el artículo 131 de la Constitución",
+    "CUARTO.- Se deberán realizar las adecuaciones presupuestales necesarias para",
+    "PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO.- En un plazo que no exceda de ciento ochenta días, posteriores a la",
+    "TERCERO.- Se deberán realizar las adecuaciones administrativas, reglamentarias",
+    "CUARTO.- Para los efectos previstos por el artículo 131 de la Constitución Política",
+    "QUINTO.- Una vez concluido el proceso de reforma constitucional local,",
+    "SEXTO.- La integración de tres Magistrados del Tribunal Estatal Electoral de",
+    "SÉPTIMO.- Los Magistrados que actualmente se encuentran en funciones",
+    "PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO.- Remítase el presente Decreto a los Ayuntamientos del Estado de",
+    "PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO.- Para la designación de los dos nuevos Magistrados Numerarios o",
+    "TERCERO.- DEROGADO, P.O. 28 DE ABRIL DE 2021",
+    "CUARTO.- En un plazo que no exceda de ciento ochenta días posteriores a la",
+    "QUINTO.- El Tribunal de Justicia Administrativa deberá realizar las adecuaciones",
+    "SEXTO.- Dentro de los 30 días posteriores a la designación de los Magistrados",
+    "SÉPTIMO.- Para los efectos previstos por el artículo 131 de la Constitución",
+    "PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO.- Los Consejeros nombrados por los Poderes Legislativo y Ejecutivo,",
+    "TERCERO.- El actual presidente seguirá en funciones hasta la conclusión del",
+    "CUARTO.- Dentro de los ciento veinte días naturales siguientes a que entre en",
+    "QUINTO.- Para los efectos previstos por el artículo 131 de la Constitución Política",
+    "SEXTO.- DEROGADO, P.O. 1 DE DICIEMBRE DE 2022",
+    "PRIMERO.- El presente Decreto entrará en vigor el 1º de enero de 2021 y deberá",
+    "SEGUNDO.- Remítase el presente Decreto a los Ayuntamientos del Estado de",
+    "PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO.- En un plazo no mayor a 180 días, el Congreso deberá hacer las",
+    "TERCERO.- La observancia del principio de paridad de género a que se refiere el",
+    "CUARTO.- Para los efectos previstos por el artículo 131 de la Constitución Política",
+    "PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO.- Comuníquese el presente Decreto al titular del Poder Ejecutivo del",
+    "TERCERO.- Para los efectos previstos por el artículo 131 de la Constitución",
+    "PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO. El Congreso del Estado contará con 180 días naturales, posteriores a",
+    "TERCERO. Dentro del Plazo de 90 días naturales, posteriores a la entrada en",
+    "CUARTO. La entrada en funciones del Centro de Conciliación Laboral del Estado",
+    "QUINTO. La Ley Orgánica que regule el Centro de Conciliación Laboral del Estado",
+    "SEXTO. Para los efectos previstos por el artículo 131 de la Constitución Política",
+    "PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su",
+    "SEGUNDO.- Dentro de los quince días posteriores a la entrada en vigor del",
+    "TERCERO.- Dentro de los noventa días posteriores a la entrada en vigor de este",
+    "CUARTO.- Dentro de los treinta días posteriores a la entrada en vigor de la",
+    "QUINTO.- Remítase el presente Decreto a los Ayuntamientos del Estado de",
+    "PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO.- Comuníquese el presente Decreto, al titular del Poder Ejecutivo del",
+    "TERCERO.- De conformidad a lo dispuesto por el artículo 85 numeral 5 objeto de",
+    "CUARTO.- Remítase el presente Decreto a los Ayuntamientos del Estado de",
+    "PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO.- La integración de los órganos públicos estatales y áreas",
+    "TERCERO.- Dentro de los 180 días naturales posteriores a la publicación oficial",
+    "CUARTO.- Para los efectos del artículo 131 de la Constitución Política del Estado",
+    "PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO. Se establece un periodo de dieciocho meses, contados a partir de la",
+    "TERCERO. Para los efectos del artículo 131 de la Constitución Política del Estado",
+    "PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO.- Por única ocasión el informe relativo al primer año de ejercicio",
+    "TERCERO.- Para los efectos del artículo 131 de la Constitución Política del",
+    "PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO.- Para los efectos del artículo 131 de la Constitución Política del",
+    "PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO.- El Magistrado o Magistrada que a la entrada en vigor del presente",
+    "TERCERO.- Dentro de los ciento ochenta días hábiles siguientes a que entre en",
+    "CUARTO.- Dentro de los treinta días naturales siguientes a la entrada en vigor del",
+    "QUINTO.- Para efectos de la nueva integración del Tribunal de Justicia",
+    "SEXTO.- Para los efectos del artículo 131 de la Constitución Política del Estado",
+    "PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO. Se establece un periodo de veintidós meses, contados a partir de la",
+    "TERCERO. El Honorable Congreso del Estado de Nayarit, deberá expedir la",
+    "CUARTO. Para los efectos del artículo 131, párrafo primero, de la Constitución",
+    "PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO. Para los efectos previstos por el artículo 131 de la Constitución",
+    "PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO.- Para los efectos del artículo 131 de la Constitución Política del",
+    "PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO.- Para los efectos del artículo 131 de la Constitución Política del",
+    "PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO. Para los efectos previstos por el artículo 131 de la Constitución",
+    "PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO. El proceso electoral extraordinario 2025, dará inicio a la entrada en",
+    "TERCERO. Por única ocasión el período de las Magistradas y Magistrados, y de",
+    "CUARTO. Las Juezas y Jueces cuyo nombramiento concluye en el año de la",
+    "QUINTO. Por única ocasión, para efectos de lo dispuesto en el artículo 86 de la",
+    "SEXTO. El Consejo de la Judicatura del Estado, continuará ejerciendo las",
+    "SÉPTIMO. El Tribunal de Disciplina Judicial y el Órgano de Administración Judicial",
+    "OCTAVO. Las personas interesadas en participar en la elección, podrán",
+    "NOVENO. Las remuneraciones de las personas servidoras públicas del Poder",
+    "DÉCIMO. El Congreso del Estado, tendrá un plazo de treinta días hábiles a partir",
+    "DÉCIMO PRIMERO. Los procedimientos que, al momento de la entrada en vigor",
+    "DÉCIMO SEGUNDO. Los derechos laborales de las personas trabajadoras del",
+    "DÉCIMO TERCERO. El Poder Judicial del Estado, llevará a cabo los actos y",
+    "DÉCIMO CUARTO. Para la interpretación y aplicación de este Decreto, los",
+    "DÉCIMO QUINTO. Se derogan todas las disposiciones que se opongan al",
+    "DÉCIMO SEXTO. Para los efectos del artículo 131 de la Constitución Política del",
+    "PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO. Se establece un plazo de noventa días, contados a partir de la",
+    "TERCERO. En un plazo de ciento ochenta días hábiles contados a partir de la",
+    "CUARTO. Para los efectos previstos por el artículo 131 de la Constitución Política",
+    "PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO. A partir de la entrada en vigor de este Decreto, se derogan todas las",
+    "TERCERO. El Poder Ejecutivo y los Municipios deberán realizar las reformas a las",
+    "CUARTO. El Congreso del Estado, en un plazo de noventa días, contados a partir",
+    "QUINTO. El presente Decreto se deberá traducir a las lenguas de los pueblos",
+    "SEXTO. El Poder Ejecutivo, el Legislativo y los Ayuntamientos del Estado, en el",
+    "SÉPTIMO. Para los efectos del artículo 131 de la Constitución Política del Estado",
+    "PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO. El Poder Ejecutivo y el Poder Legislativo deberán designar a sus",
+    "TERCERO. Para los efectos previstos por el artículo 131 de la Constitución",
+    "PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO. El Congreso del Estado de Nayarit, contará con un plazo de ciento",
+    "TERCERO. Una vez que entre en vigor la legislación a la que hace referencia el",
+    "CUARTO. Hasta en tanto no se expida la legislación secundaria para dar",
+    "QUINTO. Quedan sin efecto todas las disposiciones que se opongan al presente",
+    "SEXTO. Para los efectos previstos por el artículo 131 de la Constitución Política",
+    "PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO. Las reformas relativas a la prohibición del nepotismo electoral serán",
+    "TERCERO. Las reformas relativas a la prohibición de reelección de las diputadas",
+    "CUARTO. El Congreso del Estado contará con un plazo de ciento ochenta días",
+    "QUINTO. Para los efectos del artículo 131 de la Constitución Política del Estado",
+    "PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación",
+    "SEGUNDO. Para los efectos del artículo 131 de la Constitución Política del Estado"
+  ],
+  "articulos_numericos_en_seccion_transitoria": [
+    "1",
+    "2",
+    "131",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "131",
+    "105"
+  ],
+  "transitorios_y_notas_completos_incluidos": true,
+  "paginas_cotejadas_visualmente": [
+    1,
+    40,
+    78,
+    118,
+    128,
+    133,
+    163,
+    170,
+    181
+  ],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 1373,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 1807,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 1858,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 2262,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 2317,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 1992,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 2113,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 1933,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 2352,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 2073,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 11,
+      "caracteres_no_blancos": 2047,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 12,
+      "caracteres_no_blancos": 2301,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 13,
+      "caracteres_no_blancos": 2206,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 14,
+      "caracteres_no_blancos": 2087,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 15,
+      "caracteres_no_blancos": 2219,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 16,
+      "caracteres_no_blancos": 2108,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 17,
+      "caracteres_no_blancos": 2192,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 18,
+      "caracteres_no_blancos": 1999,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 19,
+      "caracteres_no_blancos": 1865,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 10,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 20,
+      "caracteres_no_blancos": 2163,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 21,
+      "caracteres_no_blancos": 2039,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 22,
+      "caracteres_no_blancos": 2219,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 23,
+      "caracteres_no_blancos": 1939,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 24,
+      "caracteres_no_blancos": 1506,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 25,
+      "caracteres_no_blancos": 1942,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 26,
+      "caracteres_no_blancos": 1917,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 27,
+      "caracteres_no_blancos": 2050,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 28,
+      "caracteres_no_blancos": 1379,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 29,
+      "caracteres_no_blancos": 1218,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 30,
+      "caracteres_no_blancos": 2041,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 31,
+      "caracteres_no_blancos": 1581,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 32,
+      "caracteres_no_blancos": 2294,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 33,
+      "caracteres_no_blancos": 2253,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 34,
+      "caracteres_no_blancos": 2183,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 35,
+      "caracteres_no_blancos": 2001,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 36,
+      "caracteres_no_blancos": 1927,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 37,
+      "caracteres_no_blancos": 1872,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 38,
+      "caracteres_no_blancos": 1869,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 39,
+      "caracteres_no_blancos": 2008,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 10,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 40,
+      "caracteres_no_blancos": 2034,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 41,
+      "caracteres_no_blancos": 1935,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 9,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 42,
+      "caracteres_no_blancos": 1824,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 43,
+      "caracteres_no_blancos": 1788,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 10,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 44,
+      "caracteres_no_blancos": 1489,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 45,
+      "caracteres_no_blancos": 1888,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 46,
+      "caracteres_no_blancos": 2050,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 47,
+      "caracteres_no_blancos": 1763,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 48,
+      "caracteres_no_blancos": 1656,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 49,
+      "caracteres_no_blancos": 1912,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 50,
+      "caracteres_no_blancos": 2169,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 51,
+      "caracteres_no_blancos": 1912,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 52,
+      "caracteres_no_blancos": 1926,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 10,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 53,
+      "caracteres_no_blancos": 1836,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 54,
+      "caracteres_no_blancos": 1904,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 10,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 55,
+      "caracteres_no_blancos": 1728,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 10,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 56,
+      "caracteres_no_blancos": 1841,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 57,
+      "caracteres_no_blancos": 1997,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 58,
+      "caracteres_no_blancos": 1763,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 59,
+      "caracteres_no_blancos": 1691,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 60,
+      "caracteres_no_blancos": 1638,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 61,
+      "caracteres_no_blancos": 2263,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 62,
+      "caracteres_no_blancos": 2085,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 63,
+      "caracteres_no_blancos": 1946,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 11,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 64,
+      "caracteres_no_blancos": 2332,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 65,
+      "caracteres_no_blancos": 2106,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 66,
+      "caracteres_no_blancos": 2391,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 67,
+      "caracteres_no_blancos": 2206,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 68,
+      "caracteres_no_blancos": 2257,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 69,
+      "caracteres_no_blancos": 2314,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 70,
+      "caracteres_no_blancos": 2098,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 71,
+      "caracteres_no_blancos": 1998,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 72,
+      "caracteres_no_blancos": 2202,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 73,
+      "caracteres_no_blancos": 1743,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 74,
+      "caracteres_no_blancos": 1800,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 10,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 75,
+      "caracteres_no_blancos": 1687,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 76,
+      "caracteres_no_blancos": 2058,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 77,
+      "caracteres_no_blancos": 1817,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 78,
+      "caracteres_no_blancos": 1915,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 79,
+      "caracteres_no_blancos": 1869,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 80,
+      "caracteres_no_blancos": 2222,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 81,
+      "caracteres_no_blancos": 2143,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 82,
+      "caracteres_no_blancos": 2354,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 83,
+      "caracteres_no_blancos": 1928,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 84,
+      "caracteres_no_blancos": 2227,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 85,
+      "caracteres_no_blancos": 1848,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 86,
+      "caracteres_no_blancos": 2007,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 87,
+      "caracteres_no_blancos": 1334,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 14,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 88,
+      "caracteres_no_blancos": 1944,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 89,
+      "caracteres_no_blancos": 1803,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 90,
+      "caracteres_no_blancos": 2014,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 91,
+      "caracteres_no_blancos": 2035,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 92,
+      "caracteres_no_blancos": 1545,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 93,
+      "caracteres_no_blancos": 1916,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 94,
+      "caracteres_no_blancos": 2631,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 95,
+      "caracteres_no_blancos": 2328,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 96,
+      "caracteres_no_blancos": 2440,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 97,
+      "caracteres_no_blancos": 1999,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 98,
+      "caracteres_no_blancos": 1930,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 99,
+      "caracteres_no_blancos": 2110,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 100,
+      "caracteres_no_blancos": 2456,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 101,
+      "caracteres_no_blancos": 2431,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 102,
+      "caracteres_no_blancos": 2266,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 103,
+      "caracteres_no_blancos": 2054,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 104,
+      "caracteres_no_blancos": 2048,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 105,
+      "caracteres_no_blancos": 2043,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 106,
+      "caracteres_no_blancos": 1734,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 107,
+      "caracteres_no_blancos": 2402,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 108,
+      "caracteres_no_blancos": 2184,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 109,
+      "caracteres_no_blancos": 2206,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 110,
+      "caracteres_no_blancos": 2073,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 111,
+      "caracteres_no_blancos": 2318,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 112,
+      "caracteres_no_blancos": 2145,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 113,
+      "caracteres_no_blancos": 2186,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 114,
+      "caracteres_no_blancos": 2135,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 115,
+      "caracteres_no_blancos": 2044,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 116,
+      "caracteres_no_blancos": 1937,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 117,
+      "caracteres_no_blancos": 2248,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 118,
+      "caracteres_no_blancos": 2150,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 119,
+      "caracteres_no_blancos": 1541,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 120,
+      "caracteres_no_blancos": 1557,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 121,
+      "caracteres_no_blancos": 1626,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 122,
+      "caracteres_no_blancos": 1697,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 123,
+      "caracteres_no_blancos": 1664,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 124,
+      "caracteres_no_blancos": 1662,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 125,
+      "caracteres_no_blancos": 1533,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 10,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 126,
+      "caracteres_no_blancos": 1790,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 127,
+      "caracteres_no_blancos": 1575,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 9,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 128,
+      "caracteres_no_blancos": 2089,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 129,
+      "caracteres_no_blancos": 2395,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 130,
+      "caracteres_no_blancos": 2032,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 131,
+      "caracteres_no_blancos": 2022,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 132,
+      "caracteres_no_blancos": 2070,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 133,
+      "caracteres_no_blancos": 2078,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 134,
+      "caracteres_no_blancos": 1970,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 135,
+      "caracteres_no_blancos": 2049,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 136,
+      "caracteres_no_blancos": 2139,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 137,
+      "caracteres_no_blancos": 1854,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 138,
+      "caracteres_no_blancos": 1808,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 139,
+      "caracteres_no_blancos": 1878,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 140,
+      "caracteres_no_blancos": 1934,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 141,
+      "caracteres_no_blancos": 1890,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 142,
+      "caracteres_no_blancos": 2050,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 143,
+      "caracteres_no_blancos": 1938,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 144,
+      "caracteres_no_blancos": 2027,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 145,
+      "caracteres_no_blancos": 2054,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 146,
+      "caracteres_no_blancos": 2202,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 147,
+      "caracteres_no_blancos": 2074,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 148,
+      "caracteres_no_blancos": 1821,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 149,
+      "caracteres_no_blancos": 2161,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 150,
+      "caracteres_no_blancos": 1946,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 151,
+      "caracteres_no_blancos": 2075,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 152,
+      "caracteres_no_blancos": 2175,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 153,
+      "caracteres_no_blancos": 2442,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 154,
+      "caracteres_no_blancos": 2236,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 155,
+      "caracteres_no_blancos": 2008,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 156,
+      "caracteres_no_blancos": 2018,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 157,
+      "caracteres_no_blancos": 1845,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 158,
+      "caracteres_no_blancos": 2037,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 159,
+      "caracteres_no_blancos": 1877,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 160,
+      "caracteres_no_blancos": 1936,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 161,
+      "caracteres_no_blancos": 1900,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 162,
+      "caracteres_no_blancos": 2160,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 163,
+      "caracteres_no_blancos": 1649,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 164,
+      "caracteres_no_blancos": 2034,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 165,
+      "caracteres_no_blancos": 1872,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 166,
+      "caracteres_no_blancos": 1916,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 167,
+      "caracteres_no_blancos": 1816,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 168,
+      "caracteres_no_blancos": 2073,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 169,
+      "caracteres_no_blancos": 1634,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 170,
+      "caracteres_no_blancos": 2151,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 171,
+      "caracteres_no_blancos": 2334,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 172,
+      "caracteres_no_blancos": 2213,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 173,
+      "caracteres_no_blancos": 2204,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 174,
+      "caracteres_no_blancos": 2366,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 175,
+      "caracteres_no_blancos": 2258,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 176,
+      "caracteres_no_blancos": 2068,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 177,
+      "caracteres_no_blancos": 2048,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 178,
+      "caracteres_no_blancos": 1991,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 179,
+      "caracteres_no_blancos": 1770,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 180,
+      "caracteres_no_blancos": 4583,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 181,
+      "caracteres_no_blancos": 2913,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    }
+  ],
+  "alcance": "Conservación automática de todas las páginas y cotejo visual de muestra. Comparación Word/PDF con incidencias sin reparar. No cotejo visual exhaustivo ni certificación de vigencia jurídica.",
+  "incidencias_resueltas": [
+    {
+      "fecha": "2026-09-14T12:39:37.836563+00:00",
+      "correccion": "No promover remisiones que continúan párrafo; unir los renglones en el mismo cuerpo. Reconocer etiquetas completas con letras y sufijos latinos.",
+      "casos": [
+        {
+          "linea": 10,
+          "texto": "Artículo 131 de la Constitución Política del Estado, suscríbase la Minuta Proyecto",
+          "anterior": "ARTICULO PRIMERO.- Para cumplir las condiciones y efectos a que se refiere el",
+          "siguiente": "de Decreto por los Ciudadanos Diputados integrantes de esta Honorable",
+          "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+          "pagina": 128
+        },
+        {
+          "linea": 49,
+          "texto": "Artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, a",
+          "anterior": "Ayuntamientos Constitucionales del Estado, para los efectos a que alude el",
+          "siguiente": "cuyo término deberán computarse los resultados y tramitarse el Decreto",
+          "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+          "pagina": 133
+        },
+        {
+          "linea": 24,
+          "texto": "Artículo 105 de la Constitución Política del Estado Libre y Soberano de Nayarit.",
+          "anterior": "Decreto que tiene por objeto reformar el Artículo 104 y el Segundo Párrafo del",
+          "siguiente": "",
+          "motivo": "renglón anterior sin punto final",
+          "pagina": 163
+        }
+      ],
+      "conversion_anterior": "conversiones_anteriores/v1",
+      "originales_y_version_sin_cambios": true,
+      "controles_conservacion_repetidos": 181
+    }
+  ],
+  "diferencias_de_fuente": [
+    "La secuencia de encabezados numéricos difiere Word/PDF; consultar contadores y evidencia. No se corrige.",
+    "La comparación léxica Word/PDF no coincide: encabezados repetidos, campos Word y otras diferencias pendientes de cotejo. No equivale a pérdida del Markdown.",
+    "Word original .doc conservado por autorización expresa del usuario; no se fabrica original.docx.",
+    "Página 78: se imprime «19 E MAYO DE 2022»; no se repara. La fecha normalizada de esa nota queda null.",
+    "Los marcadores heredados de artículos del PDF siguen incluyendo tres remisiones; ya NO se promueven a encabezado ni se fragmentan los párrafos en texto.md v2."
+  ],
+  "formato_word_original": "doc",
+  "ocr_ejecutado": false,
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-14T12:14:23.073418+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "po_publicacion.fecha",
+        "motivo": "Publicación en varias fechas; el campo escalar queda null. Se conserva el pasaje completo.",
+        "evidencia": "Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.",
+        "pagina": 1
+      },
+      {
+        "campo": "decreto_numero",
+        "motivo": "Dato no impreso de forma identificable; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.numero",
+        "motivo": "Dato no impreso de forma identificable; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.edicion",
+        "motivo": "Dato no impreso de forma identificable; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.seccion",
+        "motivo": "Dato no impreso de forma identificable; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "ultima_reforma.numero",
+        "motivo": "Dato no impreso de forma identificable; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "ultima_reforma.edicion",
+        "motivo": "Dato no impreso de forma identificable; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "reformas[].fecha",
+        "motivo": "Dato ausente o no normalizable sin corregir la nota impresa; queda null y se conserva evidencia literal.",
+        "indices": [
+          255
+        ]
+      },
+      {
+        "campo": "reformas[].po_numero",
+        "motivo": "Dato ausente o no normalizable sin corregir la nota impresa; queda null y se conserva evidencia literal.",
+        "indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          174,
+          175,
+          176,
+          177,
+          178,
+          179,
+          180,
+          181,
+          182,
+          183,
+          184,
+          185,
+          186,
+          187,
+          188,
+          189,
+          190,
+          191,
+          192,
+          193,
+          194,
+          195,
+          196,
+          197,
+          198,
+          199,
+          200,
+          201,
+          202,
+          203,
+          204,
+          205,
+          206,
+          207,
+          208,
+          209,
+          210,
+          211,
+          212,
+          213,
+          214,
+          215,
+          216,
+          217,
+          218,
+          219,
+          220,
+          221,
+          222,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          229,
+          230,
+          231,
+          232,
+          233,
+          234,
+          235,
+          236,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          243,
+          244,
+          245,
+          246,
+          247,
+          248,
+          249,
+          250,
+          251,
+          252,
+          253,
+          254,
+          255,
+          256,
+          257,
+          258,
+          259,
+          260,
+          261,
+          262,
+          263,
+          264,
+          265,
+          266,
+          267,
+          268,
+          269,
+          270,
+          271,
+          272,
+          273,
+          274,
+          275,
+          276,
+          277,
+          278,
+          279,
+          280,
+          281,
+          282,
+          283,
+          284,
+          285,
+          286,
+          287,
+          288,
+          289,
+          290,
+          291,
+          292,
+          293,
+          294,
+          295,
+          296,
+          297,
+          298,
+          299,
+          300,
+          301,
+          302,
+          303,
+          304,
+          305,
+          306,
+          307,
+          308,
+          309,
+          310,
+          311,
+          312,
+          313,
+          314,
+          315,
+          316,
+          317,
+          318,
+          319,
+          320,
+          321,
+          322,
+          323,
+          324,
+          325,
+          326,
+          327,
+          328,
+          329,
+          330,
+          331,
+          332,
+          333,
+          334,
+          335,
+          336,
+          337,
+          338,
+          339,
+          340,
+          341,
+          342,
+          343,
+          344,
+          345,
+          346,
+          347,
+          348,
+          349,
+          350,
+          351,
+          352,
+          353,
+          354,
+          355,
+          356,
+          357,
+          358,
+          359,
+          360,
+          361,
+          362,
+          363,
+          364,
+          365,
+          366,
+          367,
+          368,
+          369,
+          370,
+          371,
+          372,
+          373,
+          374,
+          375,
+          376,
+          377,
+          378,
+          379,
+          380,
+          381,
+          382,
+          383,
+          384,
+          385,
+          386,
+          387,
+          388,
+          389,
+          390,
+          391,
+          392,
+          393,
+          394,
+          395,
+          396,
+          397,
+          398,
+          399,
+          400,
+          401,
+          402,
+          403,
+          404,
+          405,
+          406,
+          407,
+          408,
+          409,
+          410,
+          411,
+          412,
+          413,
+          414,
+          415,
+          416,
+          417,
+          418,
+          419,
+          420,
+          421,
+          422,
+          423,
+          424,
+          425,
+          426,
+          427,
+          428,
+          429,
+          430,
+          431,
+          432,
+          433,
+          434,
+          435,
+          436,
+          437,
+          438,
+          439,
+          440,
+          441,
+          442,
+          443,
+          444,
+          445,
+          446,
+          447,
+          448,
+          449,
+          450,
+          451,
+          452,
+          453,
+          454,
+          455,
+          456,
+          457,
+          458,
+          459,
+          460,
+          461,
+          462,
+          463,
+          464,
+          465,
+          466,
+          467,
+          468,
+          469,
+          470,
+          471,
+          472,
+          473,
+          474,
+          475,
+          476,
+          477,
+          478,
+          479,
+          480,
+          481,
+          482,
+          483,
+          484,
+          485,
+          486,
+          487,
+          488,
+          489,
+          490,
+          491,
+          492,
+          493,
+          494,
+          495,
+          496,
+          497,
+          498,
+          499,
+          500,
+          501,
+          502,
+          503,
+          504,
+          505,
+          506,
+          507,
+          508,
+          509,
+          510,
+          511,
+          512,
+          513,
+          514,
+          515,
+          516,
+          517,
+          518,
+          519,
+          520,
+          521,
+          522,
+          523,
+          524,
+          525,
+          526,
+          527,
+          528,
+          529,
+          530,
+          531,
+          532,
+          533
+        ]
+      },
+      {
+        "campo": "reformas[].decreto",
+        "motivo": "Dato ausente o no normalizable sin corregir la nota impresa; queda null y se conserva evidencia literal.",
+        "indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          174,
+          175,
+          176,
+          177,
+          178,
+          179,
+          180,
+          181,
+          182,
+          183,
+          184,
+          185,
+          186,
+          187,
+          188,
+          189,
+          190,
+          191,
+          192,
+          193,
+          194,
+          195,
+          196,
+          197,
+          198,
+          199,
+          200,
+          201,
+          202,
+          203,
+          204,
+          205,
+          206,
+          207,
+          208,
+          209,
+          210,
+          211,
+          212,
+          213,
+          214,
+          215,
+          216,
+          217,
+          218,
+          219,
+          220,
+          221,
+          222,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          229,
+          230,
+          231,
+          232,
+          233,
+          234,
+          235,
+          236,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          243,
+          244,
+          245,
+          246,
+          247,
+          248,
+          249,
+          250,
+          251,
+          252,
+          253,
+          254,
+          255,
+          256,
+          257,
+          258,
+          259,
+          260,
+          261,
+          262,
+          263,
+          264,
+          265,
+          266,
+          267,
+          268,
+          269,
+          270,
+          271,
+          272,
+          273,
+          274,
+          275,
+          276,
+          277,
+          278,
+          279,
+          280,
+          281,
+          282,
+          283,
+          284,
+          285,
+          286,
+          287,
+          288,
+          289,
+          290,
+          291,
+          292,
+          293,
+          294,
+          295,
+          296,
+          297,
+          298,
+          299,
+          300,
+          301,
+          302,
+          303,
+          304,
+          305,
+          306,
+          307,
+          308,
+          309,
+          310,
+          311,
+          312,
+          313,
+          314,
+          315,
+          316,
+          317,
+          318,
+          319,
+          320,
+          321,
+          322,
+          323,
+          324,
+          325,
+          326,
+          327,
+          328,
+          329,
+          330,
+          331,
+          332,
+          333,
+          334,
+          335,
+          336,
+          337,
+          338,
+          339,
+          340,
+          341,
+          342,
+          343,
+          344,
+          345,
+          346,
+          347,
+          348,
+          349,
+          350,
+          351,
+          352,
+          353,
+          354,
+          355,
+          356,
+          357,
+          358,
+          359,
+          360,
+          361,
+          362,
+          363,
+          364,
+          365,
+          366,
+          367,
+          368,
+          369,
+          370,
+          371,
+          372,
+          373,
+          374,
+          375,
+          376,
+          377,
+          378,
+          379,
+          380,
+          381,
+          382,
+          383,
+          384,
+          385,
+          386,
+          387,
+          388,
+          389,
+          390,
+          391,
+          392,
+          393,
+          394,
+          395,
+          396,
+          397,
+          398,
+          399,
+          400,
+          401,
+          402,
+          403,
+          404,
+          405,
+          406,
+          407,
+          408,
+          409,
+          410,
+          411,
+          412,
+          413,
+          414,
+          415,
+          418,
+          419,
+          420,
+          421,
+          422,
+          423,
+          424,
+          425,
+          428,
+          429,
+          430,
+          431,
+          432,
+          433,
+          434,
+          435,
+          436,
+          437,
+          438,
+          439,
+          440,
+          441,
+          442,
+          445,
+          446,
+          447,
+          448,
+          449,
+          451,
+          452,
+          456,
+          457,
+          458,
+          459,
+          460,
+          461,
+          462,
+          463,
+          464,
+          465,
+          466,
+          467,
+          468,
+          469,
+          470,
+          471,
+          472,
+          473,
+          474,
+          475,
+          476,
+          477,
+          478,
+          479,
+          480,
+          481,
+          482,
+          483,
+          484,
+          485,
+          486,
+          487,
+          488,
+          489,
+          490,
+          491,
+          492,
+          493,
+          494,
+          495,
+          496,
+          497,
+          498,
+          499,
+          500,
+          501,
+          502,
+          503,
+          504,
+          505,
+          506,
+          507,
+          508,
+          509,
+          510,
+          511,
+          512,
+          513,
+          514,
+          515,
+          516,
+          517,
+          518,
+          519,
+          520,
+          521,
+          522,
+          523,
+          524,
+          525,
+          526,
+          527,
+          528,
+          529,
+          530,
+          531,
+          532,
+          533
+        ]
+      },
+      {
+        "campo": "abroga",
+        "motivo": "No se identificó abrogación expresa de un ordenamiento en el PDF completo; arreglo vacío."
+      }
+    ],
+    "evidencia": {
+      "abroga": [],
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918."
+      },
+      "ultima_reforma": {
+        "pagina": 1,
+        "texto": "ÚLTIMA ENMIENDA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2026"
+      },
+      "reformas": {
+        "pagina_inicio": 1,
+        "encabezado": null,
+        "filas": [
+          {
+            "fila": 0,
+            "texto": "(REFORMADO, P.O. 25 DE AGOSTO DE 1943)",
+            "pagina": 1
+          },
+          {
+            "fila": 1,
+            "texto": "(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)",
+            "pagina": 1
+          },
+          {
+            "fila": 2,
+            "texto": "(REFORMADO, P.O. 13 DE DICIEMBRE DE 1989)",
+            "pagina": 2
+          },
+          {
+            "fila": 3,
+            "texto": "(REFORMADO, P.O. 13 DE OCTUBRE DE 2012)",
+            "pagina": 2
+          },
+          {
+            "fila": 4,
+            "texto": "(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)",
+            "pagina": 2
+          },
+          {
+            "fila": 5,
+            "texto": "(DEROGADO TERCER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2012)",
+            "pagina": 2
+          },
+          {
+            "fila": 6,
+            "texto": "(REFORMADO [PRIMER PÁRRAFO], P.O. 23 DE JUNIO DE 2012)",
+            "pagina": 2
+          },
+          {
+            "fila": 7,
+            "texto": "(REFORMADO, P.O. 5 DE MAYO DE 2025)",
+            "pagina": 3
+          },
+          {
+            "fila": 8,
+            "texto": "(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)",
+            "pagina": 3
+          },
+          {
+            "fila": 9,
+            "texto": "(DEROGADA, P.O. 5 DE MAYO DE 2025)",
+            "pagina": 3
+          },
+          {
+            "fila": 10,
+            "texto": "(REFORMADA [ANTES FRACCIÓN III], P.O. 16 DE DICIEMBRE DE 2010)",
+            "pagina": 3
+          },
+          {
+            "fila": 11,
+            "texto": "(REFORMADO, P.O. 23 DE JUNIO DE 2012)",
+            "pagina": 3
+          },
+          {
+            "fila": 12,
+            "texto": "(ADICIONADO, P.O. 23 DE JUNIO DE 2012)",
+            "pagina": 3
+          },
+          {
+            "fila": 13,
+            "texto": "(REFORMADA, P.O. 5 DE MAYO DE 2025)",
+            "pagina": 4
+          },
+          {
+            "fila": 14,
+            "texto": "(ADICIONADA, P.O. 5 DE MAYO DE 2025)",
+            "pagina": 4
+          },
+          {
+            "fila": 15,
+            "texto": "(REFORMADO, P.O. 1 DE MARZO DE 2021)",
+            "pagina": 4
+          },
+          {
+            "fila": 16,
+            "texto": "(ADICIONADO, P.O. 1 DE MARZO DE 2021)",
+            "pagina": 4
+          },
+          {
+            "fila": 17,
+            "texto": "(ADICIONADO, P.O. 1 DE MARZO DE 2021)",
+            "pagina": 5
+          },
+          {
+            "fila": 18,
+            "texto": "(REFORMADA [ANTES FRACCIÓN VI], P.O. 16 DE DICIEMBRE DE 2010)",
+            "pagina": 5
+          },
+          {
+            "fila": 19,
+            "texto": "(REFORMADA [ANTES FRACCIÓN VII], P.O. 16 DE DICIEMBRE DE 2010)",
+            "pagina": 5
+          },
+          {
+            "fila": 20,
+            "texto": "(REFORMADA [ANTES FRACCIÓN VIII], P.O. 16 DE DICIEMBRE DE 2010)",
+            "pagina": 5
+          },
+          {
+            "fila": 21,
+            "texto": "(REFORMADA P.O. 5 DE MAYO DE 2025)",
+            "pagina": 5
+          },
+          {
+            "fila": 22,
+            "texto": "(ADICIONADO P.O. 5 DE MAYO DE 2025)",
+            "pagina": 6
+          },
+          {
+            "fila": 23,
+            "texto": "(REFORMADO, P.O. 23 DE FEBRERO DE 2015)",
+            "pagina": 6
+          },
+          {
+            "fila": 24,
+            "texto": "(DEROGADO, P.O. 24 DE JULIO DE 2025)",
+            "pagina": 6
+          },
+          {
+            "fila": 25,
+            "texto": "(REFORMADO, P.O. 24 DE JULIO DE 2025)",
+            "pagina": 6
+          },
+          {
+            "fila": 26,
+            "texto": "(REFORMADO, P.O. 24 DE JULIO DE 2025)",
+            "pagina": 7
+          },
+          {
+            "fila": 27,
+            "texto": "(ADICIONADO, P.O. 24 DE JULIO DE 2025)",
+            "pagina": 7
+          },
+          {
+            "fila": 28,
+            "texto": "(ADICIONADO, P.O. 24 DE JULIO DE 2025)",
+            "pagina": 8
+          },
+          {
+            "fila": 29,
+            "texto": "(ADICIONADA [N. E. REUBICADA ANTES FRACCIÓN XI] P.O. 16 DE DICIEMBRE DE 2010)",
+            "pagina": 8
+          },
+          {
+            "fila": 30,
+            "texto": "(ADICIONADO P.O. 5 DE MAYO DE 2025)",
+            "pagina": 8
+          },
+          {
+            "fila": 31,
+            "texto": "(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)",
+            "pagina": 8
+          },
+          {
+            "fila": 32,
+            "texto": "(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)",
+            "pagina": 9
+          },
+          {
+            "fila": 33,
+            "texto": "(REFORMADO, P.O. 13 OCTUBRE DE 2012)",
+            "pagina": 9
+          },
+          {
+            "fila": 34,
+            "texto": "(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)",
+            "pagina": 10
+          },
+          {
+            "fila": 35,
+            "texto": "(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)",
+            "pagina": 10
+          },
+          {
+            "fila": 36,
+            "texto": "(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)",
+            "pagina": 10
+          },
+          {
+            "fila": 37,
+            "texto": "(ADICIONADO, [ANTES NUMERAL 8], P.O. 16 DE DICIEMBRE DE 2010)",
+            "pagina": 11
+          },
+          {
+            "fila": 38,
+            "texto": "(ADICIONADO, P.O. 4 DE OCTUBRE DE 2013)",
+            "pagina": 11
+          },
+          {
+            "fila": 39,
+            "texto": "(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)",
+            "pagina": 11
+          },
+          {
+            "fila": 40,
+            "texto": "(ADICIONADO, P.O. 9 DE AGOSTO DE 2022)",
+            "pagina": 11
+          },
+          {
+            "fila": 41,
+            "texto": "(REFORMADA, P.O. 23 DE JUNIO DE 2012)",
+            "pagina": 11
+          },
+          {
+            "fila": 42,
+            "texto": "(ADICIONADA, P.O. 13 DE OCTUBRE DE 2012)",
+            "pagina": 12
+          },
+          {
+            "fila": 43,
+            "texto": "(REFORMADO, P.O. 27 DE ENERO DE 2025)",
+            "pagina": 12
+          },
+          {
+            "fila": 44,
+            "texto": "(ADICIONADO, P.O. 25 DE ENERO DE 2025)",
+            "pagina": 12
+          },
+          {
+            "fila": 45,
+            "texto": "(ADICIONADO, P.O. 27 DE ENERO DE 2025)",
+            "pagina": 13
+          },
+          {
+            "fila": 46,
+            "texto": "(ADICIONADA, P.O. 13 DE OCTUBRE DE 2012)",
+            "pagina": 13
+          },
+          {
+            "fila": 47,
+            "texto": "(REFORMADO, P.O. 23 DE FEBRERO DE 2015)",
+            "pagina": 13
+          },
+          {
+            "fila": 48,
+            "texto": "(ADICIONADA, P.O. 13 DE OCTUBRE DE 2012)",
+            "pagina": 14
+          },
+          {
+            "fila": 49,
+            "texto": "(REFORMADA, P.O. 27 DE ENERO DE 2025)",
+            "pagina": 15
+          },
+          {
+            "fila": 50,
+            "texto": "(ADICIONADO, P.O. 31 DE ENERO DE 2023)",
+            "pagina": 15
+          },
+          {
+            "fila": 51,
+            "texto": "(ADICIONADA, P.O. 25 DE FEBRERO DE 2019)",
+            "pagina": 15
+          },
+          {
+            "fila": 52,
+            "texto": "(ADICIONADO, P.O. 5 DE MAYO DE 2025)",
+            "pagina": 16
+          },
+          {
+            "fila": 53,
+            "texto": "(REFORMADO, P.O. 24 DE JULIO DE 2025)",
+            "pagina": 16
+          },
+          {
+            "fila": 54,
+            "texto": "(REFORMADA, P.O. 15 DE OCTUBRE DE 2011)",
+            "pagina": 23
+          },
+          {
+            "fila": 55,
+            "texto": "(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)",
+            "pagina": 23
+          },
+          {
+            "fila": 56,
+            "texto": "(ADICIONADA, P.O. 25 DE AGOSTO DE 1943)",
+            "pagina": 23
+          },
+          {
+            "fila": 57,
+            "texto": "(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)",
+            "pagina": 23
+          },
+          {
+            "fila": 58,
+            "texto": "(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)",
+            "pagina": 24
+          },
+          {
+            "fila": 59,
+            "texto": "(DEROGADA, P.O. 3 DE SEPTIEMBRE DE 1941)",
+            "pagina": 24
+          },
+          {
+            "fila": 60,
+            "texto": "(REFORMADO, P.O. 25 DE AGOSTO DE 1943)",
+            "pagina": 24
+          },
+          {
+            "fila": 61,
+            "texto": "(REFORMADO, P.O. 25 DE MARZO DE 1970)",
+            "pagina": 24
+          },
+          {
+            "fila": 62,
+            "texto": "(REFORMADO, P.O. 20 DE AGOSTO DE 1947)",
+            "pagina": 24
+          },
+          {
+            "fila": 63,
+            "texto": "(REFORMADA, P.O. 6 DE OCTUBRE DE 2020)",
+            "pagina": 25
+          },
+          {
+            "fila": 64,
+            "texto": "(ADICIONADO, P.O. 27 DE FEBRERO DE 2019)",
+            "pagina": 25
+          },
+          {
+            "fila": 65,
+            "texto": "(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 1998)",
+            "pagina": 26
+          },
+          {
+            "fila": 66,
+            "texto": "(REFORMADA, P.O. 19 DE MAYO DE 2022)",
+            "pagina": 26
+          },
+          {
+            "fila": 67,
+            "texto": "(ADICIONADA, P.O. 31 DE ENERO DE 2023)",
+            "pagina": 26
+          },
+          {
+            "fila": 68,
+            "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2023)",
+            "pagina": 26
+          },
+          {
+            "fila": 69,
+            "texto": "(REFORMADA, P.O. 31 DE ENERO DE 2023)",
+            "pagina": 28
+          },
+          {
+            "fila": 70,
+            "texto": "(DEROGADO ULTIMO PARRAFO, P.O. 25 DE AGOSTO DE 1943)",
+            "pagina": 28
+          },
+          {
+            "fila": 71,
+            "texto": "(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)",
+            "pagina": 28
+          },
+          {
+            "fila": 72,
+            "texto": "(REFORMADO, P.O. 25 DE AGOSTO DE 1943)",
+            "pagina": 29
+          },
+          {
+            "fila": 73,
+            "texto": "(REFORMADO [PRIMER PÁRRAFO], P.O. 20 DE NOVIEMBRE DE 2025)",
+            "pagina": 30
+          },
+          {
+            "fila": 74,
+            "texto": "(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2025)",
+            "pagina": 30
+          },
+          {
+            "fila": 75,
+            "texto": "(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2007)",
+            "pagina": 30
+          },
+          {
+            "fila": 76,
+            "texto": "(REFORMADA, P.O. 10 DE JUNIO DE 2016)",
+            "pagina": 30
+          },
+          {
+            "fila": 77,
+            "texto": "(ADICIONADA, P.O. 06 DE OCTUBRE DE 2010)",
+            "pagina": 30
+          },
+          {
+            "fila": 78,
+            "texto": "(REFORMADO, P.O. 10 DE JUNIO DE 2016)",
+            "pagina": 31
+          },
+          {
+            "fila": 79,
+            "texto": "(ADICIONADO, P.O. 6 DE OCTUBRE DE 2020)",
+            "pagina": 31
+          },
+          {
+            "fila": 80,
+            "texto": "(REFORMADO, P.O. 27 DE FEBRERO DE 1943)",
+            "pagina": 31
+          },
+          {
+            "fila": 81,
+            "texto": "(REFORMADA, P.O. 1 DE JUNIO DE 1983)",
+            "pagina": 31
+          },
+          {
+            "fila": 82,
+            "texto": "(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)",
+            "pagina": 31
+          },
+          {
+            "fila": 83,
+            "texto": "(REFORMADA, P.O. 10 DE JUNIO DE 2016)",
+            "pagina": 31
+          },
+          {
+            "fila": 84,
+            "texto": "(REFORMADA, P.O. 19 DE MAYO DE 2022)",
+            "pagina": 31
+          },
+          {
+            "fila": 85,
+            "texto": "(ADICIONADA, P.O. 19 DE MAYO DE 2022)",
+            "pagina": 31
+          },
+          {
+            "fila": 86,
+            "texto": "(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2025)",
+            "pagina": 32
+          },
+          {
+            "fila": 87,
+            "texto": "(REFORMADO [PÁRRAFO PRIMERO], P.O. 27 DE ENERO DE 2025)",
+            "pagina": 32
+          },
+          {
+            "fila": 88,
+            "texto": "(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2025)",
+            "pagina": 32
+          },
+          {
+            "fila": 89,
+            "texto": "(REFORMADO, P.O. 15 DE OCTUBRE DE 2011)",
+            "pagina": 32
+          },
+          {
+            "fila": 90,
+            "texto": "(REFORMADO, P.O. 22 DE ABRIL DE 1978)",
+            "pagina": 32
+          },
+          {
+            "fila": 91,
+            "texto": "(REFORMADO, P.O. 15 DE FEBRERO DE 1989)",
+            "pagina": 33
+          },
+          {
+            "fila": 92,
+            "texto": "(REFORMADO, P.O. 18 DE JUNIO DE 2021)",
+            "pagina": 33
+          },
+          {
+            "fila": 93,
+            "texto": "(REFORMADO, P.O. 18 DE JUNIO DE 1980)",
+            "pagina": 33
+          },
+          {
+            "fila": 94,
+            "texto": "(REFORMADO, P.O. 27 DE JULIO DE 2002)",
+            "pagina": 33
+          },
+          {
+            "fila": 95,
+            "texto": "(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1995)",
+            "pagina": 34
+          },
+          {
+            "fila": 96,
+            "texto": "(REFORMADO, P.O. 17 DE MAYO DE 2004)",
+            "pagina": 34
+          },
+          {
+            "fila": 97,
+            "texto": "(REFORMADO, P.O. 21 DE AGOSTO DE 2020)",
+            "pagina": 34
+          },
+          {
+            "fila": 98,
+            "texto": "(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)",
+            "pagina": 34
+          },
+          {
+            "fila": 99,
+            "texto": "(REFORMADO, P.O. 26 DE ABRIL DE 1995)",
+            "pagina": 36
+          },
+          {
+            "fila": 100,
+            "texto": "(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)",
+            "pagina": 36
+          },
+          {
+            "fila": 101,
+            "texto": "(REFORMADA, P.O. 27 DE JULIO DE 2002)",
+            "pagina": 36
+          },
+          {
+            "fila": 102,
+            "texto": "(REFORMADO PÁRRAFO PRIMERO, P.O. 9 DE SEPTIEMBRE DE 2022)",
+            "pagina": 37
+          },
+          {
+            "fila": 103,
+            "texto": "(REFORMADO, SEGUNDO PÁRRAFO, P.O. 21 DE ENERO DE 2013)",
+            "pagina": 37
+          },
+          {
+            "fila": 104,
+            "texto": "(REFORMADO, P.O. 25 DE AGOSTO DE 1943)",
+            "pagina": 37
+          },
+          {
+            "fila": 105,
+            "texto": "(REFORMADA, P.O. 15 DE OCTUBRE DE 2011)",
+            "pagina": 37
+          },
+          {
+            "fila": 106,
+            "texto": "(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)",
+            "pagina": 38
+          },
+          {
+            "fila": 107,
+            "texto": "(REFORMADA, P.O. 14 DE MAYO DE 1994)",
+            "pagina": 38
+          },
+          {
+            "fila": 108,
+            "texto": "(REFORMADA, P.O. 24 DE ENERO DE 2001)",
+            "pagina": 38
+          },
+          {
+            "fila": 109,
+            "texto": "(REFORMADA, P.O. 13 DE OCTUBRE DE 2012)",
+            "pagina": 39
+          },
+          {
+            "fila": 110,
+            "texto": "(REFORMADA, P.O. 17 DE MAYO DE 2004)",
+            "pagina": 39
+          },
+          {
+            "fila": 111,
+            "texto": "(REFORMADA, P.O. 17 DE MAYO DE 2004)",
+            "pagina": 40
+          },
+          {
+            "fila": 112,
+            "texto": "(REFORMADA, P.O. 24 DE ENERO DE 2001)",
+            "pagina": 40
+          },
+          {
+            "fila": 113,
+            "texto": "(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1995)",
+            "pagina": 40
+          },
+          {
+            "fila": 114,
+            "texto": "(REFORMADA, P.O. 27 DE ENERO DE 2025)",
+            "pagina": 40
+          },
+          {
+            "fila": 115,
+            "texto": "(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 1983)",
+            "pagina": 40
+          },
+          {
+            "fila": 116,
+            "texto": "(REFORMADA, P.O. 18 DE JUNIO DE 2021)",
+            "pagina": 41
+          },
+          {
+            "fila": 117,
+            "texto": "(REFORMADA, P.O. 20 DE JUNIO DE 2017)",
+            "pagina": 41
+          },
+          {
+            "fila": 118,
+            "texto": "(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1981)",
+            "pagina": 41
+          },
+          {
+            "fila": 119,
+            "texto": "(REFORMADA, P.O. 06 DE OCTUBRE DE 2010)",
+            "pagina": 41
+          },
+          {
+            "fila": 120,
+            "texto": "(REFORMADA [ANTES DEROGADA] P.O. 18 DE OCTUBRE DE 2016)",
+            "pagina": 41
+          },
+          {
+            "fila": 121,
+            "texto": "(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)",
+            "pagina": 41
+          },
+          {
+            "fila": 122,
+            "texto": "(ADICIONADA, P.O. 13 DE ABRIL DE 2023)",
+            "pagina": 41
+          },
+          {
+            "fila": 123,
+            "texto": "(ADICIONADA, P.O. 13 DE ABRIL DE 2023)",
+            "pagina": 42
+          },
+          {
+            "fila": 124,
+            "texto": "(ADICIONADA], P.O. 28 DE DICIEMBRE DE 1983)",
+            "pagina": 42
+          },
+          {
+            "fila": 125,
+            "texto": "(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)",
+            "pagina": 42
+          },
+          {
+            "fila": 126,
+            "texto": "(REFORMADA, P.O. 18 DE OCTUBREDE 2016)",
+            "pagina": 42
+          },
+          {
+            "fila": 127,
+            "texto": "(REFORMADA, P.O. 9 DE FEBRERO DE 1930)",
+            "pagina": 43
+          },
+          {
+            "fila": 128,
+            "texto": "(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)",
+            "pagina": 43
+          },
+          {
+            "fila": 129,
+            "texto": "(REFORMADA, P.O. 15 DE FEBRERO DE 1989)",
+            "pagina": 43
+          },
+          {
+            "fila": 130,
+            "texto": "(REFORMADA, P.O. 27 DE ENERO DE 2025)",
+            "pagina": 43
+          },
+          {
+            "fila": 131,
+            "texto": "(REFORMADA, P.O. 27 DE ENERO DE 2025)",
+            "pagina": 44
+          },
+          {
+            "fila": 132,
+            "texto": "(REFORMADA, P.O. 19 DE MAYO DE 2022)",
+            "pagina": 44
+          },
+          {
+            "fila": 133,
+            "texto": "(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)",
+            "pagina": 44
+          },
+          {
+            "fila": 134,
+            "texto": "(REFORMADO, P.O. 9 DE FEBRERO DE 1930)",
+            "pagina": 44
+          },
+          {
+            "fila": 135,
+            "texto": "(REFORMADA, P.O. 26 DE DICIEMBRE DE 1981)",
+            "pagina": 44
+          },
+          {
+            "fila": 136,
+            "texto": "(REFORMADA, P.O. 24 DE ENERO DE 2001)",
+            "pagina": 44
+          },
+          {
+            "fila": 137,
+            "texto": "(REFORMADO, P.O. 9 DE JUNIO DE 2023)",
+            "pagina": 44
+          },
+          {
+            "fila": 138,
+            "texto": "(REFORMADO, P.O. 9 DE JUNIO DE 2023)",
+            "pagina": 45
+          },
+          {
+            "fila": 139,
+            "texto": "(REFORMADO, P.O. 15 DE FEBRERO DE 1989)",
+            "pagina": 45
+          },
+          {
+            "fila": 140,
+            "texto": "(REFORMADO, P.O. 25 DE AGOSTO DE 1943)",
+            "pagina": 45
+          },
+          {
+            "fila": 141,
+            "texto": "(REFORMADO, P.O. 24 DE AGOSTO DE 1938)",
+            "pagina": 45
+          },
+          {
+            "fila": 142,
+            "texto": "(REFORMADO, P.O. 9 DE JUNIO DE 2023)",
+            "pagina": 46
+          },
+          {
+            "fila": 143,
+            "texto": "(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)",
+            "pagina": 46
+          },
+          {
+            "fila": 144,
+            "texto": "(ADICIONADO, P.O. 9 DE JUNIO DE 2023)",
+            "pagina": 46
+          },
+          {
+            "fila": 145,
+            "texto": "(REFORMADO, P.O. 17 DE MAYO DE 2004)",
+            "pagina": 46
+          },
+          {
+            "fila": 146,
+            "texto": "(DEROGADO, P.O. 3 DE SEPTIEMBRE DE 1941)",
+            "pagina": 47
+          },
+          {
+            "fila": 147,
+            "texto": "(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)",
+            "pagina": 47
+          },
+          {
+            "fila": 148,
+            "texto": "(REFORMADO, P.O. 25 DE AGOSTO DE 1943)",
+            "pagina": 47
+          },
+          {
+            "fila": 149,
+            "texto": "(REFORMADA, P.O. 18 DE JUNIO DE 2021)",
+            "pagina": 47
+          },
+          {
+            "fila": 150,
+            "texto": "(REFORMADA, P.O. 27 DE ENERO DE 2025)",
+            "pagina": 47
+          },
+          {
+            "fila": 151,
+            "texto": "(REFORMADO, P.O. 27 DE ENERO DE 2025)",
+            "pagina": 47
+          },
+          {
+            "fila": 152,
+            "texto": "(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)",
+            "pagina": 48
+          },
+          {
+            "fila": 153,
+            "texto": "(REFORMADA, [N. E. ANTES DEROGADA], P.O. 16 DE DICIEMBRE DE 2010)",
+            "pagina": 48
+          },
+          {
+            "fila": 154,
+            "texto": "(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)",
+            "pagina": 48
+          },
+          {
+            "fila": 155,
+            "texto": "(REFORMADA, P.O. 25 DE JUNIO DE 1980)",
+            "pagina": 48
+          },
+          {
+            "fila": 156,
+            "texto": "(REFORMADA, P.O. 27 DE ENERO DE 2025)",
+            "pagina": 48
+          },
+          {
+            "fila": 157,
+            "texto": "(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2007)",
+            "pagina": 49
+          },
+          {
+            "fila": 158,
+            "texto": "(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)",
+            "pagina": 49
+          },
+          {
+            "fila": 159,
+            "texto": "(ADICIONADA, P.O. 19 DE MAYO DE 2022)",
+            "pagina": 49
+          },
+          {
+            "fila": 160,
+            "texto": "(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2025)",
+            "pagina": 49
+          },
+          {
+            "fila": 161,
+            "texto": "(REFORMADO, P.O. 18 DE JUNIO DE 1980)",
+            "pagina": 49
+          },
+          {
+            "fila": 162,
+            "texto": "(ADICIONADO, P.O. 31 DE ENERO DE 2023)",
+            "pagina": 49
+          },
+          {
+            "fila": 163,
+            "texto": "(REFORMADO, P.O. 18 DE JUNIO DE 2021)",
+            "pagina": 49
+          },
+          {
+            "fila": 164,
+            "texto": "(ADICIONADO, P.O. 31 DE ENERO DE 2023)",
+            "pagina": 50
+          },
+          {
+            "fila": 165,
+            "texto": "(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)",
+            "pagina": 50
+          },
+          {
+            "fila": 166,
+            "texto": "(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2025)",
+            "pagina": 51
+          },
+          {
+            "fila": 167,
+            "texto": "(REFORMADO, P.O. 18 DE JUNIO DE 2021)",
+            "pagina": 51
+          },
+          {
+            "fila": 168,
+            "texto": "(REFORMADO, P.O. 27 DE FEBRERO DE 1943)",
+            "pagina": 51
+          },
+          {
+            "fila": 169,
+            "texto": "(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)",
+            "pagina": 51
+          },
+          {
+            "fila": 170,
+            "texto": "(REFORMADA, P.O. 14 DE MAYO DE 1994)",
+            "pagina": 52
+          },
+          {
+            "fila": 171,
+            "texto": "(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1995)",
+            "pagina": 52
+          },
+          {
+            "fila": 172,
+            "texto": "(ADICIONADO, P.O. 14 DE MAYO DE 1994)",
+            "pagina": 52
+          },
+          {
+            "fila": 173,
+            "texto": "(REFORMADA, P.O. 9 DE FEBRERO DE 1930)",
+            "pagina": 52
+          },
+          {
+            "fila": 174,
+            "texto": "(REFORMADA, P.O. 27 DE DICIEMBRE DE 1975)",
+            "pagina": 52
+          },
+          {
+            "fila": 175,
+            "texto": "(REFORMADA, P.O. 13 DE OCTUBRE DE 2012)",
+            "pagina": 52
+          },
+          {
+            "fila": 176,
+            "texto": "(DEROGADA, P.O. 5 DE SEPTIEMBRE DE 1998)",
+            "pagina": 53
+          },
+          {
+            "fila": 177,
+            "texto": "(REFORMADA, P.O. 6 DE OCTUBRE DE 2020)",
+            "pagina": 53
+          },
+          {
+            "fila": 178,
+            "texto": "(REFORMADO, P.O. 13 DE ABRIL DE 2023)",
+            "pagina": 53
+          },
+          {
+            "fila": 179,
+            "texto": "(ADICIONADO, P.O. 27 DE ENERO DE 2025)",
+            "pagina": 53
+          },
+          {
+            "fila": 180,
+            "texto": "(REFORMADA, P.O. 15 DE OCTUBRE DE 2011)",
+            "pagina": 53
+          },
+          {
+            "fila": 181,
+            "texto": "(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)",
+            "pagina": 53
+          },
+          {
+            "fila": 182,
+            "texto": "(REFORMADA, P.O. 28 DE DICIEMBRE DE 1983)",
+            "pagina": 53
+          },
+          {
+            "fila": 183,
+            "texto": "(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1995)",
+            "pagina": 53
+          },
+          {
+            "fila": 184,
+            "texto": "(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1981)",
+            "pagina": 53
+          },
+          {
+            "fila": 185,
+            "texto": "(REFORMADA, P.O. 15 DE FEBRERO DE 1989)",
+            "pagina": 53
+          },
+          {
+            "fila": 186,
+            "texto": "(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 1983)",
+            "pagina": 54
+          },
+          {
+            "fila": 187,
+            "texto": "(REFORMADA, P.O. 9 DE FEBRERO DE 1930)",
+            "pagina": 54
+          },
+          {
+            "fila": 188,
+            "texto": "(REFORMADA, P.O. 21 DE ENERO DE 2013)",
+            "pagina": 54
+          },
+          {
+            "fila": 189,
+            "texto": "(REFORMADA, P.O. 24 DE ENERO DE 2001)",
+            "pagina": 55
+          },
+          {
+            "fila": 190,
+            "texto": "(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)",
+            "pagina": 55
+          },
+          {
+            "fila": 191,
+            "texto": "(REFORMADA, P.O. 27 DE DICIEMBRE DE 1975)",
+            "pagina": 56
+          },
+          {
+            "fila": 192,
+            "texto": "(REFORMADA SU DENOMINACION, P.O. 1 DE JUNIO DE 1994)",
+            "pagina": 56
+          },
+          {
+            "fila": 193,
+            "texto": "(REFORMADO, P.O. 1 DE JUNIO DE 1994)",
+            "pagina": 56
+          },
+          {
+            "fila": 194,
+            "texto": "(REFORMADO, P.O. 19 DE MAYO DE 2022)",
+            "pagina": 57
+          },
+          {
+            "fila": 195,
+            "texto": "(REFORMADO, P.O. 1 DE JUNIO DE 1994)",
+            "pagina": 57
+          },
+          {
+            "fila": 196,
+            "texto": "(ADICIONADO, P.O. 1 DE JUNIO DE 1994)",
+            "pagina": 57
+          },
+          {
+            "fila": 197,
+            "texto": "(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)",
+            "pagina": 58
+          },
+          {
+            "fila": 198,
+            "texto": "(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)",
+            "pagina": 58
+          },
+          {
+            "fila": 199,
+            "texto": "(REFORMADO, P.O. 27 DE ENERO DE 2025)",
+            "pagina": 58
+          },
+          {
+            "fila": 200,
+            "texto": "(REFORMADO, P.O. 24 DE JULIO DE 2025)",
+            "pagina": 59
+          },
+          {
+            "fila": 201,
+            "texto": "(REFORMADO, P.O. 27 DE ENERO DE 2025)",
+            "pagina": 59
+          },
+          {
+            "fila": 202,
+            "texto": "(DEROGADO [PÁRRAFO DÉCIMO] P.O. 27 DE ENERO DE 2025)",
+            "pagina": 59
+          },
+          {
+            "fila": 203,
+            "texto": "(DEROGADO [PÁRRAFO DÉCIMO PRIMERO] P.O. 27 DE ENERO DE 2025)",
+            "pagina": 59
+          },
+          {
+            "fila": 204,
+            "texto": "(DEROGADO [PÁRRAFO DÉCIMO SEGUNDO] P.O. 27 DE ENERO DE 2025)",
+            "pagina": 59
+          },
+          {
+            "fila": 205,
+            "texto": "(DEROGADO [PÁRRAFO DÉCIMO TERCERO] P.O. 27 DE ENERO DE 2025)",
+            "pagina": 59
+          },
+          {
+            "fila": 206,
+            "texto": "(DEROGADO [PÁRRAFO DÉCIMO SÉPTIMO] P.O. 27 DE ENERO DE 2025)",
+            "pagina": 59
+          },
+          {
+            "fila": 207,
+            "texto": "(DEROGADO [PÁRRAFO DÉCIMO OCTAVO] P.O. 27 DE ENERO DE 2025)",
+            "pagina": 59
+          },
+          {
+            "fila": 208,
+            "texto": "(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2018)",
+            "pagina": 60
+          },
+          {
+            "fila": 209,
+            "texto": "(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2022)",
+            "pagina": 60
+          },
+          {
+            "fila": 210,
+            "texto": "(REFORMADO [PRIMER PÁRRAFO], P.O. 27 DE ENERO DE 2025)",
+            "pagina": 60
+          },
+          {
+            "fila": 211,
+            "texto": "(REFORMADA, P.O. 27 DE ENERO DE 2025)",
+            "pagina": 60
+          },
+          {
+            "fila": 212,
+            "texto": "(REFORMADA, P.O. 27 DE ENERO DE 2025)",
+            "pagina": 61
+          },
+          {
+            "fila": 213,
+            "texto": "(REFORMADO, P.O. 27 DE ENERO DE 2025)",
+            "pagina": 61
+          },
+          {
+            "fila": 214,
+            "texto": "(REFORMADA, P.O. 9 DE JULIO DE 2026)",
+            "pagina": 61
+          },
+          {
+            "fila": 215,
+            "texto": "(REFORMADO, P.O. 24 DE JULIO DE 2025)",
+            "pagina": 61
+          },
+          {
+            "fila": 216,
+            "texto": "(REFORMADO [PÁRRAFO PRIMERO], P.O. 27 DE ENERO DE 2025)",
+            "pagina": 62
+          },
+          {
+            "fila": 217,
+            "texto": "(ADICIONADA P.O. 27 DE ENERO DE 2025)",
+            "pagina": 62
+          },
+          {
+            "fila": 218,
+            "texto": "(ADICIONADA, P.O. 27 DE ENERO DE 2025)",
+            "pagina": 63
+          },
+          {
+            "fila": 219,
+            "texto": "(REFORMADO, P.O. 24 DE JULIO DE 2025)",
+            "pagina": 64
+          },
+          {
+            "fila": 220,
+            "texto": "(DEROGADO [PÁRRAFO SEGUNDO], P.O. 27 DE ENERO DE 2025)",
+            "pagina": 65
+          },
+          {
+            "fila": 221,
+            "texto": "(REFORMADO, P.O. 27 DE ENERO DE 2025)",
+            "pagina": 65
+          },
+          {
+            "fila": 222,
+            "texto": "(REFORMADO, P.O. 24 DE JULIO DE 2025)",
+            "pagina": 65
+          },
+          {
+            "fila": 223,
+            "texto": "(REFORMADO, P.O. 24 DE JULIO DE 2025)",
+            "pagina": 66
+          },
+          {
+            "fila": 224,
+            "texto": "(REFORMADO, P.O. 24 DE JULIO DE 2025)",
+            "pagina": 67
+          },
+          {
+            "fila": 225,
+            "texto": "(ADICIONADO, P.O. 24 DE JULIO DE 2025)",
+            "pagina": 67
+          },
+          {
+            "fila": 226,
+            "texto": "(REFORMADO, P.O. 24 DE JULIO DE 2025)",
+            "pagina": 68
+          },
+          {
+            "fila": 227,
+            "texto": "(REFORMADO, P.O. 24 DE JULIO DE 2025)",
+            "pagina": 69
+          },
+          {
+            "fila": 228,
+            "texto": "(REFORMADO, P.O. 27 DE ENERO DE 2025)",
+            "pagina": 70
+          },
+          {
+            "fila": 229,
+            "texto": "(REFORMADO, P.O. 24 DE JULIO DE 2025)",
+            "pagina": 70
+          },
+          {
+            "fila": 230,
+            "texto": "(REFORMADO, P.O. 24 DE JULIO DE 2025)",
+            "pagina": 71
+          },
+          {
+            "fila": 231,
+            "texto": "(REFORMADO [PÁRRAFO PRIMERO], P.O. 27 DE ENERO DE 2025)",
+            "pagina": 71
+          },
+          {
+            "fila": 232,
+            "texto": "(DEROGADO [PÁRRAFO SEGUNDO], P.O. 27 DE ENERO DE 2025)",
+            "pagina": 71
+          },
+          {
+            "fila": 233,
+            "texto": "(DEROGADO [PÁRRAFO TERCERO], P.O. 27 DE ENERO DE 2025)",
+            "pagina": 71
+          },
+          {
+            "fila": 234,
+            "texto": "(REFORMADO P.O. 27 DE ENERO DE 2025)",
+            "pagina": 71
+          },
+          {
+            "fila": 235,
+            "texto": "(REFORMADO, P.O. 27 DE ENERO DE 2025)",
+            "pagina": 71
+          },
+          {
+            "fila": 236,
+            "texto": "(REFORMADO, P.O. 24 DE JULIO DE 2025)",
+            "pagina": 72
+          },
+          {
+            "fila": 237,
+            "texto": "(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2022)",
+            "pagina": 72
+          },
+          {
+            "fila": 238,
+            "texto": "(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)",
+            "pagina": 72
+          },
+          {
+            "fila": 239,
+            "texto": "(REFORMADO, P.O. 18 DE JUNIO DE 2021)",
+            "pagina": 73
+          },
+          {
+            "fila": 240,
+            "texto": "(ADICIONADO, P.O. 18 DE JUNIO DE 2021)",
+            "pagina": 73
+          },
+          {
+            "fila": 241,
+            "texto": "(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)",
+            "pagina": 73
+          },
+          {
+            "fila": 242,
+            "texto": "(REFORMADO, P.O. 21 DE ENERO DE 2013)",
+            "pagina": 74
+          },
+          {
+            "fila": 243,
+            "texto": "(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)",
+            "pagina": 74
+          },
+          {
+            "fila": 244,
+            "texto": "(REFORMADA, P.O. 13 DE OCTUBRE DE 2012)",
+            "pagina": 74
+          },
+          {
+            "fila": 245,
+            "texto": "(ADICIONADA, P.O. 13 DE OCTUBRE DE 2012)",
+            "pagina": 74
+          },
+          {
+            "fila": 246,
+            "texto": "(REFORMADO [ÚLTIMO PÁRRAFO], P.O. 27 DE ENERO DE 2025)",
+            "pagina": 75
+          },
+          {
+            "fila": 247,
+            "texto": "(ADICIONADO [ANTES CAPÍTULO II] P.O. 18 DE OCTUBRE DE 2016)",
+            "pagina": 75
+          },
+          {
+            "fila": 248,
+            "texto": "(REFORMADO, P.O. 5 DE MAYO DE 2025)",
+            "pagina": 75
+          },
+          {
+            "fila": 249,
+            "texto": "(REFORMADO, P.O. 14 DE ENERO DE 2017)",
+            "pagina": 75
+          },
+          {
+            "fila": 250,
+            "texto": "(REFORMADA, P.O. 15 DE JUNIO DE 2017)",
+            "pagina": 75
+          },
+          {
+            "fila": 251,
+            "texto": "(REFORMADA, P.O. 15 DE JUNIO DE 2017)",
+            "pagina": 76
+          },
+          {
+            "fila": 252,
+            "texto": "(ADICIONADA, P.O. 15 DE JUNIO DE 2017)",
+            "pagina": 77
+          },
+          {
+            "fila": 253,
+            "texto": "(REFORMADO, P.O. 14 DE ENERO DE 2017)",
+            "pagina": 77
+          },
+          {
+            "fila": 254,
+            "texto": "(REFORMADA, P.O. 19 DE MAYO DE 2022)",
+            "pagina": 78
+          },
+          {
+            "fila": 255,
+            "texto": "(REFORMADA, P.O. 19 E MAYO DE 2022)",
+            "pagina": 78
+          },
+          {
+            "fila": 256,
+            "texto": "(REFORMADA, P.O. 27 DE ENERO DE 2025)",
+            "pagina": 78
+          },
+          {
+            "fila": 257,
+            "texto": "(REFORMADO, P.O. 21 DE ENERO DE 2013)",
+            "pagina": 78
+          },
+          {
+            "fila": 258,
+            "texto": "(DEROGADO, P.O. 17 DE ENERO DE 1926)",
+            "pagina": 78
+          },
+          {
+            "fila": 259,
+            "texto": "(REFORMADO [ANTES DEROGADO. ANTERIOR TEXTO DEL ARTÍCULO 100] P.O. 18 DE OCTUBRE DE 2016)",
+            "pagina": 78
+          },
+          {
+            "fila": 260,
+            "texto": "P.O. 18 DE OCTUBRE DE 2016)",
+            "pagina": 78
+          },
+          {
+            "fila": 261,
+            "texto": "(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 2017)",
+            "pagina": 79
+          },
+          {
+            "fila": 262,
+            "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MAYO DE 2025)",
+            "pagina": 79
+          },
+          {
+            "fila": 263,
+            "texto": "(REFORMADO, P.O. 28 DE MARZO DE 2018)",
+            "pagina": 79
+          },
+          {
+            "fila": 264,
+            "texto": "(ADICIONADO, P.O. 17 DE MAYO DE 2004)",
+            "pagina": 79
+          },
+          {
+            "fila": 265,
+            "texto": "(REFORMADO, P.O. 17 DE MAYO DE 2004)",
+            "pagina": 79
+          },
+          {
+            "fila": 266,
+            "texto": "(REFORMADO, P.O. 23 DE JUNIO DE 2012)",
+            "pagina": 79
+          },
+          {
+            "fila": 267,
+            "texto": "(REFORMADO [ADICIONADO], P.O. 23 DE JUNIO DE 2012)",
+            "pagina": 80
+          },
+          {
+            "fila": 268,
+            "texto": "(REFORMADO, P.O. 6 DE OCTUBRE DE 2020)",
+            "pagina": 80
+          },
+          {
+            "fila": 269,
+            "texto": "(REFORMADO, P.O. 23 DE JUNIO DE 2012)",
+            "pagina": 80
+          },
+          {
+            "fila": 270,
+            "texto": "(REFORMADA SU NUMERACION, P.O. 17 DE MAYO DE 2004)",
+            "pagina": 80
+          },
+          {
+            "fila": 271,
+            "texto": "(REFORMADO PRIMER PÁRRAFO, P.O.13 DE OCTUBRE DE 2012)",
+            "pagina": 80
+          },
+          {
+            "fila": 272,
+            "texto": "(REFORMADA SU DENOMINACIÓN, P.O. 5 DE ABRIL DE 2014)",
+            "pagina": 81
+          },
+          {
+            "fila": 273,
+            "texto": "(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)",
+            "pagina": 81
+          },
+          {
+            "fila": 274,
+            "texto": "(REFORMADO PRIMER PÁRRAFO, P. O.1 DE DICIEMBRE DE 2022)",
+            "pagina": 81
+          },
+          {
+            "fila": 275,
+            "texto": "(REFORMADO, P.O. 28 DE ABRIL DE 2021)",
+            "pagina": 82
+          },
+          {
+            "fila": 276,
+            "texto": "(ADICIONADO, P.O. 28 DE ABRIL DE 2021)",
+            "pagina": 82
+          },
+          {
+            "fila": 277,
+            "texto": "(REFORMADA, P.O. 19 DE MAYO DE 2022)",
+            "pagina": 83
+          },
+          {
+            "fila": 278,
+            "texto": "(REFORMADA, P.O. 1 DE DICIEMBRE DE 2022)",
+            "pagina": 83
+          },
+          {
+            "fila": 279,
+            "texto": "(REFORMADO, P.O. 28 DE JULIO DE 2020)",
+            "pagina": 83
+          },
+          {
+            "fila": 280,
+            "texto": "(REFORMADA SU NUMERACION, P.O. 24 DE ENERO DE 2001)",
+            "pagina": 84
+          },
+          {
+            "fila": 281,
+            "texto": "(REFORMADO, [PRIMER PÁRRAFO] P.O. 20 DE NOVIEMBRE DE 2025)",
+            "pagina": 84
+          },
+          {
+            "fila": 282,
+            "texto": "(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2025)",
+            "pagina": 84
+          },
+          {
+            "fila": 283,
+            "texto": "(REFORMADA, P.O. 6 DE OCTUBRE DE 2020)",
+            "pagina": 85
+          },
+          {
+            "fila": 284,
+            "texto": "(REFORMADO, P.O. 6 DE OCTUBRE DE 2020)",
+            "pagina": 85
+          },
+          {
+            "fila": 285,
+            "texto": "(DEROGADO ÚLTIMO PARRAFO, P.O. 10 DE JUNIO DE 2016)",
+            "pagina": 85
+          },
+          {
+            "fila": 286,
+            "texto": "(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2025)",
+            "pagina": 85
+          },
+          {
+            "fila": 287,
+            "texto": "(REFORMADO, P.O. 24 DE ENERO DE 2001)",
+            "pagina": 85
+          },
+          {
+            "fila": 288,
+            "texto": "(REFORMADO, P.O. 24 DE ENERO DE 2001)",
+            "pagina": 86
+          },
+          {
+            "fila": 289,
+            "texto": "(REFORMADA, P.O. 27 DE ENERO DE 2025)",
+            "pagina": 86
+          },
+          {
+            "fila": 290,
+            "texto": "(REFORMADO, P.O. 13 DE ABRIL DE 2023)",
+            "pagina": 86
+          },
+          {
+            "fila": 291,
+            "texto": "(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2025)",
+            "pagina": 86
+          },
+          {
+            "fila": 292,
+            "texto": "(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)",
+            "pagina": 86
+          },
+          {
+            "fila": 293,
+            "texto": "(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2025)",
+            "pagina": 87
+          },
+          {
+            "fila": 294,
+            "texto": "(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2025)",
+            "pagina": 87
+          },
+          {
+            "fila": 295,
+            "texto": "(REFORMADO, P.O. 24 DE ENERO DE 2001)",
+            "pagina": 87
+          },
+          {
+            "fila": 296,
+            "texto": "(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)",
+            "pagina": 88
+          },
+          {
+            "fila": 297,
+            "texto": "(REFORMADO, P.O. 21 DE AGOSTO DE 2020)",
+            "pagina": 88
+          },
+          {
+            "fila": 298,
+            "texto": "(ADICIONADO [SE RECORRE, ANTES PÁRRAFO SÉPTIMO], P.O. 16 DE DICIEMBRE DE 2010)",
+            "pagina": 88
+          },
+          {
+            "fila": 299,
+            "texto": "(REFORMADO, P.O. 24 DE ENERO DE 2001)",
+            "pagina": 88
+          },
+          {
+            "fila": 300,
+            "texto": "(REFORMADO, P.O. 5 DE MAYO DE 2025)",
+            "pagina": 89
+          },
+          {
+            "fila": 301,
+            "texto": "(ADICIONADA, P.O. 5 DE MAYO DE 2025)",
+            "pagina": 90
+          },
+          {
+            "fila": 302,
+            "texto": "(REFORMADO, P.O. 20 DE AGOSTO DE 2008)",
+            "pagina": 90
+          },
+          {
+            "fila": 303,
+            "texto": "(REFORMADO, P.O. 21 DE ENERO DE 2013)",
+            "pagina": 90
+          },
+          {
+            "fila": 304,
+            "texto": "(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)",
+            "pagina": 90
+          },
+          {
+            "fila": 305,
+            "texto": "(REFORMADO, P.O. 24 DE ENERO DE 2001)",
+            "pagina": 90
+          },
+          {
+            "fila": 306,
+            "texto": "(REFORMADO, P.O. 30 DE JULIO DE 2011)",
+            "pagina": 91
+          },
+          {
+            "fila": 307,
+            "texto": "(ADICIONADO, P.O. 30 DE JULIO DE 2011)",
+            "pagina": 91
+          },
+          {
+            "fila": 308,
+            "texto": "(DEROGADO, P.O. 24 DE ENERO DE 2001)",
+            "pagina": 92
+          },
+          {
+            "fila": 309,
+            "texto": "(REFORMADA SU NUMERACION, P.O. 21 DE OCTUBRE DE 2000)",
+            "pagina": 92
+          },
+          {
+            "fila": 310,
+            "texto": "(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 1941)",
+            "pagina": 92
+          },
+          {
+            "fila": 311,
+            "texto": "(REFORMADO, P.O. 16 DE DICIEMBRE DE 2009)",
+            "pagina": 92
+          },
+          {
+            "fila": 312,
+            "texto": "(REFORMADO, P.O. 21 DE OCTUBRE DE 2000)",
+            "pagina": 93
+          },
+          {
+            "fila": 313,
+            "texto": "(ADICIONADO, P.O. 21 DE OCTUBRE DE 2000)",
+            "pagina": 93
+          },
+          {
+            "fila": 314,
+            "texto": "(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2021)",
+            "pagina": 93
+          },
+          {
+            "fila": 315,
+            "texto": "(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)",
+            "pagina": 93
+          },
+          {
+            "fila": 316,
+            "texto": "(ADICIONADO, P.O. 18 DE OCTUBRE DE 2016)",
+            "pagina": 93
+          },
+          {
+            "fila": 317,
+            "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2016)",
+            "pagina": 93
+          },
+          {
+            "fila": 318,
+            "texto": "(REFORMADA, P.O. 18 DE JUNIO DE 2021)",
+            "pagina": 93
+          },
+          {
+            "fila": 319,
+            "texto": "(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)",
+            "pagina": 95
+          },
+          {
+            "fila": 320,
+            "texto": "(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)",
+            "pagina": 96
+          },
+          {
+            "fila": 321,
+            "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2016)",
+            "pagina": 97
+          },
+          {
+            "fila": 322,
+            "texto": "(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)",
+            "pagina": 97
+          },
+          {
+            "fila": 323,
+            "texto": "(REFORMADA, P.O. 19 DE MAYO DE 2022)",
+            "pagina": 97
+          },
+          {
+            "fila": 324,
+            "texto": "(REFORMADA, P.O. 19 DE MAYO DE 2022)",
+            "pagina": 98
+          },
+          {
+            "fila": 325,
+            "texto": "(REFORMADA SU NUMERACION, P.O. 28 DE DICIEMBRE DE 1983)",
+            "pagina": 98
+          },
+          {
+            "fila": 326,
+            "texto": "(REFORMADA SU DENOMINACION, P.O. 18 DE OCTUBRE DE 2016)",
+            "pagina": 98
+          },
+          {
+            "fila": 327,
+            "texto": "(REFORMADO [PRIMER PARRAFO], P.O. 27 DE ENERO DE 2025)",
+            "pagina": 98
+          },
+          {
+            "fila": 328,
+            "texto": "(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)",
+            "pagina": 99
+          },
+          {
+            "fila": 329,
+            "texto": "(ADICIONADO, P.O. 18 DE OCTUBRE DE 2016)",
+            "pagina": 99
+          },
+          {
+            "fila": 330,
+            "texto": "(REFORMADO [PRIMER PÁRRAFO] P.O. 18 DE OCTUBRE DE 2016)",
+            "pagina": 99
+          },
+          {
+            "fila": 331,
+            "texto": "(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)",
+            "pagina": 99
+          },
+          {
+            "fila": 332,
+            "texto": "(REFORMADO, P.O. 27 DE ENERO DE 2025)",
+            "pagina": 100
+          },
+          {
+            "fila": 333,
+            "texto": "(ADICIONADA, P.O. 18 DE OCTUBRE DE 2016)",
+            "pagina": 100
+          },
+          {
+            "fila": 334,
+            "texto": "(REFORMADO, P.O. 24 DE JULIO DE 2025)",
+            "pagina": 101
+          },
+          {
+            "fila": 335,
+            "texto": "(REFORMADO, P.O. 27 DE ENERO DE 2025)",
+            "pagina": 102
+          },
+          {
+            "fila": 336,
+            "texto": "(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)",
+            "pagina": 102
+          },
+          {
+            "fila": 337,
+            "texto": "(REFORMADO [PRIMER PÁRRAFO], P.O. 27 DE ENERO DE 2025)",
+            "pagina": 102
+          },
+          {
+            "fila": 338,
+            "texto": "(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)",
+            "pagina": 103
+          },
+          {
+            "fila": 339,
+            "texto": "(REFORMADO, P.O. 27 DE ENERO DE 2025)",
+            "pagina": 103
+          },
+          {
+            "fila": 340,
+            "texto": "(ADICIONADO, P.O. 20 DE JUNIO DE 2017)",
+            "pagina": 103
+          },
+          {
+            "fila": 341,
+            "texto": "(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)",
+            "pagina": 104
+          },
+          {
+            "fila": 342,
+            "texto": "(REFORMADO, P.O. 20 DE JUNIO DE 2017)",
+            "pagina": 104
+          },
+          {
+            "fila": 343,
+            "texto": "(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)",
+            "pagina": 104
+          },
+          {
+            "fila": 344,
+            "texto": "(REFORMADO, P.O. 24 DE JULIO DE 2025)",
+            "pagina": 104
+          },
+          {
+            "fila": 345,
+            "texto": "(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)",
+            "pagina": 105
+          },
+          {
+            "fila": 346,
+            "texto": "(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)",
+            "pagina": 105
+          },
+          {
+            "fila": 347,
+            "texto": "(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)",
+            "pagina": 106
+          },
+          {
+            "fila": 348,
+            "texto": "(REFORMADA SU NUMERACION, P.O. 9 DE ABRIL DE 1988)",
+            "pagina": 106
+          },
+          {
+            "fila": 349,
+            "texto": "(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2009)",
+            "pagina": 106
+          },
+          {
+            "fila": 350,
+            "texto": "(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1998)",
+            "pagina": 106
+          },
+          {
+            "fila": 351,
+            "texto": "(ADICIONADO, P.O. 13 DE OCTUBRE DE 2012)",
+            "pagina": 106
+          },
+          {
+            "fila": 352,
+            "texto": "(ADICIONADA SU NUMERACION, P.O. 9 DE ABRIL DE 1988)",
+            "pagina": 106
+          },
+          {
+            "fila": 353,
+            "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2020)",
+            "pagina": 107
+          },
+          {
+            "fila": 354,
+            "texto": "(ADICIONADO, P.O. 18 DE OCTUBRE DE 2016)",
+            "pagina": 107
+          },
+          {
+            "fila": 355,
+            "texto": "(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)",
+            "pagina": 107
+          },
+          {
+            "fila": 356,
+            "texto": "(ADICIONADO, P.O. 30 DE JULIO DE 2011)",
+            "pagina": 107
+          },
+          {
+            "fila": 357,
+            "texto": "(ADICIONADO, P.O. 30 DE JULIO DE 2011)",
+            "pagina": 108
+          },
+          {
+            "fila": 358,
+            "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2021)",
+            "pagina": 108
+          },
+          {
+            "fila": 359,
+            "texto": "(SE REFORMA PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2022)",
+            "pagina": 109
+          },
+          {
+            "fila": 360,
+            "texto": "(ADICIONADO, P.O. 9 DE AGOSTO DE 2022)",
+            "pagina": 110
+          },
+          {
+            "fila": 361,
+            "texto": "(REFORMADO, P.O. 24 DE JULIO DE 2025)",
+            "pagina": 110
+          },
+          {
+            "fila": 362,
+            "texto": "(REFORMADO, P.O. 10 DE JUNIO DE 2016)",
+            "pagina": 110
+          },
+          {
+            "fila": 363,
+            "texto": "(REFORMADA, P.O. 6 DE OCTUBRE DE 2020)",
+            "pagina": 110
+          },
+          {
+            "fila": 364,
+            "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2016)",
+            "pagina": 112
+          },
+          {
+            "fila": 365,
+            "texto": "(REFORMADA, P.O. 10 DE JUNIO DE 2016)",
+            "pagina": 112
+          },
+          {
+            "fila": 366,
+            "texto": "(REFORMADA, P.O. 10 DE JUNIO DE 2016)",
+            "pagina": 113
+          },
+          {
+            "fila": 367,
+            "texto": "(REFORMADO, P.O. 06 DE OCTUBRE DE 2010)",
+            "pagina": 113
+          },
+          {
+            "fila": 368,
+            "texto": "(ADICIONADO, P.O. 06 DE OCTUBRE DE 2010)",
+            "pagina": 113
+          },
+          {
+            "fila": 369,
+            "texto": "(REFORMADA, P.O. 10 DE JUNIO DE 2016)",
+            "pagina": 114
+          },
+          {
+            "fila": 370,
+            "texto": "(REFORMADO, P.O. 10 DE JUNIO DE 2016)",
+            "pagina": 114
+          },
+          {
+            "fila": 371,
+            "texto": "(DEROGADO CUARTO PÁRRAFO, P.O. 10 DE JUNIO DE 2016)",
+            "pagina": 114
+          },
+          {
+            "fila": 372,
+            "texto": "(ADICIONADO, P.O. 31 DE ENERO DE 2023)",
+            "pagina": 114
+          },
+          {
+            "fila": 373,
+            "texto": "(REFORMADO, P.O. 10 DE JUNIO DE 2016)",
+            "pagina": 115
+          },
+          {
+            "fila": 374,
+            "texto": "(REFORMADO, P.O. 31 DE ENERO DE 2023)",
+            "pagina": 115
+          },
+          {
+            "fila": 375,
+            "texto": "(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2019)",
+            "pagina": 115
+          },
+          {
+            "fila": 376,
+            "texto": "(ADICIONADO, P.O. 31 DE ENERO DE 2023)",
+            "pagina": 116
+          },
+          {
+            "fila": 377,
+            "texto": "(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)",
+            "pagina": 116
+          },
+          {
+            "fila": 378,
+            "texto": "(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)",
+            "pagina": 117
+          },
+          {
+            "fila": 379,
+            "texto": "(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)",
+            "pagina": 117
+          },
+          {
+            "fila": 380,
+            "texto": "(REFORMADO, P.O. 5 DE MAYO DE 2025)",
+            "pagina": 117
+          },
+          {
+            "fila": 381,
+            "texto": "(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)",
+            "pagina": 118
+          },
+          {
+            "fila": 382,
+            "texto": "(ADICIONADO, P.O. 9 DE FEBRERO DE 1930)",
+            "pagina": 118
+          },
+          {
+            "fila": 383,
+            "texto": "(ADICIONADO, P.O. 25 DE AGOSTO DE 1943)",
+            "pagina": 118
+          },
+          {
+            "fila": 384,
+            "texto": "P.O. 30 DE MARZO DE 1919.",
+            "pagina": 119
+          },
+          {
+            "fila": 385,
+            "texto": "P.O. 24 DE JULIO DE 1919.",
+            "pagina": 119
+          },
+          {
+            "fila": 386,
+            "texto": "P.O. 15 DE ENERO DE 1922.",
+            "pagina": 119
+          },
+          {
+            "fila": 387,
+            "texto": "P.O. 14 DE AGOSTO DE 1924.",
+            "pagina": 120
+          },
+          {
+            "fila": 388,
+            "texto": "P.O. 3 DE MAYO DE 1925.",
+            "pagina": 120
+          },
+          {
+            "fila": 389,
+            "texto": "P.O. 17 DE ENERO DE 1926.",
+            "pagina": 120
+          },
+          {
+            "fila": 390,
+            "texto": "P.O. 11 DE ABRIL DE 1926.",
+            "pagina": 120
+          },
+          {
+            "fila": 391,
+            "texto": "P.O. 12 DE DICIEMBRE DE 1929.",
+            "pagina": 120
+          },
+          {
+            "fila": 392,
+            "texto": "P.O. 5 DE ENERO DE 1930.",
+            "pagina": 120
+          },
+          {
+            "fila": 393,
+            "texto": "P.O. 6 DE FEBRERO DE 1930.",
+            "pagina": 120
+          },
+          {
+            "fila": 394,
+            "texto": "P.O. 9 DE FEBRERO DE 1930.",
+            "pagina": 120
+          },
+          {
+            "fila": 395,
+            "texto": "P.O. 15 DE JUNIO DE 1930.",
+            "pagina": 121
+          },
+          {
+            "fila": 396,
+            "texto": "P.O. 14 DE MARZO DE 1934.",
+            "pagina": 121
+          },
+          {
+            "fila": 397,
+            "texto": "P.O. 11 DE SEPTIEMBRE DE 1935.",
+            "pagina": 121
+          },
+          {
+            "fila": 398,
+            "texto": "P.O. 8 DE SEPTIEMBRE DE 1937.",
+            "pagina": 121
+          },
+          {
+            "fila": 399,
+            "texto": "P.O. 13 DE NOVIEMBRE DE 1937.",
+            "pagina": 121
+          },
+          {
+            "fila": 400,
+            "texto": "P.O. 24 DE NOVIEMBRE DE 1937.",
+            "pagina": 121
+          },
+          {
+            "fila": 401,
+            "texto": "P.O. 5 DE ENERO DE 1938.",
+            "pagina": 121
+          },
+          {
+            "fila": 402,
+            "texto": "P.O. 12 DE ENERO DE 1938.",
+            "pagina": 122
+          },
+          {
+            "fila": 403,
+            "texto": "P.O. 24 DE AGOSTO DE 1938.",
+            "pagina": 122
+          },
+          {
+            "fila": 404,
+            "texto": "P.O. 7 DE ENERO DE 1939.",
+            "pagina": 122
+          },
+          {
+            "fila": 405,
+            "texto": "P.O. 27 DE NOVIEMBRE DE 1940.",
+            "pagina": 123
+          },
+          {
+            "fila": 406,
+            "texto": "P.O. 3 DE SEPTIEMBRE DE 1941.",
+            "pagina": 123
+          },
+          {
+            "fila": 407,
+            "texto": "P.O. 27 DE FEBRERO DE 1943.",
+            "pagina": 123
+          },
+          {
+            "fila": 408,
+            "texto": "P.O. 25 DE AGOSTO DE 1943.",
+            "pagina": 123
+          },
+          {
+            "fila": 409,
+            "texto": "P.O. 26 DE DICIEMBRE DE 1945.",
+            "pagina": 123
+          },
+          {
+            "fila": 410,
+            "texto": "P.O. 21 DE AGOSTO DE 1946",
+            "pagina": 123
+          },
+          {
+            "fila": 411,
+            "texto": "P.O. 20 DE AGOSTO DE 1947.",
+            "pagina": 123
+          },
+          {
+            "fila": 412,
+            "texto": "P.O. 26 DE DICIEMBRE DE 1953.",
+            "pagina": 123
+          },
+          {
+            "fila": 413,
+            "texto": "P.O. 29 DE OCTUBRE DE 1958.",
+            "pagina": 124
+          },
+          {
+            "fila": 414,
+            "texto": "P.O. 31 DE DICIEMBRE DE 1969.",
+            "pagina": 124
+          },
+          {
+            "fila": 415,
+            "texto": "P.O. 25 DE MARZO DE 1970.",
+            "pagina": 124
+          },
+          {
+            "fila": 416,
+            "texto": "P.O. 26 DE ABRIL DE 1972. DECRETO 5425, QUE REFORMA ART. 26.",
+            "pagina": 124
+          },
+          {
+            "fila": 417,
+            "texto": "P.O. 26 DE ABRIL DE 1972. DECRETO 5426, QUE REFORMA ART. 28.",
+            "pagina": 124
+          },
+          {
+            "fila": 418,
+            "texto": "P.O. 18 DE ENERO DE 1975.",
+            "pagina": 124
+          },
+          {
+            "fila": 419,
+            "texto": "P.O. 29 DE NOVIEMBRE DE 1975.",
+            "pagina": 125
+          },
+          {
+            "fila": 420,
+            "texto": "P.O. 27 DE DICIEMBRE DE 1975.",
+            "pagina": 125
+          },
+          {
+            "fila": 421,
+            "texto": "P.O. 28 DE AGOSTO DE 1976.",
+            "pagina": 125
+          },
+          {
+            "fila": 422,
+            "texto": "P.O. 12 DE MARZO DE 1977.",
+            "pagina": 125
+          },
+          {
+            "fila": 423,
+            "texto": "P.O. 8 DE JUNIO DE 1977.",
+            "pagina": 125
+          },
+          {
+            "fila": 424,
+            "texto": "P.O. 2 DE JULIO DE 1977.",
+            "pagina": 125
+          },
+          {
+            "fila": 425,
+            "texto": "P.O. 20 DE JULIO DE 1977.",
+            "pagina": 125
+          },
+          {
+            "fila": 426,
+            "texto": "P.O. 5 DE NOVIEMBRE DE 1977. DECRETO 5979, REFORMA ART. 42.",
+            "pagina": 125
+          },
+          {
+            "fila": 427,
+            "texto": "P.O. 5 DE NOVIEMBRE DE 1977. DECRETO 5980, REFORMA ARTS. 37 Y 69.",
+            "pagina": 125
+          },
+          {
+            "fila": 428,
+            "texto": "P.O. 22 DE ABRIL DE 1978.",
+            "pagina": 125
+          },
+          {
+            "fila": 429,
+            "texto": "P.O. 18 DE JUNIO DE 1980.",
+            "pagina": 126
+          },
+          {
+            "fila": 430,
+            "texto": "P.O. 21 DE JUNIO DE 1980.",
+            "pagina": 126
+          },
+          {
+            "fila": 431,
+            "texto": "P.O. 25 DE JUNIO DE 1980.",
+            "pagina": 126
+          },
+          {
+            "fila": 432,
+            "texto": "P.O. 16 DE JULIO DE 1980.",
+            "pagina": 126
+          },
+          {
+            "fila": 433,
+            "texto": "P.O. 29 DE NOVIEMBRE DE 1980.",
+            "pagina": 126
+          },
+          {
+            "fila": 434,
+            "texto": "P.O. 26 DE DICIEMBRE DE 1981.",
+            "pagina": 126
+          },
+          {
+            "fila": 435,
+            "texto": "P.O. 9 DE ENERO DE 1982.",
+            "pagina": 127
+          },
+          {
+            "fila": 436,
+            "texto": "P.O. 1 DE JUNIO DE 1983.",
+            "pagina": 127
+          },
+          {
+            "fila": 437,
+            "texto": "P.O. 28 DE DICIEMBRE DE 1983.",
+            "pagina": 127
+          },
+          {
+            "fila": 438,
+            "texto": "P.O. 18 DE FEBRERO DE 1984.",
+            "pagina": 127
+          },
+          {
+            "fila": 439,
+            "texto": "P.O. 21 DE JULIO DE 1984.",
+            "pagina": 127
+          },
+          {
+            "fila": 440,
+            "texto": "P.O. 8 DE AGOSTO DE 1984.",
+            "pagina": 127
+          },
+          {
+            "fila": 441,
+            "texto": "P.O. 10 DE DICIEMBRE DE 1986.",
+            "pagina": 127
+          },
+          {
+            "fila": 442,
+            "texto": "P.O. 9 DE ABRIL DE 1988.",
+            "pagina": 127
+          },
+          {
+            "fila": 443,
+            "texto": "P.O. 15 DE FEBRERO DE 1989. DECRETO NUMERO 7181",
+            "pagina": 127
+          },
+          {
+            "fila": 444,
+            "texto": "P.O. 15 DE FEBRERO DE 1989. DECRETO NUMERO 7195, QUE REFORMA ARTS. 81 AL 91.",
+            "pagina": 128
+          },
+          {
+            "fila": 445,
+            "texto": "P.O. 13 DE DICIEMBRE DE 1989.",
+            "pagina": 128
+          },
+          {
+            "fila": 446,
+            "texto": "P.O. 29 DE SEPTIEMBRE DE 1990.",
+            "pagina": 130
+          },
+          {
+            "fila": 447,
+            "texto": "P.O. 6 DE MARZO DE 1993.",
+            "pagina": 130
+          },
+          {
+            "fila": 448,
+            "texto": "P.O. 18 DE AGOSTO DE 1993.",
+            "pagina": 130
+          },
+          {
+            "fila": 449,
+            "texto": "P.O. 14 DE MAYO DE 1994.",
+            "pagina": 131
+          },
+          {
+            "fila": 450,
+            "texto": "P.O. 1 DE JUNIO DE 1994. DECRETO 7763, QUE REFORMA ART. 42.",
+            "pagina": 131
+          },
+          {
+            "fila": 451,
+            "texto": "P.O. 1 DE JUNIO DE 1994.",
+            "pagina": 131
+          },
+          {
+            "fila": 452,
+            "texto": "P.O. 26 DE ABRIL DE 1995.",
+            "pagina": 131
+          },
+          {
+            "fila": 453,
+            "texto": "P.O. 18 DE NOVIEMBRE DE 1995. DECRETO 7885 QUE REFORMA ARTS 37, 38 Y 69.",
+            "pagina": 133
+          },
+          {
+            "fila": 454,
+            "texto": "P.O. 18 DE NOVIEMBRE DE 1995. DECRETO 7886, QUE REFORMA ARTS. 26, 27, 29, 47 FR. VIII, XIX Y XXXV, 58,",
+            "pagina": 133
+          },
+          {
+            "fila": 455,
+            "texto": "P.O. 18 DE NOVIEMBRE DE 1995. DECRETO 7887, QUE DEROGA EL SEGUNDO PARRAFO DE LA FRACCION",
+            "pagina": 134
+          },
+          {
+            "fila": 456,
+            "texto": "P.O. 25 DE DICIEMBRE DE 1996.",
+            "pagina": 134
+          },
+          {
+            "fila": 457,
+            "texto": "P.O. 5 DE SEPTIEMBRE DE 1998.",
+            "pagina": 134
+          },
+          {
+            "fila": 458,
+            "texto": "P.O. 17 DE OCTUBRE DE 1998.",
+            "pagina": 134
+          },
+          {
+            "fila": 459,
+            "texto": "P.O. 21 DE AGOSTO DE 1999.",
+            "pagina": 134
+          },
+          {
+            "fila": 460,
+            "texto": "P.O. 21 DE OCTUBRE DE 2000.",
+            "pagina": 135
+          },
+          {
+            "fila": 461,
+            "texto": "P.O. 24 DE ENERO DE 2001.",
+            "pagina": 136
+          },
+          {
+            "fila": 462,
+            "texto": "P.O. 23 DE JUNIO DE 2001.",
+            "pagina": 136
+          },
+          {
+            "fila": 463,
+            "texto": "P.O. 27 DE JULIO DE 2002.",
+            "pagina": 137
+          },
+          {
+            "fila": 464,
+            "texto": "P.O. 17 DE MAYO DE 2004.",
+            "pagina": 137
+          },
+          {
+            "fila": 465,
+            "texto": "P.O. 15 DE FEBRERO DE 2006.",
+            "pagina": 138
+          },
+          {
+            "fila": 466,
+            "texto": "P.O. 5 DE AGOSTO DE 2006.",
+            "pagina": 138
+          },
+          {
+            "fila": 467,
+            "texto": "P.O. 28 DE OCTUBRE DE 2006.",
+            "pagina": 138
+          },
+          {
+            "fila": 468,
+            "texto": "P.O. 14 DE NOVIEMBRE DE 2007.",
+            "pagina": 138
+          },
+          {
+            "fila": 469,
+            "texto": "P.O. 14 DE NOVIEMBRE DE 2007.",
+            "pagina": 139
+          },
+          {
+            "fila": 470,
+            "texto": "P.O. 20 DE AGOSTO DE 2008",
+            "pagina": 139
+          },
+          {
+            "fila": 471,
+            "texto": "P.O. 20 DE AGOSTO DE 2008",
+            "pagina": 140
+          },
+          {
+            "fila": 472,
+            "texto": "P.O. 28 DE AGOSTO DE 2008",
+            "pagina": 140
+          },
+          {
+            "fila": 473,
+            "texto": "P.O. 06 DE JUNIO DE 2009",
+            "pagina": 140
+          },
+          {
+            "fila": 474,
+            "texto": "P.O. 19 DE AGOSTO DE 2009",
+            "pagina": 141
+          },
+          {
+            "fila": 475,
+            "texto": "P.O. 15 DE DICIEMBRE DE 2009",
+            "pagina": 141
+          },
+          {
+            "fila": 476,
+            "texto": "P.O. 16 DE DICIEMBRE DE 2009",
+            "pagina": 142
+          },
+          {
+            "fila": 477,
+            "texto": "P.O. 18 DE DICIEMBRE DE 2009",
+            "pagina": 143
+          },
+          {
+            "fila": 478,
+            "texto": "P.O. 22 DE JUNIO DE 2010",
+            "pagina": 143
+          },
+          {
+            "fila": 479,
+            "texto": "P.O. 06 DE OCTUBRE DE 2010",
+            "pagina": 143
+          },
+          {
+            "fila": 480,
+            "texto": "P.O. 14 DE SEPTIEMBRE DE 2010",
+            "pagina": 144
+          },
+          {
+            "fila": 481,
+            "texto": "P.O. 4 DE DICIEMBRE DE 2010",
+            "pagina": 144
+          },
+          {
+            "fila": 482,
+            "texto": "P.O. 16 DE DICIEMBRE DE 2010",
+            "pagina": 144
+          },
+          {
+            "fila": 483,
+            "texto": "P.O. 30 DE JULIO DE 2011",
+            "pagina": 145
+          },
+          {
+            "fila": 484,
+            "texto": "P.O. 15 DE OCTUBRE DE 2011",
+            "pagina": 145
+          },
+          {
+            "fila": 485,
+            "texto": "(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2013)",
+            "pagina": 146
+          },
+          {
+            "fila": 486,
+            "texto": "P.O. 23 DE JUNIO DE 2012",
+            "pagina": 146
+          },
+          {
+            "fila": 487,
+            "texto": "P.O. 13 DE OCTUBRE DE 2012",
+            "pagina": 146
+          },
+          {
+            "fila": 488,
+            "texto": "P.O. 21 DE ENERO DE 2013",
+            "pagina": 147
+          },
+          {
+            "fila": 489,
+            "texto": "P.O. 4 DE JUNIO DE 2013",
+            "pagina": 148
+          },
+          {
+            "fila": 490,
+            "texto": "P.O. 4 DE OCTUBRE DE 2013",
+            "pagina": 148
+          },
+          {
+            "fila": 491,
+            "texto": "P.O. 12 DE NOVIEMBRE DE 2013",
+            "pagina": 148
+          },
+          {
+            "fila": 492,
+            "texto": "P.O. 5 DE ABRIL DE 2014",
+            "pagina": 148
+          },
+          {
+            "fila": 493,
+            "texto": "P.O. 23 DE FEBRERO DE 2015",
+            "pagina": 150
+          },
+          {
+            "fila": 494,
+            "texto": "P.O. 10 DE JUNIO DE 2016",
+            "pagina": 150
+          },
+          {
+            "fila": 495,
+            "texto": "P.O. 18 DE OCTUBRE DE 2016",
+            "pagina": 152
+          },
+          {
+            "fila": 496,
+            "texto": "P.O. 19 DE OCTUBRE DE 2016",
+            "pagina": 154
+          },
+          {
+            "fila": 497,
+            "texto": "P.O. 17 DE NOVIEMBRE DE 2016",
+            "pagina": 155
+          },
+          {
+            "fila": 498,
+            "texto": "P.O. 14 DE ENERO DE 2017",
+            "pagina": 155
+          },
+          {
+            "fila": 499,
+            "texto": "P.O. 15 DE JUNIO DE 2017",
+            "pagina": 155
+          },
+          {
+            "fila": 500,
+            "texto": "P.O. 20 DE JUNIO DE 2017",
+            "pagina": 156
+          },
+          {
+            "fila": 501,
+            "texto": "P.O. 28 DE MARZO DE 2018",
+            "pagina": 156
+          },
+          {
+            "fila": 502,
+            "texto": "P.O. 25 DE SEPTIEMBRE DE 2018",
+            "pagina": 156
+          },
+          {
+            "fila": 503,
+            "texto": "P.O. 25 DE FEBRERO DE 2019",
+            "pagina": 159
+          },
+          {
+            "fila": 504,
+            "texto": "P.O. 27 DE FEBRERO DE 2019",
+            "pagina": 159
+          },
+          {
+            "fila": 505,
+            "texto": "P.O. 27 DE FEBRERO DE 2019",
+            "pagina": 160
+          },
+          {
+            "fila": 506,
+            "texto": "P.O. 26 DE NOVIEMBRE DE 2019",
+            "pagina": 160
+          },
+          {
+            "fila": 507,
+            "texto": "P.O. 21 DE DICIEMBRE DE 2019",
+            "pagina": 161
+          },
+          {
+            "fila": 508,
+            "texto": "P.O. 28 DE JULIO DE 2020",
+            "pagina": 161
+          },
+          {
+            "fila": 509,
+            "texto": "P.O. 28 DE JULIO DE 2020",
+            "pagina": 162
+          },
+          {
+            "fila": 510,
+            "texto": "P.O. 21 DE AGOSTO DE 2020",
+            "pagina": 163
+          },
+          {
+            "fila": 511,
+            "texto": "P.O. 1 DE OCTUBRE DE 2020",
+            "pagina": 163
+          },
+          {
+            "fila": 512,
+            "texto": "P.O. 6 DE OCTUBRE DE 2020",
+            "pagina": 163
+          },
+          {
+            "fila": 513,
+            "texto": "P.O. 5 DE NOVIEMBRE DE 2020",
+            "pagina": 163
+          },
+          {
+            "fila": 514,
+            "texto": "P.O. 1 DE MARZO DE 2021",
+            "pagina": 164
+          },
+          {
+            "fila": 515,
+            "texto": "P.O. 28 DE ABRIL DE 2021",
+            "pagina": 165
+          },
+          {
+            "fila": 516,
+            "texto": "P.O. 18 DE JUNIO DE 2021",
+            "pagina": 165
+          },
+          {
+            "fila": 517,
+            "texto": "P.O. 19 DE MAYO DE 2022",
+            "pagina": 166
+          },
+          {
+            "fila": 518,
+            "texto": "P.O. 9 DE AGOSTO DE 2022",
+            "pagina": 166
+          },
+          {
+            "fila": 519,
+            "texto": "P.O. 9 DE SEPTIEMBRE DE 2022",
+            "pagina": 167
+          },
+          {
+            "fila": 520,
+            "texto": "P.O. 17 DE NOVIEMBRE DE 2022",
+            "pagina": 167
+          },
+          {
+            "fila": 521,
+            "texto": "P.O. 1 DE DICIEMBRE DE 2022",
+            "pagina": 167
+          },
+          {
+            "fila": 522,
+            "texto": "(REFORMADO, P.O. 13 DE ABRIL DE 2023)",
+            "pagina": 168
+          },
+          {
+            "fila": 523,
+            "texto": "P.O. 31 DE ENERO DE 2023",
+            "pagina": 168
+          },
+          {
+            "fila": 524,
+            "texto": "P.O. 13 DE ABRIL DE 2023",
+            "pagina": 169
+          },
+          {
+            "fila": 525,
+            "texto": "P.O. 9 DE JUNIO DE 2023",
+            "pagina": 169
+          },
+          {
+            "fila": 526,
+            "texto": "P.O. 27 DE ENERO DE 2025",
+            "pagina": 169
+          },
+          {
+            "fila": 527,
+            "texto": "(REFORMADO, P.O. 24 DE JULIO DE 2025)",
+            "pagina": 173
+          },
+          {
+            "fila": 528,
+            "texto": "(DEROGADO, P.O. 24 DE JULIO DE 2025)",
+            "pagina": 175
+          },
+          {
+            "fila": 529,
+            "texto": "P.O. 5 DE MAYO DE 2025",
+            "pagina": 176
+          },
+          {
+            "fila": 530,
+            "texto": "P.O. 5 DE MAYO DE 2025",
+            "pagina": 177
+          },
+          {
+            "fila": 531,
+            "texto": "P.O. 24 DE JULIO DE 2025",
+            "pagina": 178
+          },
+          {
+            "fila": 532,
+            "texto": "P.O. 20 DE NOVIEMBRE DE 2025",
+            "pagina": 179
+          },
+          {
+            "fila": 533,
+            "texto": "P.O. 9 DE JULIO DE 2026",
+            "pagina": 179
+          }
+        ]
+      }
+    }
+  },
+  "promociones_encabezado_evitadas": [
+    {
+      "linea": 10,
+      "texto": "Artículo 131 de la Constitución Política del Estado, suscríbase la Minuta Proyecto",
+      "anterior": "ARTICULO PRIMERO.- Para cumplir las condiciones y efectos a que se refiere el",
+      "siguiente": "de Decreto por los Ciudadanos Diputados integrantes de esta Honorable",
+      "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+      "pagina": 128
+    },
+    {
+      "linea": 49,
+      "texto": "Artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, a",
+      "anterior": "Ayuntamientos Constitucionales del Estado, para los efectos a que alude el",
+      "siguiente": "cuyo término deberán computarse los resultados y tramitarse el Decreto",
+      "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+      "pagina": 133
+    },
+    {
+      "linea": 24,
+      "texto": "Artículo 105 de la Constitución Política del Estado Libre y Soberano de Nayarit.",
+      "anterior": "Decreto que tiene por objeto reformar el Artículo 104 y el Segundo Párrafo del",
+      "siguiente": "",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 163
+    }
+  ]
+}

@@ -1,0 +1,1081 @@
+{
+  "id": 70,
+  "fecha_revision": "2026-09-05T19:33:07.935398+00:00",
+  "resultado": "Conversión verificada: controles completos y cotejo visual por muestra",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 57,
+  "paginas_sin_texto": [],
+  "pagina_blanca_confirmada_visualmente": false,
+  "texto_conservado": true,
+  "comparacion_word_pdf": {
+    "palabras_comparadas": 14480,
+    "frecuencias_coinciden": true,
+    "orden_coincide_separando_nota_al_pie": true,
+    "nota_al_pie_reubicada_por_lector_word": null,
+    "normalizaciones_solo_comparacion": [
+      "Se excluyen etiquetas de listas romanas y alfabéticas; se cotejan por separado en PDF/Markdown.",
+      "Se excluyen campos PAGE del Word.",
+      "Se equiparan IVLos/IV Los, BisA/Bis A, AEl/El y el espaciado de CONSIDERANDO."
+    ],
+    "limite": "Comparación léxica no compara puntuación Word/PDF; Markdown sí conserva signos y cifras de la extracción PDF."
+  },
+  "articulos_word": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98",
+    "99",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118",
+    "119",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124",
+    "125",
+    "126",
+    "127",
+    "128"
+  ],
+  "articulos_pdf": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98",
+    "99",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118",
+    "119",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124",
+    "125",
+    "126",
+    "127",
+    "128"
+  ],
+  "identificadores_articulos_coinciden": true,
+  "encabezados_transitorios": [
+    {
+      "pagina": 55,
+      "encabezado": "ARTÍCULOS TRANSITORIOS"
+    }
+  ],
+  "encabezados_ordinales_en_seccion_transitoria": [
+    "PRIMERO. El presente Decreto entrará en vigor a los sesenta días siguientes de su",
+    "SEGUNDO. Se abroga la Ley de Profesiones para el Estado de Sinaloa, publicada en",
+    "TERCERO. El titular del Poder Ejecutivo del Estado, deberá expedir el Reglamento de",
+    "CUARTO. Los lineamientos y demás instrumentos metodológicos, que conforme a esta",
+    "QUINTO. Los Colegios de Profesionistas o ramas profesionales constituidos con",
+    "SEXTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el"
+  ],
+  "articulos_numericos_en_seccion_transitoria": [],
+  "transitorios_y_notas_completos_incluidos": true,
+  "paginas_cotejadas_visualmente": [
+    1,
+    50,
+    55,
+    57
+  ],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 1275,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 1237,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "2"
+        }
+      ]
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 1501,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 11,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "3"
+        }
+      ]
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 1535,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 39,
+          "texto": "4"
+        }
+      ]
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 1703,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "5"
+        }
+      ]
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 1537,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 39,
+          "texto": "6"
+        }
+      ]
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 2038,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 41,
+          "texto": "7"
+        }
+      ]
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 927,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 13,
+      "paginacion_retirada": [
+        {
+          "linea": 39,
+          "texto": "8"
+        }
+      ]
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 1608,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "9"
+        }
+      ]
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 1398,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 39,
+          "texto": "10"
+        }
+      ]
+    },
+    {
+      "pagina": 11,
+      "caracteres_no_blancos": 1314,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 8,
+      "paginacion_retirada": [
+        {
+          "linea": 38,
+          "texto": "11"
+        }
+      ]
+    },
+    {
+      "pagina": 12,
+      "caracteres_no_blancos": 1373,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "12"
+        }
+      ]
+    },
+    {
+      "pagina": 13,
+      "caracteres_no_blancos": 2021,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "13"
+        }
+      ]
+    },
+    {
+      "pagina": 14,
+      "caracteres_no_blancos": 1571,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 3,
+      "paginacion_retirada": [
+        {
+          "linea": 39,
+          "texto": "14"
+        }
+      ]
+    },
+    {
+      "pagina": 15,
+      "caracteres_no_blancos": 1611,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 10,
+      "paginacion_retirada": [
+        {
+          "linea": 39,
+          "texto": "15"
+        }
+      ]
+    },
+    {
+      "pagina": 16,
+      "caracteres_no_blancos": 1646,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "16"
+        }
+      ]
+    },
+    {
+      "pagina": 17,
+      "caracteres_no_blancos": 1674,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 8,
+      "paginacion_retirada": [
+        {
+          "linea": 39,
+          "texto": "17"
+        }
+      ]
+    },
+    {
+      "pagina": 18,
+      "caracteres_no_blancos": 1581,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 6,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "18"
+        }
+      ]
+    },
+    {
+      "pagina": 19,
+      "caracteres_no_blancos": 1523,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "19"
+        }
+      ]
+    },
+    {
+      "pagina": 20,
+      "caracteres_no_blancos": 1403,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 8,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "20"
+        }
+      ]
+    },
+    {
+      "pagina": 21,
+      "caracteres_no_blancos": 1337,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 8,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "21"
+        }
+      ]
+    },
+    {
+      "pagina": 22,
+      "caracteres_no_blancos": 1513,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 3,
+      "paginacion_retirada": [
+        {
+          "linea": 39,
+          "texto": "22"
+        }
+      ]
+    },
+    {
+      "pagina": 23,
+      "caracteres_no_blancos": 1405,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 6,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "23"
+        }
+      ]
+    },
+    {
+      "pagina": 24,
+      "caracteres_no_blancos": 1417,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "24"
+        }
+      ]
+    },
+    {
+      "pagina": 25,
+      "caracteres_no_blancos": 675,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 17,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "25"
+        }
+      ]
+    },
+    {
+      "pagina": 26,
+      "caracteres_no_blancos": 1686,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 39,
+          "texto": "26"
+        }
+      ]
+    },
+    {
+      "pagina": 27,
+      "caracteres_no_blancos": 1434,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 10,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "27"
+        }
+      ]
+    },
+    {
+      "pagina": 28,
+      "caracteres_no_blancos": 1349,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 6,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "28"
+        }
+      ]
+    },
+    {
+      "pagina": 29,
+      "caracteres_no_blancos": 1288,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 11,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "29"
+        }
+      ]
+    },
+    {
+      "pagina": 30,
+      "caracteres_no_blancos": 1557,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 8,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "30"
+        }
+      ]
+    },
+    {
+      "pagina": 31,
+      "caracteres_no_blancos": 1865,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "31"
+        }
+      ]
+    },
+    {
+      "pagina": 32,
+      "caracteres_no_blancos": 1055,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [
+        {
+          "linea": 33,
+          "texto": "32"
+        }
+      ]
+    },
+    {
+      "pagina": 33,
+      "caracteres_no_blancos": 1093,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 32,
+          "texto": "33"
+        }
+      ]
+    },
+    {
+      "pagina": 34,
+      "caracteres_no_blancos": 1800,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "34"
+        }
+      ]
+    },
+    {
+      "pagina": 35,
+      "caracteres_no_blancos": 1267,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 11,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "35"
+        }
+      ]
+    },
+    {
+      "pagina": 36,
+      "caracteres_no_blancos": 1277,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 39,
+          "texto": "36"
+        }
+      ]
+    },
+    {
+      "pagina": 37,
+      "caracteres_no_blancos": 1463,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 11,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "37"
+        }
+      ]
+    },
+    {
+      "pagina": 38,
+      "caracteres_no_blancos": 1665,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 10,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "38"
+        }
+      ]
+    },
+    {
+      "pagina": 39,
+      "caracteres_no_blancos": 1702,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "39"
+        }
+      ]
+    },
+    {
+      "pagina": 40,
+      "caracteres_no_blancos": 1646,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 3,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "40"
+        }
+      ]
+    },
+    {
+      "pagina": 41,
+      "caracteres_no_blancos": 1620,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 1,
+      "paginacion_retirada": [
+        {
+          "linea": 41,
+          "texto": "41"
+        }
+      ]
+    },
+    {
+      "pagina": 42,
+      "caracteres_no_blancos": 1511,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 3,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "42"
+        }
+      ]
+    },
+    {
+      "pagina": 43,
+      "caracteres_no_blancos": 1737,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "43"
+        }
+      ]
+    },
+    {
+      "pagina": 44,
+      "caracteres_no_blancos": 1502,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 11,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "44"
+        }
+      ]
+    },
+    {
+      "pagina": 45,
+      "caracteres_no_blancos": 1752,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "45"
+        }
+      ]
+    },
+    {
+      "pagina": 46,
+      "caracteres_no_blancos": 1767,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "46"
+        }
+      ]
+    },
+    {
+      "pagina": 47,
+      "caracteres_no_blancos": 1421,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 8,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "47"
+        }
+      ]
+    },
+    {
+      "pagina": 48,
+      "caracteres_no_blancos": 1109,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [
+        {
+          "linea": 34,
+          "texto": "48"
+        }
+      ]
+    },
+    {
+      "pagina": 49,
+      "caracteres_no_blancos": 1228,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 13,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "49"
+        }
+      ]
+    },
+    {
+      "pagina": 50,
+      "caracteres_no_blancos": 1265,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 39,
+          "texto": "50"
+        }
+      ]
+    },
+    {
+      "pagina": 51,
+      "caracteres_no_blancos": 1467,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 3,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "51"
+        }
+      ]
+    },
+    {
+      "pagina": 52,
+      "caracteres_no_blancos": 1606,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "52"
+        }
+      ]
+    },
+    {
+      "pagina": 53,
+      "caracteres_no_blancos": 1922,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "53"
+        }
+      ]
+    },
+    {
+      "pagina": 54,
+      "caracteres_no_blancos": 1623,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "54"
+        }
+      ]
+    },
+    {
+      "pagina": 55,
+      "caracteres_no_blancos": 1209,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 39,
+          "texto": "55"
+        }
+      ]
+    },
+    {
+      "pagina": 56,
+      "caracteres_no_blancos": 1401,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [
+        {
+          "linea": 42,
+          "texto": "56"
+        }
+      ]
+    },
+    {
+      "pagina": 57,
+      "caracteres_no_blancos": 405,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 21,
+          "texto": "57"
+        }
+      ]
+    }
+  ],
+  "alcance": "Integridad de la conversión de los originales descargados. Controles automáticos sobre todas las páginas y cotejo visual de muestra; no revisión jurídica ni cotejo visual exhaustivo.",
+  "incidencias_resueltas": [
+    "Se sustituyó pypdf como extractor principal por Poppler con disposición de página.",
+    "Se conservan listas impresas que el lector Word omite.",
+    "Se retiran únicamente números de página aislados en los bordes; la página queda identificada por comentario.",
+    "Las referencias dentro de párrafos no se cuentan como artículos."
+  ],
+  "diferencias_de_fuente": [],
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-10T14:11:19.874979+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "reformas",
+        "motivo": "No se detectó una lista/tabla final explícita de reformas; no se construye a partir de referencias dispersas."
+      }
+    ],
+    "evidencia": {
+      "decreto_numero": {
+        "pagina": 1,
+        "texto": "\n                              DECRETO NÚMERO: 298"
+      },
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "Publicado en el P.O. No. 118, edición vespertina del 27 de septiembre de 2019"
+      },
+      "ultima_reforma": {
+        "pagina": 1,
+        "texto": "Publicado en el P.O. No. 118, edición vespertina del 27 de septiembre de 2019"
+      },
+      "abroga": [
+        {
+          "pagina": 56,
+          "texto": "Se abroga la Ley de Profesiones para el Estado de Sinaloa, publicada en el Periódico Oficial “El Estado de Sinaloa” número 107, del 2 de septiembre de 2016, mediante Decreto número 641."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": 28,
+  "nombre_catalogo": "Ley de Desarrollo Ganadero",
+  "nombre_oficial": null,
+  "nombre_oficial_pendiente_de_cotejo": true,
+  "fuente": "https://gaceta.congresosinaloa.gob.mx/#/leyes",
+  "urls": {
+    "pdf": "https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Ley_28.pdf",
+    "word": "https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Leyword_28.docx"
+  },
+  "fecha_descarga": "2026-09-07T17:34:28.329016+00:00",
+  "fecha_catalogo_sin_interpretar": "18/02/2022",
+  "ultima_reforma": {
+    "numero": "022",
+    "edicion": null,
+    "fecha": "2022-02-18"
+  },
+  "evidencia_encabezado": [
+    "TEXTO VIGENTE",
+    "Publicado en el P.O. No. 022 del 18 de Febrero de 2022."
+  ],
+  "hash_sha256": {
+    "pdf": "99a17e94efcf4f984e368a53232d4de3136d8cf7047a0836feb23e15085026c4",
+    "word": "a80e303be264736f5dd0f98074f94f6a775d1ceb50faa3fc2f4b5d82552a3ad5"
+  },
+  "version": "3f5e3f51fe9a5742877d69d954d31cbcbecd5ca4e1bf0da763aab47ab517795e",
+  "origen_markdown": "PDF; conserva numeración impresa, notas y páginas",
+  "estatus": "Incluido en catálogo de Leyes Estatales; vigencia jurídica no verificada",
+  "validacion": "pendiente de cotejo visual",
+  "decreto_numero": "689",
+  "po_publicacion": {
+    "numero": "022",
+    "edicion": null,
+    "fecha": "2022-02-18"
+  },
+  "reformas": [],
+  "abroga": [
+    {
+      "nombre": "Ley de Desarrollo Ganadero",
+      "po_numero": "091",
+      "fecha": "2003-07-30",
+      "decreto": "329"
+    },
+    {
+      "nombre": "Ley que Crea el Comité Estatal de Sanidad Animal en el Estado de Sinaloa",
+      "po_numero": "36",
+      "fecha": "1970-03-24",
+      "decreto": null
+    }
+  ]
+}
