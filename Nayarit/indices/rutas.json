@@ -1,0 +1,1388 @@
+{
+ "entidad": "Nayarit",
+ "generado": "2026-09-17T18:41:42.147049+00:00",
+ "base_raw": "https://raw.githubusercontent.com/enriquedilo/biblioteca-legislativa/main/",
+ "nota": "Rutas relativas a la raiz del repositorio, con la version vigente ya resuelta. Antepon base_raw para leer por HTTP. No uses el enlace actual/ por HTTP: es un symlink.",
+ "ordenamientos": [
+  {
+   "id": 1,
+   "nombre": "Código Civil para el Estado de Nayarit",
+   "nombre_oficial": "Código Civil para el Estado de Nayarit",
+   "tipo": "codigo",
+   "texto": "Nayarit/ordenamientos/1/versiones/7df671a396523de16f7e52dd2f1bf481c6f3f1a4b9a8292d25c44854b0a03b39/texto.md",
+   "metadata": "Nayarit/ordenamientos/1/versiones/7df671a396523de16f7e52dd2f1bf481c6f3f1a4b9a8292d25c44854b0a03b39/metadata.json",
+   "validacion": "Nayarit/ordenamientos/1/versiones/7df671a396523de16f7e52dd2f1bf481c6f3f1a4b9a8292d25c44854b0a03b39/validacion.json",
+   "articulado": "Nayarit/indices/articulos/1.json"
+  },
+  {
+   "id": 2,
+   "nombre": "Código de Procedimientos Civiles para el Estado de Nayarit",
+   "nombre_oficial": null,
+   "tipo": "codigo",
+   "texto": "Nayarit/ordenamientos/2/versiones/cbbfb9ac6cdd53d5a7fa9bdd797b611b9a98055bc534c0eee8d65fabaf3289bb/texto.md",
+   "metadata": "Nayarit/ordenamientos/2/versiones/cbbfb9ac6cdd53d5a7fa9bdd797b611b9a98055bc534c0eee8d65fabaf3289bb/metadata.json",
+   "validacion": "Nayarit/ordenamientos/2/versiones/cbbfb9ac6cdd53d5a7fa9bdd797b611b9a98055bc534c0eee8d65fabaf3289bb/validacion.json",
+   "articulado": "Nayarit/indices/articulos/2.json"
+  },
+  {
+   "id": 3,
+   "nombre": "Código Fiscal del Estado de Nayarit",
+   "nombre_oficial": "CÓDIGO FISCAL DEL ESTADO DE NAYARIT",
+   "tipo": "codigo",
+   "texto": "Nayarit/ordenamientos/3/versiones/ec82bc2960a11e3f173e11810b32c8212a6266eaa3bb9c3120249b85aeec0f07/texto.md",
+   "metadata": "Nayarit/ordenamientos/3/versiones/ec82bc2960a11e3f173e11810b32c8212a6266eaa3bb9c3120249b85aeec0f07/metadata.json",
+   "validacion": "Nayarit/ordenamientos/3/versiones/ec82bc2960a11e3f173e11810b32c8212a6266eaa3bb9c3120249b85aeec0f07/validacion.json",
+   "articulado": "Nayarit/indices/articulos/3.json"
+  },
+  {
+   "id": 4,
+   "nombre": "Código Penal para el Estado de Nayarit",
+   "nombre_oficial": "CÓDIGO PENAL PARA EL ESTADO DE NAYARIT",
+   "tipo": "codigo",
+   "texto": "Nayarit/ordenamientos/4/versiones/9e06b5f4d73814d1facc3ee6794e287dc8bf29cf75c5169107c0f30f7f1262ff/texto.md",
+   "metadata": "Nayarit/ordenamientos/4/versiones/9e06b5f4d73814d1facc3ee6794e287dc8bf29cf75c5169107c0f30f7f1262ff/metadata.json",
+   "validacion": "Nayarit/ordenamientos/4/versiones/9e06b5f4d73814d1facc3ee6794e287dc8bf29cf75c5169107c0f30f7f1262ff/validacion.json",
+   "articulado": "Nayarit/indices/articulos/4.json"
+  },
+  {
+   "id": 5,
+   "nombre": "Constitución Política del Estado Libre y Soberano de Nayarit",
+   "nombre_oficial": "Constitución Política del Estado Libre y Soberano de Nayarit",
+   "tipo": "constitucion",
+   "texto": "Nayarit/ordenamientos/5/versiones/3d18b8c6b961310ca90b51e9951b4b6f032cfe0d31e12190206874bf5a677ee7/texto.md",
+   "metadata": "Nayarit/ordenamientos/5/versiones/3d18b8c6b961310ca90b51e9951b4b6f032cfe0d31e12190206874bf5a677ee7/metadata.json",
+   "validacion": "Nayarit/ordenamientos/5/versiones/3d18b8c6b961310ca90b51e9951b4b6f032cfe0d31e12190206874bf5a677ee7/validacion.json",
+   "articulado": "Nayarit/indices/articulos/5.json"
+  },
+  {
+   "id": 6,
+   "nombre": "Ley de Acceso de las Mujeres a una Vida Libre de Violencias para el Estado de Nayarit",
+   "nombre_oficial": "LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIAS PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/6/versiones/4ea78cf78ae73ecd26085d2c6edc4d8da2f8c684db9bbdb694b7702acee24ad5/texto.md",
+   "metadata": "Nayarit/ordenamientos/6/versiones/4ea78cf78ae73ecd26085d2c6edc4d8da2f8c684db9bbdb694b7702acee24ad5/metadata.json",
+   "validacion": "Nayarit/ordenamientos/6/versiones/4ea78cf78ae73ecd26085d2c6edc4d8da2f8c684db9bbdb694b7702acee24ad5/validacion.json",
+   "articulado": "Nayarit/indices/articulos/6.json"
+  },
+  {
+   "id": 7,
+   "nombre": "Ley para la Administración de Bienes Asegurados, Decomisados o Abandonados para el Estado de Nayarit",
+   "nombre_oficial": "LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/7/versiones/70c787dc9b470b6d5d7e0993f03474e5a62ec4a91369c1fd78f66f9d12dba0a6/texto.md",
+   "metadata": "Nayarit/ordenamientos/7/versiones/70c787dc9b470b6d5d7e0993f03474e5a62ec4a91369c1fd78f66f9d12dba0a6/metadata.json",
+   "validacion": "Nayarit/ordenamientos/7/versiones/70c787dc9b470b6d5d7e0993f03474e5a62ec4a91369c1fd78f66f9d12dba0a6/validacion.json",
+   "articulado": "Nayarit/indices/articulos/7.json"
+  },
+  {
+   "id": 8,
+   "nombre": "Ley de la Administración Pública Paraestatal",
+   "nombre_oficial": "LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/8/versiones/77395ac66870a5c15d2c20b38421e5747d9e8220205af3213e973be202622e31/texto.md",
+   "metadata": "Nayarit/ordenamientos/8/versiones/77395ac66870a5c15d2c20b38421e5747d9e8220205af3213e973be202622e31/metadata.json",
+   "validacion": "Nayarit/ordenamientos/8/versiones/77395ac66870a5c15d2c20b38421e5747d9e8220205af3213e973be202622e31/validacion.json",
+   "articulado": "Nayarit/indices/articulos/8.json"
+  },
+  {
+   "id": 9,
+   "nombre": "Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Nayarit",
+   "nombre_oficial": "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/9/versiones/1c781a58b00e21cbf8a5a08814aafb14c5703dd9c4f10c067f436fa675a5b692/texto.md",
+   "metadata": "Nayarit/ordenamientos/9/versiones/1c781a58b00e21cbf8a5a08814aafb14c5703dd9c4f10c067f436fa675a5b692/metadata.json",
+   "validacion": "Nayarit/ordenamientos/9/versiones/1c781a58b00e21cbf8a5a08814aafb14c5703dd9c4f10c067f436fa675a5b692/validacion.json",
+   "articulado": "Nayarit/indices/articulos/9.json"
+  },
+  {
+   "id": 10,
+   "nombre": "Ley de Agua Potable y Alcantarillado del Estado de Nayarit",
+   "nombre_oficial": "LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/10/versiones/724700c9cc6367b9013c5e7a64a1eb19a82f4558abf15fae7e642c315778f508/texto.md",
+   "metadata": "Nayarit/ordenamientos/10/versiones/724700c9cc6367b9013c5e7a64a1eb19a82f4558abf15fae7e642c315778f508/metadata.json",
+   "validacion": "Nayarit/ordenamientos/10/versiones/724700c9cc6367b9013c5e7a64a1eb19a82f4558abf15fae7e642c315778f508/validacion.json",
+   "articulado": "Nayarit/indices/articulos/10.json"
+  },
+  {
+   "id": 11,
+   "nombre": "Ley de Amnistía del Estado de Nayarit",
+   "nombre_oficial": "LEY DE AMNISTÍA DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/11/versiones/a78048751a440cb4234b61f608cedbd062ef91fa908b8ffd3b0e487b848fc34f/texto.md",
+   "metadata": "Nayarit/ordenamientos/11/versiones/a78048751a440cb4234b61f608cedbd062ef91fa908b8ffd3b0e487b848fc34f/metadata.json",
+   "validacion": "Nayarit/ordenamientos/11/versiones/a78048751a440cb4234b61f608cedbd062ef91fa908b8ffd3b0e487b848fc34f/validacion.json",
+   "articulado": "Nayarit/indices/articulos/11.json"
+  },
+  {
+   "id": 12,
+   "nombre": "Ley Arancelaria de los Abogados para el Estado de Nayarit",
+   "nombre_oficial": "Ley Arancelaria de los Abogados para el Estado de Nayarit",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/12/versiones/7192089fe01a64be9f38ab3ef381b21571e24d75efbc0bf4c76d552406eb87fa/texto.md",
+   "metadata": "Nayarit/ordenamientos/12/versiones/7192089fe01a64be9f38ab3ef381b21571e24d75efbc0bf4c76d552406eb87fa/metadata.json",
+   "validacion": "Nayarit/ordenamientos/12/versiones/7192089fe01a64be9f38ab3ef381b21571e24d75efbc0bf4c76d552406eb87fa/validacion.json",
+   "articulado": "Nayarit/indices/articulos/12.json"
+  },
+  {
+   "id": 13,
+   "nombre": "Ley de Archivos del Estado de Nayarit",
+   "nombre_oficial": "LEY DE ARCHIVOS DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/13/versiones/6fe28e9e08d6a986fc162ad503f20ae8fec5d11c143e4bf4dfb59ca89b618a65/texto.md",
+   "metadata": "Nayarit/ordenamientos/13/versiones/6fe28e9e08d6a986fc162ad503f20ae8fec5d11c143e4bf4dfb59ca89b618a65/metadata.json",
+   "validacion": "Nayarit/ordenamientos/13/versiones/6fe28e9e08d6a986fc162ad503f20ae8fec5d11c143e4bf4dfb59ca89b618a65/validacion.json",
+   "articulado": "Nayarit/indices/articulos/13.json"
+  },
+  {
+   "id": 14,
+   "nombre": "Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nayarit",
+   "nombre_oficial": "LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/14/versiones/b2ef1fdced21032fc76998c6c0be168d9f8ae8a2cc8089a49a3b9173e7ef14b2/texto.md",
+   "metadata": "Nayarit/ordenamientos/14/versiones/b2ef1fdced21032fc76998c6c0be168d9f8ae8a2cc8089a49a3b9173e7ef14b2/metadata.json",
+   "validacion": "Nayarit/ordenamientos/14/versiones/b2ef1fdced21032fc76998c6c0be168d9f8ae8a2cc8089a49a3b9173e7ef14b2/validacion.json",
+   "articulado": "Nayarit/indices/articulos/14.json"
+  },
+  {
+   "id": 15,
+   "nombre": "Ley de Asociaciones Público Privadas del Estado de Nayarit",
+   "nombre_oficial": "LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/15/versiones/f8abaabb52efcf15bd8ffa646cec77f81adac082c84f65dd9ea867e01f4e6d5c/texto.md",
+   "metadata": "Nayarit/ordenamientos/15/versiones/f8abaabb52efcf15bd8ffa646cec77f81adac082c84f65dd9ea867e01f4e6d5c/metadata.json",
+   "validacion": "Nayarit/ordenamientos/15/versiones/f8abaabb52efcf15bd8ffa646cec77f81adac082c84f65dd9ea867e01f4e6d5c/validacion.json",
+   "articulado": "Nayarit/indices/articulos/15.json"
+  },
+  {
+   "id": 16,
+   "nombre": "Ley de Atención y Protección a Migrantes y sus Familias del Estado de Nayarit",
+   "nombre_oficial": "LEY DE ATENCIÓN Y PROTECCIÓN A MIGRANTES Y SUS FAMILIAS DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/16/versiones/4ed8c9b7006a2b8b612935f13599fe8d8d5da1b1693440cd658c609faf3c9262/texto.md",
+   "metadata": "Nayarit/ordenamientos/16/versiones/4ed8c9b7006a2b8b612935f13599fe8d8d5da1b1693440cd658c609faf3c9262/metadata.json",
+   "validacion": "Nayarit/ordenamientos/16/versiones/4ed8c9b7006a2b8b612935f13599fe8d8d5da1b1693440cd658c609faf3c9262/validacion.json",
+   "articulado": "Nayarit/indices/articulos/16.json"
+  },
+  {
+   "id": 17,
+   "nombre": "Ley para la Atención y Protección a Personas con la Condición del Espectro Autista del Estado de Nayarit",
+   "nombre_oficial": "LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/17/versiones/26a8fd691d00cc07525c431024939b4e63f133f4604f07bcb384e7d5c7fd8195/texto.md",
+   "metadata": "Nayarit/ordenamientos/17/versiones/26a8fd691d00cc07525c431024939b4e63f133f4604f07bcb384e7d5c7fd8195/metadata.json",
+   "validacion": "Nayarit/ordenamientos/17/versiones/26a8fd691d00cc07525c431024939b4e63f133f4604f07bcb384e7d5c7fd8195/validacion.json",
+   "articulado": "Nayarit/indices/articulos/17.json"
+  },
+  {
+   "id": 18,
+   "nombre": "Ley de Austeridad para el Estado de Nayarit",
+   "nombre_oficial": "LEY DE AUSTERIDAD PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/18/versiones/fb6362296e3b7747de5d5c8a478c19792565684cce69f6c7d49501f5f000e00e/texto.md",
+   "metadata": "Nayarit/ordenamientos/18/versiones/fb6362296e3b7747de5d5c8a478c19792565684cce69f6c7d49501f5f000e00e/metadata.json",
+   "validacion": "Nayarit/ordenamientos/18/versiones/fb6362296e3b7747de5d5c8a478c19792565684cce69f6c7d49501f5f000e00e/validacion.json",
+   "articulado": "Nayarit/indices/articulos/18.json"
+  },
+  {
+   "id": 19,
+   "nombre": "Ley de Beneméritos del Estado de Nayarit",
+   "nombre_oficial": "LEY DE BENEMÉRITOS DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/19/versiones/a89d5487d89cff22e9bb6272257ca03ce792bbb60ae84a453dc558884f879473/texto.md",
+   "metadata": "Nayarit/ordenamientos/19/versiones/a89d5487d89cff22e9bb6272257ca03ce792bbb60ae84a453dc558884f879473/metadata.json",
+   "validacion": "Nayarit/ordenamientos/19/versiones/a89d5487d89cff22e9bb6272257ca03ce792bbb60ae84a453dc558884f879473/validacion.json",
+   "articulado": "Nayarit/indices/articulos/19.json"
+  },
+  {
+   "id": 20,
+   "nombre": "Ley de Bienes del estado de Nayarit",
+   "nombre_oficial": "LEY DE BIENES DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/20/versiones/c9d2c9ab3995c27647929b78ad746b208d867fe4b9ec0528bb2d39dff93f30a5/texto.md",
+   "metadata": "Nayarit/ordenamientos/20/versiones/c9d2c9ab3995c27647929b78ad746b208d867fe4b9ec0528bb2d39dff93f30a5/metadata.json",
+   "validacion": "Nayarit/ordenamientos/20/versiones/c9d2c9ab3995c27647929b78ad746b208d867fe4b9ec0528bb2d39dff93f30a5/validacion.json",
+   "articulado": "Nayarit/indices/articulos/20.json"
+  },
+  {
+   "id": 21,
+   "nombre": "Ley de Catastro para el Estado de Nayarit",
+   "nombre_oficial": "LEY DE CATASTRO PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/21/versiones/75270d0f71b7d7878ba738765bc0feb8f84a44721dc7b1ef5b3f16f766177cfe/texto.md",
+   "metadata": "Nayarit/ordenamientos/21/versiones/75270d0f71b7d7878ba738765bc0feb8f84a44721dc7b1ef5b3f16f766177cfe/metadata.json",
+   "validacion": "Nayarit/ordenamientos/21/versiones/75270d0f71b7d7878ba738765bc0feb8f84a44721dc7b1ef5b3f16f766177cfe/validacion.json",
+   "articulado": "Nayarit/indices/articulos/21.json"
+  },
+  {
+   "id": 22,
+   "nombre": "Ley Categorías Políticas para las Poblaciones que forman el Estado de Nayarit, en relación con su División Política Territorial",
+   "nombre_oficial": null,
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/22/versiones/5f791265b680d7e9688448bf45bbb39ab56c0a220fa83486b6833ff3367ca1ef/texto.md",
+   "metadata": "Nayarit/ordenamientos/22/versiones/5f791265b680d7e9688448bf45bbb39ab56c0a220fa83486b6833ff3367ca1ef/metadata.json",
+   "validacion": "Nayarit/ordenamientos/22/versiones/5f791265b680d7e9688448bf45bbb39ab56c0a220fa83486b6833ff3367ca1ef/validacion.json",
+   "articulado": "Nayarit/indices/articulos/22.json"
+  },
+  {
+   "id": 23,
+   "nombre": "Ley de Ciencia, Tecnología e Innovación del Estado de Nayarit",
+   "nombre_oficial": "LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/23/versiones/8a6708b4f11759e767ab2f94ddb24b7477e0d6d4aa69a2bb0a9a1531fe213ad3/texto.md",
+   "metadata": "Nayarit/ordenamientos/23/versiones/8a6708b4f11759e767ab2f94ddb24b7477e0d6d4aa69a2bb0a9a1531fe213ad3/metadata.json",
+   "validacion": "Nayarit/ordenamientos/23/versiones/8a6708b4f11759e767ab2f94ddb24b7477e0d6d4aa69a2bb0a9a1531fe213ad3/validacion.json",
+   "articulado": "Nayarit/indices/articulos/23.json"
+  },
+  {
+   "id": 24,
+   "nombre": "Ley para la Competitividad y el Empleo del Estado de Nayarit",
+   "nombre_oficial": "LEY PARA LA COMPETITIVIDAD Y EL EMPLEO DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/24/versiones/62acb5260436c684d3e59649278061a4c0979f7c81e89a11f87e4cbd05fb85de/texto.md",
+   "metadata": "Nayarit/ordenamientos/24/versiones/62acb5260436c684d3e59649278061a4c0979f7c81e89a11f87e4cbd05fb85de/metadata.json",
+   "validacion": "Nayarit/ordenamientos/24/versiones/62acb5260436c684d3e59649278061a4c0979f7c81e89a11f87e4cbd05fb85de/validacion.json",
+   "articulado": "Nayarit/indices/articulos/24.json"
+  },
+  {
+   "id": 25,
+   "nombre": "Ley de Conservación, Protección y Puesta en Valor del Patrimonio Histórico y Cultural del Estado de Nayarit",
+   "nombre_oficial": null,
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/25/versiones/033de50eb8e9c042f4d88bfdfb0a2609d45a02972bb8377edcae4e69df11e9b8/texto.md",
+   "metadata": "Nayarit/ordenamientos/25/versiones/033de50eb8e9c042f4d88bfdfb0a2609d45a02972bb8377edcae4e69df11e9b8/metadata.json",
+   "validacion": "Nayarit/ordenamientos/25/versiones/033de50eb8e9c042f4d88bfdfb0a2609d45a02972bb8377edcae4e69df11e9b8/validacion.json",
+   "articulado": "Nayarit/indices/articulos/25.json"
+  },
+  {
+   "id": 26,
+   "nombre": "Ley de Control Constitucional del Estado de Nayarit",
+   "nombre_oficial": "LEY DE CONTROL CONSTITUCIONAL DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/26/versiones/bcb380483fabd367fc7b9527a2ade6092a176e62b231215d5f656c17f5302156/texto.md",
+   "metadata": "Nayarit/ordenamientos/26/versiones/bcb380483fabd367fc7b9527a2ade6092a176e62b231215d5f656c17f5302156/metadata.json",
+   "validacion": "Nayarit/ordenamientos/26/versiones/bcb380483fabd367fc7b9527a2ade6092a176e62b231215d5f656c17f5302156/validacion.json",
+   "articulado": "Nayarit/indices/articulos/26.json"
+  },
+  {
+   "id": 27,
+   "nombre": "Ley de Coordinación Fiscal y de Gasto Público del Estado de Nayarit",
+   "nombre_oficial": null,
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/27/versiones/e706e11df4b9fa0819751007f4a00dcc77189c58254f75149b627bc84456cad0/texto.md",
+   "metadata": "Nayarit/ordenamientos/27/versiones/e706e11df4b9fa0819751007f4a00dcc77189c58254f75149b627bc84456cad0/metadata.json",
+   "validacion": "Nayarit/ordenamientos/27/versiones/e706e11df4b9fa0819751007f4a00dcc77189c58254f75149b627bc84456cad0/validacion.json",
+   "articulado": "Nayarit/indices/articulos/27.json"
+  },
+  {
+   "id": 28,
+   "nombre": "Ley de Coordinación Metropolitana del Estado de Nayarit",
+   "nombre_oficial": "LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/28/versiones/b4ed8c3bf3b394b80b42391644f8553244a8b14ca7f858599485b94404c4cea9/texto.md",
+   "metadata": "Nayarit/ordenamientos/28/versiones/b4ed8c3bf3b394b80b42391644f8553244a8b14ca7f858599485b94404c4cea9/metadata.json",
+   "validacion": "Nayarit/ordenamientos/28/versiones/b4ed8c3bf3b394b80b42391644f8553244a8b14ca7f858599485b94404c4cea9/validacion.json",
+   "articulado": "Nayarit/indices/articulos/28.json"
+  },
+  {
+   "id": 29,
+   "nombre": "Ley que Crea el Consejo Estatal de Armonización Contable para Nayarit",
+   "nombre_oficial": "LEY QUE CREA EL CONSEJO ESTATAL DE ARMONIZACIÓN CONTABLE PARA NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/29/versiones/da9906785acc2c12ed4a692fa8bf88966ede9e2757fe78129197710cafd672fa/texto.md",
+   "metadata": "Nayarit/ordenamientos/29/versiones/da9906785acc2c12ed4a692fa8bf88966ede9e2757fe78129197710cafd672fa/metadata.json",
+   "validacion": "Nayarit/ordenamientos/29/versiones/da9906785acc2c12ed4a692fa8bf88966ede9e2757fe78129197710cafd672fa/validacion.json",
+   "articulado": "Nayarit/indices/articulos/29.json"
+  },
+  {
+   "id": 30,
+   "nombre": "Ley que Crea el Fondo de Garantías de Bienes y Valores del Gobierno del Estado",
+   "nombre_oficial": null,
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/30/versiones/baf4c54f4f2301d3f2b04ce996658fe2c9a95315a77ec4765b3af60fa5c82fbc/texto.md",
+   "metadata": "Nayarit/ordenamientos/30/versiones/baf4c54f4f2301d3f2b04ce996658fe2c9a95315a77ec4765b3af60fa5c82fbc/metadata.json",
+   "validacion": "Nayarit/ordenamientos/30/versiones/baf4c54f4f2301d3f2b04ce996658fe2c9a95315a77ec4765b3af60fa5c82fbc/validacion.json",
+   "articulado": "Nayarit/indices/articulos/30.json"
+  },
+  {
+   "id": 31,
+   "nombre": "Ley que Crea la Comisión de Financiamiento y Comercialización de Productos Agrícolas, Ganaderos, Pesqueros y Artesanales en el Estado de Nayarit",
+   "nombre_oficial": null,
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/31/versiones/fe3548dde21d68f9d02ea514c885842c3a4be79b60d9a2be6a6db23ea2a7981f/texto.md",
+   "metadata": "Nayarit/ordenamientos/31/versiones/fe3548dde21d68f9d02ea514c885842c3a4be79b60d9a2be6a6db23ea2a7981f/metadata.json",
+   "validacion": "Nayarit/ordenamientos/31/versiones/fe3548dde21d68f9d02ea514c885842c3a4be79b60d9a2be6a6db23ea2a7981f/validacion.json",
+   "articulado": "Nayarit/indices/articulos/31.json"
+  },
+  {
+   "id": 32,
+   "nombre": "Ley que Crea la Escuela Normal Superior del Estado de Nayarit",
+   "nombre_oficial": null,
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/32/versiones/398164eb87ba37cc8f292c6be4afe040e9be4755901d41c77f8e7d327f65f738/texto.md",
+   "metadata": "Nayarit/ordenamientos/32/versiones/398164eb87ba37cc8f292c6be4afe040e9be4755901d41c77f8e7d327f65f738/metadata.json",
+   "validacion": "Nayarit/ordenamientos/32/versiones/398164eb87ba37cc8f292c6be4afe040e9be4755901d41c77f8e7d327f65f738/validacion.json",
+   "articulado": "Nayarit/indices/articulos/32.json"
+  },
+  {
+   "id": 33,
+   "nombre": "Ley que Crea la Medalla Nayarit al Mérito",
+   "nombre_oficial": "LEY QUE CREA LA MEDALLA NAYARIT AL MÉRITO",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/33/versiones/e38155d665e035baf1f9529b3b192e78f3c844f7cc99ce974be12a7e2b97963a/texto.md",
+   "metadata": "Nayarit/ordenamientos/33/versiones/e38155d665e035baf1f9529b3b192e78f3c844f7cc99ce974be12a7e2b97963a/metadata.json",
+   "validacion": "Nayarit/ordenamientos/33/versiones/e38155d665e035baf1f9529b3b192e78f3c844f7cc99ce974be12a7e2b97963a/validacion.json",
+   "articulado": "Nayarit/indices/articulos/33.json"
+  },
+  {
+   "id": 34,
+   "nombre": "Ley que Crea la Procuraduría de la Defensa del Menor y la Familia en el Estado de Nayarit",
+   "nombre_oficial": null,
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/34/versiones/a57ea5d22b09bb26a7ea5fdffec4165635becea4ee1ca93c448f85a1955ff480/texto.md",
+   "metadata": "Nayarit/ordenamientos/34/versiones/a57ea5d22b09bb26a7ea5fdffec4165635becea4ee1ca93c448f85a1955ff480/metadata.json",
+   "validacion": "Nayarit/ordenamientos/34/versiones/a57ea5d22b09bb26a7ea5fdffec4165635becea4ee1ca93c448f85a1955ff480/validacion.json",
+   "articulado": "Nayarit/indices/articulos/34.json"
+  },
+  {
+   "id": 35,
+   "nombre": "Ley para la Creación, Fomento y Protección de Nuevos Conjuntos, Parques y Ciudades Industriales en el Estado de Nayarit",
+   "nombre_oficial": null,
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/35/versiones/a344928a51e3795b66352ef81027d6638e7ece95c6462dd94f156b898bf5b171/texto.md",
+   "metadata": "Nayarit/ordenamientos/35/versiones/a344928a51e3795b66352ef81027d6638e7ece95c6462dd94f156b898bf5b171/metadata.json",
+   "validacion": "Nayarit/ordenamientos/35/versiones/a344928a51e3795b66352ef81027d6638e7ece95c6462dd94f156b898bf5b171/validacion.json",
+   "articulado": "Nayarit/indices/articulos/35.json"
+  },
+  {
+   "id": 36,
+   "nombre": "Ley de Cultura Física y Deporte para el Estado de Nayarit",
+   "nombre_oficial": "LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/36/versiones/0bca7a58b13259685e254dd44cc20ac6096428b30c64a085812585e08ae70376/texto.md",
+   "metadata": "Nayarit/ordenamientos/36/versiones/0bca7a58b13259685e254dd44cc20ac6096428b30c64a085812585e08ae70376/metadata.json",
+   "validacion": "Nayarit/ordenamientos/36/versiones/0bca7a58b13259685e254dd44cc20ac6096428b30c64a085812585e08ae70376/validacion.json",
+   "articulado": "Nayarit/indices/articulos/36.json"
+  },
+  {
+   "id": 37,
+   "nombre": "Ley de Cultura y Justicia Cívica para el Estado de Nayarit",
+   "nombre_oficial": "LEY DE CULTURA Y JUSTICIA CÍVICA PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/37/versiones/db88933a0189c7a9d38a4c7a0c4506c12476f2a61eea1253ed46c1697e0ed9ce/texto.md",
+   "metadata": "Nayarit/ordenamientos/37/versiones/db88933a0189c7a9d38a4c7a0c4506c12476f2a61eea1253ed46c1697e0ed9ce/metadata.json",
+   "validacion": "Nayarit/ordenamientos/37/versiones/db88933a0189c7a9d38a4c7a0c4506c12476f2a61eea1253ed46c1697e0ed9ce/validacion.json",
+   "articulado": "Nayarit/indices/articulos/37.json"
+  },
+  {
+   "id": 38,
+   "nombre": "Ley de Declaración Especial de Ausencia para Personas Desaparecidas del Estado de Nayarit",
+   "nombre_oficial": "LEY DE DECLARACIÓN ESPECIAL DE AUSENCIA PARA PERSONAS DESAPARECIDAS DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/38/versiones/f869e9d8181a33ad08be914e3050df1717a133561e0caa8757b64753a96093ca/texto.md",
+   "metadata": "Nayarit/ordenamientos/38/versiones/f869e9d8181a33ad08be914e3050df1717a133561e0caa8757b64753a96093ca/metadata.json",
+   "validacion": "Nayarit/ordenamientos/38/versiones/f869e9d8181a33ad08be914e3050df1717a133561e0caa8757b64753a96093ca/validacion.json",
+   "articulado": "Nayarit/indices/articulos/38.json"
+  },
+  {
+   "id": 39,
+   "nombre": "Ley de Defensoría Pública y Asistencia Jurídica para el Estado de Nayarit",
+   "nombre_oficial": "LEY DE DEFENSORÍA PÚBLICA Y ASISTENCIA JURÍDICA PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/39/versiones/5fd56311d5d60eefebe995a0327e4706ef3dbd84d675bfd363a43ea6eb7faebc/texto.md",
+   "metadata": "Nayarit/ordenamientos/39/versiones/5fd56311d5d60eefebe995a0327e4706ef3dbd84d675bfd363a43ea6eb7faebc/metadata.json",
+   "validacion": "Nayarit/ordenamientos/39/versiones/5fd56311d5d60eefebe995a0327e4706ef3dbd84d675bfd363a43ea6eb7faebc/validacion.json",
+   "articulado": "Nayarit/indices/articulos/39.json"
+  },
+  {
+   "id": 40,
+   "nombre": "Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Nayarit",
+   "nombre_oficial": "LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/40/versiones/3cb92fe5f38eec1e49f60561e7a0290d9a713b0dd2304b3e44fe7777a4dbd110/texto.md",
+   "metadata": "Nayarit/ordenamientos/40/versiones/3cb92fe5f38eec1e49f60561e7a0290d9a713b0dd2304b3e44fe7777a4dbd110/metadata.json",
+   "validacion": "Nayarit/ordenamientos/40/versiones/3cb92fe5f38eec1e49f60561e7a0290d9a713b0dd2304b3e44fe7777a4dbd110/validacion.json",
+   "articulado": "Nayarit/indices/articulos/40.json"
+  },
+  {
+   "id": 41,
+   "nombre": "Ley de los Derechos de las Personas Adultas Mayores para el Estado de Nayarit",
+   "nombre_oficial": "LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/41/versiones/6fecca3a01b4013715cebf00a440a6ba059cca518776810c9cd4bfd141a75d50/texto.md",
+   "metadata": "Nayarit/ordenamientos/41/versiones/6fecca3a01b4013715cebf00a440a6ba059cca518776810c9cd4bfd141a75d50/metadata.json",
+   "validacion": "Nayarit/ordenamientos/41/versiones/6fecca3a01b4013715cebf00a440a6ba059cca518776810c9cd4bfd141a75d50/validacion.json",
+   "articulado": "Nayarit/indices/articulos/41.json"
+  },
+  {
+   "id": 42,
+   "nombre": "Ley de Derechos de los Enfermos en Etapa Terminal para el Estado de Nayarit",
+   "nombre_oficial": "LEY DE DERECHOS DE LOS ENFERMOS EN ETAPA TERMINAL PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/42/versiones/a65aed7824e424718a6fd3e67bb420da2af8b8cbc5d8a30445b81ad138135b93/texto.md",
+   "metadata": "Nayarit/ordenamientos/42/versiones/a65aed7824e424718a6fd3e67bb420da2af8b8cbc5d8a30445b81ad138135b93/metadata.json",
+   "validacion": "Nayarit/ordenamientos/42/versiones/a65aed7824e424718a6fd3e67bb420da2af8b8cbc5d8a30445b81ad138135b93/validacion.json",
+   "articulado": "Nayarit/indices/articulos/42.json"
+  },
+  {
+   "id": 43,
+   "nombre": "Ley de Derechos y Cultura Indígena del Estado de Nayarit",
+   "nombre_oficial": "LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/43/versiones/f4e5bc8214a5711b5019b553654ba32b33660b88a508029a2e1a13efb2c9c231/texto.md",
+   "metadata": "Nayarit/ordenamientos/43/versiones/f4e5bc8214a5711b5019b553654ba32b33660b88a508029a2e1a13efb2c9c231/metadata.json",
+   "validacion": "Nayarit/ordenamientos/43/versiones/f4e5bc8214a5711b5019b553654ba32b33660b88a508029a2e1a13efb2c9c231/validacion.json",
+   "articulado": "Nayarit/indices/articulos/43.json"
+  },
+  {
+   "id": 44,
+   "nombre": "Ley de Derechos y Justicia Laboral para los Trabajadores al Servicio del Estado de Nayarit",
+   "nombre_oficial": "LEY DE DERECHOS Y JUSTICIA LABORAL PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/44/versiones/2778ef9eec0f8da43d8a63f145b5938d83acda61c715c562b9d9777199eac49b/texto.md",
+   "metadata": "Nayarit/ordenamientos/44/versiones/2778ef9eec0f8da43d8a63f145b5938d83acda61c715c562b9d9777199eac49b/metadata.json",
+   "validacion": "Nayarit/ordenamientos/44/versiones/2778ef9eec0f8da43d8a63f145b5938d83acda61c715c562b9d9777199eac49b/validacion.json",
+   "articulado": "Nayarit/indices/articulos/44.json"
+  },
+  {
+   "id": 45,
+   "nombre": "Ley en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema de Búsqueda de Personas para el Estado de Nayarit",
+   "nombre_oficial": "Ley en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema de Búsqueda de Personas para el Estado de Nayarit",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/45/versiones/ac5296fdfae02e832bc5f3bfc1d57e7ed01cb824aa78a0f8f3c0d2c3d904f5ed/texto.md",
+   "metadata": "Nayarit/ordenamientos/45/versiones/ac5296fdfae02e832bc5f3bfc1d57e7ed01cb824aa78a0f8f3c0d2c3d904f5ed/metadata.json",
+   "validacion": "Nayarit/ordenamientos/45/versiones/ac5296fdfae02e832bc5f3bfc1d57e7ed01cb824aa78a0f8f3c0d2c3d904f5ed/validacion.json",
+   "articulado": "Nayarit/indices/articulos/45.json"
+  },
+  {
+   "id": 46,
+   "nombre": "Ley para el Desarrollo Agrícola Sustentable del Estado de Nayarit",
+   "nombre_oficial": "LEY PARA EL DESARROLLO AGRÍCOLA SUSTENTABLE DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/46/versiones/48ef89a11f4d5ded024d26f8dc6006a7b49ccbc834629bf4cd6dc1f6d8e1f8d3/texto.md",
+   "metadata": "Nayarit/ordenamientos/46/versiones/48ef89a11f4d5ded024d26f8dc6006a7b49ccbc834629bf4cd6dc1f6d8e1f8d3/metadata.json",
+   "validacion": "Nayarit/ordenamientos/46/versiones/48ef89a11f4d5ded024d26f8dc6006a7b49ccbc834629bf4cd6dc1f6d8e1f8d3/validacion.json",
+   "articulado": "Nayarit/indices/articulos/46.json"
+  },
+  {
+   "id": 47,
+   "nombre": "Ley de Desarrollo Cultural para el Estado de Nayarit",
+   "nombre_oficial": null,
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/47/versiones/5fb919ab9ae81d7b7c5fac25e0729d0c481164e2c3c634705a77da863c68e57e/texto.md",
+   "metadata": "Nayarit/ordenamientos/47/versiones/5fb919ab9ae81d7b7c5fac25e0729d0c481164e2c3c634705a77da863c68e57e/metadata.json",
+   "validacion": "Nayarit/ordenamientos/47/versiones/5fb919ab9ae81d7b7c5fac25e0729d0c481164e2c3c634705a77da863c68e57e/validacion.json",
+   "articulado": "Nayarit/indices/articulos/47.json"
+  },
+  {
+   "id": 48,
+   "nombre": "Ley de Desarrollo Forestal Sustentable para el Estado de Nayarit",
+   "nombre_oficial": "LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/48/versiones/c91908b83f9d9d73134d434f7a7e714dbb94d51bb4a7c82407874019d75f6130/texto.md",
+   "metadata": "Nayarit/ordenamientos/48/versiones/c91908b83f9d9d73134d434f7a7e714dbb94d51bb4a7c82407874019d75f6130/metadata.json",
+   "validacion": "Nayarit/ordenamientos/48/versiones/c91908b83f9d9d73134d434f7a7e714dbb94d51bb4a7c82407874019d75f6130/validacion.json",
+   "articulado": "Nayarit/indices/articulos/48.json"
+  },
+  {
+   "id": 49,
+   "nombre": "Ley para el Desarrollo Social del Estado de Nayarit",
+   "nombre_oficial": "LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/49/versiones/fdc24713d34d25fe28d19ab3f457becb7127c6b690e0fe3f0f73bedf0616c99f/texto.md",
+   "metadata": "Nayarit/ordenamientos/49/versiones/fdc24713d34d25fe28d19ab3f457becb7127c6b690e0fe3f0f73bedf0616c99f/metadata.json",
+   "validacion": "Nayarit/ordenamientos/49/versiones/fdc24713d34d25fe28d19ab3f457becb7127c6b690e0fe3f0f73bedf0616c99f/validacion.json",
+   "articulado": "Nayarit/indices/articulos/49.json"
+  },
+  {
+   "id": 50,
+   "nombre": "Ley de Deuda Pública del Estado de Nayarit",
+   "nombre_oficial": "LEY DE DEUDA PÚBLICA DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/50/versiones/c7fcdff30a83bbd32f1104d8ddca28989cb563524d1af67058ceb70f405d3060/texto.md",
+   "metadata": "Nayarit/ordenamientos/50/versiones/c7fcdff30a83bbd32f1104d8ddca28989cb563524d1af67058ceb70f405d3060/metadata.json",
+   "validacion": "Nayarit/ordenamientos/50/versiones/c7fcdff30a83bbd32f1104d8ddca28989cb563524d1af67058ceb70f405d3060/validacion.json",
+   "articulado": "Nayarit/indices/articulos/50.json"
+  },
+  {
+   "id": 51,
+   "nombre": "Ley de División Territorial del Estado de Nayarit",
+   "nombre_oficial": null,
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/51/versiones/d076db071043f3a4d02459d84da0be1519d43d1879856e7a9a5f807ecc970f41/texto.md",
+   "metadata": "Nayarit/ordenamientos/51/versiones/d076db071043f3a4d02459d84da0be1519d43d1879856e7a9a5f807ecc970f41/metadata.json",
+   "validacion": "Nayarit/ordenamientos/51/versiones/d076db071043f3a4d02459d84da0be1519d43d1879856e7a9a5f807ecc970f41/validacion.json",
+   "articulado": "Nayarit/indices/articulos/51.json"
+  },
+  {
+   "id": 52,
+   "nombre": "Ley de Educación del Estado de Nayarit",
+   "nombre_oficial": "LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/52/versiones/28345e80e869dc75febff82e339816060dff6ac5753b5f1818cfa0becd7fc7bc/texto.md",
+   "metadata": "Nayarit/ordenamientos/52/versiones/28345e80e869dc75febff82e339816060dff6ac5753b5f1818cfa0becd7fc7bc/metadata.json",
+   "validacion": "Nayarit/ordenamientos/52/versiones/28345e80e869dc75febff82e339816060dff6ac5753b5f1818cfa0becd7fc7bc/validacion.json",
+   "articulado": "Nayarit/indices/articulos/52.json"
+  },
+  {
+   "id": 53,
+   "nombre": "Ley de Educación Superior del Estado de Nayarit",
+   "nombre_oficial": "LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/53/versiones/ee2e00d30d837c699129d9cea8b8651c242af5094d66abd2c4e99951f19f1cb0/texto.md",
+   "metadata": "Nayarit/ordenamientos/53/versiones/ee2e00d30d837c699129d9cea8b8651c242af5094d66abd2c4e99951f19f1cb0/metadata.json",
+   "validacion": "Nayarit/ordenamientos/53/versiones/ee2e00d30d837c699129d9cea8b8651c242af5094d66abd2c4e99951f19f1cb0/validacion.json",
+   "articulado": "Nayarit/indices/articulos/53.json"
+  },
+  {
+   "id": 54,
+   "nombre": "Ley para el Ejercicio de las Profesiones y Actividades Técnicas en el Estado de Nayarit",
+   "nombre_oficial": null,
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/54/versiones/94a2212e74ce5d3dfcbdc724bb3e0b3ba5aea82036b2dcd133eaeea904e10281/texto.md",
+   "metadata": "Nayarit/ordenamientos/54/versiones/94a2212e74ce5d3dfcbdc724bb3e0b3ba5aea82036b2dcd133eaeea904e10281/metadata.json",
+   "validacion": "Nayarit/ordenamientos/54/versiones/94a2212e74ce5d3dfcbdc724bb3e0b3ba5aea82036b2dcd133eaeea904e10281/validacion.json",
+   "articulado": "Nayarit/indices/articulos/54.json"
+  },
+  {
+   "id": 55,
+   "nombre": "Ley Electoral del Estado de Nayarit",
+   "nombre_oficial": "LEY ELECTORAL DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/55/versiones/d1121a4100548a54e212b0520f2302716d26f5f471382fdcc9fef015a47f0ce3/texto.md",
+   "metadata": "Nayarit/ordenamientos/55/versiones/d1121a4100548a54e212b0520f2302716d26f5f471382fdcc9fef015a47f0ce3/metadata.json",
+   "validacion": "Nayarit/ordenamientos/55/versiones/d1121a4100548a54e212b0520f2302716d26f5f471382fdcc9fef015a47f0ce3/validacion.json",
+   "articulado": "Nayarit/indices/articulos/55.json"
+  },
+  {
+   "id": 56,
+   "nombre": "Ley de Empresas Públicas Descentralizadas del Estado de Nayarit",
+   "nombre_oficial": null,
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/56/versiones/f348ecf105b5727111a25885d6cd824c0db0627e807174b81c1297c040bd8962/texto.md",
+   "metadata": "Nayarit/ordenamientos/56/versiones/f348ecf105b5727111a25885d6cd824c0db0627e807174b81c1297c040bd8962/metadata.json",
+   "validacion": "Nayarit/ordenamientos/56/versiones/f348ecf105b5727111a25885d6cd824c0db0627e807174b81c1297c040bd8962/validacion.json",
+   "articulado": "Nayarit/indices/articulos/56.json"
+  },
+  {
+   "id": 57,
+   "nombre": "Ley de Entrega Recepción de la Administración Pública del Estado de Nayarit",
+   "nombre_oficial": "LEY DE ENTREGA RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/57/versiones/c38705bdf137c278216f15d9991b25aaa9983e29304b24fc057d94fb1315ef03/texto.md",
+   "metadata": "Nayarit/ordenamientos/57/versiones/c38705bdf137c278216f15d9991b25aaa9983e29304b24fc057d94fb1315ef03/metadata.json",
+   "validacion": "Nayarit/ordenamientos/57/versiones/c38705bdf137c278216f15d9991b25aaa9983e29304b24fc057d94fb1315ef03/validacion.json",
+   "articulado": "Nayarit/indices/articulos/57.json"
+  },
+  {
+   "id": 58,
+   "nombre": "Ley Estatal del Equilibrio Ecológico y Protección al Ambiente del Estado de Nayarit",
+   "nombre_oficial": "LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/58/versiones/be02ec51c798f5b5e3d13efa79c5bc3c40c86961e17fe156e5782762a80b2b88/texto.md",
+   "metadata": "Nayarit/ordenamientos/58/versiones/be02ec51c798f5b5e3d13efa79c5bc3c40c86961e17fe156e5782762a80b2b88/metadata.json",
+   "validacion": "Nayarit/ordenamientos/58/versiones/be02ec51c798f5b5e3d13efa79c5bc3c40c86961e17fe156e5782762a80b2b88/validacion.json",
+   "articulado": "Nayarit/indices/articulos/58.json"
+  },
+  {
+   "id": 59,
+   "nombre": "Ley que Establece el Derecho de Vía y Su Aprovechamiento en las Vías de Comunicación Terrestre del Estado de Nayarit",
+   "nombre_oficial": "LEY QUE ESTABLECE EL DERECHO DE VÍA Y SU APROVECHAMIENTO EN LAS VÍAS DE COMUNICACIÓN TERRESTRE DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/59/versiones/f67b29f3d37338bc2152e060177421cd913940dd39ab25fc404ec79d2ab99019/texto.md",
+   "metadata": "Nayarit/ordenamientos/59/versiones/f67b29f3d37338bc2152e060177421cd913940dd39ab25fc404ec79d2ab99019/metadata.json",
+   "validacion": "Nayarit/ordenamientos/59/versiones/f67b29f3d37338bc2152e060177421cd913940dd39ab25fc404ec79d2ab99019/validacion.json",
+   "articulado": "Nayarit/indices/articulos/59.json"
+  },
+  {
+   "id": 60,
+   "nombre": "Ley que Establece las Bases y Lineamientos para la Delimitación Territorial del Estado de Nayarit y sus Municipios",
+   "nombre_oficial": "LEY QUE ESTABLECE LAS BASES Y LINEAMIENTOS PARA LA DELIMITACIÓN TERRITORIAL DEL ESTADO DE NAYARIT Y SUS MUNICIPIOS",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/60/versiones/73af878da722d56e36c78059cad033a74332e99ec4127bbdfccc33fe494a4563/texto.md",
+   "metadata": "Nayarit/ordenamientos/60/versiones/73af878da722d56e36c78059cad033a74332e99ec4127bbdfccc33fe494a4563/metadata.json",
+   "validacion": "Nayarit/ordenamientos/60/versiones/73af878da722d56e36c78059cad033a74332e99ec4127bbdfccc33fe494a4563/validacion.json",
+   "articulado": "Nayarit/indices/articulos/60.json"
+  },
+  {
+   "id": 61,
+   "nombre": "Ley para Evaluar el Desempeño de Servidores Públicos del Estado de Nayarit",
+   "nombre_oficial": "LEY PARA EVALUAR EL DESEMPEÑO DE SERVIDORES PÚBLICOS DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/61/versiones/aba5152a0ea96d420273d84eedae649a5b9f7a6f477d43ebbb96deb8855a6c21/texto.md",
+   "metadata": "Nayarit/ordenamientos/61/versiones/aba5152a0ea96d420273d84eedae649a5b9f7a6f477d43ebbb96deb8855a6c21/metadata.json",
+   "validacion": "Nayarit/ordenamientos/61/versiones/aba5152a0ea96d420273d84eedae649a5b9f7a6f477d43ebbb96deb8855a6c21/validacion.json",
+   "articulado": "Nayarit/indices/articulos/61.json"
+  },
+  {
+   "id": 62,
+   "nombre": "Ley de Expropiación del Estado de Nayarit",
+   "nombre_oficial": null,
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/62/versiones/c63cc05e9c9d218a46adca9fd547053706d9e6fb661e80d408c7555e416e0e72/texto.md",
+   "metadata": "Nayarit/ordenamientos/62/versiones/c63cc05e9c9d218a46adca9fd547053706d9e6fb661e80d408c7555e416e0e72/metadata.json",
+   "validacion": "Nayarit/ordenamientos/62/versiones/c63cc05e9c9d218a46adca9fd547053706d9e6fb661e80d408c7555e416e0e72/validacion.json",
+   "articulado": "Nayarit/indices/articulos/62.json"
+  },
+  {
+   "id": 63,
+   "nombre": "Ley de Firma Electrónica Avanzada para el Estado de Nayarit",
+   "nombre_oficial": "LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/63/versiones/ae111b0b2019c0d6abef853df2cce15c8692810e0694674e1e80c5b315d2cb55/texto.md",
+   "metadata": "Nayarit/ordenamientos/63/versiones/ae111b0b2019c0d6abef853df2cce15c8692810e0694674e1e80c5b315d2cb55/metadata.json",
+   "validacion": "Nayarit/ordenamientos/63/versiones/ae111b0b2019c0d6abef853df2cce15c8692810e0694674e1e80c5b315d2cb55/validacion.json",
+   "articulado": "Nayarit/indices/articulos/63.json"
+  },
+  {
+   "id": 64,
+   "nombre": "Ley de Fiscalización y Rendición de Cuentas del Estado de Nayarit",
+   "nombre_oficial": "LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/64/versiones/0dc9bbb579caf9d18e4411b6ee820d4c0d62445b772bf79bf7b26273b779de7a/texto.md",
+   "metadata": "Nayarit/ordenamientos/64/versiones/0dc9bbb579caf9d18e4411b6ee820d4c0d62445b772bf79bf7b26273b779de7a/metadata.json",
+   "validacion": "Nayarit/ordenamientos/64/versiones/0dc9bbb579caf9d18e4411b6ee820d4c0d62445b772bf79bf7b26273b779de7a/validacion.json",
+   "articulado": "Nayarit/indices/articulos/64.json"
+  },
+  {
+   "id": 65,
+   "nombre": "Ley para Fomentar la Donación Altruista de Artículos de Primera Necesidad del Estado de Nayarit",
+   "nombre_oficial": "LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/65/versiones/2416d685cea6a8d52bad1aa7171113f2693066796e49f9c8b8ea9a15e1bd57ae/texto.md",
+   "metadata": "Nayarit/ordenamientos/65/versiones/2416d685cea6a8d52bad1aa7171113f2693066796e49f9c8b8ea9a15e1bd57ae/metadata.json",
+   "validacion": "Nayarit/ordenamientos/65/versiones/2416d685cea6a8d52bad1aa7171113f2693066796e49f9c8b8ea9a15e1bd57ae/validacion.json",
+   "articulado": "Nayarit/indices/articulos/65.json"
+  },
+  {
+   "id": 66,
+   "nombre": "Ley de Fomento a las Actividades de las Organizaciones de la Sociedad Civil en el Estado de Nayarit",
+   "nombre_oficial": "LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/66/versiones/50aa3c168fd1f76a91d2c70e4c5a8ae50f73aca7eaae51e1ca704a6be9261a14/texto.md",
+   "metadata": "Nayarit/ordenamientos/66/versiones/50aa3c168fd1f76a91d2c70e4c5a8ae50f73aca7eaae51e1ca704a6be9261a14/metadata.json",
+   "validacion": "Nayarit/ordenamientos/66/versiones/50aa3c168fd1f76a91d2c70e4c5a8ae50f73aca7eaae51e1ca704a6be9261a14/validacion.json",
+   "articulado": "Nayarit/indices/articulos/66.json"
+  },
+  {
+   "id": 67,
+   "nombre": "Ley de Fomento al Turismo del Estado de Nayarit",
+   "nombre_oficial": "LEY DE FOMENTO AL TURISMO DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/67/versiones/d77e25948b9fd632e3feaf07cde47ab967725bc9f5a39d9d23910231997da2f7/texto.md",
+   "metadata": "Nayarit/ordenamientos/67/versiones/d77e25948b9fd632e3feaf07cde47ab967725bc9f5a39d9d23910231997da2f7/metadata.json",
+   "validacion": "Nayarit/ordenamientos/67/versiones/d77e25948b9fd632e3feaf07cde47ab967725bc9f5a39d9d23910231997da2f7/validacion.json",
+   "articulado": "Nayarit/indices/articulos/67.json"
+  },
+  {
+   "id": 68,
+   "nombre": "Ley de Fomento para la Creación de Libros y la Lectura del Estado de Nayarit",
+   "nombre_oficial": "LEY DE FOMENTO PARA LA CREACIÓN DE LIBROS Y LA LECTURA DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/68/versiones/ac3867918887477321a64b0e97e42e6fb99122e77905e313722a5f8c1b63f91b/texto.md",
+   "metadata": "Nayarit/ordenamientos/68/versiones/ac3867918887477321a64b0e97e42e6fb99122e77905e313722a5f8c1b63f91b/metadata.json",
+   "validacion": "Nayarit/ordenamientos/68/versiones/ac3867918887477321a64b0e97e42e6fb99122e77905e313722a5f8c1b63f91b/validacion.json",
+   "articulado": "Nayarit/indices/articulos/68.json"
+  },
+  {
+   "id": 69,
+   "nombre": "Ley del Fondo de Ahorro para el Retiro Digno de las Trabajadoras y de los Trabajadores del Estado Libre y Soberano de Nayarit",
+   "nombre_oficial": "LEY DEL FONDO DE AHORRO PARA EL RETIRO DIGNO DE LAS TRABAJADORAS Y DE LOS TRABAJADORES DEL ESTADO LIBRE Y SOBERANO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/69/versiones/7f003ecb705b23933970b60c7663b131f0baa623d01ebab4f2e631e6b027d975/texto.md",
+   "metadata": "Nayarit/ordenamientos/69/versiones/7f003ecb705b23933970b60c7663b131f0baa623d01ebab4f2e631e6b027d975/metadata.json",
+   "validacion": "Nayarit/ordenamientos/69/versiones/7f003ecb705b23933970b60c7663b131f0baa623d01ebab4f2e631e6b027d975/validacion.json",
+   "articulado": "Nayarit/indices/articulos/69.json"
+  },
+  {
+   "id": 70,
+   "nombre": "Ley del Fondo Soberano Nuevo Nayarit",
+   "nombre_oficial": "LEY DEL FONDO SOBERANO NUEVO NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/70/versiones/09fad900bd4c68a065a258465731138a96fa431f749eeb1536a5fbaa983b6fe1/texto.md",
+   "metadata": "Nayarit/ordenamientos/70/versiones/09fad900bd4c68a065a258465731138a96fa431f749eeb1536a5fbaa983b6fe1/metadata.json",
+   "validacion": "Nayarit/ordenamientos/70/versiones/09fad900bd4c68a065a258465731138a96fa431f749eeb1536a5fbaa983b6fe1/validacion.json",
+   "articulado": "Nayarit/indices/articulos/70.json"
+  },
+  {
+   "id": 71,
+   "nombre": "Ley de Fraccionamientos y Acciones de Urbanización del Estado de Nayarit",
+   "nombre_oficial": "LEY DE FRACCIONAMIENTOS Y ACCIONES DE URBANIZACIÓN DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/71/versiones/c9bf4a47289e64569a19324f725b91229f273ebb6f6520e31b9440d2c1fdc64f/texto.md",
+   "metadata": "Nayarit/ordenamientos/71/versiones/c9bf4a47289e64569a19324f725b91229f273ebb6f6520e31b9440d2c1fdc64f/metadata.json",
+   "validacion": "Nayarit/ordenamientos/71/versiones/c9bf4a47289e64569a19324f725b91229f273ebb6f6520e31b9440d2c1fdc64f/validacion.json",
+   "articulado": "Nayarit/indices/articulos/71.json"
+  },
+  {
+   "id": 72,
+   "nombre": "Ley Ganadera y de Desarrollo Pecuario para el Estado de Nayarit",
+   "nombre_oficial": "LEY GANADERA Y DE DESARROLLO PECUARIO PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/72/versiones/d50615b5896ba013f372a92588eea5df9278de246ab6101f51379efb58f3320e/texto.md",
+   "metadata": "Nayarit/ordenamientos/72/versiones/d50615b5896ba013f372a92588eea5df9278de246ab6101f51379efb58f3320e/metadata.json",
+   "validacion": "Nayarit/ordenamientos/72/versiones/d50615b5896ba013f372a92588eea5df9278de246ab6101f51379efb58f3320e/validacion.json",
+   "articulado": "Nayarit/indices/articulos/72.json"
+  },
+  {
+   "id": 73,
+   "nombre": "Ley de Gobierno Digital para el Estado de Nayarit",
+   "nombre_oficial": "LEY DE GOBIERNO DIGITAL PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/73/versiones/3338309a5f7b909aaa921b1628bc8e5c9b7150091f1d62070f3a29df0fc417ca/texto.md",
+   "metadata": "Nayarit/ordenamientos/73/versiones/3338309a5f7b909aaa921b1628bc8e5c9b7150091f1d62070f3a29df0fc417ca/metadata.json",
+   "validacion": "Nayarit/ordenamientos/73/versiones/3338309a5f7b909aaa921b1628bc8e5c9b7150091f1d62070f3a29df0fc417ca/validacion.json",
+   "articulado": "Nayarit/indices/articulos/73.json"
+  },
+  {
+   "id": 74,
+   "nombre": "Ley de Hacienda del Estado de Nayarit",
+   "nombre_oficial": "LEY DE HACIENDA DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/74/versiones/40ae0098ed30d8baf4cd20dbe6c134e6380ebec7cc911e9796a542731c773034/texto.md",
+   "metadata": "Nayarit/ordenamientos/74/versiones/40ae0098ed30d8baf4cd20dbe6c134e6380ebec7cc911e9796a542731c773034/metadata.json",
+   "validacion": "Nayarit/ordenamientos/74/versiones/40ae0098ed30d8baf4cd20dbe6c134e6380ebec7cc911e9796a542731c773034/validacion.json",
+   "articulado": "Nayarit/indices/articulos/74.json"
+  },
+  {
+   "id": 75,
+   "nombre": "Ley de Igualdad entre Mujeres y Hombres",
+   "nombre_oficial": "LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/75/versiones/a70b7005d6010be2c467630e47e6099fdf4e186c64c320cc6fc40f4371936078/texto.md",
+   "metadata": "Nayarit/ordenamientos/75/versiones/a70b7005d6010be2c467630e47e6099fdf4e186c64c320cc6fc40f4371936078/metadata.json",
+   "validacion": "Nayarit/ordenamientos/75/versiones/a70b7005d6010be2c467630e47e6099fdf4e186c64c320cc6fc40f4371936078/validacion.json",
+   "articulado": "Nayarit/indices/articulos/75.json"
+  },
+  {
+   "id": 76,
+   "nombre": "Ley de Imagen Institucional para el Estado de Nayarit",
+   "nombre_oficial": "LEY DE IMAGEN INSTITUCIONAL PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/76/versiones/69dbfe86d674a009b1bdc82d9c63df455521d76e2a7dbf3eb5b293c526c641b7/texto.md",
+   "metadata": "Nayarit/ordenamientos/76/versiones/69dbfe86d674a009b1bdc82d9c63df455521d76e2a7dbf3eb5b293c526c641b7/metadata.json",
+   "validacion": "Nayarit/ordenamientos/76/versiones/69dbfe86d674a009b1bdc82d9c63df455521d76e2a7dbf3eb5b293c526c641b7/validacion.json",
+   "articulado": "Nayarit/indices/articulos/76.json"
+  },
+  {
+   "id": 77,
+   "nombre": "Ley de Inversión Pública para el Estado de Nayarit",
+   "nombre_oficial": null,
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/77/versiones/6a02dc1d02001041d4efb215f19139a062eb98e57a11fa3232425ab7a44b4d97/texto.md",
+   "metadata": "Nayarit/ordenamientos/77/versiones/6a02dc1d02001041d4efb215f19139a062eb98e57a11fa3232425ab7a44b4d97/metadata.json",
+   "validacion": "Nayarit/ordenamientos/77/versiones/6a02dc1d02001041d4efb215f19139a062eb98e57a11fa3232425ab7a44b4d97/validacion.json",
+   "articulado": "Nayarit/indices/articulos/77.json"
+  },
+  {
+   "id": 78,
+   "nombre": "Ley de Justicia Alternativa para el Estado de Nayarit",
+   "nombre_oficial": "LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/78/versiones/60926a2a59a2be3de4d7994e3ebee49c1fc31837c726b3a1c3158c0525dba3ba/texto.md",
+   "metadata": "Nayarit/ordenamientos/78/versiones/60926a2a59a2be3de4d7994e3ebee49c1fc31837c726b3a1c3158c0525dba3ba/metadata.json",
+   "validacion": "Nayarit/ordenamientos/78/versiones/60926a2a59a2be3de4d7994e3ebee49c1fc31837c726b3a1c3158c0525dba3ba/validacion.json",
+   "articulado": "Nayarit/indices/articulos/78.json"
+  },
+  {
+   "id": 79,
+   "nombre": "Ley de Justicia Electoral para el Estado de Nayarit",
+   "nombre_oficial": "LEY DE JUSTICIA ELECTORAL PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/79/versiones/2c5ba30154029ee2f476798f0b357bb8f6e2fc57cf423ba1261c1529c2327a1a/texto.md",
+   "metadata": "Nayarit/ordenamientos/79/versiones/2c5ba30154029ee2f476798f0b357bb8f6e2fc57cf423ba1261c1529c2327a1a/metadata.json",
+   "validacion": "Nayarit/ordenamientos/79/versiones/2c5ba30154029ee2f476798f0b357bb8f6e2fc57cf423ba1261c1529c2327a1a/validacion.json",
+   "articulado": "Nayarit/indices/articulos/79.json"
+  },
+  {
+   "id": 80,
+   "nombre": "Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit",
+   "nombre_oficial": "LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/80/versiones/a2d72f6f23eea51ef0157028369496bf62ec073f429fdfd13550e9770b8f5cbb/texto.md",
+   "metadata": "Nayarit/ordenamientos/80/versiones/a2d72f6f23eea51ef0157028369496bf62ec073f429fdfd13550e9770b8f5cbb/metadata.json",
+   "validacion": "Nayarit/ordenamientos/80/versiones/a2d72f6f23eea51ef0157028369496bf62ec073f429fdfd13550e9770b8f5cbb/validacion.json",
+   "articulado": "Nayarit/indices/articulos/80.json"
+  },
+  {
+   "id": 81,
+   "nombre": "Ley para la Juventud del Estado de Nayarit",
+   "nombre_oficial": "LEY PARA LA JUVENTUD DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/81/versiones/c9529612017b948fb42c0ca9489f66e2191a55b8cf87077b90f25b497b226fb4/texto.md",
+   "metadata": "Nayarit/ordenamientos/81/versiones/c9529612017b948fb42c0ca9489f66e2191a55b8cf87077b90f25b497b226fb4/metadata.json",
+   "validacion": "Nayarit/ordenamientos/81/versiones/c9529612017b948fb42c0ca9489f66e2191a55b8cf87077b90f25b497b226fb4/validacion.json",
+   "articulado": "Nayarit/indices/articulos/81.json"
+  },
+  {
+   "id": 82,
+   "nombre": "Ley de Mejora Regulatoria para el Estado de Nayarit y sus Municipios",
+   "nombre_oficial": "Ley de Mejora Regulatoria para el Estado de Nayarit y sus Municipios",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/82/versiones/7bf981b3135755bb3f893bd5ed0b850510db4f2d99abd2c262e833ae8953863e/texto.md",
+   "metadata": "Nayarit/ordenamientos/82/versiones/7bf981b3135755bb3f893bd5ed0b850510db4f2d99abd2c262e833ae8953863e/metadata.json",
+   "validacion": "Nayarit/ordenamientos/82/versiones/7bf981b3135755bb3f893bd5ed0b850510db4f2d99abd2c262e833ae8953863e/validacion.json",
+   "articulado": "Nayarit/indices/articulos/82.json"
+  },
+  {
+   "id": 83,
+   "nombre": "Ley de Movilidad del Estado de Nayarit",
+   "nombre_oficial": "LEY DE MOVILIDAD DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/83/versiones/430e649f005305c76897618bad04130adc2b119b567d70740303d22c6d5863c1/texto.md",
+   "metadata": "Nayarit/ordenamientos/83/versiones/430e649f005305c76897618bad04130adc2b119b567d70740303d22c6d5863c1/metadata.json",
+   "validacion": "Nayarit/ordenamientos/83/versiones/430e649f005305c76897618bad04130adc2b119b567d70740303d22c6d5863c1/validacion.json",
+   "articulado": "Nayarit/indices/articulos/83.json"
+  },
+  {
+   "id": 84,
+   "nombre": "Ley del Notariado para el Estado de Nayarit",
+   "nombre_oficial": "LEY DEL NOTARIADO PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/84/versiones/7330661842bed08ecf122125ba97f25c6c6a7d315a28df508f06e05c8d1f005d/texto.md",
+   "metadata": "Nayarit/ordenamientos/84/versiones/7330661842bed08ecf122125ba97f25c6c6a7d315a28df508f06e05c8d1f005d/metadata.json",
+   "validacion": "Nayarit/ordenamientos/84/versiones/7330661842bed08ecf122125ba97f25c6c6a7d315a28df508f06e05c8d1f005d/validacion.json",
+   "articulado": "Nayarit/indices/articulos/84.json"
+  },
+  {
+   "id": 85,
+   "nombre": "Ley de Obra Pública del Estado de Nayarit",
+   "nombre_oficial": "LEY DE OBRA PÚBLICA DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/85/versiones/145d149c06e59f75397b7dbab2a81adf478a677ab36f4f79d4eb183a52d291b4/texto.md",
+   "metadata": "Nayarit/ordenamientos/85/versiones/145d149c06e59f75397b7dbab2a81adf478a677ab36f4f79d4eb183a52d291b4/metadata.json",
+   "validacion": "Nayarit/ordenamientos/85/versiones/145d149c06e59f75397b7dbab2a81adf478a677ab36f4f79d4eb183a52d291b4/validacion.json",
+   "articulado": "Nayarit/indices/articulos/85.json"
+  },
+  {
+   "id": 86,
+   "nombre": "Ley de Participación Ciudadana del Estado de Nayarit",
+   "nombre_oficial": "Ley de Participación Ciudadana del Estado de Nayarit",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/86/versiones/180610d4fa5d7b1a82df6b3e9b9424dcc6d3d37c3bb77c35f2e8967ee9c52a42/texto.md",
+   "metadata": "Nayarit/ordenamientos/86/versiones/180610d4fa5d7b1a82df6b3e9b9424dcc6d3d37c3bb77c35f2e8967ee9c52a42/metadata.json",
+   "validacion": "Nayarit/ordenamientos/86/versiones/180610d4fa5d7b1a82df6b3e9b9424dcc6d3d37c3bb77c35f2e8967ee9c52a42/validacion.json",
+   "articulado": "Nayarit/indices/articulos/86.json"
+  },
+  {
+   "id": 87,
+   "nombre": "Ley del Patronato para Administrar el Impuesto Especial Destinado a la Universidad Autónoma de Nayarit",
+   "nombre_oficial": null,
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/87/versiones/8da483ba30bf62639d4c6c0ad92ce90baa934b2872587855169c65dd9b3a5318/texto.md",
+   "metadata": "Nayarit/ordenamientos/87/versiones/8da483ba30bf62639d4c6c0ad92ce90baa934b2872587855169c65dd9b3a5318/metadata.json",
+   "validacion": "Nayarit/ordenamientos/87/versiones/8da483ba30bf62639d4c6c0ad92ce90baa934b2872587855169c65dd9b3a5318/validacion.json",
+   "articulado": "Nayarit/indices/articulos/87.json"
+  },
+  {
+   "id": 88,
+   "nombre": "Ley del Periódico Oficial del Estado de Nayarit",
+   "nombre_oficial": "LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/88/versiones/840e70190f2ffeaa14bfd33012b0b765da8fe0c25fe5ef3f0fd0195b45c24835/texto.md",
+   "metadata": "Nayarit/ordenamientos/88/versiones/840e70190f2ffeaa14bfd33012b0b765da8fe0c25fe5ef3f0fd0195b45c24835/metadata.json",
+   "validacion": "Nayarit/ordenamientos/88/versiones/840e70190f2ffeaa14bfd33012b0b765da8fe0c25fe5ef3f0fd0195b45c24835/validacion.json",
+   "articulado": "Nayarit/indices/articulos/88.json"
+  },
+  {
+   "id": 89,
+   "nombre": "Ley de Pesca y Acuacultura Sustentables para el Estado de Nayarit",
+   "nombre_oficial": "LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/89/versiones/3c4f4a64b7fe79ca7da850b8b185c39ff1b9e03ef5554817de541a80ed076119/texto.md",
+   "metadata": "Nayarit/ordenamientos/89/versiones/3c4f4a64b7fe79ca7da850b8b185c39ff1b9e03ef5554817de541a80ed076119/metadata.json",
+   "validacion": "Nayarit/ordenamientos/89/versiones/3c4f4a64b7fe79ca7da850b8b185c39ff1b9e03ef5554817de541a80ed076119/validacion.json",
+   "articulado": "Nayarit/indices/articulos/89.json"
+  },
+  {
+   "id": 90,
+   "nombre": "Ley de Planeación del Estado de Nayarit",
+   "nombre_oficial": "LEY DE PLANEACIÓN DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/90/versiones/bef17995495cf0a33701c3bfbb98c14dd320a8db2ec6d72b7b2b4c9f406c277a/texto.md",
+   "metadata": "Nayarit/ordenamientos/90/versiones/bef17995495cf0a33701c3bfbb98c14dd320a8db2ec6d72b7b2b4c9f406c277a/metadata.json",
+   "validacion": "Nayarit/ordenamientos/90/versiones/bef17995495cf0a33701c3bfbb98c14dd320a8db2ec6d72b7b2b4c9f406c277a/validacion.json",
+   "articulado": "Nayarit/indices/articulos/90.json"
+  },
+  {
+   "id": 91,
+   "nombre": "Ley de Presupuestación, contabilidad y gasto publico de la Administración del Gobierno del Estado de Nayarit",
+   "nombre_oficial": null,
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/91/versiones/df7308b652acf90d21c02e151a7cfd6fb46dc9c6c5e787efee78da963329d546/texto.md",
+   "metadata": "Nayarit/ordenamientos/91/versiones/df7308b652acf90d21c02e151a7cfd6fb46dc9c6c5e787efee78da963329d546/metadata.json",
+   "validacion": "Nayarit/ordenamientos/91/versiones/df7308b652acf90d21c02e151a7cfd6fb46dc9c6c5e787efee78da963329d546/validacion.json",
+   "articulado": "Nayarit/indices/articulos/91.json"
+  },
+  {
+   "id": 92,
+   "nombre": "Ley de Prevención, Asistencia y Atención de la Violencia Intrafamiliar para el Estado de Nayarit",
+   "nombre_oficial": "LEY DE PREVENCIÓN, ASISTENCIA Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/92/versiones/08046836ab140077f142cf0fd88e09596b3cc837a41c68b37cc0e58dbb86d90c/texto.md",
+   "metadata": "Nayarit/ordenamientos/92/versiones/08046836ab140077f142cf0fd88e09596b3cc837a41c68b37cc0e58dbb86d90c/metadata.json",
+   "validacion": "Nayarit/ordenamientos/92/versiones/08046836ab140077f142cf0fd88e09596b3cc837a41c68b37cc0e58dbb86d90c/validacion.json",
+   "articulado": "Nayarit/indices/articulos/92.json"
+  },
+  {
+   "id": 93,
+   "nombre": "Ley para la Prevención de la Obesidad, Sobrepeso y Trastornos Alimenticios en el Estado de Nayarit",
+   "nombre_oficial": "LEY PARA LA PREVENCIÓN DE LA OBESIDAD, SOBREPESO Y TRASTORNOS ALIMENTICIOS EN EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/93/versiones/f2bed80e8e6ed970b04557ddaa57fcbc7106d90f05bba1cf8e440beb73662db8/texto.md",
+   "metadata": "Nayarit/ordenamientos/93/versiones/f2bed80e8e6ed970b04557ddaa57fcbc7106d90f05bba1cf8e440beb73662db8/metadata.json",
+   "validacion": "Nayarit/ordenamientos/93/versiones/f2bed80e8e6ed970b04557ddaa57fcbc7106d90f05bba1cf8e440beb73662db8/validacion.json",
+   "articulado": "Nayarit/indices/articulos/93.json"
+  },
+  {
+   "id": 94,
+   "nombre": "Ley para la Prevención Social de la Violencia y la Delincuencia del Estado de Nayarit",
+   "nombre_oficial": "LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/94/versiones/636f793737fe4f284b1970c831fa01e3d6c5180ac852ed9f2758d99130c09f1d/texto.md",
+   "metadata": "Nayarit/ordenamientos/94/versiones/636f793737fe4f284b1970c831fa01e3d6c5180ac852ed9f2758d99130c09f1d/metadata.json",
+   "validacion": "Nayarit/ordenamientos/94/versiones/636f793737fe4f284b1970c831fa01e3d6c5180ac852ed9f2758d99130c09f1d/validacion.json",
+   "articulado": "Nayarit/indices/articulos/94.json"
+  },
+  {
+   "id": 95,
+   "nombre": "Ley para la Prevención y Erradicación de la Trata de Personas en el Estado de Nayarit",
+   "nombre_oficial": "LEY PARA LA PREVENCIÓN Y ERRADICACIÓN DE LA TRATA DE PERSONAS EN EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/95/versiones/005c8cf0545968c5b15f8aab161201a460ebd2a22f4aed43f57d28579f711d8a/texto.md",
+   "metadata": "Nayarit/ordenamientos/95/versiones/005c8cf0545968c5b15f8aab161201a460ebd2a22f4aed43f57d28579f711d8a/metadata.json",
+   "validacion": "Nayarit/ordenamientos/95/versiones/005c8cf0545968c5b15f8aab161201a460ebd2a22f4aed43f57d28579f711d8a/validacion.json",
+   "articulado": "Nayarit/indices/articulos/95.json"
+  },
+  {
+   "id": 96,
+   "nombre": "Ley para Prevenir y Erradicar la Discriminación en el Estado de Nayarit",
+   "nombre_oficial": null,
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/96/versiones/f674753c136a9ca42e0d7b2b38a87b9f6245fa98aca08a260a300cac88df613c/texto.md",
+   "metadata": "Nayarit/ordenamientos/96/versiones/f674753c136a9ca42e0d7b2b38a87b9f6245fa98aca08a260a300cac88df613c/metadata.json",
+   "validacion": "Nayarit/ordenamientos/96/versiones/f674753c136a9ca42e0d7b2b38a87b9f6245fa98aca08a260a300cac88df613c/validacion.json",
+   "articulado": "Nayarit/indices/articulos/96.json"
+  },
+  {
+   "id": 97,
+   "nombre": "Ley para Prevenir y Sancionar la Tortura en el Estado de Nayarit",
+   "nombre_oficial": "LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/97/versiones/ad37737688007e3f180637e7e4a672d10bf43a8f3e5928cb35889b2f007e1c9b/texto.md",
+   "metadata": "Nayarit/ordenamientos/97/versiones/ad37737688007e3f180637e7e4a672d10bf43a8f3e5928cb35889b2f007e1c9b/metadata.json",
+   "validacion": "Nayarit/ordenamientos/97/versiones/ad37737688007e3f180637e7e4a672d10bf43a8f3e5928cb35889b2f007e1c9b/validacion.json",
+   "articulado": "Nayarit/indices/articulos/97.json"
+  },
+  {
+   "id": 98,
+   "nombre": "Ley de Protección a la Fauna para el Estado de Nayarit",
+   "nombre_oficial": "LEY DE PROTECCIÓN A LA FAUNA PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/98/versiones/7d433deffbaab60bce4364bbeeb20856e7ba002fe5ae2ad5b283a9f20b2d9ff3/texto.md",
+   "metadata": "Nayarit/ordenamientos/98/versiones/7d433deffbaab60bce4364bbeeb20856e7ba002fe5ae2ad5b283a9f20b2d9ff3/metadata.json",
+   "validacion": "Nayarit/ordenamientos/98/versiones/7d433deffbaab60bce4364bbeeb20856e7ba002fe5ae2ad5b283a9f20b2d9ff3/validacion.json",
+   "articulado": "Nayarit/indices/articulos/98.json"
+  },
+  {
+   "id": 99,
+   "nombre": "Ley de Protección a la Industria de Molinos de Nixtamal y sus Derivados para el Estado de Nayarit",
+   "nombre_oficial": null,
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/99/versiones/e87ee60c2d3721a0907ab5cf4c88779e3233d245d0548372cb817dbb9b4a12db/texto.md",
+   "metadata": "Nayarit/ordenamientos/99/versiones/e87ee60c2d3721a0907ab5cf4c88779e3233d245d0548372cb817dbb9b4a12db/metadata.json",
+   "validacion": "Nayarit/ordenamientos/99/versiones/e87ee60c2d3721a0907ab5cf4c88779e3233d245d0548372cb817dbb9b4a12db/validacion.json",
+   "articulado": "Nayarit/indices/articulos/99.json"
+  },
+  {
+   "id": 100,
+   "nombre": "Ley para la Protección, Apoyo y Promoción a la Lactancia Materna del Estado",
+   "nombre_oficial": "LEY PARA LA PROTECCIÓN, APOYO Y PROMOCIÓN A LA LACTANCIA MATERNA DEL ESTADO",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/100/versiones/6c3e09543f93d7e206cdd65db5f12224d15731f2a8869fa1b5066de01eecabe7/texto.md",
+   "metadata": "Nayarit/ordenamientos/100/versiones/6c3e09543f93d7e206cdd65db5f12224d15731f2a8869fa1b5066de01eecabe7/metadata.json",
+   "validacion": "Nayarit/ordenamientos/100/versiones/6c3e09543f93d7e206cdd65db5f12224d15731f2a8869fa1b5066de01eecabe7/validacion.json",
+   "articulado": "Nayarit/indices/articulos/100.json"
+  },
+  {
+   "id": 101,
+   "nombre": "Ley de Protección Civil para el Estado de Nayarit",
+   "nombre_oficial": "LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/101/versiones/f4efdc53742290c4dd559d35533832e1f184dc7ec9e9dcf49a14c33eb330b6c9/texto.md",
+   "metadata": "Nayarit/ordenamientos/101/versiones/f4efdc53742290c4dd559d35533832e1f184dc7ec9e9dcf49a14c33eb330b6c9/metadata.json",
+   "validacion": "Nayarit/ordenamientos/101/versiones/f4efdc53742290c4dd559d35533832e1f184dc7ec9e9dcf49a14c33eb330b6c9/validacion.json",
+   "articulado": "Nayarit/indices/articulos/101.json"
+  },
+  {
+   "id": 102,
+   "nombre": "Ley de Protección de Agentes Polinizadores y Fomento Apícola para el Estado de Nayarit",
+   "nombre_oficial": "LEY DE PROTECCIÓN DE AGENTES POLINIZADORES Y FOMENTO APÍCOLA PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/102/versiones/dedf008d28437e470eda7e521ad8555c91cd4a01085cf90bebd4f566b09c7a8d/texto.md",
+   "metadata": "Nayarit/ordenamientos/102/versiones/dedf008d28437e470eda7e521ad8555c91cd4a01085cf90bebd4f566b09c7a8d/metadata.json",
+   "validacion": "Nayarit/ordenamientos/102/versiones/dedf008d28437e470eda7e521ad8555c91cd4a01085cf90bebd4f566b09c7a8d/validacion.json",
+   "articulado": "Nayarit/indices/articulos/102.json"
+  },
+  {
+   "id": 103,
+   "nombre": "Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Nayarit",
+   "nombre_oficial": "LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/103/versiones/78b24c75137a7dcb964a8d866e251129c5f97a869e9e5719d09fbed57f478673/texto.md",
+   "metadata": "Nayarit/ordenamientos/103/versiones/78b24c75137a7dcb964a8d866e251129c5f97a869e9e5719d09fbed57f478673/metadata.json",
+   "validacion": "Nayarit/ordenamientos/103/versiones/78b24c75137a7dcb964a8d866e251129c5f97a869e9e5719d09fbed57f478673/validacion.json",
+   "articulado": "Nayarit/indices/articulos/103.json"
+  },
+  {
+   "id": 104,
+   "nombre": "Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas del Estado de Nayarit",
+   "nombre_oficial": "LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/104/versiones/c2709cd62a651794a9d2c913a39d7b85751862a64d1796067e5a4a68f32dd596/texto.md",
+   "metadata": "Nayarit/ordenamientos/104/versiones/c2709cd62a651794a9d2c913a39d7b85751862a64d1796067e5a4a68f32dd596/metadata.json",
+   "validacion": "Nayarit/ordenamientos/104/versiones/c2709cd62a651794a9d2c913a39d7b85751862a64d1796067e5a4a68f32dd596/validacion.json",
+   "articulado": "Nayarit/indices/articulos/104.json"
+  },
+  {
+   "id": 105,
+   "nombre": "Ley para la Protección e Inclusión de las Personas con Discapacidad del Estado de Nayarit",
+   "nombre_oficial": "LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/105/versiones/8c4ee2849d6578c4ca13855a5f3f8153b22abc4fc84aca3d55bd683b486e5c75/texto.md",
+   "metadata": "Nayarit/ordenamientos/105/versiones/8c4ee2849d6578c4ca13855a5f3f8153b22abc4fc84aca3d55bd683b486e5c75/metadata.json",
+   "validacion": "Nayarit/ordenamientos/105/versiones/8c4ee2849d6578c4ca13855a5f3f8153b22abc4fc84aca3d55bd683b486e5c75/validacion.json",
+   "articulado": "Nayarit/indices/articulos/105.json"
+  },
+  {
+   "id": 106,
+   "nombre": "Ley de Protección, Fomento y Conservación del Arbolado Público del Estado de Nayarit",
+   "nombre_oficial": "LEY DE PROTECCIÓN, FOMENTO Y CONSERVACIÓN DEL ARBOLADO PÚBLICO DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/106/versiones/5b361ddcf34c0e3e5ee229f43d1209a6e7cd71f9716734dbfde5920865919e4e/texto.md",
+   "metadata": "Nayarit/ordenamientos/106/versiones/5b361ddcf34c0e3e5ee229f43d1209a6e7cd71f9716734dbfde5920865919e4e/metadata.json",
+   "validacion": "Nayarit/ordenamientos/106/versiones/5b361ddcf34c0e3e5ee229f43d1209a6e7cd71f9716734dbfde5920865919e4e/validacion.json",
+   "articulado": "Nayarit/indices/articulos/106.json"
+  },
+  {
+   "id": 107,
+   "nombre": "Ley del Registro Público del Estado de Nayarit",
+   "nombre_oficial": "LEY DEL REGISTRO PÚBLICO DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/107/versiones/730241d785fb7ecfc98f6c3e5d9adb7da5f6c7dfaef2a1f5a8764a802471d0eb/texto.md",
+   "metadata": "Nayarit/ordenamientos/107/versiones/730241d785fb7ecfc98f6c3e5d9adb7da5f6c7dfaef2a1f5a8764a802471d0eb/metadata.json",
+   "validacion": "Nayarit/ordenamientos/107/versiones/730241d785fb7ecfc98f6c3e5d9adb7da5f6c7dfaef2a1f5a8764a802471d0eb/validacion.json",
+   "articulado": "Nayarit/indices/articulos/107.json"
+  },
+  {
+   "id": 108,
+   "nombre": "Ley que Regula el Régimen de Propiedad en Condominio Bienes Inmuebles para el Estado de Nayarit",
+   "nombre_oficial": null,
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/108/versiones/d79b739fae7e540672bc238cfebac7ad661b28f83d26942fbf064b0740e2283a/texto.md",
+   "metadata": "Nayarit/ordenamientos/108/versiones/d79b739fae7e540672bc238cfebac7ad661b28f83d26942fbf064b0740e2283a/metadata.json",
+   "validacion": "Nayarit/ordenamientos/108/versiones/d79b739fae7e540672bc238cfebac7ad661b28f83d26942fbf064b0740e2283a/validacion.json",
+   "articulado": "Nayarit/indices/articulos/108.json"
+  },
+  {
+   "id": 109,
+   "nombre": "Ley que Regula la Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil para el Estado de Nayarit",
+   "nombre_oficial": "LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/109/versiones/0c0d47dfd48f4eb75f0a0cd807e51e62dbb97b0598f826508e2b12b8552cb351/texto.md",
+   "metadata": "Nayarit/ordenamientos/109/versiones/0c0d47dfd48f4eb75f0a0cd807e51e62dbb97b0598f826508e2b12b8552cb351/metadata.json",
+   "validacion": "Nayarit/ordenamientos/109/versiones/0c0d47dfd48f4eb75f0a0cd807e51e62dbb97b0598f826508e2b12b8552cb351/validacion.json",
+   "articulado": "Nayarit/indices/articulos/109.json"
+  },
+  {
+   "id": 110,
+   "nombre": "Ley que Regula las Casas de Empeño en el Estado de Nayarit",
+   "nombre_oficial": "LEY QUE REGULA LAS CASAS DE EMPEÑO EN EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/110/versiones/4c4031b408efd93ea15a10e86efe4ae69d3f008e9ecfac73ef45acfd4818c916/texto.md",
+   "metadata": "Nayarit/ordenamientos/110/versiones/4c4031b408efd93ea15a10e86efe4ae69d3f008e9ecfac73ef45acfd4818c916/metadata.json",
+   "validacion": "Nayarit/ordenamientos/110/versiones/4c4031b408efd93ea15a10e86efe4ae69d3f008e9ecfac73ef45acfd4818c916/validacion.json",
+   "articulado": "Nayarit/indices/articulos/110.json"
+  },
+  {
+   "id": 111,
+   "nombre": "Ley que Regula los Establecimientos Dedicados a la Producción, Almacenamiento, Distribución y Enajenación de Bebidas Alcohólicas en el Estado de Nayarit",
+   "nombre_oficial": "LEY QUE REGULA LOS ESTABLECIMIENTOS DEDICADOS A LA PRODUCCIÓN, ALMACENAMIENTO, DISTRIBUCIÓN Y ENAJENACIÓN DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/111/versiones/3aa30d3289de61e7a13a576b41cae6f9c6f7db736d237008cc78c1397ddce9d6/texto.md",
+   "metadata": "Nayarit/ordenamientos/111/versiones/3aa30d3289de61e7a13a576b41cae6f9c6f7db736d237008cc78c1397ddce9d6/metadata.json",
+   "validacion": "Nayarit/ordenamientos/111/versiones/3aa30d3289de61e7a13a576b41cae6f9c6f7db736d237008cc78c1397ddce9d6/validacion.json",
+   "articulado": "Nayarit/indices/articulos/111.json"
+  },
+  {
+   "id": 112,
+   "nombre": "Ley que Remuneraciones de los Servidores Públicos del Estado de Nayarit",
+   "nombre_oficial": null,
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/112/versiones/2ef97f2868ce9527088c5d056606ce0b27a8684deebd68a81f5e5893583f4e97/texto.md",
+   "metadata": "Nayarit/ordenamientos/112/versiones/2ef97f2868ce9527088c5d056606ce0b27a8684deebd68a81f5e5893583f4e97/metadata.json",
+   "validacion": "Nayarit/ordenamientos/112/versiones/2ef97f2868ce9527088c5d056606ce0b27a8684deebd68a81f5e5893583f4e97/validacion.json",
+   "articulado": "Nayarit/indices/articulos/112.json"
+  },
+  {
+   "id": 113,
+   "nombre": "Ley de Responsabilidad Patrimonial del Estado de Nayarit y sus Municipios",
+   "nombre_oficial": "LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE NAYARIT Y SUS MUNICIPIOS",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/113/versiones/c6d47ef87062361efce4bf6ddc0ef2b7fab47d2624e811a78c3cfb969c7a1a44/texto.md",
+   "metadata": "Nayarit/ordenamientos/113/versiones/c6d47ef87062361efce4bf6ddc0ef2b7fab47d2624e811a78c3cfb969c7a1a44/metadata.json",
+   "validacion": "Nayarit/ordenamientos/113/versiones/c6d47ef87062361efce4bf6ddc0ef2b7fab47d2624e811a78c3cfb969c7a1a44/validacion.json",
+   "articulado": "Nayarit/indices/articulos/113.json"
+  },
+  {
+   "id": 114,
+   "nombre": "Ley de Responsabilidades Administrativas del Estado de Nayarit",
+   "nombre_oficial": "LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/114/versiones/50f92d1bb7867152f494666c0e04c52de316c0d418771174fdb579056a341774/texto.md",
+   "metadata": "Nayarit/ordenamientos/114/versiones/50f92d1bb7867152f494666c0e04c52de316c0d418771174fdb579056a341774/metadata.json",
+   "validacion": "Nayarit/ordenamientos/114/versiones/50f92d1bb7867152f494666c0e04c52de316c0d418771174fdb579056a341774/validacion.json",
+   "articulado": "Nayarit/indices/articulos/114.json"
+  },
+  {
+   "id": 115,
+   "nombre": "Ley que Restringe el acceso a menores de edad a medios de comunicación con contenido exclusivo para adultos del Estado de Nayarit",
+   "nombre_oficial": "LEY QUE RESTRINGE EL ACCESO A MENORES DE EDAD A MEDIOS DE COMUNICACIÓN CON CONTENIDO EXCLUSIVO PARA ADULTOS DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/115/versiones/81b16f11a36dd9731ddca4512a29b2a97b2f5f7067acc691e9e67e16afdb9a7d/texto.md",
+   "metadata": "Nayarit/ordenamientos/115/versiones/81b16f11a36dd9731ddca4512a29b2a97b2f5f7067acc691e9e67e16afdb9a7d/metadata.json",
+   "validacion": "Nayarit/ordenamientos/115/versiones/81b16f11a36dd9731ddca4512a29b2a97b2f5f7067acc691e9e67e16afdb9a7d/validacion.json",
+   "articulado": "Nayarit/indices/articulos/115.json"
+  },
+  {
+   "id": 116,
+   "nombre": "Ley de Salud para el Estado de Nayarit",
+   "nombre_oficial": "LEY DE SALUD PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/116/versiones/6f83ee5fb600cb58724c53c1c85ef3c0d52c0c9970dd3cd4196f1cfb9aea5a8b/texto.md",
+   "metadata": "Nayarit/ordenamientos/116/versiones/6f83ee5fb600cb58724c53c1c85ef3c0d52c0c9970dd3cd4196f1cfb9aea5a8b/metadata.json",
+   "validacion": "Nayarit/ordenamientos/116/versiones/6f83ee5fb600cb58724c53c1c85ef3c0d52c0c9970dd3cd4196f1cfb9aea5a8b/validacion.json",
+   "articulado": "Nayarit/indices/articulos/116.json"
+  },
+  {
+   "id": 117,
+   "nombre": "Ley de Seguridad Integral Escolar para el Estado de Nayarit",
+   "nombre_oficial": "LEY DE SEGURIDAD INTEGRAL ESCOLAR PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/117/versiones/7df0bde28a01a7852f020f69b3c1f5e706380de80d1143e2069b8c001fe94c75/texto.md",
+   "metadata": "Nayarit/ordenamientos/117/versiones/7df0bde28a01a7852f020f69b3c1f5e706380de80d1143e2069b8c001fe94c75/metadata.json",
+   "validacion": "Nayarit/ordenamientos/117/versiones/7df0bde28a01a7852f020f69b3c1f5e706380de80d1143e2069b8c001fe94c75/validacion.json",
+   "articulado": "Nayarit/indices/articulos/117.json"
+  },
+  {
+   "id": 118,
+   "nombre": "Ley del Sistema Anticorrupción",
+   "nombre_oficial": null,
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/118/versiones/c6decfaaa3634528dfd70eb5e941e13909093ca8ac483075061f6aa2e92ffd8c/texto.md",
+   "metadata": "Nayarit/ordenamientos/118/versiones/c6decfaaa3634528dfd70eb5e941e13909093ca8ac483075061f6aa2e92ffd8c/metadata.json",
+   "validacion": "Nayarit/ordenamientos/118/versiones/c6decfaaa3634528dfd70eb5e941e13909093ca8ac483075061f6aa2e92ffd8c/validacion.json",
+   "articulado": "Nayarit/indices/articulos/118.json"
+  },
+  {
+   "id": 119,
+   "nombre": "Ley del Sistema de Geografía, Estadística y Evaluación del Estado de Nayarit",
+   "nombre_oficial": "LEY DEL SISTEMA DE GEOGRAFÍA, ESTADÍSTICA Y EVALUACIÓN DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/119/versiones/8e8f224d51ccc57fd1e14e8530adde25dc4fff51df4e340c53a1675a29be04f4/texto.md",
+   "metadata": "Nayarit/ordenamientos/119/versiones/8e8f224d51ccc57fd1e14e8530adde25dc4fff51df4e340c53a1675a29be04f4/metadata.json",
+   "validacion": "Nayarit/ordenamientos/119/versiones/8e8f224d51ccc57fd1e14e8530adde25dc4fff51df4e340c53a1675a29be04f4/validacion.json",
+   "articulado": "Nayarit/indices/articulos/119.json"
+  },
+  {
+   "id": 120,
+   "nombre": "Ley Sobre el Sistema Estatal de Asistencia Social de Nayarit",
+   "nombre_oficial": "LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/120/versiones/e7a6eed06b75f0980e6eabdbfa7483d50c2fa62cd11d8cc66c7d9030f44725d5/texto.md",
+   "metadata": "Nayarit/ordenamientos/120/versiones/e7a6eed06b75f0980e6eabdbfa7483d50c2fa62cd11d8cc66c7d9030f44725d5/metadata.json",
+   "validacion": "Nayarit/ordenamientos/120/versiones/e7a6eed06b75f0980e6eabdbfa7483d50c2fa62cd11d8cc66c7d9030f44725d5/validacion.json",
+   "articulado": "Nayarit/indices/articulos/120.json"
+  },
+  {
+   "id": 121,
+   "nombre": "Ley de Sistema Estatal de Seguridad Pública",
+   "nombre_oficial": null,
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/121/versiones/97e25875ae6c185a54e3fe5cce07c03b1c933cb0c0c0c621cde7bda62b6bb196/texto.md",
+   "metadata": "Nayarit/ordenamientos/121/versiones/97e25875ae6c185a54e3fe5cce07c03b1c933cb0c0c0c621cde7bda62b6bb196/metadata.json",
+   "validacion": "Nayarit/ordenamientos/121/versiones/97e25875ae6c185a54e3fe5cce07c03b1c933cb0c0c0c621cde7bda62b6bb196/validacion.json",
+   "articulado": "Nayarit/indices/articulos/121.json"
+  },
+  {
+   "id": 122,
+   "nombre": "Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit",
+   "nombre_oficial": "LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/122/versiones/2a286bfbe38b889828962b1d2da7e2fb58b395fb392ee32f277c96ea9966b3f8/texto.md",
+   "metadata": "Nayarit/ordenamientos/122/versiones/2a286bfbe38b889828962b1d2da7e2fb58b395fb392ee32f277c96ea9966b3f8/metadata.json",
+   "validacion": "Nayarit/ordenamientos/122/versiones/2a286bfbe38b889828962b1d2da7e2fb58b395fb392ee32f277c96ea9966b3f8/validacion.json",
+   "articulado": "Nayarit/indices/articulos/122.json"
+  },
+  {
+   "id": 123,
+   "nombre": "Ley de Víctimas para el Estado de Nayarit",
+   "nombre_oficial": "LEY DE VÍCTIMAS PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/123/versiones/c2abaf343a2e67abfc7797f35ed8615bc09bfee1b3424caf6852b988fa09ac13/texto.md",
+   "metadata": "Nayarit/ordenamientos/123/versiones/c2abaf343a2e67abfc7797f35ed8615bc09bfee1b3424caf6852b988fa09ac13/metadata.json",
+   "validacion": "Nayarit/ordenamientos/123/versiones/c2abaf343a2e67abfc7797f35ed8615bc09bfee1b3424caf6852b988fa09ac13/validacion.json",
+   "articulado": "Nayarit/indices/articulos/123.json"
+  },
+  {
+   "id": 124,
+   "nombre": "Ley de Vivienda para el Estado de Nayarit",
+   "nombre_oficial": "LEY DE VIVIENDA PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/124/versiones/5b75ebaec0cffaae31af7072f8d6bfa0d092aea058f7ff86bc64edf48f17bbf3/texto.md",
+   "metadata": "Nayarit/ordenamientos/124/versiones/5b75ebaec0cffaae31af7072f8d6bfa0d092aea058f7ff86bc64edf48f17bbf3/metadata.json",
+   "validacion": "Nayarit/ordenamientos/124/versiones/5b75ebaec0cffaae31af7072f8d6bfa0d092aea058f7ff86bc64edf48f17bbf3/validacion.json",
+   "articulado": "Nayarit/indices/articulos/124.json"
+  },
+  {
+   "id": 125,
+   "nombre": "Ley Orgánica de la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit",
+   "nombre_oficial": "LEY ORGÁNICA DE LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT",
+   "tipo": "ley_organica",
+   "texto": "Nayarit/ordenamientos/125/versiones/f0dbbe6b241e0587bcee50633fff55eaf75bc3adacc5cd2f8de8a8c67c3c8322/texto.md",
+   "metadata": "Nayarit/ordenamientos/125/versiones/f0dbbe6b241e0587bcee50633fff55eaf75bc3adacc5cd2f8de8a8c67c3c8322/metadata.json",
+   "validacion": "Nayarit/ordenamientos/125/versiones/f0dbbe6b241e0587bcee50633fff55eaf75bc3adacc5cd2f8de8a8c67c3c8322/validacion.json",
+   "articulado": "Nayarit/indices/articulos/125.json"
+  },
+  {
+   "id": 126,
+   "nombre": "Ley Orgánica del Centro de Conciliación Laboral del Estado de Nayarit",
+   "nombre_oficial": "LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE NAYARIT",
+   "tipo": "ley_organica",
+   "texto": "Nayarit/ordenamientos/126/versiones/613bfb6b072f447db9b84703733e68492072e088a25dd96166ba3f3ca4ade9da/texto.md",
+   "metadata": "Nayarit/ordenamientos/126/versiones/613bfb6b072f447db9b84703733e68492072e088a25dd96166ba3f3ca4ade9da/metadata.json",
+   "validacion": "Nayarit/ordenamientos/126/versiones/613bfb6b072f447db9b84703733e68492072e088a25dd96166ba3f3ca4ade9da/validacion.json",
+   "articulado": "Nayarit/indices/articulos/126.json"
+  },
+  {
+   "id": 127,
+   "nombre": "Ley Orgánica de la Escuela Normal Superior de Nayarit",
+   "nombre_oficial": null,
+   "tipo": "ley_organica",
+   "texto": "Nayarit/ordenamientos/127/versiones/d790914c31c26e5731845d5c9411d7a3ac3aa0eb50fdeccf417e28b9e8410029/texto.md",
+   "metadata": "Nayarit/ordenamientos/127/versiones/d790914c31c26e5731845d5c9411d7a3ac3aa0eb50fdeccf417e28b9e8410029/metadata.json",
+   "validacion": "Nayarit/ordenamientos/127/versiones/d790914c31c26e5731845d5c9411d7a3ac3aa0eb50fdeccf417e28b9e8410029/validacion.json",
+   "articulado": "Nayarit/indices/articulos/127.json"
+  },
+  {
+   "id": 128,
+   "nombre": "Ley Orgánica de la Fiscalía General del Estado de Nayarit",
+   "nombre_oficial": "LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT",
+   "tipo": "ley_organica",
+   "texto": "Nayarit/ordenamientos/128/versiones/bc40eb06138412fa8e513f9b24370d9002261861967895fbc27471deffc63242/texto.md",
+   "metadata": "Nayarit/ordenamientos/128/versiones/bc40eb06138412fa8e513f9b24370d9002261861967895fbc27471deffc63242/metadata.json",
+   "validacion": "Nayarit/ordenamientos/128/versiones/bc40eb06138412fa8e513f9b24370d9002261861967895fbc27471deffc63242/validacion.json",
+   "articulado": "Nayarit/indices/articulos/128.json"
+  },
+  {
+   "id": 129,
+   "nombre": "Ley Orgánica del Poder Ejecutivo del Estado de Nayarit",
+   "nombre_oficial": "LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT",
+   "tipo": "ley_organica",
+   "texto": "Nayarit/ordenamientos/129/versiones/164ff8eb14224109b60968aec59ac9645bdb577c9d9d872a5f5f4ebf92646d00/texto.md",
+   "metadata": "Nayarit/ordenamientos/129/versiones/164ff8eb14224109b60968aec59ac9645bdb577c9d9d872a5f5f4ebf92646d00/metadata.json",
+   "validacion": "Nayarit/ordenamientos/129/versiones/164ff8eb14224109b60968aec59ac9645bdb577c9d9d872a5f5f4ebf92646d00/validacion.json",
+   "articulado": "Nayarit/indices/articulos/129.json"
+  },
+  {
+   "id": 130,
+   "nombre": "Ley Orgánica del Poder Judicial del Estado de Nayarit",
+   "nombre_oficial": "LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE NAYARIT",
+   "tipo": "ley_organica",
+   "texto": "Nayarit/ordenamientos/130/versiones/200690360d467a68b1e3347fd52c06db5ff55bd7d163e4e9fbb4d2d98ec2191f/texto.md",
+   "metadata": "Nayarit/ordenamientos/130/versiones/200690360d467a68b1e3347fd52c06db5ff55bd7d163e4e9fbb4d2d98ec2191f/metadata.json",
+   "validacion": "Nayarit/ordenamientos/130/versiones/200690360d467a68b1e3347fd52c06db5ff55bd7d163e4e9fbb4d2d98ec2191f/validacion.json",
+   "articulado": "Nayarit/indices/articulos/130.json"
+  },
+  {
+   "id": 131,
+   "nombre": "Ley Orgánica del Tribunal de Justicia Administrativa de Nayarit",
+   "nombre_oficial": "LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE NAYARIT",
+   "tipo": "ley_organica",
+   "texto": "Nayarit/ordenamientos/131/versiones/d3a3888f4a103bc5402f7c033c4901cacb7dada41676872e1acc5c57ceee3d84/texto.md",
+   "metadata": "Nayarit/ordenamientos/131/versiones/d3a3888f4a103bc5402f7c033c4901cacb7dada41676872e1acc5c57ceee3d84/metadata.json",
+   "validacion": "Nayarit/ordenamientos/131/versiones/d3a3888f4a103bc5402f7c033c4901cacb7dada41676872e1acc5c57ceee3d84/validacion.json",
+   "articulado": "Nayarit/indices/articulos/131.json"
+  },
+  {
+   "id": 132,
+   "nombre": "Ley Orgánica de la Universidad Autónoma de Nayarit",
+   "nombre_oficial": "LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE NAYARIT",
+   "tipo": "ley_organica",
+   "texto": "Nayarit/ordenamientos/132/versiones/f621420503d7b998de4f95f4baebc9ddfc9a3128c33976be1d045b1d45f6cb26/texto.md",
+   "metadata": "Nayarit/ordenamientos/132/versiones/f621420503d7b998de4f95f4baebc9ddfc9a3128c33976be1d045b1d45f6cb26/metadata.json",
+   "validacion": "Nayarit/ordenamientos/132/versiones/f621420503d7b998de4f95f4baebc9ddfc9a3128c33976be1d045b1d45f6cb26/validacion.json",
+   "articulado": "Nayarit/indices/articulos/132.json"
+  },
+  {
+   "id": 134,
+   "nombre": "Reglamento para el Gobierno Interior del Congreso",
+   "nombre_oficial": "REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO",
+   "tipo": "reglamento",
+   "texto": "Nayarit/ordenamientos/134/versiones/27367ac1af878929a39f328af0609daecacdc6efe021e92cf968993e5df6b4f9/texto.md",
+   "metadata": "Nayarit/ordenamientos/134/versiones/27367ac1af878929a39f328af0609daecacdc6efe021e92cf968993e5df6b4f9/metadata.json",
+   "validacion": "Nayarit/ordenamientos/134/versiones/27367ac1af878929a39f328af0609daecacdc6efe021e92cf968993e5df6b4f9/validacion.json",
+   "articulado": "Nayarit/indices/articulos/134.json"
+  },
+  {
+   "id": 135,
+   "nombre": "Ley para la Inscripción de Nombres en el Muro de Honor del Recinto Legislativo y Conservación de Memoria Institucional, Homenajes Luctuosos o Póstumos y Protocolo Ceremonial",
+   "nombre_oficial": "LEY PARA LA INSCRIPCIÓN DE NOMBRES EN EL MURO DE HONOR DEL RECINTO LEGISLATIVO Y CONSERVACIÓN DE MEMORIA INSTITUCIONAL, HOMENAJES LUCTUOSOS O PÓSTUMOS Y PROTOCOLO CEREMONIAL",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/135/versiones/f0bad449a2f411d0e7073c5298059c578d8b07007b9b23d9348de884b12b26e7/texto.md",
+   "metadata": "Nayarit/ordenamientos/135/versiones/f0bad449a2f411d0e7073c5298059c578d8b07007b9b23d9348de884b12b26e7/metadata.json",
+   "validacion": "Nayarit/ordenamientos/135/versiones/f0bad449a2f411d0e7073c5298059c578d8b07007b9b23d9348de884b12b26e7/validacion.json",
+   "articulado": "Nayarit/indices/articulos/135.json"
+  },
+  {
+   "id": 136,
+   "nombre": "Reglamento para la Organización de los Parlamentos y el Concurso de Debates del H. Congreso del Estado de Nayarit",
+   "nombre_oficial": "REGLAMENTO PARA LA ORGANIZACIÓN DE LOS PARLAMENTOS Y EL CONCURSO DE DEBATES DEL H. CONGRESO DEL ESTADO DE NAYARIT",
+   "tipo": "reglamento",
+   "texto": "Nayarit/ordenamientos/136/versiones/6e7b4ab5df16210d6c096adfe04ea1ce380c237cf87adb3be48d903754d69fb7/texto.md",
+   "metadata": "Nayarit/ordenamientos/136/versiones/6e7b4ab5df16210d6c096adfe04ea1ce380c237cf87adb3be48d903754d69fb7/metadata.json",
+   "validacion": "Nayarit/ordenamientos/136/versiones/6e7b4ab5df16210d6c096adfe04ea1ce380c237cf87adb3be48d903754d69fb7/validacion.json",
+   "articulado": "Nayarit/indices/articulos/136.json"
+  },
+  {
+   "id": 137,
+   "nombre": "Ley Orgánica del Poder Legislativo del Estado de Nayarit",
+   "nombre_oficial": "LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT",
+   "tipo": "ley_organica",
+   "texto": "Nayarit/ordenamientos/137/versiones/f1176cf3dd644c7fb1a9ff87fb8dafd0650e53f1daf7cfb42ff13efa17c90603/texto.md",
+   "metadata": "Nayarit/ordenamientos/137/versiones/f1176cf3dd644c7fb1a9ff87fb8dafd0650e53f1daf7cfb42ff13efa17c90603/metadata.json",
+   "validacion": "Nayarit/ordenamientos/137/versiones/f1176cf3dd644c7fb1a9ff87fb8dafd0650e53f1daf7cfb42ff13efa17c90603/validacion.json",
+   "articulado": "Nayarit/indices/articulos/137.json"
+  },
+  {
+   "id": 138,
+   "nombre": "Ley de Hacienda Municipal del Estado de Nayarit",
+   "nombre_oficial": "LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/138/versiones/f2319794163bd2ddfa97c35028c74969d2705a02bf427374d71f3db71c163c76/texto.md",
+   "metadata": "Nayarit/ordenamientos/138/versiones/f2319794163bd2ddfa97c35028c74969d2705a02bf427374d71f3db71c163c76/metadata.json",
+   "validacion": "Nayarit/ordenamientos/138/versiones/f2319794163bd2ddfa97c35028c74969d2705a02bf427374d71f3db71c163c76/validacion.json",
+   "articulado": "Nayarit/indices/articulos/138.json"
+  },
+  {
+   "id": 139,
+   "nombre": "Ley Municipal para el Estado de Nayarit",
+   "nombre_oficial": "Ley Municipal para el Estado de Nayarit",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/139/versiones/4b05f8810bf20aca0ec77227f36622aea507a7be4fcbffe13e7216616b8ecc60/texto.md",
+   "metadata": "Nayarit/ordenamientos/139/versiones/4b05f8810bf20aca0ec77227f36622aea507a7be4fcbffe13e7216616b8ecc60/metadata.json",
+   "validacion": "Nayarit/ordenamientos/139/versiones/4b05f8810bf20aca0ec77227f36622aea507a7be4fcbffe13e7216616b8ecc60/validacion.json",
+   "articulado": "Nayarit/indices/articulos/139.json"
+  }
+ ]
+}

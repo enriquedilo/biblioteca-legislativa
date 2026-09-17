@@ -376,6 +376,46 @@ def gen_remisiones():
     return len(salida)
 
 
+# ------------------------------------------------------------------ rutas web
+def gen_rutas():
+    """Mapa id -> rutas con el hash ya resuelto.
+
+    El enlace `actual/` es un symlink: sirve en disco, pero no por HTTP.
+    Este archivo permite a un cliente web (ChatGPT, un navegador, cualquier
+    lector del repositorio) llegar al texto en un solo salto.
+    """
+    os.makedirs(IDX, exist_ok=True)
+    reg = []
+    for idl in ids():
+        meta, _ = leer(idl)
+        v = json.load(open(os.path.join(ORD, idl, "actual.json"),
+                           encoding="utf-8"))["version"]
+        base = f"{ENTIDAD}/ordenamientos/{idl}/versiones/{v}"
+        reg.append({
+            "id": int(idl),
+            "nombre": meta.get("nombre_catalogo"),
+            "nombre_oficial": meta.get("nombre_oficial"),
+            "tipo": meta.get("tipo"),
+            "texto": f"{base}/texto.md",
+            "metadata": f"{base}/metadata.json",
+            "validacion": f"{base}/validacion.json",
+            "articulado": f"{ENTIDAD}/indices/articulos/{idl}.json",
+        })
+    doc = {
+        "entidad": ENTIDAD,
+        "generado": datetime.now(timezone.utc).isoformat(),
+        "base_raw": ("https://raw.githubusercontent.com/enriquedilo/"
+                     "biblioteca-legislativa/main/"),
+        "nota": ("Rutas relativas a la raiz del repositorio, con la version "
+                 "vigente ya resuelta. Antepon base_raw para leer por HTTP. "
+                 "No uses el enlace actual/ por HTTP: es un symlink."),
+        "ordenamientos": reg,
+    }
+    with open(os.path.join(IDX, "rutas.json"), "w", encoding="utf-8") as f:
+        json.dump(doc, f, ensure_ascii=False, indent=1)
+    return len(reg)
+
+
 def main():
     args = [a for a in sys.argv[1:]]
     ents = None
@@ -403,6 +443,8 @@ def _generar(que):
         print("fts:", gen_fts(), "articulos indexados")
     if que in ("remisiones", "todo"):
         print("remisiones:", gen_remisiones(), "aristas")
+    if que in ("rutas", "todo"):
+        print("rutas web:", gen_rutas(), "ordenamientos")
 
 
 if __name__ == "__main__":
