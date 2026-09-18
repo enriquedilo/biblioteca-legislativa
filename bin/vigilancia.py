@@ -105,6 +105,11 @@ def revisar(item, previo, forzar):
         url = item.get("url_" + clase)
         if not url:
             continue
+        # Si la biblioteca nunca archivó ese formato, su URL es informativa:
+        # el archivo no existe en el sitio y un 404 no es novedad. Vigilar solo
+        # lo que efectivamente se descargó evita un aviso repetido cada semana.
+        if not item.get("sha_" + clase):
+            continue
         h, _, err = pedir(url, "HEAD")
         if err and err.startswith("http_404"):
             hallazgos.append({"tipo": "no_encontrado", "clase": clase, "url": url,
