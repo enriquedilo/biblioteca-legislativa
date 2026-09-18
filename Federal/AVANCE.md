@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T02:49:16.389667+00:00
+Actualizado: 2026-09-18T02:49:36.420168+00:00
 
-Procesados: **64/453**. Intentados: 64/453. Pendientes reportados: 0.
+Procesados: **74/453**. Intentados: 74/453. Pendientes reportados: 0.
 
-Lote 6 cerrado; publicación por commit del lote.
+Lote 7 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -16,8 +16,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 3 | 10/10 | Publicado |
 | 4 | 10/10 | Publicado |
 | 5 | 10/10 | Publicado |
-| 6 | 10/10 | Cerrado localmente |
-| 7 | 0/10 | Pendiente |
+| 6 | 10/10 | Publicado |
+| 7 | 10/10 | Cerrado localmente |
 | 8 | 0/10 | Pendiente |
 | 9 | 0/10 | Pendiente |
 | 10 | 0/10 | Pendiente |
@@ -121,16 +121,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 6 | 60 | LIF_2026 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 6 | 61 | LIH | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 6 | 62 | LIC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 7 | 63 | LISF | pendiente | — |
-| 7 | 64 | LIE | pendiente | — |
-| 7 | 65 | LANSI | pendiente | — |
-| 7 | 66 | LCMM | pendiente | — |
-| 7 | 67 | LCNBV | pendiente | — |
-| 7 | 68 | LCNE | pendiente | — |
-| 7 | 69 | LCNDH | pendiente | — |
-| 7 | 70 | LESS | pendiente | — |
-| 7 | 71 | LEPECFE | pendiente | — |
-| 7 | 72 | LEPEPM | pendiente | — |
+| 7 | 63 | LISF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 7 | 64 | LIE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 7 | 65 | LANSI | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 7 | 66 | LCMM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 7 | 67 | LCNBV | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 7 | 68 | LCNE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 7 | 69 | LCNDH | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 7 | 70 | LESS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 7 | 71 | LEPECFE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 7 | 72 | LEPEPM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 8 | 73 | LFGR | pendiente | — |
 | 8 | 74 | LGN | pendiente | — |
 | 8 | 75 | LPF | pendiente | — |

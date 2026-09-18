@@ -70,16 +70,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 60 | LIF_2026 | LEY de Ingresos de la Federación para el Ejercicio Fiscal de 2026 | [Markdown](ordenamientos/60/versiones/8c02ac2aa422849bfc026b24cb55a9c8398cda835e0d31c9bd636690cbc2f770/texto.md) · procesado_con_incidencias |
 | 61 | LIH | LEY de Ingresos sobre Hidrocarburos | [Markdown](ordenamientos/61/versiones/947da740278625b79b19de2f633ab1749aaee261385ace38ae1fda6e36964043/texto.md) · procesado_con_incidencias |
 | 62 | LIC | LEY de Instituciones de Crédito | [Markdown](ordenamientos/62/versiones/a3fa46eaff90026caf9d9c46935e4171b53f94b7356e65451cd29c2a5dff45c6/texto.md) · procesado_con_incidencias |
-| 63 | LISF | LEY de Instituciones de Seguros y de Fianzas | pendiente |
-| 64 | LIE | LEY de Inversión Extranjera | pendiente |
-| 65 | LANSI | LEY de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos | pendiente |
-| 66 | LCMM | LEY de la Casa de Moneda de México | pendiente |
-| 67 | LCNBV | LEY de la Comisión Nacional Bancaria y de Valores | pendiente |
-| 68 | LCNE | LEY de la Comisión Nacional de Energía | pendiente |
-| 69 | LCNDH | LEY de la Comisión Nacional de los Derechos Humanos | pendiente |
-| 70 | LESS | LEY de la Economía Social y Solidaria | pendiente |
-| 71 | LEPECFE | LEY de la Empresa Pública del Estado, Comisión Federal de Electricidad | pendiente |
-| 72 | LEPEPM | LEY de la Empresa Pública del Estado, Petróleos Mexicanos | pendiente |
+| 63 | LISF | LEY de Instituciones de Seguros y de Fianzas | [Markdown](ordenamientos/63/versiones/f9cc8edc432161f55b4ee0cc7b6835efd15fbb9c7077ef5b6a83f28200c63bb8/texto.md) · procesado_con_incidencias |
+| 64 | LIE | LEY de Inversión Extranjera | [Markdown](ordenamientos/64/versiones/7f4dd81d049b94f2c6eabdde67db79885a7cc9212a2221a57407be92cf199887/texto.md) · procesado_con_incidencias |
+| 65 | LANSI | LEY de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos | [Markdown](ordenamientos/65/versiones/dc0d5fa695d5d494a12d2e6302855485f05b84f9baf01db42d329728e93fa7cd/texto.md) · procesado_con_incidencias |
+| 66 | LCMM | LEY de la Casa de Moneda de México | [Markdown](ordenamientos/66/versiones/5d1c12588fdd822d4acf2bf10036274f71228c49b6090a39dd995e96b91736ef/texto.md) · procesado_con_incidencias |
+| 67 | LCNBV | LEY de la Comisión Nacional Bancaria y de Valores | [Markdown](ordenamientos/67/versiones/36291ab6475d3d78dbf64c5224c412e4feb0fe81fdd3ef7edba3d896af1a4531/texto.md) · procesado_con_incidencias |
+| 68 | LCNE | LEY de la Comisión Nacional de Energía | [Markdown](ordenamientos/68/versiones/38f15f145a678d1f8d1eb590b48755a23a1cc10596d4c21ba6801addd9f83578/texto.md) · procesado_con_incidencias |
+| 69 | LCNDH | LEY de la Comisión Nacional de los Derechos Humanos | [Markdown](ordenamientos/69/versiones/31864b94753083c1da7e5eac123288e1d19837d94be056d589bcf3c09e611d53/texto.md) · procesado_con_incidencias |
+| 70 | LESS | LEY de la Economía Social y Solidaria | [Markdown](ordenamientos/70/versiones/270c8f8c988ee370dcb3e4fdd96cc140ee3f60a89488c7192e345195fd7b74c4/texto.md) · procesado_con_incidencias |
+| 71 | LEPECFE | LEY de la Empresa Pública del Estado, Comisión Federal de Electricidad | [Markdown](ordenamientos/71/versiones/718c9abe5048eb3f3718893a91284d47028d9a854f6d007c8e133d5b48eb2a5f/texto.md) · procesado_con_incidencias |
+| 72 | LEPEPM | LEY de la Empresa Pública del Estado, Petróleos Mexicanos | [Markdown](ordenamientos/72/versiones/c6499b1b52d8c9eb041ba4815451f509d4662fb9b30eb53e22f9217c78932bdd/texto.md) · procesado_con_incidencias |
 | 73 | LFGR | LEY de la Fiscalía General de la República | pendiente |
 | 74 | LGN | LEY de la Guardia Nacional | pendiente |
 | 75 | LPF | LEY de la Policía Federal | pendiente |
