@@ -10,13 +10,13 @@ No existe entrada que inicie lotes. Resultados y límites: `Federal/reportes/pil
 
 ## Lotes y corte vigente
 
-El piloto y el corte de cinco lotes fueron aprobados. Los lotes 1–25 están publicados. `lotes.py` persiste cada intento, recupera publicaciones interrumpidas y sincroniza federal antes del push, incorporando main sin reescribir commits publicados. El control pypdf es informativo.
+El piloto y el corte de cinco lotes fueron aprobados. Los lotes 1–30 están publicados. `lotes.py` persiste cada intento, recupera publicaciones interrumpidas y sincroniza federal antes del push, incorporando main sin reescribir commits publicados. El control pypdf es informativo.
 
-El usuario solicitó corregir los encabezados compuestos de las tres entidades y continuar los lotes 21–25. Corte actual: 254 procesados y 199 restantes; próximo lote 26. Para avanzar cinco lotes: `python3 bin/federal/lotes.py --lotes 5`. Si el usuario ordena detenerse, registrar la barrera reanudar_requiere_instruccion_usuario y usar --reanudar únicamente tras una instrucción posterior de continuación.
+El usuario solicitó corregir los encabezados compuestos de las tres entidades y continuar los lotes 21–25. Corte actual: 304 procesados y 149 restantes; próximo lote 31. Para avanzar cinco lotes: `python3 bin/federal/lotes.py --lotes 5`. Si el usuario ordena detenerse, registrar la barrera reanudar_requiere_instruccion_usuario y usar --reanudar únicamente tras una instrucción posterior de continuación.
 
 Slugs: cuando la sigla de origen sea numérica, incluidos sufijos numéricos de fecha, derivar del nombre oficial mediante slug_nombre; conservar sigla y archivo_origen. Si nombre_oficial no está cotejado, slug null con incidencia. Los siete casos señalados por el usuario y los dos casos anteriores con sufijo de fecha se ajustaron creando nuevas versiones de metadatos; originales y texto permanecen idénticos. Reporte: ajuste-slugs-numericos.json.
 
-Informe e inventario: `Federal/reportes/corte-lotes-21-25.md` y `originales-corte-25.json`. Los enlaces locales actual deben ser enlaces simbólicos; el clon principal tiene core.symlinks=false y un rebase puede representarlos como archivos. Verificar/restaurar al destino exacto de actual.json sin tocar originales ni textos.
+Informe e inventario: `Federal/reportes/corte-lotes-26-30.md` y `originales-corte-30.json`. Los enlaces locales actual deben ser enlaces simbólicos; el clon principal tiene core.symlinks=false y un rebase puede representarlos como archivos. Verificar/restaurar al destino exacto de actual.json sin tocar originales ni textos.
 
 ## Abrogación: metadatos
 
@@ -27,3 +27,5 @@ Informe e inventario: `Federal/reportes/corte-lotes-21-25.md` y `originales-cort
 ## Encabezados compuestos
 
 `bin/encabezados.py` comparte el reconocimiento conservador de sufijos ordinales y serie numérica, plural Artículos de un solo número y abreviaturas ordinales impresas. Los conversores de Nayarit/Federal y Sinaloa lo usan sin normalizar el rótulo literal. La corrección histórica se conserva en versiones nuevas, con evidencia de página en validacion.json y resumen en correccion-encabezados-compuestos.json de cada entidad. LFDA ID 169: errata impresa Artículos 135.- preservada. Índices/articulado no regenerados; sus rutas históricas se conservan hasta esa fase separada.
+
+La detección usa una palabra de sufijo abierta (incluye acentos), con serie opcional y delimitador. Admite rangos plurales impresos como Artículos 60 al 68.- sin expandirlos. Ver correccion-sufijos-abiertos.json y cotejo-id223.json. La portada del ID 223 declara invalidez de la abrogación y recuperación de vigencia; no se infiere una fecha de fin.
