@@ -331,16 +331,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 321 | Reg_LAASSP | DOF 18/12/2025 | [Markdown](ordenamientos/321/versiones/9c47217a7d121100024c21e3bfe04d4cdb28bbfde0c0b13a145b75d23b1bb67d/texto.md) · procesado_con_incidencias |
 | 322 | Reg_LAero | DOF 17/02/2000 | [Markdown](ordenamientos/322/versiones/78628510116d92b3c6107831668c6f27ee2d994227249ee729e861267302a28a/texto.md) · procesado_con_incidencias |
 | 323 | Reg_LAN_250814 | DOF 12/01/1994 | [Markdown](ordenamientos/323/versiones/8a9625cc74cafca3b95da7a8168a5583bb6cb626175682d4131c03b3e328739b/texto.md) · procesado_con_incidencias |
-| 324 | Reg_LAAM | DOF 09/11/2006 | pendiente |
-| 325 | Reg_LAREFAGN | DOF 19/07/2004 | pendiente |
-| 326 | Reg_LAPP_200217 | DOF 05/11/2012 | pendiente |
-| 327 | Reg_LARCP | DOF 06/11/2003 | pendiente |
-| 328 | Reg_LAC | DOF 07/12/1998 | pendiente |
-| 329 | Reg_LAAT_040615 | REGLAMENTO de la Ley de Ayuda Alimentaria para los Trabajadores | pendiente |
-| 330 | Reg_LBio | DOF 03/10/2025 | pendiente |
-| 331 | Reg_LBOGM | DOF 19/03/2008 | pendiente |
-| 332 | Reg_LCEC | DOF 09/02/2012 | pendiente |
-| 333 | Reg_LCE | DOF 30/12/1993 | pendiente |
+| 324 | Reg_LAAM | DOF 09/11/2006 | [Markdown](ordenamientos/324/versiones/3880100351699a51de1dc0283970aa7a2182a7e19aa96a65977f26a730e2142d/texto.md) · procesado_con_incidencias |
+| 325 | Reg_LAREFAGN | DOF 19/07/2004 | [Markdown](ordenamientos/325/versiones/48dda2c086cfcaa9cbb9ce48d70b7d75470cb15d8ee4aac9191dd72547a4d252/texto.md) · procesado_con_incidencias |
+| 326 | Reg_LAPP_200217 | DOF 05/11/2012 | [Markdown](ordenamientos/326/versiones/34c433f79c4c1c8705d1013ca1ea29e249944d528666206d7db3d6dbe37a716a/texto.md) · procesado_con_incidencias |
+| 327 | Reg_LARCP | DOF 06/11/2003 | [Markdown](ordenamientos/327/versiones/95678c25ec660c958a1f4719151a66b1554442821b8f376e5e242ae7398d5eed/texto.md) · procesado_con_incidencias |
+| 328 | Reg_LAC | DOF 07/12/1998 | [Markdown](ordenamientos/328/versiones/62b67de6d0e58736ee2c48020938feab4c339f0650b775262b3aae5b026079e2/texto.md) · procesado_con_incidencias |
+| 329 | Reg_LAAT_040615 | REGLAMENTO de la Ley de Ayuda Alimentaria para los Trabajadores | [Markdown](ordenamientos/329/versiones/0def553fc2f18bc9d363be7ecb6884e87e0dfdeb01135f8d3ac124453ce71d2b/texto.md) · procesado_con_incidencias |
+| 330 | Reg_LBio | DOF 03/10/2025 | [Markdown](ordenamientos/330/versiones/b18add8b10852e9d1da6f4b9fe516bdd6af7787461fe86ad087ce4b51e882df6/texto.md) · procesado_con_incidencias |
+| 331 | Reg_LBOGM | DOF 19/03/2008 | [Markdown](ordenamientos/331/versiones/edd786bb4f3d13d9beff9f907d5768621619ea6680053ad3f14a5bfe9f487bcc/texto.md) · procesado_con_incidencias |
+| 332 | Reg_LCEC | DOF 09/02/2012 | [Markdown](ordenamientos/332/versiones/8a55673fa5f1b1b50e4404c933e1aa253032a270522c6d8f157e762822b4da39/texto.md) · procesado_con_incidencias |
+| 333 | Reg_LCE | DOF 30/12/1993 | [Markdown](ordenamientos/333/versiones/b4d18e32886cfa0e00a6d2037a9592f4db30f4a16ad0b2165f7fae55c9dfcc54/texto.md) · procesado_con_incidencias |
 | 334 | Reg_LDRS_MOIRSSE | REGLAMENTO de la Ley de Desarrollo Rural Sustentable en Materia de Organismos, Instancias de Representación, Sistemas y Servicios Especializados | pendiente |
 | 335 | Reg_LEMEFAGN | DOF 14/08/2006 | pendiente |
 | 336 | Reg_LEN_270120 | DOF 27/01/2020 | pendiente |

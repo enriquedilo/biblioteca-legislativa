@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T15:07:33.398996+00:00
+Actualizado: 2026-09-18T15:07:50.859871+00:00
 
-Procesados: **324/453**. Intentados: 324/453. Pendientes reportados: 0.
+Procesados: **334/453**. Intentados: 334/453. Pendientes reportados: 0.
 
-Lote 32 cerrado; publicación por commit del lote.
+Lote 33 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -42,8 +42,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 29 | 10/10 | Publicado |
 | 30 | 10/10 | Publicado |
 | 31 | 10/10 | Publicado |
-| 32 | 10/10 | Cerrado localmente |
-| 33 | 0/10 | Pendiente |
+| 32 | 10/10 | Publicado |
+| 33 | 10/10 | Cerrado localmente |
 | 34 | 0/10 | Pendiente |
 | 35 | 0/10 | Pendiente |
 | 36 | 0/10 | Pendiente |
@@ -382,16 +382,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 32 | 321 | Reg_LAASSP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 32 | 322 | Reg_LAero | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 32 | 323 | Reg_LAN_250814 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 33 | 324 | Reg_LAAM | pendiente | — |
-| 33 | 325 | Reg_LAREFAGN | pendiente | — |
-| 33 | 326 | Reg_LAPP_200217 | pendiente | — |
-| 33 | 327 | Reg_LARCP | pendiente | — |
-| 33 | 328 | Reg_LAC | pendiente | — |
-| 33 | 329 | Reg_LAAT_040615 | pendiente | — |
-| 33 | 330 | Reg_LBio | pendiente | — |
-| 33 | 331 | Reg_LBOGM | pendiente | — |
-| 33 | 332 | Reg_LCEC | pendiente | — |
-| 33 | 333 | Reg_LCE | pendiente | — |
+| 33 | 324 | Reg_LAAM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 33 | 325 | Reg_LAREFAGN | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 33 | 326 | Reg_LAPP_200217 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 33 | 327 | Reg_LARCP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 33 | 328 | Reg_LAC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 33 | 329 | Reg_LAAT_040615 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 33 | 330 | Reg_LBio | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 33 | 331 | Reg_LBOGM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 33 | 332 | Reg_LCEC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 33 | 333 | Reg_LCE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 34 | 334 | Reg_LDRS_MOIRSSE | pendiente | — |
 | 34 | 335 | Reg_LEMEFAGN | pendiente | — |
 | 34 | 336 | Reg_LEN_270120 | pendiente | — |
