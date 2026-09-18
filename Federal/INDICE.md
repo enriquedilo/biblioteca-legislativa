@@ -261,16 +261,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 251 | LOPDC | LEY Orgánica de la Procuraduría de la Defensa del Contribuyente | [Markdown](ordenamientos/251/versiones/d4456d5a00367afa9ce6daaca4983f2ea9bc692eb0025555fafab483dae664ce/texto.md) · procesado_con_incidencias |
 | 252 | LOPGJDF | LEY Orgánica de la Procuraduría General de Justicia del Distrito Federal | [Markdown](ordenamientos/252/versiones/5221fe3b49efc5dc614fec736fd53e4bd2f426b333a680650f79ad3e0c05d278/texto.md) · procesado_con_incidencias |
 | 253 | LOUAAAN | LEY Orgánica de la Universidad Autónoma Agraria Antonio Narro | [Markdown](ordenamientos/253/versiones/1b88acc7c6eb72242c28132253aa86928cea0b13122239cbb777aa597af8c517/texto.md) · procesado_con_incidencias |
-| 254 | 157 | LEY Orgánica de la Universidad Autónoma Metropolitana | pendiente |
-| 255 | 158 | LEY Orgánica de la Universidad Nacional Autónoma de México | pendiente |
-| 256 | 159 | LEY Orgánica de los Tribunales Agrarios | pendiente |
-| 257 | 162 | LEY Orgánica de Nacional Financiera | pendiente |
-| 258 | LOSHF | LEY Orgánica de Sociedad Hipotecaria Federal | pendiente |
-| 259 | 164_190719 | LEY Orgánica del Banco del Bienestar | pendiente |
-| 260 | LOBNCE | LEY Orgánica del Banco Nacional de Comercio Exterior | pendiente |
-| 261 | LOBNOSP | LEY Orgánica del Banco Nacional de Obras y Servicios Públicos | pendiente |
-| 262 | 167 | LEY Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada | pendiente |
-| 263 | LOCFCRL_060120 | LEY Orgánica del Centro Federal de Conciliación y Registro Laboral | pendiente |
+| 254 | 157 | LEY Orgánica de la Universidad Autónoma Metropolitana | [Markdown](ordenamientos/254/versiones/945c1c3db8132060e6bc61c20a68c7fec7831f20dc74852859868851463b5045/texto.md) · procesado_con_incidencias |
+| 255 | 158 | LEY Orgánica de la Universidad Nacional Autónoma de México | [Markdown](ordenamientos/255/versiones/57549c6123f054d8c3d902bbb38b7caa919b3bf2c741495536c373e275865cf6/texto.md) · procesado_con_incidencias |
+| 256 | 159 | LEY Orgánica de los Tribunales Agrarios | [Markdown](ordenamientos/256/versiones/4f994b5f9516cc53812ed9ab2f82eb4948443e47d85d5cbc97e6e9916c272435/texto.md) · procesado_con_incidencias |
+| 257 | 162 | LEY Orgánica de Nacional Financiera | [Markdown](ordenamientos/257/versiones/ad2f65a0942f8ea3cc77d88a1cfa6d7dc3a774094440850d218b25eddfc97c0f/texto.md) · procesado_con_incidencias |
+| 258 | LOSHF | LEY Orgánica de Sociedad Hipotecaria Federal | [Markdown](ordenamientos/258/versiones/99b577aa1d2939f5a924209559a4c9420a749845eac3e8203a2e33f702c14c87/texto.md) · procesado_con_incidencias |
+| 259 | 164_190719 | LEY Orgánica del Banco del Bienestar | [Markdown](ordenamientos/259/versiones/0d2a1530b42ea59ba9f4040f1fd411048f39229266fb9fefcf60f46825c6f979/texto.md) · procesado_con_incidencias |
+| 260 | LOBNCE | LEY Orgánica del Banco Nacional de Comercio Exterior | [Markdown](ordenamientos/260/versiones/21a389b255dc282da251aa8691824bf0adfd02f87e9c844a27adeada8577c773/texto.md) · procesado_con_incidencias |
+| 261 | LOBNOSP | LEY Orgánica del Banco Nacional de Obras y Servicios Públicos | [Markdown](ordenamientos/261/versiones/f3c4de00863eefb01c6c180493e0ac96b56db1fa6b7b16b9e4e4105d19f43b6b/texto.md) · procesado_con_incidencias |
+| 262 | 167 | LEY Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada | [Markdown](ordenamientos/262/versiones/19a67c49ecdc26636d307b2b08361604236a2c1c147a5c8170d7aa9d5debe7ca/texto.md) · procesado_con_incidencias |
+| 263 | LOCFCRL_060120 | LEY Orgánica del Centro Federal de Conciliación y Registro Laboral | [Markdown](ordenamientos/263/versiones/a71f271549b51e141ea524df7b5f0abc7d84f60bfdb5a7908d5f3d1da2a8222b/texto.md) · procesado_con_incidencias |
 | 264 | LOCGEUM | LEY Orgánica del Congreso General de los Estados Unidos Mexicanos | pendiente |
 | 265 | LOEFAM | LEY Orgánica del Ejército y Fuerza Aérea Mexicanos | pendiente |
 | 266 | 170_171215 | LEY Orgánica del Instituto Nacional de Antropología e Historia | pendiente |

@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T14:59:57.833176+00:00
+Actualizado: 2026-09-18T15:00:10.234677+00:00
 
-Procesados: **254/453**. Intentados: 254/453. Pendientes reportados: 0.
+Procesados: **264/453**. Intentados: 264/453. Pendientes reportados: 0.
 
-Lote 25 publicado; corte 21–25 y corrección de encabezados verificados. Próximo lote: 26.
+Lote 26 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -36,7 +36,7 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 23 | 10/10 | Publicado |
 | 24 | 10/10 | Publicado |
 | 25 | 10/10 | Publicado |
-| 26 | 0/10 | Pendiente |
+| 26 | 10/10 | Cerrado localmente |
 | 27 | 0/10 | Pendiente |
 | 28 | 0/10 | Pendiente |
 | 29 | 0/10 | Pendiente |
@@ -312,16 +312,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 25 | 251 | LOPDC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 25 | 252 | LOPGJDF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 25 | 253 | LOUAAAN | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 26 | 254 | 157 | pendiente | — |
-| 26 | 255 | 158 | pendiente | — |
-| 26 | 256 | 159 | pendiente | — |
-| 26 | 257 | 162 | pendiente | — |
-| 26 | 258 | LOSHF | pendiente | — |
-| 26 | 259 | 164_190719 | pendiente | — |
-| 26 | 260 | LOBNCE | pendiente | — |
-| 26 | 261 | LOBNOSP | pendiente | — |
-| 26 | 262 | 167 | pendiente | — |
-| 26 | 263 | LOCFCRL_060120 | pendiente | — |
+| 26 | 254 | 157 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 26 | 255 | 158 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 26 | 256 | 159 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 26 | 257 | 162 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 26 | 258 | LOSHF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 26 | 259 | 164_190719 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 26 | 260 | LOBNCE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 26 | 261 | LOBNOSP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 26 | 262 | 167 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 26 | 263 | LOCFCRL_060120 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 27 | 264 | LOCGEUM | pendiente | — |
 | 27 | 265 | LOEFAM | pendiente | — |
 | 27 | 266 | 170_171215 | pendiente | — |
