@@ -100,16 +100,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 90 | LPO | LEY de Productos Orgánicos | [Markdown](ordenamientos/90/versiones/c679881a4152345ed06d41604206c11c4c7626330ccde0795f2b6839f3527563/texto.md) · procesado_con_incidencias |
 | 91 | LPAB | LEY de Protección al Ahorro Bancario | [Markdown](ordenamientos/91/versiones/de08c969f532b8a60089c72721f3d2bc84ad3df1cca2592373cd90c5e9681b54/texto.md) · procesado_con_incidencias |
 | 92 | 63 | LEY de Protección al Comercio y la Inversión de Normas Extranjeras que Contravengan el Derecho Internacional | [Markdown](ordenamientos/92/versiones/e6831de631394eca8d13b863bef7f5e5c82ab36770d5e93ce8087c65de5484d7/texto.md) · procesado_con_incidencias |
-| 93 | LPEAM | LEY de Protección del Espacio Aéreo Mexicano | pendiente |
-| 94 | LPDUSF | LEY de Protección y Defensa al Usuario de Servicios Financieros | pendiente |
-| 95 | 65_071220 | LEY de Puertos | pendiente |
-| 96 | LRAM | LEY de Recompensas de la Armada de México | pendiente |
-| 97 | LRCDN | LEY de Responsabilidad Civil por Daños Nucleares | pendiente |
-| 98 | LSInt_300519 | LEY de Seguridad Interior | pendiente |
-| 99 | LSN | LEY de Seguridad Nacional | pendiente |
-| 100 | LSP | LEY de Sistemas de Pagos | pendiente |
-| 101 | 70 | LEY de Sociedades de Responsabilidad Limitada de Interés Público | pendiente |
-| 102 | 71_240418 | LEY de Sociedades de Solidaridad Social | pendiente |
+| 93 | LPEAM | LEY de Protección del Espacio Aéreo Mexicano | [Markdown](ordenamientos/93/versiones/9bdeb921c167ec7e2c296fd151513fbde79e39ac9687bbe5fd3a8f740a27c913/texto.md) · procesado_con_incidencias |
+| 94 | LPDUSF | LEY de Protección y Defensa al Usuario de Servicios Financieros | [Markdown](ordenamientos/94/versiones/f70235ef1553289209078708fc4b5110aac7cd260e842e199be7f949232f2ed6/texto.md) · procesado_con_incidencias |
+| 95 | 65_071220 | LEY de Puertos | [Markdown](ordenamientos/95/versiones/5d60a2af4f3d681e943492af193de110f472e5d8d3d014f86708e7cbd6ed80df/texto.md) · procesado_con_incidencias |
+| 96 | LRAM | LEY de Recompensas de la Armada de México | [Markdown](ordenamientos/96/versiones/c722ae07014cf9f88cc2e003924ad03e5fe496a49b6835f8cad17425ceaaff49/texto.md) · procesado_con_incidencias |
+| 97 | LRCDN | LEY de Responsabilidad Civil por Daños Nucleares | [Markdown](ordenamientos/97/versiones/29068a930ed2a10374d15f79f0b8f55082ed4a1e181fa4880e4b3a918a953a0a/texto.md) · procesado_con_incidencias |
+| 98 | LSInt_300519 | LEY de Seguridad Interior | [Markdown](ordenamientos/98/versiones/5fd158b0a1197334b1dca7c939705d562e1c85e8011d7e04a9a5e570d6de6657/texto.md) · procesado_con_incidencias |
+| 99 | LSN | LEY de Seguridad Nacional | [Markdown](ordenamientos/99/versiones/601742d133372149590abd5d98a3b39c3e009161162416e1120944a3948ec302/texto.md) · procesado_con_incidencias |
+| 100 | LSP | LEY de Sistemas de Pagos | [Markdown](ordenamientos/100/versiones/b3686e9b684456382d4d8397d10a24eaf4dc99aa9fcea71265bb841c4141d801/texto.md) · procesado_con_incidencias |
+| 101 | 70 | LEY de Sociedades de Responsabilidad Limitada de Interés Público | [Markdown](ordenamientos/101/versiones/b870a8a274e8b53bc7c9739b54f1e195f66a9029eaedbdd5db744bc6b33fa3cd/texto.md) · procesado_con_incidencias |
+| 102 | 71_240418 | LEY de Sociedades de Solidaridad Social | [Markdown](ordenamientos/102/versiones/2823643bf2ca61eedd8ae81c98203cb9b662bc4e9dd885c0268ce9f642f2c8a9/texto.md) · procesado_con_incidencias |
 | 103 | LTF | LEY de Tesorería de la Federación | pendiente |
 | 104 | 256 | LEY de Transparencia y de Fomento a la Competencia en el Crédito Garantizado | pendiente |
 | 105 | LUC | LEY de Uniones de Crédito | pendiente |
