@@ -10,8 +10,10 @@ No existe entrada que inicie lotes. Resultados y límites: `Federal/reportes/pil
 
 ## Lotes y corte vigente
 
-El piloto fue aprobado y los lotes 1–5 están publicados. `lotes.py` persiste cada intento, recupera publicaciones interrumpidas y sincroniza federal antes del push, incorporando main sin reescribir commits publicados. El control pypdf es informativo.
+El piloto y el corte de cinco lotes fueron aprobados. Los lotes 1–10 están publicados. `lotes.py` persiste cada intento, recupera publicaciones interrumpidas y sincroniza federal antes del push, incorporando main sin reescribir commits publicados. El control pypdf es informativo.
 
-El usuario ordenó detenerse después del lote 5. El estado contiene una barrera explícita: no ejecutar el lote 6 sin nueva instrucción. Tras esa autorización, `python3 bin/federal/lotes.py --reanudar --lotes 5` retoma desde el lote pendiente. Sin `--reanudar`, el controlador se detiene mientras esa barrera esté activa.
+El usuario autorizó continuar desde el lote 6 y reportar al cerrar el 10. Corte actual: 104 procesados y 349 restantes; próximo lote 11. Para avanzar cinco lotes: `python3 bin/federal/lotes.py --lotes 5`. Si el usuario ordena detenerse, registrar la barrera reanudar_requiere_instruccion_usuario y usar --reanudar únicamente tras una instrucción posterior de continuación.
 
-Informe e inventario: `Federal/reportes/corte-lotes-01-05.md` y `originales-corte-05.json`. Los enlaces locales `actual` deben ser enlaces simbólicos; el clon principal tiene core.symlinks=false y un rebase puede representarlos como archivos. El corte verificó y restauró los enlaces federales al destino exacto de actual.json, sin tocar originales ni textos.
+Slugs: cuando la sigla de origen sea numérica, incluidos sufijos numéricos de fecha, derivar del nombre oficial mediante slug_nombre; conservar sigla y archivo_origen. Si nombre_oficial no está cotejado, slug null con incidencia. Los siete casos señalados por el usuario y los dos casos anteriores con sufijo de fecha se ajustaron creando nuevas versiones de metadatos; originales y texto permanecen idénticos. Reporte: ajuste-slugs-numericos.json.
+
+Informe e inventario: `Federal/reportes/corte-lotes-06-10.md` y `originales-corte-10.json`. Los enlaces locales actual deben ser enlaces simbólicos; el clon principal tiene core.symlinks=false y un rebase puede representarlos como archivos. Verificar/restaurar al destino exacto de actual.json sin tocar originales ni textos.

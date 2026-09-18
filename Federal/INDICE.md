@@ -18,7 +18,7 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 8 | CNPCF | CÓDIGO Nacional de Procedimientos Civiles y Familiares | [Markdown](ordenamientos/8/versiones/fccc19673a372a920e8b6a2cfee7d0950579810b4fbaf63198d6b01ae2ce0284/texto.md) · procesado_con_incidencias |
 | 9 | CNPP | CÓDIGO Nacional de Procedimientos Penales | [Markdown](ordenamientos/9/versiones/439403d393845526da7ac0590e74c16bf12069985056f09385cd1a5242805c2e/texto.md) · procesado_con_incidencias |
 | 10 | CPF | CÓDIGO Penal Federal | [Markdown](ordenamientos/10/versiones/b308d289b693a6668bc5ee18e58af82f7fd8a82a0191fef7a0db61cb723fecc9/texto.md) · procesado_con_incidencias |
-| 11 | 10_270614 | ESTATUTO de Gobierno del Distrito Federal | [Markdown](ordenamientos/11/versiones/51da591796539d6540f972f7c231da29d2d596ba9e3c5eff4de37b96c8589eb8/texto.md) · procesado_con_incidencias |
+| 11 | 10_270614 | ESTATUTO de Gobierno del Distrito Federal | [Markdown](ordenamientos/11/versiones/24213e5528d6d49a5b052387fc1adaeaed300572bceeac4b28af83674642121d/texto.md) · procesado_con_incidencias |
 | 12 | 79 | IMPUESTO sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos) | [Markdown](ordenamientos/12/versiones/d5006607543ffed1795884bfa8215f712c2320072b78c0103772a6868458cb1e/texto.md) · procesado_con_incidencias |
 | 13 | LAdua | LEY Aduanera | [Markdown](ordenamientos/13/versiones/4b54c1959edc35901f952963c8cfb754babc311d68ac37308a1ddc9b3c380088/texto.md) · procesado_con_incidencias |
 | 14 | LAgra | LEY Agraria | [Markdown](ordenamientos/14/versiones/e388320e596ba88c3a5aa57343547235320c7e9e5a32c67188aad7afc911c99b/texto.md) · procesado_con_incidencias |
@@ -57,7 +57,7 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 47 | LEN | LEY de Educación Naval | [Markdown](ordenamientos/47/versiones/419ea821b5f700cae4476a29266ee3d459c78d97d693d2b4676b628a976003be/texto.md) · procesado_con_incidencias |
 | 48 | 246 | LEY de Energía para el Campo | [Markdown](ordenamientos/48/versiones/581210fd1b7e0164c757b42e4af27ddd121d2d26ab9f1f00c96646975cab4ed4/texto.md) · procesado_con_incidencias |
 | 49 | 35 | LEY de Expropiación | [Markdown](ordenamientos/49/versiones/06a11c1e7c3bf601ac378ac30855e7002d015bd195af48119b83040f42140b79/texto.md) · procesado_con_incidencias |
-| 50 | 36_200521 | LEY de Extradición Internacional | [Markdown](ordenamientos/50/versiones/f67f0ab1a8830fb19c21b1a2e9e9116447e53d3580dc908ad0aad2c96496d234/texto.md) · procesado_con_incidencias |
+| 50 | 36_200521 | LEY de Extradición Internacional | [Markdown](ordenamientos/50/versiones/daa5875284691b8d35babc318f726d68b0153040ffb9cbcb0918244df58b6062/texto.md) · procesado_con_incidencias |
 | 51 | LFEA | LEY de Firma Electrónica Avanzada | [Markdown](ordenamientos/51/versiones/ea099defb155b876bd561d3c3d2dda8ef8e7c51b294b0ce88260cc61a9aa868f/texto.md) · procesado_con_incidencias |
 | 52 | LFRCF | LEY de Fiscalización y Rendición de Cuentas de la Federación | [Markdown](ordenamientos/52/versiones/515a845c7f690fac695d529c70fe22f3cfa792861f2703a9580cf327cd7fff66/texto.md) · procesado_con_incidencias |
 | 53 | LFCC_200120 | LEY de Fomento a la Confianza Ciudadana | [Markdown](ordenamientos/53/versiones/bc5145086b7b1d34cc0da82505300dc15f601040a63f74974cbd3a1296d7da88/texto.md) · procesado_con_incidencias |

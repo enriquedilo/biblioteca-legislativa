@@ -1,6 +1,6 @@
 {
   "creado": "2026-09-18T02:11:42.810650+00:00",
-  "fase": "lotes autorizados",
+  "fase": "corte tras lote 10 reportado",
   "tamano_lote": 10,
   "catalogados": 453,
   "catalogo_sha256": "0d1a3f61d7ef7730e4547251d78e2f292541e2e78b111c971cc3838750b77279",
@@ -3156,7 +3156,7 @@
         "id": 11,
         "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
         "paginas": 66,
-        "version": "51da591796539d6540f972f7c231da29d2d596ba9e3c5eff4de37b96c8589eb8",
+        "version": "24213e5528d6d49a5b052387fc1adaeaed300572bceeac4b28af83674642121d",
         "campos_incompletos": [
           "abroga",
           "decreto_numero",
@@ -6798,7 +6798,7 @@
         "id": 50,
         "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
         "paginas": 18,
-        "version": "f67f0ab1a8830fb19c21b1a2e9e9116447e53d3580dc908ad0aad2c96496d234",
+        "version": "daa5875284691b8d35babc318f726d68b0153040ffb9cbcb0918244df58b6062",
         "campos_incompletos": [
           "abroga",
           "abroga[].decreto",
@@ -22186,11 +22186,12 @@
     "6": "b2ae8495e8d7f3fc7ef01354449946d30d360a81",
     "7": "8f34b88e1cfbc5808fbe3659cd105b7a11eba235",
     "8": "2f660d2caf7dff93f6146396ee97ab221334a854",
-    "9": "2c53198485ce486a69a2812837318afc3c4d0e65"
+    "9": "2c53198485ce486a69a2812837318afc3c4d0e65",
+    "10": "ab261807145e1ee212393b92e1b942d3666f7d5e"
   },
-  "ultimo_evento": "Lote 10 cerrado; publicación por commit del lote.",
+  "ultimo_evento": "Lote 10 publicado; corte 6–10 verificado y reportado. Próximo lote: 11.",
   "control_pypdf": "informativo, no bloqueante",
-  "actualizado": "2026-09-18T02:50:48.584802+00:00",
+  "actualizado": "2026-09-18T02:52:17.087662+00:00",
   "procesados": 104,
   "intentados": 104,
   "pendientes_reportados": 0,

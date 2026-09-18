@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-09-18T02:48:45.432494+00:00",
+  "fecha": "2026-09-18T02:52:16.773763+00:00",
   "regla": "Slug derivado del nombre oficial si sigla numérica (incluidos sufijos numéricos de fecha); sigla y archivo_origen conservan procedencia.",
   "preservacion": "Versiones anteriores intactas; nuevas versiones corrigen exclusivamente metadatos.",
   "cambios": [
@@ -65,6 +65,24 @@
       "archivo_origen": "35.pdf",
       "version_anterior": "fbe58886099d9ef40d0752d97f139b23bd025ce8978a662987d5c94347949730",
       "version_nueva": "06a11c1e7c3bf601ac378ac30855e7002d015bd195af48119b83040f42140b79"
+    },
+    {
+      "id": 11,
+      "sigla": "10_270614",
+      "slug_anterior": "10_270614",
+      "slug_nuevo": "estatuto-de-gobierno-del-distrito-federal",
+      "archivo_origen": "10_270614.pdf",
+      "version_anterior": "51da591796539d6540f972f7c231da29d2d596ba9e3c5eff4de37b96c8589eb8",
+      "version_nueva": "24213e5528d6d49a5b052387fc1adaeaed300572bceeac4b28af83674642121d"
+    },
+    {
+      "id": 50,
+      "sigla": "36_200521",
+      "slug_anterior": "36_200521",
+      "slug_nuevo": "ley-de-extradicion-internacional",
+      "archivo_origen": "36_200521.pdf",
+      "version_anterior": "f67f0ab1a8830fb19c21b1a2e9e9116447e53d3580dc908ad0aad2c96496d234",
+      "version_nueva": "daa5875284691b8d35babc318f726d68b0153040ffb9cbcb0918244df58b6062"
     }
   ]
 }
