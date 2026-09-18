@@ -130,16 +130,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 120 | LINPI | LEY del Instituto Nacional de los Pueblos Indígenas | [Markdown](ordenamientos/120/versiones/ae71db11dc188d1f765ad7b8e28158d76f2793adb0399153a33dcf18f45bcd91/texto.md) · procesado_con_incidencias |
 | 121 | LMV | LEY del Mercado de Valores | [Markdown](ordenamientos/121/versiones/49d4278d1ef9e49658309db7471707139598a29b9146b05999784f62a9e11ad6/texto.md) · procesado_con_incidencias |
 | 122 | 269_200521 | LEY del Registro Público Vehicular | [Markdown](ordenamientos/122/versiones/4707962bc90223b6b94aa0286440123d4d3ed19d9233b3e04f9543634d363d90/texto.md) · procesado_con_incidencias |
-| 123 | LSE | LEY del Sector Eléctrico | pendiente |
-| 124 | LSH | LEY del Sector Hidrocarburos | pendiente |
-| 125 | LSS | LEY del Seguro Social | pendiente |
-| 126 | 93_041218 | LEY del Servicio de Administración Tributaria | pendiente |
-| 127 | 96_190418 | LEY del Servicio Exterior Mexicano | pendiente |
-| 128 | LSM | LEY del Servicio Militar | pendiente |
-| 129 | LSPM | LEY del Servicio Postal Mexicano | pendiente |
-| 130 | 260 | LEY del Servicio Profesional de Carrera en la Administración Pública Federal | pendiente |
-| 131 | LSNIEG | LEY del Sistema Nacional de Información Estadística y Geográfica | pendiente |
-| 132 | LSNIIMSP | LEY del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública | pendiente |
+| 123 | LSE | LEY del Sector Eléctrico | [Markdown](ordenamientos/123/versiones/7b49dc9aea279004096a1a142e762680dc89f48963bbbb02177288abc8c76201/texto.md) · procesado_con_incidencias |
+| 124 | LSH | LEY del Sector Hidrocarburos | [Markdown](ordenamientos/124/versiones/f3db7c64a5bd158ab359a14ba3f2828dd22390b025bfaa5438bf8ee6e58522f0/texto.md) · procesado_con_incidencias |
+| 125 | LSS | LEY del Seguro Social | [Markdown](ordenamientos/125/versiones/bc4951b07d4cdc6e764f2428d1eb806dbf66bf0e70aff0c501f892d3dd58c2ef/texto.md) · procesado_con_incidencias |
+| 126 | 93_041218 | LEY del Servicio de Administración Tributaria | [Markdown](ordenamientos/126/versiones/c4d6d0c7e966f3e0f083c75fec76d6910dbde2ac4d49131e1b32a6d9a3011804/texto.md) · procesado_con_incidencias |
+| 127 | 96_190418 | LEY del Servicio Exterior Mexicano | [Markdown](ordenamientos/127/versiones/0e20aaa1488426024ccb80bce8eeb86a012a805d5fd4c7c1530f1d4688b507d8/texto.md) · procesado_con_incidencias |
+| 128 | LSM | LEY del Servicio Militar | [Markdown](ordenamientos/128/versiones/a2ffc1305a188adcf4d857a8764e118d4caa0f1fbe2a15688a62f5cf375a9f5b/texto.md) · procesado_con_incidencias |
+| 129 | LSPM | LEY del Servicio Postal Mexicano | [Markdown](ordenamientos/129/versiones/fd93d53653c816f5e04e34410c9370ec2e9da76166fe9d131a953742c3a151f5/texto.md) · procesado_con_incidencias |
+| 130 | 260 | LEY del Servicio Profesional de Carrera en la Administración Pública Federal | [Markdown](ordenamientos/130/versiones/423a5f3fb37229010d0351938bbc82966b0a956853545d7b37a79ac04ca144f8/texto.md) · procesado_con_incidencias |
+| 131 | LSNIEG | LEY del Sistema Nacional de Información Estadística y Geográfica | [Markdown](ordenamientos/131/versiones/2ceada16f48e38919aa7d89fdd616328c880591b67e66b01594a42cef9237a23/texto.md) · procesado_con_incidencias |
+| 132 | LSNIIMSP | LEY del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública | [Markdown](ordenamientos/132/versiones/bfd01525dbab75df188687f593d984935581feaf2d292983e1ba07f7dfc694dc/texto.md) · procesado_con_incidencias |
 | 133 | LSPREM | LEY del Sistema Público de Radiodifusión del Estado Mexicano | pendiente |
 | 134 | LMTR | LEY en Materia de Telecomunicaciones y Radiodifusión | pendiente |
 | 135 | LFCDO | LEY Federal contra la Delincuencia Organizada | pendiente |

@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T03:03:17.943053+00:00
+Actualizado: 2026-09-18T03:03:37.196703+00:00
 
-Procesados: **124/453**. Intentados: 124/453. Pendientes reportados: 0.
+Procesados: **134/453**. Intentados: 134/453. Pendientes reportados: 0.
 
-Lote 12 cerrado; publicación por commit del lote.
+Lote 13 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -22,8 +22,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 9 | 10/10 | Publicado |
 | 10 | 10/10 | Publicado |
 | 11 | 10/10 | Publicado |
-| 12 | 10/10 | Cerrado localmente |
-| 13 | 0/10 | Pendiente |
+| 12 | 10/10 | Publicado |
+| 13 | 10/10 | Cerrado localmente |
 | 14 | 0/10 | Pendiente |
 | 15 | 0/10 | Pendiente |
 | 16 | 0/10 | Pendiente |
@@ -181,16 +181,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 12 | 120 | LINPI | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 12 | 121 | LMV | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 12 | 122 | 269_200521 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 13 | 123 | LSE | pendiente | — |
-| 13 | 124 | LSH | pendiente | — |
-| 13 | 125 | LSS | pendiente | — |
-| 13 | 126 | 93_041218 | pendiente | — |
-| 13 | 127 | 96_190418 | pendiente | — |
-| 13 | 128 | LSM | pendiente | — |
-| 13 | 129 | LSPM | pendiente | — |
-| 13 | 130 | 260 | pendiente | — |
-| 13 | 131 | LSNIEG | pendiente | — |
-| 13 | 132 | LSNIIMSP | pendiente | — |
+| 13 | 123 | LSE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 13 | 124 | LSH | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 13 | 125 | LSS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 13 | 126 | 93_041218 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 13 | 127 | 96_190418 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 13 | 128 | LSM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 13 | 129 | LSPM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 13 | 130 | 260 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 13 | 131 | LSNIEG | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 13 | 132 | LSNIIMSP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 14 | 133 | LSPREM | pendiente | — |
 | 14 | 134 | LMTR | pendiente | — |
 | 14 | 135 | LFCDO | pendiente | — |
