@@ -20,16 +20,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 10 | CPF | CÓDIGO Penal Federal | [Markdown](ordenamientos/10/versiones/b308d289b693a6668bc5ee18e58af82f7fd8a82a0191fef7a0db61cb723fecc9/texto.md) · procesado_con_incidencias |
 | 11 | 10_270614 | ESTATUTO de Gobierno del Distrito Federal | [Markdown](ordenamientos/11/versiones/51da591796539d6540f972f7c231da29d2d596ba9e3c5eff4de37b96c8589eb8/texto.md) · procesado_con_incidencias |
 | 12 | 79 | IMPUESTO sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos) | [Markdown](ordenamientos/12/versiones/3697d145b2db53f67dd701fe67bbab3984b887e57419f36619ca1f660a3faa6b/texto.md) · procesado_con_incidencias |
-| 13 | LAdua | LEY Aduanera | pendiente |
-| 14 | LAgra | LEY Agraria | pendiente |
-| 15 | LAASSP | LEY de Adquisiciones, Arrendamientos y Servicios del Sector Público | pendiente |
-| 16 | LAero | LEY de Aeropuertos | pendiente |
-| 17 | LAN | LEY de Aguas Nacionales | pendiente |
-| 18 | LACP | LEY de Ahorro y Crédito Popular | pendiente |
-| 19 | LAmn | LEY de Amnistía | pendiente |
-| 20 | 19 | LEY de Amnistía | pendiente |
-| 21 | LAmp | LEY de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos | pendiente |
-| 22 | LAAM | LEY de Ascensos de la Armada de México | pendiente |
+| 13 | LAdua | LEY Aduanera | [Markdown](ordenamientos/13/versiones/4b54c1959edc35901f952963c8cfb754babc311d68ac37308a1ddc9b3c380088/texto.md) · procesado_con_incidencias |
+| 14 | LAgra | LEY Agraria | [Markdown](ordenamientos/14/versiones/e388320e596ba88c3a5aa57343547235320c7e9e5a32c67188aad7afc911c99b/texto.md) · procesado_con_incidencias |
+| 15 | LAASSP | LEY de Adquisiciones, Arrendamientos y Servicios del Sector Público | [Markdown](ordenamientos/15/versiones/de2a40fb52ec15182a206715efd7d30287972e14f3c472369afb23bc768957c8/texto.md) · procesado_con_incidencias |
+| 16 | LAero | LEY de Aeropuertos | [Markdown](ordenamientos/16/versiones/ebba83ae239d6577078ad2b775271a1eb11a9f781f5ade00e2d090bb7056bb27/texto.md) · procesado_con_incidencias |
+| 17 | LAN | LEY de Aguas Nacionales | [Markdown](ordenamientos/17/versiones/58c7a712805e66bd9fca6a137dbc1f446d648a0375e25a3611489dde655c008d/texto.md) · procesado_con_incidencias |
+| 18 | LACP | LEY de Ahorro y Crédito Popular | [Markdown](ordenamientos/18/versiones/3c3aedf75114f726536dd6934314baa06e5c97b88265e3a3cb5a605003cf1824/texto.md) · procesado_con_incidencias |
+| 19 | LAmn | LEY de Amnistía | [Markdown](ordenamientos/19/versiones/e4b9ba40b4a6373ca75ff27113f65b551872f467b04802212bb53764ea85e553/texto.md) · procesado_con_incidencias |
+| 20 | 19 | LEY de Amnistía | [Markdown](ordenamientos/20/versiones/aa43246da1cb69d2654ecb56b7513534b49a82d87d77a30da198bd2f4db49e6c/texto.md) · procesado_con_incidencias |
+| 21 | LAmp | LEY de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos | [Markdown](ordenamientos/21/versiones/3af36ec815c3e042ea86ae9fbfa8408eecb87957cc0b57f5e95034d93546a926/texto.md) · procesado_con_incidencias |
+| 22 | LAAM | LEY de Ascensos de la Armada de México | [Markdown](ordenamientos/22/versiones/87ea2e6d5a0fdcfd4dc891392ab898917affbf4963fd1e6a2292a0e12fa2a3e6/texto.md) · procesado_con_incidencias |
 | 23 | LAREFAGN | LEY de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional | pendiente |
 | 24 | LASoc | LEY de Asistencia Social | pendiente |
 | 25 | LAPP | LEY de Asociaciones Público Privadas | pendiente |

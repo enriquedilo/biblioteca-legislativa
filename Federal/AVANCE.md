@@ -1,18 +1,18 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T02:12:21.674830+00:00
+Actualizado: 2026-09-18T02:12:45.614667+00:00
 
-Procesados: **14/453**. Intentados: 14/453. Pendientes reportados: 0.
+Procesados: **24/453**. Intentados: 24/453. Pendientes reportados: 0.
 
-Lote 1 cerrado; publicación por commit del lote.
+Lote 2 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
 | Lote | Intentados | Estado |
 |---|---:|---|
 | Piloto | 4/4 | Publicado |
-| 1 | 10/10 | Cerrado localmente |
-| 2 | 0/10 | Pendiente |
+| 1 | 10/10 | Publicado |
+| 2 | 10/10 | Cerrado localmente |
 | 3 | 0/10 | Pendiente |
 | 4 | 0/10 | Pendiente |
 | 5 | 0/10 | Pendiente |
@@ -71,16 +71,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 1 | 10 | CPF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 1 | 11 | 10_270614 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 1 | 12 | 79 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 2 | 13 | LAdua | pendiente | — |
-| 2 | 14 | LAgra | pendiente | — |
-| 2 | 15 | LAASSP | pendiente | — |
-| 2 | 16 | LAero | pendiente | — |
-| 2 | 17 | LAN | pendiente | — |
-| 2 | 18 | LACP | pendiente | — |
-| 2 | 19 | LAmn | pendiente | — |
-| 2 | 20 | 19 | pendiente | — |
-| 2 | 21 | LAmp | pendiente | — |
-| 2 | 22 | LAAM | pendiente | — |
+| 2 | 13 | LAdua | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 2 | 14 | LAgra | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 2 | 15 | LAASSP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 2 | 16 | LAero | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 2 | 17 | LAN | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 2 | 18 | LACP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 2 | 19 | LAmn | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 2 | 20 | 19 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 2 | 21 | LAmp | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 2 | 22 | LAAM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 3 | 23 | LAREFAGN | pendiente | — |
 | 3 | 24 | LASoc | pendiente | — |
 | 3 | 25 | LAPP | pendiente | — |
