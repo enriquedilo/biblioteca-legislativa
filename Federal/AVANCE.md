@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T02:14:07.568172+00:00
+Actualizado: 2026-09-18T02:14:23.655614+00:00
 
-Procesados: **34/453**. Intentados: 34/453. Pendientes reportados: 0.
+Procesados: **44/453**. Intentados: 44/453. Pendientes reportados: 0.
 
-Lote 3 cerrado; publicación por commit del lote.
+Lote 4 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -13,8 +13,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | Piloto | 4/4 | Publicado |
 | 1 | 10/10 | Publicado |
 | 2 | 10/10 | Publicado |
-| 3 | 10/10 | Cerrado localmente |
-| 4 | 0/10 | Pendiente |
+| 3 | 10/10 | Publicado |
+| 4 | 10/10 | Cerrado localmente |
 | 5 | 0/10 | Pendiente |
 | 6 | 0/10 | Pendiente |
 | 7 | 0/10 | Pendiente |
@@ -91,16 +91,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 3 | 30 | LBOGM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 3 | 31 | LCEC_120419 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 3 | 32 | LCPAF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 4 | 33 | 238 | pendiente | — |
-| 4 | 34 | LCJPJF | pendiente | — |
-| 4 | 35 | LCE | pendiente | — |
-| 4 | 36 | LCM | pendiente | — |
-| 4 | 37 | 30 | pendiente | — |
-| 4 | 38 | LCID_061120 | pendiente | — |
-| 4 | 39 | LCF | pendiente | — |
-| 4 | 40 | LDRS | pendiente | — |
-| 4 | 41 | LDSC | pendiente | — |
-| 4 | 42 | LDSCA | pendiente | — |
+| 4 | 33 | 238 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 4 | 34 | LCJPJF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 4 | 35 | LCE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 4 | 36 | LCM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 4 | 37 | 30 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 4 | 38 | LCID_061120 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 4 | 39 | LCF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 4 | 40 | LDRS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 4 | 41 | LDSC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 4 | 42 | LDSCA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 5 | 43 | LDEFAGN | pendiente | — |
 | 5 | 44 | LDFEFM | pendiente | — |
 | 5 | 45 | 252 | pendiente | — |

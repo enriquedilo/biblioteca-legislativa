@@ -40,16 +40,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 30 | LBOGM | LEY de Bioseguridad de Organismos Genéticamente Modificados | [Markdown](ordenamientos/30/versiones/8a28b69932a624250bd7645a5e6b992a770c6b8e0aa3f490fda76b07d4147810/texto.md) · procesado_con_incidencias |
 | 31 | LCEC_120419 | LEY de Cámaras Empresariales y sus Confederaciones | [Markdown](ordenamientos/31/versiones/8d6d2ca11db5d35bacb79ec673aa8ce08d4994a056815a442c0457c2098f7a6f/texto.md) · procesado_con_incidencias |
 | 32 | LCPAF | LEY de Caminos, Puentes y Autotransporte Federal | [Markdown](ordenamientos/32/versiones/80fe32a16f04d8b62c38be74634cd682e9fb812f3b55324dfd6f406942d586cc/texto.md) · procesado_con_incidencias |
-| 33 | 238 | LEY de Capitalización del Procampo | pendiente |
-| 34 | LCJPJF | LEY de Carrera Judicial del Poder Judicial de la Federación | pendiente |
-| 35 | LCE | LEY de Comercio Exterior | pendiente |
-| 36 | LCM | LEY de Concursos Mercantiles | pendiente |
-| 37 | 30 | LEY de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica | pendiente |
-| 38 | LCID_061120 | LEY de Cooperación Internacional para el Desarrollo | pendiente |
-| 39 | LCF | LEY de Coordinación Fiscal | pendiente |
-| 40 | LDRS | LEY de Desarrollo Rural Sustentable | pendiente |
-| 41 | LDSC | LEY de Desarrollo Sustentable de la Cafeticultura | pendiente |
-| 42 | LDSCA | LEY de Desarrollo Sustentable de la Caña de Azúcar | pendiente |
+| 33 | 238 | LEY de Capitalización del Procampo | [Markdown](ordenamientos/33/versiones/52c7eca5b84aee9f55d6c299403c09426d521ce0c794108368bfe57bf4bd57f6/texto.md) · procesado_con_incidencias |
+| 34 | LCJPJF | LEY de Carrera Judicial del Poder Judicial de la Federación | [Markdown](ordenamientos/34/versiones/d8a15eed490303917ade3e50a78882ba4dbb15d4bbb8c0f919c6779278a0ee6e/texto.md) · procesado_con_incidencias |
+| 35 | LCE | LEY de Comercio Exterior | [Markdown](ordenamientos/35/versiones/61c8599a0d550016c5c00b7d3b3ca8212658af4eebd77663bf7ac5f46cd1d894/texto.md) · procesado_con_incidencias |
+| 36 | LCM | LEY de Concursos Mercantiles | [Markdown](ordenamientos/36/versiones/396775a72c7a2ed986a5c295e2169d88e781d7663f97ea553052d40022a7daf9/texto.md) · procesado_con_incidencias |
+| 37 | 30 | LEY de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica | [Markdown](ordenamientos/37/versiones/e70dac833ebeeb6088c6b889b32e367f75fba225ad31f25939126861b002a6f3/texto.md) · procesado_con_incidencias |
+| 38 | LCID_061120 | LEY de Cooperación Internacional para el Desarrollo | [Markdown](ordenamientos/38/versiones/4ea85c435195495a048fb7bc86de6b2cfb5b4cc7f170bd9b617be2d3f72285c0/texto.md) · procesado_con_incidencias |
+| 39 | LCF | LEY de Coordinación Fiscal | [Markdown](ordenamientos/39/versiones/77272aa6611d05d79bcd6e17669966ef7b6cd26425239c7822315a24f53c226c/texto.md) · procesado_con_incidencias |
+| 40 | LDRS | LEY de Desarrollo Rural Sustentable | [Markdown](ordenamientos/40/versiones/c512022a435b810bbfe33a5e2fd80a9597f94c8f8f9e88ddc486b0356fe6c2ef/texto.md) · procesado_con_incidencias |
+| 41 | LDSC | LEY de Desarrollo Sustentable de la Cafeticultura | [Markdown](ordenamientos/41/versiones/af3d1727a2253d005dbd8e1677edcd491568d00eb221ae01446fa94335ada841/texto.md) · procesado_con_incidencias |
+| 42 | LDSCA | LEY de Desarrollo Sustentable de la Caña de Azúcar | [Markdown](ordenamientos/42/versiones/5c24bcaaed03c435ea485073cffd66a2be8e83ec106ea54629766160425d2005/texto.md) · procesado_con_incidencias |
 | 43 | LDEFAGN | LEY de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional | pendiente |
 | 44 | LDFEFM | LEY de Disciplina Financiera de las Entidades Federativas y los Municipios | pendiente |
 | 45 | 252 | LEY de Disciplina para el Personal de la Armada de México | pendiente |
