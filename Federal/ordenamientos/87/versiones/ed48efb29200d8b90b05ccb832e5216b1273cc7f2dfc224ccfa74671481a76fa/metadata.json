@@ -1,0 +1,810 @@
+{
+  "id": 87,
+  "nombre_catalogo": "LEY de Planeación",
+  "nombre_oficial": "LEY DE PLANEACIÓN",
+  "nombre_oficial_pendiente_de_cotejo": false,
+  "fuente": "https://www.diputados.gob.mx/LeyesBiblio/",
+  "urls": {
+    "pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPlan.pdf",
+    "word": "https://www.diputados.gob.mx/LeyesBiblio/doc/LPlan.doc"
+  },
+  "fecha_descarga": "2026-09-18T02:50:31.047784+00:00",
+  "fecha_catalogo_sin_interpretar": null,
+  "ultima_reforma": {
+    "numero": null,
+    "edicion": null,
+    "fecha": "2026-01-15"
+  },
+  "evidencia_encabezado": [
+    "LEY DE PLANEACIÓN Nueva Ley publicada en el Diario Oficial de la Federación el 5 de enero de 1983",
+    "Última Reforma DOF 15-01-2026"
+  ],
+  "hash_sha256": {
+    "pdf": "5a909996d6ef791fa377611c040a212dcf838cbf54ba16a7d7d0baaa57ac9962",
+    "word": "4ac906a43098f3379a6e7de6f3ddc450fab97e8abff43732c02dae3f3b8f64b3"
+  },
+  "version": "ed48efb29200d8b90b05ccb832e5216b1273cc7f2dfc224ccfa74671481a76fa",
+  "origen_markdown": "PDF original; conserva texto, numeración impresa, fracciones, transitorios y notas",
+  "estatus": "Incluido en índice federal vigente; vigencia jurídica no certificada",
+  "validacion": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "fecha_revision_conversion": "2026-09-18T02:50:31.047784+00:00",
+  "conversor": "Poppler / controles conservadores existentes / adaptación federal",
+  "decreto_numero": null,
+  "po_publicacion": {
+    "numero": null,
+    "edicion": null,
+    "fecha": "1983-01-05",
+    "seccion": null,
+    "diario": "DOF"
+  },
+  "reformas": [
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción adicionada DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 13-06-2003. Reformada y recorrida DOF 16-02-2018",
+      "fechas": [
+        "2003-06-13",
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada y recorrida DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 23-05-2002, 16-02-2018",
+      "fechas": [
+        "2002-05-23",
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 23-05-2002, 20-06-2011, 16-02-2018",
+      "fechas": [
+        "2002-05-23",
+        "2011-06-20",
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 27-01-2012, 16-02-2018",
+      "fechas": [
+        "2012-01-27",
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2011-06-20",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 20-06-2011",
+      "fechas": [
+        "2011-06-20"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 20-06-2011, 27-01-2012",
+      "fechas": [
+        "2011-06-20",
+        "2012-01-27"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción adicionada DOF 20-06-2011. Reformada DOF 27-01-2012, 15-01-2026",
+      "fechas": [
+        "2011-06-20",
+        "2012-01-27",
+        "2026-01-15"
+      ]
+    },
+    {
+      "fecha": "2012-01-27",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción adicionada DOF 27-01-2012",
+      "fechas": [
+        "2012-01-27"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 23-05-2002, 28-11-2016",
+      "fechas": [
+        "2002-05-23",
+        "2016-11-28"
+      ]
+    },
+    {
+      "fecha": "2012-01-27",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 27-01-2012",
+      "fechas": [
+        "2012-01-27"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 13-06-2003, 09-04-2012, 16-02-2018",
+      "fechas": [
+        "2003-06-13",
+        "2012-04-09",
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 23-05-2002, 09-04-2012, 15-01-2026",
+      "fechas": [
+        "2002-05-23",
+        "2012-04-09",
+        "2026-01-15"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo adicionado DOF 23-05-2002. Reformado DOF 20-06-2011, 27-01-2012, 15-01-2026",
+      "fechas": [
+        "2002-05-23",
+        "2011-06-20",
+        "2012-01-27",
+        "2026-01-15"
+      ]
+    },
+    {
+      "fecha": "2026-01-15",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 15-01-2026",
+      "fechas": [
+        "2026-01-15"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 23-05-2002, 10-04-2003, 20-06-2011, 09-04-2012, 16-02-2018",
+      "fechas": [
+        "2002-05-23",
+        "2003-04-10",
+        "2011-06-20",
+        "2012-04-09",
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2012-04-09",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 09-04-2012",
+      "fechas": [
+        "2012-04-09"
+      ]
+    },
+    {
+      "fecha": "2003-06-13",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 13-06-2003",
+      "fechas": [
+        "2003-06-13"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 13-06-2003, 20-06-2011, 16-02-2018",
+      "fechas": [
+        "2003-06-13",
+        "2011-06-20",
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 13-06-2003, 16-02-2018",
+      "fechas": [
+        "2003-06-13",
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 20-06-2011. Derogada DOF 16-02-2018",
+      "fechas": [
+        "2011-06-20",
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 20-06-2011, 16-02-2018",
+      "fechas": [
+        "2011-06-20",
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción adicionada DOF 20-06-2011. Reformada DOF 16-02-2018",
+      "fechas": [
+        "2011-06-20",
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2003-06-13",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 13-06-2003",
+      "fechas": [
+        "2003-06-13"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 23-05-2002, 16-02-2018",
+      "fechas": [
+        "2002-05-23",
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2002-05-23",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 23-05-2002",
+      "fechas": [
+        "2002-05-23"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 23-05-2002, 13-06-2003, 16-02-2018",
+      "fechas": [
+        "2002-05-23",
+        "2003-06-13",
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 23-05-2002, 08-05-2023",
+      "fechas": [
+        "2002-05-23",
+        "2023-05-08"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 23-05-2002, 16-02-2018",
+      "fechas": [
+        "2002-05-23",
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2012-04-09",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 09-04-2012",
+      "fechas": [
+        "2012-04-09"
+      ]
+    },
+    {
+      "fecha": "2003-06-13",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 13-06-2003",
+      "fechas": [
+        "2003-06-13"
+      ]
+    },
+    {
+      "fecha": "2003-06-13",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo adicionado DOF 13-06-2003",
+      "fechas": [
+        "2003-06-13"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2003-06-13",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo adicionado DOF 13-06-2003",
+      "fechas": [
+        "2003-06-13"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 23-05-2002, 27-01-2012, 16-02-2018",
+      "fechas": [
+        "2002-05-23",
+        "2012-01-27",
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2015-05-06",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo adicionado DOF 06-05-2015",
+      "fechas": [
+        "2015-05-06"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo adicionado DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2026-01-15",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 15-01-2026",
+      "fechas": [
+        "2026-01-15"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo adicionado DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 23-05-2002, 27-01-2012, 16-02-2018, 08-05-2023",
+      "fechas": [
+        "2002-05-23",
+        "2012-01-27",
+        "2018-02-16",
+        "2023-05-08"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 13-06-2003, 16-02-2018",
+      "fechas": [
+        "2003-06-13",
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 09-04-2012, 08-05-2023",
+      "fechas": [
+        "2012-04-09",
+        "2023-05-08"
+      ]
+    },
+    {
+      "fecha": "2003-06-13",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 13-06-2003",
+      "fechas": [
+        "2003-06-13"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2003-06-13",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 13-06-2003",
+      "fechas": [
+        "2003-06-13"
+      ]
+    },
+    {
+      "fecha": "2026-01-15",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 15-01-2026",
+      "fechas": [
+        "2026-01-15"
+      ]
+    },
+    {
+      "fecha": "2003-06-13",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo adicionado DOF 13-06-2003",
+      "fechas": [
+        "2003-06-13"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 23-05-2002, 27-01-2012, 09-04-2012, 16-02-2018",
+      "fechas": [
+        "2002-05-23",
+        "2012-01-27",
+        "2012-04-09",
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2002-05-23",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 23-05-2002",
+      "fechas": [
+        "2002-05-23"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    },
+    {
+      "fecha": "2018-02-16",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo derogado DOF 16-02-2018",
+      "fechas": [
+        "2018-02-16"
+      ]
+    }
+  ],
+  "abroga": [
+    {
+      "nombre": "Ley sobre Planeación General de la República del 12 de julio de 1930",
+      "po_numero": null,
+      "fecha": null,
+      "decreto": null
+    },
+    {
+      "nombre": "Ley General de Asentamientos Humanos",
+      "po_numero": null,
+      "fecha": "1993-07-21",
+      "decreto": null
+    },
+    {
+      "nombre": "Ley del Instituto Nacional de las Mujeres",
+      "po_numero": null,
+      "fecha": "2001-01-12",
+      "decreto": null
+    }
+  ],
+  "slug": "lplan",
+  "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPlan.pdf",
+  "url_word": "https://www.diputados.gob.mx/LeyesBiblio/doc/LPlan.doc",
+  "seccion_sitio": "index.htm",
+  "secciones_sitio": [
+    "index.htm"
+  ],
+  "nombre_catalogo_sitio": "LEY de Planeación",
+  "orden": "federal",
+  "regimen": "general",
+  "tipo": "ley",
+  "sigla": "LPlan",
+  "vigencia_anual": false,
+  "archivo_origen": "LPlan.pdf"
+}

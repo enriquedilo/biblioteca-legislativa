@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T02:50:20.551977+00:00
+Actualizado: 2026-09-18T02:50:36.518374+00:00
 
-Procesados: **84/453**. Intentados: 84/453. Pendientes reportados: 0.
+Procesados: **94/453**. Intentados: 94/453. Pendientes reportados: 0.
 
-Lote 8 cerrado; publicación por commit del lote.
+Lote 9 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -18,8 +18,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 5 | 10/10 | Publicado |
 | 6 | 10/10 | Publicado |
 | 7 | 10/10 | Publicado |
-| 8 | 10/10 | Cerrado localmente |
-| 9 | 0/10 | Pendiente |
+| 8 | 10/10 | Publicado |
+| 9 | 10/10 | Cerrado localmente |
 | 10 | 0/10 | Pendiente |
 | 11 | 0/10 | Pendiente |
 | 12 | 0/10 | Pendiente |
@@ -141,16 +141,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 8 | 80 | LSAR | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 8 | 81 | LMigra | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 8 | 82 | LMin | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 9 | 83 | 53 | pendiente | — |
-| 9 | 84 | LNCM | pendiente | — |
-| 9 | 85 | LOPSRM | pendiente | — |
-| 9 | 86 | 57 | pendiente | — |
-| 9 | 87 | LPlan | pendiente | — |
-| 9 | 88 | LPTE | pendiente | — |
-| 9 | 89 | LPERC | pendiente | — |
-| 9 | 90 | LPO | pendiente | — |
-| 9 | 91 | LPAB | pendiente | — |
-| 9 | 92 | 63 | pendiente | — |
+| 9 | 83 | 53 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 9 | 84 | LNCM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 9 | 85 | LOPSRM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 9 | 86 | 57 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 9 | 87 | LPlan | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 9 | 88 | LPTE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 9 | 89 | LPERC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 9 | 90 | LPO | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 9 | 91 | LPAB | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 9 | 92 | 63 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 10 | 93 | LPEAM | pendiente | — |
 | 10 | 94 | LPDUSF | pendiente | — |
 | 10 | 95 | 65_071220 | pendiente | — |

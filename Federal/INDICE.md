@@ -90,16 +90,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 80 | LSAR | LEY de los Sistemas de Ahorro para el Retiro | [Markdown](ordenamientos/80/versiones/18f8c17e9e7cf541711662b6a6a38c2ec776d8c1b44fc9f9e098e25750dd5bf5/texto.md) · procesado_con_incidencias |
 | 81 | LMigra | LEY de Migración | [Markdown](ordenamientos/81/versiones/a68713d1074c0feca249df0dfb612bb3c25c03921dddebfffc8153fcf1e6fc2d/texto.md) · procesado_con_incidencias |
 | 82 | LMin | LEY de Minería | [Markdown](ordenamientos/82/versiones/0a9c33581679774d1a24b627640afed199c0f2f3f9edab171efd6123fc2fe051/texto.md) · procesado_con_incidencias |
-| 83 | 53 | LEY de Nacionalidad | pendiente |
-| 84 | LNCM | LEY de Navegación y Comercio Marítimos | pendiente |
-| 85 | LOPSRM | LEY de Obras Públicas y Servicios Relacionados con las Mismas | pendiente |
-| 86 | 57 | LEY de Organizaciones Ganaderas | pendiente |
-| 87 | LPlan | LEY de Planeación | pendiente |
-| 88 | LPTE | LEY de Planeación y Transición Energética | pendiente |
-| 89 | LPERC | LEY de Premios, Estímulos y Recompensas Civiles | pendiente |
-| 90 | LPO | LEY de Productos Orgánicos | pendiente |
-| 91 | LPAB | LEY de Protección al Ahorro Bancario | pendiente |
-| 92 | 63 | LEY de Protección al Comercio y la Inversión de Normas Extranjeras que Contravengan el Derecho Internacional | pendiente |
+| 83 | 53 | LEY de Nacionalidad | [Markdown](ordenamientos/83/versiones/1a4e0c6e84b57977b5b61a3185209c2fd03a89a8ef1d3b6609188191daa0aa83/texto.md) · procesado_con_incidencias |
+| 84 | LNCM | LEY de Navegación y Comercio Marítimos | [Markdown](ordenamientos/84/versiones/2e7c66fa81941c5d97efabd09acb3251fa2cd8d43eee27526417836e825e36fe/texto.md) · procesado_con_incidencias |
+| 85 | LOPSRM | LEY de Obras Públicas y Servicios Relacionados con las Mismas | [Markdown](ordenamientos/85/versiones/335adfa7bea4d9d8ce765d27dd7ed8b10cc09ca224b01fc6a9438e2fea4db6bc/texto.md) · procesado_con_incidencias |
+| 86 | 57 | LEY de Organizaciones Ganaderas | [Markdown](ordenamientos/86/versiones/40835a70f88c7db814ad0b39f6523f7b82ed31f95e8432b7ed35c7063c0dc5be/texto.md) · procesado_con_incidencias |
+| 87 | LPlan | LEY de Planeación | [Markdown](ordenamientos/87/versiones/ed48efb29200d8b90b05ccb832e5216b1273cc7f2dfc224ccfa74671481a76fa/texto.md) · procesado_con_incidencias |
+| 88 | LPTE | LEY de Planeación y Transición Energética | [Markdown](ordenamientos/88/versiones/63195dd307ca9b662317dc727680301aedc544dc2d39cd389d14fced48dfad58/texto.md) · procesado_con_incidencias |
+| 89 | LPERC | LEY de Premios, Estímulos y Recompensas Civiles | [Markdown](ordenamientos/89/versiones/adfe4569f6bffe656b0a3612ff72d102618a2415aab738db7e7138e1fb612189/texto.md) · procesado_con_incidencias |
+| 90 | LPO | LEY de Productos Orgánicos | [Markdown](ordenamientos/90/versiones/c679881a4152345ed06d41604206c11c4c7626330ccde0795f2b6839f3527563/texto.md) · procesado_con_incidencias |
+| 91 | LPAB | LEY de Protección al Ahorro Bancario | [Markdown](ordenamientos/91/versiones/de08c969f532b8a60089c72721f3d2bc84ad3df1cca2592373cd90c5e9681b54/texto.md) · procesado_con_incidencias |
+| 92 | 63 | LEY de Protección al Comercio y la Inversión de Normas Extranjeras que Contravengan el Derecho Internacional | [Markdown](ordenamientos/92/versiones/e6831de631394eca8d13b863bef7f5e5c82ab36770d5e93ce8087c65de5484d7/texto.md) · procesado_con_incidencias |
 | 93 | LPEAM | LEY de Protección del Espacio Aéreo Mexicano | pendiente |
 | 94 | LPDUSF | LEY de Protección y Defensa al Usuario de Servicios Financieros | pendiente |
 | 95 | 65_071220 | LEY de Puertos | pendiente |
