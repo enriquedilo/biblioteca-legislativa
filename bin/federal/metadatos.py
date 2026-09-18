@@ -7,7 +7,18 @@ b=p.base;F=p.FED
 FECHA=r'(?:\d{1,2}(?:o|º|°)?\.?\s+(?:de\s+)?(?:enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)\s+(?:de|del)\s+\d{4}|\d{2}[-/]\d{2}[-/]\d{4})'
 SELF=re.compile(r'\b(?:Código|Ley|Reglamento|Estatuto|Constitución)\s+abrogad[ao]\b|\b(?:este|esta|su)\s+(?:ordenamiento|Código|Ley|Reglamento|vigencia).{0,80}?(?:abrogad[ao]|termina|concluye|finaliza|cesa)|\b(?:fin\s+de\s+vigencia|(?:vigencia|vigente)\s+(?:hasta|termina|concluye|finaliza|cesa|concluirá|terminará))\b',re.I)
 FIN=re.compile(r'(?:no\s+exceda|no\s+(?:podrá|pueda)\s+exceder|a\s+partir|(?:vigencia|vigente).{0,80}?(?:termina|concluye|hasta|finaliza|cesa|concluirá|terminará)|fin\s+de\s+vigencia)\s*(?:del?|el|día|:)?\s*('+FECHA+r')',re.I)
+def vigencia_recuperada(raw):
+ first=raw.split('\f')[0]
+ first=re.split(r'(?mi)^\s*\[?Al margen\b|^\s*(?:ART[ÍI]CULO|ART\.)\s*1[oº°]?[.:-]',first,maxsplit=1)[0]
+ flat=' '.join(first.split())
+ if not re.search(r'recupera.{0,14}vigencia|[“\"]Que Recupera Vigencia',flat,re.I):return None
+ paragraphs=[' '.join(x.split()) for x in re.split(r'\n\s*\n',first) if x.strip()]
+ evidence=' '.join(x for x in paragraphs if re.search(r'recupera.{0,14}vigencia|invalidez del Decreto',x,re.I))
+ decree=re.search(r'Decreto\s+DOF\s+\d{2}[-/]\d{2}[-/]\d{4}',evidence,re.I)
+ publication=re.search(r'(?:Sentencia[^.]{0,100}?publicada\s+en\s+el\s+Diario\s+Oficial(?:\s+de\s+la\s+Federación)?\s+el\s+|publicada\s+DOF\s*)('+FECHA+r')',evidence,re.I)
+ return {'fecha_publicacion_sentencia':p.iso(publication[1]) if publication else None,'decreto_invalidado':decree[0] if decree else None,'evidencia':{'pagina_pdf':1,'texto':evidence}}
 def abrogacion_programada(raw):
+ if vigencia_recuperada(raw):return None
  first=raw.split('\f')[0]
  # The portada ends before the historical promulgation preamble or article 1.
  first=re.split(r'(?mi)^\s*Al margen\b|^\s*(?:ART[ÍI]CULO|ART\.)\s*1[oº°]?[.:-]',first,maxsplit=1)[0]
@@ -36,14 +47,19 @@ def ajustar(m,v,raw):
  if removed:
   nv['incidencias'].append({'campo':'abroga','motivo':'Entradas con todos los campos null descartadas; se conserva evidencia literal de las cláusulas sin inferir datos.','indices_anteriores_descartados':removed})
   v['abroga_entradas_sin_datos_descartadas']={'cantidad':len(removed),'indices_anteriores':removed}
+ m['vigencia_recuperada']=vigencia_recuperada(raw)
  m['abrogacion_programada']=abrogacion_programada(raw)
+ if m['vigencia_recuperada']:
+  nv['evidencia'].pop('abrogacion_programada',None)
+  nv['evidencia']['vigencia_recuperada']=m['vigencia_recuperada']['evidencia']
+  nv['incidencias'].append({'campo':'vigencia_recuperada','motivo':'Abrogación invalidada y recuperación de vigencia impresas: abrogacion_programada null; no es una abrogación vigente.'})
  if m['abrogacion_programada']:
   a=m['abrogacion_programada'];nv['evidencia']['abrogacion_programada']=a['evidencia']
   if re.search(r'recupera.{0,12}vigencia|invalidez del Decreto',a['evidencia']['texto'],re.I):nv['incidencias'].append({'campo':'abrogacion_programada','motivo':'La portada declara invalidez del decreto abrogatorio y recuperación de vigencia. Registro histórico con evidencia completa; no representa una abrogación futura vigente.'})
   for field in ['decreto_dof','fecha_dof','fecha_fin_vigencia']:
    if a[field] is None:nv['incidencias'].append({'campo':'abrogacion_programada.'+field,'motivo':'Declaración impresa identificada, pero este dato no se localizó inequívocamente; null sin inferir.'})
   if re.search(r'no\s+exceda|no\s+(?:pueda|podrá)\s+exceder',a['evidencia']['texto'],re.I):nv['incidencias'].append({'campo':'abrogacion_programada.fecha_fin_vigencia','motivo':'La portada imprime una fecha límite máxima, sujeta a entrada gradual/declaratorias; no es una fecha única inferida de entrada en vigor. Se conserva la condición literal.'})
- else:nv['incidencias'].append({'campo':'abrogacion_programada','motivo':'Portada/encabezado sin declaración identificada de abrogación o término de vigencia en fecha cierta; null.'})
+ elif not m['vigencia_recuperada']:nv['incidencias'].append({'campo':'abrogacion_programada','motivo':'Portada/encabezado sin declaración identificada de abrogación o término de vigencia en fecha cierta; null.'})
  return removed
 def corregir_existentes():
  import sys
