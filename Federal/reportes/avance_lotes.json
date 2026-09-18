@@ -1,6 +1,6 @@
 {
   "creado": "2026-09-18T02:11:42.810650+00:00",
-  "fase": "lotes autorizados",
+  "fase": "detenido por instrucción del usuario tras lote 5",
   "tamano_lote": 10,
   "catalogados": 453,
   "catalogo_sha256": "c1b95375270df0744d59f4f9d059f497533b6f1570e636172fc913ce7a68b3d4",
@@ -17580,12 +17580,14 @@
     "1": "e4f1f8c472d42bdc76c3d09faa190a2316684fdc",
     "2": "5132a2fadd51134406b74301814a9fc2f17c6641",
     "3": "3760e9f76bf2047bfe532a97c076d51ae3dd716e",
-    "4": "3426bd1ffdc0fb059e6f7a436f71b6947f59ca4a"
+    "4": "3426bd1ffdc0fb059e6f7a436f71b6947f59ca4a",
+    "5": "c324dfa5e85b14c40f0c19dbdf23130a6fb1cd97"
   },
-  "ultimo_evento": "Lote 5 cerrado; publicación por commit del lote.",
+  "ultimo_evento": "Lote 5 publicado y corte verificado. Detenido antes del lote 6 por instrucción expresa del usuario.",
   "control_pypdf": "informativo, no bloqueante",
-  "actualizado": "2026-09-18T02:14:35.326431+00:00",
+  "actualizado": "2026-09-18T02:15:58.302409+00:00",
   "procesados": 54,
   "intentados": 54,
-  "pendientes_reportados": 0
+  "pendientes_reportados": 0,
+  "reanudar_requiere_instruccion_usuario": true
 }

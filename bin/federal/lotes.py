@@ -104,9 +104,12 @@ def publish(s,batch):
  print(git('push','origin','federal'),flush=True)
  commit=git('rev-parse','HEAD').strip();s['publicados'][str(batch)]=commit;s['ultimo_evento']=f'Lote {batch} publicado en federal: {commit}.';persist(s)
  print(s['ultimo_evento'],flush=True)
-def run(count):
+def run(count,reanudar=False):
  with (F/'.lotes.lock').open('a') as lock:
   fcntl.flock(lock,fcntl.LOCK_EX|fcntl.LOCK_NB);s=initialize()
+  if s.get('reanudar_requiere_instruccion_usuario'):
+   if not reanudar:raise RuntimeError('Detenido por el usuario tras lote 5. Use --reanudar solo tras una nueva instrucción de continuación.')
+   s['reanudar_requiere_instruccion_usuario']=False;s['fase']='lotes autorizados';persist(s)
   # Retry an interrupted publication before moving to another batch.
   closed=sorted({x['lote'] for x in s['items'] if x['lote'] and all(y['estado'] in TERMINALES for y in s['items'] if y['lote']==x['lote'])})
   for batch in closed:
@@ -121,4 +124,4 @@ def run(count):
    publish(s,batch)
   print(json.dumps({'procesados':s['procesados'],'intentados':s['intentados'],'pendientes':s['pendientes_reportados'],'lotes_publicados':len(s['publicados'])-1},ensure_ascii=False),flush=True)
 if __name__=='__main__':
- ap=argparse.ArgumentParser();ap.add_argument('--lotes',type=int,default=1);a=ap.parse_args();run(a.lotes)
+ ap=argparse.ArgumentParser();ap.add_argument('--lotes',type=int,default=1);ap.add_argument('--reanudar',action='store_true');a=ap.parse_args();run(a.lotes,a.reanudar)
