@@ -80,16 +80,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 70 | LESS | LEY de la Economía Social y Solidaria | [Markdown](ordenamientos/70/versiones/270c8f8c988ee370dcb3e4fdd96cc140ee3f60a89488c7192e345195fd7b74c4/texto.md) · procesado_con_incidencias |
 | 71 | LEPECFE | LEY de la Empresa Pública del Estado, Comisión Federal de Electricidad | [Markdown](ordenamientos/71/versiones/718c9abe5048eb3f3718893a91284d47028d9a854f6d007c8e133d5b48eb2a5f/texto.md) · procesado_con_incidencias |
 | 72 | LEPEPM | LEY de la Empresa Pública del Estado, Petróleos Mexicanos | [Markdown](ordenamientos/72/versiones/c6499b1b52d8c9eb041ba4815451f509d4662fb9b30eb53e22f9217c78932bdd/texto.md) · procesado_con_incidencias |
-| 73 | LFGR | LEY de la Fiscalía General de la República | pendiente |
-| 74 | LGN | LEY de la Guardia Nacional | pendiente |
-| 75 | LPF | LEY de la Policía Federal | pendiente |
-| 76 | LDPAM | LEY de los Derechos de las Personas Adultas Mayores | pendiente |
-| 77 | LHHEUM | LEY de los Husos Horarios en los Estados Unidos Mexicanos | pendiente |
-| 78 | LIGIE_2022 | LEY de los Impuestos Generales de Importación y de Exportación | pendiente |
-| 79 | LINS | LEY de los Institutos Nacionales de Salud | pendiente |
-| 80 | LSAR | LEY de los Sistemas de Ahorro para el Retiro | pendiente |
-| 81 | LMigra | LEY de Migración | pendiente |
-| 82 | LMin | LEY de Minería | pendiente |
+| 73 | LFGR | LEY de la Fiscalía General de la República | [Markdown](ordenamientos/73/versiones/0b654774b5491eced98231ddbeb2c1fa73b3eb8d847595f30daa746a4de892c1/texto.md) · procesado_con_incidencias |
+| 74 | LGN | LEY de la Guardia Nacional | [Markdown](ordenamientos/74/versiones/f63c392f2ec85c4ee2a7581d9b5d5ca04fc9667f5efa74d92d8e23b73d7efa45/texto.md) · procesado_con_incidencias |
+| 75 | LPF | LEY de la Policía Federal | [Markdown](ordenamientos/75/versiones/265b3e6855a31ea8ed703543f6d71cbb47e131b7af810e551e507adec8d8df32/texto.md) · procesado_con_incidencias |
+| 76 | LDPAM | LEY de los Derechos de las Personas Adultas Mayores | [Markdown](ordenamientos/76/versiones/a37e78cadcf6079444288cf3da42ca1f6000a21d0ed9b27a0cf279ea136c24bc/texto.md) · procesado_con_incidencias |
+| 77 | LHHEUM | LEY de los Husos Horarios en los Estados Unidos Mexicanos | [Markdown](ordenamientos/77/versiones/c9641b245372cdfe5970be0bef7774913b59c668976bc34850dbaf2c00ca12a4/texto.md) · procesado_con_incidencias |
+| 78 | LIGIE_2022 | LEY de los Impuestos Generales de Importación y de Exportación | [Markdown](ordenamientos/78/versiones/ac9eed6796a5d1a4da47e0a29fa3d5ce3bc0e1c4d0be9bea28b2abe54662d144/texto.md) · procesado_con_incidencias |
+| 79 | LINS | LEY de los Institutos Nacionales de Salud | [Markdown](ordenamientos/79/versiones/ebe6eec6a32b437cd04988e8d60680aff81bfb96eb559b1f3ac6050d2581a796/texto.md) · procesado_con_incidencias |
+| 80 | LSAR | LEY de los Sistemas de Ahorro para el Retiro | [Markdown](ordenamientos/80/versiones/18f8c17e9e7cf541711662b6a6a38c2ec776d8c1b44fc9f9e098e25750dd5bf5/texto.md) · procesado_con_incidencias |
+| 81 | LMigra | LEY de Migración | [Markdown](ordenamientos/81/versiones/a68713d1074c0feca249df0dfb612bb3c25c03921dddebfffc8153fcf1e6fc2d/texto.md) · procesado_con_incidencias |
+| 82 | LMin | LEY de Minería | [Markdown](ordenamientos/82/versiones/0a9c33581679774d1a24b627640afed199c0f2f3f9edab171efd6123fc2fe051/texto.md) · procesado_con_incidencias |
 | 83 | 53 | LEY de Nacionalidad | pendiente |
 | 84 | LNCM | LEY de Navegación y Comercio Marítimos | pendiente |
 | 85 | LOPSRM | LEY de Obras Públicas y Servicios Relacionados con las Mismas | pendiente |

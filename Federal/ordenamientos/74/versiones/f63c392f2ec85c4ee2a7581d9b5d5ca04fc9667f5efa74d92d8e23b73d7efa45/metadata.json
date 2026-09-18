@@ -1,0 +1,58 @@
+{
+  "id": 74,
+  "nombre_catalogo": "LEY de la Guardia Nacional",
+  "nombre_oficial": "LEY DE LA GUARDIA NACIONAL",
+  "nombre_oficial_pendiente_de_cotejo": false,
+  "fuente": "https://www.diputados.gob.mx/LeyesBiblio/",
+  "urls": {
+    "pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGN.pdf",
+    "word": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGN.doc"
+  },
+  "fecha_descarga": "2026-09-18T02:49:42.049762+00:00",
+  "fecha_catalogo_sin_interpretar": null,
+  "ultima_reforma": null,
+  "evidencia_encabezado": [
+    "LEY DE LA GUARDIA NACIONAL TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 16 de julio de 2025"
+  ],
+  "hash_sha256": {
+    "pdf": "dfe63e9a5dca843a804e5d7878671e2899f2b088534d9ed9813e9878c20b12bd",
+    "word": "2ba42249ca494e0e1f094786114f701b383edd6f80b62ce31fd9b510931fe1b9"
+  },
+  "version": "f63c392f2ec85c4ee2a7581d9b5d5ca04fc9667f5efa74d92d8e23b73d7efa45",
+  "origen_markdown": "PDF original; conserva texto, numeración impresa, fracciones, transitorios y notas",
+  "estatus": "Incluido en índice federal vigente; vigencia jurídica no certificada",
+  "validacion": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "fecha_revision_conversion": "2026-09-18T02:49:42.049762+00:00",
+  "conversor": "Poppler / controles conservadores existentes / adaptación federal",
+  "decreto_numero": null,
+  "po_publicacion": {
+    "numero": null,
+    "edicion": null,
+    "fecha": "2025-07-16",
+    "seccion": null,
+    "diario": "DOF"
+  },
+  "reformas": [],
+  "abroga": [
+    {
+      "nombre": "Ley de la Guardia Nacional",
+      "po_numero": null,
+      "fecha": "2019-05-27",
+      "decreto": null
+    }
+  ],
+  "slug": "lgn",
+  "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGN.pdf",
+  "url_word": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGN.doc",
+  "seccion_sitio": "index.htm",
+  "secciones_sitio": [
+    "index.htm"
+  ],
+  "nombre_catalogo_sitio": "LEY de la Guardia Nacional",
+  "orden": "federal",
+  "regimen": "general",
+  "tipo": "ley",
+  "sigla": "LGN",
+  "vigencia_anual": false,
+  "archivo_origen": "LGN.pdf"
+}

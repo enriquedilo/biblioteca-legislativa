@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T02:49:36.420168+00:00
+Actualizado: 2026-09-18T02:50:20.551977+00:00
 
-Procesados: **74/453**. Intentados: 74/453. Pendientes reportados: 0.
+Procesados: **84/453**. Intentados: 84/453. Pendientes reportados: 0.
 
-Lote 7 cerrado; publicación por commit del lote.
+Lote 8 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -17,8 +17,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 4 | 10/10 | Publicado |
 | 5 | 10/10 | Publicado |
 | 6 | 10/10 | Publicado |
-| 7 | 10/10 | Cerrado localmente |
-| 8 | 0/10 | Pendiente |
+| 7 | 10/10 | Publicado |
+| 8 | 10/10 | Cerrado localmente |
 | 9 | 0/10 | Pendiente |
 | 10 | 0/10 | Pendiente |
 | 11 | 0/10 | Pendiente |
@@ -131,16 +131,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 7 | 70 | LESS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 7 | 71 | LEPECFE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 7 | 72 | LEPEPM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 8 | 73 | LFGR | pendiente | — |
-| 8 | 74 | LGN | pendiente | — |
-| 8 | 75 | LPF | pendiente | — |
-| 8 | 76 | LDPAM | pendiente | — |
-| 8 | 77 | LHHEUM | pendiente | — |
-| 8 | 78 | LIGIE_2022 | pendiente | — |
-| 8 | 79 | LINS | pendiente | — |
-| 8 | 80 | LSAR | pendiente | — |
-| 8 | 81 | LMigra | pendiente | — |
-| 8 | 82 | LMin | pendiente | — |
+| 8 | 73 | LFGR | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 8 | 74 | LGN | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 8 | 75 | LPF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 8 | 76 | LDPAM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 8 | 77 | LHHEUM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 8 | 78 | LIGIE_2022 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 8 | 79 | LINS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 8 | 80 | LSAR | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 8 | 81 | LMigra | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 8 | 82 | LMin | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 9 | 83 | 53 | pendiente | — |
 | 9 | 84 | LNCM | pendiente | — |
 | 9 | 85 | LOPSRM | pendiente | — |
