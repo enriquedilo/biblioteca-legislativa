@@ -64,6 +64,11 @@ def prepare(row):
 def finalize(row,result):
  d=F/'ordenamientos'/str(row['id'])/'versiones'/result['version'];m=json.loads((d/'metadata.json').read_text());v=json.loads((d/'validacion.json').read_text())
  m.update(sigla=row['sigla'],vigencia_anual=row['vigencia_anual'],fuente=b.BASE,estatus='Incluido en índice federal vigente; vigencia jurídica no certificada',conversor='Poppler / controles conservadores existentes / adaptación federal')
+ m['archivo_origen']=Path(row['url_pdf']).name
+ if p.numeric_sigla(row['sigla']):
+  m['slug']=p.slug_nombre(m['nombre_oficial']) if m['nombre_oficial'] else None
+  if m['slug'] is None:v['metadatos_normativos']['incidencias'].append({'campo':'slug','motivo':'Sigla numérica y nombre oficial pendiente de cotejo; slug null, no se atribuye al catálogo el valor de nombre oficial.'})
+  else:row['slug']=m['slug']
  v['control_pypdf_informativo']=DIAGNOSTICO
  if row['sigla'].startswith('LIGIE'):v['metadatos_normativos']['incidencias'].append({'campo':'vigencia_anual','motivo':'Bandera administrativa solicitada por el usuario para la tarifa contenida en LIGIE; no se infiere vigencia jurídica anual del texto.'})
  for kind,sha in m['hash_sha256'].items():
@@ -108,7 +113,7 @@ def run(count,reanudar=False):
  with (F/'.lotes.lock').open('a') as lock:
   fcntl.flock(lock,fcntl.LOCK_EX|fcntl.LOCK_NB);s=initialize()
   if s.get('reanudar_requiere_instruccion_usuario'):
-   if not reanudar:raise RuntimeError('Detenido por el usuario tras lote 5. Use --reanudar solo tras una nueva instrucción de continuación.')
+   if not reanudar:raise RuntimeError('Detenido en el corte por instrucción del usuario. Use --reanudar solo tras una nueva instrucción de continuación.')
    s['reanudar_requiere_instruccion_usuario']=False;s['fase']='lotes autorizados';persist(s)
   # Retry an interrupted publication before moving to another batch.
   closed=sorted({x['lote'] for x in s['items'] if x['lote'] and all(y['estado'] in TERMINALES for y in s['items'] if y['lote']==x['lote'])})

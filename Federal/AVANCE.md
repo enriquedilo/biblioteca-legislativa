@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T02:15:58.302409+00:00
+Actualizado: 2026-09-18T02:49:16.389667+00:00
 
-Procesados: **54/453**. Intentados: 54/453. Pendientes reportados: 0.
+Procesados: **64/453**. Intentados: 64/453. Pendientes reportados: 0.
 
-Lote 5 publicado y corte verificado. Detenido antes del lote 6 por instrucción expresa del usuario.
+Lote 6 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -16,7 +16,7 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 3 | 10/10 | Publicado |
 | 4 | 10/10 | Publicado |
 | 5 | 10/10 | Publicado |
-| 6 | 0/10 | Pendiente |
+| 6 | 10/10 | Cerrado localmente |
 | 7 | 0/10 | Pendiente |
 | 8 | 0/10 | Pendiente |
 | 9 | 0/10 | Pendiente |
@@ -111,16 +111,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 5 | 50 | 36_200521 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 5 | 51 | LFEA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 5 | 52 | LFRCF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 6 | 53 | LFCC_200120 | pendiente | — |
-| 6 | 54 | LFIV_230518 | pendiente | — |
-| 6 | 55 | LFLL | pendiente | — |
-| 6 | 56 | LFAAR | pendiente | — |
-| 6 | 57 | LFI | pendiente | — |
-| 6 | 58 | LGeo | pendiente | — |
-| 6 | 59 | LICal_010720 | pendiente | — |
-| 6 | 60 | LIF_2026 | pendiente | — |
-| 6 | 61 | LIH | pendiente | — |
-| 6 | 62 | LIC | pendiente | — |
+| 6 | 53 | LFCC_200120 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 6 | 54 | LFIV_230518 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 6 | 55 | LFLL | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 6 | 56 | LFAAR | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 6 | 57 | LFI | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 6 | 58 | LGeo | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 6 | 59 | LICal_010720 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 6 | 60 | LIF_2026 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 6 | 61 | LIH | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 6 | 62 | LIC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 7 | 63 | LISF | pendiente | — |
 | 7 | 64 | LIE | pendiente | — |
 | 7 | 65 | LANSI | pendiente | — |

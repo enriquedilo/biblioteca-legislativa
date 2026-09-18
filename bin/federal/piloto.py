@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Piloto federal. Reutiliza controles conservadores existentes sin crear índices."""
-import sys,json,re,datetime,hashlib,os
+import sys,json,re,datetime,hashlib,os,unicodedata
 from pathlib import Path
 from html.parser import HTMLParser
 from urllib.parse import urljoin
@@ -25,6 +25,13 @@ class Table(HTMLParser):
    self.cell['text']+=d+' '
    if self.href and self.cell['links']:self.cell['links'][-1]['text']+=d
 
+def numeric_sigla(sigla):
+ return bool(re.fullmatch(r'\d+(?:_\d+)*',str(sigla)))
+
+def slug_nombre(nombre):
+ text=unicodedata.normalize('NFKD',nombre).encode('ascii','ignore').decode().casefold()
+ return re.sub(r'[^a-z0-9]+','-',text).strip('-')
+
 def catalog():
  old=FED/'catalogo/catalogo.json';prior=json.loads(old.read_text()) if old.exists() else [];ids={r['url_pdf']:r['id'] for r in prior};nextid=max(ids.values(),default=0)+1;rows=[]
  for section,pattern in [('index.htm',r'^pdf/[^/]+\.pdf$'),('regla.htm',r'^regley/Reg_[^/]+\.pdf$')]:
@@ -42,7 +49,7 @@ def catalog():
    low=name.casefold();tipo='reglamento' if section=='regla.htm' else ('constitucion' if low.startswith('constitución') else 'codigo' if low.startswith('código') else 'ley_general' if low.startswith('ley general') else 'ley_organica' if low.startswith('ley orgánica') else 'ley')
    ident=ids.get(url)
    if ident is None:ident=nextid;nextid+=1
-   rows.append({'id':ident,'sigla':sigla,'slug':sigla.lower(),'nombre_catalogo':name,'nombre_catalogo_sitio':name,'ley':name,'url_pdf':url,'url_word':urljoin(base.BASE,word) if word else None,'nb_extword':'doc','seccion_sitio':section,'secciones_sitio':[section],'orden':'federal','regimen':'general','tipo':tipo,'vigencia_anual':(low.startswith('ley de ingresos de la federación') and 'ejercicio fiscal' in low) or 'tarifa de la ley de los impuestos generales de importación y exportación' in low})
+   rows.append({'id':ident,'sigla':sigla,'slug':slug_nombre(name) if numeric_sigla(sigla) else sigla.lower(),'archivo_origen':Path(pdf).name,'nombre_catalogo':name,'nombre_catalogo_sitio':name,'ley':name,'url_pdf':url,'url_word':urljoin(base.BASE,word) if word else None,'nb_extword':'doc','seccion_sitio':section,'secciones_sitio':[section],'orden':'federal','regimen':'general','tipo':tipo,'vigencia_anual':(low.startswith('ley de ingresos de la federación') and 'ejercicio fiscal' in low) or 'tarifa de la ley de los impuestos generales de importación y exportación' in low})
  base.savejson(old,rows);return rows
 
 def iso(s):
