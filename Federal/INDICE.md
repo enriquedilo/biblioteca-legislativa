@@ -30,16 +30,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 20 | 19 | LEY de Amnistía | [Markdown](ordenamientos/20/versiones/aa43246da1cb69d2654ecb56b7513534b49a82d87d77a30da198bd2f4db49e6c/texto.md) · procesado_con_incidencias |
 | 21 | LAmp | LEY de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos | [Markdown](ordenamientos/21/versiones/3af36ec815c3e042ea86ae9fbfa8408eecb87957cc0b57f5e95034d93546a926/texto.md) · procesado_con_incidencias |
 | 22 | LAAM | LEY de Ascensos de la Armada de México | [Markdown](ordenamientos/22/versiones/87ea2e6d5a0fdcfd4dc891392ab898917affbf4963fd1e6a2292a0e12fa2a3e6/texto.md) · procesado_con_incidencias |
-| 23 | LAREFAGN | LEY de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional | pendiente |
-| 24 | LASoc | LEY de Asistencia Social | pendiente |
-| 25 | LAPP | LEY de Asociaciones Público Privadas | pendiente |
-| 26 | LARCP | LEY de Asociaciones Religiosas y Culto Público | pendiente |
-| 27 | LAC | LEY de Aviación Civil | pendiente |
-| 28 | LAAT | LEY de Ayuda Alimentaria para los Trabajadores | pendiente |
-| 29 | LBio | LEY de Biocombustibles | pendiente |
-| 30 | LBOGM | LEY de Bioseguridad de Organismos Genéticamente Modificados | pendiente |
-| 31 | LCEC_120419 | LEY de Cámaras Empresariales y sus Confederaciones | pendiente |
-| 32 | LCPAF | LEY de Caminos, Puentes y Autotransporte Federal | pendiente |
+| 23 | LAREFAGN | LEY de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional | [Markdown](ordenamientos/23/versiones/e3250af4c6e10c964158d6b00c4112a11f9cce9376b23188880be3c9e225c0e0/texto.md) · procesado_con_incidencias |
+| 24 | LASoc | LEY de Asistencia Social | [Markdown](ordenamientos/24/versiones/ca6d6a3a4af61f30e6dba994d53e470e081f7bbd066fc8aae496d4a8a24d1065/texto.md) · procesado_con_incidencias |
+| 25 | LAPP | LEY de Asociaciones Público Privadas | [Markdown](ordenamientos/25/versiones/c4216b4996597564f9a2a535013da5f196fc3b61915afba34597528f80e98ddc/texto.md) · procesado_con_incidencias |
+| 26 | LARCP | LEY de Asociaciones Religiosas y Culto Público | [Markdown](ordenamientos/26/versiones/0215e12dfc2c689a55cf3d719006ed6d1d286d5324e715fadbe079f9d50cc7b4/texto.md) · procesado_con_incidencias |
+| 27 | LAC | LEY de Aviación Civil | [Markdown](ordenamientos/27/versiones/6ec1867d3e1880c17f6560a1fea2bbf5bd1b99c41ddca6f5fd626f32d293e9d9/texto.md) · procesado_con_incidencias |
+| 28 | LAAT | LEY de Ayuda Alimentaria para los Trabajadores | [Markdown](ordenamientos/28/versiones/c7fe669cd65e892b68971d66ad2e5f4cfe480e9435859ce6b5aff9a29f1ccac0/texto.md) · procesado_con_incidencias |
+| 29 | LBio | LEY de Biocombustibles | [Markdown](ordenamientos/29/versiones/24ae3fa7b0bafb08782c2b990cb878d77de940a21efdfdaf21bda71580583c57/texto.md) · procesado_con_incidencias |
+| 30 | LBOGM | LEY de Bioseguridad de Organismos Genéticamente Modificados | [Markdown](ordenamientos/30/versiones/8a28b69932a624250bd7645a5e6b992a770c6b8e0aa3f490fda76b07d4147810/texto.md) · procesado_con_incidencias |
+| 31 | LCEC_120419 | LEY de Cámaras Empresariales y sus Confederaciones | [Markdown](ordenamientos/31/versiones/8d6d2ca11db5d35bacb79ec673aa8ce08d4994a056815a442c0457c2098f7a6f/texto.md) · procesado_con_incidencias |
+| 32 | LCPAF | LEY de Caminos, Puentes y Autotransporte Federal | [Markdown](ordenamientos/32/versiones/80fe32a16f04d8b62c38be74634cd682e9fb812f3b55324dfd6f406942d586cc/texto.md) · procesado_con_incidencias |
 | 33 | 238 | LEY de Capitalización del Procampo | pendiente |
 | 34 | LCJPJF | LEY de Carrera Judicial del Poder Judicial de la Federación | pendiente |
 | 35 | LCE | LEY de Comercio Exterior | pendiente |

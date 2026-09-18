@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T02:12:45.614667+00:00
+Actualizado: 2026-09-18T02:14:07.568172+00:00
 
-Procesados: **24/453**. Intentados: 24/453. Pendientes reportados: 0.
+Procesados: **34/453**. Intentados: 34/453. Pendientes reportados: 0.
 
-Lote 2 cerrado; publicación por commit del lote.
+Lote 3 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -12,8 +12,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 |---|---:|---|
 | Piloto | 4/4 | Publicado |
 | 1 | 10/10 | Publicado |
-| 2 | 10/10 | Cerrado localmente |
-| 3 | 0/10 | Pendiente |
+| 2 | 10/10 | Publicado |
+| 3 | 10/10 | Cerrado localmente |
 | 4 | 0/10 | Pendiente |
 | 5 | 0/10 | Pendiente |
 | 6 | 0/10 | Pendiente |
@@ -81,16 +81,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 2 | 20 | 19 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 2 | 21 | LAmp | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 2 | 22 | LAAM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 3 | 23 | LAREFAGN | pendiente | — |
-| 3 | 24 | LASoc | pendiente | — |
-| 3 | 25 | LAPP | pendiente | — |
-| 3 | 26 | LARCP | pendiente | — |
-| 3 | 27 | LAC | pendiente | — |
-| 3 | 28 | LAAT | pendiente | — |
-| 3 | 29 | LBio | pendiente | — |
-| 3 | 30 | LBOGM | pendiente | — |
-| 3 | 31 | LCEC_120419 | pendiente | — |
-| 3 | 32 | LCPAF | pendiente | — |
+| 3 | 23 | LAREFAGN | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 3 | 24 | LASoc | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 3 | 25 | LAPP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 3 | 26 | LARCP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 3 | 27 | LAC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 3 | 28 | LAAT | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 3 | 29 | LBio | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 3 | 30 | LBOGM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 3 | 31 | LCEC_120419 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 3 | 32 | LCPAF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 4 | 33 | 238 | pendiente | — |
 | 4 | 34 | LCJPJF | pendiente | — |
 | 4 | 35 | LCE | pendiente | — |
