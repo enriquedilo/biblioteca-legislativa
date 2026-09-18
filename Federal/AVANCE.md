@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T14:54:02.680668+00:00
+Actualizado: 2026-09-18T14:54:19.819690+00:00
 
-Procesados: **244/453**. Intentados: 244/453. Pendientes reportados: 0.
+Procesados: **254/453**. Intentados: 254/453. Pendientes reportados: 0.
 
-Lote 24 cerrado; publicación por commit del lote.
+Lote 25 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -34,8 +34,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 21 | 10/10 | Publicado |
 | 22 | 10/10 | Publicado |
 | 23 | 10/10 | Publicado |
-| 24 | 10/10 | Cerrado localmente |
-| 25 | 0/10 | Pendiente |
+| 24 | 10/10 | Publicado |
+| 25 | 10/10 | Cerrado localmente |
 | 26 | 0/10 | Pendiente |
 | 27 | 0/10 | Pendiente |
 | 28 | 0/10 | Pendiente |
@@ -302,16 +302,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 24 | 241 | LMEUM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 24 | 242 | LNEP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 24 | 243 | LNED | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 25 | 244 | LNMASCMP | pendiente | — |
-| 25 | 245 | LNRD_270519 | pendiente | — |
-| 25 | 246 | LNSIJPA | pendiente | — |
-| 25 | 247 | LNETB | pendiente | — |
-| 25 | 248 | LNUF | pendiente | — |
-| 25 | 249 | LOAPF | pendiente | — |
-| 25 | 250 | LOAM | pendiente | — |
-| 25 | 251 | LOPDC | pendiente | — |
-| 25 | 252 | LOPGJDF | pendiente | — |
-| 25 | 253 | LOUAAAN | pendiente | — |
+| 25 | 244 | LNMASCMP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 25 | 245 | LNRD_270519 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 25 | 246 | LNSIJPA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 25 | 247 | LNETB | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 25 | 248 | LNUF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 25 | 249 | LOAPF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 25 | 250 | LOAM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 25 | 251 | LOPDC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 25 | 252 | LOPGJDF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 25 | 253 | LOUAAAN | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 26 | 254 | 157 | pendiente | — |
 | 26 | 255 | 158 | pendiente | — |
 | 26 | 256 | 159 | pendiente | — |

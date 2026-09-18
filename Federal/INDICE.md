@@ -251,16 +251,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 241 | LMEUM | LEY Monetaria de los Estados Unidos Mexicanos | [Markdown](ordenamientos/241/versiones/305fe4cadd3ae83c2b03818e4cd40612b9cc3a247b91b7c685312a7ec1b4e411/texto.md) · procesado_con_incidencias |
 | 242 | LNEP | LEY Nacional de Ejecución Penal | [Markdown](ordenamientos/242/versiones/6cbab2c947d1b98ea35256934d3137ed4782a36030fcd06b2db7420bf2c33bc6/texto.md) · procesado_con_incidencias |
 | 243 | LNED | LEY Nacional de Extinción de Dominio | [Markdown](ordenamientos/243/versiones/3cf0078e4ff9a9fbe65dd9335c20c79c6007f665683355a3359a9258568a0be4/texto.md) · procesado_con_incidencias |
-| 244 | LNMASCMP | LEY Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal | pendiente |
-| 245 | LNRD_270519 | LEY Nacional del Registro de Detenciones | pendiente |
-| 246 | LNSIJPA | LEY Nacional del Sistema Integral de Justicia Penal para Adolescentes | pendiente |
-| 247 | LNETB | LEY Nacional para Eliminar Trámites Burocráticos | pendiente |
-| 248 | LNUF | LEY Nacional sobre el Uso de la Fuerza | pendiente |
-| 249 | LOAPF | LEY Orgánica de la Administración Pública Federal | pendiente |
-| 250 | LOAM | LEY Orgánica de la Armada de México | pendiente |
-| 251 | LOPDC | LEY Orgánica de la Procuraduría de la Defensa del Contribuyente | pendiente |
-| 252 | LOPGJDF | LEY Orgánica de la Procuraduría General de Justicia del Distrito Federal | pendiente |
-| 253 | LOUAAAN | LEY Orgánica de la Universidad Autónoma Agraria Antonio Narro | pendiente |
+| 244 | LNMASCMP | LEY Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal | [Markdown](ordenamientos/244/versiones/2152e03b5a21e95f17f3fe282e52c298e5ee74c4fd5b927c023af2f4bdcc3cd8/texto.md) · procesado_con_incidencias |
+| 245 | LNRD_270519 | LEY Nacional del Registro de Detenciones | [Markdown](ordenamientos/245/versiones/a459653a6e00c913aea94abe5bfc657364de40f4ca63d5d35b8b93bf1acbc792/texto.md) · procesado_con_incidencias |
+| 246 | LNSIJPA | LEY Nacional del Sistema Integral de Justicia Penal para Adolescentes | [Markdown](ordenamientos/246/versiones/0282d2838a9f107a5055e4b243d0462cec5515b5e1034f95326554b3e1529586/texto.md) · procesado_con_incidencias |
+| 247 | LNETB | LEY Nacional para Eliminar Trámites Burocráticos | [Markdown](ordenamientos/247/versiones/29fbb2f021b264653c47b496403ee5d94ee71792a4fb2e26cfd7d4dffda73161/texto.md) · procesado_con_incidencias |
+| 248 | LNUF | LEY Nacional sobre el Uso de la Fuerza | [Markdown](ordenamientos/248/versiones/3e596f0989ea29bbe8417ade60c68734e6d1ddb1574cd761d27502e738669c97/texto.md) · procesado_con_incidencias |
+| 249 | LOAPF | LEY Orgánica de la Administración Pública Federal | [Markdown](ordenamientos/249/versiones/6c822266ba4d53f17df47e575505e55b163cbd076516c72b228e1bd94f5aeb90/texto.md) · procesado_con_incidencias |
+| 250 | LOAM | LEY Orgánica de la Armada de México | [Markdown](ordenamientos/250/versiones/b143bc0ae3b67989c920040109681adbad0cf15e89bdb82033a133e1cbb11ba0/texto.md) · procesado_con_incidencias |
+| 251 | LOPDC | LEY Orgánica de la Procuraduría de la Defensa del Contribuyente | [Markdown](ordenamientos/251/versiones/d4456d5a00367afa9ce6daaca4983f2ea9bc692eb0025555fafab483dae664ce/texto.md) · procesado_con_incidencias |
+| 252 | LOPGJDF | LEY Orgánica de la Procuraduría General de Justicia del Distrito Federal | [Markdown](ordenamientos/252/versiones/5221fe3b49efc5dc614fec736fd53e4bd2f426b333a680650f79ad3e0c05d278/texto.md) · procesado_con_incidencias |
+| 253 | LOUAAAN | LEY Orgánica de la Universidad Autónoma Agraria Antonio Narro | [Markdown](ordenamientos/253/versiones/1b88acc7c6eb72242c28132253aa86928cea0b13122239cbb777aa597af8c517/texto.md) · procesado_con_incidencias |
 | 254 | 157 | LEY Orgánica de la Universidad Autónoma Metropolitana | pendiente |
 | 255 | 158 | LEY Orgánica de la Universidad Nacional Autónoma de México | pendiente |
 | 256 | 159 | LEY Orgánica de los Tribunales Agrarios | pendiente |
