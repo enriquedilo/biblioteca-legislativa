@@ -42,8 +42,8 @@ MESES["setiembre"] = 9
 RE_PAGINA = re.compile(r"<!--\s*PAGINA_PDF:\s*(\d+)\s*-->")
 # Encabezados de articulo: "### Artículo 47." / "### ARTÍCULO 1o." / "### Artículo 12 Bis."
 RE_ART = re.compile(
-    r"^#{1,4}\s*(?:ART[IÍ]CULO|ART[O]?\.)\s*([0-9]+)\s*(?:o|º|°)?\s*[.\-–]*\s*"
-    r"([-–A-ZÁÉÍÓÚa-záéíóú.\s]{0,26})?$",
+    r"^#{1,4}\s*(?:ART[IÍ]CULOS?|ART[O]?\.)\s*([0-9]+)\s*(?:o|º|°)?\s*[.\-–]*\s*"
+    r"((?:[-–A-ZÁÉÍÓÚa-záéíóú][-–A-ZÁÉÍÓÚa-záéíóú.\s0-9]{0,25})?)$",
     re.IGNORECASE)
 # Encabezado cortado por salto de pagina: "### ARTÍCULO 29-" y el sufijo abajo.
 RE_SUFIJO_SIG = re.compile(r"^\**\s*((?:BIS|TER|QUATER|QUINQUIES|SEXIES)?[-\s]*[A-Z])\s*\.", re.IGNORECASE)
@@ -54,7 +54,7 @@ def norm_sufijo(s):
     if not s:
         return ""
     s = " ".join(s.replace(".", " ").split()).upper().strip(" -")
-    if not s or not re.fullmatch(r"[-–A-ZÁÉÍÓÚ\s]+", s):
+    if not s or not re.fullmatch(r"[-–A-ZÁÉÍÓÚ][-–A-ZÁÉÍÓÚ0-9\s]*", s):
         return ""
     return re.sub(r"\s*-\s*", "-", s)
 
