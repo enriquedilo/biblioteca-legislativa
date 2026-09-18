@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T15:00:10.234677+00:00
+Actualizado: 2026-09-18T15:00:25.717298+00:00
 
-Procesados: **264/453**. Intentados: 264/453. Pendientes reportados: 0.
+Procesados: **274/453**. Intentados: 274/453. Pendientes reportados: 0.
 
-Lote 26 cerrado; publicación por commit del lote.
+Lote 27 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -36,8 +36,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 23 | 10/10 | Publicado |
 | 24 | 10/10 | Publicado |
 | 25 | 10/10 | Publicado |
-| 26 | 10/10 | Cerrado localmente |
-| 27 | 0/10 | Pendiente |
+| 26 | 10/10 | Publicado |
+| 27 | 10/10 | Cerrado localmente |
 | 28 | 0/10 | Pendiente |
 | 29 | 0/10 | Pendiente |
 | 30 | 0/10 | Pendiente |
@@ -322,16 +322,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 26 | 261 | LOBNOSP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 26 | 262 | 167 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 26 | 263 | LOCFCRL_060120 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 27 | 264 | LOCGEUM | pendiente | — |
-| 27 | 265 | LOEFAM | pendiente | — |
-| 27 | 266 | 170_171215 | pendiente | — |
-| 27 | 267 | 171 | pendiente | — |
-| 27 | 268 | LOPJF | pendiente | — |
-| 27 | 269 | LOSCM | pendiente | — |
-| 27 | 270 | LOTFJA | pendiente | — |
-| 27 | 271 | 176_210618 | pendiente | — |
-| 27 | 272 | LDVUMA_301216 | pendiente | — |
-| 27 | 273 | LDCMPME | pendiente | — |
+| 27 | 264 | LOCGEUM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 27 | 265 | LOEFAM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 27 | 266 | 170_171215 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 27 | 267 | 171 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 27 | 268 | LOPJF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 27 | 269 | LOSCM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 27 | 270 | LOTFJA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 27 | 271 | 176_210618 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 27 | 272 | LDVUMA_301216 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 27 | 273 | LDCMPME | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 28 | 274 | 177 | pendiente | — |
 | 28 | 275 | LFIIEDB | pendiente | — |
 | 28 | 276 | LUPDECR | pendiente | — |

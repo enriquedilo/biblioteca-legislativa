@@ -271,16 +271,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 261 | LOBNOSP | LEY Orgánica del Banco Nacional de Obras y Servicios Públicos | [Markdown](ordenamientos/261/versiones/f3c4de00863eefb01c6c180493e0ac96b56db1fa6b7b16b9e4e4105d19f43b6b/texto.md) · procesado_con_incidencias |
 | 262 | 167 | LEY Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada | [Markdown](ordenamientos/262/versiones/19a67c49ecdc26636d307b2b08361604236a2c1c147a5c8170d7aa9d5debe7ca/texto.md) · procesado_con_incidencias |
 | 263 | LOCFCRL_060120 | LEY Orgánica del Centro Federal de Conciliación y Registro Laboral | [Markdown](ordenamientos/263/versiones/a71f271549b51e141ea524df7b5f0abc7d84f60bfdb5a7908d5f3d1da2a8222b/texto.md) · procesado_con_incidencias |
-| 264 | LOCGEUM | LEY Orgánica del Congreso General de los Estados Unidos Mexicanos | pendiente |
-| 265 | LOEFAM | LEY Orgánica del Ejército y Fuerza Aérea Mexicanos | pendiente |
-| 266 | 170_171215 | LEY Orgánica del Instituto Nacional de Antropología e Historia | pendiente |
-| 267 | 171 | LEY Orgánica del Instituto Politécnico Nacional | pendiente |
-| 268 | LOPJF | LEY Orgánica del Poder Judicial de la Federación | pendiente |
-| 269 | LOSCM | LEY Orgánica del Seminario de Cultura Mexicana | pendiente |
-| 270 | LOTFJA | LEY Orgánica del Tribunal Federal de Justicia Administrativa | pendiente |
-| 271 | 176_210618 | LEY para Conservar la Neutralidad del País | pendiente |
-| 272 | LDVUMA_301216 | LEY para Determinar el Valor de la Unidad de Medida y Actualización | pendiente |
-| 273 | LDCMPME | LEY para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa | pendiente |
+| 264 | LOCGEUM | LEY Orgánica del Congreso General de los Estados Unidos Mexicanos | [Markdown](ordenamientos/264/versiones/f05d0013453fd103e866d422c1121e82431038067e4e05bb472e75843bc1c991/texto.md) · procesado_con_incidencias |
+| 265 | LOEFAM | LEY Orgánica del Ejército y Fuerza Aérea Mexicanos | [Markdown](ordenamientos/265/versiones/591e5417906a520ccc5200a5dd7337bf1eecfe0b73ac0bb1091b0d7a6676ff50/texto.md) · procesado_con_incidencias |
+| 266 | 170_171215 | LEY Orgánica del Instituto Nacional de Antropología e Historia | [Markdown](ordenamientos/266/versiones/e703673465b6cf91e88d2a712d44d3fe157f2717ec31a1fe843b6ab15f6039da/texto.md) · procesado_con_incidencias |
+| 267 | 171 | LEY Orgánica del Instituto Politécnico Nacional | [Markdown](ordenamientos/267/versiones/fcadfcef1805eb0320ad122c547aee77807bf374d0ec447daef1b174814adfdf/texto.md) · procesado_con_incidencias |
+| 268 | LOPJF | LEY Orgánica del Poder Judicial de la Federación | [Markdown](ordenamientos/268/versiones/fe21006df71b24f5eaad4450f96bc8df88b5a0b26047967a8d0fcfdc6be5b6d4/texto.md) · procesado_con_incidencias |
+| 269 | LOSCM | LEY Orgánica del Seminario de Cultura Mexicana | [Markdown](ordenamientos/269/versiones/0ef05a397b7d233907ce3d3080019df1add35a3aee48feae90ba882caaa4d5f6/texto.md) · procesado_con_incidencias |
+| 270 | LOTFJA | LEY Orgánica del Tribunal Federal de Justicia Administrativa | [Markdown](ordenamientos/270/versiones/b26156d1177513843e9d4ab17d577b307edcc932f9abfa1fcca7c3bfabcce0e4/texto.md) · procesado_con_incidencias |
+| 271 | 176_210618 | LEY para Conservar la Neutralidad del País | [Markdown](ordenamientos/271/versiones/b67284133916105982dc16697358ddcbe58235e93dcccaa5fefd799442b8fd1d/texto.md) · procesado_con_incidencias |
+| 272 | LDVUMA_301216 | LEY para Determinar el Valor de la Unidad de Medida y Actualización | [Markdown](ordenamientos/272/versiones/a34cecab9563cbb1b3b9a5c630d926b430a49098f885ac0508353e9e2672b442/texto.md) · procesado_con_incidencias |
+| 273 | LDCMPME | LEY para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa | [Markdown](ordenamientos/273/versiones/dd8507a5c3aaa6b5745c963357ff3bfd06aef88527237147386594ef9846f277/texto.md) · procesado_con_incidencias |
 | 274 | 177 | LEY para el Diálogo, la Conciliación y la Paz Digna en Chiapas | pendiente |
 | 275 | LFIIEDB | LEY para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar | pendiente |
 | 276 | LUPDECR | LEY para el uso y protección de la denominación y del emblema de la Cruz Roja | pendiente |

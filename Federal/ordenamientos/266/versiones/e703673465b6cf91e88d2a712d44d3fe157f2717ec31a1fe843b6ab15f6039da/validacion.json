@@ -1,0 +1,465 @@
+{
+  "id": 266,
+  "fecha_revision": "2026-09-18T15:00:18.655367+00:00",
+  "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 9,
+  "paginas_sin_texto": [],
+  "pagina_blanca_confirmada_visualmente": false,
+  "texto_conservado": true,
+  "comparacion_word_pdf": {
+    "palabras_comparadas": 3295,
+    "palabras_pdf": 3513,
+    "frecuencias_coinciden": false,
+    "orden_coincide_separando_nota_al_pie": false,
+    "nota_al_pie_reubicada_por_lector_word": null,
+    "normalizaciones_solo_comparacion": [
+      "Misma función lexical_tokens de Sinaloa; no modifica los originales ni el Markdown."
+    ],
+    "limite": "Campos Word y encabezados permanecen en el control; las diferencias se reportan sin reparación.",
+    "solo_word": {
+      "y": 1,
+      "embed": 1,
+      "word": 1,
+      "picture": 1,
+      "page": 1,
+      "numpages": 1
+    },
+    "solo_pdf": {
+      "ley": 9,
+      "orgánica": 8,
+      "del": 16,
+      "instituto": 8,
+      "nacional": 8,
+      "de": 40,
+      "antropología": 8,
+      "e": 7,
+      "historia": 8,
+      "cámara": 8,
+      "diputados": 8,
+      "h": 8,
+      "congreso": 8,
+      "la": 8,
+      "unión": 8,
+      "última": 8,
+      "reforma": 8,
+      "dof": 8,
+      "secretaría": 16,
+      "general": 8,
+      "servicios": 8,
+      "parlamentarios": 8
+    }
+  },
+  "articulos_word": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20"
+  ],
+  "articulos_pdf": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "artículo47de",
+    "artículo51de"
+  ],
+  "identificadores_articulos_coinciden": false,
+  "encabezados_transitorios": [
+    {
+      "pagina": 5,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 6,
+      "encabezado": "ARTICULO TRANSITORIO"
+    },
+    {
+      "pagina": 7,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 8,
+      "encabezado": "TRANSITORIOS"
+    }
+  ],
+  "encabezados_ordinales_en_seccion_transitoria": [
+    "UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Diario Oficial.- Félix de",
+    "ARTICULO PRIMERO.- Se reforman los artículos del 2o. al 9o., de la Ley Orgánica del Instituto",
+    "ARTICULO SEGUNDO.- Se derogan los artículos 10 al 20 de la Ley Orgánica del Instituto Nacional",
+    "UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de",
+    "ARTÍCULO ÚNICO.- Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al",
+    "ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.",
+    "ARTÍCULO DÉCIMO NOVENO.- Se REFORMAN los artículos 1o.; 2o., segundo párrafo, fracciones V,",
+    "PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario",
+    "SEGUNDO. El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura,",
+    "TERCERO. Los derechos laborales de los trabajadores que presten sus servicios en el Consejo",
+    "CUARTO. El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y",
+    "QUINTO. La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y",
+    "SEXTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean",
+    "SÉPTIMO. Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el",
+    "OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al",
+    "NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se",
+    "DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto."
+  ],
+  "articulos_numericos_en_seccion_transitoria": [
+    "artículo47de",
+    "artículo51de"
+  ],
+  "transitorios_y_notas_completos_incluidos": true,
+  "paginas_cotejadas_visualmente": [],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 2155,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 2875,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 13,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 2250,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 18,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 2141,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 13,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 1644,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 1348,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 3500,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 2541,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 2407,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    }
+  ],
+  "alcance": "Controles de conservación en todas las páginas; comparación de cifras con Poppler y pypdf. El cotejo visual se registra por separado. No certifica vigencia jurídica.",
+  "incidencias_resueltas": [],
+  "diferencias_de_fuente": [
+    "La secuencia de encabezados numéricos difiere Word/PDF; consultar contadores y evidencia. No se corrige.",
+    "La comparación léxica Word/PDF no coincide: encabezados repetidos, campos Word y otras diferencias pendientes de cotejo. No equivale a pérdida del Markdown.",
+    "El control original con retirada de paginación difiere. Se conserva el resultado y se añade comparación simétrica de cifras sin retirar paginación.",
+    "Hay discrepancias en la secuencia de cifras entre los dos lectores PDF; requieren cotejo, no se reparan.",
+    "Word original .doc conservado por autorización expresa del usuario; no se fabrica original.docx."
+  ],
+  "formato_word_original": "doc",
+  "ocr_ejecutado": false,
+  "incidencias_descarga": [],
+  "promociones_encabezado_evitadas": [
+    {
+      "linea": 13,
+      "texto": "artículo 47 de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161,",
+      "anterior": "ARTÍCULO ÚNICO.- Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al",
+      "siguiente": "primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado \"Del",
+      "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+      "pagina": 7
+    },
+    {
+      "linea": 30,
+      "texto": "artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman",
+      "anterior": "Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del",
+      "siguiente": "los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria",
+      "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+      "pagina": 7
+    }
+  ],
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-18T15:00:18.655367+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "decreto_numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.edicion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.seccion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "reformas",
+        "motivo": "Notas literales conservadas con todas las fechas; fecha escalar null si hay varias. Números de diario/decreto no impresos quedan null. Captura automática pendiente de revisión."
+      },
+      {
+        "campo": "abroga",
+        "motivo": "No se localizaron cláusulas con la forma expresa se abroga/queda abrogado; arreglo vacío pendiente de cotejo."
+      },
+      {
+        "campo": "abrogacion_programada",
+        "motivo": "Portada/encabezado sin declaración identificada de abrogación o término de vigencia en fecha cierta; null."
+      }
+    ],
+    "evidencia": {
+      "abroga": [],
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "LEY ORGÁNICA DEL INSTITUTO NACIONAL DE ANTROPOLOGÍA E HISTORIA Nueva Ley publicada en el Diario Oficial de la Federación el 3 de febrero de 1939"
+      },
+      "ultima_reforma": {
+        "pagina": 1,
+        "texto": "Última Reforma DOF 17-12-2015"
+      },
+      "reformas": {
+        "pagina_inicio": 1,
+        "encabezado": null,
+        "filas": [
+          {
+            "fila": 0,
+            "texto": "Artículo reformado DOF 17-12-2015",
+            "pagina": 1
+          },
+          {
+            "fila": 1,
+            "texto": "Fracción reformada DOF 17-12-2015",
+            "pagina": 2
+          },
+          {
+            "fila": 2,
+            "texto": "Fracción reformada DOF 17-12-2015",
+            "pagina": 2
+          },
+          {
+            "fila": 3,
+            "texto": "Fracción reformada DOF 17-12-2015",
+            "pagina": 2
+          },
+          {
+            "fila": 4,
+            "texto": "Artículo reformado DOF 13-01-1986",
+            "pagina": 3
+          },
+          {
+            "fila": 5,
+            "texto": "Artículo reformado DOF 13-01-1986",
+            "pagina": 3
+          },
+          {
+            "fila": 6,
+            "texto": "Artículo reformado DOF 13-01-1986",
+            "pagina": 3
+          },
+          {
+            "fila": 7,
+            "texto": "Artículo reformado DOF 13-01-1986",
+            "pagina": 4
+          },
+          {
+            "fila": 8,
+            "texto": "Artículo reformado DOF 13-01-1986, 23-01-1998, 17-12-2015",
+            "pagina": 4
+          },
+          {
+            "fila": 9,
+            "texto": "Fracción reformada DOF 17-12-2015",
+            "pagina": 4
+          },
+          {
+            "fila": 10,
+            "texto": "Fracción reformada DOF 17-12-2015",
+            "pagina": 4
+          },
+          {
+            "fila": 11,
+            "texto": "Fracción reformada DOF 17-12-2015",
+            "pagina": 4
+          },
+          {
+            "fila": 12,
+            "texto": "Fracción reformada DOF 17-12-2015",
+            "pagina": 4
+          },
+          {
+            "fila": 13,
+            "texto": "Artículo reformado DOF 13-01-1986",
+            "pagina": 4
+          },
+          {
+            "fila": 14,
+            "texto": "Artículo reformado DOF 13-01-1986",
+            "pagina": 4
+          },
+          {
+            "fila": 15,
+            "texto": "Artículo reformado DOF 13-01-1986",
+            "pagina": 5
+          },
+          {
+            "fila": 16,
+            "texto": "Artículo derogado DOF 13-01-1986",
+            "pagina": 5
+          },
+          {
+            "fila": 17,
+            "texto": "Artículo derogado DOF 13-01-1986",
+            "pagina": 5
+          },
+          {
+            "fila": 18,
+            "texto": "Artículo derogado DOF 13-01-1986",
+            "pagina": 5
+          },
+          {
+            "fila": 19,
+            "texto": "Artículo derogado DOF 13-01-1986",
+            "pagina": 5
+          },
+          {
+            "fila": 20,
+            "texto": "Artículo derogado DOF 13-01-1986",
+            "pagina": 5
+          },
+          {
+            "fila": 21,
+            "texto": "Artículo derogado DOF 13-01-1986",
+            "pagina": 5
+          },
+          {
+            "fila": 22,
+            "texto": "Artículo derogado DOF 13-01-1986",
+            "pagina": 5
+          },
+          {
+            "fila": 23,
+            "texto": "Artículo derogado DOF 13-01-1986",
+            "pagina": 5
+          },
+          {
+            "fila": 24,
+            "texto": "Artículo derogado DOF 13-01-1986",
+            "pagina": 5
+          },
+          {
+            "fila": 25,
+            "texto": "Artículo derogado DOF 13-01-1986",
+            "pagina": 5
+          },
+          {
+            "fila": 26,
+            "texto": "Artículo derogado DOF 13-01-1986",
+            "pagina": 5
+          }
+        ]
+      }
+    }
+  },
+  "control_pypdf_informativo": {
+    "fuente": "Usuario; piloto aprobado en la conversación",
+    "descripcion": "pypdf fragmenta números con espacios; verificado por el usuario contra originales en 11 páginas señaladas del CFF y tres de CPEUM. Markdown generado con Poppler.",
+    "decision": "Control informativo, no bloquea lotes y no modifica textos. No se atribuye cotejo visual adicional a Codex."
+  }
+}
