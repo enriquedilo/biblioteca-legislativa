@@ -10,10 +10,16 @@ No existe entrada que inicie lotes. Resultados y límites: `Federal/reportes/pil
 
 ## Lotes y corte vigente
 
-El piloto y el corte de cinco lotes fueron aprobados. Los lotes 1–10 están publicados. `lotes.py` persiste cada intento, recupera publicaciones interrumpidas y sincroniza federal antes del push, incorporando main sin reescribir commits publicados. El control pypdf es informativo.
+El piloto y el corte de cinco lotes fueron aprobados. Los lotes 1–15 están publicados. `lotes.py` persiste cada intento, recupera publicaciones interrumpidas y sincroniza federal antes del push, incorporando main sin reescribir commits publicados. El control pypdf es informativo.
 
-El usuario autorizó continuar desde el lote 6 y reportar al cerrar el 10. Corte actual: 104 procesados y 349 restantes; próximo lote 11. Para avanzar cinco lotes: `python3 bin/federal/lotes.py --lotes 5`. Si el usuario ordena detenerse, registrar la barrera reanudar_requiere_instruccion_usuario y usar --reanudar únicamente tras una instrucción posterior de continuación.
+El usuario autorizó continuar los lotes 11–15 y reportar al cerrar el 15. Corte actual: 154 procesados y 299 restantes; próximo lote 16. Para avanzar cinco lotes: `python3 bin/federal/lotes.py --lotes 5`. Si el usuario ordena detenerse, registrar la barrera reanudar_requiere_instruccion_usuario y usar --reanudar únicamente tras una instrucción posterior de continuación.
 
 Slugs: cuando la sigla de origen sea numérica, incluidos sufijos numéricos de fecha, derivar del nombre oficial mediante slug_nombre; conservar sigla y archivo_origen. Si nombre_oficial no está cotejado, slug null con incidencia. Los siete casos señalados por el usuario y los dos casos anteriores con sufijo de fecha se ajustaron creando nuevas versiones de metadatos; originales y texto permanecen idénticos. Reporte: ajuste-slugs-numericos.json.
 
-Informe e inventario: `Federal/reportes/corte-lotes-06-10.md` y `originales-corte-10.json`. Los enlaces locales actual deben ser enlaces simbólicos; el clon principal tiene core.symlinks=false y un rebase puede representarlos como archivos. Verificar/restaurar al destino exacto de actual.json sin tocar originales ni textos.
+Informe e inventario: `Federal/reportes/corte-lotes-11-15.md` y `originales-corte-15.json`. Los enlaces locales actual deben ser enlaces simbólicos; el clon principal tiene core.symlinks=false y un rebase puede representarlos como archivos. Verificar/restaurar al destino exacto de actual.json sin tocar originales ni textos.
+
+## Abrogación: metadatos
+
+`metadatos.ajustar` elimina entradas de abroga totalmente null, remapea los índices de incidencias y conserva evidencia impresa. Extrae abrogacion_programada de la portada, antes del cuerpo/preambulo histórico; objeto con decreto_dof, fecha_dof, fecha_fin_vigencia y evidencia, o null sin declaración. No infiere término anual a partir de ejercicio fiscal ni confunde abroga (otras normas) con la abrogación del propio ordenamiento. Fecha límite impresa se registra con su condición literal en validacion.json.
+
+`python3 bin/federal/metadatos.py --corregir-existentes` corrigió solo ID 5 y los documentos con entradas de abroga vacías: 29 documentos, 41 entradas. Se crearon versiones nuevas de metadatos y se comprobaron originales/texto/extracción idénticos. Los otros 75 del corte anterior permanecen sin modificar; el nuevo campo se añade también a cada documento de los lotes 11 en adelante. Estado y reporte por documento permiten retomar la corrección tras una interrupción. Detalle: ajuste-metadata-abrogacion.json.

@@ -1,6 +1,6 @@
 {
   "creado": "2026-09-18T02:11:42.810650+00:00",
-  "fase": "corte tras lote 10 reportado",
+  "fase": "corte tras lote 15 reportado",
   "tamano_lote": 10,
   "catalogados": 453,
   "catalogo_sha256": "0d1a3f61d7ef7730e4547251d78e2f292541e2e78b111c971cc3838750b77279",
@@ -26644,11 +26644,12 @@
     "11": "da62739e8248385ad1db68f4ea7afd2ab4a4a64a",
     "12": "374e274bdc03848f1fa21afe9aa74e3b5a78a7b5",
     "13": "bb25b1e458c17dc8ced80257fbefbb158da77c57",
-    "14": "bcf2c21815aa85b5b5c3bee13e26d81a72d766dd"
+    "14": "bcf2c21815aa85b5b5c3bee13e26d81a72d766dd",
+    "15": "b7628e2e41863c5d43a19eb15c252a9cd90a96ec"
   },
-  "ultimo_evento": "Lote 15 cerrado; publicación por commit del lote.",
+  "ultimo_evento": "Lote 15 publicado; corte 11–15 verificado. Metadata ajustada en los 29 documentos indicados por los criterios del usuario. Próximo lote: 16.",
   "control_pypdf": "informativo, no bloqueante",
-  "actualizado": "2026-09-18T03:04:20.566818+00:00",
+  "actualizado": "2026-09-18T03:05:41.726096+00:00",
   "procesados": 154,
   "intentados": 154,
   "pendientes_reportados": 0,
