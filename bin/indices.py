@@ -42,7 +42,7 @@ MESES["setiembre"] = 9
 RE_PAGINA = re.compile(r"<!--\s*PAGINA_PDF:\s*(\d+)\s*-->")
 # Encabezados de articulo: "### Artículo 47." / "### ARTÍCULO 1o." / "### Artículo 12 Bis."
 RE_ART = re.compile(
-    r"^#{1,4}\s*(?:ART[IÍ]CULOS?|ART[O]?\.)\s*([0-9]+)\s*(?:o|º|°)?\s*[.\-–]*\s*"
+    r"^#{1,4}\s*(?:ART[IÍ]CULOS?|ART[O]?\.)\s*([0-9]+)\s*(?:(?:o|º|°)(?![A-ZÁÉÍÓÚa-záéíóú]))?\s*[.\-–]*\s*"
     r"((?:[-–A-ZÁÉÍÓÚa-záéíóú][-–A-ZÁÉÍÓÚa-záéíóú.\s0-9]{0,25})?)$",
     re.IGNORECASE)
 # Encabezado cortado por salto de pagina: "### ARTÍCULO 29-" y el sufijo abajo.
