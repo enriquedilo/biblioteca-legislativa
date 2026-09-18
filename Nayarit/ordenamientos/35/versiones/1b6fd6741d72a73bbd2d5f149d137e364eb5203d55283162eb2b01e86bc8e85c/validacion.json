@@ -1,0 +1,301 @@
+{
+  "id": 35,
+  "fecha_revision": "2026-09-15T10:36:40.676162+00:00",
+  "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 7,
+  "paginas_sin_texto": [],
+  "pagina_blanca_confirmada_visualmente": false,
+  "texto_conservado": true,
+  "comparacion_word_pdf": {
+    "palabras_comparadas": 1759,
+    "palabras_pdf": 1865,
+    "frecuencias_coinciden": false,
+    "orden_coincide_separando_nota_al_pie": false,
+    "nota_al_pie_reubicada_por_lector_word": null,
+    "normalizaciones_solo_comparacion": [
+      "Misma función lexical_tokens de Sinaloa; no modifica los originales ni el Markdown."
+    ],
+    "limite": "Campos Word y encabezados permanecen en el control; las diferencias se reportan sin reparación.",
+    "solo_word": {
+      "h": 7,
+      "o": 1,
+      "toc": 18,
+      "z": 1,
+      "u": 1,
+      "hyperlink": 11,
+      "l": 11,
+      "pageref": 6
+    },
+    "solo_pdf": {
+      "ley": 6,
+      "para": 6,
+      "la": 6,
+      "creacion": 6,
+      "fomento": 6,
+      "y": 12,
+      "proteccion": 6,
+      "de": 18,
+      "nuevos": 6,
+      "conjuntos": 6,
+      "parques": 6,
+      "ciudades": 6,
+      "industriales": 6,
+      "en": 6,
+      "el": 6,
+      "estado": 12,
+      "nayarit": 12,
+      "poder": 6,
+      "legislativo": 6,
+      "del": 6,
+      "secretaría": 6,
+      "general": 6
+    }
+  },
+  "articulos_word": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18"
+  ],
+  "articulos_pdf": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18"
+  ],
+  "identificadores_articulos_coinciden": true,
+  "encabezados_transitorios": [
+    {
+      "pagina": 6,
+      "encabezado": "TRANSITORIO:"
+    }
+  ],
+  "encabezados_ordinales_en_seccion_transitoria": [
+    "Primero.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el",
+    "Segundo.- Se derogan solamente para el caso particular a que se contrae esta"
+  ],
+  "articulos_numericos_en_seccion_transitoria": [],
+  "transitorios_y_notas_completos_incluidos": true,
+  "paginas_cotejadas_visualmente": [],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 1497,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 1642,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 2187,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 1855,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 1675,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 1410,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 912,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    }
+  ],
+  "alcance": "Controles de conservación en todas las páginas; comparación de cifras con Poppler y pypdf. El cotejo visual se registra por separado. No certifica vigencia jurídica.",
+  "incidencias_resueltas": [],
+  "diferencias_de_fuente": [
+    "La comparación léxica Word/PDF no coincide: encabezados repetidos, campos Word y otras diferencias pendientes de cotejo. No equivale a pérdida del Markdown.",
+    "Word original .doc conservado por autorización expresa del usuario; no se fabrica original.docx."
+  ],
+  "formato_word_original": "doc",
+  "ocr_ejecutado": false,
+  "incidencias_descarga": [],
+  "promociones_encabezado_evitadas": [
+    {
+      "linea": 36,
+      "texto": "Artículo 1ro.- Se declara de interés público en el Estado de Nayarit, la creación,",
+      "anterior": "",
+      "siguiente": "fomento y protección de conjuntos, parques y ciudades industriales.",
+      "motivo": "renglón siguiente empieza en minúscula",
+      "pagina": 1
+    },
+    {
+      "linea": 39,
+      "texto": "Artículo 2do.- Son autoridades competentes para el fomento y promoción",
+      "anterior": "",
+      "siguiente": "industrial, la Dirección General de Promoción y Desarrollo del Estado de Nayarit, y",
+      "motivo": "renglón siguiente empieza en minúscula",
+      "pagina": 1
+    },
+    {
+      "linea": 44,
+      "texto": "Artículo 3ro.- Para los efectos de esta Ley se entenderá por:",
+      "anterior": "",
+      "siguiente": "",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 1
+    }
+  ],
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-15T10:36:40.676162+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "po_publicacion.numero",
+        "motivo": "Dato no impreso de forma identificable; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.edicion",
+        "motivo": "Dato no impreso de forma identificable; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "ultima_reforma.fecha",
+        "motivo": "Dato no impreso de forma identificable; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "ultima_reforma.numero",
+        "motivo": "Dato no impreso de forma identificable; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "ultima_reforma.edicion",
+        "motivo": "Dato no impreso de forma identificable; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "reformas",
+        "motivo": "Sin notas reconocidas; arreglo vacío, revisar si existen notas con otra presentación."
+      },
+      {
+        "campo": "abroga",
+        "motivo": "No se localizaron cláusulas con la forma expresa se abroga/queda abrogado; arreglo vacío pendiente de cotejo."
+      },
+      {
+        "campo": "nombre_oficial",
+        "motivo": "Nombre de catálogo no cotejado literalmente en la primera página; nombre oficial queda null."
+      }
+    ],
+    "evidencia": {
+      "abroga": [],
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "Ley Publicada en la Primera Sección del Periódico Oficial del Estado de Nayarit el sábado 18 de Octubre de 1975."
+      },
+      "decreto_numero": {
+        "pagina": 1,
+        "texto": "DECRETO NUMERO 5713"
+      }
+    }
+  },
+  "correccion_encabezados_compuestos": {
+    "fecha": "2026-09-18T14:51:27.577376+00:00",
+    "version_anterior": "a344928a51e3795b66352ef81027d6638e7ece95c6462dd94f156b898bf5b171",
+    "cantidad": 3,
+    "contenido_y_signos_conservados": true,
+    "originales_sin_cambios": true,
+    "evidencia_paginas": [
+      {
+        "pagina_pdf": 1,
+        "linea_extraccion": 36,
+        "encabezado_literal": "Artículo 1ro.-",
+        "evidencia": "Artículo 1ro.- Se declara de interés público en el Estado de Nayarit, la creación,",
+        "cambio": "Se separa el encabezado y se agrega ###; sin modificar caracteres impresos."
+      },
+      {
+        "pagina_pdf": 1,
+        "linea_extraccion": 39,
+        "encabezado_literal": "Artículo 2do.-",
+        "evidencia": "Artículo 2do.- Son autoridades competentes para el fomento y promoción",
+        "cambio": "Se separa el encabezado y se agrega ###; sin modificar caracteres impresos."
+      },
+      {
+        "pagina_pdf": 1,
+        "linea_extraccion": 44,
+        "encabezado_literal": "Artículo 3ro.-",
+        "evidencia": "Artículo 3ro.- Para los efectos de esta Ley se entenderá por:",
+        "cambio": "Se separa el encabezado y se agrega ###; sin modificar caracteres impresos."
+      }
+    ],
+    "limite": "Cotejo contra extracción del mismo PDF y marcadores; no altera ortografía, numeración ni notas. Sin regenerar articulado ni índices."
+  }
+}

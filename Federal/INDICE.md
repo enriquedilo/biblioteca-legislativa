@@ -10,22 +10,22 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 |---|---|---|---|
 | 1 | CPEUM | CONSTITUCIÓN Política de los Estados Unidos Mexicanos | [Markdown](ordenamientos/1/versiones/e943b45be6d313ac4476264ea10f3e3a890f97ae8df2b69062dbee25ec7edb2d/texto.md) · piloto_aprobado |
 | 2 | CCF | CÓDIGO Civil Federal | [Markdown](ordenamientos/2/versiones/20be0fa3aa248e84cc24b1fb7250a2ef81967c497a780928a2854a288a8b6d1b/texto.md) · procesado_con_incidencias |
-| 3 | CCom | CÓDIGO de Comercio | [Markdown](ordenamientos/3/versiones/0aa136be46b7f3246e7e769f93fb84bc4015bc92e5fd585121068bc3890bca80/texto.md) · procesado_con_incidencias |
-| 4 | CJM | CÓDIGO de Justicia Militar | [Markdown](ordenamientos/4/versiones/510f55be7e1f7b7f4093d96ad04eba76fb6b21591619446c15c3ae6a92122e78/texto.md) · procesado_con_incidencias |
+| 3 | CCom | CÓDIGO de Comercio | [Markdown](ordenamientos/3/versiones/0bcf3b16dffe56a394c2655ee9d8f1313504d8de375cdd20958d36ee27b7bc41/texto.md) · procesado_con_incidencias |
+| 4 | CJM | CÓDIGO de Justicia Militar | [Markdown](ordenamientos/4/versiones/31291969673474c84b03f08263b86f0f7e2c6c48dc6b48e03a1c4ca348fc0aa4/texto.md) · procesado_con_incidencias |
 | 5 | CFPC | CÓDIGO Federal de Procedimientos Civiles | [Markdown](ordenamientos/5/versiones/cca1f17f11078653fb33182f48964739b864889b839ac9d5962bb9ab3ea240d3/texto.md) · procesado_con_incidencias |
 | 6 | CFF | CÓDIGO Fiscal de la Federación | [Markdown](ordenamientos/6/versiones/22786fb79b0728a8b805304c12f292e5ea8b2bdcb9e7237ebfa2d3e8a0e804b6/texto.md) · piloto_aprobado |
 | 7 | CMPP | CÓDIGO Militar de Procedimientos Penales | [Markdown](ordenamientos/7/versiones/3f2e81d40a58b48377b5d33a96c429b1d5e0d53f44b1c6d88f4152ee66f259b2/texto.md) · procesado_con_incidencias |
 | 8 | CNPCF | CÓDIGO Nacional de Procedimientos Civiles y Familiares | [Markdown](ordenamientos/8/versiones/fccc19673a372a920e8b6a2cfee7d0950579810b4fbaf63198d6b01ae2ce0284/texto.md) · procesado_con_incidencias |
 | 9 | CNPP | CÓDIGO Nacional de Procedimientos Penales | [Markdown](ordenamientos/9/versiones/6da790d3e68739f88003f120d60f560d962c8e1111412d7e1fa3bb48984f0c86/texto.md) · procesado_con_incidencias |
-| 10 | CPF | CÓDIGO Penal Federal | [Markdown](ordenamientos/10/versiones/b308d289b693a6668bc5ee18e58af82f7fd8a82a0191fef7a0db61cb723fecc9/texto.md) · procesado_con_incidencias |
+| 10 | CPF | CÓDIGO Penal Federal | [Markdown](ordenamientos/10/versiones/03d1b9519cfccb8ddf4d964bf24d37e58efe26078ecfcd76f8b60652acc9e2af/texto.md) · procesado_con_incidencias |
 | 11 | 10_270614 | ESTATUTO de Gobierno del Distrito Federal | [Markdown](ordenamientos/11/versiones/24213e5528d6d49a5b052387fc1adaeaed300572bceeac4b28af83674642121d/texto.md) · procesado_con_incidencias |
 | 12 | 79 | IMPUESTO sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos) | [Markdown](ordenamientos/12/versiones/d5006607543ffed1795884bfa8215f712c2320072b78c0103772a6868458cb1e/texto.md) · procesado_con_incidencias |
-| 13 | LAdua | LEY Aduanera | [Markdown](ordenamientos/13/versiones/c08561cfa7b5691a4e30b7b87187d92a1ead0e2cb2ba300062e31d28d02569a0/texto.md) · procesado_con_incidencias |
+| 13 | LAdua | LEY Aduanera | [Markdown](ordenamientos/13/versiones/ddec04499f9d352f3d9be3afcfc5a32f14e7b765787fe9217e5c264ba2fe9c5e/texto.md) · procesado_con_incidencias |
 | 14 | LAgra | LEY Agraria | [Markdown](ordenamientos/14/versiones/e388320e596ba88c3a5aa57343547235320c7e9e5a32c67188aad7afc911c99b/texto.md) · procesado_con_incidencias |
 | 15 | LAASSP | LEY de Adquisiciones, Arrendamientos y Servicios del Sector Público | [Markdown](ordenamientos/15/versiones/de2a40fb52ec15182a206715efd7d30287972e14f3c472369afb23bc768957c8/texto.md) · procesado_con_incidencias |
-| 16 | LAero | LEY de Aeropuertos | [Markdown](ordenamientos/16/versiones/b50e8f5c3a6bc2732d571233a7e5cc17f60426e618bac6f042cd9041c2d8f440/texto.md) · procesado_con_incidencias |
-| 17 | LAN | LEY de Aguas Nacionales | [Markdown](ordenamientos/17/versiones/58c7a712805e66bd9fca6a137dbc1f446d648a0375e25a3611489dde655c008d/texto.md) · procesado_con_incidencias |
-| 18 | LACP | LEY de Ahorro y Crédito Popular | [Markdown](ordenamientos/18/versiones/f062cdb1ee8c1e193fd7a329bc851ea032065c207a37baa4584f4532002922f0/texto.md) · procesado_con_incidencias |
+| 16 | LAero | LEY de Aeropuertos | [Markdown](ordenamientos/16/versiones/8c4517039e3e755686e1c3a5f72aeea13404c2a91484ec69cebcf97f3cba607a/texto.md) · procesado_con_incidencias |
+| 17 | LAN | LEY de Aguas Nacionales | [Markdown](ordenamientos/17/versiones/8909b334a55655af8430151d74a099f4a74d3acbb25c7dc57563c2f0d526c71d/texto.md) · procesado_con_incidencias |
+| 18 | LACP | LEY de Ahorro y Crédito Popular | [Markdown](ordenamientos/18/versiones/091066f844662fb6dfe569d3de5c959d1ca3c20e4904b7e8b010285242407522/texto.md) · procesado_con_incidencias |
 | 19 | LAmn | LEY de Amnistía | [Markdown](ordenamientos/19/versiones/e4b9ba40b4a6373ca75ff27113f65b551872f467b04802212bb53764ea85e553/texto.md) · procesado_con_incidencias |
 | 20 | 19 | LEY de Amnistía | [Markdown](ordenamientos/20/versiones/ac63e3aa943b314484856259bec4a10ceacf5d8b00c962ecfb045aefd39406fc/texto.md) · procesado_con_incidencias |
 | 21 | LAmp | LEY de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos | [Markdown](ordenamientos/21/versiones/b8f9212aee243cda9e36f54225c8c5df55991c967679004375ebf9f0f29763a8/texto.md) · procesado_con_incidencias |
@@ -34,23 +34,23 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 24 | LASoc | LEY de Asistencia Social | [Markdown](ordenamientos/24/versiones/7ad9c1c514f8db260ac51956ec91bf3328532cebbf0b10c0582eeb2c5951035a/texto.md) · procesado_con_incidencias |
 | 25 | LAPP | LEY de Asociaciones Público Privadas | [Markdown](ordenamientos/25/versiones/c4216b4996597564f9a2a535013da5f196fc3b61915afba34597528f80e98ddc/texto.md) · procesado_con_incidencias |
 | 26 | LARCP | LEY de Asociaciones Religiosas y Culto Público | [Markdown](ordenamientos/26/versiones/0215e12dfc2c689a55cf3d719006ed6d1d286d5324e715fadbe079f9d50cc7b4/texto.md) · procesado_con_incidencias |
-| 27 | LAC | LEY de Aviación Civil | [Markdown](ordenamientos/27/versiones/6ec1867d3e1880c17f6560a1fea2bbf5bd1b99c41ddca6f5fd626f32d293e9d9/texto.md) · procesado_con_incidencias |
+| 27 | LAC | LEY de Aviación Civil | [Markdown](ordenamientos/27/versiones/0b8d6ab6591322fae0cb881bcf42e50244b67767d91efced0f16f57a5b6e61ad/texto.md) · procesado_con_incidencias |
 | 28 | LAAT | LEY de Ayuda Alimentaria para los Trabajadores | [Markdown](ordenamientos/28/versiones/c7fe669cd65e892b68971d66ad2e5f4cfe480e9435859ce6b5aff9a29f1ccac0/texto.md) · procesado_con_incidencias |
 | 29 | LBio | LEY de Biocombustibles | [Markdown](ordenamientos/29/versiones/24ae3fa7b0bafb08782c2b990cb878d77de940a21efdfdaf21bda71580583c57/texto.md) · procesado_con_incidencias |
 | 30 | LBOGM | LEY de Bioseguridad de Organismos Genéticamente Modificados | [Markdown](ordenamientos/30/versiones/8a28b69932a624250bd7645a5e6b992a770c6b8e0aa3f490fda76b07d4147810/texto.md) · procesado_con_incidencias |
 | 31 | LCEC_120419 | LEY de Cámaras Empresariales y sus Confederaciones | [Markdown](ordenamientos/31/versiones/8d6d2ca11db5d35bacb79ec673aa8ce08d4994a056815a442c0457c2098f7a6f/texto.md) · procesado_con_incidencias |
-| 32 | LCPAF | LEY de Caminos, Puentes y Autotransporte Federal | [Markdown](ordenamientos/32/versiones/80fe32a16f04d8b62c38be74634cd682e9fb812f3b55324dfd6f406942d586cc/texto.md) · procesado_con_incidencias |
+| 32 | LCPAF | LEY de Caminos, Puentes y Autotransporte Federal | [Markdown](ordenamientos/32/versiones/dd274d536bf692b3f29393bc6aa02a17a101ab14e5ce8a7465763fb4060d05c4/texto.md) · procesado_con_incidencias |
 | 33 | 238 | LEY de Capitalización del Procampo | [Markdown](ordenamientos/33/versiones/fb4a40177cd18fa8842764ca736a68249f9a53cdb85e5827c96dd287be7afac3/texto.md) · procesado_con_incidencias |
 | 34 | LCJPJF | LEY de Carrera Judicial del Poder Judicial de la Federación | [Markdown](ordenamientos/34/versiones/d8a15eed490303917ade3e50a78882ba4dbb15d4bbb8c0f919c6779278a0ee6e/texto.md) · procesado_con_incidencias |
 | 35 | LCE | LEY de Comercio Exterior | [Markdown](ordenamientos/35/versiones/61c8599a0d550016c5c00b7d3b3ca8212658af4eebd77663bf7ac5f46cd1d894/texto.md) · procesado_con_incidencias |
-| 36 | LCM | LEY de Concursos Mercantiles | [Markdown](ordenamientos/36/versiones/5476935e61a9d105713c51900f8dae14e408b59444c6fdb0206e8ea5e7ad6b3c/texto.md) · procesado_con_incidencias |
+| 36 | LCM | LEY de Concursos Mercantiles | [Markdown](ordenamientos/36/versiones/6b4dc4c9a3497719548af863cb5e30ab4500e25f5ff81746317ad621750e6183/texto.md) · procesado_con_incidencias |
 | 37 | 30 | LEY de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica | [Markdown](ordenamientos/37/versiones/dc730663580e9f05a9b4319ce2db0e7b933e1f86e79ae89e0e81a89dc50000a8/texto.md) · procesado_con_incidencias |
 | 38 | LCID_061120 | LEY de Cooperación Internacional para el Desarrollo | [Markdown](ordenamientos/38/versiones/4ea85c435195495a048fb7bc86de6b2cfb5b4cc7f170bd9b617be2d3f72285c0/texto.md) · procesado_con_incidencias |
 | 39 | LCF | LEY de Coordinación Fiscal | [Markdown](ordenamientos/39/versiones/e97e996bcfad2d338b26f578c617ad1f896419a554a137b696221129fc3a1da8/texto.md) · procesado_con_incidencias |
 | 40 | LDRS | LEY de Desarrollo Rural Sustentable | [Markdown](ordenamientos/40/versiones/c512022a435b810bbfe33a5e2fd80a9597f94c8f8f9e88ddc486b0356fe6c2ef/texto.md) · procesado_con_incidencias |
 | 41 | LDSC | LEY de Desarrollo Sustentable de la Cafeticultura | [Markdown](ordenamientos/41/versiones/af3d1727a2253d005dbd8e1677edcd491568d00eb221ae01446fa94335ada841/texto.md) · procesado_con_incidencias |
 | 42 | LDSCA | LEY de Desarrollo Sustentable de la Caña de Azúcar | [Markdown](ordenamientos/42/versiones/5c24bcaaed03c435ea485073cffd66a2be8e83ec106ea54629766160425d2005/texto.md) · procesado_con_incidencias |
-| 43 | LDEFAGN | LEY de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional | [Markdown](ordenamientos/43/versiones/3525531e83c530f87e58935cb29203823cb1b2e837b439e5028d05609d809664/texto.md) · procesado_con_incidencias |
+| 43 | LDEFAGN | LEY de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional | [Markdown](ordenamientos/43/versiones/2736ed29c4c4870c7ebd2bc03e114cd1040819aba4731f2545392b7d4dab779b/texto.md) · procesado_con_incidencias |
 | 44 | LDFEFM | LEY de Disciplina Financiera de las Entidades Federativas y los Municipios | [Markdown](ordenamientos/44/versiones/fdfb3aad76f2ec902b362dbef55967724ff8c6c382bf21a9aab88534101f70c1/texto.md) · procesado_con_incidencias |
 | 45 | 252 | LEY de Disciplina para el Personal de la Armada de México | [Markdown](ordenamientos/45/versiones/f8489ededc08a3ff93dd5158f95c7b2ec7ceb63dcbe2deae5d986d7fda105e03/texto.md) · procesado_con_incidencias |
 | 46 | LEMEFAGN | LEY de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional | [Markdown](ordenamientos/46/versiones/a26d3df339952c94b090a490fadfa52d383e611cffe52737590ed4c0e61cc163/texto.md) · procesado_con_incidencias |
@@ -64,19 +64,19 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 54 | LFIV_230518 | LEY de Fomento a la Industria Vitivinícola | [Markdown](ordenamientos/54/versiones/119697df8d595a3eb173117885e6c6c7cd1a73d97da72c188481867f5d877e26/texto.md) · procesado_con_incidencias |
 | 55 | LFLL | LEY de Fomento para la Lectura y el Libro | [Markdown](ordenamientos/55/versiones/60641c0c1d147e7989f3cec39ab6e45ae9af2714dbbad40cc394449f5f4aa448/texto.md) · procesado_con_incidencias |
 | 56 | LFAAR | LEY de Fondos de Aseguramiento Agropecuario y Rural | [Markdown](ordenamientos/56/versiones/01a00ad345a80d58a71c1bda721d8d122fe943ce5f8aa4879f9ba29301b24e9a/texto.md) · procesado_con_incidencias |
-| 57 | LFI | LEY de Fondos de Inversión | [Markdown](ordenamientos/57/versiones/4ae88c301aead2521fc150adbc4fd81e6f3eb30a5f16d4c172893d871a95ab0e/texto.md) · procesado_con_incidencias |
+| 57 | LFI | LEY de Fondos de Inversión | [Markdown](ordenamientos/57/versiones/c58b863ee364ec790daf205b1051d35c21f95ce581b0c6b397f44172ba8816aa/texto.md) · procesado_con_incidencias |
 | 58 | LGeo | LEY de Geotermia | [Markdown](ordenamientos/58/versiones/90581aac5dca139020a4707d8d4d564f7eade2632010334d279b6f06528cf2ee/texto.md) · procesado_con_incidencias |
 | 59 | LICal_010720 | LEY de Infraestructura de la Calidad | [Markdown](ordenamientos/59/versiones/5a43d6c814bf7a152578e275a53dbb09133af4907f265f82306a8b2ae2ee64e7/texto.md) · procesado_con_incidencias |
 | 60 | LIF_2026 | LEY de Ingresos de la Federación para el Ejercicio Fiscal de 2026 | [Markdown](ordenamientos/60/versiones/8c02ac2aa422849bfc026b24cb55a9c8398cda835e0d31c9bd636690cbc2f770/texto.md) · procesado_con_incidencias |
 | 61 | LIH | LEY de Ingresos sobre Hidrocarburos | [Markdown](ordenamientos/61/versiones/947da740278625b79b19de2f633ab1749aaee261385ace38ae1fda6e36964043/texto.md) · procesado_con_incidencias |
-| 62 | LIC | LEY de Instituciones de Crédito | [Markdown](ordenamientos/62/versiones/a8b4c8806d65939a462c291cb01aa40912efecf6d56706dc17c06e44889a9384/texto.md) · procesado_con_incidencias |
+| 62 | LIC | LEY de Instituciones de Crédito | [Markdown](ordenamientos/62/versiones/b6909c1190a6c043a53b5b1be5d8f56a7cf4850d6d257cf4b2235c49d047bedd/texto.md) · procesado_con_incidencias |
 | 63 | LISF | LEY de Instituciones de Seguros y de Fianzas | [Markdown](ordenamientos/63/versiones/f9cc8edc432161f55b4ee0cc7b6835efd15fbb9c7077ef5b6a83f28200c63bb8/texto.md) · procesado_con_incidencias |
 | 64 | LIE | LEY de Inversión Extranjera | [Markdown](ordenamientos/64/versiones/274b04e26f36a3235dead97970850cfc75c8a3ae5faff18b0725aaa8bc91401c/texto.md) · procesado_con_incidencias |
 | 65 | LANSI | LEY de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos | [Markdown](ordenamientos/65/versiones/e3d30ac0f1cfb5a57a9dee2c5944bcc130d3c9e42f77cdb1a04a374efccae54e/texto.md) · procesado_con_incidencias |
 | 66 | LCMM | LEY de la Casa de Moneda de México | [Markdown](ordenamientos/66/versiones/5d1c12588fdd822d4acf2bf10036274f71228c49b6090a39dd995e96b91736ef/texto.md) · procesado_con_incidencias |
-| 67 | LCNBV | LEY de la Comisión Nacional Bancaria y de Valores | [Markdown](ordenamientos/67/versiones/36291ab6475d3d78dbf64c5224c412e4feb0fe81fdd3ef7edba3d896af1a4531/texto.md) · procesado_con_incidencias |
+| 67 | LCNBV | LEY de la Comisión Nacional Bancaria y de Valores | [Markdown](ordenamientos/67/versiones/099f0223463f5d529d6c982b9a26834c003a56c98753b91604722a01f691d917/texto.md) · procesado_con_incidencias |
 | 68 | LCNE | LEY de la Comisión Nacional de Energía | [Markdown](ordenamientos/68/versiones/38f15f145a678d1f8d1eb590b48755a23a1cc10596d4c21ba6801addd9f83578/texto.md) · procesado_con_incidencias |
-| 69 | LCNDH | LEY de la Comisión Nacional de los Derechos Humanos | [Markdown](ordenamientos/69/versiones/03c68e58574b847fadb41a9c4766e6bc7c68588af9760a3d708ccffaa1568b30/texto.md) · procesado_con_incidencias |
+| 69 | LCNDH | LEY de la Comisión Nacional de los Derechos Humanos | [Markdown](ordenamientos/69/versiones/c9719c7df36d3d09e0341fc1b2d52387fd5fa04d2476755c7b48268a8a6037e1/texto.md) · procesado_con_incidencias |
 | 70 | LESS | LEY de la Economía Social y Solidaria | [Markdown](ordenamientos/70/versiones/270c8f8c988ee370dcb3e4fdd96cc140ee3f60a89488c7192e345195fd7b74c4/texto.md) · procesado_con_incidencias |
 | 71 | LEPECFE | LEY de la Empresa Pública del Estado, Comisión Federal de Electricidad | [Markdown](ordenamientos/71/versiones/718c9abe5048eb3f3718893a91284d47028d9a854f6d007c8e133d5b48eb2a5f/texto.md) · procesado_con_incidencias |
 | 72 | LEPEPM | LEY de la Empresa Pública del Estado, Petróleos Mexicanos | [Markdown](ordenamientos/72/versiones/c6499b1b52d8c9eb041ba4815451f509d4662fb9b30eb53e22f9217c78932bdd/texto.md) · procesado_con_incidencias |
@@ -87,12 +87,12 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 77 | LHHEUM | LEY de los Husos Horarios en los Estados Unidos Mexicanos | [Markdown](ordenamientos/77/versiones/c9641b245372cdfe5970be0bef7774913b59c668976bc34850dbaf2c00ca12a4/texto.md) · procesado_con_incidencias |
 | 78 | LIGIE_2022 | LEY de los Impuestos Generales de Importación y de Exportación | [Markdown](ordenamientos/78/versiones/8ae59d747856bbbe9039f623cbc9ff8f511163090647685b92a9d9daa238a4b5/texto.md) · procesado_con_incidencias |
 | 79 | LINS | LEY de los Institutos Nacionales de Salud | [Markdown](ordenamientos/79/versiones/ebe6eec6a32b437cd04988e8d60680aff81bfb96eb559b1f3ac6050d2581a796/texto.md) · procesado_con_incidencias |
-| 80 | LSAR | LEY de los Sistemas de Ahorro para el Retiro | [Markdown](ordenamientos/80/versiones/2c00e238e59dbfdcb783c4f39836208a79f9345d15c5f382410a764f72a2ac0a/texto.md) · procesado_con_incidencias |
+| 80 | LSAR | LEY de los Sistemas de Ahorro para el Retiro | [Markdown](ordenamientos/80/versiones/ed399dcea5ca71c2379be8931269afe593d78db770255064d894774831f5919d/texto.md) · procesado_con_incidencias |
 | 81 | LMigra | LEY de Migración | [Markdown](ordenamientos/81/versiones/1ffc215211dc83d9cfca3f12df0b5b914e49b2fd26365dcaa3a1a320e4322706/texto.md) · procesado_con_incidencias |
 | 82 | LMin | LEY de Minería | [Markdown](ordenamientos/82/versiones/0a9c33581679774d1a24b627640afed199c0f2f3f9edab171efd6123fc2fe051/texto.md) · procesado_con_incidencias |
 | 83 | 53 | LEY de Nacionalidad | [Markdown](ordenamientos/83/versiones/1a4e0c6e84b57977b5b61a3185209c2fd03a89a8ef1d3b6609188191daa0aa83/texto.md) · procesado_con_incidencias |
 | 84 | LNCM | LEY de Navegación y Comercio Marítimos | [Markdown](ordenamientos/84/versiones/2e7c66fa81941c5d97efabd09acb3251fa2cd8d43eee27526417836e825e36fe/texto.md) · procesado_con_incidencias |
-| 85 | LOPSRM | LEY de Obras Públicas y Servicios Relacionados con las Mismas | [Markdown](ordenamientos/85/versiones/63761ef426dc760eacaaa97a19106f3c83cd50758ba9d461e85823b39e9c83e4/texto.md) · procesado_con_incidencias |
+| 85 | LOPSRM | LEY de Obras Públicas y Servicios Relacionados con las Mismas | [Markdown](ordenamientos/85/versiones/2692fd8f9a67960e02f49fe3f5c8a9c6210d2553d9b433c7c4189df45e343f1f/texto.md) · procesado_con_incidencias |
 | 86 | 57 | LEY de Organizaciones Ganaderas | [Markdown](ordenamientos/86/versiones/b5f421455b270d739a65716a7ffd5784b362799540a0a4045d7d8910daf876a0/texto.md) · procesado_con_incidencias |
 | 87 | LPlan | LEY de Planeación | [Markdown](ordenamientos/87/versiones/ed48efb29200d8b90b05ccb832e5216b1273cc7f2dfc224ccfa74671481a76fa/texto.md) · procesado_con_incidencias |
 | 88 | LPTE | LEY de Planeación y Transición Energética | [Markdown](ordenamientos/88/versiones/63195dd307ca9b662317dc727680301aedc544dc2d39cd389d14fced48dfad58/texto.md) · procesado_con_incidencias |
@@ -101,7 +101,7 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 91 | LPAB | LEY de Protección al Ahorro Bancario | [Markdown](ordenamientos/91/versiones/de08c969f532b8a60089c72721f3d2bc84ad3df1cca2592373cd90c5e9681b54/texto.md) · procesado_con_incidencias |
 | 92 | 63 | LEY de Protección al Comercio y la Inversión de Normas Extranjeras que Contravengan el Derecho Internacional | [Markdown](ordenamientos/92/versiones/e6831de631394eca8d13b863bef7f5e5c82ab36770d5e93ce8087c65de5484d7/texto.md) · procesado_con_incidencias |
 | 93 | LPEAM | LEY de Protección del Espacio Aéreo Mexicano | [Markdown](ordenamientos/93/versiones/9bdeb921c167ec7e2c296fd151513fbde79e39ac9687bbe5fd3a8f740a27c913/texto.md) · procesado_con_incidencias |
-| 94 | LPDUSF | LEY de Protección y Defensa al Usuario de Servicios Financieros | [Markdown](ordenamientos/94/versiones/f70235ef1553289209078708fc4b5110aac7cd260e842e199be7f949232f2ed6/texto.md) · procesado_con_incidencias |
+| 94 | LPDUSF | LEY de Protección y Defensa al Usuario de Servicios Financieros | [Markdown](ordenamientos/94/versiones/41dd77262a499364409d4d16149092eb316595429bbf87b42ac2a41199dc2309/texto.md) · procesado_con_incidencias |
 | 95 | 65_071220 | LEY de Puertos | [Markdown](ordenamientos/95/versiones/5d60a2af4f3d681e943492af193de110f472e5d8d3d014f86708e7cbd6ed80df/texto.md) · procesado_con_incidencias |
 | 96 | LRAM | LEY de Recompensas de la Armada de México | [Markdown](ordenamientos/96/versiones/c722ae07014cf9f88cc2e003924ad03e5fe496a49b6835f8cad17425ceaaff49/texto.md) · procesado_con_incidencias |
 | 97 | LRCDN | LEY de Responsabilidad Civil por Daños Nucleares | [Markdown](ordenamientos/97/versiones/29068a930ed2a10374d15f79f0b8f55082ed4a1e181fa4880e4b3a918a953a0a/texto.md) · procesado_con_incidencias |
@@ -112,11 +112,11 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 102 | 71_240418 | LEY de Sociedades de Solidaridad Social | [Markdown](ordenamientos/102/versiones/2823643bf2ca61eedd8ae81c98203cb9b662bc4e9dd885c0268ce9f642f2c8a9/texto.md) · procesado_con_incidencias |
 | 103 | LTF | LEY de Tesorería de la Federación | [Markdown](ordenamientos/103/versiones/3f17bc950e4da0c1571b9896159f23d16ae8304399c23d2f2a6b4a7f1fd03d3d/texto.md) · procesado_con_incidencias |
 | 104 | 256 | LEY de Transparencia y de Fomento a la Competencia en el Crédito Garantizado | [Markdown](ordenamientos/104/versiones/9b81f9f50bbde17f8765a82e42f1c476a68fd7cfe4885fe033209511d75a2360/texto.md) · procesado_con_incidencias |
-| 105 | LUC | LEY de Uniones de Crédito | [Markdown](ordenamientos/105/versiones/b8cfd0acaf10f04ffff622d53a5f549f4e7aee4175450a9f55a029b9ef1fe24f/texto.md) · procesado_con_incidencias |
+| 105 | LUC | LEY de Uniones de Crédito | [Markdown](ordenamientos/105/versiones/d8984fc1b48ab6920f6e99c338746618a66198084c19eddb2634f28a263919df/texto.md) · procesado_con_incidencias |
 | 106 | LVZMM | LEY de Vertimientos en las Zonas Marinas Mexicanas | [Markdown](ordenamientos/106/versiones/5916dee99dbf79125283d35ad9476620efa2b049a69c46e81669da7a054b505e/texto.md) · procesado_con_incidencias |
 | 107 | LVGC | LEY de Vías Generales de Comunicación | [Markdown](ordenamientos/107/versiones/528a28aea2127dac76b5c448b3d716a216132062f233d985ae7e46925d145a22/texto.md) · procesado_con_incidencias |
 | 108 | LViv | LEY de Vivienda | [Markdown](ordenamientos/108/versiones/7a3f5a07841bf45ac9cd5c1fbbe8e9388aa882624c5967b7182af7090b00c1d8/texto.md) · procesado_con_incidencias |
-| 109 | 74 | LEY del Banco de México | [Markdown](ordenamientos/109/versiones/585cd8aeb95815891938765de4216a36b0127e69dd82475d2e5cdb82b7bae4af/texto.md) · procesado_con_incidencias |
+| 109 | 74 | LEY del Banco de México | [Markdown](ordenamientos/109/versiones/176e0ca5421eed08f3fc12ab32e11e75cc5e361e25a587b578e115fa6e855dae/texto.md) · procesado_con_incidencias |
 | 110 | 75_100619 | LEY del Diario Oficial de la Federación y Gacetas Gubernamentales | [Markdown](ordenamientos/110/versiones/28078f459b136bb6ca98fd2bb0a5673b28996a7c410ff516bccd7e621a1228d1/texto.md) · procesado_con_incidencias |
 | 111 | LFMPED | LEY del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo | [Markdown](ordenamientos/111/versiones/920b9e4d202aafc0844cd76b67fe5063313b67e579afabe320a8a7771e2f931d/texto.md) · procesado_con_incidencias |
 | 112 | LIVA | LEY del Impuesto al Valor Agregado | [Markdown](ordenamientos/112/versiones/5abf6ad2ba6de9b3a2aa4808dae85f018ad67e917667d488040537a9f40e3042/texto.md) · procesado_con_incidencias |
@@ -124,11 +124,11 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 114 | LISR | LEY del Impuesto sobre la Renta | [Markdown](ordenamientos/114/versiones/b538053e638d6f84161b025485b37b210173e9de4d616caac1ae6ff99a911c8b/texto.md) · procesado_con_incidencias |
 | 115 | LISSFAM | LEY del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas | [Markdown](ordenamientos/115/versiones/af44c501c3bab23ff32aa94cbd1890ed05fdb8723cb2bd0881b2b5f44cd8f3f7/texto.md) · procesado_con_incidencias |
 | 116 | LISSSTE | LEY del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado | [Markdown](ordenamientos/116/versiones/91d37bf1b70bc167a8f443788c85cd0652f188a077e5e6ed0c1ab3cfa4efe62e/texto.md) · procesado_con_incidencias |
-| 117 | LIFNVT | LEY del Instituto del Fondo Nacional de la Vivienda para los Trabajadores | [Markdown](ordenamientos/117/versiones/f4e9be6048234e682474289ce873c5a2e7852a0418ab93bd3850059a1886153e/texto.md) · procesado_con_incidencias |
+| 117 | LIFNVT | LEY del Instituto del Fondo Nacional de la Vivienda para los Trabajadores | [Markdown](ordenamientos/117/versiones/4844020c1cd5731ca2cf0aad2a68332bde84970210a96846eab12dc111fd8dae/texto.md) · procesado_con_incidencias |
 | 118 | LIFNCT | LEY del Instituto del Fondo Nacional para el Consumo de los Trabajadores | [Markdown](ordenamientos/118/versiones/19a9bcaa30141c73da2d4ff27e27a236eb31c8aba730c6f2ec2286cbdf0e7ad5/texto.md) · procesado_con_incidencias |
 | 119 | LIMJ | LEY del Instituto Mexicano de la Juventud | [Markdown](ordenamientos/119/versiones/7af4e02d3a63b371c0d5d6bcbbd2335050f5950168a66c9f737ea74f7186be25/texto.md) · procesado_con_incidencias |
 | 120 | LINPI | LEY del Instituto Nacional de los Pueblos Indígenas | [Markdown](ordenamientos/120/versiones/ae71db11dc188d1f765ad7b8e28158d76f2793adb0399153a33dcf18f45bcd91/texto.md) · procesado_con_incidencias |
-| 121 | LMV | LEY del Mercado de Valores | [Markdown](ordenamientos/121/versiones/49d4278d1ef9e49658309db7471707139598a29b9146b05999784f62a9e11ad6/texto.md) · procesado_con_incidencias |
+| 121 | LMV | LEY del Mercado de Valores | [Markdown](ordenamientos/121/versiones/f7a36cfe8a0ed467e3e50115d69fbcb09f59df5d3af621f3d21707dffaf780d5/texto.md) · procesado_con_incidencias |
 | 122 | 269_200521 | LEY del Registro Público Vehicular | [Markdown](ordenamientos/122/versiones/4707962bc90223b6b94aa0286440123d4d3ed19d9233b3e04f9543634d363d90/texto.md) · procesado_con_incidencias |
 | 123 | LSE | LEY del Sector Eléctrico | [Markdown](ordenamientos/123/versiones/7b49dc9aea279004096a1a142e762680dc89f48963bbbb02177288abc8c76201/texto.md) · procesado_con_incidencias |
 | 124 | LSH | LEY del Sector Hidrocarburos | [Markdown](ordenamientos/124/versiones/f3db7c64a5bd158ab359a14ba3f2828dd22390b025bfaa5438bf8ee6e58522f0/texto.md) · procesado_con_incidencias |
@@ -138,15 +138,15 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 128 | LSM | LEY del Servicio Militar | [Markdown](ordenamientos/128/versiones/a2ffc1305a188adcf4d857a8764e118d4caa0f1fbe2a15688a62f5cf375a9f5b/texto.md) · procesado_con_incidencias |
 | 129 | LSPM | LEY del Servicio Postal Mexicano | [Markdown](ordenamientos/129/versiones/fd93d53653c816f5e04e34410c9370ec2e9da76166fe9d131a953742c3a151f5/texto.md) · procesado_con_incidencias |
 | 130 | 260 | LEY del Servicio Profesional de Carrera en la Administración Pública Federal | [Markdown](ordenamientos/130/versiones/423a5f3fb37229010d0351938bbc82966b0a956853545d7b37a79ac04ca144f8/texto.md) · procesado_con_incidencias |
-| 131 | LSNIEG | LEY del Sistema Nacional de Información Estadística y Geográfica | [Markdown](ordenamientos/131/versiones/2ceada16f48e38919aa7d89fdd616328c880591b67e66b01594a42cef9237a23/texto.md) · procesado_con_incidencias |
+| 131 | LSNIEG | LEY del Sistema Nacional de Información Estadística y Geográfica | [Markdown](ordenamientos/131/versiones/fd3fff8fe84aeb094645043a37ddf6f2b19a97f666e77ec39a2e8a2388b33b51/texto.md) · procesado_con_incidencias |
 | 132 | LSNIIMSP | LEY del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública | [Markdown](ordenamientos/132/versiones/bfd01525dbab75df188687f593d984935581feaf2d292983e1ba07f7dfc694dc/texto.md) · procesado_con_incidencias |
 | 133 | LSPREM | LEY del Sistema Público de Radiodifusión del Estado Mexicano | [Markdown](ordenamientos/133/versiones/4b6481aa2c3b43d218483a000c2aea49bd182fd11369aa045314b64ab974529b/texto.md) · procesado_con_incidencias |
 | 134 | LMTR | LEY en Materia de Telecomunicaciones y Radiodifusión | [Markdown](ordenamientos/134/versiones/b6b73596abddd200ccaa7dbb40b7f489982e3a2b594ff11e574540a64eb18411/texto.md) · procesado_con_incidencias |
-| 135 | LFCDO | LEY Federal contra la Delincuencia Organizada | [Markdown](ordenamientos/135/versiones/dc98c1e56c54ff94f4dd19eab0a350e6c8b55e466fb3c489b365b1e2753f9269/texto.md) · procesado_con_incidencias |
-| 136 | LFAFE | LEY Federal de Armas de Fuego y Explosivos | [Markdown](ordenamientos/136/versiones/f175937f25dab1a6f1e739afd93fb470f6e105609446763fb592b4ba63f2d0a1/texto.md) · procesado_con_incidencias |
+| 135 | LFCDO | LEY Federal contra la Delincuencia Organizada | [Markdown](ordenamientos/135/versiones/d1239180ad817b7fe89a47d0d8ca37f541ffe983adccd5128f44b523750c7c69/texto.md) · procesado_con_incidencias |
+| 136 | LFAFE | LEY Federal de Armas de Fuego y Explosivos | [Markdown](ordenamientos/136/versiones/e3bc62f56466cbe64641841f63f10c08ab308c2819350dea8778568305d5b74d/texto.md) · procesado_con_incidencias |
 | 137 | LFAR | LEY Federal de Austeridad Republicana | [Markdown](ordenamientos/137/versiones/1f18aeb13ea2ebfb92b5c0a42dc9195058cfcd2d1e2dda35243e1845951f8287/texto.md) · procesado_con_incidencias |
 | 138 | LFCA | LEY Federal de Cine y el Audiovisual | [Markdown](ordenamientos/138/versiones/1c0db6138fcbc37b6598efe6df086a4ec135a12ddfe3b72fc025b9ebd5ad864a/texto.md) · procesado_con_incidencias |
-| 139 | LFCE | LEY Federal de Competencia Económica | [Markdown](ordenamientos/139/versiones/c97c36f305373c859d7786364b9f24b990b74769d4810738cbd36f9f010f1370/texto.md) · procesado_con_incidencias |
+| 139 | LFCE | LEY Federal de Competencia Económica | [Markdown](ordenamientos/139/versiones/e1db2d837029e849b426c0df85d7fc2ddb7c180bb0efc9b12dcff2c76ecd21cf/texto.md) · procesado_con_incidencias |
 | 140 | LFCPo_190521 | LEY Federal de Consulta Popular | [Markdown](ordenamientos/140/versiones/d9e526e655b2a329b42ad30b1fe03becf7a143269972cebe942ab2be4b5b1906/texto.md) · procesado_con_incidencias |
 | 141 | 105 | LEY Federal de Correduría Pública | [Markdown](ordenamientos/141/versiones/d40a0760eea8014b95310fce34e6d5aa829b1d435f06302cc2e1d8943eae6cad/texto.md) · procesado_con_incidencias |
 | 142 | LFDEAPD | LEY Federal de Declaración Especial de Ausencia para Personas Desaparecidas | [Markdown](ordenamientos/142/versiones/86794e0a657c0ba0e15ddac185e9628492a85c37532a5f48acd2be97faf7647b/texto.md) · procesado_con_incidencias |
@@ -163,7 +163,7 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 153 | LFPCA | LEY Federal de Procedimiento Contencioso Administrativo | [Markdown](ordenamientos/153/versiones/3ddf4b9ad542d5af21f9df5255d69ffd1b4eafb70e0e2a8d620375190fabfa79/texto.md) · procesado_con_incidencias |
 | 154 | LFPCCS_110518 | LEY Federal de Producción, Certificación y Comercio de Semillas | [Markdown](ordenamientos/154/versiones/c225c073c64fbe799792ca5b440eff6cc1fd80a8174168daba1af69427807d9e/texto.md) · procesado_con_incidencias |
 | 155 | LFPPI | LEY Federal de Protección a la Propiedad Industrial | [Markdown](ordenamientos/155/versiones/ff5d1930630388615cf0db8f48c0419afd21ad900701c6a7c0ef200ae276a3af/texto.md) · procesado_con_incidencias |
-| 156 | LFPC | LEY Federal de Protección al Consumidor | [Markdown](ordenamientos/156/versiones/e64ab20a63c71f79d51863e21f0ea3b4f72dfa38bc93e6e15f039c1a6ca39da5/texto.md) · procesado_con_incidencias |
+| 156 | LFPC | LEY Federal de Protección al Consumidor | [Markdown](ordenamientos/156/versiones/d62ea6caf743d59ad21191eabf726036623d41f3a624058513f710714de5073e/texto.md) · procesado_con_incidencias |
 | 157 | LFPDPPP | LEY Federal de Protección de Datos Personales en Posesión de los Particulares | [Markdown](ordenamientos/157/versiones/102f5e04532d4b02ba6996b7fad172a63e1bb7cab213e1a949d8f9cc8089b1b0/texto.md) · procesado_con_incidencias |
 | 158 | LFPPCPCIA | Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas | [Markdown](ordenamientos/158/versiones/0554a08b21c71e6e21f5cbc351796bb838a23a0838ce047cffa8525c2d4888db/texto.md) · procesado_con_incidencias |
 | 159 | LFRemSP_190521 | LEY Federal de Remuneraciones de los Servidores Públicos | [Markdown](ordenamientos/159/versiones/9aa930ab86dfc72028440d815c589de502e5c829783b7beaf93e274f602b0902/texto.md) · procesado_con_incidencias |
@@ -176,7 +176,7 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 166 | LFSP | LEY Federal de Seguridad Privada | [Markdown](ordenamientos/166/versiones/91981cce98ac13ff3cd7c19636896aadf809242e5af973cd5a228b192bd598af/texto.md) · procesado_con_incidencias |
 | 167 | LFVV | LEY Federal de Variedades Vegetales | [Markdown](ordenamientos/167/versiones/e4fa880abd2382f926c12f79373e34dc0216bf0a53f6d23c1825ee22558918d4/texto.md) · procesado_con_incidencias |
 | 168 | LFZEE | LEY Federal de Zonas Económicas Especiales | [Markdown](ordenamientos/168/versiones/07001a8a9c3c9bccac214eef9fd07bf65a7d39e543d24f70bda4cfe58cee48de/texto.md) · procesado_con_incidencias |
-| 169 | LFDA | LEY Federal del Derecho de Autor | [Markdown](ordenamientos/169/versiones/39745ec6bb830bfeea4a466654520c41e784e8f4c5a69c7beef33d334c8a1beb/texto.md) · procesado_con_incidencias |
+| 169 | LFDA | LEY Federal del Derecho de Autor | [Markdown](ordenamientos/169/versiones/5e0af7cd18c00a860ede0e8f7e9ddaa35fda04cf7fcf75f22c907f20d13cd779/texto.md) · procesado_con_incidencias |
 | 170 | LFISAN | LEY Federal del Impuesto sobre Automóviles Nuevos | [Markdown](ordenamientos/170/versiones/7e10d72b0c67ce6f0dad52720b3cf5b8f63e8559abaa6367da112d4194e8d6c2/texto.md) · procesado_con_incidencias |
 | 171 | 124 | LEY Federal del Mar | [Markdown](ordenamientos/171/versiones/ca3b7d78901c065abf2f0551ba069e9e80c574b73e5d7ed6dcda730df0de1c57/texto.md) · procesado_con_incidencias |
 | 172 | LFT | LEY Federal del Trabajo | [Markdown](ordenamientos/172/versiones/59e189c9989e36e28b25f3a0e4a5b362246e4051ebb0e64c519b41887caf1f76/texto.md) · procesado_con_incidencias |
@@ -190,7 +190,7 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 180 | LFPED | LEY Federal para Prevenir y Eliminar la Discriminación | [Markdown](ordenamientos/180/versiones/7fc626d71427ef6a391eed6841fefde66dd8fad52cf345cb00ddd064bd34ab9f/texto.md) · procesado_con_incidencias |
 | 181 | LFPSDMH | LEY Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos | [Markdown](ordenamientos/181/versiones/e5a6edfac44928f895b2558c1febfe0d194454607b6eedad1d722464de927beb/texto.md) · procesado_con_incidencias |
 | 182 | LFMZAAH | LEY Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos | [Markdown](ordenamientos/182/versiones/0ac28917135a7c4e826c6e0dd3ebcad5adf2d9da93eb93722ee16507f08cb0b6/texto.md) · procesado_con_incidencias |
-| 183 | LGAMVLV | LEY General de Acceso de las Mujeres a una Vida Libre de Violencias | [Markdown](ordenamientos/183/versiones/e9e4849114bb4782135d74ed1c60b8ed78e9256ce381b5a52323c10d0208a6bb/texto.md) · procesado_con_incidencias |
+| 183 | LGAMVLV | LEY General de Acceso de las Mujeres a una Vida Libre de Violencias | [Markdown](ordenamientos/183/versiones/5a61af9e27c9e0a76657b8a20c4e76f551936aad1918cd5ff84bd36deb16f309/texto.md) · procesado_con_incidencias |
 | 184 | LGAg | LEY General de Aguas | [Markdown](ordenamientos/184/versiones/aa68d02a2b635db2814a3c5baf5d08d9a793241c1ed9075ecc5923c1172fc3a5/texto.md) · procesado_con_incidencias |
 | 185 | LGA | LEY General de Archivos | [Markdown](ordenamientos/185/versiones/be48971f635cfb96927faf9f1854fa389b2738c9570e2ed9346b17dc097e21fb/texto.md) · procesado_con_incidencias |
 | 186 | LGAHOTDU | LEY General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano | [Markdown](ordenamientos/186/versiones/175c25b0c91bf2ec5f2bd4e61ceff2c5f78556320358bd263979fd6809ae53ef/texto.md) · procesado_con_incidencias |
@@ -202,14 +202,14 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 192 | LGCFD | LEY General de Cultura Física y Deporte | [Markdown](ordenamientos/192/versiones/ffde1960969583fa4348eab709f899f6e3ead8ba1fcb40e5a3628919da23c26f/texto.md) · procesado_con_incidencias |
 | 193 | LGCDC | LEY General de Cultura y Derechos Culturales | [Markdown](ordenamientos/193/versiones/f467d2c324b4aeaa4a28edbb984199327b05366528ee323da382f4e8cd15a82c/texto.md) · procesado_con_incidencias |
 | 194 | LGDLPI | LEY General de Derechos Lingüísticos de los Pueblos Indígenas | [Markdown](ordenamientos/194/versiones/37f9abff8951ac20bea7816d9ac5e1a5dd53199cb7c9c4a161523822cc77603f/texto.md) · procesado_con_incidencias |
-| 195 | LGDFS | LEY General de Desarrollo Forestal Sustentable | [Markdown](ordenamientos/195/versiones/ec1e5eec0e6642482aea1ef85f2dec3c558f361b1a6acff5097fddfeb48b20ff/texto.md) · procesado_con_incidencias |
+| 195 | LGDFS | LEY General de Desarrollo Forestal Sustentable | [Markdown](ordenamientos/195/versiones/2b8cf46bfb2d975edd1179a36847f43019ab4c4596f4c96e140a12b3fec5d2ed/texto.md) · procesado_con_incidencias |
 | 196 | LGDS | LEY General de Desarrollo Social | [Markdown](ordenamientos/196/versiones/cc70fd82d0a85e1e66252d8473c5a863acceab4d52a3e72f09ca3c8baa665772/texto.md) · procesado_con_incidencias |
 | 197 | LGEC | LEY General de Economía Circular | [Markdown](ordenamientos/197/versiones/75914960000b001b0a6acdd78d7720a56e6718b88b651388b6aec0fc3ede6197/texto.md) · procesado_con_incidencias |
 | 198 | LGE | LEY General de Educación | [Markdown](ordenamientos/198/versiones/85add9882807a6ee25f5d1b14732f728900c8aa0ea555cc9f5ac4afe5e2587da/texto.md) · procesado_con_incidencias |
 | 199 | LGES_200421 | LEY General de Educación Superior | [Markdown](ordenamientos/199/versiones/44dcb2c805ec9bbaa4231d79d39f3181d34e846570696d389c14f7b05a5c5b7f/texto.md) · procesado_con_incidencias |
 | 200 | LGIPE | LEY General de Instituciones y Procedimientos Electorales | [Markdown](ordenamientos/200/versiones/a8dc89aaf2c89b9698c77de8e385c891da3d8b94efc4db35547dd78e68a780ac/texto.md) · procesado_con_incidencias |
 | 201 | LGAAS | LEY General de la Alimentación Adecuada y Sostenible | [Markdown](ordenamientos/201/versiones/6736b14f6e8d6e6fea8a74164e605364a19a3f184eca9cf9fa7b179391a8c17c/texto.md) · procesado_con_incidencias |
-| 202 | LGDNNA | LEY General de los Derechos de Niñas, Niños y Adolescentes | [Markdown](ordenamientos/202/versiones/c14820b446d009b9da81e90bca3087779e9238a8d94ccc339d53e363de652efb/texto.md) · piloto_aprobado |
+| 202 | LGDNNA | LEY General de los Derechos de Niñas, Niños y Adolescentes | [Markdown](ordenamientos/202/versiones/f91db263bee7b3f1cb7b13fa7afffe6d5a2735955e150e677427e79d0ab7bdfd/texto.md) · piloto_aprobado |
 | 203 | LGMIME | LEY General de los Medios de Impugnación en Materia Electoral | [Markdown](ordenamientos/203/versiones/144543f1029599faa5dd88809e3a5643176245b942f7e84900db9a2c22342a44/texto.md) · procesado_con_incidencias |
 | 204 | LGMASC | LEY General de Mecanismos Alternativos de Solución de Controversias | pendiente |
 | 205 | LGMSV | LEY General de Movilidad y Seguridad Vial | pendiente |

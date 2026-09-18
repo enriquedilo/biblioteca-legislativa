@@ -10,11 +10,12 @@ import subprocess
 from pathlib import Path
 from pypdf import PdfReader
 from biblioteca import extract_word, savejson
+from encabezados import CANDIDATO, encabezado
 
 ROOT = Path(__file__).resolve().parent.parent / 'Sinaloa'
 PILOTO = {'1': [1,6,64,83,237,240,248], '9': [1,2,109,134,167],
           '42': [1,38,61,62,70], '70': [1,50,55,57]}
-ART = re.compile(r'^(?:ART[ÍI]CULO|Artículo|Articulo|ART\.|Art\.)\s*\d+[oº°]?(?:\.?\s*(?:Bis|BIS|bis|Ter|TER|ter|Quáter|QUÁTER)(?:[ -]*[A-G](?=[.\s-]|$))?)?(?:\.-|[.:-])?')
+ART = CANDIDATO
 TRANS = re.compile(r'^(?:ART[ÍI]CULOS?\s+)?TRANSITORIOS?(?:\s+DE\s+LAS\s+REFORMAS)?\s*:?$', re.I)
 ORD = re.compile(r'^(?:(?:ART[ÍI]CULO|Artículo|Articulo)\s+)?(?:PRIMERO|SEGUNDO|TERCERO|CUARTO|QUINTO|SEXTO|SÉPTIMO|SEPTIMO|OCTAVO|NOVENO|DÉCIMO|DECIMO|ÚNICO|UNICO|Primero|Segundo|Tercero|Cuarto|Quinto|Sexto|Único)(?:[.\s-]|$)')
 LIST = re.compile(r'^(?:[IVXLCDM]+|[A-Za-z]|\d+)[.)]\s+')
@@ -43,7 +44,7 @@ def to_markdown(page):
         line=re.sub(r'[ \t]+',' ',raw.strip())
         if not line:
             flush();continue
-        article=ART.match(line)
+        article=encabezado(line)
         section=TRANS.match(line) or re.match(r'^(?:T[ÍI]TULO|CAP[ÍI]TULO|SECCI[ÓO]N|LIBRO)\b',line)
         if article:
             flush();out.append('### '+article[0].strip())

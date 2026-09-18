@@ -1,0 +1,1263 @@
+{
+  "id": 32,
+  "fecha_revision": "2026-09-18T02:14:06.805044+00:00",
+  "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 46,
+  "paginas_sin_texto": [],
+  "pagina_blanca_confirmada_visualmente": false,
+  "texto_conservado": true,
+  "comparacion_word_pdf": {
+    "palabras_comparadas": 15959,
+    "palabras_pdf": 17124,
+    "frecuencias_coinciden": false,
+    "orden_coincide_separando_nota_al_pie": false,
+    "nota_al_pie_reubicada_por_lector_word": null,
+    "normalizaciones_solo_comparacion": [
+      "Misma función lexical_tokens de Sinaloa; no modifica los originales ni el Markdown."
+    ],
+    "limite": "Campos Word y encabezados permanecen en el control; las diferencias se reportan sin reparación.",
+    "solo_word": {
+      "embed": 1,
+      "word": 1,
+      "picture": 1,
+      "page": 1,
+      "numpages": 1
+    },
+    "solo_pdf": {
+      "ley": 45,
+      "de": 225,
+      "caminos": 45,
+      "puentes": 45,
+      "y": 45,
+      "autotransporte": 45,
+      "federal": 45,
+      "cámara": 45,
+      "diputados": 45,
+      "del": 45,
+      "h": 45,
+      "congreso": 45,
+      "la": 45,
+      "unión": 45,
+      "última": 45,
+      "reforma": 45,
+      "dof": 45,
+      "secretaría": 90,
+      "general": 45,
+      "servicios": 45,
+      "parlamentarios": 45
+    }
+  },
+  "articulos_word": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "6bis",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "22bis",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "45bis",
+    "45bis",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "55bis",
+    "55bis",
+    "55bis",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "63bis",
+    "63ter",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "70bis",
+    "71",
+    "72",
+    "73",
+    "74",
+    "74bis",
+    "74ter",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "79bis",
+    "80"
+  ],
+  "articulos_pdf": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "6bis",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "22bis",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "45bis",
+    "45bis",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "55bis",
+    "55bis",
+    "55bis",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "63bis",
+    "63ter",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "70bis",
+    "71",
+    "72",
+    "73",
+    "74",
+    "74bis",
+    "74ter",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "79bis",
+    "80",
+    "5"
+  ],
+  "identificadores_articulos_coinciden": true,
+  "encabezados_transitorios": [
+    {
+      "pagina": 24,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 26,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 28,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 30,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 31,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 32,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 33,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 35,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 36,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 37,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 38,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 39,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 40,
+      "encabezado": "Transitorio"
+    },
+    {
+      "pagina": 41,
+      "encabezado": "Transitorio"
+    },
+    {
+      "pagina": 42,
+      "encabezado": "Transitorio"
+    },
+    {
+      "pagina": 43,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 44,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 45,
+      "encabezado": "Transitorios"
+    }
+  ],
+  "encabezados_ordinales_en_seccion_transitoria": [
+    "Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario",
+    "Artículo Segundo.- Se abroga la Ley sobre Construcción de Caminos en Cooperación con los",
+    "Artículo Tercero.- Se derogan los artículos 1o., fracciones VI y VII; 8o., párrafos segundo a cuarto;",
+    "Artículo Cuarto.- Las infracciones cometidas con anterioridad a la entrada en vigor de la presente",
+    "Artículo Quinto.- Las disposiciones reglamentarias y administrativas en vigor se continuarán",
+    "Artículo Sexto.- Las concesiones y permisos otorgados con anterioridad a la entrada en vigor de la",
+    "ARTÍCULO QUINTO.- SE REFORMA LA FRACCIÓN IV Y SE DEROGA LA FRACCIÓN VII DEL",
+    "PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial",
+    "SEGUNDO.- La organización de la Policía Federal Preventiva durará un máximo de sesenta días",
+    "TERCERO.- Se faculta al Ejecutivo Federal para dictar los acuerdos que estime necesarios, con el fin",
+    "CUARTO.- Los derechos de los miembros de las policías administrativas de Migración, Fiscal Federal",
+    "QUINTO.- Las menciones a la Policía de Migración y a la Policía Federal de Caminos que aparezcan",
+    "SEXTO.- El Ejecutivo Federal publicará en el Diario Oficial de la Federación el Reglamento Interior",
+    "SÉPTIMO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.",
+    "Artículo Tercero. Se reforman los Artículos 1o.; 5o., primer párrafo; 36, primero y segundo párrafos;",
+    "PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial",
+    "SEGUNDO. La organización de la Secretaría de Seguridad Pública, para ejercer las atribuciones que",
+    "TERCERO. El Ejecutivo Federal, dentro de los 180 días siguientes, a partir de la entrada en vigor del",
+    "CUARTO. Los Concesionarios y Permisionarios de los servicios de autotransporte de pasajeros, de",
+    "QUINTO. Las disposiciones reglamentarias en vigor se continuarán aplicando, mientras se expiden los",
+    "SEXTO. La Secretaría de Hacienda y Crédito Público en coordinación con las dependencias",
+    "SÉPTIMO. Los procedimientos y recursos administrativos iniciados antes de la entrada en vigor de las",
+    "OCTAVO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.",
+    "Único.- Se reforma el tercer párrafo del artículo 6o. de la Ley de Caminos, Puentes y Autotransporte",
+    "Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "Segundo.- Se derogan todas aquellas disposiciones legales y administrativas que se opongan al",
+    "Artículo Único.- Se adiciona un segundo párrafo a la fracción VIII del artículo 5o. de la Ley de",
+    "Único.- El presente Decreto entrará en vigor a los 180 días naturales siguientes a su publicación en el",
+    "Artículo Único. Se reforma el artículo 74 Bis, primer párrafo; y se adiciona al artículo 2o., la fracción",
+    "Primero. El presente Decreto entrará en vigor, a los ciento ochenta días siguientes, de que la",
+    "Segundo. El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, en el ámbito de sus",
+    "Tercero. El Ejecutivo Federal y la Secretaría de Hacienda y Crédito Público, en el ámbito de sus",
+    "ARTÍCULO ÚNICO.- Se adicionan los artículos 45 Bis, 45 Bis 1, 55 Bis, 55 Bis 1 y 55 Bis 2 a la Ley de",
+    "PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial",
+    "SEGUNDO. Los permisionarios deberán informar a la Secretaría de Comunicaciones y Transportes,",
+    "TERCERO. La Secretaría de Comunicaciones y Transportes deberá automatizar los sistemas de",
+    "CUARTO. La Secretaría de Comunicaciones y Transportes emitirá los lineamientos que regularán lo",
+    "QUINTO. La Secretaría de Comunicaciones y Transportes gestionará ante la Secretaría de Hacienda",
+    "SEXTO. Los ingresos provenientes de la venta de vehículos que causaron abandono, con menos de",
+    "ARTÍCULO SEGUNDO.- Se adicionan un párrafo quinto al artículo 6°. y una fracción II al artículo 17",
+    "PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario",
+    "SEGUNDO.- En términos de lo establecido por la fracción XXVIII del artículo 7 de la Ley General para",
+    "TERCERO.- Los responsables de formular los planes de manejo para los residuos que se incluyan en",
+    "CUARTO.- El Ejecutivo Federal deberá publicar la norma oficial mexicana que establezca los criterios",
+    "QUINTO.- Las concesiones y permisos otorgados para construir, operar, explotar, conservar y",
+    "SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.",
+    "Artículo Primero.- Se reforma el artículo 6o., tercer párrafo y se adiciona un artículo 6o. Bis a la Ley",
+    "Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial",
+    "Segundo.- Las concesiones otorgadas con anterioridad a la entrada en vigor del presente Decreto y",
+    "Tercero.- El Ejecutivo Federal expedirá las disposiciones reglamentarias a que se refiere este",
+    "ARTÍCULO ÚNICO.- Se reforma la fracción V del artículo 5o. de la Ley de Caminos, Puentes y",
+    "PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial",
+    "SEGUNDO.- La Secretaría de Comunicaciones y Transportes tiene 90 días a partir de su publicación,",
+    "Artículo Primero.- Se reforman los artículos 63 y 74 Ter, fracción II de la Ley de Caminos, Puentes y",
+    "Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.",
+    "Artículo Único.- Se adiciona un tercer párrafo al artículo 53 de la Ley de Caminos, Puentes y",
+    "Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "Segundo.- El Ejecutivo Federal deberá adecuar sus normas reglamentarias y disposiciones",
+    "Artículo Único.- Se reforma el párrafo quinto del artículo 6o. de la Ley de Caminos, Puentes y",
+    "Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de",
+    "Artículo Único.- Se reforma el párrafo quinto del artículo 36 de la Ley de Caminos, Puentes y",
+    "Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "Artículo Único.- Se adiciona un tercer párrafo a la fracción VIII del artículo 5o. de la Ley de Caminos,",
+    "Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "Artículo Único.- Se adiciona un artículo 22 Bis a la Ley de Caminos, Puentes y Autotransporte",
+    "Primero.- El presente Decreto entrará en vigor a los 90 días naturales siguientes al día de su",
+    "Segundo.- El Titular del Ejecutivo Federal, por conducto de la Secretaría de Infraestructura,",
+    "Artículo Tercero.- Se reforma el artículo 2o., fracción VI, de la Ley de Caminos, Puentes y",
+    "Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "Segundo.- Los asuntos en trámite a la entrada en vigor de este ordenamiento que deban pasar de la",
+    "Tercero.- La Agencia de Trenes y Transporte Público Integrado deberá ser creada por el Ejecutivo",
+    "Cuarto.- Se derogan aquellas disposiciones que se opongan al contenido del presente Decreto.",
+    "Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se",
+    "Sexto. El Ejecutivo Federal contará con un plazo de 180 días naturales para emitir las modificaciones",
+    "Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las",
+    "Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto",
+    "Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se"
+  ],
+  "articulos_numericos_en_seccion_transitoria": [
+    "5"
+  ],
+  "transitorios_y_notas_completos_incluidos": true,
+  "paginas_cotejadas_visualmente": [],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 1693,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 2625,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 14,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 2102,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 2944,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 2999,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 2374,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 2248,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 1990,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 15,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 2347,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 2824,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 11,
+      "caracteres_no_blancos": 3182,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 12,
+      "caracteres_no_blancos": 2356,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 13,
+      "caracteres_no_blancos": 2756,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 14,
+      "caracteres_no_blancos": 2583,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 15,
+      "caracteres_no_blancos": 2504,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 16,
+      "caracteres_no_blancos": 2116,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 17,
+      "caracteres_no_blancos": 2938,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 18,
+      "caracteres_no_blancos": 2790,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 19,
+      "caracteres_no_blancos": 2985,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 20,
+      "caracteres_no_blancos": 3234,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 21,
+      "caracteres_no_blancos": 2110,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 22,
+      "caracteres_no_blancos": 2681,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 23,
+      "caracteres_no_blancos": 3145,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 24,
+      "caracteres_no_blancos": 2045,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 25,
+      "caracteres_no_blancos": 1789,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 26,
+      "caracteres_no_blancos": 2775,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 27,
+      "caracteres_no_blancos": 1001,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 28,
+      "caracteres_no_blancos": 2905,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 29,
+      "caracteres_no_blancos": 735,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 30,
+      "caracteres_no_blancos": 1229,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 31,
+      "caracteres_no_blancos": 1161,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 32,
+      "caracteres_no_blancos": 2182,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 33,
+      "caracteres_no_blancos": 3136,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 34,
+      "caracteres_no_blancos": 710,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 35,
+      "caracteres_no_blancos": 2530,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 36,
+      "caracteres_no_blancos": 1544,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 37,
+      "caracteres_no_blancos": 1265,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 38,
+      "caracteres_no_blancos": 1263,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 39,
+      "caracteres_no_blancos": 1306,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 40,
+      "caracteres_no_blancos": 1098,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 41,
+      "caracteres_no_blancos": 1134,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 42,
+      "caracteres_no_blancos": 1132,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 43,
+      "caracteres_no_blancos": 1407,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 44,
+      "caracteres_no_blancos": 2491,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 45,
+      "caracteres_no_blancos": 2771,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 46,
+      "caracteres_no_blancos": 294,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    }
+  ],
+  "alcance": "Controles de conservación en todas las páginas; comparación de cifras con Poppler y pypdf. El cotejo visual se registra por separado. No certifica vigencia jurídica.",
+  "incidencias_resueltas": [],
+  "diferencias_de_fuente": [
+    "La secuencia de encabezados numéricos difiere Word/PDF; consultar contadores y evidencia. No se corrige.",
+    "La comparación léxica Word/PDF no coincide: encabezados repetidos, campos Word y otras diferencias pendientes de cotejo. No equivale a pérdida del Markdown.",
+    "El control original con retirada de paginación difiere. Se conserva el resultado y se añade comparación simétrica de cifras sin retirar paginación.",
+    "Hay discrepancias en la secuencia de cifras entre los dos lectores PDF; requieren cotejo, no se reparan.",
+    "Word original .doc conservado por autorización expresa del usuario; no se fabrica original.docx."
+  ],
+  "formato_word_original": "doc",
+  "ocr_ejecutado": false,
+  "incidencias_descarga": [],
+  "promociones_encabezado_evitadas": [
+    {
+      "linea": 23,
+      "texto": "Artículo 45 Bis 1.- Las notificaciones a que se refiere esta Ley se practicarán como sigue:",
+      "anterior": "",
+      "siguiente": "",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 14
+    },
+    {
+      "linea": 11,
+      "texto": "Artículo 55 Bis 1.- La Autoridad Federal, notificará al interesado o a su representante legal los plazos",
+      "anterior": "",
+      "siguiente": "previstos en el artículo anterior, para que en el plazo de 90 días naturales a partir de la notificación",
+      "motivo": "renglón siguiente empieza en minúscula",
+      "pagina": 17
+    },
+    {
+      "linea": 17,
+      "texto": "Artículo 55 Bis 2.- El permisionario deberá notificar a la Dirección General de Autotransporte Federal",
+      "anterior": "",
+      "siguiente": "el listado de unidades que cumplan con los requisitos para considerarse en el supuesto de abandono,",
+      "motivo": "renglón siguiente empieza en minúscula",
+      "pagina": 17
+    },
+    {
+      "linea": 16,
+      "texto": "ARTICULO 5 DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, PARA QUEDAR",
+      "anterior": "ARTÍCULO QUINTO.- SE REFORMA LA FRACCIÓN IV Y SE DEROGA LA FRACCIÓN VII DEL",
+      "siguiente": "COMO SIGUE:",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 26
+    }
+  ],
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-18T02:14:06.805044+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "decreto_numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.edicion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.seccion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "reformas",
+        "motivo": "Notas literales conservadas con todas las fechas; fecha escalar null si hay varias. Números de diario/decreto no impresos quedan null. Captura automática pendiente de revisión."
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Cláusulas expresas capturadas para cotejo; no se infieren nombres ni fechas faltantes. Revisar evidencia impresa."
+      },
+      {
+        "campo": "abroga[].po_numero",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0,
+          1
+        ]
+      },
+      {
+        "campo": "abroga[].decreto",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0,
+          1
+        ]
+      }
+    ],
+    "evidencia": {
+      "abroga": [
+        {
+          "pagina": 24,
+          "texto": "Artículo Segundo.- Se abroga la Ley sobre Construcción de Caminos en Cooperación con los Estados, publicada en el Diario Oficial de la Federación el 8 de mayo de 1934."
+        },
+        {
+          "pagina": 45,
+          "texto": "Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025."
+        }
+      ],
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "Ley publicada en el Diario Oficial de la Federación el 22 de diciembre de 1993"
+      },
+      "ultima_reforma": {
+        "pagina": 1,
+        "texto": "Última Reforma DOF 14-11-2025"
+      },
+      "reformas": {
+        "pagina_inicio": 1,
+        "encabezado": null,
+        "filas": [
+          {
+            "fila": 0,
+            "texto": "Artículo reformado DOF 25-10-2005",
+            "pagina": 1
+          },
+          {
+            "fila": 1,
+            "texto": "Fracción reformada DOF 16-07-2025",
+            "pagina": 2
+          },
+          {
+            "fila": 2,
+            "texto": "Fracción adicionada DOF 25-10-2005",
+            "pagina": 2
+          },
+          {
+            "fila": 3,
+            "texto": "Fracción recorrida DOF 25-10-2005. Reformada DOF 21-05-2013",
+            "pagina": 3
+          },
+          {
+            "fila": 4,
+            "texto": "Fracción adicionada DOF 21-05-2013",
+            "pagina": 3
+          },
+          {
+            "fila": 5,
+            "texto": "Fracción reformada DOF 14-11-2025",
+            "pagina": 3
+          },
+          {
+            "fila": 6,
+            "texto": "Párrafo reformado DOF 25-10-2005",
+            "pagina": 3
+          },
+          {
+            "fila": 7,
+            "texto": "Fracción reformada DOF 04-01-1999",
+            "pagina": 3
+          },
+          {
+            "fila": 8,
+            "texto": "Fracción reformada DOF 10-10-2016",
+            "pagina": 3
+          },
+          {
+            "fila": 9,
+            "texto": "Fracción derogada DOF 04-01-1999",
+            "pagina": 3
+          },
+          {
+            "fila": 10,
+            "texto": "Párrafo adicionado DOF 15-11-2023",
+            "pagina": 4
+          },
+          {
+            "fila": 11,
+            "texto": "Fracción reformada DOF 18-05-2012",
+            "pagina": 4
+          },
+          {
+            "fila": 12,
+            "texto": "Párrafo reformado DOF 04-11-2010, 08-06-2016",
+            "pagina": 4
+          },
+          {
+            "fila": 13,
+            "texto": "Párrafo adicionado DOF 04-06-2014. Reformado DOF 25-06-2018",
+            "pagina": 4
+          },
+          {
+            "fila": 14,
+            "texto": "Artículo adicionado DOF 08-06-2016",
+            "pagina": 5
+          },
+          {
+            "fila": 15,
+            "texto": "Fracción adicionada DOF 04-06-2014",
+            "pagina": 8
+          },
+          {
+            "fila": 16,
+            "texto": "Artículo adicionado DOF 15-11-2023",
+            "pagina": 10
+          },
+          {
+            "fila": 17,
+            "texto": "Párrafo reformado DOF 25-10-2005",
+            "pagina": 12
+          },
+          {
+            "fila": 18,
+            "texto": "Párrafo reformado DOF 25-10-2005",
+            "pagina": 12
+          },
+          {
+            "fila": 19,
+            "texto": "Párrafo adicionado DOF 25-10-2005. Reformado DOF 01-12-2020",
+            "pagina": 12
+          },
+          {
+            "fila": 20,
+            "texto": "Párrafo adicionado DOF 25-10-2005",
+            "pagina": 12
+          },
+          {
+            "fila": 21,
+            "texto": "Artículo adicionado DOF 16-12-2013",
+            "pagina": 14
+          },
+          {
+            "fila": 22,
+            "texto": "Artículo adicionado DOF 16-12-2013",
+            "pagina": 14
+          },
+          {
+            "fila": 23,
+            "texto": "Párrafo adicionado DOF 24-05-2018",
+            "pagina": 16
+          },
+          {
+            "fila": 24,
+            "texto": "Artículo adicionado DOF 16-12-2013",
+            "pagina": 17
+          },
+          {
+            "fila": 25,
+            "texto": "Artículo adicionado DOF 16-12-2013",
+            "pagina": 17
+          },
+          {
+            "fila": 26,
+            "texto": "Artículo adicionado DOF 16-12-2013",
+            "pagina": 17
+          },
+          {
+            "fila": 27,
+            "texto": "Artículo reformado DOF 30-11-2017",
+            "pagina": 18
+          },
+          {
+            "fila": 28,
+            "texto": "Artículo adicionado DOF 21-05-2013",
+            "pagina": 18
+          },
+          {
+            "fila": 29,
+            "texto": "Artículo adicionado DOF 21-05-2013",
+            "pagina": 19
+          },
+          {
+            "fila": 30,
+            "texto": "Artículo reformado DOF 25-10-2005",
+            "pagina": 20
+          },
+          {
+            "fila": 31,
+            "texto": "Artículo adicionado DOF 25-10-2005",
+            "pagina": 20
+          },
+          {
+            "fila": 32,
+            "texto": "Artículo reformado DOF 25-10-2005",
+            "pagina": 20
+          },
+          {
+            "fila": 33,
+            "texto": "Artículo reformado DOF 25-10-2005",
+            "pagina": 21
+          },
+          {
+            "fila": 34,
+            "texto": "Fracción reformada DOF 25-10-2005",
+            "pagina": 21
+          },
+          {
+            "fila": 35,
+            "texto": "Fracción reformada DOF 25-10-2005",
+            "pagina": 21
+          },
+          {
+            "fila": 36,
+            "texto": "Párrafo reformado DOF 25-10-2005",
+            "pagina": 21
+          },
+          {
+            "fila": 37,
+            "texto": "Artículo reformado DOF 25-10-2005",
+            "pagina": 22
+          },
+          {
+            "fila": 38,
+            "texto": "Párrafo reformado DOF 21-05-2013",
+            "pagina": 22
+          },
+          {
+            "fila": 39,
+            "texto": "Fracción adicionada DOF 21-05-2013",
+            "pagina": 22
+          },
+          {
+            "fila": 40,
+            "texto": "Artículo adicionado DOF 25-10-2005",
+            "pagina": 23
+          },
+          {
+            "fila": 41,
+            "texto": "Fracción reformada DOF 30-11-2017",
+            "pagina": 23
+          },
+          {
+            "fila": 42,
+            "texto": "Artículo adicionado DOF 25-10-2005",
+            "pagina": 23
+          },
+          {
+            "fila": 43,
+            "texto": "Artículo reformado DOF 25-10-2005",
+            "pagina": 23
+          },
+          {
+            "fila": 44,
+            "texto": "Párrafo reformado DOF 25-10-2005",
+            "pagina": 24
+          },
+          {
+            "fila": 45,
+            "texto": "Artículo adicionado DOF 25-10-2005",
+            "pagina": 24
+          },
+          {
+            "fila": 46,
+            "texto": "Artículo reformado DOF 25-10-2005",
+            "pagina": 24
+          }
+        ]
+      }
+    }
+  },
+  "control_pypdf_informativo": {
+    "fuente": "Usuario; piloto aprobado en la conversación",
+    "descripcion": "pypdf fragmenta números con espacios; verificado por el usuario contra originales en 11 páginas señaladas del CFF y tres de CPEUM. Markdown generado con Poppler.",
+    "decision": "Control informativo, no bloquea lotes y no modifica textos. No se atribuye cotejo visual adicional a Codex."
+  },
+  "correccion_encabezados_compuestos": {
+    "fecha": "2026-09-18T14:50:36.018449+00:00",
+    "version_anterior": "80fe32a16f04d8b62c38be74634cd682e9fb812f3b55324dfd6f406942d586cc",
+    "cantidad": 3,
+    "contenido_y_signos_conservados": true,
+    "originales_sin_cambios": true,
+    "evidencia_paginas": [
+      {
+        "pagina_pdf": 14,
+        "linea_extraccion": 23,
+        "encabezado_literal": "Artículo 45 Bis 1.-",
+        "evidencia": "Artículo 45 Bis 1.- Las notificaciones a que se refiere esta Ley se practicarán como sigue:",
+        "cambio": "Se separa el encabezado y se agrega ###; sin modificar caracteres impresos."
+      },
+      {
+        "pagina_pdf": 17,
+        "linea_extraccion": 11,
+        "encabezado_literal": "Artículo 55 Bis 1.-",
+        "evidencia": "Artículo 55 Bis 1.- La Autoridad Federal, notificará al interesado o a su representante legal los plazos",
+        "cambio": "Se separa el encabezado y se agrega ###; sin modificar caracteres impresos."
+      },
+      {
+        "pagina_pdf": 17,
+        "linea_extraccion": 17,
+        "encabezado_literal": "Artículo 55 Bis 2.-",
+        "evidencia": "Artículo 55 Bis 2.- El permisionario deberá notificar a la Dirección General de Autotransporte Federal",
+        "cambio": "Se separa el encabezado y se agrega ###; sin modificar caracteres impresos."
+      }
+    ],
+    "limite": "Cotejo contra extracción del mismo PDF y marcadores; no altera ortografía, numeración ni notas. Sin regenerar articulado ni índices."
+  }
+}
