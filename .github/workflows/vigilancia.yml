@@ -1,0 +1,70 @@
+name: Vigilancia de reformas
+
+# Revisa semanalmente si los Congresos de Sinaloa y Nayarit modificaron algún
+# archivo del acervo. DETECTA, no convierte: la conversión y la validación se
+# hacen aparte, con supervisión.
+
+on:
+  schedule:
+    # Lunes 14:00 UTC = 07:00 en Mazatlán. GitHub puede retrasarlo unos minutos.
+    - cron: "0 14 * * 1"
+  workflow_dispatch:
+    inputs:
+      forzar_descarga:
+        description: "Descargar y cotejar SHA-256 de todo, sin confiar en cabeceras"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: vigilancia
+  cancel-in-progress: false
+
+jobs:
+  revisar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Revisar el sitio de los Congresos
+        id: revision
+        run: |
+          if [ "${{ inputs.forzar_descarga }}" = "true" ]; then
+            python3 bin/vigilancia.py --forzar-descarga
+          else
+            python3 bin/vigilancia.py
+          fi
+
+      - name: Guardar el estado observado
+        run: |
+          git config user.name "Vigilancia de reformas"
+          git config user.email "209737312+enriquedilo@users.noreply.github.com"
+          git add vigilancia/
+          if git diff --cached --quiet; then
+            echo "Sin cambios que registrar."
+          else
+            git commit -m "Vigilancia: ${{ steps.revision.outputs.revisados }} ordenamientos revisados" \
+                       -m "Estado y reporte de la corrida automática. Detección únicamente: no se convirtió ni se actualizó ningún texto del acervo."
+            git push
+          fi
+
+      - name: Avisar si algo se movió
+        if: steps.revision.outputs.hallazgos == 'si'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create \
+            --title "Vigilancia $(date -u +%Y-%m-%d): hay movimiento en el sitio de los Congresos" \
+            --body-file vigilancia/reporte.md
+
+      - name: Resumen de la corrida
+        if: always()
+        run: cat vigilancia/reporte.md >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || true
