@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T14:26:33.390318+00:00
+Actualizado: 2026-09-18T14:26:57.466449+00:00
 
-Procesados: **164/453**. Intentados: 164/453. Pendientes reportados: 0.
+Procesados: **174/453**. Intentados: 174/453. Pendientes reportados: 0.
 
-Lote 16 cerrado; publicación por commit del lote.
+Lote 17 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -26,8 +26,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 13 | 10/10 | Publicado |
 | 14 | 10/10 | Publicado |
 | 15 | 10/10 | Publicado |
-| 16 | 10/10 | Cerrado localmente |
-| 17 | 0/10 | Pendiente |
+| 16 | 10/10 | Publicado |
+| 17 | 10/10 | Cerrado localmente |
 | 18 | 0/10 | Pendiente |
 | 19 | 0/10 | Pendiente |
 | 20 | 0/10 | Pendiente |
@@ -221,16 +221,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 16 | 160 | LFRA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 16 | 161 | LFRPE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 16 | 162 | LFRSP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 17 | 163 | LFRM | pendiente | — |
-| 17 | 164 | LFSA | pendiente | — |
-| 17 | 165 | LFSV | pendiente | — |
-| 17 | 166 | LFSP | pendiente | — |
-| 17 | 167 | LFVV | pendiente | — |
-| 17 | 168 | LFZEE | pendiente | — |
-| 17 | 169 | LFDA | pendiente | — |
-| 17 | 170 | LFISAN | pendiente | — |
-| 17 | 171 | 124 | pendiente | — |
-| 17 | 172 | LFT | pendiente | — |
+| 17 | 163 | LFRM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 17 | 164 | LFSA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 17 | 165 | LFSV | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 17 | 166 | LFSP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 17 | 167 | LFVV | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 17 | 168 | LFZEE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 17 | 169 | LFDA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 17 | 170 | LFISAN | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 17 | 171 | 124 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 17 | 172 | LFT | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 18 | 173 | LFCPQ | pendiente | — |
 | 18 | 174 | LFCSQ | pendiente | — |
 | 18 | 175 | LFFMAA | pendiente | — |

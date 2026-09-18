@@ -170,16 +170,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 160 | LFRA | LEY Federal de Responsabilidad Ambiental | [Markdown](ordenamientos/160/versiones/ff28007e82e2705e08e877e9803a10ca7271c7df4da453e1ccfb004900024d00/texto.md) · procesado_con_incidencias |
 | 161 | LFRPE | LEY Federal de Responsabilidad Patrimonial del Estado | [Markdown](ordenamientos/161/versiones/3edfaa1340056595624d74aaacb757a2550f0dd74c07cedaed82902c46ba13c4/texto.md) · procesado_con_incidencias |
 | 162 | LFRSP | LEY Federal de Responsabilidades de los Servidores Públicos | [Markdown](ordenamientos/162/versiones/a6bc49f02e03fcde73f9e9bf7568f10fd500b8fc5cecc8f9481a519516eee04d/texto.md) · procesado_con_incidencias |
-| 163 | LFRM | LEY Federal de Revocación de Mandato | pendiente |
-| 164 | LFSA | LEY Federal de Sanidad Animal | pendiente |
-| 165 | LFSV | LEY Federal de Sanidad Vegetal | pendiente |
-| 166 | LFSP | LEY Federal de Seguridad Privada | pendiente |
-| 167 | LFVV | LEY Federal de Variedades Vegetales | pendiente |
-| 168 | LFZEE | LEY Federal de Zonas Económicas Especiales | pendiente |
-| 169 | LFDA | LEY Federal del Derecho de Autor | pendiente |
-| 170 | LFISAN | LEY Federal del Impuesto sobre Automóviles Nuevos | pendiente |
-| 171 | 124 | LEY Federal del Mar | pendiente |
-| 172 | LFT | LEY Federal del Trabajo | pendiente |
+| 163 | LFRM | LEY Federal de Revocación de Mandato | [Markdown](ordenamientos/163/versiones/fc3f8cf4424165100f69789c66f6ec06bccf487c2c715a1f5bc90c33dc917420/texto.md) · procesado_con_incidencias |
+| 164 | LFSA | LEY Federal de Sanidad Animal | [Markdown](ordenamientos/164/versiones/570d0d442a0910a9bc3b65f42a149ce0ba20ba0049b9b5a54e2c5236f7c9d055/texto.md) · procesado_con_incidencias |
+| 165 | LFSV | LEY Federal de Sanidad Vegetal | [Markdown](ordenamientos/165/versiones/39a14e74f1aa9ce1326e8ecbb764bd76ee05721ce6a23166b12170e044b02d81/texto.md) · procesado_con_incidencias |
+| 166 | LFSP | LEY Federal de Seguridad Privada | [Markdown](ordenamientos/166/versiones/91981cce98ac13ff3cd7c19636896aadf809242e5af973cd5a228b192bd598af/texto.md) · procesado_con_incidencias |
+| 167 | LFVV | LEY Federal de Variedades Vegetales | [Markdown](ordenamientos/167/versiones/e4fa880abd2382f926c12f79373e34dc0216bf0a53f6d23c1825ee22558918d4/texto.md) · procesado_con_incidencias |
+| 168 | LFZEE | LEY Federal de Zonas Económicas Especiales | [Markdown](ordenamientos/168/versiones/07001a8a9c3c9bccac214eef9fd07bf65a7d39e543d24f70bda4cfe58cee48de/texto.md) · procesado_con_incidencias |
+| 169 | LFDA | LEY Federal del Derecho de Autor | [Markdown](ordenamientos/169/versiones/39745ec6bb830bfeea4a466654520c41e784e8f4c5a69c7beef33d334c8a1beb/texto.md) · procesado_con_incidencias |
+| 170 | LFISAN | LEY Federal del Impuesto sobre Automóviles Nuevos | [Markdown](ordenamientos/170/versiones/7e10d72b0c67ce6f0dad52720b3cf5b8f63e8559abaa6367da112d4194e8d6c2/texto.md) · procesado_con_incidencias |
+| 171 | 124 | LEY Federal del Mar | [Markdown](ordenamientos/171/versiones/ca3b7d78901c065abf2f0551ba069e9e80c574b73e5d7ed6dcda730df0de1c57/texto.md) · procesado_con_incidencias |
+| 172 | LFT | LEY Federal del Trabajo | [Markdown](ordenamientos/172/versiones/59e189c9989e36e28b25f3a0e4a5b362246e4051ebb0e64c519b41887caf1f76/texto.md) · procesado_con_incidencias |
 | 173 | LFCPQ | LEY Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos | pendiente |
 | 174 | LFCSQ | LEY Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas | pendiente |
 | 175 | LFFMAA | LEY Federal para el Fomento de la Microindustria y la Actividad Artesanal | pendiente |
