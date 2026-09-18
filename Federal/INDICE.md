@@ -281,16 +281,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 271 | 176_210618 | LEY para Conservar la Neutralidad del País | [Markdown](ordenamientos/271/versiones/b67284133916105982dc16697358ddcbe58235e93dcccaa5fefd799442b8fd1d/texto.md) · procesado_con_incidencias |
 | 272 | LDVUMA_301216 | LEY para Determinar el Valor de la Unidad de Medida y Actualización | [Markdown](ordenamientos/272/versiones/a34cecab9563cbb1b3b9a5c630d926b430a49098f885ac0508353e9e2672b442/texto.md) · procesado_con_incidencias |
 | 273 | LDCMPME | LEY para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa | [Markdown](ordenamientos/273/versiones/dd8507a5c3aaa6b5745c963357ff3bfd06aef88527237147386594ef9846f277/texto.md) · procesado_con_incidencias |
-| 274 | 177 | LEY para el Diálogo, la Conciliación y la Paz Digna en Chiapas | pendiente |
-| 275 | LFIIEDB | LEY para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar | pendiente |
-| 276 | LUPDECR | LEY para el uso y protección de la denominación y del emblema de la Cruz Roja | pendiente |
-| 277 | LIISPCEN | LEY para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional | pendiente |
-| 278 | 268 | LEY para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México | pendiente |
-| 279 | LCACSEFAM | LEY para la Comprobación, Ajuste y Cómputo de Servicios en el Ejército y Fuerza Aérea Mexicanos | pendiente |
-| 280 | LPPDDHP | LEY para la Protección de Personas Defensoras de Derechos Humanos y Periodistas | pendiente |
-| 281 | LTPCPIMCP | LEY para la Transparencia, Prevención y Combate de Prácticas Indebidas en Materia de Contratación de Publicidad | pendiente |
-| 282 | LTOSF | LEY para la Transparencia y Ordenamiento de los Servicios Financieros | pendiente |
-| 283 | LRASCAP | LEY para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo | pendiente |
+| 274 | 177 | LEY para el Diálogo, la Conciliación y la Paz Digna en Chiapas | [Markdown](ordenamientos/274/versiones/bb3336c5bb2b3792f62a67837642fbf50da9fb9f74b727156f1863efa95424f4/texto.md) · procesado_con_incidencias |
+| 275 | LFIIEDB | LEY para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar | [Markdown](ordenamientos/275/versiones/9f8381df31709717452b590a54a11e2f7054d2f6a2c47182d588be228c4b8dee/texto.md) · procesado_con_incidencias |
+| 276 | LUPDECR | LEY para el uso y protección de la denominación y del emblema de la Cruz Roja | [Markdown](ordenamientos/276/versiones/12cb3d6ebd0bf9e12a86b02ea94a951776d92939b82588470ffa2cd140337205/texto.md) · procesado_con_incidencias |
+| 277 | LIISPCEN | LEY para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional | [Markdown](ordenamientos/277/versiones/04e49dc83ccf6d95f101238b71989510075207952d72998293d3f5e3f31c4a2a/texto.md) · procesado_con_incidencias |
+| 278 | 268 | LEY para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México | [Markdown](ordenamientos/278/versiones/94cc302bf06cf851a6aa6ca1021aa454b60877760fa368cc7378abfabcad717f/texto.md) · procesado_con_incidencias |
+| 279 | LCACSEFAM | LEY para la Comprobación, Ajuste y Cómputo de Servicios en el Ejército y Fuerza Aérea Mexicanos | [Markdown](ordenamientos/279/versiones/4764fd18c6ee293030f7de6ff5efd4a88ac95ee0942b541076cfe21b677da78e/texto.md) · procesado_con_incidencias |
+| 280 | LPPDDHP | LEY para la Protección de Personas Defensoras de Derechos Humanos y Periodistas | [Markdown](ordenamientos/280/versiones/20d959dcf3d11eb10842080b2cd924d0763f7bb25919e267318c69cde4f60ec5/texto.md) · procesado_con_incidencias |
+| 281 | LTPCPIMCP | LEY para la Transparencia, Prevención y Combate de Prácticas Indebidas en Materia de Contratación de Publicidad | [Markdown](ordenamientos/281/versiones/84307b5cc5461adbe8173ab2a950aed8c26483abf51636899165349a1298ad6c/texto.md) · procesado_con_incidencias |
+| 282 | LTOSF | LEY para la Transparencia y Ordenamiento de los Servicios Financieros | [Markdown](ordenamientos/282/versiones/b16e3d5b2268397c2835ceee2c55e556a69f6970012ebbcffd424470e3d836ae/texto.md) · procesado_con_incidencias |
+| 283 | LRASCAP | LEY para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo | [Markdown](ordenamientos/283/versiones/52d5444ba4e0ea4c965c2e6d172d0c3fb38ea515087b2562c75714257f591e6e/texto.md) · procesado_con_incidencias |
 | 284 | LRAF | LEY para Regular las Agrupaciones Financieras | pendiente |
 | 285 | LRITF | LEY para Regular las Instituciones de Tecnología Financiera | pendiente |
 | 286 | LRSIC | LEY para Regular las Sociedades de Información Crediticia | pendiente |

@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T15:00:25.717298+00:00
+Actualizado: 2026-09-18T15:00:40.332755+00:00
 
-Procesados: **274/453**. Intentados: 274/453. Pendientes reportados: 0.
+Procesados: **284/453**. Intentados: 284/453. Pendientes reportados: 0.
 
-Lote 27 cerrado; publicación por commit del lote.
+Lote 28 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -37,8 +37,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 24 | 10/10 | Publicado |
 | 25 | 10/10 | Publicado |
 | 26 | 10/10 | Publicado |
-| 27 | 10/10 | Cerrado localmente |
-| 28 | 0/10 | Pendiente |
+| 27 | 10/10 | Publicado |
+| 28 | 10/10 | Cerrado localmente |
 | 29 | 0/10 | Pendiente |
 | 30 | 0/10 | Pendiente |
 | 31 | 0/10 | Pendiente |
@@ -332,16 +332,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 27 | 271 | 176_210618 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 27 | 272 | LDVUMA_301216 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 27 | 273 | LDCMPME | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 28 | 274 | 177 | pendiente | — |
-| 28 | 275 | LFIIEDB | pendiente | — |
-| 28 | 276 | LUPDECR | pendiente | — |
-| 28 | 277 | LIISPCEN | pendiente | — |
-| 28 | 278 | 268 | pendiente | — |
-| 28 | 279 | LCACSEFAM | pendiente | — |
-| 28 | 280 | LPPDDHP | pendiente | — |
-| 28 | 281 | LTPCPIMCP | pendiente | — |
-| 28 | 282 | LTOSF | pendiente | — |
-| 28 | 283 | LRASCAP | pendiente | — |
+| 28 | 274 | 177 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 28 | 275 | LFIIEDB | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 28 | 276 | LUPDECR | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 28 | 277 | LIISPCEN | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 28 | 278 | 268 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 28 | 279 | LCACSEFAM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 28 | 280 | LPPDDHP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 28 | 281 | LTPCPIMCP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 28 | 282 | LTOSF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 28 | 283 | LRASCAP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 29 | 284 | LRAF | pendiente | — |
 | 29 | 285 | LRITF | pendiente | — |
 | 29 | 286 | LRSIC | pendiente | — |
