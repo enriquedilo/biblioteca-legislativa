@@ -1,23 +1,25 @@
 # Biblioteca Federal
 
-Fuente: Cámara de Diputados. Captura de índices vigentes; no certifica vigencia jurídica.
+Cámara de Diputados: índices vigentes capturados individualmente. 453 identidades; la compilación no certifica vigencia jurídica.
 
-Piloto; sin índices de búsqueda ni articulado. Originales y extracción conservados localmente, excluidos de Git conforme a la política del repositorio.
+[Avance](AVANCE.md) · [Piloto](reportes/piloto.md)
 
-| ID | Sigla | Ordenamiento | Estado |
+Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata.json. Originales y extracción local excluidos de Git.
+
+| ID | Sigla | Ordenamiento | Texto / Estado |
 |---|---|---|---|
-| 1 | CPEUM | CONSTITUCIÓN Política de los Estados Unidos Mexicanos | piloto procesado |
-| 2 | CCF | CÓDIGO Civil Federal | pendiente |
-| 3 | CCom | CÓDIGO de Comercio | pendiente |
-| 4 | CJM | CÓDIGO de Justicia Militar | pendiente |
-| 5 | CFPC | CÓDIGO Federal de Procedimientos Civiles | pendiente |
-| 6 | CFF | CÓDIGO Fiscal de la Federación | piloto procesado |
-| 7 | CMPP | CÓDIGO Militar de Procedimientos Penales | pendiente |
-| 8 | CNPCF | CÓDIGO Nacional de Procedimientos Civiles y Familiares | pendiente |
-| 9 | CNPP | CÓDIGO Nacional de Procedimientos Penales | pendiente |
-| 10 | CPF | CÓDIGO Penal Federal | pendiente |
-| 11 | 10_270614 | ESTATUTO de Gobierno del Distrito Federal | pendiente |
-| 12 | 79 | IMPUESTO sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos) | pendiente |
+| 1 | CPEUM | CONSTITUCIÓN Política de los Estados Unidos Mexicanos | [Markdown](ordenamientos/1/versiones/e943b45be6d313ac4476264ea10f3e3a890f97ae8df2b69062dbee25ec7edb2d/texto.md) · piloto_aprobado |
+| 2 | CCF | CÓDIGO Civil Federal | [Markdown](ordenamientos/2/versiones/3fb34f8b93451f5830bb82d5511e6a519caf1a253e21385e1d0f2447339185f1/texto.md) · procesado_con_incidencias |
+| 3 | CCom | CÓDIGO de Comercio | [Markdown](ordenamientos/3/versiones/843a1786ae968e18fb8ec1e6547f524c6e1ac55c5de664158dd6d08d7019b173/texto.md) · procesado_con_incidencias |
+| 4 | CJM | CÓDIGO de Justicia Militar | [Markdown](ordenamientos/4/versiones/510f55be7e1f7b7f4093d96ad04eba76fb6b21591619446c15c3ae6a92122e78/texto.md) · procesado_con_incidencias |
+| 5 | CFPC | CÓDIGO Federal de Procedimientos Civiles | [Markdown](ordenamientos/5/versiones/7b33ea4df697a5a69c948dccecf3a6737a0f2a11da2c95136cfe6c86bc86e836/texto.md) · procesado_con_incidencias |
+| 6 | CFF | CÓDIGO Fiscal de la Federación | [Markdown](ordenamientos/6/versiones/0d25fd20c497b33db9bfb8fb5f85f0a4311bdd7f4355504c6f6f56608c186d1a/texto.md) · piloto_aprobado |
+| 7 | CMPP | CÓDIGO Militar de Procedimientos Penales | [Markdown](ordenamientos/7/versiones/3f2e81d40a58b48377b5d33a96c429b1d5e0d53f44b1c6d88f4152ee66f259b2/texto.md) · procesado_con_incidencias |
+| 8 | CNPCF | CÓDIGO Nacional de Procedimientos Civiles y Familiares | [Markdown](ordenamientos/8/versiones/fccc19673a372a920e8b6a2cfee7d0950579810b4fbaf63198d6b01ae2ce0284/texto.md) · procesado_con_incidencias |
+| 9 | CNPP | CÓDIGO Nacional de Procedimientos Penales | [Markdown](ordenamientos/9/versiones/439403d393845526da7ac0590e74c16bf12069985056f09385cd1a5242805c2e/texto.md) · procesado_con_incidencias |
+| 10 | CPF | CÓDIGO Penal Federal | [Markdown](ordenamientos/10/versiones/b308d289b693a6668bc5ee18e58af82f7fd8a82a0191fef7a0db61cb723fecc9/texto.md) · procesado_con_incidencias |
+| 11 | 10_270614 | ESTATUTO de Gobierno del Distrito Federal | [Markdown](ordenamientos/11/versiones/51da591796539d6540f972f7c231da29d2d596ba9e3c5eff4de37b96c8589eb8/texto.md) · procesado_con_incidencias |
+| 12 | 79 | IMPUESTO sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos) | [Markdown](ordenamientos/12/versiones/3697d145b2db53f67dd701fe67bbab3984b887e57419f36619ca1f660a3faa6b/texto.md) · procesado_con_incidencias |
 | 13 | LAdua | LEY Aduanera | pendiente |
 | 14 | LAgra | LEY Agraria | pendiente |
 | 15 | LAASSP | LEY de Adquisiciones, Arrendamientos y Servicios del Sector Público | pendiente |
@@ -207,7 +209,7 @@ Piloto; sin índices de búsqueda ni articulado. Originales y extracción conser
 | 199 | LGES_200421 | LEY General de Educación Superior | pendiente |
 | 200 | LGIPE | LEY General de Instituciones y Procedimientos Electorales | pendiente |
 | 201 | LGAAS | LEY General de la Alimentación Adecuada y Sostenible | pendiente |
-| 202 | LGDNNA | LEY General de los Derechos de Niñas, Niños y Adolescentes | piloto procesado |
+| 202 | LGDNNA | LEY General de los Derechos de Niñas, Niños y Adolescentes | [Markdown](ordenamientos/202/versiones/c14820b446d009b9da81e90bca3087779e9238a8d94ccc339d53e363de652efb/texto.md) · piloto_aprobado |
 | 203 | LGMIME | LEY General de los Medios de Impugnación en Materia Electoral | pendiente |
 | 204 | LGMASC | LEY General de Mecanismos Alternativos de Solución de Controversias | pendiente |
 | 205 | LGMSV | LEY General de Movilidad y Seguridad Vial | pendiente |
@@ -458,4 +460,4 @@ Piloto; sin índices de búsqueda ni articulado. Originales y extracción conser
 | 450 | Reg_LFPC_Art122 | REGLAMENTO del Artículo 122 de la Ley Federal de Protección al Consumidor | pendiente |
 | 451 | Reg_LFIF_Art95 | REGLAMENTO del Artículo 95 de la Ley Federal de Instituciones de Fianzas, para el Cobro de Fianzas Otorgadas a Favor de la Federación, del Distrito Federal, de los Estados y de los Municipios, Distintas de las que Garantizan Obligaciones Fiscales Federales a cargo de Terceros | pendiente |
 | 452 | Reg_CComer_MPSC | REGLAMENTO del Código de Comercio en Materia de Prestadores de Servicios de Certificación | pendiente |
-| 453 | Reg_CFF | REGLAMENTO del Código Fiscal de la Federación | piloto procesado |
+| 453 | Reg_CFF | REGLAMENTO del Código Fiscal de la Federación | [Markdown](ordenamientos/453/versiones/34919f5783595a22a329e6df0374db304c89caf65ef7b806f71d00987d8be841/texto.md) · piloto_aprobado |
