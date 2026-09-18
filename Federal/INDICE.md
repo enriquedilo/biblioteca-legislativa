@@ -180,16 +180,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 170 | LFISAN | LEY Federal del Impuesto sobre Automóviles Nuevos | [Markdown](ordenamientos/170/versiones/7e10d72b0c67ce6f0dad52720b3cf5b8f63e8559abaa6367da112d4194e8d6c2/texto.md) · procesado_con_incidencias |
 | 171 | 124 | LEY Federal del Mar | [Markdown](ordenamientos/171/versiones/ca3b7d78901c065abf2f0551ba069e9e80c574b73e5d7ed6dcda730df0de1c57/texto.md) · procesado_con_incidencias |
 | 172 | LFT | LEY Federal del Trabajo | [Markdown](ordenamientos/172/versiones/59e189c9989e36e28b25f3a0e4a5b362246e4051ebb0e64c519b41887caf1f76/texto.md) · procesado_con_incidencias |
-| 173 | LFCPQ | LEY Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos | pendiente |
-| 174 | LFCSQ | LEY Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas | pendiente |
-| 175 | LFFMAA | LEY Federal para el Fomento de la Microindustria y la Actividad Artesanal | pendiente |
-| 176 | LFFPMN_130420 | LEY Federal para el Fomento y Protección del Maíz Nativo | pendiente |
-| 177 | LFAEBSP | LEY Federal para la Administración y Enajenación de Bienes del Sector Público | pendiente |
-| 178 | LFPIORPI | LEY Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita | pendiente |
-| 179 | LFPPIPP_200521 | LEY Federal para la Protección a Personas que Intervienen en el Procedimiento Penal | pendiente |
-| 180 | LFPED | LEY Federal para Prevenir y Eliminar la Discriminación | pendiente |
-| 181 | LFPSDMH | LEY Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos | pendiente |
-| 182 | LFMZAAH | LEY Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos | pendiente |
+| 173 | LFCPQ | LEY Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos | [Markdown](ordenamientos/173/versiones/8d5816bafb9c9e31509dd899814f8d3e1c5c7ea9733a17a291c05ede62cf953d/texto.md) · procesado_con_incidencias |
+| 174 | LFCSQ | LEY Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas | [Markdown](ordenamientos/174/versiones/ec3d8de515a26e2e58e45ba7215b4cf5a7a70659d64c3f4903bc6464cf5eabb9/texto.md) · procesado_con_incidencias |
+| 175 | LFFMAA | LEY Federal para el Fomento de la Microindustria y la Actividad Artesanal | [Markdown](ordenamientos/175/versiones/a1273265adb6fe4fe80178dc5adbefb41b2dd4d242329f5c3550978311ddd33e/texto.md) · procesado_con_incidencias |
+| 176 | LFFPMN_130420 | LEY Federal para el Fomento y Protección del Maíz Nativo | [Markdown](ordenamientos/176/versiones/78dd9941f18c1c5f4ad552e1ea4e3ff5ac12fe784f9abb25900672110a2b8d69/texto.md) · procesado_con_incidencias |
+| 177 | LFAEBSP | LEY Federal para la Administración y Enajenación de Bienes del Sector Público | [Markdown](ordenamientos/177/versiones/653d8ecf43d8c80c4acc4521b26f52d1869a2a4af395c488cc03dfcb0cad8fcb/texto.md) · procesado_con_incidencias |
+| 178 | LFPIORPI | LEY Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita | [Markdown](ordenamientos/178/versiones/a6399060cfc2939937da61c3732abd53d697e54feb9a6471f2eedfde09a8d00e/texto.md) · procesado_con_incidencias |
+| 179 | LFPPIPP_200521 | LEY Federal para la Protección a Personas que Intervienen en el Procedimiento Penal | [Markdown](ordenamientos/179/versiones/54b04ec6a8d7d93abdcc3c68566de3a18c55354a22fbaeede03a07c3fcbadc00/texto.md) · procesado_con_incidencias |
+| 180 | LFPED | LEY Federal para Prevenir y Eliminar la Discriminación | [Markdown](ordenamientos/180/versiones/7fc626d71427ef6a391eed6841fefde66dd8fad52cf345cb00ddd064bd34ab9f/texto.md) · procesado_con_incidencias |
+| 181 | LFPSDMH | LEY Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos | [Markdown](ordenamientos/181/versiones/e5a6edfac44928f895b2558c1febfe0d194454607b6eedad1d722464de927beb/texto.md) · procesado_con_incidencias |
+| 182 | LFMZAAH | LEY Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos | [Markdown](ordenamientos/182/versiones/0ac28917135a7c4e826c6e0dd3ebcad5adf2d9da93eb93722ee16507f08cb0b6/texto.md) · procesado_con_incidencias |
 | 183 | LGAMVLV | LEY General de Acceso de las Mujeres a una Vida Libre de Violencias | pendiente |
 | 184 | LGAg | LEY General de Aguas | pendiente |
 | 185 | LGA | LEY General de Archivos | pendiente |

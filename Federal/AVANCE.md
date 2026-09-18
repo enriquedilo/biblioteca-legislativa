@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T14:26:57.466449+00:00
+Actualizado: 2026-09-18T14:27:12.014895+00:00
 
-Procesados: **174/453**. Intentados: 174/453. Pendientes reportados: 0.
+Procesados: **184/453**. Intentados: 184/453. Pendientes reportados: 0.
 
-Lote 17 cerrado; publicación por commit del lote.
+Lote 18 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -27,8 +27,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 14 | 10/10 | Publicado |
 | 15 | 10/10 | Publicado |
 | 16 | 10/10 | Publicado |
-| 17 | 10/10 | Cerrado localmente |
-| 18 | 0/10 | Pendiente |
+| 17 | 10/10 | Publicado |
+| 18 | 10/10 | Cerrado localmente |
 | 19 | 0/10 | Pendiente |
 | 20 | 0/10 | Pendiente |
 | 21 | 0/10 | Pendiente |
@@ -231,16 +231,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 17 | 170 | LFISAN | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 17 | 171 | 124 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 17 | 172 | LFT | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 18 | 173 | LFCPQ | pendiente | — |
-| 18 | 174 | LFCSQ | pendiente | — |
-| 18 | 175 | LFFMAA | pendiente | — |
-| 18 | 176 | LFFPMN_130420 | pendiente | — |
-| 18 | 177 | LFAEBSP | pendiente | — |
-| 18 | 178 | LFPIORPI | pendiente | — |
-| 18 | 179 | LFPPIPP_200521 | pendiente | — |
-| 18 | 180 | LFPED | pendiente | — |
-| 18 | 181 | LFPSDMH | pendiente | — |
-| 18 | 182 | LFMZAAH | pendiente | — |
+| 18 | 173 | LFCPQ | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 18 | 174 | LFCSQ | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 18 | 175 | LFFMAA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 18 | 176 | LFFPMN_130420 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 18 | 177 | LFAEBSP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 18 | 178 | LFPIORPI | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 18 | 179 | LFPPIPP_200521 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 18 | 180 | LFPED | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 18 | 181 | LFPSDMH | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 18 | 182 | LFMZAAH | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 19 | 183 | LGAMVLV | pendiente | — |
 | 19 | 184 | LGAg | pendiente | — |
 | 19 | 185 | LGA | pendiente | — |
