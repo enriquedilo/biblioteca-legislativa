@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T03:02:48.217755+00:00
+Actualizado: 2026-09-18T03:03:17.943053+00:00
 
-Procesados: **114/453**. Intentados: 114/453. Pendientes reportados: 0.
+Procesados: **124/453**. Intentados: 124/453. Pendientes reportados: 0.
 
-Lote 11 cerrado; publicación por commit del lote.
+Lote 12 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -21,8 +21,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 8 | 10/10 | Publicado |
 | 9 | 10/10 | Publicado |
 | 10 | 10/10 | Publicado |
-| 11 | 10/10 | Cerrado localmente |
-| 12 | 0/10 | Pendiente |
+| 11 | 10/10 | Publicado |
+| 12 | 10/10 | Cerrado localmente |
 | 13 | 0/10 | Pendiente |
 | 14 | 0/10 | Pendiente |
 | 15 | 0/10 | Pendiente |
@@ -171,16 +171,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 11 | 110 | 75_100619 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 11 | 111 | LFMPED | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 11 | 112 | LIVA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 12 | 113 | LIEPS | pendiente | — |
-| 12 | 114 | LISR | pendiente | — |
-| 12 | 115 | LISSFAM | pendiente | — |
-| 12 | 116 | LISSSTE | pendiente | — |
-| 12 | 117 | LIFNVT | pendiente | — |
-| 12 | 118 | LIFNCT | pendiente | — |
-| 12 | 119 | LIMJ | pendiente | — |
-| 12 | 120 | LINPI | pendiente | — |
-| 12 | 121 | LMV | pendiente | — |
-| 12 | 122 | 269_200521 | pendiente | — |
+| 12 | 113 | LIEPS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 12 | 114 | LISR | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 12 | 115 | LISSFAM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 12 | 116 | LISSSTE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 12 | 117 | LIFNVT | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 12 | 118 | LIFNCT | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 12 | 119 | LIMJ | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 12 | 120 | LINPI | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 12 | 121 | LMV | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 12 | 122 | 269_200521 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 13 | 123 | LSE | pendiente | — |
 | 13 | 124 | LSH | pendiente | — |
 | 13 | 125 | LSS | pendiente | — |
