@@ -321,16 +321,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 311 | LRPCAP | LEY sobre Refugiados, Protección Complementaria y Asilo Político | [Markdown](ordenamientos/311/versiones/94305e9ee6efdc0ad97b1fa384900b03f2e09377bbe66222b44cf96846cb287a/texto.md) · procesado_con_incidencias |
 | 312 | 218 | ORDENANZA General de la Armada | [Markdown](ordenamientos/312/versiones/330e2bbbdd4e8013e823ea34c4b8ee4524d7c50f53e4f247494b15d21268ea14/texto.md) · procesado_con_incidencias |
 | 313 | PEF_2026 | PRESUPUESTO de Egresos de la Federación para el Ejercicio Fiscal 2026 | [Markdown](ordenamientos/313/versiones/6b1a307f5f63f245c548d499f5364c6fc48a3da4540277fb76ef37a5ec74a075/texto.md) · procesado_con_incidencias |
-| 314 | Reg_Diputados | REGLAMENTO de la Cámara de Diputados | pendiente |
-| 315 | Reg_Senado | REGLAMENTO del Senado de la República | pendiente |
-| 316 | 219 | REGLAMENTO para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos | pendiente |
-| 317 | Reg_LAdua | DOF 20/04/2015 | pendiente |
-| 318 | Reg_LAgra_MCDETS | REGLAMENTO de la Ley Agraria en Materia de Certificación de Derechos Ejidales y Titulación de Solares | pendiente |
-| 319 | Reg_LAgra_MOPR | REGLAMENTO de la Ley Agraria en Materia de Ordenamiento de la Propiedad Rural | pendiente |
-| 320 | Reg_LAgra_FODMC | REGLAMENTO de la Ley Agraria para Fomentar la Organización y Desarrollo de la Mujer Campesina | pendiente |
-| 321 | Reg_LAASSP | DOF 18/12/2025 | pendiente |
-| 322 | Reg_LAero | DOF 17/02/2000 | pendiente |
-| 323 | Reg_LAN_250814 | DOF 12/01/1994 | pendiente |
+| 314 | Reg_Diputados | REGLAMENTO de la Cámara de Diputados | [Markdown](ordenamientos/314/versiones/1a216c35654e9890081655bbdc86bf803f552af2d9fb0f33d3fa8e2b21304fa9/texto.md) · procesado_con_incidencias |
+| 315 | Reg_Senado | REGLAMENTO del Senado de la República | [Markdown](ordenamientos/315/versiones/ee499dc5d1c8b5dc5446a03f788aaed0b3aeb2561ef6a835974fe3288653876b/texto.md) · procesado_con_incidencias |
+| 316 | 219 | REGLAMENTO para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos | [Markdown](ordenamientos/316/versiones/647bea19c5d23a2c1f3e9d22b897683bda354e08b874daa7d435394f85692238/texto.md) · procesado_con_incidencias |
+| 317 | Reg_LAdua | DOF 20/04/2015 | [Markdown](ordenamientos/317/versiones/7d2e1e8e8d6002126865b53b2e98cbec48bd75da76fff075021404fc5410f43f/texto.md) · procesado_con_incidencias |
+| 318 | Reg_LAgra_MCDETS | REGLAMENTO de la Ley Agraria en Materia de Certificación de Derechos Ejidales y Titulación de Solares | [Markdown](ordenamientos/318/versiones/a883212ac8e82e0ea3f73f422a8fdc3a25e0a8d7c58c1f599b1fd00e36907b7d/texto.md) · procesado_con_incidencias |
+| 319 | Reg_LAgra_MOPR | REGLAMENTO de la Ley Agraria en Materia de Ordenamiento de la Propiedad Rural | [Markdown](ordenamientos/319/versiones/76ca40bb9e9f269cbe18a522b61d8e50f848245310def371be403a94515319f4/texto.md) · procesado_con_incidencias |
+| 320 | Reg_LAgra_FODMC | REGLAMENTO de la Ley Agraria para Fomentar la Organización y Desarrollo de la Mujer Campesina | [Markdown](ordenamientos/320/versiones/f1363c44496c74da142434327021cace2f3bedd79a1af653fe4338de4ea8946e/texto.md) · procesado_con_incidencias |
+| 321 | Reg_LAASSP | DOF 18/12/2025 | [Markdown](ordenamientos/321/versiones/9c47217a7d121100024c21e3bfe04d4cdb28bbfde0c0b13a145b75d23b1bb67d/texto.md) · procesado_con_incidencias |
+| 322 | Reg_LAero | DOF 17/02/2000 | [Markdown](ordenamientos/322/versiones/78628510116d92b3c6107831668c6f27ee2d994227249ee729e861267302a28a/texto.md) · procesado_con_incidencias |
+| 323 | Reg_LAN_250814 | DOF 12/01/1994 | [Markdown](ordenamientos/323/versiones/8a9625cc74cafca3b95da7a8168a5583bb6cb626175682d4131c03b3e328739b/texto.md) · procesado_con_incidencias |
 | 324 | Reg_LAAM | DOF 09/11/2006 | pendiente |
 | 325 | Reg_LAREFAGN | DOF 19/07/2004 | pendiente |
 | 326 | Reg_LAPP_200217 | DOF 05/11/2012 | pendiente |
