@@ -221,16 +221,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 211 | LGPC | LEY General de Protección Civil | [Markdown](ordenamientos/211/versiones/d54df50f19b2ee36f4c9a1aa54835f7e23f9e3c51fb3163be5a235e384f18966/texto.md) · procesado_con_incidencias |
 | 212 | LGPDPPSO | LEY General de Protección de Datos Personales en Posesión de Sujetos Obligados | [Markdown](ordenamientos/212/versiones/c6104e8440eacf101ff22e5da850e33e66319bed89b74103175195133be4ad43/texto.md) · procesado_con_incidencias |
 | 213 | LGRA | LEY General de Responsabilidades Administrativas | [Markdown](ordenamientos/213/versiones/8ea7a7badc2e6e1f9e0bc54e0280548aec9ddb2a9dc54e7b6a16f561746cd1b6/texto.md) · procesado_con_incidencias |
-| 214 | LGS | LEY General de Salud | pendiente |
-| 215 | LGSC | LEY General de Sociedades Cooperativas | pendiente |
-| 216 | LGSM | LEY General de Sociedades Mercantiles | pendiente |
-| 217 | LGTOC | LEY General de Títulos y Operaciones de Crédito | pendiente |
-| 218 | LGTAIP | LEY General de Transparencia y Acceso a la Información Pública | pendiente |
-| 219 | LGT | LEY General de Turismo | pendiente |
-| 220 | LGV | LEY General de Víctimas | pendiente |
-| 221 | LGVS | LEY General de Vida Silvestre | pendiente |
-| 222 | LGEEPA | LEY General del Equilibrio Ecológico y la Protección al Ambiente | pendiente |
-| 223 | LGSMIME | LEY General del Sistema de Medios de Impugnación en Materia Electoral | pendiente |
+| 214 | LGS | LEY General de Salud | [Markdown](ordenamientos/214/versiones/ed92e698a32355d4f460e92cb06bfe85a07a4d31a33cb417cb8b96dca23d82a1/texto.md) · procesado_con_incidencias |
+| 215 | LGSC | LEY General de Sociedades Cooperativas | [Markdown](ordenamientos/215/versiones/675a74d4e5a0f93a6a184bd960b69ec7ee8a3d4d1eb7c5d3024fa5f99c2bf991/texto.md) · procesado_con_incidencias |
+| 216 | LGSM | LEY General de Sociedades Mercantiles | [Markdown](ordenamientos/216/versiones/9f091be0b4bf98d929bf3dadc50d703b820ddc8137f1187a339de97974b5abfc/texto.md) · procesado_con_incidencias |
+| 217 | LGTOC | LEY General de Títulos y Operaciones de Crédito | [Markdown](ordenamientos/217/versiones/97c49a1056f0815345db12a43c10e378d88f008079be0d15f40b847468531646/texto.md) · procesado_con_incidencias |
+| 218 | LGTAIP | LEY General de Transparencia y Acceso a la Información Pública | [Markdown](ordenamientos/218/versiones/c23e1c4155229204646743e37811bb4c4d6fb5e31619b9612c8c8b488786a979/texto.md) · procesado_con_incidencias |
+| 219 | LGT | LEY General de Turismo | [Markdown](ordenamientos/219/versiones/b4ef988bf540eb1a59427e228a143bacd22bae672fbae19a66150a3356cbc414/texto.md) · procesado_con_incidencias |
+| 220 | LGV | LEY General de Víctimas | [Markdown](ordenamientos/220/versiones/0e5e15c1553e802770b2e99e224be61b0955828f09f9fa98dfe6931b061c0581/texto.md) · procesado_con_incidencias |
+| 221 | LGVS | LEY General de Vida Silvestre | [Markdown](ordenamientos/221/versiones/ec489a19131494136f8ac6537a3d2a0ead56c9837ea29f36fb390d9365249a34/texto.md) · procesado_con_incidencias |
+| 222 | LGEEPA | LEY General del Equilibrio Ecológico y la Protección al Ambiente | [Markdown](ordenamientos/222/versiones/2df7eef84a04688f0a0694497b5857016170e96c173d7ac7a4a23a21591b3a0e/texto.md) · procesado_con_incidencias |
+| 223 | LGSMIME | LEY General del Sistema de Medios de Impugnación en Materia Electoral | [Markdown](ordenamientos/223/versiones/e06ae0539e1a796d34a568f4b0485dd776b49b14bf02eddcaad73b9e48773140/texto.md) · procesado_con_incidencias |
 | 224 | LGSNA_200521 | LEY General del Sistema Nacional Anticorrupción | pendiente |
 | 225 | LGSNSP | LEY General del Sistema Nacional de Seguridad Pública | pendiente |
 | 226 | LGSCMM_300919 | LEY General del Sistema para la Carrera de las Maestras y los Maestros | pendiente |

@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T14:53:01.225975+00:00
+Actualizado: 2026-09-18T14:53:30.675857+00:00
 
-Procesados: **214/453**. Intentados: 214/453. Pendientes reportados: 0.
+Procesados: **224/453**. Intentados: 224/453. Pendientes reportados: 0.
 
-Lote 21 cerrado; publicación por commit del lote.
+Lote 22 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -31,8 +31,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 18 | 10/10 | Publicado |
 | 19 | 10/10 | Publicado |
 | 20 | 10/10 | Publicado |
-| 21 | 10/10 | Cerrado localmente |
-| 22 | 0/10 | Pendiente |
+| 21 | 10/10 | Publicado |
+| 22 | 10/10 | Cerrado localmente |
 | 23 | 0/10 | Pendiente |
 | 24 | 0/10 | Pendiente |
 | 25 | 0/10 | Pendiente |
@@ -272,16 +272,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 21 | 211 | LGPC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 21 | 212 | LGPDPPSO | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 21 | 213 | LGRA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 22 | 214 | LGS | pendiente | — |
-| 22 | 215 | LGSC | pendiente | — |
-| 22 | 216 | LGSM | pendiente | — |
-| 22 | 217 | LGTOC | pendiente | — |
-| 22 | 218 | LGTAIP | pendiente | — |
-| 22 | 219 | LGT | pendiente | — |
-| 22 | 220 | LGV | pendiente | — |
-| 22 | 221 | LGVS | pendiente | — |
-| 22 | 222 | LGEEPA | pendiente | — |
-| 22 | 223 | LGSMIME | pendiente | — |
+| 22 | 214 | LGS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 22 | 215 | LGSC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 22 | 216 | LGSM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 22 | 217 | LGTOC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 22 | 218 | LGTAIP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 22 | 219 | LGT | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 22 | 220 | LGV | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 22 | 221 | LGVS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 22 | 222 | LGEEPA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 22 | 223 | LGSMIME | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 23 | 224 | LGSNA_200521 | pendiente | — |
 | 23 | 225 | LGSNSP | pendiente | — |
 | 23 | 226 | LGSCMM_300919 | pendiente | — |
