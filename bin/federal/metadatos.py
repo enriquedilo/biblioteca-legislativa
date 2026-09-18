@@ -5,7 +5,7 @@ from pathlib import Path
 import piloto as p
 b=p.base;F=p.FED
 FECHA=r'(?:\d{1,2}(?:o|º|°)?\.?\s+(?:de\s+)?(?:enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)\s+(?:de|del)\s+\d{4}|\d{2}[-/]\d{2}[-/]\d{4})'
-SELF=re.compile(r'\b(?:Código|Ley|Reglamento|Estatuto|Constitución)\s+abrogad[ao]\b|\b(?:este|esta|su)\s+(?:ordenamiento|Código|Ley|Reglamento|vigencia).{0,80}?(?:abrogad[ao]|termina|concluye|finaliza|cesa)|\b(?:fin\s+de\s+vigencia|vigencia\s+(?:hasta|termina|concluye|finaliza|cesa|concluirá|terminará))\b',re.I)
+SELF=re.compile(r'\b(?:Código|Ley|Reglamento|Estatuto|Constitución)\s+abrogad[ao]\b|\b(?:este|esta|su)\s+(?:ordenamiento|Código|Ley|Reglamento|vigencia).{0,80}?(?:abrogad[ao]|termina|concluye|finaliza|cesa)|\b(?:fin\s+de\s+vigencia|(?:vigencia|vigente)\s+(?:hasta|termina|concluye|finaliza|cesa|concluirá|terminará))\b',re.I)
 FIN=re.compile(r'(?:no\s+exceda|no\s+(?:podrá|pueda)\s+exceder|a\s+partir|(?:vigencia|vigente).{0,80}?(?:termina|concluye|hasta|finaliza|cesa|concluirá|terminará)|fin\s+de\s+vigencia)\s*(?:del?|el|día|:)?\s*('+FECHA+r')',re.I)
 def abrogacion_programada(raw):
  first=raw.split('\f')[0]

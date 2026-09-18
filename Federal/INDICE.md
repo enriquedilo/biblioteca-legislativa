@@ -140,16 +140,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 130 | 260 | LEY del Servicio Profesional de Carrera en la Administración Pública Federal | [Markdown](ordenamientos/130/versiones/423a5f3fb37229010d0351938bbc82966b0a956853545d7b37a79ac04ca144f8/texto.md) · procesado_con_incidencias |
 | 131 | LSNIEG | LEY del Sistema Nacional de Información Estadística y Geográfica | [Markdown](ordenamientos/131/versiones/2ceada16f48e38919aa7d89fdd616328c880591b67e66b01594a42cef9237a23/texto.md) · procesado_con_incidencias |
 | 132 | LSNIIMSP | LEY del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública | [Markdown](ordenamientos/132/versiones/bfd01525dbab75df188687f593d984935581feaf2d292983e1ba07f7dfc694dc/texto.md) · procesado_con_incidencias |
-| 133 | LSPREM | LEY del Sistema Público de Radiodifusión del Estado Mexicano | pendiente |
-| 134 | LMTR | LEY en Materia de Telecomunicaciones y Radiodifusión | pendiente |
-| 135 | LFCDO | LEY Federal contra la Delincuencia Organizada | pendiente |
-| 136 | LFAFE | LEY Federal de Armas de Fuego y Explosivos | pendiente |
-| 137 | LFAR | LEY Federal de Austeridad Republicana | pendiente |
-| 138 | LFCA | LEY Federal de Cine y el Audiovisual | pendiente |
-| 139 | LFCE | LEY Federal de Competencia Económica | pendiente |
-| 140 | LFCPo_190521 | LEY Federal de Consulta Popular | pendiente |
-| 141 | 105 | LEY Federal de Correduría Pública | pendiente |
-| 142 | LFDEAPD | LEY Federal de Declaración Especial de Ausencia para Personas Desaparecidas | pendiente |
+| 133 | LSPREM | LEY del Sistema Público de Radiodifusión del Estado Mexicano | [Markdown](ordenamientos/133/versiones/4b6481aa2c3b43d218483a000c2aea49bd182fd11369aa045314b64ab974529b/texto.md) · procesado_con_incidencias |
+| 134 | LMTR | LEY en Materia de Telecomunicaciones y Radiodifusión | [Markdown](ordenamientos/134/versiones/b6b73596abddd200ccaa7dbb40b7f489982e3a2b594ff11e574540a64eb18411/texto.md) · procesado_con_incidencias |
+| 135 | LFCDO | LEY Federal contra la Delincuencia Organizada | [Markdown](ordenamientos/135/versiones/dc98c1e56c54ff94f4dd19eab0a350e6c8b55e466fb3c489b365b1e2753f9269/texto.md) · procesado_con_incidencias |
+| 136 | LFAFE | LEY Federal de Armas de Fuego y Explosivos | [Markdown](ordenamientos/136/versiones/f175937f25dab1a6f1e739afd93fb470f6e105609446763fb592b4ba63f2d0a1/texto.md) · procesado_con_incidencias |
+| 137 | LFAR | LEY Federal de Austeridad Republicana | [Markdown](ordenamientos/137/versiones/1f18aeb13ea2ebfb92b5c0a42dc9195058cfcd2d1e2dda35243e1845951f8287/texto.md) · procesado_con_incidencias |
+| 138 | LFCA | LEY Federal de Cine y el Audiovisual | [Markdown](ordenamientos/138/versiones/1c0db6138fcbc37b6598efe6df086a4ec135a12ddfe3b72fc025b9ebd5ad864a/texto.md) · procesado_con_incidencias |
+| 139 | LFCE | LEY Federal de Competencia Económica | [Markdown](ordenamientos/139/versiones/c97c36f305373c859d7786364b9f24b990b74769d4810738cbd36f9f010f1370/texto.md) · procesado_con_incidencias |
+| 140 | LFCPo_190521 | LEY Federal de Consulta Popular | [Markdown](ordenamientos/140/versiones/d9e526e655b2a329b42ad30b1fe03becf7a143269972cebe942ab2be4b5b1906/texto.md) · procesado_con_incidencias |
+| 141 | 105 | LEY Federal de Correduría Pública | [Markdown](ordenamientos/141/versiones/d40a0760eea8014b95310fce34e6d5aa829b1d435f06302cc2e1d8943eae6cad/texto.md) · procesado_con_incidencias |
+| 142 | LFDEAPD | LEY Federal de Declaración Especial de Ausencia para Personas Desaparecidas | [Markdown](ordenamientos/142/versiones/86794e0a657c0ba0e15ddac185e9628492a85c37532a5f48acd2be97faf7647b/texto.md) · procesado_con_incidencias |
 | 143 | LFDefP | LEY Federal de Defensoría Pública | pendiente |
 | 144 | LFD | LEY Federal de Derechos | pendiente |
 | 145 | 136_300118 | LEY Federal de Deuda Pública | pendiente |
