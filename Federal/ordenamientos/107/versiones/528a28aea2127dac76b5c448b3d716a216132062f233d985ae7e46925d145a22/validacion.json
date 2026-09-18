@@ -1,0 +1,6443 @@
+{
+  "id": 107,
+  "fecha_revision": "2026-09-18T03:02:39.485178+00:00",
+  "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 139,
+  "paginas_sin_texto": [],
+  "pagina_blanca_confirmada_visualmente": false,
+  "texto_conservado": true,
+  "comparacion_word_pdf": {
+    "palabras_comparadas": 44060,
+    "palabras_pdf": 47500,
+    "frecuencias_coinciden": false,
+    "orden_coincide_separando_nota_al_pie": false,
+    "nota_al_pie_reubicada_por_lector_word": null,
+    "normalizaciones_solo_comparacion": [
+      "Misma función lexical_tokens de Sinaloa; no modifica los originales ni el Markdown."
+    ],
+    "limite": "Campos Word y encabezados permanecen en el control; las diferencias se reportan sin reparación.",
+    "solo_word": {
+      "a": 1,
+      "e": 2,
+      "r": 1,
+      "t": 1,
+      "o": 1,
+      "embed": 1,
+      "word": 1,
+      "picture": 1,
+      "page": 1,
+      "numpages": 1
+    },
+    "solo_pdf": {
+      "ley": 138,
+      "de": 828,
+      "vías": 138,
+      "generales": 138,
+      "comunicación": 138,
+      "cámara": 138,
+      "diputados": 138,
+      "del": 138,
+      "h": 138,
+      "congreso": 138,
+      "la": 138,
+      "unión": 138,
+      "última": 138,
+      "reforma": 138,
+      "dof": 138,
+      "secretaría": 276,
+      "general": 138,
+      "servicios": 138,
+      "parlamentarios": 138,
+      "decreto": 1
+    }
+  },
+  "articulos_word": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98",
+    "99",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118",
+    "119",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124",
+    "125",
+    "126",
+    "127",
+    "128",
+    "129",
+    "130",
+    "131",
+    "132",
+    "133",
+    "134",
+    "135",
+    "136",
+    "137",
+    "138",
+    "139",
+    "140",
+    "141",
+    "142",
+    "143",
+    "144",
+    "145",
+    "146",
+    "147",
+    "148",
+    "149",
+    "150",
+    "151",
+    "152",
+    "153",
+    "154",
+    "155",
+    "156",
+    "157",
+    "158",
+    "159",
+    "160",
+    "161",
+    "162",
+    "163",
+    "164",
+    "165",
+    "166",
+    "167",
+    "168",
+    "169",
+    "170",
+    "171",
+    "172",
+    "173",
+    "174",
+    "175",
+    "176",
+    "177",
+    "178",
+    "179",
+    "180",
+    "181",
+    "182",
+    "183",
+    "184",
+    "185",
+    "186",
+    "187",
+    "188",
+    "189",
+    "190",
+    "191",
+    "192",
+    "193",
+    "194",
+    "195",
+    "196",
+    "197",
+    "198",
+    "199",
+    "200",
+    "201",
+    "202",
+    "203",
+    "204",
+    "205",
+    "206",
+    "207",
+    "208",
+    "209",
+    "210",
+    "211",
+    "212",
+    "213",
+    "214",
+    "215",
+    "216",
+    "217",
+    "218",
+    "219",
+    "220",
+    "221",
+    "222",
+    "223",
+    "224",
+    "225",
+    "226",
+    "227",
+    "228",
+    "229",
+    "230",
+    "231",
+    "232",
+    "233",
+    "234",
+    "235",
+    "236",
+    "237",
+    "238",
+    "239",
+    "240",
+    "241",
+    "242",
+    "243",
+    "244",
+    "245",
+    "246",
+    "247",
+    "248",
+    "249",
+    "250",
+    "251",
+    "252",
+    "253",
+    "254",
+    "255",
+    "256",
+    "257",
+    "258",
+    "259",
+    "260",
+    "261",
+    "262",
+    "263",
+    "264",
+    "265",
+    "266",
+    "267",
+    "268",
+    "269",
+    "270",
+    "271",
+    "272",
+    "273",
+    "274",
+    "275",
+    "276",
+    "277",
+    "278",
+    "279",
+    "280",
+    "281",
+    "282",
+    "283",
+    "284",
+    "285",
+    "286",
+    "287",
+    "288",
+    "289",
+    "290",
+    "291",
+    "292",
+    "293",
+    "294",
+    "295",
+    "296",
+    "297",
+    "298",
+    "299",
+    "300",
+    "301",
+    "302",
+    "303",
+    "304",
+    "305",
+    "306",
+    "307",
+    "308",
+    "309",
+    "310",
+    "311",
+    "312",
+    "313",
+    "314",
+    "315",
+    "316",
+    "317",
+    "318",
+    "319",
+    "320",
+    "321",
+    "322",
+    "323",
+    "324",
+    "325",
+    "326",
+    "327",
+    "328",
+    "329",
+    "330",
+    "331",
+    "332",
+    "333",
+    "334",
+    "335",
+    "336",
+    "337",
+    "338",
+    "339",
+    "340",
+    "341",
+    "342",
+    "343",
+    "344",
+    "345",
+    "346",
+    "347",
+    "348",
+    "349",
+    "350",
+    "351",
+    "352",
+    "353",
+    "354",
+    "355",
+    "356",
+    "357",
+    "358",
+    "359",
+    "360",
+    "361",
+    "362",
+    "363",
+    "364",
+    "365",
+    "366",
+    "367",
+    "368",
+    "369",
+    "370",
+    "371",
+    "372",
+    "373",
+    "374",
+    "375",
+    "376",
+    "377",
+    "378",
+    "379",
+    "380",
+    "381",
+    "382",
+    "383",
+    "384",
+    "385",
+    "386",
+    "387",
+    "388",
+    "389",
+    "390",
+    "391",
+    "392",
+    "393",
+    "394",
+    "395",
+    "396",
+    "397",
+    "398",
+    "399",
+    "400",
+    "401",
+    "402",
+    "403",
+    "404",
+    "405",
+    "406",
+    "407",
+    "408",
+    "409",
+    "410",
+    "411",
+    "412",
+    "413",
+    "414",
+    "415",
+    "416",
+    "417",
+    "418",
+    "419",
+    "420",
+    "421",
+    "422",
+    "423",
+    "424",
+    "425",
+    "426",
+    "427",
+    "428",
+    "429",
+    "430",
+    "431",
+    "432",
+    "433",
+    "434",
+    "435",
+    "436",
+    "437",
+    "438",
+    "439",
+    "440",
+    "441",
+    "442",
+    "443",
+    "444",
+    "445",
+    "446",
+    "447",
+    "448",
+    "449",
+    "450",
+    "451",
+    "452",
+    "453",
+    "454",
+    "455",
+    "456",
+    "457",
+    "458",
+    "459",
+    "460",
+    "461",
+    "462",
+    "463",
+    "464",
+    "465",
+    "466",
+    "467",
+    "468",
+    "469",
+    "470",
+    "471",
+    "472",
+    "473",
+    "474",
+    "475",
+    "476",
+    "477",
+    "478",
+    "479",
+    "480",
+    "481",
+    "482",
+    "483",
+    "484",
+    "485",
+    "486",
+    "487",
+    "488",
+    "489",
+    "490",
+    "491",
+    "492",
+    "493",
+    "494",
+    "495",
+    "496",
+    "497",
+    "498",
+    "499",
+    "500",
+    "501",
+    "502",
+    "503",
+    "504",
+    "505",
+    "506",
+    "507",
+    "508",
+    "509",
+    "510",
+    "511",
+    "512",
+    "513",
+    "514",
+    "515",
+    "516",
+    "517",
+    "518",
+    "519",
+    "520",
+    "521",
+    "522",
+    "523",
+    "524",
+    "525",
+    "526",
+    "527",
+    "528",
+    "529",
+    "530",
+    "531",
+    "532",
+    "533",
+    "534",
+    "535",
+    "536",
+    "537",
+    "538",
+    "539",
+    "540",
+    "541",
+    "542",
+    "543",
+    "544",
+    "545",
+    "546",
+    "547",
+    "548",
+    "549",
+    "550",
+    "551",
+    "552",
+    "553",
+    "554",
+    "555",
+    "556",
+    "557",
+    "558",
+    "559",
+    "560",
+    "561",
+    "562",
+    "563",
+    "564",
+    "565",
+    "566",
+    "567",
+    "568",
+    "569",
+    "570",
+    "571",
+    "572",
+    "573",
+    "574",
+    "575",
+    "576",
+    "577",
+    "578",
+    "579",
+    "580",
+    "581",
+    "582",
+    "583",
+    "584",
+    "585",
+    "586",
+    "587",
+    "588",
+    "589",
+    "590",
+    "590bis",
+    "591",
+    "592",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "1",
+    "2",
+    "1",
+    "2",
+    "3",
+    "4",
+    "1",
+    "2",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "1",
+    "2",
+    "3",
+    "4",
+    "1",
+    "2",
+    "3"
+  ],
+  "articulos_pdf": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98",
+    "99",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118",
+    "119",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124",
+    "125",
+    "126",
+    "127",
+    "128",
+    "129",
+    "130",
+    "131",
+    "132",
+    "133",
+    "134",
+    "135",
+    "136",
+    "137",
+    "138",
+    "139",
+    "140",
+    "141",
+    "142",
+    "143",
+    "144",
+    "145",
+    "146",
+    "147",
+    "148",
+    "149",
+    "150",
+    "151",
+    "152",
+    "153",
+    "154",
+    "155",
+    "156",
+    "157",
+    "158",
+    "159",
+    "160",
+    "161",
+    "162",
+    "163",
+    "164",
+    "165",
+    "166",
+    "167",
+    "168",
+    "169",
+    "170",
+    "171",
+    "172",
+    "173",
+    "174",
+    "175",
+    "176",
+    "177",
+    "178",
+    "179",
+    "180",
+    "181",
+    "182",
+    "183",
+    "184",
+    "185",
+    "186",
+    "187",
+    "188",
+    "189",
+    "190",
+    "191",
+    "192",
+    "193",
+    "194",
+    "195",
+    "196",
+    "197",
+    "198",
+    "199",
+    "200",
+    "201",
+    "202",
+    "203",
+    "204",
+    "205",
+    "206",
+    "207",
+    "208",
+    "209",
+    "210",
+    "211",
+    "212",
+    "213",
+    "214",
+    "215",
+    "216",
+    "217",
+    "218",
+    "219",
+    "220",
+    "221",
+    "222",
+    "223",
+    "224",
+    "225",
+    "226",
+    "227",
+    "228",
+    "229",
+    "230",
+    "231",
+    "232",
+    "233",
+    "234",
+    "235",
+    "236",
+    "237",
+    "238",
+    "239",
+    "240",
+    "241",
+    "242",
+    "243",
+    "244",
+    "245",
+    "246",
+    "247",
+    "248",
+    "249",
+    "250",
+    "251",
+    "252",
+    "253",
+    "254",
+    "255",
+    "256",
+    "257",
+    "258",
+    "259",
+    "260",
+    "261",
+    "262",
+    "263",
+    "264",
+    "265",
+    "266",
+    "267",
+    "268",
+    "269",
+    "270",
+    "271",
+    "272",
+    "273",
+    "274",
+    "275",
+    "276",
+    "277",
+    "278",
+    "279",
+    "280",
+    "281",
+    "282",
+    "283",
+    "284",
+    "285",
+    "286",
+    "287",
+    "288",
+    "289",
+    "290",
+    "291",
+    "292",
+    "293",
+    "294",
+    "295",
+    "296",
+    "297",
+    "298",
+    "299",
+    "300",
+    "301",
+    "302",
+    "303",
+    "304",
+    "305",
+    "306",
+    "307",
+    "308",
+    "309",
+    "310",
+    "311",
+    "312",
+    "313",
+    "314",
+    "315",
+    "316",
+    "317",
+    "318",
+    "319",
+    "320",
+    "321",
+    "322",
+    "323",
+    "324",
+    "325",
+    "326",
+    "327",
+    "328",
+    "329",
+    "330",
+    "331",
+    "332",
+    "333",
+    "334",
+    "335",
+    "336",
+    "337",
+    "338",
+    "339",
+    "340",
+    "341",
+    "342",
+    "343",
+    "344",
+    "345",
+    "346",
+    "347",
+    "348",
+    "349",
+    "350",
+    "351",
+    "352",
+    "353",
+    "354",
+    "355",
+    "356",
+    "357",
+    "358",
+    "359",
+    "360",
+    "361",
+    "362",
+    "363",
+    "364",
+    "365",
+    "366",
+    "367",
+    "368",
+    "369",
+    "370",
+    "371",
+    "372",
+    "373",
+    "374",
+    "375",
+    "376",
+    "377",
+    "378",
+    "379",
+    "380",
+    "381",
+    "382",
+    "383",
+    "384",
+    "385",
+    "386",
+    "387",
+    "388",
+    "389",
+    "390",
+    "391",
+    "392",
+    "393",
+    "394",
+    "395",
+    "396",
+    "397",
+    "398",
+    "399",
+    "400",
+    "401",
+    "402",
+    "403",
+    "404",
+    "405",
+    "406",
+    "407",
+    "408",
+    "409",
+    "410",
+    "411",
+    "412",
+    "413",
+    "414",
+    "415",
+    "416",
+    "417",
+    "418",
+    "419",
+    "420",
+    "421",
+    "422",
+    "423",
+    "424",
+    "425",
+    "426",
+    "427",
+    "428",
+    "429",
+    "430",
+    "431",
+    "432",
+    "433",
+    "434",
+    "435",
+    "436",
+    "437",
+    "438",
+    "439",
+    "440",
+    "441",
+    "442",
+    "443",
+    "444",
+    "445",
+    "446",
+    "447",
+    "448",
+    "449",
+    "450",
+    "451",
+    "452",
+    "453",
+    "454",
+    "455",
+    "456",
+    "457",
+    "458",
+    "459",
+    "460",
+    "461",
+    "462",
+    "463",
+    "464",
+    "465",
+    "466",
+    "467",
+    "468",
+    "469",
+    "470",
+    "471",
+    "472",
+    "473",
+    "474",
+    "475",
+    "476",
+    "477",
+    "478",
+    "479",
+    "480",
+    "481",
+    "482",
+    "483",
+    "484",
+    "485",
+    "486",
+    "487",
+    "488",
+    "489",
+    "490",
+    "491",
+    "492",
+    "493",
+    "494",
+    "495",
+    "496",
+    "497",
+    "498",
+    "499",
+    "500",
+    "501",
+    "502",
+    "503",
+    "504",
+    "505",
+    "506",
+    "507",
+    "508",
+    "509",
+    "510",
+    "511",
+    "512",
+    "513",
+    "514",
+    "515",
+    "516",
+    "517",
+    "518",
+    "519",
+    "520",
+    "521",
+    "522",
+    "523",
+    "524",
+    "525",
+    "526",
+    "527",
+    "528",
+    "529",
+    "530",
+    "531",
+    "532",
+    "533",
+    "534",
+    "535",
+    "536",
+    "537",
+    "538",
+    "539",
+    "540",
+    "541",
+    "542",
+    "543",
+    "544",
+    "545",
+    "546",
+    "547",
+    "548",
+    "549",
+    "550",
+    "551",
+    "552",
+    "553",
+    "554",
+    "555",
+    "556",
+    "557",
+    "558",
+    "559",
+    "560",
+    "561",
+    "562",
+    "563",
+    "564",
+    "565",
+    "566",
+    "567",
+    "568",
+    "569",
+    "570",
+    "571",
+    "572",
+    "573",
+    "574",
+    "575",
+    "576",
+    "577",
+    "578",
+    "579",
+    "580",
+    "581",
+    "582",
+    "583",
+    "584",
+    "585",
+    "586",
+    "587",
+    "588",
+    "589",
+    "590",
+    "590bis",
+    "591",
+    "592",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "1",
+    "2",
+    "1",
+    "2",
+    "3",
+    "4",
+    "1",
+    "2",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "1",
+    "2",
+    "3",
+    "4",
+    "1",
+    "2",
+    "27",
+    "3"
+  ],
+  "identificadores_articulos_coinciden": true,
+  "encabezados_transitorios": [
+    {
+      "pagina": 64,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 68,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 76,
+      "encabezado": "ARTICULOS TRANSITORIOS"
+    },
+    {
+      "pagina": 79,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 82,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 83,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 84,
+      "encabezado": "TRANSITORIOS:"
+    },
+    {
+      "pagina": 85,
+      "encabezado": "TRANSITORIO:"
+    },
+    {
+      "pagina": 86,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 87,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 88,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 89,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 90,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 91,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 93,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 94,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 95,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 96,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 97,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 98,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 99,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 100,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 101,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 103,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 104,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 105,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 107,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 108,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 110,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 112,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 113,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 115,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 117,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 118,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 131,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 132,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 133,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 134,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 135,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 136,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 138,
+      "encabezado": "Transitorios"
+    }
+  ],
+  "encabezados_ordinales_en_seccion_transitoria": [
+    "ARTICULO UNICO.- Se reforman los artículos 123 y 408 de la Ley de Vías Generales de",
+    "PRIMERO.- Entretanto se expide el Reglamento de la Comisión Consultativa de Tarifas, continuarán",
+    "SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en el \"Diario Oficial\" de la",
+    "ARTICULO UNICO.- Se reforma el artículo 556 de la Ley de Vías Generales de Comunicación, el que",
+    "ARTICULO PRIMERO.- Se reforma el artículo 1º, fracción VII, inciso b), de la Ley de Vías Generales",
+    "ARTICULO SEGUNDO.- Se adiciona el artículo 9º de la misma Ley de Vías Generales de",
+    "ARTICULO TERCERO.- Se reforma la fracción III del artículo 166 de la Ley de Vías Generales de",
+    "ARTICULO UNICO.- Se modifica el artículo 24 de la Ley de Vías Generales de Comunicación, de 31",
+    "ARTICULO UNICO.- Se modifica el artículo 20 de la Ley de Vías Generales de Comunicación, de 31",
+    "ARTICULO UNICO.- Se reforma el inciso a), fracción IX del artículo 390 de la Ley de Vías Generales",
+    "ARTICULO UNICO.- Se modifica el artículo 124 de la Ley de Vías Generales de Comunicación de 31",
+    "ARTICULO UNICO.- Se reforma el Capítulo II del Titulo II Libro Segundo de la Ley de Vías Generales",
+    "ARTICULO UNICO.- Se reforma el Artículo 363 de la Ley de Vías Generales de Comunicación para",
+    "ARTICULO UNICO.- Se reforma el artículo 124 de la Ley de Vías Generales de Comunicación en",
+    "ARTICULO UNICO.- Se modifica el Libro Sexto de la Ley de Vías Generales de Comunicación, de 31",
+    "UNICO.- El presente decreto entrará en vigor 15 días después de su publicación en el \"Diario Oficial\"",
+    "ARTICULO UNICO.- Se reforma el artículo 126 de la Ley de Vías Generales de Comunicación, para",
+    "ARTICULO UNICO.- El presente Decreto entrar en vigor quince días después de su publicación en el",
+    "ARTICULO UNICO.- El presente Decreto entrará en vigor noventa días después de su publicación en",
+    "ARTICULO PRIMERO.- Se adiciona con una fracción XIV, el artículo 29 de la Ley de Vías Generales",
+    "ARTICULO SEGUNDO.- Se reforma el artículo 127 de la Ley de Vías Generales de Comunicación,",
+    "ARTICULO PRIMERO.- Este Decreto entrará en vigor treinta días después de su publicación en el",
+    "ARTICULO SEGUNDO.- Se derogan las disposiciones que se opongan a las del presente Decreto.",
+    "ARTICULO UNICO.- Se reforma y adiciona el artículo 537 de la Ley de Vías Generales de",
+    "UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el \"Diario Oficial\" de la",
+    "ARTICULO PRIMERO.- Se reforma el artículo 533 de la Ley de Vías Generales de Comunicación,",
+    "ARTICULO SEGUNDO.- Se reforma el artículo 536 de la Ley de Vías Generales de Comunicación,",
+    "ARTICULO UNICO.- Este Decreto entrará en vigor quince días después de su publicación, en el",
+    "ARTICULO DECIMO SEPTIMO.- Se reforma los artículos 390 fracción I, y párrafo último 515 fracción",
+    "ARTICULO PRIMERO.- La presente Ley entrará en vigor en toda la República el día primero de enero",
+    "ARTICULO DECIMO QUINTO.- Se REFORMA el artículo 389 de la Ley de Vías Generales de",
+    "ARTICULO PRIMERO.- La presente Ley entrará en vigor el día 1o. de enero de 1982.",
+    "ARTICULO UNICO.- Se reforma el artículo 288 de la Ley de vías Generales de Comunicación, para",
+    "ARTICULO PRIMERO.- A las personas que a la fecha de entrada en vigor de este Decreto hayan",
+    "ARTICULO SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario",
+    "ARTICULO PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario",
+    "ARTICULO SEGUNDO.- Mientras se expiden los reglamentos relativos a los artículos 11 y 127 que se",
+    "ARTICULO UNICO.- Se reforman los artículos 3o. fracción V y 15 de la Ley de Vías Generales de",
+    "PRIMERO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la",
+    "SEGUNDO.- Para la fijación del monto de las sanciones pecuniarias que resulten aplicables según el",
+    "ARTICULO UNICO.- Se reforma el primer párrafo del Artículo 11, para quedar como sigue:",
+    "UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la",
+    "ARTICULO UNICO.- Las presentes reformas entrarán en vigor a los noventa días de su publicación",
+    "PRIMERO.- Esta Ley entrará en vigor 90 días después de su publicación en el Diario Oficial de la",
+    "SEGUNDO.- Se derogan el Libro Sexto Comunicaciones Postales de la Ley de Vías Generales de",
+    "ARTICULO UNICO.- Se reforman los artículos 343, 344, 349, 352 y 538 para quedar como sigue:",
+    "UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la",
+    "ARTICULO UNICO.- Se reforman los artículos 11 párrafos segundo y tercero, 127 párrafo quinto y",
+    "UNICO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la",
+    "ARTICULO UNICO.- Se reforman los artículos 15, 93 fracción II, 117,127, 146 y 533 primer párrafo y",
+    "UNICO.- Este Decreto entrará en vigor al día siguiente, de su publicación en el Diario Oficial de la",
+    "PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "SEGUNDO. Se abroga la Ley que crea a la Comisión Nacional Coordinadora de Puertos, publicada en",
+    "TERCERO. Se derogan:",
+    "CUARTO. Las concesiones otorgadas con anterioridad a la fecha de entrada en vigor de la presente",
+    "QUINTO. Los titulares de permisos o autorizaciones vigentes a la fecha de entrada en vigor de la",
+    "SEXTO. Las personas físicas o morales que al entrar en vigor esta ley tengan solicitudes en trámite y",
+    "SEPTIMO. A fin de reorganizar el sistema portuario nacional en los términos establecidos en esta ley,",
+    "OCTAVO. En tanto se expiden los reglamentos a que se refiere el presente ordenamiento, se",
+    "ARTICULO PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el",
+    "ARTICULO SEGUNDO.- Se abroga la Ley sobre Construcción de Caminos en Cooperación con los",
+    "ARTICULO TERCERO.- Se derogan los artículos 1o., fracciones VI y VII; 8o., párrafos segundo a",
+    "ARTICULO CUARTO.- Las infracciones cometidas con anterioridad a la entrada en vigor de la",
+    "ARTICULO QUINTO.- Las disposiciones reglamentarias y administrativas en vigor se continuarán",
+    "ARTICULO SEXTO.- Las concesiones y permisos otorgados con anterioridad a la entrada en vigor de",
+    "ARTICULO SEPTIMO.- Las garantías a que se refieren los artículos 62 y primer párrafo del 68,",
+    "PRIMERO.- Esta ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la",
+    "SEGUNDO.- Se abrogan:",
+    "TERCERO.- Se derogan:",
+    "CUARTO.- En tanto no sean expedidos los reglamentos de la presente ley, se continuarán aplicando",
+    "QUINTO.- Las concesiones, permisos y autorizaciones otorgadas con anterioridad a la fecha de",
+    "SEXTO.- Las solicitudes de concesiones, permisos o autorizaciones, que se encuentren en proceso",
+    "Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la",
+    "Segundo. La Secretaría dará trámite a las solicitudes a que se refieren los artículos 9, fracción I y 16,",
+    "Tercero. Se derogan:",
+    "Cuarto. Ferrocarriles Nacionales de México, organismo público descentralizado, continuará",
+    "Quinto. Las concesiones y permisos que se otorguen con motivo de la presente Ley, no afectarán los",
+    "Sexto. Los titulares de los contratos celebrados con Ferrocarriles Nacionales de México para la",
+    "PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "SEGUNDO.- Se derogan los artículos 1o., fracción VIII; 9o., fracciones II y VI; 306 al 326; 329 al 370;",
+    "TERCERO.- Las infracciones cometidas con anterioridad a la entrada en vigor de la presente Ley, se",
+    "CUARTO.- Las concesiones y permisos otorgados con anterioridad a la entrada en vigor de la",
+    "PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "SEGUNDO. Se derogan:",
+    "TERCERO. Las disposiciones reglamentarias y administrativas en vigor se continuarán aplicando,",
+    "CUARTO. Telecomunicaciones de México continuará operando los servicios de comunicación vía",
+    "QUINTO. Las concesiones y permisos otorgados con anterioridad a la entrada en vigor de la presente",
+    "SEXTO. Los titulares de bandas de frecuencias que le hayan sido asignadas con anterioridad a la",
+    "SEPTIMO. Las concesiones que se otorguen para redes públicas de telecomunicaciones sólo podrán",
+    "OCTAVO. Los concesionarios de redes públicas de telecomunicaciones en operación, deberán",
+    "NOVENO. Los concesionarios de redes públicas de telecomunicaciones en operación podrán iniciar",
+    "DECIMO. Los concesionarios de redes públicas de telecomunicaciones que tengan celebrados",
+    "DECIMO PRIMERO. A más tardar el 10 de agosto de 1996, el Ejecutivo Federal constituirá un órgano",
+    "PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "SEGUNDO. Se derogan los artículos 327; 328; 371 fracción I, incisos b) y c) y 567 de la Ley de Vías",
+    "TERCERO. El organismo público descentralizado Aeropuertos y Servicios Auxiliares podrá continuar",
+    "CUARTO. Las concesiones, permisos y autorizaciones que se otorguen con motivo de la presente",
+    "QUINTO. Las concesiones, permisos y autorizaciones otorgadas con anterioridad a la entrada en vigor",
+    "SEXTO. Las infracciones cometidas con anterioridad a la entrada en vigor de la presente Ley, se",
+    "SEPTIMO. A más tardar en 180 días, contados a partir de la entrada en vigor de este ordenamiento, el",
+    "ARTÍCULO TERCERO.- Se reforma el primer párrafo del artículo 571 de la Ley de Vías Generales de",
+    "PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la",
+    "SEGUNDO.- Los artículos 167, fracción IX, y 196 bis del Código Penal para el Distrito Federal en",
+    "ARTÍCULO CUARTO.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 3 DE LA LEY DE VÍAS",
+    "PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial",
+    "SEGUNDO.- La organización de la Policía Federal Preventiva durará un máximo de sesenta días",
+    "TERCERO.- Se faculta al Ejecutivo Federal para dictar los acuerdos que estime necesarios, con el fin",
+    "CUARTO.- Los derechos de los miembros de las policías administrativas de Migración, Fiscal Federal",
+    "QUINTO.- Las menciones a la Policía de Migración y a la Policía Federal de Caminos que aparezcan",
+    "SEXTO.- El Ejecutivo Federal publicará en el Diario Oficial de la Federación el Reglamento Interior",
+    "SÉPTIMO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.",
+    "Artículo Segundo. Se adiciona el Artículo 590 Bis, a la Ley de Vías Generales de Comunicación,",
+    "PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial",
+    "SEGUNDO. La organización de la Secretaría de Seguridad Pública, para ejercer las atribuciones que",
+    "TERCERO. El Ejecutivo Federal, dentro de los 180 días siguientes, a partir de la entrada en vigor del",
+    "CUARTO. Los Concesionarios y Permisionarios de los servicios de autotransporte de pasajeros, de",
+    "QUINTO. Las disposiciones reglamentarias en vigor se continuarán aplicando, mientras se expiden los",
+    "SEXTO. La Secretaría de Hacienda y Crédito Público en coordinación con las dependencias",
+    "SÉPTIMO. Los procedimientos y recursos administrativos iniciados antes de la entrada en vigor de las",
+    "OCTAVO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.",
+    "Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las",
+    "PRIMERO. El presente Decreto entrará en vigor a los treinta días naturales siguientes a su publicación",
+    "SEGUNDO. Se abrogan la Ley Federal de Telecomunicaciones y la Ley Federal de Radio y",
+    "TERCERO. Las disposiciones reglamentarias y administrativas y las normas oficiales mexicanas en",
+    "CUARTO. El Instituto Federal de Telecomunicaciones deberá adecuar a la Ley Federal de",
+    "QUINTO. El Ejecutivo Federal deberá emitir, dentro de los ciento ochenta días naturales siguientes a",
+    "SEXTO. La atención, trámite y resolución de los asuntos y procedimientos que hayan iniciado previo a",
+    "SÉPTIMO. Sin perjuicio de lo establecido en la Ley Federal de Telecomunicaciones y Radiodifusión",
+    "OCTAVO. Salvo lo dispuesto en los artículos Décimo y Décimo Primero Transitorios del presente",
+    "NOVENO. En tanto exista un agente económico preponderante en los sectores de",
+    "DÉCIMO. Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión",
+    "DÉCIMO PRIMERO. El trámite de la solicitud a que se refiere el artículo anterior se sujetará a lo",
+    "DÉCIMO SEGUNDO. El agente económico preponderante en el sector de las telecomunicaciones",
+    "DÉCIMO TERCERO. El Ejecutivo Federal a través de la Secretaría de Comunicaciones y Transportes,",
+    "DÉCIMO CUARTO. El Instituto Federal de Telecomunicaciones deberá implementar un sistema de",
+    "DÉCIMO QUINTO. El Instituto Federal de Telecomunicaciones deberá instalar su Consejo Consultivo",
+    "DÉCIMO SEXTO. La Secretaría de Comunicaciones y Transportes deberá establecer los mecanismos",
+    "DÉCIMO SÉPTIMO. Los permisos de radiodifusión que se encuentren vigentes o en proceso de",
+    "DÉCIMO OCTAVO. El Instituto Federal de Telecomunicaciones deberá emitir dentro de los ciento",
+    "DÉCIMO NOVENO. La transición digital terrestre culminará el 31 de diciembre de 2015.",
+    "ARTÍCULO ÚNICO.- Se adiciona un párrafo séptimo, se recorren los subsecuentes y se reforma el",
+    "Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "Segundo. Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales,",
+    "Tercero. A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno",
+    "Artículo Único.- Se adiciona un tercer párrafo al Artículo Séptimo Transitorio del “Decreto por el que",
+    "Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial",
+    "Segundo.- Lo dispuesto en el tercer párrafo del Artículo Séptimo Transitorio del “Decreto por el que se",
+    "Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "Segundo. Quedan derogadas todas las disposiciones que se opongan al contenido del presente",
+    "Tercero. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente",
+    "Cuarto. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo",
+    "Quinto. La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto,",
+    "Artículo Único.- Se reforma el primer párrafo del artículo 533 de la Ley de Vías Generales de",
+    "Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "Segundo.- Quedan derogadas todas aquellas disposiciones que se opongan a lo dispuesto en el",
+    "Artículo Primero. Se reforma la fracción III del artículo 3o. de la Ley de Vías Generales de",
+    "Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "Segundo. Se adecuarán y armonizarán las normas que se opongan a la presente reforma y se da un",
+    "Artículo Cuarto.- Se reforman los artículos 1o, fracción XI; 2o, fracción II; 3o, primer párrafo; 8o; 10;",
+    "Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "Segundo.- Los asuntos en trámite a la entrada en vigor de este ordenamiento que deban pasar de la",
+    "Tercero.- La Agencia de Trenes y Transporte Público Integrado deberá ser creada por el Ejecutivo",
+    "Cuarto.- Se derogan aquellas disposiciones que se opongan al contenido del presente Decreto.",
+    "Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se",
+    "Sexto. El Ejecutivo Federal contará con un plazo de 180 días naturales para emitir las modificaciones",
+    "Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las",
+    "Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto",
+    "Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se"
+  ],
+  "articulos_numericos_en_seccion_transitoria": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "1",
+    "2",
+    "1",
+    "2",
+    "3",
+    "4",
+    "1",
+    "2",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "1",
+    "2",
+    "3",
+    "4",
+    "1",
+    "2",
+    "27",
+    "3"
+  ],
+  "transitorios_y_notas_completos_incluidos": true,
+  "paginas_cotejadas_visualmente": [],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 1099,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 2048,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 14,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 2258,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 3377,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 2961,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 2110,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 2989,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 2813,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 2792,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 3634,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 11,
+      "caracteres_no_blancos": 2905,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 12,
+      "caracteres_no_blancos": 3137,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 13,
+      "caracteres_no_blancos": 2859,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 14,
+      "caracteres_no_blancos": 2581,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 15,
+      "caracteres_no_blancos": 2957,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 16,
+      "caracteres_no_blancos": 3482,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 17,
+      "caracteres_no_blancos": 2743,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 18,
+      "caracteres_no_blancos": 2786,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 19,
+      "caracteres_no_blancos": 3173,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 20,
+      "caracteres_no_blancos": 2679,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 21,
+      "caracteres_no_blancos": 2804,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 22,
+      "caracteres_no_blancos": 2108,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 23,
+      "caracteres_no_blancos": 3154,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 24,
+      "caracteres_no_blancos": 3207,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 25,
+      "caracteres_no_blancos": 3446,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 26,
+      "caracteres_no_blancos": 3307,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 27,
+      "caracteres_no_blancos": 2993,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 28,
+      "caracteres_no_blancos": 1953,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 29,
+      "caracteres_no_blancos": 1008,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 30,
+      "caracteres_no_blancos": 1440,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 31,
+      "caracteres_no_blancos": 1163,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 32,
+      "caracteres_no_blancos": 1183,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 33,
+      "caracteres_no_blancos": 1100,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 34,
+      "caracteres_no_blancos": 1121,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 35,
+      "caracteres_no_blancos": 1129,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 36,
+      "caracteres_no_blancos": 1143,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 37,
+      "caracteres_no_blancos": 1058,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 38,
+      "caracteres_no_blancos": 1173,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 39,
+      "caracteres_no_blancos": 1230,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 40,
+      "caracteres_no_blancos": 1483,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 41,
+      "caracteres_no_blancos": 1520,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 42,
+      "caracteres_no_blancos": 1593,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 43,
+      "caracteres_no_blancos": 1619,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 44,
+      "caracteres_no_blancos": 1627,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 45,
+      "caracteres_no_blancos": 1938,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 46,
+      "caracteres_no_blancos": 3127,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 47,
+      "caracteres_no_blancos": 2043,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 48,
+      "caracteres_no_blancos": 1356,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 49,
+      "caracteres_no_blancos": 2456,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 50,
+      "caracteres_no_blancos": 1567,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 51,
+      "caracteres_no_blancos": 1556,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 52,
+      "caracteres_no_blancos": 1599,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 53,
+      "caracteres_no_blancos": 1430,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 54,
+      "caracteres_no_blancos": 1565,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 55,
+      "caracteres_no_blancos": 1537,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 56,
+      "caracteres_no_blancos": 1527,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 57,
+      "caracteres_no_blancos": 1544,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 58,
+      "caracteres_no_blancos": 2923,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 59,
+      "caracteres_no_blancos": 3115,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 60,
+      "caracteres_no_blancos": 1263,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 61,
+      "caracteres_no_blancos": 2455,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 62,
+      "caracteres_no_blancos": 2874,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 63,
+      "caracteres_no_blancos": 2545,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 64,
+      "caracteres_no_blancos": 3090,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 65,
+      "caracteres_no_blancos": 3220,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 66,
+      "caracteres_no_blancos": 1096,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 67,
+      "caracteres_no_blancos": 1130,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 68,
+      "caracteres_no_blancos": 1759,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 69,
+      "caracteres_no_blancos": 976,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 70,
+      "caracteres_no_blancos": 1253,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 71,
+      "caracteres_no_blancos": 1087,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 72,
+      "caracteres_no_blancos": 1129,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 73,
+      "caracteres_no_blancos": 1000,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 74,
+      "caracteres_no_blancos": 1144,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 75,
+      "caracteres_no_blancos": 1257,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 76,
+      "caracteres_no_blancos": 2910,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 77,
+      "caracteres_no_blancos": 1458,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 78,
+      "caracteres_no_blancos": 988,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 79,
+      "caracteres_no_blancos": 2635,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 80,
+      "caracteres_no_blancos": 1495,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 81,
+      "caracteres_no_blancos": 465,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 82,
+      "caracteres_no_blancos": 2497,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 83,
+      "caracteres_no_blancos": 1423,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 84,
+      "caracteres_no_blancos": 1541,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 85,
+      "caracteres_no_blancos": 1211,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 86,
+      "caracteres_no_blancos": 1315,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 87,
+      "caracteres_no_blancos": 1393,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 88,
+      "caracteres_no_blancos": 1195,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 89,
+      "caracteres_no_blancos": 786,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 90,
+      "caracteres_no_blancos": 1276,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 91,
+      "caracteres_no_blancos": 2273,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 92,
+      "caracteres_no_blancos": 1465,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 93,
+      "caracteres_no_blancos": 1319,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 94,
+      "caracteres_no_blancos": 1859,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 95,
+      "caracteres_no_blancos": 1026,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 96,
+      "caracteres_no_blancos": 1193,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 97,
+      "caracteres_no_blancos": 1077,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 98,
+      "caracteres_no_blancos": 1046,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 99,
+      "caracteres_no_blancos": 1098,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 100,
+      "caracteres_no_blancos": 1163,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 101,
+      "caracteres_no_blancos": 2687,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 102,
+      "caracteres_no_blancos": 1336,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 103,
+      "caracteres_no_blancos": 2397,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 104,
+      "caracteres_no_blancos": 2230,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 105,
+      "caracteres_no_blancos": 2602,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 106,
+      "caracteres_no_blancos": 290,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 107,
+      "caracteres_no_blancos": 1921,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 108,
+      "caracteres_no_blancos": 2637,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 109,
+      "caracteres_no_blancos": 2869,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 110,
+      "caracteres_no_blancos": 2684,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 111,
+      "caracteres_no_blancos": 752,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 112,
+      "caracteres_no_blancos": 1864,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 113,
+      "caracteres_no_blancos": 2866,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 114,
+      "caracteres_no_blancos": 822,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 115,
+      "caracteres_no_blancos": 2617,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 116,
+      "caracteres_no_blancos": 727,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 117,
+      "caracteres_no_blancos": 2020,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 118,
+      "caracteres_no_blancos": 3038,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 119,
+      "caracteres_no_blancos": 3085,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 120,
+      "caracteres_no_blancos": 3478,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 121,
+      "caracteres_no_blancos": 2993,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 122,
+      "caracteres_no_blancos": 3745,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 123,
+      "caracteres_no_blancos": 3808,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 124,
+      "caracteres_no_blancos": 3278,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 125,
+      "caracteres_no_blancos": 3613,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 126,
+      "caracteres_no_blancos": 3578,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 127,
+      "caracteres_no_blancos": 2957,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 128,
+      "caracteres_no_blancos": 2909,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 129,
+      "caracteres_no_blancos": 3536,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 130,
+      "caracteres_no_blancos": 2220,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 131,
+      "caracteres_no_blancos": 2460,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 132,
+      "caracteres_no_blancos": 2069,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 133,
+      "caracteres_no_blancos": 2324,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 134,
+      "caracteres_no_blancos": 1195,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 135,
+      "caracteres_no_blancos": 1367,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 136,
+      "caracteres_no_blancos": 2882,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 137,
+      "caracteres_no_blancos": 732,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 138,
+      "caracteres_no_blancos": 2752,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 139,
+      "caracteres_no_blancos": 286,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    }
+  ],
+  "alcance": "Controles de conservación en todas las páginas; comparación de cifras con Poppler y pypdf. El cotejo visual se registra por separado. No certifica vigencia jurídica.",
+  "incidencias_resueltas": [],
+  "diferencias_de_fuente": [
+    "La secuencia de encabezados numéricos difiere Word/PDF; consultar contadores y evidencia. No se corrige.",
+    "La comparación léxica Word/PDF no coincide: encabezados repetidos, campos Word y otras diferencias pendientes de cotejo. No equivale a pérdida del Markdown.",
+    "El control original con retirada de paginación difiere. Se conserva el resultado y se añade comparación simétrica de cifras sin retirar paginación.",
+    "Hay discrepancias en la secuencia de cifras entre los dos lectores PDF; requieren cotejo, no se reparan.",
+    "Word original .doc conservado por autorización expresa del usuario; no se fabrica original.docx."
+  ],
+  "formato_word_original": "doc",
+  "ocr_ejecutado": false,
+  "incidencias_descarga": [],
+  "promociones_encabezado_evitadas": [
+    {
+      "linea": 28,
+      "texto": "Artículo 27 Constitucional en Materia Minera; 78, 203, 204, 205, 206, 207, 208 y 209 de la Ley de",
+      "anterior": "Públicas; 2o. de la Ley de Impuestos y Fomento a la Minería; 24 fracción VII de la Ley Reglamentaria del",
+      "siguiente": "Inversiones y Marcas; 27 fracción V de la Leyes sobre Adquisiciones, Arrendamientos y almacenes de la",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 91
+    }
+  ],
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-18T03:02:39.485178+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "decreto_numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.edicion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.seccion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "reformas",
+        "motivo": "Notas literales conservadas con todas las fechas; fecha escalar null si hay varias. Números de diario/decreto no impresos quedan null. Captura automática pendiente de revisión."
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Cláusulas expresas capturadas para cotejo; no se infieren nombres ni fechas faltantes. Revisar evidencia impresa."
+      },
+      {
+        "campo": "abroga[].po_numero",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "campo": "abroga[].fecha",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0
+        ]
+      },
+      {
+        "campo": "abroga[].decreto",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "campo": "abrogacion_programada",
+        "motivo": "Portada/encabezado sin declaración identificada de abrogación o término de vigencia en fecha cierta; null."
+      }
+    ],
+    "evidencia": {
+      "abroga": [
+        {
+          "pagina": 65,
+          "texto": "Artículo 11.- Queda abrogada la Ley para el Servicio de Practicaje en los puertos, ríos, canales, lagos y lagunas de la República, de 7 de enero de 1925. El Ejecutivo Federal expedirá desde luego el Reglamento del Capítulo IX del Libro 3º de esta Ley."
+        },
+        {
+          "pagina": 101,
+          "texto": "SEGUNDO. Se abroga la Ley que crea a la Comisión Nacional Coordinadora de Puertos, publicada en el Diario Oficial de la Federación el 29 de diciembre de 1970."
+        },
+        {
+          "pagina": 103,
+          "texto": "ARTICULO SEGUNDO.- Se abroga la Ley sobre Construcción de Caminos en Cooperación con los Estados, publicada en el Diario Oficial de la Federación el 8 de mayo de 1934."
+        },
+        {
+          "pagina": 138,
+          "texto": "Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025."
+        }
+      ],
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "LEY DE VÍAS GENERALES DE COMUNICACIÓN Nueva Ley publicada en el Diario Oficial de la Federación el 19 de febrero de 1940"
+      },
+      "ultima_reforma": {
+        "pagina": 1,
+        "texto": "Última Reforma DOF 14-11-2025"
+      },
+      "reformas": {
+        "pagina_inicio": 1,
+        "encabezado": null,
+        "filas": [
+          {
+            "fila": 0,
+            "texto": "Fracción derogada DOF 04-01-1994",
+            "pagina": 1
+          },
+          {
+            "fila": 1,
+            "texto": "Fracción derogada DOF 04-01-1994",
+            "pagina": 1
+          },
+          {
+            "fila": 2,
+            "texto": "Fracción derogada DOF 04-01-1994",
+            "pagina": 1
+          },
+          {
+            "fila": 3,
+            "texto": "Fracción derogada DOF 04-01-1994",
+            "pagina": 1
+          },
+          {
+            "fila": 4,
+            "texto": "Fracción derogada DOF 12-05-1995",
+            "pagina": 1
+          },
+          {
+            "fila": 5,
+            "texto": "Fracción derogada DOF 22-12-1993",
+            "pagina": 1
+          },
+          {
+            "fila": 6,
+            "texto": "Fracción reformada DOF 13-03-1943. Derogada DOF 22-12-1993",
+            "pagina": 1
+          },
+          {
+            "fila": 7,
+            "texto": "Fracción derogada DOF 12-05-1995",
+            "pagina": 1
+          },
+          {
+            "fila": 8,
+            "texto": "Fracción derogada DOF 07-06-1995",
+            "pagina": 2
+          },
+          {
+            "fila": 9,
+            "texto": "Fracción derogada DOF 07-06-1995. Adicionada DOF 16-07-2025",
+            "pagina": 2
+          },
+          {
+            "fila": 10,
+            "texto": "Fracción reformada DOF 16-07-2025",
+            "pagina": 2
+          },
+          {
+            "fila": 11,
+            "texto": "Fracción reformada DOF 09-04-2012, 16-07-2025",
+            "pagina": 2
+          },
+          {
+            "fila": 12,
+            "texto": "Párrafo reformado DOF 20-08-1941, 13-01-1986, 16-07-2025",
+            "pagina": 2
+          },
+          {
+            "fila": 13,
+            "texto": "Fracción reformada DOF 04-01-1999",
+            "pagina": 2
+          },
+          {
+            "fila": 14,
+            "texto": "Fracción reformada DOF 03-05-2023",
+            "pagina": 2
+          },
+          {
+            "fila": 15,
+            "texto": "Fracción reformada DOF 13-01-1986",
+            "pagina": 2
+          },
+          {
+            "fila": 16,
+            "texto": "Fracción reformada DOF 23-12-1974, 14-11-2025",
+            "pagina": 3
+          },
+          {
+            "fila": 17,
+            "texto": "Artículo derogado DOF 15-06-1992",
+            "pagina": 3
+          },
+          {
+            "fila": 18,
+            "texto": "Artículo reformado DOF 23-12-1974, 09-04-2012",
+            "pagina": 3
+          },
+          {
+            "fila": 19,
+            "texto": "Artículo reformado DOF 20-08-1941, 22-12-1993, 09-04-2012, 16-07-2025",
+            "pagina": 4
+          },
+          {
+            "fila": 20,
+            "texto": "Artículo reformado DOF 13-03-1943, 22-12-1993, 12-05-1995, 07-06-1995, 09-04-2012, 16-07-2025. Derogado DOF 16-07-2025",
+            "pagina": 4
+          },
+          {
+            "fila": 21,
+            "texto": "Artículo reformado DOF 16-07-2025",
+            "pagina": 4
+          },
+          {
+            "fila": 22,
+            "texto": "Párrafo reformado DOF 23-05-1986",
+            "pagina": 4
+          },
+          {
+            "fila": 23,
+            "texto": "Artículo reformado DOF 21-01-1985",
+            "pagina": 4
+          },
+          {
+            "fila": 24,
+            "texto": "Reforma DOF 07-06-1995: Derogó del artículo los entonces párrafos segundo (antes reformado por DOF 21-01-1988) y tercero (antes",
+            "pagina": 4
+          },
+          {
+            "fila": 25,
+            "texto": "reformado por DOF 21-01-1988)",
+            "pagina": 4
+          },
+          {
+            "fila": 26,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 4
+          },
+          {
+            "fila": 27,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 4
+          },
+          {
+            "fila": 28,
+            "texto": "Artículo reformado DOF 13-01-1986, 15-06-1992, 16-07-2025",
+            "pagina": 5
+          },
+          {
+            "fila": 29,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 5
+          },
+          {
+            "fila": 30,
+            "texto": "Artículo reformado DOF 10-08-1944, 21-01-1985, 16-07-2025",
+            "pagina": 5
+          },
+          {
+            "fila": 31,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 5
+          },
+          {
+            "fila": 32,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 5
+          },
+          {
+            "fila": 33,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 6
+          },
+          {
+            "fila": 34,
+            "texto": "Artículo reformado DOF 07-07-1944. Derogado DOF 22-12-1993",
+            "pagina": 6
+          },
+          {
+            "fila": 35,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 6
+          },
+          {
+            "fila": 36,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 6
+          },
+          {
+            "fila": 37,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 6
+          },
+          {
+            "fila": 38,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 6
+          },
+          {
+            "fila": 39,
+            "texto": "Párrafo reformado DOF 16-07-2025",
+            "pagina": 6
+          },
+          {
+            "fila": 40,
+            "texto": "Fracción reformada DOF 09-04-2012, 16-07-2025",
+            "pagina": 6
+          },
+          {
+            "fila": 41,
+            "texto": "Fracción reformada DOF 09-04-2012, 16-07-2025",
+            "pagina": 6
+          },
+          {
+            "fila": 42,
+            "texto": "Fracción reformada DOF 09-04-2012, 16-07-2025",
+            "pagina": 7
+          },
+          {
+            "fila": 43,
+            "texto": "Fracción adicionada DOF 15-12-1975",
+            "pagina": 7
+          },
+          {
+            "fila": 44,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 7
+          },
+          {
+            "fila": 45,
+            "texto": "Fracción reformada DOF 09-04-2012, 16-07-2025",
+            "pagina": 7
+          },
+          {
+            "fila": 46,
+            "texto": "Fracción reformada DOF 09-04-2012, 16-07-2025",
+            "pagina": 8
+          },
+          {
+            "fila": 47,
+            "texto": "Párrafo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 8
+          },
+          {
+            "fila": 48,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 9
+          },
+          {
+            "fila": 49,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 9
+          },
+          {
+            "fila": 50,
+            "texto": "Párrafo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 9
+          },
+          {
+            "fila": 51,
+            "texto": "Párrafo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 9
+          },
+          {
+            "fila": 52,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 10
+          },
+          {
+            "fila": 53,
+            "texto": "Artículo reformado DOF 16-07-2025",
+            "pagina": 10
+          },
+          {
+            "fila": 54,
+            "texto": "Párrafo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 10
+          },
+          {
+            "fila": 55,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 10
+          },
+          {
+            "fila": 56,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 11
+          },
+          {
+            "fila": 57,
+            "texto": "Párrafo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 11
+          },
+          {
+            "fila": 58,
+            "texto": "Párrafo reformado DOF 16-07-2025",
+            "pagina": 11
+          },
+          {
+            "fila": 59,
+            "texto": "Párrafo reformado DOF 16-07-2025",
+            "pagina": 11
+          },
+          {
+            "fila": 60,
+            "texto": "Artículo reformado DOF 20-08-1941, 21-01-1985",
+            "pagina": 11
+          },
+          {
+            "fila": 61,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 11
+          },
+          {
+            "fila": 62,
+            "texto": "Párrafo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 11
+          },
+          {
+            "fila": 63,
+            "texto": "Párrafo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 12
+          },
+          {
+            "fila": 64,
+            "texto": "Párrafo reformado DOF 16-07-2025",
+            "pagina": 12
+          },
+          {
+            "fila": 65,
+            "texto": "Fracción reformada DOF 09-04-2012, 16-07-2025",
+            "pagina": 12
+          },
+          {
+            "fila": 66,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 12
+          },
+          {
+            "fila": 67,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025, 16-07-2025",
+            "pagina": 12
+          },
+          {
+            "fila": 68,
+            "texto": "Fracción reformada DOF 09-04-2012, 16-07-2025",
+            "pagina": 13
+          },
+          {
+            "fila": 69,
+            "texto": "Párrafo reformado DOF 21-01-1985, 16-07-2025",
+            "pagina": 13
+          },
+          {
+            "fila": 70,
+            "texto": "Fracción reformada DOF 09-04-2012, 16-07-2025",
+            "pagina": 13
+          },
+          {
+            "fila": 71,
+            "texto": "Párrafo reformado DOF 16-07-2025",
+            "pagina": 13
+          },
+          {
+            "fila": 72,
+            "texto": "Fracción reformada DOF 09-04-2012",
+            "pagina": 13
+          },
+          {
+            "fila": 73,
+            "texto": "Párrafo reformado DOF 16-07-2025",
+            "pagina": 14
+          },
+          {
+            "fila": 74,
+            "texto": "Fracción reformada DOF 16-07-2025",
+            "pagina": 14
+          },
+          {
+            "fila": 75,
+            "texto": "Fracción reformada DOF 16-07-2025",
+            "pagina": 15
+          },
+          {
+            "fila": 76,
+            "texto": "Fracción reformada DOF 09-04-2012",
+            "pagina": 15
+          },
+          {
+            "fila": 77,
+            "texto": "Fracción reformada DOF 20-08-1941, 09-04-2012, 16-07-2025",
+            "pagina": 15
+          },
+          {
+            "fila": 78,
+            "texto": "Párrafo reformado DOF 20-08-1941, 09-04-2012, 16-07-2025",
+            "pagina": 15
+          },
+          {
+            "fila": 79,
+            "texto": "Fracción reformada DOF 09-04-2012, 16-07-2025",
+            "pagina": 15
+          },
+          {
+            "fila": 80,
+            "texto": "Fracción reformada DOF 09-04-2012, 16-07-2025",
+            "pagina": 15
+          },
+          {
+            "fila": 81,
+            "texto": "Párrafo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 16
+          },
+          {
+            "fila": 82,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 16
+          },
+          {
+            "fila": 83,
+            "texto": "Párrafo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 16
+          },
+          {
+            "fila": 84,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 16
+          },
+          {
+            "fila": 85,
+            "texto": "Artículo reformado DOF 21-01-1985",
+            "pagina": 16
+          },
+          {
+            "fila": 86,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 16
+          },
+          {
+            "fila": 87,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 17
+          },
+          {
+            "fila": 88,
+            "texto": "Párrafo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 18
+          },
+          {
+            "fila": 89,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 19
+          },
+          {
+            "fila": 90,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 20
+          },
+          {
+            "fila": 91,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 20
+          },
+          {
+            "fila": 92,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 20
+          },
+          {
+            "fila": 93,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 20
+          },
+          {
+            "fila": 94,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 21
+          },
+          {
+            "fila": 95,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 21
+          },
+          {
+            "fila": 96,
+            "texto": "Fracción reformada DOF 15-06-1992",
+            "pagina": 21
+          },
+          {
+            "fila": 97,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 21
+          },
+          {
+            "fila": 98,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 22
+          },
+          {
+            "fila": 99,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 22
+          },
+          {
+            "fila": 100,
+            "texto": "Párrafo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 22
+          },
+          {
+            "fila": 101,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 22
+          },
+          {
+            "fila": 102,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 22
+          },
+          {
+            "fila": 103,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 22
+          },
+          {
+            "fila": 104,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 22
+          },
+          {
+            "fila": 105,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 22
+          },
+          {
+            "fila": 106,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 22
+          },
+          {
+            "fila": 107,
+            "texto": "Artículo derogado DOF 07-06-1995",
+            "pagina": 22
+          },
+          {
+            "fila": 108,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 22
+          },
+          {
+            "fila": 109,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 23
+          },
+          {
+            "fila": 110,
+            "texto": "Artículo derogado DOF 15-06-1992",
+            "pagina": 23
+          },
+          {
+            "fila": 111,
+            "texto": "Artículo reformado DOF 15-06-1992, 16-07-2025",
+            "pagina": 24
+          },
+          {
+            "fila": 112,
+            "texto": "Fracción reformada DOF 09-04-2012, 16-07-2025",
+            "pagina": 24
+          },
+          {
+            "fila": 113,
+            "texto": "Artículo reformado DOF 16-07-2025",
+            "pagina": 25
+          },
+          {
+            "fila": 114,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 25
+          },
+          {
+            "fila": 115,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 25
+          },
+          {
+            "fila": 116,
+            "texto": "Artículo reformado DOF 17-06-1940, 09-04-2012, 16-07-2025",
+            "pagina": 25
+          },
+          {
+            "fila": 117,
+            "texto": "Párrafo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 25
+          },
+          {
+            "fila": 118,
+            "texto": "Párrafo reformado DOF 16-07-2025",
+            "pagina": 25
+          },
+          {
+            "fila": 119,
+            "texto": "Párrafo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 26
+          },
+          {
+            "fila": 120,
+            "texto": "Párrafo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 26
+          },
+          {
+            "fila": 121,
+            "texto": "Artículo reformado DOF 14-03-1946, 05-01-1951",
+            "pagina": 26
+          },
+          {
+            "fila": 122,
+            "texto": "Párrafo reformado DOF 16-07-2025",
+            "pagina": 26
+          },
+          {
+            "fila": 123,
+            "texto": "Párrafo reformado DOF 16-07-2025",
+            "pagina": 26
+          },
+          {
+            "fila": 124,
+            "texto": "Párrafo reformado DOF 16-07-2025",
+            "pagina": 26
+          },
+          {
+            "fila": 125,
+            "texto": "Artículo reformado DOF 30-12-1972",
+            "pagina": 26
+          },
+          {
+            "fila": 126,
+            "texto": "Párrafo reformado DOF 15-06-1992, 16-07-2025",
+            "pagina": 26
+          },
+          {
+            "fila": 127,
+            "texto": "Párrafo reformado DOF 16-07-2025",
+            "pagina": 27
+          },
+          {
+            "fila": 128,
+            "texto": "Párrafo reformado DOF 16-07-2025",
+            "pagina": 27
+          },
+          {
+            "fila": 129,
+            "texto": "Párrafo reformado DOF 15-06-1992",
+            "pagina": 27
+          },
+          {
+            "fila": 130,
+            "texto": "Párrafo reformado DOF 21-01-1988, 15-06-1992, 16-07-2025",
+            "pagina": 27
+          },
+          {
+            "fila": 131,
+            "texto": "Párrafo reformado DOF 21-01-1988, 15-06-1992, 16-07-2025",
+            "pagina": 27
+          },
+          {
+            "fila": 132,
+            "texto": "Párrafo reformado DOF 15-06-1992, 16-07-2025",
+            "pagina": 27
+          },
+          {
+            "fila": 133,
+            "texto": "Párrafo reformado DOF 16-07-2025",
+            "pagina": 27
+          },
+          {
+            "fila": 134,
+            "texto": "Párrafo reformado DOF 16-07-2025",
+            "pagina": 27
+          },
+          {
+            "fila": 135,
+            "texto": "Párrafo reformado DOF 15-06-1992, 16-07-2025",
+            "pagina": 27
+          },
+          {
+            "fila": 136,
+            "texto": "Párrafo reformado DOF 16-07-2025",
+            "pagina": 28
+          },
+          {
+            "fila": 137,
+            "texto": "Párrafo reformado DOF 16-07-2025",
+            "pagina": 28
+          },
+          {
+            "fila": 138,
+            "texto": "Párrafo reformado DOF 15-06-1992, 16-07-2025",
+            "pagina": 28
+          },
+          {
+            "fila": 139,
+            "texto": "Párrafo reformado DOF 16-07-2025",
+            "pagina": 28
+          },
+          {
+            "fila": 140,
+            "texto": "Artículo reformado DOF 15-12-1975, 21-01-1985",
+            "pagina": 28
+          },
+          {
+            "fila": 141,
+            "texto": "Artículo reformado DOF 21-01-1988. Derogado DOF 22-12-1993",
+            "pagina": 28
+          },
+          {
+            "fila": 142,
+            "texto": "Artículo derogado DOF 12-05-1995",
+            "pagina": 28
+          },
+          {
+            "fila": 143,
+            "texto": "Artículo derogado DOF 12-05-1995",
+            "pagina": 28
+          },
+          {
+            "fila": 144,
+            "texto": "Artículo derogado DOF 12-05-1995",
+            "pagina": 28
+          },
+          {
+            "fila": 145,
+            "texto": "Artículo derogado DOF 12-05-1995",
+            "pagina": 28
+          },
+          {
+            "fila": 146,
+            "texto": "Artículo derogado DOF 12-05-1995",
+            "pagina": 28
+          },
+          {
+            "fila": 147,
+            "texto": "Artículo derogado DOF 12-05-1995",
+            "pagina": 28
+          },
+          {
+            "fila": 148,
+            "texto": "Artículo derogado DOF 12-05-1995",
+            "pagina": 29
+          },
+          {
+            "fila": 149,
+            "texto": "Artículo derogado DOF 12-05-1995",
+            "pagina": 29
+          },
+          {
+            "fila": 150,
+            "texto": "Artículo derogado DOF 12-05-1995",
+            "pagina": 29
+          },
+          {
+            "fila": 151,
+            "texto": "Artículo derogado DOF 12-05-1995",
+            "pagina": 29
+          },
+          {
+            "fila": 152,
+            "texto": "Artículo derogado DOF 12-05-1995",
+            "pagina": 29
+          },
+          {
+            "fila": 153,
+            "texto": "Artículo derogado DOF 12-05-1995",
+            "pagina": 29
+          },
+          {
+            "fila": 154,
+            "texto": "Artículo derogado DOF 12-05-1995",
+            "pagina": 29
+          },
+          {
+            "fila": 155,
+            "texto": "Artículo derogado DOF 12-05-1995",
+            "pagina": 29
+          },
+          {
+            "fila": 156,
+            "texto": "Artículo derogado DOF 12-05-1995",
+            "pagina": 29
+          },
+          {
+            "fila": 157,
+            "texto": "Artículo derogado DOF 12-05-1995",
+            "pagina": 29
+          },
+          {
+            "fila": 158,
+            "texto": "Artículo derogado DOF 12-05-1995",
+            "pagina": 29
+          },
+          {
+            "fila": 159,
+            "texto": "Artículo reformado DOF 15-06-1992. Derogado DOF 22-12-1993",
+            "pagina": 29
+          },
+          {
+            "fila": 160,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 29
+          },
+          {
+            "fila": 161,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 30
+          },
+          {
+            "fila": 162,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 30
+          },
+          {
+            "fila": 163,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 30
+          },
+          {
+            "fila": 164,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 30
+          },
+          {
+            "fila": 165,
+            "texto": "Capítulo reformado DOF 09-01-1948",
+            "pagina": 30
+          },
+          {
+            "fila": 166,
+            "texto": "Artículo reformado DOF 09-01-1948. Derogado DOF 22-12-1993",
+            "pagina": 30
+          },
+          {
+            "fila": 167,
+            "texto": "Artículo reformado DOF 09-01-1948. Derogado DOF 22-12-1993",
+            "pagina": 30
+          },
+          {
+            "fila": 168,
+            "texto": "Artículo reformado DOF 09-01-1948. Derogado DOF 22-12-1993",
+            "pagina": 30
+          },
+          {
+            "fila": 169,
+            "texto": "Artículo reformado DOF 09-01-1948. Derogado DOF 22-12-1993",
+            "pagina": 30
+          },
+          {
+            "fila": 170,
+            "texto": "Artículo reformado DOF 09-01-1948. Derogado DOF 22-12-1993",
+            "pagina": 30
+          },
+          {
+            "fila": 171,
+            "texto": "Artículo reformado DOF 09-01-1948. Derogado DOF 22-12-1993",
+            "pagina": 30
+          },
+          {
+            "fila": 172,
+            "texto": "Artículo reformado DOF 09-01-1948. Derogado DOF 22-12-1993",
+            "pagina": 30
+          },
+          {
+            "fila": 173,
+            "texto": "Artículo reformado DOF 09-01-1948. Derogado DOF 22-12-1993",
+            "pagina": 30
+          },
+          {
+            "fila": 174,
+            "texto": "Artículo reformado DOF 09-01-1948. Derogado DOF 22-12-1993",
+            "pagina": 30
+          },
+          {
+            "fila": 175,
+            "texto": "Artículo reformado DOF 09-01-1948. Derogado DOF 22-12-1993",
+            "pagina": 30
+          },
+          {
+            "fila": 176,
+            "texto": "Artículo reformado DOF 09-01-1948. Derogado DOF 22-12-1993",
+            "pagina": 30
+          },
+          {
+            "fila": 177,
+            "texto": "Artículo reformado DOF 09-01-1948. Derogado DOF 22-12-1993",
+            "pagina": 30
+          },
+          {
+            "fila": 178,
+            "texto": "Artículo reformado DOF 09-01-1948. Derogado DOF 22-12-1993",
+            "pagina": 30
+          },
+          {
+            "fila": 179,
+            "texto": "Artículo reformado DOF 09-01-1948. Derogado DOF 22-12-1993",
+            "pagina": 31
+          },
+          {
+            "fila": 180,
+            "texto": "Artículo reformado DOF 13-03-1943. Derogado DOF 22-12-1993",
+            "pagina": 31
+          },
+          {
+            "fila": 181,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 31
+          },
+          {
+            "fila": 182,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 31
+          },
+          {
+            "fila": 183,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 31
+          },
+          {
+            "fila": 184,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 31
+          },
+          {
+            "fila": 185,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 31
+          },
+          {
+            "fila": 186,
+            "texto": "Artículo derogado DOF 19-07-1993, 04-01-1994",
+            "pagina": 31
+          },
+          {
+            "fila": 187,
+            "texto": "Artículo derogado DOF 19-07-1993, 04-01-1994",
+            "pagina": 31
+          },
+          {
+            "fila": 188,
+            "texto": "Artículo derogado DOF 19-07-1993, 04-01-1994",
+            "pagina": 31
+          },
+          {
+            "fila": 189,
+            "texto": "Artículo derogado DOF 19-07-1993, 04-01-1994",
+            "pagina": 31
+          },
+          {
+            "fila": 190,
+            "texto": "Artículo derogado DOF19-07-1993, 04-01-1994",
+            "pagina": 31
+          },
+          {
+            "fila": 191,
+            "texto": "Artículo derogado DOF 19-07-1993, 04-01-1994",
+            "pagina": 31
+          },
+          {
+            "fila": 192,
+            "texto": "Artículo derogado DOF 19-07-1993, 04-01-1994",
+            "pagina": 31
+          },
+          {
+            "fila": 193,
+            "texto": "Artículo derogado DOF 19-07-1993, 04-01-1994",
+            "pagina": 32
+          },
+          {
+            "fila": 194,
+            "texto": "Artículo derogado DOF 19-07-1993, 04-01-1994",
+            "pagina": 32
+          },
+          {
+            "fila": 195,
+            "texto": "Artículo derogado DOF 19-07-1993, 04-01-1994",
+            "pagina": 32
+          },
+          {
+            "fila": 196,
+            "texto": "Artículo derogado DOF 19-07-1993, 04-01-1994",
+            "pagina": 32
+          },
+          {
+            "fila": 197,
+            "texto": "Artículo derogado DOF 19-07-1993, 04-01-1994",
+            "pagina": 32
+          },
+          {
+            "fila": 198,
+            "texto": "Artículo derogado DOF 31-12-1981, 04-01-1994",
+            "pagina": 32
+          },
+          {
+            "fila": 199,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 32
+          },
+          {
+            "fila": 200,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 32
+          },
+          {
+            "fila": 201,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 32
+          },
+          {
+            "fila": 202,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 32
+          },
+          {
+            "fila": 203,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 32
+          },
+          {
+            "fila": 204,
+            "texto": "Artículo derogado DOF 19-07-1993, 04-01-1994",
+            "pagina": 32
+          },
+          {
+            "fila": 205,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 32
+          },
+          {
+            "fila": 206,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 32
+          },
+          {
+            "fila": 207,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 32
+          },
+          {
+            "fila": 208,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 32
+          },
+          {
+            "fila": 209,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 32
+          },
+          {
+            "fila": 210,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 33
+          },
+          {
+            "fila": 211,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 33
+          },
+          {
+            "fila": 212,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 33
+          },
+          {
+            "fila": 213,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 33
+          },
+          {
+            "fila": 214,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 33
+          },
+          {
+            "fila": 215,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 33
+          },
+          {
+            "fila": 216,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 33
+          },
+          {
+            "fila": 217,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 33
+          },
+          {
+            "fila": 218,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 33
+          },
+          {
+            "fila": 219,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 33
+          },
+          {
+            "fila": 220,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 33
+          },
+          {
+            "fila": 221,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 33
+          },
+          {
+            "fila": 222,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 33
+          },
+          {
+            "fila": 223,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 33
+          },
+          {
+            "fila": 224,
+            "texto": "Artículo derogado DOF 19-07-1993, 04-01-1994",
+            "pagina": 33
+          },
+          {
+            "fila": 225,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 33
+          },
+          {
+            "fila": 226,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 34
+          },
+          {
+            "fila": 227,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 34
+          },
+          {
+            "fila": 228,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 34
+          },
+          {
+            "fila": 229,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 34
+          },
+          {
+            "fila": 230,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 34
+          },
+          {
+            "fila": 231,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 34
+          },
+          {
+            "fila": 232,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 34
+          },
+          {
+            "fila": 233,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 34
+          },
+          {
+            "fila": 234,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 34
+          },
+          {
+            "fila": 235,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 34
+          },
+          {
+            "fila": 236,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 34
+          },
+          {
+            "fila": 237,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 34
+          },
+          {
+            "fila": 238,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 34
+          },
+          {
+            "fila": 239,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 34
+          },
+          {
+            "fila": 240,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 34
+          },
+          {
+            "fila": 241,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 34
+          },
+          {
+            "fila": 242,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 34
+          },
+          {
+            "fila": 243,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 35
+          },
+          {
+            "fila": 244,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 35
+          },
+          {
+            "fila": 245,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 35
+          },
+          {
+            "fila": 246,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 35
+          },
+          {
+            "fila": 247,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 35
+          },
+          {
+            "fila": 248,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 35
+          },
+          {
+            "fila": 249,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 35
+          },
+          {
+            "fila": 250,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 35
+          },
+          {
+            "fila": 251,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 35
+          },
+          {
+            "fila": 252,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 35
+          },
+          {
+            "fila": 253,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 35
+          },
+          {
+            "fila": 254,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 35
+          },
+          {
+            "fila": 255,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 35
+          },
+          {
+            "fila": 256,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 35
+          },
+          {
+            "fila": 257,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 35
+          },
+          {
+            "fila": 258,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 35
+          },
+          {
+            "fila": 259,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 35
+          },
+          {
+            "fila": 260,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 36
+          },
+          {
+            "fila": 261,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 36
+          },
+          {
+            "fila": 262,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 36
+          },
+          {
+            "fila": 263,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 36
+          },
+          {
+            "fila": 264,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 36
+          },
+          {
+            "fila": 265,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 36
+          },
+          {
+            "fila": 266,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 36
+          },
+          {
+            "fila": 267,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 36
+          },
+          {
+            "fila": 268,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 36
+          },
+          {
+            "fila": 269,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 36
+          },
+          {
+            "fila": 270,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 36
+          },
+          {
+            "fila": 271,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 36
+          },
+          {
+            "fila": 272,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 36
+          },
+          {
+            "fila": 273,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 36
+          },
+          {
+            "fila": 274,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 36
+          },
+          {
+            "fila": 275,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 36
+          },
+          {
+            "fila": 276,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 36
+          },
+          {
+            "fila": 277,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 36
+          },
+          {
+            "fila": 278,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 37
+          },
+          {
+            "fila": 279,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 37
+          },
+          {
+            "fila": 280,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 37
+          },
+          {
+            "fila": 281,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 37
+          },
+          {
+            "fila": 282,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 37
+          },
+          {
+            "fila": 283,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 37
+          },
+          {
+            "fila": 284,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 37
+          },
+          {
+            "fila": 285,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 37
+          },
+          {
+            "fila": 286,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 37
+          },
+          {
+            "fila": 287,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 37
+          },
+          {
+            "fila": 288,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 37
+          },
+          {
+            "fila": 289,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 37
+          },
+          {
+            "fila": 290,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 37
+          },
+          {
+            "fila": 291,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 37
+          },
+          {
+            "fila": 292,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 37
+          },
+          {
+            "fila": 293,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 38
+          },
+          {
+            "fila": 294,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 38
+          },
+          {
+            "fila": 295,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 38
+          },
+          {
+            "fila": 296,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 38
+          },
+          {
+            "fila": 297,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 38
+          },
+          {
+            "fila": 298,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 38
+          },
+          {
+            "fila": 299,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 38
+          },
+          {
+            "fila": 300,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 38
+          },
+          {
+            "fila": 301,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 38
+          },
+          {
+            "fila": 302,
+            "texto": "Artículo reformado DOF 27-12-1982. Derogado DOF 04-01-1994",
+            "pagina": 38
+          },
+          {
+            "fila": 303,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 38
+          },
+          {
+            "fila": 304,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 38
+          },
+          {
+            "fila": 305,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 38
+          },
+          {
+            "fila": 306,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 38
+          },
+          {
+            "fila": 307,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 38
+          },
+          {
+            "fila": 308,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 38
+          },
+          {
+            "fila": 309,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 38
+          },
+          {
+            "fila": 310,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 38
+          },
+          {
+            "fila": 311,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 39
+          },
+          {
+            "fila": 312,
+            "texto": "Artículo derogado DOF 19-07-1993, 04-01-1994",
+            "pagina": 39
+          },
+          {
+            "fila": 313,
+            "texto": "Artículo derogado DOF 19-07-1993, 04-01-1994",
+            "pagina": 39
+          },
+          {
+            "fila": 314,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 39
+          },
+          {
+            "fila": 315,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 39
+          },
+          {
+            "fila": 316,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 39
+          },
+          {
+            "fila": 317,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 39
+          },
+          {
+            "fila": 318,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 39
+          },
+          {
+            "fila": 319,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 39
+          },
+          {
+            "fila": 320,
+            "texto": "Libro reformado DOF 23-01-1950",
+            "pagina": 39
+          },
+          {
+            "fila": 321,
+            "texto": "Capítulo reformado DOF 23-01-1950",
+            "pagina": 39
+          },
+          {
+            "fila": 322,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 39
+          },
+          {
+            "fila": 323,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 39
+          },
+          {
+            "fila": 324,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 39
+          },
+          {
+            "fila": 325,
+            "texto": "Artículo reformado DOF 23-01-1950. Fe de erratas DOF 11-05-1950. Reformado DOF 23-12-1974. Derogado DOF 12-05-1995",
+            "pagina": 39
+          },
+          {
+            "fila": 326,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 40
+          },
+          {
+            "fila": 327,
+            "texto": "Capítulo reformado DOF 23-01-1950 (reubicado)",
+            "pagina": 40
+          },
+          {
+            "fila": 328,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 40
+          },
+          {
+            "fila": 329,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 40
+          },
+          {
+            "fila": 330,
+            "texto": "Artículo reformado DOF 23-01-1950. Fe de erratas DOF 11-05-1950. Derogado DOF 12-05-1995",
+            "pagina": 40
+          },
+          {
+            "fila": 331,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 40
+          },
+          {
+            "fila": 332,
+            "texto": "Capítulo reformado DOF 23-01-1950 (reubicado)",
+            "pagina": 40
+          },
+          {
+            "fila": 333,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 40
+          },
+          {
+            "fila": 334,
+            "texto": "Capítulo reformado DOF 23-01-1950 (reubicado)",
+            "pagina": 40
+          },
+          {
+            "fila": 335,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 40
+          },
+          {
+            "fila": 336,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 40
+          },
+          {
+            "fila": 337,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 40
+          },
+          {
+            "fila": 338,
+            "texto": "Capítulo reformado DOF 23-01-1950 (reubicado)",
+            "pagina": 40
+          },
+          {
+            "fila": 339,
+            "texto": "Artículo reformado DOF 23-01-1950. Fe de erratas DOF 11-05-1950. Derogado DOF 12-05-1995",
+            "pagina": 40
+          },
+          {
+            "fila": 340,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 40
+          },
+          {
+            "fila": 341,
+            "texto": "Capítulo reformado DOF 23-01-1950 (reubicado)",
+            "pagina": 40
+          },
+          {
+            "fila": 342,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 40
+          },
+          {
+            "fila": 343,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 41
+          },
+          {
+            "fila": 344,
+            "texto": "Capítulo reformado DOF 23-01-1950 (reubicado)",
+            "pagina": 41
+          },
+          {
+            "fila": 345,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 41
+          },
+          {
+            "fila": 346,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 41
+          },
+          {
+            "fila": 347,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 41
+          },
+          {
+            "fila": 348,
+            "texto": "Capítulo reformado DOF 23-01-1950 (reubicado)",
+            "pagina": 41
+          },
+          {
+            "fila": 349,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 41
+          },
+          {
+            "fila": 350,
+            "texto": "Capítulo reformado DOF 23-01-1950 (reubicado)",
+            "pagina": 41
+          },
+          {
+            "fila": 351,
+            "texto": "Artículo reformado DOF 23-01-1950. Fe de erratas DOF 11-05-1950. Derogado DOF 22-12-1995",
+            "pagina": 41
+          },
+          {
+            "fila": 352,
+            "texto": "Artículo reformado DOF 23-01-1950. Fe de erratas DOF 11-05-1950. Derogado DOF 22-12-1995",
+            "pagina": 41
+          },
+          {
+            "fila": 353,
+            "texto": "Capítulo adicionado DOF 23-01-1950",
+            "pagina": 41
+          },
+          {
+            "fila": 354,
+            "texto": "Artículo reformado DOF 23-01-1950. Fe de erratas DOF 11-05-1950. Derogado DOF 12-05-1995",
+            "pagina": 41
+          },
+          {
+            "fila": 355,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 41
+          },
+          {
+            "fila": 356,
+            "texto": "Artículo reformado DOF 23-01-1950. Fe de erratas DOF 11-05-1950. Derogado DOF 12-05-1995",
+            "pagina": 41
+          },
+          {
+            "fila": 357,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 41
+          },
+          {
+            "fila": 358,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 41
+          },
+          {
+            "fila": 359,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 41
+          },
+          {
+            "fila": 360,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 42
+          },
+          {
+            "fila": 361,
+            "texto": "Artículo reformado DOF 23-01-1950. Fe de erratas DOF 11-05-1950. Derogado DOF 12-05-1995",
+            "pagina": 42
+          },
+          {
+            "fila": 362,
+            "texto": "Capítulo adicionado DOF 23-01-1950",
+            "pagina": 42
+          },
+          {
+            "fila": 363,
+            "texto": "Artículo reformado DOF 23-01-1950. Fe de erratas DOF 11-05-1950. Derogado DOF 12-05-1995",
+            "pagina": 42
+          },
+          {
+            "fila": 364,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 42
+          },
+          {
+            "fila": 365,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 42
+          },
+          {
+            "fila": 366,
+            "texto": "Capítulo adicionado DOF 23-01-1950",
+            "pagina": 42
+          },
+          {
+            "fila": 367,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 42
+          },
+          {
+            "fila": 368,
+            "texto": "Artículo reformado DOF 23-01-1950. Fe de erratas DOF 11-05-1950. Derogado DOF 12-05-1995",
+            "pagina": 42
+          },
+          {
+            "fila": 369,
+            "texto": "Capítulo adicionado DOF 23-01-1950",
+            "pagina": 42
+          },
+          {
+            "fila": 370,
+            "texto": "Sección adicionada DOF 23-01-1950",
+            "pagina": 42
+          },
+          {
+            "fila": 371,
+            "texto": "Artículo reformado DOF 23-01-1950. Fe de erratas DOF 11-05-1950. Derogado DOF 12-05-1995",
+            "pagina": 42
+          },
+          {
+            "fila": 372,
+            "texto": "Artículo reformado DOF 23-01-1950. Fe de erratas DOF 11-05-1950. Reformado DOF 24-12-1986. Derogado DOF 12-05-1995",
+            "pagina": 42
+          },
+          {
+            "fila": 373,
+            "texto": "Artículo reformado DOF 23-01-1950, 24-12-1986. Derogado DOF 12-05-1995",
+            "pagina": 42
+          },
+          {
+            "fila": 374,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 42
+          },
+          {
+            "fila": 375,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 42
+          },
+          {
+            "fila": 376,
+            "texto": "Artículo reformado DOF 23-01-1950, 23-12-1974. Derogado DOF 12-05-1995",
+            "pagina": 42
+          },
+          {
+            "fila": 377,
+            "texto": "Artículo reformado DOF 23-01-1950. Fe de erratas DOF 11-05-1950. Reformado DOF 23-12-1974. Derogado DOF 12-05-1995",
+            "pagina": 43
+          },
+          {
+            "fila": 378,
+            "texto": "Sección adicionada DOF 23-01-1950",
+            "pagina": 43
+          },
+          {
+            "fila": 379,
+            "texto": "Artículo reformado DOF 23-01-1950. Fe de erratas DOF 11-05-1950. Reformado DOF 24-12-1986. Derogado DOF 12-05-1995",
+            "pagina": 43
+          },
+          {
+            "fila": 380,
+            "texto": "Artículo reformado DOF 23-01-1950. Fe de erratas DOF 11-05-1950. Reformado DOF 23-12-1974. Derogado DOF 12-05-1995",
+            "pagina": 43
+          },
+          {
+            "fila": 381,
+            "texto": "Sección adicionada DOF 23-01-1950",
+            "pagina": 43
+          },
+          {
+            "fila": 382,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 43
+          },
+          {
+            "fila": 383,
+            "texto": "Artículo reformado DOF 23-01-1950, 24-12-1986. Derogado DOF 12-05-1995",
+            "pagina": 43
+          },
+          {
+            "fila": 384,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 43
+          },
+          {
+            "fila": 385,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 43
+          },
+          {
+            "fila": 386,
+            "texto": "Artículo reformado DOF 23-01-1950, 23-12-1974. Derogado DOF 12-05-1995",
+            "pagina": 43
+          },
+          {
+            "fila": 387,
+            "texto": "Sección adicionada DOF 23-01-1950",
+            "pagina": 43
+          },
+          {
+            "fila": 388,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 43
+          },
+          {
+            "fila": 389,
+            "texto": "Artículo reformado DOF 23-01-1950. Fe de erratas DOF 11-05-1950. Derogado DOF 12-05-1995",
+            "pagina": 43
+          },
+          {
+            "fila": 390,
+            "texto": "Capítulo adicionado DOF 23-01-1950",
+            "pagina": 43
+          },
+          {
+            "fila": 391,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 43
+          },
+          {
+            "fila": 392,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 43
+          },
+          {
+            "fila": 393,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 43
+          },
+          {
+            "fila": 394,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 44
+          },
+          {
+            "fila": 395,
+            "texto": "Capítulo adicionado DOF 23-01-1950",
+            "pagina": 44
+          },
+          {
+            "fila": 396,
+            "texto": "Artículo reformado DOF 23-01-1950. Fe de erratas DOF 11-05-1950. Derogado DOF 12-05-1995",
+            "pagina": 44
+          },
+          {
+            "fila": 397,
+            "texto": "Artículo reformado DOF 31-12-1948, 23-01-1950. Fe de erratas DOF 11-05-1950. Derogado DOF 12-05-1995",
+            "pagina": 44
+          },
+          {
+            "fila": 398,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 44
+          },
+          {
+            "fila": 399,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 44
+          },
+          {
+            "fila": 400,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 44
+          },
+          {
+            "fila": 401,
+            "texto": "Capítulo adicionado DOF 23-01-1950",
+            "pagina": 44
+          },
+          {
+            "fila": 402,
+            "texto": "Artículo reformado DOF 23-01-1950. Fe de erratas DOF 11-05-1950. Derogado DOF 12-05-1995",
+            "pagina": 44
+          },
+          {
+            "fila": 403,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 44
+          },
+          {
+            "fila": 404,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 44
+          },
+          {
+            "fila": 405,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 44
+          },
+          {
+            "fila": 406,
+            "texto": "Capítulo adicionado DOF 23-01-1950",
+            "pagina": 44
+          },
+          {
+            "fila": 407,
+            "texto": "Párrafo reformado DOF 09-04-2012",
+            "pagina": 44
+          },
+          {
+            "fila": 408,
+            "texto": "Inciso derogado DOF 12-05-1995",
+            "pagina": 44
+          },
+          {
+            "fila": 409,
+            "texto": "Inciso derogado DOF 22-12-1995",
+            "pagina": 44
+          },
+          {
+            "fila": 410,
+            "texto": "Inciso derogado DOF 22-12-1995",
+            "pagina": 45
+          },
+          {
+            "fila": 411,
+            "texto": "Inciso derogado DOF 12-05-1995",
+            "pagina": 45
+          },
+          {
+            "fila": 412,
+            "texto": "Fracción derogada DOF 12-05-1995",
+            "pagina": 45
+          },
+          {
+            "fila": 413,
+            "texto": "Fe de erratas a la fracción DOF 11-05-1950. Derogada DOF 12-05-1995",
+            "pagina": 45
+          },
+          {
+            "fila": 414,
+            "texto": "Artículo reformado DOF 23-01-1950",
+            "pagina": 45
+          },
+          {
+            "fila": 415,
+            "texto": "Artículo reformado DOF 23-01-1950. Fe de erratas DOF 11-05-1950. Derogado DOF 12-05-1995",
+            "pagina": 45
+          },
+          {
+            "fila": 416,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 45
+          },
+          {
+            "fila": 417,
+            "texto": "Artículo derogado DOF 07-06-1995",
+            "pagina": 45
+          },
+          {
+            "fila": 418,
+            "texto": "Artículo derogado DOF 07-06-1995",
+            "pagina": 45
+          },
+          {
+            "fila": 419,
+            "texto": "Artículo derogado DOF 07-06-1995",
+            "pagina": 45
+          },
+          {
+            "fila": 420,
+            "texto": "Artículo derogado DOF 07-06-1995",
+            "pagina": 45
+          },
+          {
+            "fila": 421,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 46
+          },
+          {
+            "fila": 422,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 46
+          },
+          {
+            "fila": 423,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 47
+          },
+          {
+            "fila": 424,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 47
+          },
+          {
+            "fila": 425,
+            "texto": "Artículo reformado DOF 31-12-1981, 16-07-2025",
+            "pagina": 47
+          },
+          {
+            "fila": 426,
+            "texto": "Artículo reformado DOF 03-07-1941, 07-07-1944, 21-02-1945, 31-12-1979. Derogado DOF 07-06-1995",
+            "pagina": 47
+          },
+          {
+            "fila": 427,
+            "texto": "Artículo derogado DOF 07-06-1995",
+            "pagina": 47
+          },
+          {
+            "fila": 428,
+            "texto": "Artículo derogado DOF 07-06-1995",
+            "pagina": 47
+          },
+          {
+            "fila": 429,
+            "texto": "Artículo derogado DOF 07-06-1995",
+            "pagina": 47
+          },
+          {
+            "fila": 430,
+            "texto": "Artículo derogado DOF 07-06-1995",
+            "pagina": 47
+          },
+          {
+            "fila": 431,
+            "texto": "Artículo derogado DOF 07-06-1995",
+            "pagina": 47
+          },
+          {
+            "fila": 432,
+            "texto": "Artículo derogado DOF 07-06-1995",
+            "pagina": 47
+          },
+          {
+            "fila": 433,
+            "texto": "Artículo reformado DOF 21-01-1988. Derogado DOF 07-06-1995",
+            "pagina": 47
+          },
+          {
+            "fila": 434,
+            "texto": "Artículo derogado DOF 07-06-1995",
+            "pagina": 47
+          },
+          {
+            "fila": 435,
+            "texto": "Artículo derogado DOF 07-06-1995",
+            "pagina": 48
+          },
+          {
+            "fila": 436,
+            "texto": "Artículo derogado DOF 07-06-1995",
+            "pagina": 48
+          },
+          {
+            "fila": 437,
+            "texto": "Artículo derogado DOF 07-06-1995",
+            "pagina": 48
+          },
+          {
+            "fila": 438,
+            "texto": "Capítulo derogado DOF 19-01-1960",
+            "pagina": 48
+          },
+          {
+            "fila": 439,
+            "texto": "Artículo derogado DOF 19-01-1960",
+            "pagina": 48
+          },
+          {
+            "fila": 440,
+            "texto": "Artículo derogado DOF 19-01-1960",
+            "pagina": 48
+          },
+          {
+            "fila": 441,
+            "texto": "Artículo derogado DOF 19-01-1960",
+            "pagina": 48
+          },
+          {
+            "fila": 442,
+            "texto": "Artículo derogado DOF 19-01-1960",
+            "pagina": 48
+          },
+          {
+            "fila": 443,
+            "texto": "Artículo reformado DOF 17-06-1940. Derogado DOF 19-01-1960",
+            "pagina": 48
+          },
+          {
+            "fila": 444,
+            "texto": "Artículo derogado DOF 19-01-1960",
+            "pagina": 48
+          },
+          {
+            "fila": 445,
+            "texto": "Artículo derogado DOF 19-01-1960",
+            "pagina": 48
+          },
+          {
+            "fila": 446,
+            "texto": "Artículo derogado DOF 19-01-1960",
+            "pagina": 48
+          },
+          {
+            "fila": 447,
+            "texto": "Artículo derogado DOF 19-01-1960",
+            "pagina": 48
+          },
+          {
+            "fila": 448,
+            "texto": "Artículo derogado DOF 19-01-1960",
+            "pagina": 48
+          },
+          {
+            "fila": 449,
+            "texto": "Artículo derogado DOF 19-01-1960",
+            "pagina": 48
+          },
+          {
+            "fila": 450,
+            "texto": "Artículo derogado DOF 19-01-1960",
+            "pagina": 49
+          },
+          {
+            "fila": 451,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 49
+          },
+          {
+            "fila": 452,
+            "texto": "Párrafo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 49
+          },
+          {
+            "fila": 453,
+            "texto": "Libro reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 49
+          },
+          {
+            "fila": 454,
+            "texto": "Título adicionado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 49
+          },
+          {
+            "fila": 455,
+            "texto": "Capítulo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 49
+          },
+          {
+            "fila": 456,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 49
+          },
+          {
+            "fila": 457,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 50
+          },
+          {
+            "fila": 458,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 50
+          },
+          {
+            "fila": 459,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 50
+          },
+          {
+            "fila": 460,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 50
+          },
+          {
+            "fila": 461,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 50
+          },
+          {
+            "fila": 462,
+            "texto": "Título adicionado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 50
+          },
+          {
+            "fila": 463,
+            "texto": "Capítulo reformado DOF 05-01-1951 (reubicado). Derogado DOF 24-12-1986",
+            "pagina": 50
+          },
+          {
+            "fila": 464,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 50
+          },
+          {
+            "fila": 465,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 50
+          },
+          {
+            "fila": 466,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 50
+          },
+          {
+            "fila": 467,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 50
+          },
+          {
+            "fila": 468,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 50
+          },
+          {
+            "fila": 469,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 50
+          },
+          {
+            "fila": 470,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 50
+          },
+          {
+            "fila": 471,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 50
+          },
+          {
+            "fila": 472,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 50
+          },
+          {
+            "fila": 473,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 50
+          },
+          {
+            "fila": 474,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 50
+          },
+          {
+            "fila": 475,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 51
+          },
+          {
+            "fila": 476,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 51
+          },
+          {
+            "fila": 477,
+            "texto": "Capítulo reformado DOF 05-01-1951 (reubicado). Derogado DOF 24-12-1986",
+            "pagina": 51
+          },
+          {
+            "fila": 478,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 51
+          },
+          {
+            "fila": 479,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 51
+          },
+          {
+            "fila": 480,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 51
+          },
+          {
+            "fila": 481,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 51
+          },
+          {
+            "fila": 482,
+            "texto": "Capítulo reformado DOF 05-01-1951 (reubicado). Derogado DOF 24-12-1986",
+            "pagina": 51
+          },
+          {
+            "fila": 483,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 51
+          },
+          {
+            "fila": 484,
+            "texto": "Capítulo reformado DOF 05-01-1951 (reubicado). Derogado DOF 24-12-1986",
+            "pagina": 51
+          },
+          {
+            "fila": 485,
+            "texto": "Artículo reformado DOF 03-07-1941, 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 51
+          },
+          {
+            "fila": 486,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 51
+          },
+          {
+            "fila": 487,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 51
+          },
+          {
+            "fila": 488,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 51
+          },
+          {
+            "fila": 489,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 51
+          },
+          {
+            "fila": 490,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 51
+          },
+          {
+            "fila": 491,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 52
+          },
+          {
+            "fila": 492,
+            "texto": "Capítulo reformado DOF 05-01-1951 (reubicado). Derogado DOF 24-12-1986",
+            "pagina": 52
+          },
+          {
+            "fila": 493,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 52
+          },
+          {
+            "fila": 494,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 52
+          },
+          {
+            "fila": 495,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 52
+          },
+          {
+            "fila": 496,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 52
+          },
+          {
+            "fila": 497,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 52
+          },
+          {
+            "fila": 498,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 52
+          },
+          {
+            "fila": 499,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 52
+          },
+          {
+            "fila": 500,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 52
+          },
+          {
+            "fila": 501,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 52
+          },
+          {
+            "fila": 502,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 52
+          },
+          {
+            "fila": 503,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 52
+          },
+          {
+            "fila": 504,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 52
+          },
+          {
+            "fila": 505,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 52
+          },
+          {
+            "fila": 506,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 52
+          },
+          {
+            "fila": 507,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 52
+          },
+          {
+            "fila": 508,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 52
+          },
+          {
+            "fila": 509,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 52
+          },
+          {
+            "fila": 510,
+            "texto": "Capítulo reformado DOF 05-01-1951 (reubicado). Derogado DOF 24-12-1986",
+            "pagina": 53
+          },
+          {
+            "fila": 511,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 53
+          },
+          {
+            "fila": 512,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 53
+          },
+          {
+            "fila": 513,
+            "texto": "Título adicionado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 53
+          },
+          {
+            "fila": 514,
+            "texto": "Capítulo reformado DOF 05-01-1951 (reubicado). Derogado DOF 24-12-1986",
+            "pagina": 53
+          },
+          {
+            "fila": 515,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 53
+          },
+          {
+            "fila": 516,
+            "texto": "Capítulo reformado DOF 05-01-1951 (reubicado). Derogado DOF 24-12-1986",
+            "pagina": 53
+          },
+          {
+            "fila": 517,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 53
+          },
+          {
+            "fila": 518,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 53
+          },
+          {
+            "fila": 519,
+            "texto": "Capítulo reformado DOF 05-01-1951 (reubicado). Derogado DOF 24-12-1986",
+            "pagina": 53
+          },
+          {
+            "fila": 520,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 53
+          },
+          {
+            "fila": 521,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 53
+          },
+          {
+            "fila": 522,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 53
+          },
+          {
+            "fila": 523,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 53
+          },
+          {
+            "fila": 524,
+            "texto": "Capítulo reformado DOF 05-01-1951 (reubicado). Derogado DOF 24-12-1986",
+            "pagina": 53
+          },
+          {
+            "fila": 525,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 53
+          },
+          {
+            "fila": 526,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 54
+          },
+          {
+            "fila": 527,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 54
+          },
+          {
+            "fila": 528,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 54
+          },
+          {
+            "fila": 529,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 54
+          },
+          {
+            "fila": 530,
+            "texto": "Capítulo reformado DOF 05-01-1951 (reubicado). Derogado DOF 24-12-1986",
+            "pagina": 54
+          },
+          {
+            "fila": 531,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 54
+          },
+          {
+            "fila": 532,
+            "texto": "Capítulo reformado DOF 05-01-1951 (reubicado). Derogado DOF 24-12-1986",
+            "pagina": 54
+          },
+          {
+            "fila": 533,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 54
+          },
+          {
+            "fila": 534,
+            "texto": "Capítulo reformado DOF 05-01-1951 (reubicado). Derogado DOF 24-12-1986",
+            "pagina": 54
+          },
+          {
+            "fila": 535,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 54
+          },
+          {
+            "fila": 536,
+            "texto": "Capítulo reformado DOF 05-01-1951 (reubicado). Derogado DOF 24-12-1986",
+            "pagina": 54
+          },
+          {
+            "fila": 537,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 54
+          },
+          {
+            "fila": 538,
+            "texto": "Capítulo reformado DOF 05-01-1951 (reubicado). Derogado DOF 24-12-1986",
+            "pagina": 54
+          },
+          {
+            "fila": 539,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 54
+          },
+          {
+            "fila": 540,
+            "texto": "Capítulo reformado DOF 05-01-1951 (reubicado). Derogado DOF 24-12-1986",
+            "pagina": 54
+          },
+          {
+            "fila": 541,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 54
+          },
+          {
+            "fila": 542,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 55
+          },
+          {
+            "fila": 543,
+            "texto": "Capítulo reformado DOF 05-01-1951 (reubicado). Derogado DOF 24-12-1986",
+            "pagina": 55
+          },
+          {
+            "fila": 544,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 55
+          },
+          {
+            "fila": 545,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 55
+          },
+          {
+            "fila": 546,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 55
+          },
+          {
+            "fila": 547,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 55
+          },
+          {
+            "fila": 548,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 55
+          },
+          {
+            "fila": 549,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 55
+          },
+          {
+            "fila": 550,
+            "texto": "Capítulo reformado DOF 05-01-1951 (reubicado). Derogado DOF 24-12-1986",
+            "pagina": 55
+          },
+          {
+            "fila": 551,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 55
+          },
+          {
+            "fila": 552,
+            "texto": "Capítulo reformado DOF 05-01-1951 (reubicado). Derogado DOF 24-12-1986",
+            "pagina": 55
+          },
+          {
+            "fila": 553,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 55
+          },
+          {
+            "fila": 554,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 55
+          },
+          {
+            "fila": 555,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 55
+          },
+          {
+            "fila": 556,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 55
+          },
+          {
+            "fila": 557,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 55
+          },
+          {
+            "fila": 558,
+            "texto": "Capítulo reformado DOF 05-01-1951 (reubicado). Derogado DOF 24-12-1986",
+            "pagina": 55
+          },
+          {
+            "fila": 559,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 56
+          },
+          {
+            "fila": 560,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 56
+          },
+          {
+            "fila": 561,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 56
+          },
+          {
+            "fila": 562,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 56
+          },
+          {
+            "fila": 563,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 56
+          },
+          {
+            "fila": 564,
+            "texto": "Capítulo reformado DOF 05-01-1951 (reubicado). Derogado DOF 24-12-1986",
+            "pagina": 56
+          },
+          {
+            "fila": 565,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 56
+          },
+          {
+            "fila": 566,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 56
+          },
+          {
+            "fila": 567,
+            "texto": "Capítulo reformado DOF 05-01-1951 (reubicado). Derogado DOF 24-12-1986",
+            "pagina": 56
+          },
+          {
+            "fila": 568,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 56
+          },
+          {
+            "fila": 569,
+            "texto": "Título adicionado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 56
+          },
+          {
+            "fila": 570,
+            "texto": "Capítulo reformado DOF 05-01-1951 (reubicado). Derogado DOF 24-12-1986",
+            "pagina": 56
+          },
+          {
+            "fila": 571,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 56
+          },
+          {
+            "fila": 572,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 56
+          },
+          {
+            "fila": 573,
+            "texto": "Capítulo reformado DOF 05-01-1951 (reubicado). Derogado DOF 24-12-1986",
+            "pagina": 56
+          },
+          {
+            "fila": 574,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 56
+          },
+          {
+            "fila": 575,
+            "texto": "Título adicionado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 56
+          },
+          {
+            "fila": 576,
+            "texto": "Capítulo adicionado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 57
+          },
+          {
+            "fila": 577,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 31-12-1981, 24-12-1986",
+            "pagina": 57
+          },
+          {
+            "fila": 578,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 31-12-1981, 24-12-1986",
+            "pagina": 57
+          },
+          {
+            "fila": 579,
+            "texto": "Capítulo adicionado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 57
+          },
+          {
+            "fila": 580,
+            "texto": "Artículo reformado DOF 05-01-1951, 31-12-1979. Derogado DOF 31-12-1981, 24-12-1986",
+            "pagina": 57
+          },
+          {
+            "fila": 581,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 31-12-1981, 24-12-1986",
+            "pagina": 57
+          },
+          {
+            "fila": 582,
+            "texto": "Artículo reformado DOF 05-01-1951, 31-12-1979. Derogado DOF 31-12-1981, 24-12-1986",
+            "pagina": 57
+          },
+          {
+            "fila": 583,
+            "texto": "Capítulo adicionado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 57
+          },
+          {
+            "fila": 584,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 57
+          },
+          {
+            "fila": 585,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 57
+          },
+          {
+            "fila": 586,
+            "texto": "Capítulo adicionado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 57
+          },
+          {
+            "fila": 587,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 31-12-1981, 24-12-1986",
+            "pagina": 57
+          },
+          {
+            "fila": 588,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 31-12-1981, 24-12-1986",
+            "pagina": 57
+          },
+          {
+            "fila": 589,
+            "texto": "Artículo reformado DOF 05-01-1951. Derogado DOF 24-12-1986",
+            "pagina": 57
+          },
+          {
+            "fila": 590,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 58
+          },
+          {
+            "fila": 591,
+            "texto": "Párrafo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 58
+          },
+          {
+            "fila": 592,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 58
+          },
+          {
+            "fila": 593,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 58
+          },
+          {
+            "fila": 594,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 58
+          },
+          {
+            "fila": 595,
+            "texto": "Párrafo reformado DOF 15-06-1992, 19-02-2021, 22-02-2022",
+            "pagina": 59
+          },
+          {
+            "fila": 596,
+            "texto": "Párrafo reformado DOF 19-11-1986",
+            "pagina": 59
+          },
+          {
+            "fila": 597,
+            "texto": "Artículo reformado DOF 31-12-1976",
+            "pagina": 59
+          },
+          {
+            "fila": 598,
+            "texto": "Artículo reformado DOF 19-02-2021",
+            "pagina": 59
+          },
+          {
+            "fila": 599,
+            "texto": "Párrafo reformado DOF 19-11-1986",
+            "pagina": 59
+          },
+          {
+            "fila": 600,
+            "texto": "Párrafo reformado DOF 19-11-1986",
+            "pagina": 59
+          },
+          {
+            "fila": 601,
+            "texto": "Párrafo reformado DOF 19-11-1986",
+            "pagina": 59
+          },
+          {
+            "fila": 602,
+            "texto": "Artículo reformado DOF 31-12-1976",
+            "pagina": 59
+          },
+          {
+            "fila": 603,
+            "texto": "Artículo reformado DOF 29-12-1975, 19-11-1986. Derogado DOF 22-12-1993",
+            "pagina": 60
+          },
+          {
+            "fila": 604,
+            "texto": "Artículo reformado DOF 24-12-1986. Derogado DOF 22-12-1993",
+            "pagina": 60
+          },
+          {
+            "fila": 605,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 60
+          },
+          {
+            "fila": 606,
+            "texto": "Artículo derogado DOF 22-12-1993",
+            "pagina": 60
+          },
+          {
+            "fila": 607,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 60
+          },
+          {
+            "fila": 608,
+            "texto": "Artículo derogado DOF 12-05-1995",
+            "pagina": 60
+          },
+          {
+            "fila": 609,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 60
+          },
+          {
+            "fila": 610,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 60
+          },
+          {
+            "fila": 611,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 60
+          },
+          {
+            "fila": 612,
+            "texto": "Artículo derogado DOF 12-05-1995",
+            "pagina": 60
+          },
+          {
+            "fila": 613,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 60
+          },
+          {
+            "fila": 614,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 60
+          },
+          {
+            "fila": 615,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 60
+          },
+          {
+            "fila": 616,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 60
+          },
+          {
+            "fila": 617,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 60
+          },
+          {
+            "fila": 618,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 60
+          },
+          {
+            "fila": 619,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 60
+          },
+          {
+            "fila": 620,
+            "texto": "Artículo derogado DOF 04-01-1994",
+            "pagina": 60
+          },
+          {
+            "fila": 621,
+            "texto": "Artículo reformado DOF 23-01-1950. Fe de erratas DOF 11-05-1950. Derogado DOF 12-05-1995",
+            "pagina": 61
+          },
+          {
+            "fila": 622,
+            "texto": "Artículo reformado DOF 09-01-1942, 23-01-1950. Fe de erratas DOF 11-05-1950. Derogado DOF 12-05-1995",
+            "pagina": 61
+          },
+          {
+            "fila": 623,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 61
+          },
+          {
+            "fila": 624,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 61
+          },
+          {
+            "fila": 625,
+            "texto": "Artículo reformado DOF 23-01-1950",
+            "pagina": 61
+          },
+          {
+            "fila": 626,
+            "texto": "Artículo reformado DOF 23-01-1950",
+            "pagina": 61
+          },
+          {
+            "fila": 627,
+            "texto": "Artículo reformado DOF 23-01-1950",
+            "pagina": 61
+          },
+          {
+            "fila": 628,
+            "texto": "Artículo reformado DOF 23-01-1950. Fe de erratas DOF 11-05-1950. Derogado DOF 12-05-1995",
+            "pagina": 61
+          },
+          {
+            "fila": 629,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 61
+          },
+          {
+            "fila": 630,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 61
+          },
+          {
+            "fila": 631,
+            "texto": "Artículo reformado DOF 23-01-1950",
+            "pagina": 61
+          },
+          {
+            "fila": 632,
+            "texto": "Artículo reformado DOF 23-01-1950, 09-04-2012",
+            "pagina": 61
+          },
+          {
+            "fila": 633,
+            "texto": "Artículo reformado DOF 23-01-1950. Fe de erratas DOF 11-05-1950. Derogado DOF 22-12-1995",
+            "pagina": 62
+          },
+          {
+            "fila": 634,
+            "texto": "Artículo reformado DOF 23-01-1950. Fe de erratas DOF 11-05-1950. Derogado DOF 12-05-1995",
+            "pagina": 62
+          },
+          {
+            "fila": 635,
+            "texto": "Artículo reformado DOF 23-01-1950. Derogado DOF 12-05-1995",
+            "pagina": 62
+          },
+          {
+            "fila": 636,
+            "texto": "Artículo reformado DOF 23-01-1950, 23-12-1974. Derogado DOF 12-05-1995",
+            "pagina": 62
+          },
+          {
+            "fila": 637,
+            "texto": "Párrafo reformado DOF 07-11-1996",
+            "pagina": 62
+          },
+          {
+            "fila": 638,
+            "texto": "Artículo derogado DOF 07-06-1995",
+            "pagina": 63
+          },
+          {
+            "fila": 639,
+            "texto": "Artículo reformado DOF 23-01-1950, 09-04-2012, 16-07-2025",
+            "pagina": 64
+          },
+          {
+            "fila": 640,
+            "texto": "Artículo adicionado DOF 25-10-2005",
+            "pagina": 64
+          },
+          {
+            "fila": 641,
+            "texto": "Artículo reformado DOF 09-04-2012, 16-07-2025",
+            "pagina": 64
+          },
+          {
+            "fila": 642,
+            "texto": "Párrafo adicionado DOF 15-06-2018",
+            "pagina": 119
+          },
+          {
+            "fila": 643,
+            "texto": "Párrafo adicionado DOF 18-12-2015",
+            "pagina": 126
+          },
+          {
+            "fila": 644,
+            "texto": "Párrafo reformado DOF 18-12-2015",
+            "pagina": 126
+          }
+        ]
+      }
+    }
+  },
+  "control_pypdf_informativo": {
+    "fuente": "Usuario; piloto aprobado en la conversación",
+    "descripcion": "pypdf fragmenta números con espacios; verificado por el usuario contra originales en 11 páginas señaladas del CFF y tres de CPEUM. Markdown generado con Poppler.",
+    "decision": "Control informativo, no bloquea lotes y no modifica textos. No se atribuye cotejo visual adicional a Codex."
+  }
+}

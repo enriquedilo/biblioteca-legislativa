@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T02:52:17.087662+00:00
+Actualizado: 2026-09-18T03:02:48.217755+00:00
 
-Procesados: **104/453**. Intentados: 104/453. Pendientes reportados: 0.
+Procesados: **114/453**. Intentados: 114/453. Pendientes reportados: 0.
 
-Lote 10 publicado; corte 6–10 verificado y reportado. Próximo lote: 11.
+Lote 11 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -21,7 +21,7 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 8 | 10/10 | Publicado |
 | 9 | 10/10 | Publicado |
 | 10 | 10/10 | Publicado |
-| 11 | 0/10 | Pendiente |
+| 11 | 10/10 | Cerrado localmente |
 | 12 | 0/10 | Pendiente |
 | 13 | 0/10 | Pendiente |
 | 14 | 0/10 | Pendiente |
@@ -161,16 +161,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 10 | 100 | LSP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 10 | 101 | 70 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 10 | 102 | 71_240418 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 11 | 103 | LTF | pendiente | — |
-| 11 | 104 | 256 | pendiente | — |
-| 11 | 105 | LUC | pendiente | — |
-| 11 | 106 | LVZMM | pendiente | — |
-| 11 | 107 | LVGC | pendiente | — |
-| 11 | 108 | LViv | pendiente | — |
-| 11 | 109 | 74 | pendiente | — |
-| 11 | 110 | 75_100619 | pendiente | — |
-| 11 | 111 | LFMPED | pendiente | — |
-| 11 | 112 | LIVA | pendiente | — |
+| 11 | 103 | LTF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 11 | 104 | 256 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 11 | 105 | LUC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 11 | 106 | LVZMM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 11 | 107 | LVGC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 11 | 108 | LViv | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 11 | 109 | 74 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 11 | 110 | 75_100619 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 11 | 111 | LFMPED | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 11 | 112 | LIVA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 12 | 113 | LIEPS | pendiente | — |
 | 12 | 114 | LISR | pendiente | — |
 | 12 | 115 | LISSFAM | pendiente | — |

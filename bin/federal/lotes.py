@@ -3,6 +3,7 @@
 import argparse,collections,fcntl,hashlib,json,os,subprocess,tempfile
 from pathlib import Path
 import piloto as p
+import metadatos
 b=p.base;F=p.FED;ROOT=p.ROOT
 TERMINALES={'piloto_aprobado','procesado_con_incidencias','procesado','pendiente_original','pendiente_sin_texto','error_reportado'}
 OK={'piloto_aprobado','procesado_con_incidencias','procesado'}
@@ -69,6 +70,7 @@ def finalize(row,result):
   m['slug']=p.slug_nombre(m['nombre_oficial']) if m['nombre_oficial'] else None
   if m['slug'] is None:v['metadatos_normativos']['incidencias'].append({'campo':'slug','motivo':'Sigla numérica y nombre oficial pendiente de cotejo; slug null, no se atribuye al catálogo el valor de nombre oficial.'})
   else:row['slug']=m['slug']
+ metadatos.ajustar(m,v,(d/'extraccion.txt').read_text())
  v['control_pypdf_informativo']=DIAGNOSTICO
  if row['sigla'].startswith('LIGIE'):v['metadatos_normativos']['incidencias'].append({'campo':'vigencia_anual','motivo':'Bandera administrativa solicitada por el usuario para la tarifa contenida en LIGIE; no se infiere vigencia jurídica anual del texto.'})
  for kind,sha in m['hash_sha256'].items():
