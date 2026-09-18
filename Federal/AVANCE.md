@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T14:27:31.142333+00:00
+Actualizado: 2026-09-18T14:27:53.887948+00:00
 
-Procesados: **194/453**. Intentados: 194/453. Pendientes reportados: 0.
+Procesados: **204/453**. Intentados: 204/453. Pendientes reportados: 0.
 
-Lote 19 cerrado; publicación por commit del lote.
+Lote 20 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -29,8 +29,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 16 | 10/10 | Publicado |
 | 17 | 10/10 | Publicado |
 | 18 | 10/10 | Publicado |
-| 19 | 10/10 | Cerrado localmente |
-| 20 | 0/10 | Pendiente |
+| 19 | 10/10 | Publicado |
+| 20 | 10/10 | Cerrado localmente |
 | 21 | 0/10 | Pendiente |
 | 22 | 0/10 | Pendiente |
 | 23 | 0/10 | Pendiente |
@@ -251,17 +251,17 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 19 | 190 | LGCS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 19 | 191 | LGCG | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 19 | 192 | LGCFD | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 20 | 193 | LGCDC | pendiente | — |
-| 20 | 194 | LGDLPI | pendiente | — |
-| 20 | 195 | LGDFS | pendiente | — |
-| 20 | 196 | LGDS | pendiente | — |
-| 20 | 197 | LGEC | pendiente | — |
-| 20 | 198 | LGE | pendiente | — |
-| 20 | 199 | LGES_200421 | pendiente | — |
-| 20 | 200 | LGIPE | pendiente | — |
-| 20 | 201 | LGAAS | pendiente | — |
+| 20 | 193 | LGCDC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 20 | 194 | LGDLPI | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 20 | 195 | LGDFS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 20 | 196 | LGDS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 20 | 197 | LGEC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 20 | 198 | LGE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 20 | 199 | LGES_200421 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 20 | 200 | LGIPE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 20 | 201 | LGAAS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 0 | 202 | LGDNNA | piloto_aprobado | Conversión conservada; cotejo Word/PDF con incidencias |
-| 20 | 203 | LGMIME | pendiente | — |
+| 20 | 203 | LGMIME | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 21 | 204 | LGMASC | pendiente | — |
 | 21 | 205 | LGMSV | pendiente | — |
 | 21 | 206 | LGOAAC | pendiente | — |

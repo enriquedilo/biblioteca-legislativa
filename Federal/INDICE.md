@@ -200,17 +200,17 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 190 | LGCS | LEY General de Comunicación Social | [Markdown](ordenamientos/190/versiones/be0519d7cf6c4553034b40edf5f2edfea03c5e19b422003c6713c8710092ee30/texto.md) · procesado_con_incidencias |
 | 191 | LGCG | LEY General de Contabilidad Gubernamental | [Markdown](ordenamientos/191/versiones/72652151ed8fb61d863270822ca80e15338e65869d33343b5bda08cb9e0f4df7/texto.md) · procesado_con_incidencias |
 | 192 | LGCFD | LEY General de Cultura Física y Deporte | [Markdown](ordenamientos/192/versiones/ffde1960969583fa4348eab709f899f6e3ead8ba1fcb40e5a3628919da23c26f/texto.md) · procesado_con_incidencias |
-| 193 | LGCDC | LEY General de Cultura y Derechos Culturales | pendiente |
-| 194 | LGDLPI | LEY General de Derechos Lingüísticos de los Pueblos Indígenas | pendiente |
-| 195 | LGDFS | LEY General de Desarrollo Forestal Sustentable | pendiente |
-| 196 | LGDS | LEY General de Desarrollo Social | pendiente |
-| 197 | LGEC | LEY General de Economía Circular | pendiente |
-| 198 | LGE | LEY General de Educación | pendiente |
-| 199 | LGES_200421 | LEY General de Educación Superior | pendiente |
-| 200 | LGIPE | LEY General de Instituciones y Procedimientos Electorales | pendiente |
-| 201 | LGAAS | LEY General de la Alimentación Adecuada y Sostenible | pendiente |
+| 193 | LGCDC | LEY General de Cultura y Derechos Culturales | [Markdown](ordenamientos/193/versiones/f467d2c324b4aeaa4a28edbb984199327b05366528ee323da382f4e8cd15a82c/texto.md) · procesado_con_incidencias |
+| 194 | LGDLPI | LEY General de Derechos Lingüísticos de los Pueblos Indígenas | [Markdown](ordenamientos/194/versiones/37f9abff8951ac20bea7816d9ac5e1a5dd53199cb7c9c4a161523822cc77603f/texto.md) · procesado_con_incidencias |
+| 195 | LGDFS | LEY General de Desarrollo Forestal Sustentable | [Markdown](ordenamientos/195/versiones/ec1e5eec0e6642482aea1ef85f2dec3c558f361b1a6acff5097fddfeb48b20ff/texto.md) · procesado_con_incidencias |
+| 196 | LGDS | LEY General de Desarrollo Social | [Markdown](ordenamientos/196/versiones/cc70fd82d0a85e1e66252d8473c5a863acceab4d52a3e72f09ca3c8baa665772/texto.md) · procesado_con_incidencias |
+| 197 | LGEC | LEY General de Economía Circular | [Markdown](ordenamientos/197/versiones/75914960000b001b0a6acdd78d7720a56e6718b88b651388b6aec0fc3ede6197/texto.md) · procesado_con_incidencias |
+| 198 | LGE | LEY General de Educación | [Markdown](ordenamientos/198/versiones/85add9882807a6ee25f5d1b14732f728900c8aa0ea555cc9f5ac4afe5e2587da/texto.md) · procesado_con_incidencias |
+| 199 | LGES_200421 | LEY General de Educación Superior | [Markdown](ordenamientos/199/versiones/44dcb2c805ec9bbaa4231d79d39f3181d34e846570696d389c14f7b05a5c5b7f/texto.md) · procesado_con_incidencias |
+| 200 | LGIPE | LEY General de Instituciones y Procedimientos Electorales | [Markdown](ordenamientos/200/versiones/a8dc89aaf2c89b9698c77de8e385c891da3d8b94efc4db35547dd78e68a780ac/texto.md) · procesado_con_incidencias |
+| 201 | LGAAS | LEY General de la Alimentación Adecuada y Sostenible | [Markdown](ordenamientos/201/versiones/6736b14f6e8d6e6fea8a74164e605364a19a3f184eca9cf9fa7b179391a8c17c/texto.md) · procesado_con_incidencias |
 | 202 | LGDNNA | LEY General de los Derechos de Niñas, Niños y Adolescentes | [Markdown](ordenamientos/202/versiones/c14820b446d009b9da81e90bca3087779e9238a8d94ccc339d53e363de652efb/texto.md) · piloto_aprobado |
-| 203 | LGMIME | LEY General de los Medios de Impugnación en Materia Electoral | pendiente |
+| 203 | LGMIME | LEY General de los Medios de Impugnación en Materia Electoral | [Markdown](ordenamientos/203/versiones/144543f1029599faa5dd88809e3a5643176245b942f7e84900db9a2c22342a44/texto.md) · procesado_con_incidencias |
 | 204 | LGMASC | LEY General de Mecanismos Alternativos de Solución de Controversias | pendiente |
 | 205 | LGMSV | LEY General de Movilidad y Seguridad Vial | pendiente |
 | 206 | LGOAAC | LEY General de Organizaciones y Actividades Auxiliares del Crédito | pendiente |
