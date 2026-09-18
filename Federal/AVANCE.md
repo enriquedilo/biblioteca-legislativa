@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T15:00:53.935593+00:00
+Actualizado: 2026-09-18T15:01:05.353775+00:00
 
-Procesados: **294/453**. Intentados: 294/453. Pendientes reportados: 0.
+Procesados: **304/453**. Intentados: 304/453. Pendientes reportados: 0.
 
-Lote 29 cerrado; publicación por commit del lote.
+Lote 30 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -39,8 +39,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 26 | 10/10 | Publicado |
 | 27 | 10/10 | Publicado |
 | 28 | 10/10 | Publicado |
-| 29 | 10/10 | Cerrado localmente |
-| 30 | 0/10 | Pendiente |
+| 29 | 10/10 | Publicado |
+| 30 | 10/10 | Cerrado localmente |
 | 31 | 0/10 | Pendiente |
 | 32 | 0/10 | Pendiente |
 | 33 | 0/10 | Pendiente |
@@ -352,16 +352,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 29 | 291 | 195 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 29 | 292 | 196 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 29 | 293 | 197 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 30 | 294 | LCCAIF | pendiente | — |
-| 30 | 295 | 200_291214 | pendiente | — |
-| 30 | 296 | 202 | pendiente | — |
-| 30 | 297 | LRArt76_fracVI | pendiente | — |
-| 30 | 298 | LRFXIIIB_Art123 | pendiente | — |
-| 30 | 299 | 204 | pendiente | — |
-| 30 | 300 | LRFIyII_Art105 | pendiente | — |
-| 30 | 301 | 207 | pendiente | — |
-| 30 | 302 | LRArt3_MMCE_300919 | pendiente | — |
-| 30 | 303 | 208_190118 | pendiente | — |
+| 30 | 294 | LCCAIF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 30 | 295 | 200_291214 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 30 | 296 | 202 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 30 | 297 | LRArt76_fracVI | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 30 | 298 | LRFXIIIB_Art123 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 30 | 299 | 204 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 30 | 300 | LRFIyII_Art105 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 30 | 301 | 207 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 30 | 302 | LRArt3_MMCE_300919 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 30 | 303 | 208_190118 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 31 | 304 | LRArt6_MDR | pendiente | — |
 | 31 | 305 | LRSF | pendiente | — |
 | 31 | 306 | 23 | pendiente | — |
