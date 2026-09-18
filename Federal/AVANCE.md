@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T02:14:23.655614+00:00
+Actualizado: 2026-09-18T02:14:35.326431+00:00
 
-Procesados: **44/453**. Intentados: 44/453. Pendientes reportados: 0.
+Procesados: **54/453**. Intentados: 54/453. Pendientes reportados: 0.
 
-Lote 4 cerrado; publicación por commit del lote.
+Lote 5 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -14,8 +14,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 1 | 10/10 | Publicado |
 | 2 | 10/10 | Publicado |
 | 3 | 10/10 | Publicado |
-| 4 | 10/10 | Cerrado localmente |
-| 5 | 0/10 | Pendiente |
+| 4 | 10/10 | Publicado |
+| 5 | 10/10 | Cerrado localmente |
 | 6 | 0/10 | Pendiente |
 | 7 | 0/10 | Pendiente |
 | 8 | 0/10 | Pendiente |
@@ -101,16 +101,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 4 | 40 | LDRS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 4 | 41 | LDSC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 4 | 42 | LDSCA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 5 | 43 | LDEFAGN | pendiente | — |
-| 5 | 44 | LDFEFM | pendiente | — |
-| 5 | 45 | 252 | pendiente | — |
-| 5 | 46 | LEMEFAGN | pendiente | — |
-| 5 | 47 | LEN | pendiente | — |
-| 5 | 48 | 246 | pendiente | — |
-| 5 | 49 | 35 | pendiente | — |
-| 5 | 50 | 36_200521 | pendiente | — |
-| 5 | 51 | LFEA | pendiente | — |
-| 5 | 52 | LFRCF | pendiente | — |
+| 5 | 43 | LDEFAGN | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 5 | 44 | LDFEFM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 5 | 45 | 252 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 5 | 46 | LEMEFAGN | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 5 | 47 | LEN | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 5 | 48 | 246 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 5 | 49 | 35 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 5 | 50 | 36_200521 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 5 | 51 | LFEA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 5 | 52 | LFRCF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 6 | 53 | LFCC_200120 | pendiente | — |
 | 6 | 54 | LFIV_230518 | pendiente | — |
 | 6 | 55 | LFLL | pendiente | — |

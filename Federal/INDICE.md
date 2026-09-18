@@ -50,16 +50,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 40 | LDRS | LEY de Desarrollo Rural Sustentable | [Markdown](ordenamientos/40/versiones/c512022a435b810bbfe33a5e2fd80a9597f94c8f8f9e88ddc486b0356fe6c2ef/texto.md) · procesado_con_incidencias |
 | 41 | LDSC | LEY de Desarrollo Sustentable de la Cafeticultura | [Markdown](ordenamientos/41/versiones/af3d1727a2253d005dbd8e1677edcd491568d00eb221ae01446fa94335ada841/texto.md) · procesado_con_incidencias |
 | 42 | LDSCA | LEY de Desarrollo Sustentable de la Caña de Azúcar | [Markdown](ordenamientos/42/versiones/5c24bcaaed03c435ea485073cffd66a2be8e83ec106ea54629766160425d2005/texto.md) · procesado_con_incidencias |
-| 43 | LDEFAGN | LEY de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional | pendiente |
-| 44 | LDFEFM | LEY de Disciplina Financiera de las Entidades Federativas y los Municipios | pendiente |
-| 45 | 252 | LEY de Disciplina para el Personal de la Armada de México | pendiente |
-| 46 | LEMEFAGN | LEY de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional | pendiente |
-| 47 | LEN | LEY de Educación Naval | pendiente |
-| 48 | 246 | LEY de Energía para el Campo | pendiente |
-| 49 | 35 | LEY de Expropiación | pendiente |
-| 50 | 36_200521 | LEY de Extradición Internacional | pendiente |
-| 51 | LFEA | LEY de Firma Electrónica Avanzada | pendiente |
-| 52 | LFRCF | LEY de Fiscalización y Rendición de Cuentas de la Federación | pendiente |
+| 43 | LDEFAGN | LEY de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional | [Markdown](ordenamientos/43/versiones/3525531e83c530f87e58935cb29203823cb1b2e837b439e5028d05609d809664/texto.md) · procesado_con_incidencias |
+| 44 | LDFEFM | LEY de Disciplina Financiera de las Entidades Federativas y los Municipios | [Markdown](ordenamientos/44/versiones/fdfb3aad76f2ec902b362dbef55967724ff8c6c382bf21a9aab88534101f70c1/texto.md) · procesado_con_incidencias |
+| 45 | 252 | LEY de Disciplina para el Personal de la Armada de México | [Markdown](ordenamientos/45/versiones/1d0f89ec3a93c6a6939613f5b5369c88b4baaf9127caa2f4b4462a9a73770f69/texto.md) · procesado_con_incidencias |
+| 46 | LEMEFAGN | LEY de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional | [Markdown](ordenamientos/46/versiones/a26d3df339952c94b090a490fadfa52d383e611cffe52737590ed4c0e61cc163/texto.md) · procesado_con_incidencias |
+| 47 | LEN | LEY de Educación Naval | [Markdown](ordenamientos/47/versiones/419ea821b5f700cae4476a29266ee3d459c78d97d693d2b4676b628a976003be/texto.md) · procesado_con_incidencias |
+| 48 | 246 | LEY de Energía para el Campo | [Markdown](ordenamientos/48/versiones/7b893e8490075f4579cf2f48fd86c2ca9feceab99dc00056452f5b342b094811/texto.md) · procesado_con_incidencias |
+| 49 | 35 | LEY de Expropiación | [Markdown](ordenamientos/49/versiones/fbe58886099d9ef40d0752d97f139b23bd025ce8978a662987d5c94347949730/texto.md) · procesado_con_incidencias |
+| 50 | 36_200521 | LEY de Extradición Internacional | [Markdown](ordenamientos/50/versiones/f67f0ab1a8830fb19c21b1a2e9e9116447e53d3580dc908ad0aad2c96496d234/texto.md) · procesado_con_incidencias |
+| 51 | LFEA | LEY de Firma Electrónica Avanzada | [Markdown](ordenamientos/51/versiones/ea099defb155b876bd561d3c3d2dda8ef8e7c51b294b0ce88260cc61a9aa868f/texto.md) · procesado_con_incidencias |
+| 52 | LFRCF | LEY de Fiscalización y Rendición de Cuentas de la Federación | [Markdown](ordenamientos/52/versiones/515a845c7f690fac695d529c70fe22f3cfa792861f2703a9580cf327cd7fff66/texto.md) · procesado_con_incidencias |
 | 53 | LFCC_200120 | LEY de Fomento a la Confianza Ciudadana | pendiente |
 | 54 | LFIV_230518 | LEY de Fomento a la Industria Vitivinícola | pendiente |
 | 55 | LFLL | LEY de Fomento para la Lectura y el Libro | pendiente |
