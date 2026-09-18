@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T15:06:46.902371+00:00
+Actualizado: 2026-09-18T15:07:12.956956+00:00
 
-Procesados: **304/453**. Intentados: 304/453. Pendientes reportados: 0.
+Procesados: **314/453**. Intentados: 314/453. Pendientes reportados: 0.
 
-Lote 30 publicado; sufijos abiertos, rango y portada ID 223 verificados. Próximo lote: 31.
+Lote 31 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -41,7 +41,7 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 28 | 10/10 | Publicado |
 | 29 | 10/10 | Publicado |
 | 30 | 10/10 | Publicado |
-| 31 | 0/10 | Pendiente |
+| 31 | 10/10 | Cerrado localmente |
 | 32 | 0/10 | Pendiente |
 | 33 | 0/10 | Pendiente |
 | 34 | 0/10 | Pendiente |
@@ -362,16 +362,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 30 | 301 | 207 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 30 | 302 | LRArt3_MMCE_300919 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 30 | 303 | 208_190118 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 31 | 304 | LRArt6_MDR | pendiente | — |
-| 31 | 305 | LRSF | pendiente | — |
-| 31 | 306 | 23 | pendiente | — |
-| 31 | 307 | 211 | pendiente | — |
-| 31 | 308 | LEBHN | pendiente | — |
-| 31 | 309 | 271 | pendiente | — |
-| 31 | 310 | LSCT | pendiente | — |
-| 31 | 311 | LRPCAP | pendiente | — |
-| 31 | 312 | 218 | pendiente | — |
-| 31 | 313 | PEF_2026 | pendiente | — |
+| 31 | 304 | LRArt6_MDR | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 31 | 305 | LRSF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 31 | 306 | 23 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 31 | 307 | 211 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 31 | 308 | LEBHN | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 31 | 309 | 271 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 31 | 310 | LSCT | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 31 | 311 | LRPCAP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 31 | 312 | 218 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 31 | 313 | PEF_2026 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 32 | 314 | Reg_Diputados | pendiente | — |
 | 32 | 315 | Reg_Senado | pendiente | — |
 | 32 | 316 | 219 | pendiente | — |

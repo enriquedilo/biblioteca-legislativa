@@ -311,16 +311,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 301 | 207 | LEY Reglamentaria del Artículo 27 Constitucional en Materia Nuclear | [Markdown](ordenamientos/301/versiones/5cd62f500ea89d7856aa4f996726ff1e43c98662f5ff47046be67d5f6fb6f382/texto.md) · procesado_con_incidencias |
 | 302 | LRArt3_MMCE_300919 | LEY Reglamentaria del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de Mejora Continua de la Educación | [Markdown](ordenamientos/302/versiones/b6993aad87b261417816e030bd343c5b4bba818b289da1d632c286eb6be436ec/texto.md) · procesado_con_incidencias |
 | 303 | 208_190118 | LEY Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México | [Markdown](ordenamientos/303/versiones/5a1e6c9b5edb6621c87a515e7f22668cedd5d96393b250dfed846efd5526828d/texto.md) · procesado_con_incidencias |
-| 304 | LRArt6_MDR | LEY Reglamentaria del artículo 6o., párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, en materia del Derecho de Réplica | pendiente |
-| 305 | LRSF | LEY Reglamentaria del Servicio Ferroviario | pendiente |
-| 306 | 23 | LEY sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas | pendiente |
-| 307 | 211 | LEY Sobre el Contrato de Seguro | pendiente |
-| 308 | LEBHN | LEY sobre el Escudo, la Bandera y el Himno Nacionales | pendiente |
-| 309 | 271 | LEY Sobre la Aprobación de Tratados Internacionales en Materia Económica | pendiente |
-| 310 | LSCT | LEY sobre la Celebración de Tratados | pendiente |
-| 311 | LRPCAP | LEY sobre Refugiados, Protección Complementaria y Asilo Político | pendiente |
-| 312 | 218 | ORDENANZA General de la Armada | pendiente |
-| 313 | PEF_2026 | PRESUPUESTO de Egresos de la Federación para el Ejercicio Fiscal 2026 | pendiente |
+| 304 | LRArt6_MDR | LEY Reglamentaria del artículo 6o., párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, en materia del Derecho de Réplica | [Markdown](ordenamientos/304/versiones/cc117f1b648a304b7c2e31cfd7bb99b3aedda4e50b8e699b9b08809187c1a399/texto.md) · procesado_con_incidencias |
+| 305 | LRSF | LEY Reglamentaria del Servicio Ferroviario | [Markdown](ordenamientos/305/versiones/75ee8657a11963b6314cb1c77d01ab3125ce12d29c58c07d87bd121ca9d417c9/texto.md) · procesado_con_incidencias |
+| 306 | 23 | LEY sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas | [Markdown](ordenamientos/306/versiones/ade159c7136ef6e24ec33111cee1893fc5ab0d77eecc8489ac40b42602e03224/texto.md) · procesado_con_incidencias |
+| 307 | 211 | LEY Sobre el Contrato de Seguro | [Markdown](ordenamientos/307/versiones/eb5743df27883af4f2a65dc89fe3ba21def7865a4528054200bdb4b5cf73921a/texto.md) · procesado_con_incidencias |
+| 308 | LEBHN | LEY sobre el Escudo, la Bandera y el Himno Nacionales | [Markdown](ordenamientos/308/versiones/c090d8fca7b1b83a2ddf78007b435d78ed48466f775089d238257cc498fa0c83/texto.md) · procesado_con_incidencias |
+| 309 | 271 | LEY Sobre la Aprobación de Tratados Internacionales en Materia Económica | [Markdown](ordenamientos/309/versiones/d60dbf7ccc4cd34d0ba59e88cf1762060a0ef321fe4dc1f8997532e6c82ce580/texto.md) · procesado_con_incidencias |
+| 310 | LSCT | LEY sobre la Celebración de Tratados | [Markdown](ordenamientos/310/versiones/f8895ca71ce60363a7e587aa0f41ec2b7b2f438accbbd0f27f71ff27b649ac6a/texto.md) · procesado_con_incidencias |
+| 311 | LRPCAP | LEY sobre Refugiados, Protección Complementaria y Asilo Político | [Markdown](ordenamientos/311/versiones/94305e9ee6efdc0ad97b1fa384900b03f2e09377bbe66222b44cf96846cb287a/texto.md) · procesado_con_incidencias |
+| 312 | 218 | ORDENANZA General de la Armada | [Markdown](ordenamientos/312/versiones/330e2bbbdd4e8013e823ea34c4b8ee4524d7c50f53e4f247494b15d21268ea14/texto.md) · procesado_con_incidencias |
+| 313 | PEF_2026 | PRESUPUESTO de Egresos de la Federación para el Ejercicio Fiscal 2026 | [Markdown](ordenamientos/313/versiones/6b1a307f5f63f245c548d499f5364c6fc48a3da4540277fb76ef37a5ec74a075/texto.md) · procesado_con_incidencias |
 | 314 | Reg_Diputados | REGLAMENTO de la Cámara de Diputados | pendiente |
 | 315 | Reg_Senado | REGLAMENTO del Senado de la República | pendiente |
 | 316 | 219 | REGLAMENTO para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos | pendiente |
