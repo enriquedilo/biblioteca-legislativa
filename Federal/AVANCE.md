@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T15:00:40.332755+00:00
+Actualizado: 2026-09-18T15:00:53.935593+00:00
 
-Procesados: **284/453**. Intentados: 284/453. Pendientes reportados: 0.
+Procesados: **294/453**. Intentados: 294/453. Pendientes reportados: 0.
 
-Lote 28 cerrado; publicación por commit del lote.
+Lote 29 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -38,8 +38,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 25 | 10/10 | Publicado |
 | 26 | 10/10 | Publicado |
 | 27 | 10/10 | Publicado |
-| 28 | 10/10 | Cerrado localmente |
-| 29 | 0/10 | Pendiente |
+| 28 | 10/10 | Publicado |
+| 29 | 10/10 | Cerrado localmente |
 | 30 | 0/10 | Pendiente |
 | 31 | 0/10 | Pendiente |
 | 32 | 0/10 | Pendiente |
@@ -342,16 +342,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 28 | 281 | LTPCPIMCP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 28 | 282 | LTOSF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 28 | 283 | LRASCAP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 29 | 284 | LRAF | pendiente | — |
-| 29 | 285 | LRITF | pendiente | — |
-| 29 | 286 | LRSIC | pendiente | — |
-| 29 | 287 | 187_291214 | pendiente | — |
-| 29 | 288 | 192 | pendiente | — |
-| 29 | 289 | 193_171215 | pendiente | — |
-| 29 | 290 | LAEM | pendiente | — |
-| 29 | 291 | 195 | pendiente | — |
-| 29 | 292 | 196 | pendiente | — |
-| 29 | 293 | 197 | pendiente | — |
+| 29 | 284 | LRAF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 29 | 285 | LRITF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 29 | 286 | LRSIC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 29 | 287 | 187_291214 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 29 | 288 | 192 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 29 | 289 | 193_171215 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 29 | 290 | LAEM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 29 | 291 | 195 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 29 | 292 | 196 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 29 | 293 | 197 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 30 | 294 | LCCAIF | pendiente | — |
 | 30 | 295 | 200_291214 | pendiente | — |
 | 30 | 296 | 202 | pendiente | — |

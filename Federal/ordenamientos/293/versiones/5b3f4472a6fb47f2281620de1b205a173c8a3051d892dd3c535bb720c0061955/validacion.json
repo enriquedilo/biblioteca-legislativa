@@ -1,0 +1,291 @@
+{
+  "id": 293,
+  "fecha_revision": "2026-09-18T15:00:53.724268+00:00",
+  "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 5,
+  "paginas_sin_texto": [],
+  "pagina_blanca_confirmada_visualmente": false,
+  "texto_conservado": true,
+  "comparacion_word_pdf": {
+    "palabras_comparadas": 1560,
+    "palabras_pdf": 1739,
+    "frecuencias_coinciden": false,
+    "orden_coincide_separando_nota_al_pie": false,
+    "nota_al_pie_reubicada_por_lector_word": null,
+    "normalizaciones_solo_comparacion": [
+      "Misma función lexical_tokens de Sinaloa; no modifica los originales ni el Markdown."
+    ],
+    "limite": "Campos Word y encabezados permanecen en el control; las diferencias se reportan sin reparación.",
+    "solo_word": {
+      "embed": 1,
+      "word": 1,
+      "picture": 1,
+      "page": 1,
+      "numpages": 1
+    },
+    "solo_pdf": {
+      "ley": 4,
+      "que": 8,
+      "declara": 4,
+      "reservas": 4,
+      "mineras": 4,
+      "nacionales": 4,
+      "los": 4,
+      "yacimientos": 4,
+      "de": 24,
+      "uranio": 4,
+      "torio": 4,
+      "y": 4,
+      "las": 8,
+      "demás": 4,
+      "substancias": 4,
+      "cuales": 4,
+      "se": 4,
+      "obtengan": 4,
+      "isótopos": 4,
+      "hendibles": 4,
+      "puedan": 4,
+      "producir": 4,
+      "energía": 4,
+      "nuclear": 4,
+      "cámara": 4,
+      "diputados": 4,
+      "del": 4,
+      "h": 4,
+      "congreso": 4,
+      "la": 4,
+      "unión": 4,
+      "última": 4,
+      "reforma": 4,
+      "dof": 4,
+      "secretaría": 8,
+      "general": 4,
+      "servicios": 4,
+      "parlamentarios": 4
+    }
+  },
+  "articulos_word": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16"
+  ],
+  "articulos_pdf": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16"
+  ],
+  "identificadores_articulos_coinciden": true,
+  "encabezados_transitorios": [
+    {
+      "pagina": 2,
+      "encabezado": "TRANSITORIOS:"
+    },
+    {
+      "pagina": 5,
+      "encabezado": "TRANSITORIOS"
+    }
+  ],
+  "encabezados_ordinales_en_seccion_transitoria": [
+    "ARTICULO UNICO.- La presente Ley entrará en vigor tres días después al de su publicación en el",
+    "ARTICULO PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el \"Diario",
+    "ARTICULO SEGUNDO.- Se abroga la Ley que crea a la Comisión Nacional de Energía Nuclear de",
+    "ARTICULO TERCERO.- Se derogan los artículos 5o. y 7o. de la Ley que declara reservas mineras",
+    "ARTICULO CUARTO.- El Instituto Nacional de Energía Nuclear asumirá las atribuciones que",
+    "ARTICULO QUINTO.- Los trabajadores al servicio de la Comisión Nacional de Energía Nuclear,"
+  ],
+  "articulos_numericos_en_seccion_transitoria": [],
+  "transitorios_y_notas_completos_incluidos": true,
+  "paginas_cotejadas_visualmente": [],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 2195,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 3032,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 1238,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 740,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 2702,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    }
+  ],
+  "alcance": "Controles de conservación en todas las páginas; comparación de cifras con Poppler y pypdf. El cotejo visual se registra por separado. No certifica vigencia jurídica.",
+  "incidencias_resueltas": [],
+  "diferencias_de_fuente": [
+    "La comparación léxica Word/PDF no coincide: encabezados repetidos, campos Word y otras diferencias pendientes de cotejo. No equivale a pérdida del Markdown.",
+    "El control original con retirada de paginación difiere. Se conserva el resultado y se añade comparación simétrica de cifras sin retirar paginación.",
+    "Hay discrepancias en la secuencia de cifras entre los dos lectores PDF; requieren cotejo, no se reparan.",
+    "Word original .doc conservado por autorización expresa del usuario; no se fabrica original.docx."
+  ],
+  "formato_word_original": "doc",
+  "ocr_ejecutado": false,
+  "incidencias_descarga": [],
+  "promociones_encabezado_evitadas": [],
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-18T15:00:53.724268+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "decreto_numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.edicion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.seccion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "reformas",
+        "motivo": "Notas literales conservadas con todas las fechas; fecha escalar null si hay varias. Números de diario/decreto no impresos quedan null. Captura automática pendiente de revisión."
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Cláusulas expresas capturadas para cotejo; no se infieren nombres ni fechas faltantes. Revisar evidencia impresa."
+      },
+      {
+        "campo": "abroga[].po_numero",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0
+        ]
+      },
+      {
+        "campo": "abroga[].fecha",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0
+        ]
+      },
+      {
+        "campo": "abroga[].decreto",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0
+        ]
+      },
+      {
+        "campo": "abrogacion_programada",
+        "motivo": "Portada/encabezado sin declaración identificada de abrogación o término de vigencia en fecha cierta; null."
+      }
+    ],
+    "evidencia": {
+      "abroga": [
+        {
+          "pagina": 5,
+          "texto": "ARTICULO SEGUNDO.- Se abroga la Ley que crea a la Comisión Nacional de Energía Nuclear de fecha 19 de diciembre de 1955, publicada el 31 de diciembre del mismo año en el \"Diario Oficial\" de la Federación y se derogan las demás disposiciones en lo que se opongan a la presente Ley."
+        }
+      ],
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "Ley publicada en el Diario Oficial de la Federación el 26 de enero de 1950"
+      },
+      "ultima_reforma": {
+        "pagina": 1,
+        "texto": "Última Reforma DOF 12-01-1972"
+      },
+      "reformas": {
+        "pagina_inicio": 1,
+        "encabezado": null,
+        "filas": [
+          {
+            "fila": 0,
+            "texto": "Artículo derogado DOF 12-01-1972",
+            "pagina": 1
+          },
+          {
+            "fila": 1,
+            "texto": "Artículo derogado DOF 12-01-1972",
+            "pagina": 1
+          }
+        ]
+      }
+    }
+  },
+  "control_pypdf_informativo": {
+    "fuente": "Usuario; piloto aprobado en la conversación",
+    "descripcion": "pypdf fragmenta números con espacios; verificado por el usuario contra originales en 11 páginas señaladas del CFF y tres de CPEUM. Markdown generado con Poppler.",
+    "decision": "Control informativo, no bloquea lotes y no modifica textos. No se atribuye cotejo visual adicional a Codex."
+  }
+}

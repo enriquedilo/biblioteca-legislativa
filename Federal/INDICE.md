@@ -291,16 +291,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 281 | LTPCPIMCP | LEY para la Transparencia, Prevención y Combate de Prácticas Indebidas en Materia de Contratación de Publicidad | [Markdown](ordenamientos/281/versiones/84307b5cc5461adbe8173ab2a950aed8c26483abf51636899165349a1298ad6c/texto.md) · procesado_con_incidencias |
 | 282 | LTOSF | LEY para la Transparencia y Ordenamiento de los Servicios Financieros | [Markdown](ordenamientos/282/versiones/b16e3d5b2268397c2835ceee2c55e556a69f6970012ebbcffd424470e3d836ae/texto.md) · procesado_con_incidencias |
 | 283 | LRASCAP | LEY para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo | [Markdown](ordenamientos/283/versiones/52d5444ba4e0ea4c965c2e6d172d0c3fb38ea515087b2562c75714257f591e6e/texto.md) · procesado_con_incidencias |
-| 284 | LRAF | LEY para Regular las Agrupaciones Financieras | pendiente |
-| 285 | LRITF | LEY para Regular las Instituciones de Tecnología Financiera | pendiente |
-| 286 | LRSIC | LEY para Regular las Sociedades de Información Crediticia | pendiente |
-| 287 | 187_291214 | LEY que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución | pendiente |
-| 288 | 192 | LEY que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura | pendiente |
-| 289 | 193_171215 | LEY que crea el Instituto Nacional de Bellas Artes y Literatura | pendiente |
-| 290 | LAEM | LEY que crea la Agencia Espacial Mexicana | pendiente |
-| 291 | 195 | LEY que crea la Universidad Autónoma Chapingo | pendiente |
-| 292 | 196 | LEY que Crea la Universidad del Ejército y Fuerza Aérea | pendiente |
-| 293 | 197 | LEY que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se Obtengan Isótopos Hendibles que puedan Producir Energía Nuclear | pendiente |
+| 284 | LRAF | LEY para Regular las Agrupaciones Financieras | [Markdown](ordenamientos/284/versiones/a93555b5ee20599d5a4680e9359c769e2d40d6cecac1ed2b69a1cb3c077196ba/texto.md) · procesado_con_incidencias |
+| 285 | LRITF | LEY para Regular las Instituciones de Tecnología Financiera | [Markdown](ordenamientos/285/versiones/c8be66cb33242e7bba1320f8eb3372c5dfb1d86ae6975afe027d20cd9f20402d/texto.md) · procesado_con_incidencias |
+| 286 | LRSIC | LEY para Regular las Sociedades de Información Crediticia | [Markdown](ordenamientos/286/versiones/18915db62bd446b5a46a194a54db894b7e02153301fb436c0b1ec9366aaab571/texto.md) · procesado_con_incidencias |
+| 287 | 187_291214 | LEY que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución | [Markdown](ordenamientos/287/versiones/d91152530aade68bb6bbcf0f8c2eb5d882059f16c1eb2a32fdfa0cb9277a2f30/texto.md) · procesado_con_incidencias |
+| 288 | 192 | LEY que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura | [Markdown](ordenamientos/288/versiones/e070ca9ac34fcffbfae439dc168c1020035ad4c619fd55f75c7114eb2c7d78af/texto.md) · procesado_con_incidencias |
+| 289 | 193_171215 | LEY que crea el Instituto Nacional de Bellas Artes y Literatura | [Markdown](ordenamientos/289/versiones/6247b9c79febba931a775106b1950528c54e36ca40812fed0d69589bac63d55a/texto.md) · procesado_con_incidencias |
+| 290 | LAEM | LEY que crea la Agencia Espacial Mexicana | [Markdown](ordenamientos/290/versiones/de72681760ab4f6db3875d4aeef3a5c5f85ec9f6a17b452831fca2cc1a995d50/texto.md) · procesado_con_incidencias |
+| 291 | 195 | LEY que crea la Universidad Autónoma Chapingo | [Markdown](ordenamientos/291/versiones/f4b72cc0e636e514dd62bc373b2d0da32ddc3330e777accc0945a20343178c9b/texto.md) · procesado_con_incidencias |
+| 292 | 196 | LEY que Crea la Universidad del Ejército y Fuerza Aérea | [Markdown](ordenamientos/292/versiones/de75065135c9045f8c06081557ec1cc40d165f5d0f4c18e271131113847e842e/texto.md) · procesado_con_incidencias |
+| 293 | 197 | LEY que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se Obtengan Isótopos Hendibles que puedan Producir Energía Nuclear | [Markdown](ordenamientos/293/versiones/5b3f4472a6fb47f2281620de1b205a173c8a3051d892dd3c535bb720c0061955/texto.md) · procesado_con_incidencias |
 | 294 | LCCAIF | LEY que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento | pendiente |
 | 295 | 200_291214 | LEY que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo del Banco Interamericano de Desarrollo | pendiente |
 | 296 | 202 | LEY Reglamentaria de la Fracción V del Artículo 76 de la Constitución General de la República | pendiente |

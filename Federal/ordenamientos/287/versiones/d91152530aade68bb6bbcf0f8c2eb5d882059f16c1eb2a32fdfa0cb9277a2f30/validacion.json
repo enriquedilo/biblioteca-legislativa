@@ -1,0 +1,319 @@
+{
+  "id": 287,
+  "fecha_revision": "2026-09-18T15:00:49.925852+00:00",
+  "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 9,
+  "paginas_sin_texto": [],
+  "pagina_blanca_confirmada_visualmente": false,
+  "texto_conservado": true,
+  "comparacion_word_pdf": {
+    "palabras_comparadas": 2398,
+    "palabras_pdf": 2697,
+    "frecuencias_coinciden": false,
+    "orden_coincide_separando_nota_al_pie": false,
+    "nota_al_pie_reubicada_por_lector_word": null,
+    "normalizaciones_solo_comparacion": [
+      "Misma función lexical_tokens de Sinaloa; no modifica los originales ni el Markdown."
+    ],
+    "limite": "Campos Word y encabezados permanecen en el control; las diferencias se reportan sin reparación.",
+    "solo_word": {
+      "embed": 1,
+      "word": 1,
+      "picture": 1,
+      "page": 1,
+      "numpages": 1
+    },
+    "solo_pdf": {
+      "ley": 8,
+      "que": 8,
+      "aprueba": 8,
+      "la": 16,
+      "adhesión": 8,
+      "de": 48,
+      "méxico": 8,
+      "al": 8,
+      "convenio": 8,
+      "constitutivo": 8,
+      "del": 24,
+      "banco": 8,
+      "desarrollo": 8,
+      "caribe": 8,
+      "y": 8,
+      "su": 8,
+      "ejecución": 8,
+      "cámara": 8,
+      "diputados": 8,
+      "h": 8,
+      "congreso": 8,
+      "unión": 8,
+      "última": 8,
+      "reforma": 8,
+      "dof": 8,
+      "secretaría": 16,
+      "general": 8,
+      "servicios": 8,
+      "parlamentarios": 8
+    }
+  },
+  "articulos_word": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+  ],
+  "articulos_pdf": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+  ],
+  "identificadores_articulos_coinciden": true,
+  "encabezados_transitorios": [
+    {
+      "pagina": 2,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 4,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 5,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 6,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 7,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 8,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 9,
+      "encabezado": "Transitorio"
+    }
+  ],
+  "encabezados_ordinales_en_seccion_transitoria": [
+    "UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la",
+    "ARTICULO PRIMERO.- Se adiciona un segundo párrafo al artículo 4o. de la Ley que aprueba la",
+    "PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario",
+    "SEGUNDO.- La primera reposición de capital de México al Fondo Especial de Desarrollo del Banco de",
+    "ARTICULO UNICO.- Se ADICIONA un tercer párrafo al artículo 4o. de la Ley que Aprueba la",
+    "PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario",
+    "SEGUNDO.- La segunda reposición de capital de México al Fondo Especial de Desarrollo del Banco",
+    "ARTICULO UNICO. Se adiciona un segundo párrafo al artículo tercero de la Ley que Aprueba la",
+    "PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial",
+    "SEGUNDO. El Primer Incremento General del Capital Social y Suscripciones de los Países Miembros",
+    "ARTICULO UNICO.- Se adiciona un cuarto párrafo al artículo 4o. de la Ley que Aprueba la Adhesión",
+    "UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "ARTÍCULO ÚNICO.- Se reforma el artículo 4o. de la Ley que Aprueba la Adhesión de México al",
+    "Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial",
+    "Artículo Único.- Se adiciona un tercer párrafo al artículo 3o. y se reforma el artículo 4o. de la Ley que",
+    "Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial"
+  ],
+  "articulos_numericos_en_seccion_transitoria": [],
+  "transitorios_y_notas_completos_incluidos": true,
+  "paginas_cotejadas_visualmente": [],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 2503,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 2816,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 726,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 1709,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 1541,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 1591,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 1320,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 1257,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 1315,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    }
+  ],
+  "alcance": "Controles de conservación en todas las páginas; comparación de cifras con Poppler y pypdf. El cotejo visual se registra por separado. No certifica vigencia jurídica.",
+  "incidencias_resueltas": [],
+  "diferencias_de_fuente": [
+    "La comparación léxica Word/PDF no coincide: encabezados repetidos, campos Word y otras diferencias pendientes de cotejo. No equivale a pérdida del Markdown.",
+    "El control original con retirada de paginación difiere. Se conserva el resultado y se añade comparación simétrica de cifras sin retirar paginación.",
+    "Hay discrepancias en la secuencia de cifras entre los dos lectores PDF; requieren cotejo, no se reparan.",
+    "Word original .doc conservado por autorización expresa del usuario; no se fabrica original.docx."
+  ],
+  "formato_word_original": "doc",
+  "ocr_ejecutado": false,
+  "incidencias_descarga": [],
+  "promociones_encabezado_evitadas": [],
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-18T15:00:49.925852+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "decreto_numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.edicion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.seccion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "reformas",
+        "motivo": "Notas literales conservadas con todas las fechas; fecha escalar null si hay varias. Números de diario/decreto no impresos quedan null. Captura automática pendiente de revisión."
+      },
+      {
+        "campo": "abroga",
+        "motivo": "No se localizaron cláusulas con la forma expresa se abroga/queda abrogado; arreglo vacío pendiente de cotejo."
+      },
+      {
+        "campo": "abrogacion_programada",
+        "motivo": "Portada/encabezado sin declaración identificada de abrogación o término de vigencia en fecha cierta; null."
+      }
+    ],
+    "evidencia": {
+      "abroga": [],
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "LEY QUE APRUEBA LA ADHESIÓN DE MÉXICO AL CONVENIO CONSTITUTIVO DEL BANCO DE DESARROLLO DEL CARIBE Y SU EJECUCIÓN Nueva Ley publicada en el Diario Oficial de la Federación el 5 de enero de 1982"
+      },
+      "ultima_reforma": {
+        "pagina": 1,
+        "texto": "Última Reforma DOF 29-12-2014"
+      },
+      "reformas": {
+        "pagina_inicio": 1,
+        "encabezado": null,
+        "filas": [
+          {
+            "fila": 0,
+            "texto": "Párrafo adicionado DOF 04-01-1991",
+            "pagina": 1
+          },
+          {
+            "fila": 1,
+            "texto": "Párrafo adicionado DOF 29-12-2014",
+            "pagina": 2
+          },
+          {
+            "fila": 2,
+            "texto": "Artículo reformado DOF 14-01-1985, 19-01-1988, 24-12-1991, 16-06-2011, 29-12-2014",
+            "pagina": 2
+          }
+        ]
+      }
+    }
+  },
+  "control_pypdf_informativo": {
+    "fuente": "Usuario; piloto aprobado en la conversación",
+    "descripcion": "pypdf fragmenta números con espacios; verificado por el usuario contra originales en 11 páginas señaladas del CFF y tres de CPEUM. Markdown generado con Poppler.",
+    "decision": "Control informativo, no bloquea lotes y no modifica textos. No se atribuye cotejo visual adicional a Codex."
+  }
+}
