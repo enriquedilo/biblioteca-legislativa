@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T14:53:30.675857+00:00
+Actualizado: 2026-09-18T14:53:46.218581+00:00
 
-Procesados: **224/453**. Intentados: 224/453. Pendientes reportados: 0.
+Procesados: **234/453**. Intentados: 234/453. Pendientes reportados: 0.
 
-Lote 22 cerrado; publicación por commit del lote.
+Lote 23 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -32,8 +32,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 19 | 10/10 | Publicado |
 | 20 | 10/10 | Publicado |
 | 21 | 10/10 | Publicado |
-| 22 | 10/10 | Cerrado localmente |
-| 23 | 0/10 | Pendiente |
+| 22 | 10/10 | Publicado |
+| 23 | 10/10 | Cerrado localmente |
 | 24 | 0/10 | Pendiente |
 | 25 | 0/10 | Pendiente |
 | 26 | 0/10 | Pendiente |
@@ -282,16 +282,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 22 | 221 | LGVS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 22 | 222 | LGEEPA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 22 | 223 | LGSMIME | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 23 | 224 | LGSNA_200521 | pendiente | — |
-| 23 | 225 | LGSNSP | pendiente | — |
-| 23 | 226 | LGSCMM_300919 | pendiente | — |
-| 23 | 227 | LGMDE_200521 | pendiente | — |
-| 23 | 228 | LGMDFP | pendiente | — |
-| 23 | 229 | LGMHCTI | pendiente | — |
-| 23 | 230 | LGCT | pendiente | — |
-| 23 | 231 | LGAPPCEA_270516 | pendiente | — |
-| 23 | 232 | LGDOCIA_070121 | pendiente | — |
-| 23 | 233 | LGISMH | pendiente | — |
+| 23 | 224 | LGSNA_200521 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 23 | 225 | LGSNSP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 23 | 226 | LGSCMM_300919 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 23 | 227 | LGMDE_200521 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 23 | 228 | LGMDFP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 23 | 229 | LGMHCTI | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 23 | 230 | LGCT | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 23 | 231 | LGAPPCEA_270516 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 23 | 232 | LGDOCIA_070121 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 23 | 233 | LGISMH | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 24 | 234 | LGIPD | pendiente | — |
 | 24 | 235 | LGPSVD_040521 | pendiente | — |
 | 24 | 236 | LGPGIR | pendiente | — |

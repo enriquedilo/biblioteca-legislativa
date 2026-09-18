@@ -231,16 +231,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 221 | LGVS | LEY General de Vida Silvestre | [Markdown](ordenamientos/221/versiones/ec489a19131494136f8ac6537a3d2a0ead56c9837ea29f36fb390d9365249a34/texto.md) · procesado_con_incidencias |
 | 222 | LGEEPA | LEY General del Equilibrio Ecológico y la Protección al Ambiente | [Markdown](ordenamientos/222/versiones/2df7eef84a04688f0a0694497b5857016170e96c173d7ac7a4a23a21591b3a0e/texto.md) · procesado_con_incidencias |
 | 223 | LGSMIME | LEY General del Sistema de Medios de Impugnación en Materia Electoral | [Markdown](ordenamientos/223/versiones/e06ae0539e1a796d34a568f4b0485dd776b49b14bf02eddcaad73b9e48773140/texto.md) · procesado_con_incidencias |
-| 224 | LGSNA_200521 | LEY General del Sistema Nacional Anticorrupción | pendiente |
-| 225 | LGSNSP | LEY General del Sistema Nacional de Seguridad Pública | pendiente |
-| 226 | LGSCMM_300919 | LEY General del Sistema para la Carrera de las Maestras y los Maestros | pendiente |
-| 227 | LGMDE_200521 | LEY General en Materia de Delitos Electorales | pendiente |
-| 228 | LGMDFP | LEY General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas | pendiente |
-| 229 | LGMHCTI | LEY General en materia de Humanidades, Ciencias, Tecnologías e Innovación | pendiente |
-| 230 | LGCT | LEY General para el Control del Tabaco | pendiente |
-| 231 | LGAPPCEA_270516 | LEY General para la Atención y Protección a Personas con la Condición del Espectro Autista | pendiente |
-| 232 | LGDOCIA_070121 | LEY General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia | pendiente |
-| 233 | LGISMH | LEY General para la Igualdad Sustantiva entre Mujeres y Hombres | pendiente |
+| 224 | LGSNA_200521 | LEY General del Sistema Nacional Anticorrupción | [Markdown](ordenamientos/224/versiones/e0e67b0bcbdfdbc76557389c5c9e5fca20b98de31986f1b0dfdcc49ab97fa7d4/texto.md) · procesado_con_incidencias |
+| 225 | LGSNSP | LEY General del Sistema Nacional de Seguridad Pública | [Markdown](ordenamientos/225/versiones/ac10d10ec9562dbdee2efd1674b0a0bbd2354df19fd1b7496e9a8b123fda328f/texto.md) · procesado_con_incidencias |
+| 226 | LGSCMM_300919 | LEY General del Sistema para la Carrera de las Maestras y los Maestros | [Markdown](ordenamientos/226/versiones/228d108a0b6be63e6ffd1eeff14e57c5c60799646c77403d9e6224dff456611c/texto.md) · procesado_con_incidencias |
+| 227 | LGMDE_200521 | LEY General en Materia de Delitos Electorales | [Markdown](ordenamientos/227/versiones/a54adf088b529f2bd93b7474c6e694423230c64fb609a2abade1d3f5947ea9d1/texto.md) · procesado_con_incidencias |
+| 228 | LGMDFP | LEY General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas | [Markdown](ordenamientos/228/versiones/6923971b7a97027fa76c7c8aaee6325eed59c12a98503e160b1a0be394640d9e/texto.md) · procesado_con_incidencias |
+| 229 | LGMHCTI | LEY General en materia de Humanidades, Ciencias, Tecnologías e Innovación | [Markdown](ordenamientos/229/versiones/7e5eea21f02631e0df327430a37506ab830fdb138db75db456721f0cd8ed5f2b/texto.md) · procesado_con_incidencias |
+| 230 | LGCT | LEY General para el Control del Tabaco | [Markdown](ordenamientos/230/versiones/e1eb15bcd52f52d3fa2f5f9d2d96990580aeeb2d2ea10ba7b3e75b02e4124ab1/texto.md) · procesado_con_incidencias |
+| 231 | LGAPPCEA_270516 | LEY General para la Atención y Protección a Personas con la Condición del Espectro Autista | [Markdown](ordenamientos/231/versiones/8933823e87e24ed9dd20f7e7d10a1103928a3ed08d52d8ecfbf26768e02baec9/texto.md) · procesado_con_incidencias |
+| 232 | LGDOCIA_070121 | LEY General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia | [Markdown](ordenamientos/232/versiones/c9618148d12ec9b3eba146145f91c05ddd0b3bf0b004ea2b07550475b4d781a5/texto.md) · procesado_con_incidencias |
+| 233 | LGISMH | LEY General para la Igualdad Sustantiva entre Mujeres y Hombres | [Markdown](ordenamientos/233/versiones/12fc28cb22d3412cef525e04824a2ca9d2c2f6eae289a9e1864acc6391a5183f/texto.md) · procesado_con_incidencias |
 | 234 | LGIPD | LEY General para la Inclusión de las Personas con Discapacidad | pendiente |
 | 235 | LGPSVD_040521 | LEY General para la Prevención Social de la Violencia y la Delincuencia | pendiente |
 | 236 | LGPGIR | LEY General para la Prevención y Gestión Integral de los Residuos | pendiente |
