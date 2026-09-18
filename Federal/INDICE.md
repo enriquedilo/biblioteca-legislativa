@@ -351,16 +351,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 341 | Reg_LIEG | DOF 03/11/1982 | [Markdown](ordenamientos/341/versiones/af3a844239531c316f424427a833a47788e8e74492d2c72e50a48146eeaaece4/texto.md) · procesado_con_incidencias |
 | 342 | Reg_LIH | DOF 31/10/2014 | [Markdown](ordenamientos/342/versiones/d7031b8216d2408bb1eb4059303b58542f277ca45e4972e1d21965a0038a325e/texto.md) · procesado_con_incidencias |
 | 343 | Reg_LIERNIE_170816 | DOF 08/09/1998 | [Markdown](ordenamientos/343/versiones/ee3ba3ee316130e0e9121c7d89d3822c001d44780d25563129fb906e7e723d3f/texto.md) · procesado_con_incidencias |
-| 344 | Reg_LEPECFE | DOF 02/12/2025 | pendiente |
-| 345 | Reg_LEPEPM | DOF 03/12/2025 | pendiente |
-| 346 | Reg_LGN_111220 | DOF 29/06/2019 | pendiente |
-| 347 | Reg_LPF_220814 | DOF 17/05/2010 | pendiente |
-| 348 | Reg_LSAR | DOF 24/08/2009 | pendiente |
-| 349 | Reg_LMigra | DOF 28/09/2012 | pendiente |
-| 350 | Reg_LNac | DOF 17/06/2009 | pendiente |
-| 351 | Reg_LNCM_040315 | REGLAMENTO de la Ley de Navegación y Comercio Marítimos | pendiente |
-| 352 | Reg_LOPSRM | DOF 28/07/2010 | pendiente |
-| 353 | Reg_LOGan | DOF 24/12/1999 | pendiente |
+| 344 | Reg_LEPECFE | DOF 02/12/2025 | [Markdown](ordenamientos/344/versiones/0e11f7361956655792d08e6ce084f83293a2d21d9db0f1513873f6f4fa77a706/texto.md) · procesado_con_incidencias |
+| 345 | Reg_LEPEPM | DOF 03/12/2025 | [Markdown](ordenamientos/345/versiones/fb975b6dcaf9b2083077555a1edc6c1f32086507626c3111c9a03a01858bf323/texto.md) · procesado_con_incidencias |
+| 346 | Reg_LGN_111220 | DOF 29/06/2019 | [Markdown](ordenamientos/346/versiones/651f03e1d2cb28a4e08d218714dee265b035037ba84b51e6ddcca3ae47be899b/texto.md) · procesado_con_incidencias |
+| 347 | Reg_LPF_220814 | DOF 17/05/2010 | [Markdown](ordenamientos/347/versiones/d543c3ddb3816fe0cf39143ce1f6e50b9fb33047a44fdb844375b4e77902764c/texto.md) · procesado_con_incidencias |
+| 348 | Reg_LSAR | DOF 24/08/2009 | [Markdown](ordenamientos/348/versiones/a9d6c3ebad86c8714f3f54b706314a1a5635e5b99a56e3edec11148e68c8b551/texto.md) · procesado_con_incidencias |
+| 349 | Reg_LMigra | DOF 28/09/2012 | [Markdown](ordenamientos/349/versiones/355cb9d0045015d01f12c2c82783b8e6f715d7d1fe20a2e62acb96b4c35efaf4/texto.md) · procesado_con_incidencias |
+| 350 | Reg_LNac | DOF 17/06/2009 | [Markdown](ordenamientos/350/versiones/f8e29d0738e1e5dcf32aed21669d797a3bef293f7c4eb541957f603907b6b674/texto.md) · procesado_con_incidencias |
+| 351 | Reg_LNCM_040315 | REGLAMENTO de la Ley de Navegación y Comercio Marítimos | [Markdown](ordenamientos/351/versiones/d1af54ebe555804858b3d826cd206660e10f25c06d26169a4ef925c9d5636c39/texto.md) · procesado_con_incidencias |
+| 352 | Reg_LOPSRM | DOF 28/07/2010 | [Markdown](ordenamientos/352/versiones/82edbe23cc402dc63101df958757f10f376750d53d4220ee0a880fddb054a58e/texto.md) · procesado_con_incidencias |
+| 353 | Reg_LOGan | DOF 24/12/1999 | [Markdown](ordenamientos/353/versiones/071f6e8b09e015d4b96935fac60d0dbba382fe6df4db8a9638df209542a9472c/texto.md) · procesado_con_incidencias |
 | 354 | Reg_LPesca | DOF 29/09/1999 | pendiente |
 | 355 | Reg_LPTE | DOF 03/10/2025 | pendiente |
 | 356 | Reg_LPO | DOF 01/04/2010 | pendiente |

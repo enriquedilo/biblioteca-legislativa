@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T15:08:03.234504+00:00
+Actualizado: 2026-09-18T15:08:24.276777+00:00
 
-Procesados: **344/453**. Intentados: 344/453. Pendientes reportados: 0.
+Procesados: **354/453**. Intentados: 354/453. Pendientes reportados: 0.
 
-Lote 34 cerrado; publicación por commit del lote.
+Lote 35 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -44,8 +44,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 31 | 10/10 | Publicado |
 | 32 | 10/10 | Publicado |
 | 33 | 10/10 | Publicado |
-| 34 | 10/10 | Cerrado localmente |
-| 35 | 0/10 | Pendiente |
+| 34 | 10/10 | Publicado |
+| 35 | 10/10 | Cerrado localmente |
 | 36 | 0/10 | Pendiente |
 | 37 | 0/10 | Pendiente |
 | 38 | 0/10 | Pendiente |
@@ -402,16 +402,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 34 | 341 | Reg_LIEG | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 34 | 342 | Reg_LIH | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 34 | 343 | Reg_LIERNIE_170816 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 35 | 344 | Reg_LEPECFE | pendiente | — |
-| 35 | 345 | Reg_LEPEPM | pendiente | — |
-| 35 | 346 | Reg_LGN_111220 | pendiente | — |
-| 35 | 347 | Reg_LPF_220814 | pendiente | — |
-| 35 | 348 | Reg_LSAR | pendiente | — |
-| 35 | 349 | Reg_LMigra | pendiente | — |
-| 35 | 350 | Reg_LNac | pendiente | — |
-| 35 | 351 | Reg_LNCM_040315 | pendiente | — |
-| 35 | 352 | Reg_LOPSRM | pendiente | — |
-| 35 | 353 | Reg_LOGan | pendiente | — |
+| 35 | 344 | Reg_LEPECFE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 35 | 345 | Reg_LEPEPM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 35 | 346 | Reg_LGN_111220 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 35 | 347 | Reg_LPF_220814 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 35 | 348 | Reg_LSAR | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 35 | 349 | Reg_LMigra | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 35 | 350 | Reg_LNac | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 35 | 351 | Reg_LNCM_040315 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 35 | 352 | Reg_LOPSRM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 35 | 353 | Reg_LOGan | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 36 | 354 | Reg_LPesca | pendiente | — |
 | 36 | 355 | Reg_LPTE | pendiente | — |
 | 36 | 356 | Reg_LPO | pendiente | — |
