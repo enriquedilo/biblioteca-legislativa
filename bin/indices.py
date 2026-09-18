@@ -12,7 +12,7 @@ import json, os, re, sys, sqlite3, unicodedata
 from datetime import datetime, timezone
 
 RAIZ = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
-ENTIDADES_CONOCIDAS = ("Sinaloa", "Nayarit")
+ENTIDADES_CONOCIDAS = ("Sinaloa", "Nayarit", "Federal")
 ENTIDAD = "Sinaloa"
 SIN = os.path.join(RAIZ, ENTIDAD)
 ORD = os.path.join(SIN, "ordenamientos")
@@ -69,6 +69,21 @@ RE_ART_ORDINAL = re.compile(r"^\**\s*ART[IÍ]CULO\s+(" + "|".join(ORDINALES) + r
 RE_NOTA = re.compile(
     r"\((?:\s*)((?:Ref|Adic|Der|Reformad|Adicionad|Derogad|Fe\s+de\s+erratas)[^)]{0,300}?)\)",
     re.IGNORECASE | re.DOTALL)
+# Formato federal (Camara de Diputados): la nota va sin parentesis y pegada al
+# final del parrafo, con una o varias fechas DOF.
+#   "Parrafo reformado DOF 30-09-2024"
+#   "Articulo reformado DOF 20-12-1991, 18-12-1992, 28-12-1994"
+RE_NOTA_DOF = re.compile(
+    r"((?:Art[ií]culo|P[áa]rrafo|Fracci[óo]n|Inciso|Apartado|Denominaci[óo]n|"
+    r"Cap[ií]tulo|Secci[óo]n|T[ií]tulo|Libro|Ep[ií]grafe|Ap[ée]ndice)"
+    r"[^.]{0,90}?"
+    r"(?:reformad[oa]|adicionad[oa]|derogad[oa]|recorrid[oa]|reubicad[oa]|"
+    r"renumerad[oa]|fe\s+de\s+erratas)"
+    r"[^.]{0,60}?"
+    r"DOF\s+((?:\d{2}-\d{2}-\d{4}(?:\s*,\s*)?)+))",
+    re.IGNORECASE)
+RE_FECHA_DOF = re.compile(r"(\d{2})-(\d{2})-(\d{4})")
+
 RE_DEC = re.compile(r"Dec(?:reto)?\.?\s*(?:No\.?|N[uú]m\.?)?\s*([0-9]{1,4})", re.IGNORECASE)
 RE_PO = re.compile(r"P\.?\s*O\.?\s*(?:No\.?|N[uú]m\.?)?\s*([0-9]{1,4})", re.IGNORECASE)
 RE_FECHA = re.compile(r"([0-9]{1,2})\s*de\s*([A-Za-zÁÉÍÓÚáéíóúü]+)\s*(?:de[l]?\s*)?([0-9]{4})", re.IGNORECASE)
@@ -105,6 +120,36 @@ def tipo_nota(txt):
     return "otra"
 
 
+def parse_notas_dof(bloque):
+    """Notas al estilo federal: sin parentesis, con una o varias fechas DOF."""
+    out, vistos = [], set()
+    for m in RE_NOTA_DOF.finditer(bloque):
+        crudo = " ".join(m.group(1).split())
+        fechas = []
+        for d, mes, a in RE_FECHA_DOF.findall(m.group(2)):
+            try:
+                fechas.append(datetime(int(a), int(mes), int(d)).strftime("%Y-%m-%d"))
+            except ValueError:
+                pass
+        if not fechas:
+            continue
+        t = sin_acentos(crudo)
+        tipo = ("fe_de_erratas" if "fe de erratas" in t else
+                "adicion" if "adicionad" in t else
+                "derogacion" if "derogad" in t else
+                "reforma" if "reformad" in t else "otra")
+        ambito = sin_acentos(crudo.split()[0])
+        for f in fechas:
+            clave = (tipo, ambito, f)
+            if clave in vistos:
+                continue
+            vistos.add(clave)
+            out.append({"tipo": tipo, "ambito": ambito, "decreto": None,
+                        "po_numero": None, "fecha": f, "diario": "DOF",
+                        "nota": crudo[:300]})
+    return out
+
+
 def parse_notas(bloque):
     out, vistos = [], set()
     for m in RE_NOTA.finditer(bloque):
@@ -123,6 +168,8 @@ def parse_notas(bloque):
             continue
         vistos.add(clave)
         out.append(reg)
+    if not out:
+        out = parse_notas_dof(bloque)
     return out
 
 
