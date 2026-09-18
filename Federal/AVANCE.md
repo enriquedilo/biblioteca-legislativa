@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T03:05:41.726096+00:00
+Actualizado: 2026-09-18T14:26:33.390318+00:00
 
-Procesados: **154/453**. Intentados: 154/453. Pendientes reportados: 0.
+Procesados: **164/453**. Intentados: 164/453. Pendientes reportados: 0.
 
-Lote 15 publicado; corte 11–15 verificado. Metadata ajustada en los 29 documentos indicados por los criterios del usuario. Próximo lote: 16.
+Lote 16 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -26,7 +26,7 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 13 | 10/10 | Publicado |
 | 14 | 10/10 | Publicado |
 | 15 | 10/10 | Publicado |
-| 16 | 0/10 | Pendiente |
+| 16 | 10/10 | Cerrado localmente |
 | 17 | 0/10 | Pendiente |
 | 18 | 0/10 | Pendiente |
 | 19 | 0/10 | Pendiente |
@@ -211,16 +211,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 15 | 150 | LFTSE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 15 | 151 | LFPRH | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 15 | 152 | LFPA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 16 | 153 | LFPCA | pendiente | — |
-| 16 | 154 | LFPCCS_110518 | pendiente | — |
-| 16 | 155 | LFPPI | pendiente | — |
-| 16 | 156 | LFPC | pendiente | — |
-| 16 | 157 | LFPDPPP | pendiente | — |
-| 16 | 158 | LFPPCPCIA | pendiente | — |
-| 16 | 159 | LFRemSP_190521 | pendiente | — |
-| 16 | 160 | LFRA | pendiente | — |
-| 16 | 161 | LFRPE | pendiente | — |
-| 16 | 162 | LFRSP | pendiente | — |
+| 16 | 153 | LFPCA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 16 | 154 | LFPCCS_110518 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 16 | 155 | LFPPI | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 16 | 156 | LFPC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 16 | 157 | LFPDPPP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 16 | 158 | LFPPCPCIA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 16 | 159 | LFRemSP_190521 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 16 | 160 | LFRA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 16 | 161 | LFRPE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 16 | 162 | LFRSP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 17 | 163 | LFRM | pendiente | — |
 | 17 | 164 | LFSA | pendiente | — |
 | 17 | 165 | LFSV | pendiente | — |

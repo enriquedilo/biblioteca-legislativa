@@ -160,16 +160,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 150 | LFTSE | LEY Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional | [Markdown](ordenamientos/150/versiones/5cb684dae1cac9255cc0f42722096d61e6d32795aab0644c1443d04a109fad75/texto.md) · procesado_con_incidencias |
 | 151 | LFPRH | LEY Federal de Presupuesto y Responsabilidad Hacendaria | [Markdown](ordenamientos/151/versiones/42ce6733852ab2d29314d8d9e95c0080ea5e250425668d84ef7d1c36662fc502/texto.md) · procesado_con_incidencias |
 | 152 | LFPA | LEY Federal de Procedimiento Administrativo | [Markdown](ordenamientos/152/versiones/07ad91251ebf0c82dda13291295e9a6764920a3864d57213e960468cfd5b85f5/texto.md) · procesado_con_incidencias |
-| 153 | LFPCA | LEY Federal de Procedimiento Contencioso Administrativo | pendiente |
-| 154 | LFPCCS_110518 | LEY Federal de Producción, Certificación y Comercio de Semillas | pendiente |
-| 155 | LFPPI | LEY Federal de Protección a la Propiedad Industrial | pendiente |
-| 156 | LFPC | LEY Federal de Protección al Consumidor | pendiente |
-| 157 | LFPDPPP | LEY Federal de Protección de Datos Personales en Posesión de los Particulares | pendiente |
-| 158 | LFPPCPCIA | Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas | pendiente |
-| 159 | LFRemSP_190521 | LEY Federal de Remuneraciones de los Servidores Públicos | pendiente |
-| 160 | LFRA | LEY Federal de Responsabilidad Ambiental | pendiente |
-| 161 | LFRPE | LEY Federal de Responsabilidad Patrimonial del Estado | pendiente |
-| 162 | LFRSP | LEY Federal de Responsabilidades de los Servidores Públicos | pendiente |
+| 153 | LFPCA | LEY Federal de Procedimiento Contencioso Administrativo | [Markdown](ordenamientos/153/versiones/3ddf4b9ad542d5af21f9df5255d69ffd1b4eafb70e0e2a8d620375190fabfa79/texto.md) · procesado_con_incidencias |
+| 154 | LFPCCS_110518 | LEY Federal de Producción, Certificación y Comercio de Semillas | [Markdown](ordenamientos/154/versiones/c225c073c64fbe799792ca5b440eff6cc1fd80a8174168daba1af69427807d9e/texto.md) · procesado_con_incidencias |
+| 155 | LFPPI | LEY Federal de Protección a la Propiedad Industrial | [Markdown](ordenamientos/155/versiones/ff5d1930630388615cf0db8f48c0419afd21ad900701c6a7c0ef200ae276a3af/texto.md) · procesado_con_incidencias |
+| 156 | LFPC | LEY Federal de Protección al Consumidor | [Markdown](ordenamientos/156/versiones/e64ab20a63c71f79d51863e21f0ea3b4f72dfa38bc93e6e15f039c1a6ca39da5/texto.md) · procesado_con_incidencias |
+| 157 | LFPDPPP | LEY Federal de Protección de Datos Personales en Posesión de los Particulares | [Markdown](ordenamientos/157/versiones/102f5e04532d4b02ba6996b7fad172a63e1bb7cab213e1a949d8f9cc8089b1b0/texto.md) · procesado_con_incidencias |
+| 158 | LFPPCPCIA | Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas | [Markdown](ordenamientos/158/versiones/0554a08b21c71e6e21f5cbc351796bb838a23a0838ce047cffa8525c2d4888db/texto.md) · procesado_con_incidencias |
+| 159 | LFRemSP_190521 | LEY Federal de Remuneraciones de los Servidores Públicos | [Markdown](ordenamientos/159/versiones/9aa930ab86dfc72028440d815c589de502e5c829783b7beaf93e274f602b0902/texto.md) · procesado_con_incidencias |
+| 160 | LFRA | LEY Federal de Responsabilidad Ambiental | [Markdown](ordenamientos/160/versiones/ff28007e82e2705e08e877e9803a10ca7271c7df4da453e1ccfb004900024d00/texto.md) · procesado_con_incidencias |
+| 161 | LFRPE | LEY Federal de Responsabilidad Patrimonial del Estado | [Markdown](ordenamientos/161/versiones/3edfaa1340056595624d74aaacb757a2550f0dd74c07cedaed82902c46ba13c4/texto.md) · procesado_con_incidencias |
+| 162 | LFRSP | LEY Federal de Responsabilidades de los Servidores Públicos | [Markdown](ordenamientos/162/versiones/a6bc49f02e03fcde73f9e9bf7568f10fd500b8fc5cecc8f9481a519516eee04d/texto.md) · procesado_con_incidencias |
 | 163 | LFRM | LEY Federal de Revocación de Mandato | pendiente |
 | 164 | LFSA | LEY Federal de Sanidad Animal | pendiente |
 | 165 | LFSV | LEY Federal de Sanidad Vegetal | pendiente |
