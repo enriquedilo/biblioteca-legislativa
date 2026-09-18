@@ -241,16 +241,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 231 | LGAPPCEA_270516 | LEY General para la Atención y Protección a Personas con la Condición del Espectro Autista | [Markdown](ordenamientos/231/versiones/8933823e87e24ed9dd20f7e7d10a1103928a3ed08d52d8ecfbf26768e02baec9/texto.md) · procesado_con_incidencias |
 | 232 | LGDOCIA_070121 | LEY General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia | [Markdown](ordenamientos/232/versiones/c9618148d12ec9b3eba146145f91c05ddd0b3bf0b004ea2b07550475b4d781a5/texto.md) · procesado_con_incidencias |
 | 233 | LGISMH | LEY General para la Igualdad Sustantiva entre Mujeres y Hombres | [Markdown](ordenamientos/233/versiones/12fc28cb22d3412cef525e04824a2ca9d2c2f6eae289a9e1864acc6391a5183f/texto.md) · procesado_con_incidencias |
-| 234 | LGIPD | LEY General para la Inclusión de las Personas con Discapacidad | pendiente |
-| 235 | LGPSVD_040521 | LEY General para la Prevención Social de la Violencia y la Delincuencia | pendiente |
-| 236 | LGPGIR | LEY General para la Prevención y Gestión Integral de los Residuos | pendiente |
-| 237 | LGPIST | LEY General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes | pendiente |
-| 238 | LGPISDME | Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos | pendiente |
-| 239 | LGPSEDMTP | LEY General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos | pendiente |
-| 240 | LGPSDMS_200521 | LEY General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos | pendiente |
-| 241 | LMEUM | LEY Monetaria de los Estados Unidos Mexicanos | pendiente |
-| 242 | LNEP | LEY Nacional de Ejecución Penal | pendiente |
-| 243 | LNED | LEY Nacional de Extinción de Dominio | pendiente |
+| 234 | LGIPD | LEY General para la Inclusión de las Personas con Discapacidad | [Markdown](ordenamientos/234/versiones/22d5a355d20ee71944e6aaead022af6d41aaf7a23f7bedf2037b7d945f93dac4/texto.md) · procesado_con_incidencias |
+| 235 | LGPSVD_040521 | LEY General para la Prevención Social de la Violencia y la Delincuencia | [Markdown](ordenamientos/235/versiones/1284aab111f4322ea04ca78b07e813937a1b666ba75d25f6dc36e5ed95f75a5c/texto.md) · procesado_con_incidencias |
+| 236 | LGPGIR | LEY General para la Prevención y Gestión Integral de los Residuos | [Markdown](ordenamientos/236/versiones/4fbc1a7e1b6f83c6dc1ae83b15dbd65b9fa96a9c42c23742d139f11d7f7fc997/texto.md) · procesado_con_incidencias |
+| 237 | LGPIST | LEY General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes | [Markdown](ordenamientos/237/versiones/20b30334c7e7eb9ed4c82ad980e8c2b7dd30250e08d6cff96e34b3b83283e07d/texto.md) · procesado_con_incidencias |
+| 238 | LGPISDME | Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos | [Markdown](ordenamientos/238/versiones/276bd3ab813a434c652317d0eef1f322ed04c1d09dd8b0a4bf3f03432385e551/texto.md) · procesado_con_incidencias |
+| 239 | LGPSEDMTP | LEY General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos | [Markdown](ordenamientos/239/versiones/13b11acacdcccb2c4c8b4daa3051e9f9ca465e1201735022d49aa14af16ca6d2/texto.md) · procesado_con_incidencias |
+| 240 | LGPSDMS_200521 | LEY General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos | [Markdown](ordenamientos/240/versiones/60be9104c3d4352849e547b2926c7ae84ac8eaa5f76159d3afe2cce0e4d5c44c/texto.md) · procesado_con_incidencias |
+| 241 | LMEUM | LEY Monetaria de los Estados Unidos Mexicanos | [Markdown](ordenamientos/241/versiones/305fe4cadd3ae83c2b03818e4cd40612b9cc3a247b91b7c685312a7ec1b4e411/texto.md) · procesado_con_incidencias |
+| 242 | LNEP | LEY Nacional de Ejecución Penal | [Markdown](ordenamientos/242/versiones/6cbab2c947d1b98ea35256934d3137ed4782a36030fcd06b2db7420bf2c33bc6/texto.md) · procesado_con_incidencias |
+| 243 | LNED | LEY Nacional de Extinción de Dominio | [Markdown](ordenamientos/243/versiones/3cf0078e4ff9a9fbe65dd9335c20c79c6007f665683355a3359a9258568a0be4/texto.md) · procesado_con_incidencias |
 | 244 | LNMASCMP | LEY Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal | pendiente |
 | 245 | LNRD_270519 | LEY Nacional del Registro de Detenciones | pendiente |
 | 246 | LNSIJPA | LEY Nacional del Sistema Integral de Justicia Penal para Adolescentes | pendiente |
