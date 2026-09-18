@@ -150,16 +150,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 140 | LFCPo_190521 | LEY Federal de Consulta Popular | [Markdown](ordenamientos/140/versiones/d9e526e655b2a329b42ad30b1fe03becf7a143269972cebe942ab2be4b5b1906/texto.md) · procesado_con_incidencias |
 | 141 | 105 | LEY Federal de Correduría Pública | [Markdown](ordenamientos/141/versiones/d40a0760eea8014b95310fce34e6d5aa829b1d435f06302cc2e1d8943eae6cad/texto.md) · procesado_con_incidencias |
 | 142 | LFDEAPD | LEY Federal de Declaración Especial de Ausencia para Personas Desaparecidas | [Markdown](ordenamientos/142/versiones/86794e0a657c0ba0e15ddac185e9628492a85c37532a5f48acd2be97faf7647b/texto.md) · procesado_con_incidencias |
-| 143 | LFDefP | LEY Federal de Defensoría Pública | pendiente |
-| 144 | LFD | LEY Federal de Derechos | pendiente |
-| 145 | 136_300118 | LEY Federal de Deuda Pública | pendiente |
-| 146 | LFFAOSC | LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil | pendiente |
-| 147 | 109 | LEY Federal de Juegos y Sorteos | pendiente |
-| 148 | LFEP | LEY Federal de las Entidades Paraestatales | pendiente |
-| 149 | LFDC | LEY Federal de los Derechos del Contribuyente | pendiente |
-| 150 | LFTSE | LEY Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional | pendiente |
-| 151 | LFPRH | LEY Federal de Presupuesto y Responsabilidad Hacendaria | pendiente |
-| 152 | LFPA | LEY Federal de Procedimiento Administrativo | pendiente |
+| 143 | LFDefP | LEY Federal de Defensoría Pública | [Markdown](ordenamientos/143/versiones/2a1103b707f0761fd46580342e39af993bfa926b95ed8cc56c30f6f29c437dac/texto.md) · procesado_con_incidencias |
+| 144 | LFD | LEY Federal de Derechos | [Markdown](ordenamientos/144/versiones/c6f0e314d880fa539503ef678272516e5100607aac7bef963e957f5eaab9b8ed/texto.md) · procesado_con_incidencias |
+| 145 | 136_300118 | LEY Federal de Deuda Pública | [Markdown](ordenamientos/145/versiones/8ecfd0db2399842c14458ea76df1a3a1058ca7272190f888f8d4993e9cc5aa7b/texto.md) · procesado_con_incidencias |
+| 146 | LFFAOSC | LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil | [Markdown](ordenamientos/146/versiones/55515c17bfc61496b8f7f443ce698f0c244fe7fd5d20df2e2d363e75a847d754/texto.md) · procesado_con_incidencias |
+| 147 | 109 | LEY Federal de Juegos y Sorteos | [Markdown](ordenamientos/147/versiones/51dac64d86a67a6ba25976f1ff391faee36435a38371284600c56892d6b0f98b/texto.md) · procesado_con_incidencias |
+| 148 | LFEP | LEY Federal de las Entidades Paraestatales | [Markdown](ordenamientos/148/versiones/891dadacaca07c8ee68a6c75549eecdbd21ac814ab75fbffcba075f11982361d/texto.md) · procesado_con_incidencias |
+| 149 | LFDC | LEY Federal de los Derechos del Contribuyente | [Markdown](ordenamientos/149/versiones/e38cb6090d3fbd40a711917381f3f7df895f3fef97920d9c22dec54bd3378825/texto.md) · procesado_con_incidencias |
+| 150 | LFTSE | LEY Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional | [Markdown](ordenamientos/150/versiones/5cb684dae1cac9255cc0f42722096d61e6d32795aab0644c1443d04a109fad75/texto.md) · procesado_con_incidencias |
+| 151 | LFPRH | LEY Federal de Presupuesto y Responsabilidad Hacendaria | [Markdown](ordenamientos/151/versiones/42ce6733852ab2d29314d8d9e95c0080ea5e250425668d84ef7d1c36662fc502/texto.md) · procesado_con_incidencias |
+| 152 | LFPA | LEY Federal de Procedimiento Administrativo | [Markdown](ordenamientos/152/versiones/07ad91251ebf0c82dda13291295e9a6764920a3864d57213e960468cfd5b85f5/texto.md) · procesado_con_incidencias |
 | 153 | LFPCA | LEY Federal de Procedimiento Contencioso Administrativo | pendiente |
 | 154 | LFPCCS_110518 | LEY Federal de Producción, Certificación y Comercio de Semillas | pendiente |
 | 155 | LFPPI | LEY Federal de Protección a la Propiedad Industrial | pendiente |
