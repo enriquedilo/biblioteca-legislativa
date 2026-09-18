@@ -341,16 +341,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 331 | Reg_LBOGM | DOF 19/03/2008 | [Markdown](ordenamientos/331/versiones/edd786bb4f3d13d9beff9f907d5768621619ea6680053ad3f14a5bfe9f487bcc/texto.md) · procesado_con_incidencias |
 | 332 | Reg_LCEC | DOF 09/02/2012 | [Markdown](ordenamientos/332/versiones/8a55673fa5f1b1b50e4404c933e1aa253032a270522c6d8f157e762822b4da39/texto.md) · procesado_con_incidencias |
 | 333 | Reg_LCE | DOF 30/12/1993 | [Markdown](ordenamientos/333/versiones/b4d18e32886cfa0e00a6d2037a9592f4db30f4a16ad0b2165f7fae55c9dfcc54/texto.md) · procesado_con_incidencias |
-| 334 | Reg_LDRS_MOIRSSE | REGLAMENTO de la Ley de Desarrollo Rural Sustentable en Materia de Organismos, Instancias de Representación, Sistemas y Servicios Especializados | pendiente |
-| 335 | Reg_LEMEFAGN | DOF 14/08/2006 | pendiente |
-| 336 | Reg_LEN_270120 | DOF 27/01/2020 | pendiente |
-| 337 | Reg_LECampo | REGLAMENTO de la Ley de Energía para el Campo | pendiente |
-| 338 | Reg_LFEA | REGLAMENTO de la Ley de Firma Electrónica Avanzada | pendiente |
-| 339 | Reg_LFLL | REGLAMENTO de la Ley de Fomento para la Lectura y el Libro | pendiente |
-| 340 | Reg_LGeo | DOF 03/10/2025 | pendiente |
-| 341 | Reg_LIEG | DOF 03/11/1982 | pendiente |
-| 342 | Reg_LIH | DOF 31/10/2014 | pendiente |
-| 343 | Reg_LIERNIE_170816 | DOF 08/09/1998 | pendiente |
+| 334 | Reg_LDRS_MOIRSSE | REGLAMENTO de la Ley de Desarrollo Rural Sustentable en Materia de Organismos, Instancias de Representación, Sistemas y Servicios Especializados | [Markdown](ordenamientos/334/versiones/7a2fdb99ce0c451001e042c2fb1785d702822823b976473f8371d782dde863cc/texto.md) · procesado_con_incidencias |
+| 335 | Reg_LEMEFAGN | DOF 14/08/2006 | [Markdown](ordenamientos/335/versiones/09924a5c213f4afd574c83511ea0be785e064a3fde91a13ee7f3ad7a7f5939a1/texto.md) · procesado_con_incidencias |
+| 336 | Reg_LEN_270120 | DOF 27/01/2020 | [Markdown](ordenamientos/336/versiones/93d4bc24a01d5e3246a752c30eecf7b2571f112316fa49ae0cb462f7c7761eb9/texto.md) · procesado_con_incidencias |
+| 337 | Reg_LECampo | REGLAMENTO de la Ley de Energía para el Campo | [Markdown](ordenamientos/337/versiones/f4a463f5940c0584403d8089e713428d0de303a850e377e681b0235afea3b5aa/texto.md) · procesado_con_incidencias |
+| 338 | Reg_LFEA | REGLAMENTO de la Ley de Firma Electrónica Avanzada | [Markdown](ordenamientos/338/versiones/35f4357ad02546e65c81a292248beddd316698384b9574b1666caa205efa84e6/texto.md) · procesado_con_incidencias |
+| 339 | Reg_LFLL | REGLAMENTO de la Ley de Fomento para la Lectura y el Libro | [Markdown](ordenamientos/339/versiones/d2beb2d2385e169456bec85992228920abc3c8c9ce279ca84da99c992c5d7361/texto.md) · procesado_con_incidencias |
+| 340 | Reg_LGeo | DOF 03/10/2025 | [Markdown](ordenamientos/340/versiones/f9d3fd95b3b1d5c22f0acd7b9b8ab628d85f4f35cefca184b16c7938483ccc4a/texto.md) · procesado_con_incidencias |
+| 341 | Reg_LIEG | DOF 03/11/1982 | [Markdown](ordenamientos/341/versiones/af3a844239531c316f424427a833a47788e8e74492d2c72e50a48146eeaaece4/texto.md) · procesado_con_incidencias |
+| 342 | Reg_LIH | DOF 31/10/2014 | [Markdown](ordenamientos/342/versiones/d7031b8216d2408bb1eb4059303b58542f277ca45e4972e1d21965a0038a325e/texto.md) · procesado_con_incidencias |
+| 343 | Reg_LIERNIE_170816 | DOF 08/09/1998 | [Markdown](ordenamientos/343/versiones/ee3ba3ee316130e0e9121c7d89d3822c001d44780d25563129fb906e7e723d3f/texto.md) · procesado_con_incidencias |
 | 344 | Reg_LEPECFE | DOF 02/12/2025 | pendiente |
 | 345 | Reg_LEPEPM | DOF 03/12/2025 | pendiente |
 | 346 | Reg_LGN_111220 | DOF 29/06/2019 | pendiente |
