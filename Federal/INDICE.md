@@ -190,16 +190,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 180 | LFPED | LEY Federal para Prevenir y Eliminar la Discriminación | [Markdown](ordenamientos/180/versiones/7fc626d71427ef6a391eed6841fefde66dd8fad52cf345cb00ddd064bd34ab9f/texto.md) · procesado_con_incidencias |
 | 181 | LFPSDMH | LEY Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos | [Markdown](ordenamientos/181/versiones/e5a6edfac44928f895b2558c1febfe0d194454607b6eedad1d722464de927beb/texto.md) · procesado_con_incidencias |
 | 182 | LFMZAAH | LEY Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos | [Markdown](ordenamientos/182/versiones/0ac28917135a7c4e826c6e0dd3ebcad5adf2d9da93eb93722ee16507f08cb0b6/texto.md) · procesado_con_incidencias |
-| 183 | LGAMVLV | LEY General de Acceso de las Mujeres a una Vida Libre de Violencias | pendiente |
-| 184 | LGAg | LEY General de Aguas | pendiente |
-| 185 | LGA | LEY General de Archivos | pendiente |
-| 186 | LGAHOTDU | LEY General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano | pendiente |
-| 187 | LGB | LEY General de Bibliotecas | pendiente |
-| 188 | LGBN | LEY General de Bienes Nacionales | pendiente |
-| 189 | LGCC | LEY General de Cambio Climático | pendiente |
-| 190 | LGCS | LEY General de Comunicación Social | pendiente |
-| 191 | LGCG | LEY General de Contabilidad Gubernamental | pendiente |
-| 192 | LGCFD | LEY General de Cultura Física y Deporte | pendiente |
+| 183 | LGAMVLV | LEY General de Acceso de las Mujeres a una Vida Libre de Violencias | [Markdown](ordenamientos/183/versiones/e9e4849114bb4782135d74ed1c60b8ed78e9256ce381b5a52323c10d0208a6bb/texto.md) · procesado_con_incidencias |
+| 184 | LGAg | LEY General de Aguas | [Markdown](ordenamientos/184/versiones/aa68d02a2b635db2814a3c5baf5d08d9a793241c1ed9075ecc5923c1172fc3a5/texto.md) · procesado_con_incidencias |
+| 185 | LGA | LEY General de Archivos | [Markdown](ordenamientos/185/versiones/be48971f635cfb96927faf9f1854fa389b2738c9570e2ed9346b17dc097e21fb/texto.md) · procesado_con_incidencias |
+| 186 | LGAHOTDU | LEY General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano | [Markdown](ordenamientos/186/versiones/175c25b0c91bf2ec5f2bd4e61ceff2c5f78556320358bd263979fd6809ae53ef/texto.md) · procesado_con_incidencias |
+| 187 | LGB | LEY General de Bibliotecas | [Markdown](ordenamientos/187/versiones/b660ad376910c3cf1bc4234e34dd3d0710015c78f4e7bb34911eabdbd05dee92/texto.md) · procesado_con_incidencias |
+| 188 | LGBN | LEY General de Bienes Nacionales | [Markdown](ordenamientos/188/versiones/2ee0fee30580734db67a215e5dfa4f7097a90d32bb5f0255bbee39f39fd56063/texto.md) · procesado_con_incidencias |
+| 189 | LGCC | LEY General de Cambio Climático | [Markdown](ordenamientos/189/versiones/ce7206376cac1522070c0124db831adda6a364489d1c8693bb0741431b4b54a5/texto.md) · procesado_con_incidencias |
+| 190 | LGCS | LEY General de Comunicación Social | [Markdown](ordenamientos/190/versiones/be0519d7cf6c4553034b40edf5f2edfea03c5e19b422003c6713c8710092ee30/texto.md) · procesado_con_incidencias |
+| 191 | LGCG | LEY General de Contabilidad Gubernamental | [Markdown](ordenamientos/191/versiones/72652151ed8fb61d863270822ca80e15338e65869d33343b5bda08cb9e0f4df7/texto.md) · procesado_con_incidencias |
+| 192 | LGCFD | LEY General de Cultura Física y Deporte | [Markdown](ordenamientos/192/versiones/ffde1960969583fa4348eab709f899f6e3ead8ba1fcb40e5a3628919da23c26f/texto.md) · procesado_con_incidencias |
 | 193 | LGCDC | LEY General de Cultura y Derechos Culturales | pendiente |
 | 194 | LGDLPI | LEY General de Derechos Lingüísticos de los Pueblos Indígenas | pendiente |
 | 195 | LGDFS | LEY General de Desarrollo Forestal Sustentable | pendiente |

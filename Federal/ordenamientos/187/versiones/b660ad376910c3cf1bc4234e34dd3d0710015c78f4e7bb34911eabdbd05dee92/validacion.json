@@ -1,0 +1,430 @@
+{
+  "id": 187,
+  "fecha_revision": "2026-09-18T14:27:22.115961+00:00",
+  "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 13,
+  "paginas_sin_texto": [],
+  "pagina_blanca_confirmada_visualmente": false,
+  "texto_conservado": true,
+  "comparacion_word_pdf": {
+    "palabras_comparadas": 4848,
+    "palabras_pdf": 5111,
+    "frecuencias_coinciden": false,
+    "orden_coincide_separando_nota_al_pie": false,
+    "nota_al_pie_reubicada_por_lector_word": null,
+    "normalizaciones_solo_comparacion": [
+      "Misma función lexical_tokens de Sinaloa; no modifica los originales ni el Markdown."
+    ],
+    "limite": "Campos Word y encabezados permanecen en el control; las diferencias se reportan sin reparación.",
+    "solo_word": {
+      "diario": 1,
+      "oficial": 1,
+      "junio": 1,
+      "page": 2,
+      "mergeformat": 1,
+      "martes": 1,
+      "embed": 1,
+      "word": 1,
+      "picture": 1,
+      "numpages": 1
+    },
+    "solo_pdf": {
+      "ley": 12,
+      "general": 24,
+      "de": 58,
+      "bibliotecas": 12,
+      "cámara": 12,
+      "diputados": 12,
+      "del": 12,
+      "h": 12,
+      "congreso": 12,
+      "la": 12,
+      "unión": 12,
+      "última": 12,
+      "reforma": 12,
+      "dof": 12,
+      "secretaría": 24,
+      "servicios": 12,
+      "parlamentarios": 12
+    }
+  },
+  "articulos_word": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "34bis",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+  ],
+  "articulos_pdf": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "34bis",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+  ],
+  "identificadores_articulos_coinciden": true,
+  "encabezados_transitorios": [
+    {
+      "pagina": 12,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 13,
+      "encabezado": "Transitorios"
+    }
+  ],
+  "encabezados_ordinales_en_seccion_transitoria": [
+    "Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de",
+    "Segundo. Se abroga la Ley General de Bibliotecas publicada en el Diario Oficial de la Federación el",
+    "Tercero. Se abroga el Decreto que dispone la obligación de los editores y productores de materiales",
+    "Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto",
+    "Artículo Único.- Se reforman los artículos 33, 39 y 43 y se adiciona un artículo 34 Bis de la Ley",
+    "Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "Segundo.- El Poder Ejecutivo tendrá hasta 120 días para la expedición del reglamento de la Ley."
+  ],
+  "articulos_numericos_en_seccion_transitoria": [],
+  "transitorios_y_notas_completos_incluidos": true,
+  "paginas_cotejadas_visualmente": [],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 1691,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 2807,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 2815,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 14,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 2743,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 2103,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 2467,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 2469,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 13,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 2583,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 2315,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 2052,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 11,
+      "caracteres_no_blancos": 2235,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 12,
+      "caracteres_no_blancos": 2826,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 13,
+      "caracteres_no_blancos": 1210,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    }
+  ],
+  "alcance": "Controles de conservación en todas las páginas; comparación de cifras con Poppler y pypdf. El cotejo visual se registra por separado. No certifica vigencia jurídica.",
+  "incidencias_resueltas": [],
+  "diferencias_de_fuente": [
+    "La comparación léxica Word/PDF no coincide: encabezados repetidos, campos Word y otras diferencias pendientes de cotejo. No equivale a pérdida del Markdown.",
+    "El control original con retirada de paginación difiere. Se conserva el resultado y se añade comparación simétrica de cifras sin retirar paginación.",
+    "Hay discrepancias en la secuencia de cifras entre los dos lectores PDF; requieren cotejo, no se reparan.",
+    "Word original .doc conservado por autorización expresa del usuario; no se fabrica original.docx."
+  ],
+  "formato_word_original": "doc",
+  "ocr_ejecutado": false,
+  "incidencias_descarga": [],
+  "promociones_encabezado_evitadas": [],
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-18T14:27:22.115961+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "decreto_numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.edicion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.seccion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "reformas",
+        "motivo": "Notas literales conservadas con todas las fechas; fecha escalar null si hay varias. Números de diario/decreto no impresos quedan null. Captura automática pendiente de revisión."
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Cláusulas expresas capturadas para cotejo; no se infieren nombres ni fechas faltantes. Revisar evidencia impresa."
+      },
+      {
+        "campo": "abroga[].nombre",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          1
+        ]
+      },
+      {
+        "campo": "abroga[].po_numero",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0,
+          1
+        ]
+      },
+      {
+        "campo": "abroga[].decreto",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0,
+          1
+        ]
+      },
+      {
+        "campo": "abrogacion_programada",
+        "motivo": "Portada/encabezado sin declaración identificada de abrogación o término de vigencia en fecha cierta; null."
+      }
+    ],
+    "evidencia": {
+      "abroga": [
+        {
+          "pagina": 12,
+          "texto": "Segundo. Se abroga la Ley General de Bibliotecas publicada en el Diario Oficial de la Federación el 21 de enero de 1988."
+        },
+        {
+          "pagina": 12,
+          "texto": "Tercero. Se abroga el Decreto que dispone la obligación de los editores y productores de materiales bibliográficos y documentales, de entregar ejemplares de sus obras a la Biblioteca Nacional y a la Biblioteca del Congreso de la Unión, publicado en el Diario Oficial de la Federación el 23 de julio de 1991."
+        }
+      ],
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "LEY GENERAL DE BIBLIOTECAS Nueva Ley publicada en el Diario Oficial de la Federación el 1 de junio de 2021"
+      },
+      "ultima_reforma": {
+        "pagina": 1,
+        "texto": "Última Reforma DOF 29-11-2023"
+      },
+      "reformas": {
+        "pagina_inicio": 10,
+        "encabezado": null,
+        "filas": [
+          {
+            "fila": 0,
+            "texto": "Artículo reformado DOF 29-11-2023",
+            "pagina": 10
+          },
+          {
+            "fila": 1,
+            "texto": "Artículo adicionado DOF 29-11-2023",
+            "pagina": 11
+          },
+          {
+            "fila": 2,
+            "texto": "Artículo reformado DOF 29-11-2023",
+            "pagina": 11
+          },
+          {
+            "fila": 3,
+            "texto": "Artículo reformado DOF 29-11-2023",
+            "pagina": 12
+          }
+        ]
+      }
+    }
+  },
+  "control_pypdf_informativo": {
+    "fuente": "Usuario; piloto aprobado en la conversación",
+    "descripcion": "pypdf fragmenta números con espacios; verificado por el usuario contra originales en 11 páginas señaladas del CFF y tres de CPEUM. Markdown generado con Poppler.",
+    "decision": "Control informativo, no bloquea lotes y no modifica textos. No se atribuye cotejo visual adicional a Codex."
+  }
+}

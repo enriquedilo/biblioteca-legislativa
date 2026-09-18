@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T14:27:12.014895+00:00
+Actualizado: 2026-09-18T14:27:31.142333+00:00
 
-Procesados: **184/453**. Intentados: 184/453. Pendientes reportados: 0.
+Procesados: **194/453**. Intentados: 194/453. Pendientes reportados: 0.
 
-Lote 18 cerrado; publicación por commit del lote.
+Lote 19 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -28,8 +28,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 15 | 10/10 | Publicado |
 | 16 | 10/10 | Publicado |
 | 17 | 10/10 | Publicado |
-| 18 | 10/10 | Cerrado localmente |
-| 19 | 0/10 | Pendiente |
+| 18 | 10/10 | Publicado |
+| 19 | 10/10 | Cerrado localmente |
 | 20 | 0/10 | Pendiente |
 | 21 | 0/10 | Pendiente |
 | 22 | 0/10 | Pendiente |
@@ -241,16 +241,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 18 | 180 | LFPED | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 18 | 181 | LFPSDMH | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 18 | 182 | LFMZAAH | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 19 | 183 | LGAMVLV | pendiente | — |
-| 19 | 184 | LGAg | pendiente | — |
-| 19 | 185 | LGA | pendiente | — |
-| 19 | 186 | LGAHOTDU | pendiente | — |
-| 19 | 187 | LGB | pendiente | — |
-| 19 | 188 | LGBN | pendiente | — |
-| 19 | 189 | LGCC | pendiente | — |
-| 19 | 190 | LGCS | pendiente | — |
-| 19 | 191 | LGCG | pendiente | — |
-| 19 | 192 | LGCFD | pendiente | — |
+| 19 | 183 | LGAMVLV | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 19 | 184 | LGAg | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 19 | 185 | LGA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 19 | 186 | LGAHOTDU | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 19 | 187 | LGB | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 19 | 188 | LGBN | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 19 | 189 | LGCC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 19 | 190 | LGCS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 19 | 191 | LGCG | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 19 | 192 | LGCFD | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 20 | 193 | LGCDC | pendiente | — |
 | 20 | 194 | LGDLPI | pendiente | — |
 | 20 | 195 | LGDFS | pendiente | — |

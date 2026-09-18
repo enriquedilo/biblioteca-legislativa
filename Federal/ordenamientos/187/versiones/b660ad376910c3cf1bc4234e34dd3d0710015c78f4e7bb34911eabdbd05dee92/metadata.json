@@ -1,0 +1,107 @@
+{
+  "id": 187,
+  "nombre_catalogo": "LEY General de Bibliotecas",
+  "nombre_oficial": "LEY GENERAL DE BIBLIOTECAS",
+  "nombre_oficial_pendiente_de_cotejo": false,
+  "fuente": "https://www.diputados.gob.mx/LeyesBiblio/",
+  "urls": {
+    "pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGB.pdf",
+    "word": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGB.doc"
+  },
+  "fecha_descarga": "2026-09-18T14:27:22.115961+00:00",
+  "fecha_catalogo_sin_interpretar": null,
+  "ultima_reforma": {
+    "numero": null,
+    "edicion": null,
+    "fecha": "2023-11-29"
+  },
+  "evidencia_encabezado": [
+    "LEY GENERAL DE BIBLIOTECAS Nueva Ley publicada en el Diario Oficial de la Federación el 1 de junio de 2021",
+    "Última Reforma DOF 29-11-2023"
+  ],
+  "hash_sha256": {
+    "pdf": "1a7dcb966c812b4d78487fc81a4f873a2d1fd63e0f40a021dc8aa2d56e31dc19",
+    "word": "48cc46e942f4611038d7bdffd6e843a516d9fae10ed01eda7fc17d2de812eb3e"
+  },
+  "version": "b660ad376910c3cf1bc4234e34dd3d0710015c78f4e7bb34911eabdbd05dee92",
+  "origen_markdown": "PDF original; conserva texto, numeración impresa, fracciones, transitorios y notas",
+  "estatus": "Incluido en índice federal vigente; vigencia jurídica no certificada",
+  "validacion": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "fecha_revision_conversion": "2026-09-18T14:27:22.115961+00:00",
+  "conversor": "Poppler / controles conservadores existentes / adaptación federal",
+  "decreto_numero": null,
+  "po_publicacion": {
+    "numero": null,
+    "edicion": null,
+    "fecha": "2021-06-01",
+    "seccion": null,
+    "diario": "DOF"
+  },
+  "reformas": [
+    {
+      "fecha": "2023-11-29",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 29-11-2023",
+      "fechas": [
+        "2023-11-29"
+      ]
+    },
+    {
+      "fecha": "2023-11-29",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo adicionado DOF 29-11-2023",
+      "fechas": [
+        "2023-11-29"
+      ]
+    },
+    {
+      "fecha": "2023-11-29",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 29-11-2023",
+      "fechas": [
+        "2023-11-29"
+      ]
+    },
+    {
+      "fecha": "2023-11-29",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 29-11-2023",
+      "fechas": [
+        "2023-11-29"
+      ]
+    }
+  ],
+  "abroga": [
+    {
+      "nombre": "Ley General de Bibliotecas",
+      "po_numero": null,
+      "fecha": "1988-01-21",
+      "decreto": null
+    },
+    {
+      "nombre": null,
+      "po_numero": null,
+      "fecha": "1991-07-23",
+      "decreto": null
+    }
+  ],
+  "slug": "lgb",
+  "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGB.pdf",
+  "url_word": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGB.doc",
+  "seccion_sitio": "index.htm",
+  "secciones_sitio": [
+    "index.htm"
+  ],
+  "nombre_catalogo_sitio": "LEY General de Bibliotecas",
+  "orden": "federal",
+  "regimen": "general",
+  "tipo": "ley_general",
+  "sigla": "LGB",
+  "vigencia_anual": false,
+  "archivo_origen": "LGB.pdf",
+  "abrogacion_programada": null
+}
