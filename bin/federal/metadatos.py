@@ -16,7 +16,8 @@ def abrogacion_programada(raw):
  if not declarations:return None
  # Supplemental portada note can name the decree; it is retained as literal evidence.
  notes=[x for x in paragraphs if re.search(r'Nota sobre la vigencia y abrogación de (?:este|esta)',x,re.I)]
- source=' '.join(dict.fromkeys(declarations+notes))
+ recovery=[x for x in paragraphs if re.search(r'recupera.{0,12}vigencia|invalidez del Decreto',x,re.I)]
+ source=' '.join(dict.fromkeys(declarations+notes+recovery))
  dm=re.search(r'\bDecreto por (?:el|la) que\b.*?(?=,\s*publicad[ao]|\s+publicad[ao]\s+en|,\s*DOF|\.$)',source,re.I)
  if not dm:dm=re.search(r'\bDecreto\s+DOF\s+\d{2}[-/]\d{2}[-/]\d{4}',source,re.I)
  dof=re.search(r'\bDOF\s+(\d{2}[-/]\d{2}[-/]\d{4})',source,re.I)
@@ -38,6 +39,7 @@ def ajustar(m,v,raw):
  m['abrogacion_programada']=abrogacion_programada(raw)
  if m['abrogacion_programada']:
   a=m['abrogacion_programada'];nv['evidencia']['abrogacion_programada']=a['evidencia']
+  if re.search(r'recupera.{0,12}vigencia|invalidez del Decreto',a['evidencia']['texto'],re.I):nv['incidencias'].append({'campo':'abrogacion_programada','motivo':'La portada declara invalidez del decreto abrogatorio y recuperación de vigencia. Registro histórico con evidencia completa; no representa una abrogación futura vigente.'})
   for field in ['decreto_dof','fecha_dof','fecha_fin_vigencia']:
    if a[field] is None:nv['incidencias'].append({'campo':'abrogacion_programada.'+field,'motivo':'Declaración impresa identificada, pero este dato no se localizó inequívocamente; null sin inferir.'})
   if re.search(r'no\s+exceda|no\s+(?:pueda|podrá)\s+exceder',a['evidencia']['texto'],re.I):nv['incidencias'].append({'campo':'abrogacion_programada.fecha_fin_vigencia','motivo':'La portada imprime una fecha límite máxima, sujeta a entrada gradual/declaratorias; no es una fecha única inferida de entrada en vigor. Se conserva la condición literal.'})
