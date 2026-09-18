@@ -1,6 +1,6 @@
 {
   "creado": "2026-09-18T02:11:42.810650+00:00",
-  "fase": "lotes 16–20 en curso",
+  "fase": "corte tras lote 20 reportado",
   "tamano_lote": 10,
   "catalogados": 453,
   "catalogo_sha256": "0d1a3f61d7ef7730e4547251d78e2f292541e2e78b111c971cc3838750b77279",
@@ -30431,11 +30431,12 @@
     "16": "a2138d7a575c1cbce8643ae396ff2a56130a766e",
     "17": "2ef7742c32d5a038ff2613dc84d0a809892b793f",
     "18": "461bc4123519f42cb87409cbcaec45cc51c843f9",
-    "19": "07d505a351efaf123ab90a1fb9b9275f3303ffaa"
+    "19": "07d505a351efaf123ab90a1fb9b9275f3303ffaa",
+    "20": "1d2bfb5dadf0b6001863b5c1b55b6bb041d50d81"
   },
-  "ultimo_evento": "Lote 20 cerrado; publicación por commit del lote.",
+  "ultimo_evento": "Lote 20 publicado; corte 16–20 verificado. Próximo lote: 21.",
   "control_pypdf": "informativo, no bloqueante",
-  "actualizado": "2026-09-18T14:27:53.887948+00:00",
+  "actualizado": "2026-09-18T14:28:33.075457+00:00",
   "procesados": 204,
   "intentados": 204,
   "pendientes_reportados": 0,

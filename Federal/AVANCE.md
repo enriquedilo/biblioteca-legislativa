@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T14:27:53.887948+00:00
+Actualizado: 2026-09-18T14:28:33.075457+00:00
 
 Procesados: **204/453**. Intentados: 204/453. Pendientes reportados: 0.
 
-Lote 20 cerrado; publicación por commit del lote.
+Lote 20 publicado; corte 16–20 verificado. Próximo lote: 21.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -30,7 +30,7 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 17 | 10/10 | Publicado |
 | 18 | 10/10 | Publicado |
 | 19 | 10/10 | Publicado |
-| 20 | 10/10 | Cerrado localmente |
+| 20 | 10/10 | Publicado |
 | 21 | 0/10 | Pendiente |
 | 22 | 0/10 | Pendiente |
 | 23 | 0/10 | Pendiente |
