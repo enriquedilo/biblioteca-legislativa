@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T14:51:47.221374+00:00
+Actualizado: 2026-09-18T14:53:01.225975+00:00
 
-Procesados: **204/453**. Intentados: 204/453. Pendientes reportados: 0.
+Procesados: **214/453**. Intentados: 214/453. Pendientes reportados: 0.
 
-Encabezados compuestos corregidos y documentados por página en nuevas versiones.
+Lote 21 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -31,7 +31,7 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 18 | 10/10 | Publicado |
 | 19 | 10/10 | Publicado |
 | 20 | 10/10 | Publicado |
-| 21 | 0/10 | Pendiente |
+| 21 | 10/10 | Cerrado localmente |
 | 22 | 0/10 | Pendiente |
 | 23 | 0/10 | Pendiente |
 | 24 | 0/10 | Pendiente |
@@ -262,16 +262,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 20 | 201 | LGAAS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 0 | 202 | LGDNNA | piloto_aprobado | Conversión conservada; cotejo Word/PDF con incidencias |
 | 20 | 203 | LGMIME | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 21 | 204 | LGMASC | pendiente | — |
-| 21 | 205 | LGMSV | pendiente | — |
-| 21 | 206 | LGOAAC | pendiente | — |
-| 21 | 207 | LGPP | pendiente | — |
-| 21 | 208 | LGPAS | pendiente | — |
-| 21 | 209 | LGP | pendiente | — |
-| 21 | 210 | LGPSACDII | pendiente | — |
-| 21 | 211 | LGPC | pendiente | — |
-| 21 | 212 | LGPDPPSO | pendiente | — |
-| 21 | 213 | LGRA | pendiente | — |
+| 21 | 204 | LGMASC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 21 | 205 | LGMSV | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 21 | 206 | LGOAAC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 21 | 207 | LGPP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 21 | 208 | LGPAS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 21 | 209 | LGP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 21 | 210 | LGPSACDII | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 21 | 211 | LGPC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 21 | 212 | LGPDPPSO | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 21 | 213 | LGRA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 22 | 214 | LGS | pendiente | — |
 | 22 | 215 | LGSC | pendiente | — |
 | 22 | 216 | LGSM | pendiente | — |

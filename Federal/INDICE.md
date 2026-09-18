@@ -211,16 +211,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 201 | LGAAS | LEY General de la Alimentación Adecuada y Sostenible | [Markdown](ordenamientos/201/versiones/6736b14f6e8d6e6fea8a74164e605364a19a3f184eca9cf9fa7b179391a8c17c/texto.md) · procesado_con_incidencias |
 | 202 | LGDNNA | LEY General de los Derechos de Niñas, Niños y Adolescentes | [Markdown](ordenamientos/202/versiones/f91db263bee7b3f1cb7b13fa7afffe6d5a2735955e150e677427e79d0ab7bdfd/texto.md) · piloto_aprobado |
 | 203 | LGMIME | LEY General de los Medios de Impugnación en Materia Electoral | [Markdown](ordenamientos/203/versiones/144543f1029599faa5dd88809e3a5643176245b942f7e84900db9a2c22342a44/texto.md) · procesado_con_incidencias |
-| 204 | LGMASC | LEY General de Mecanismos Alternativos de Solución de Controversias | pendiente |
-| 205 | LGMSV | LEY General de Movilidad y Seguridad Vial | pendiente |
-| 206 | LGOAAC | LEY General de Organizaciones y Actividades Auxiliares del Crédito | pendiente |
-| 207 | LGPP | LEY General de Partidos Políticos | pendiente |
-| 208 | LGPAS | LEY General de Pesca y Acuacultura Sustentables | pendiente |
-| 209 | LGP | LEY General de Población | pendiente |
-| 210 | LGPSACDII | LEY General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil | pendiente |
-| 211 | LGPC | LEY General de Protección Civil | pendiente |
-| 212 | LGPDPPSO | LEY General de Protección de Datos Personales en Posesión de Sujetos Obligados | pendiente |
-| 213 | LGRA | LEY General de Responsabilidades Administrativas | pendiente |
+| 204 | LGMASC | LEY General de Mecanismos Alternativos de Solución de Controversias | [Markdown](ordenamientos/204/versiones/b570942cc5485d0b642c2bbb1a1fb29d28ba3d7c34125761cfd0db9a398c2157/texto.md) · procesado_con_incidencias |
+| 205 | LGMSV | LEY General de Movilidad y Seguridad Vial | [Markdown](ordenamientos/205/versiones/2fe8c000fab0699ec371e888565965653ca4889374084d1b547004cc9bbb38db/texto.md) · procesado_con_incidencias |
+| 206 | LGOAAC | LEY General de Organizaciones y Actividades Auxiliares del Crédito | [Markdown](ordenamientos/206/versiones/6c65009c7dddfb8f66692822dc447bcd8405c6d157962045d95a8f0e8c91f5eb/texto.md) · procesado_con_incidencias |
+| 207 | LGPP | LEY General de Partidos Políticos | [Markdown](ordenamientos/207/versiones/545289e8883789027f6bcaaef91139ef3188d1b841be832342bc1ce805e220dd/texto.md) · procesado_con_incidencias |
+| 208 | LGPAS | LEY General de Pesca y Acuacultura Sustentables | [Markdown](ordenamientos/208/versiones/a248fe03cd4b9abc82786f61d2d085191ed42e981737f249a8e0d4e60d2d9abd/texto.md) · procesado_con_incidencias |
+| 209 | LGP | LEY General de Población | [Markdown](ordenamientos/209/versiones/c6b643066e9c5e7fc53aaab3b640841cac4e7643b0ae582db96cd87304666937/texto.md) · procesado_con_incidencias |
+| 210 | LGPSACDII | LEY General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil | [Markdown](ordenamientos/210/versiones/036f931bbf6ebe00ad8814d9b184f6d2fdcb3b71ba3f836fee01e866efe3851b/texto.md) · procesado_con_incidencias |
+| 211 | LGPC | LEY General de Protección Civil | [Markdown](ordenamientos/211/versiones/d54df50f19b2ee36f4c9a1aa54835f7e23f9e3c51fb3163be5a235e384f18966/texto.md) · procesado_con_incidencias |
+| 212 | LGPDPPSO | LEY General de Protección de Datos Personales en Posesión de Sujetos Obligados | [Markdown](ordenamientos/212/versiones/c6104e8440eacf101ff22e5da850e33e66319bed89b74103175195133be4ad43/texto.md) · procesado_con_incidencias |
+| 213 | LGRA | LEY General de Responsabilidades Administrativas | [Markdown](ordenamientos/213/versiones/8ea7a7badc2e6e1f9e0bc54e0280548aec9ddb2a9dc54e7b6a16f561746cd1b6/texto.md) · procesado_con_incidencias |
 | 214 | LGS | LEY General de Salud | pendiente |
 | 215 | LGSC | LEY General de Sociedades Cooperativas | pendiente |
 | 216 | LGSM | LEY General de Sociedades Mercantiles | pendiente |
