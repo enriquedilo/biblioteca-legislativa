@@ -1,0 +1,59 @@
+{
+  "id": 123,
+  "nombre_catalogo": "LEY del Sector Eléctrico",
+  "nombre_oficial": "LEY DEL SECTOR ELÉCTRICO",
+  "nombre_oficial_pendiente_de_cotejo": false,
+  "fuente": "https://www.diputados.gob.mx/LeyesBiblio/",
+  "urls": {
+    "pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSE.pdf",
+    "word": "https://www.diputados.gob.mx/LeyesBiblio/doc/LSE.doc"
+  },
+  "fecha_descarga": "2026-09-18T03:03:22.491883+00:00",
+  "fecha_catalogo_sin_interpretar": null,
+  "ultima_reforma": null,
+  "evidencia_encabezado": [
+    "LEY DEL SECTOR ELÉCTRICO TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 18 de marzo de 2025"
+  ],
+  "hash_sha256": {
+    "pdf": "aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a",
+    "word": "a807e45b7695fee2f7f2ed634428fe03c5bd0d81b14e0fefb606f57f06f640af"
+  },
+  "version": "7b49dc9aea279004096a1a142e762680dc89f48963bbbb02177288abc8c76201",
+  "origen_markdown": "PDF original; conserva texto, numeración impresa, fracciones, transitorios y notas",
+  "estatus": "Incluido en índice federal vigente; vigencia jurídica no certificada",
+  "validacion": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "fecha_revision_conversion": "2026-09-18T03:03:22.491883+00:00",
+  "conversor": "Poppler / controles conservadores existentes / adaptación federal",
+  "decreto_numero": null,
+  "po_publicacion": {
+    "numero": null,
+    "edicion": null,
+    "fecha": "2025-03-18",
+    "seccion": null,
+    "diario": "DOF"
+  },
+  "reformas": [],
+  "abroga": [
+    {
+      "nombre": "Ley de la Industria Eléctrica",
+      "po_numero": null,
+      "fecha": "2014-08-11",
+      "decreto": null
+    }
+  ],
+  "slug": "lse",
+  "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSE.pdf",
+  "url_word": "https://www.diputados.gob.mx/LeyesBiblio/doc/LSE.doc",
+  "seccion_sitio": "index.htm",
+  "secciones_sitio": [
+    "index.htm"
+  ],
+  "nombre_catalogo_sitio": "LEY del Sector Eléctrico",
+  "orden": "federal",
+  "regimen": "general",
+  "tipo": "ley",
+  "sigla": "LSE",
+  "vigencia_anual": false,
+  "archivo_origen": "LSE.pdf",
+  "abrogacion_programada": null
+}

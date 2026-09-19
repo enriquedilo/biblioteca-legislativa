@@ -1,0 +1,588 @@
+{
+  "id": 95,
+  "nombre_catalogo": "LEY de Puertos",
+  "nombre_oficial": "LEY DE PUERTOS",
+  "nombre_oficial_pendiente_de_cotejo": false,
+  "fuente": "https://www.diputados.gob.mx/LeyesBiblio/",
+  "urls": {
+    "pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/65_071220.pdf",
+    "word": "https://www.diputados.gob.mx/LeyesBiblio/doc/65_071220.doc"
+  },
+  "fecha_descarga": "2026-09-18T02:50:42.577321+00:00",
+  "fecha_catalogo_sin_interpretar": null,
+  "ultima_reforma": {
+    "numero": null,
+    "edicion": null,
+    "fecha": "2020-12-07"
+  },
+  "evidencia_encabezado": [
+    "LEY DE PUERTOS Nueva Ley publicada en el Diario Oficial de la Federación el 19 de julio de 1993",
+    "Última Reforma DOF 07-12-2020"
+  ],
+  "hash_sha256": {
+    "pdf": "36f74d61a6190ff8005805ad80aa6cf90f7d5bf2209d24bdaf32f51d21214daf",
+    "word": "6660d6abbe0d5734675b9334b8cd1b564ab493cb06ca88aee26b248be7ffa635"
+  },
+  "version": "5d60a2af4f3d681e943492af193de110f472e5d8d3d014f86708e7cbd6ed80df",
+  "origen_markdown": "PDF original; conserva texto, numeración impresa, fracciones, transitorios y notas",
+  "estatus": "Incluido en índice federal vigente; vigencia jurídica no certificada",
+  "validacion": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "fecha_revision_conversion": "2026-09-18T02:50:42.577321+00:00",
+  "conversor": "Poppler / controles conservadores existentes / adaptación federal",
+  "decreto_numero": null,
+  "po_publicacion": {
+    "numero": null,
+    "edicion": null,
+    "fecha": "1993-07-19",
+    "seccion": null,
+    "diario": "DOF"
+  },
+  "reformas": [
+    {
+      "fecha": "2013-12-26",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 26-12-2013",
+      "fechas": [
+        "2013-12-26"
+      ]
+    },
+    {
+      "fecha": "2020-12-07",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 07-12-2020",
+      "fechas": [
+        "2020-12-07"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción adicionada DOF 19-12-2016. Derogada DOF 07-12-2020",
+      "fechas": [
+        "2016-12-19",
+        "2020-12-07"
+      ]
+    },
+    {
+      "fecha": "2020-12-07",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 07-12-2020",
+      "fechas": [
+        "2020-12-07"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": "2013-12-26",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción adicionada DOF 26-12-2013",
+      "fechas": [
+        "2013-12-26"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción adicionada DOF 26-12-2013. Reformada DOF 07-12-2020",
+      "fechas": [
+        "2013-12-26",
+        "2020-12-07"
+      ]
+    },
+    {
+      "fecha": "2020-12-07",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 07-12-2020",
+      "fechas": [
+        "2020-12-07"
+      ]
+    },
+    {
+      "fecha": "2020-12-07",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 07-12-2020",
+      "fechas": [
+        "2020-12-07"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 19-12-2016, 07-12-2020",
+      "fechas": [
+        "2016-12-19",
+        "2020-12-07"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Denominación del Capítulo reformada DOF 19-12-2016, 07-12-2020",
+      "fechas": [
+        "2016-12-19",
+        "2020-12-07"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción adicionada DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción adicionada DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 11-06-2012, 19-12-2016",
+      "fechas": [
+        "2012-06-11",
+        "2016-12-19"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 11-06-2012, 19-12-2016",
+      "fechas": [
+        "2012-06-11",
+        "2016-12-19"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo adicionado DOF 26-12-2013. Reformado DOF 19-12-2016, 07-12-2020",
+      "fechas": [
+        "2013-12-26",
+        "2016-12-19",
+        "2020-12-07"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo adicionado DOF 26-12-2013. Reformado DOF 07-12-2020",
+      "fechas": [
+        "2013-12-26",
+        "2020-12-07"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción adicionada DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo adicionado DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo adicionado DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": "2016-12-19",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 19-12-2016",
+      "fechas": [
+        "2016-12-19"
+      ]
+    },
+    {
+      "fecha": "2016-06-08",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo adicionado DOF 08-06-2016",
+      "fechas": [
+        "2016-06-08"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo adicionado DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": "2013-12-26",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 26-12-2013",
+      "fechas": [
+        "2013-12-26"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": "2013-12-26",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 26-12-2013",
+      "fechas": [
+        "2013-12-26"
+      ]
+    },
+    {
+      "fecha": "2013-12-26",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 26-12-2013",
+      "fechas": [
+        "2013-12-26"
+      ]
+    },
+    {
+      "fecha": "2013-12-26",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción adicionada DOF 26-12-2013",
+      "fechas": [
+        "2013-12-26"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 11-06-2012, 19-12-2016",
+      "fechas": [
+        "2012-06-11",
+        "2016-12-19"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 19-12-2016, 07-12-2020",
+      "fechas": [
+        "2016-12-19",
+        "2020-12-07"
+      ]
+    },
+    {
+      "fecha": "2016-12-19",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 19-12-2016",
+      "fechas": [
+        "2016-12-19"
+      ]
+    },
+    {
+      "fecha": "2016-12-19",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo adicionado DOF 19-12-2016",
+      "fechas": [
+        "2016-12-19"
+      ]
+    },
+    {
+      "fecha": "2016-12-19",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo adicionado DOF 19-12-2016",
+      "fechas": [
+        "2016-12-19"
+      ]
+    },
+    {
+      "fecha": "2016-12-19",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo adicionado DOF 19-12-2016",
+      "fechas": [
+        "2016-12-19"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": "2014-01-23",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo adicionado DOF 23-01-2014",
+      "fechas": [
+        "2014-01-23"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo adicionado DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción derogada DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción derogada DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": "2016-12-19",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 19-12-2016",
+      "fechas": [
+        "2016-12-19"
+      ]
+    },
+    {
+      "fecha": "2012-06-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo adicionado DOF 11-06-2012",
+      "fechas": [
+        "2012-06-11"
+      ]
+    },
+    {
+      "fecha": "2016-12-19",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 19-12-2016",
+      "fechas": [
+        "2016-12-19"
+      ]
+    },
+    {
+      "fecha": "2016-12-19",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 19-12-2016",
+      "fechas": [
+        "2016-12-19"
+      ]
+    }
+  ],
+  "abroga": [
+    {
+      "nombre": "Ley",
+      "po_numero": null,
+      "fecha": "1970-12-29",
+      "decreto": null
+    }
+  ],
+  "slug": "ley-de-puertos",
+  "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/65_071220.pdf",
+  "url_word": "https://www.diputados.gob.mx/LeyesBiblio/doc/65_071220.doc",
+  "seccion_sitio": "index.htm",
+  "secciones_sitio": [
+    "index.htm"
+  ],
+  "nombre_catalogo_sitio": "LEY de Puertos",
+  "orden": "federal",
+  "regimen": "general",
+  "tipo": "ley",
+  "sigla": "65_071220",
+  "vigencia_anual": false,
+  "archivo_origen": "65_071220.pdf"
+}

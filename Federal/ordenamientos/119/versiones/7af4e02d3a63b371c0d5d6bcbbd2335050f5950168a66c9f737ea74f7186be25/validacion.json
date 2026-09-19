@@ -1,0 +1,646 @@
+{
+  "id": 119,
+  "fecha_revision": "2026-09-18T03:03:11.085097+00:00",
+  "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 19,
+  "paginas_sin_texto": [],
+  "pagina_blanca_confirmada_visualmente": false,
+  "texto_conservado": true,
+  "comparacion_word_pdf": {
+    "palabras_comparadas": 5666,
+    "palabras_pdf": 6120,
+    "frecuencias_coinciden": false,
+    "orden_coincide_separando_nota_al_pie": false,
+    "nota_al_pie_reubicada_por_lector_word": null,
+    "normalizaciones_solo_comparacion": [
+      "Misma función lexical_tokens de Sinaloa; no modifica los originales ni el Markdown."
+    ],
+    "limite": "Campos Word y encabezados permanecen en el control; las diferencias se reportan sin reparación.",
+    "solo_word": {
+      "diario": 1,
+      "oficial": 1,
+      "enero": 1,
+      "page": 2,
+      "primera": 1,
+      "sección": 1,
+      "miércoles": 1,
+      "embed": 1,
+      "word": 1,
+      "picture": 1,
+      "numpages": 1
+    },
+    "solo_pdf": {
+      "ley": 18,
+      "del": 36,
+      "instituto": 18,
+      "mexicano": 18,
+      "de": 88,
+      "la": 36,
+      "juventud": 18,
+      "cámara": 18,
+      "diputados": 18,
+      "h": 18,
+      "congreso": 18,
+      "unión": 18,
+      "última": 18,
+      "reforma": 18,
+      "dof": 18,
+      "secretaría": 36,
+      "general": 18,
+      "servicios": 18,
+      "parlamentarios": 18
+    }
+  },
+  "articulos_word": [
+    "1",
+    "2",
+    "3",
+    "3bis",
+    "4",
+    "4bis",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "15bis",
+    "16",
+    "17"
+  ],
+  "articulos_pdf": [
+    "1",
+    "2",
+    "3",
+    "3bis",
+    "4",
+    "4bis",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "15bis",
+    "16",
+    "17"
+  ],
+  "identificadores_articulos_coinciden": true,
+  "encabezados_transitorios": [
+    {
+      "pagina": 9,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 11,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 12,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 13,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 14,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 15,
+      "encabezado": "Transitorio"
+    },
+    {
+      "pagina": 16,
+      "encabezado": "Transitorio"
+    },
+    {
+      "pagina": 17,
+      "encabezado": "Transitorio"
+    },
+    {
+      "pagina": 18,
+      "encabezado": "Transitorio"
+    },
+    {
+      "pagina": 19,
+      "encabezado": "Transitorio"
+    }
+  ],
+  "encabezados_ordinales_en_seccion_transitoria": [
+    "PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "SEGUNDO. La Secretaría de Educación Pública, de los recursos financieros asignados a la Dirección",
+    "TERCERO. La Junta Directiva del Instituto deberá quedar constituida en un plazo no mayor al de",
+    "CUARTO. El primer Consejo de Seguimiento de Proyectos y Programas deberá quedar integrado en",
+    "Artículo Único.- Se reforma la fracción IV del Artículo 3 y la fracción IX del Artículo 4 de la Ley del",
+    "Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la",
+    "Articulo Único.- Se reforman los artículos 4, actual fracción VIII; 8 fracción I incisos h) y j); 15,",
+    "ARTICULO PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el",
+    "ARTICULO SEGUNDO.- El titular del Poder Ejecutivo Federal dispondrá que el texto íntegro de la",
+    "Artículo Único.- Se reforman los artículos 2; 3, actual fracción V; y 4, actuales fracciones I, II, y X; 5,",
+    "Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de",
+    "Segundo. Las nuevas atribuciones que en virtud de este Decreto se otorgan al Instituto Mexicano de",
+    "Tercero. El Consejo ciudadano de seguimiento de políticas públicas en materia de juventud deberá",
+    "Cuarto. Las modificaciones necesarias al Estatuto Orgánico del Instituto Mexicano de la Juventud se",
+    "Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones",
+    "Artículo Único.- Se adicionan las fracciones IX y X, recorriéndose la actual IX para ser XI, al artículo",
+    "Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la",
+    "Artículo Primero.- Se reforman los artículos 3 Bis, primer párrafo y 9, fracción XIV de la Ley del",
+    "Único.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la",
+    "Artículo Único.- Se reforman los artículos 1 y 8, fracciones I, incisos a) y g) y II, inciso c), segundo",
+    "Único.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de",
+    "Artículo Único. Se reforman los artículos 1, párrafo primero; 3 Bis, en su párrafo primero; 8, fracción I,",
+    "Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la",
+    "Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de"
+  ],
+  "articulos_numericos_en_seccion_transitoria": [],
+  "transitorios_y_notas_completos_incluidos": true,
+  "paginas_cotejadas_visualmente": [],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 1904,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 2894,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 2924,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 3279,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 1588,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 16,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 2274,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 2459,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 2543,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 2599,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 1554,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 11,
+      "caracteres_no_blancos": 1196,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 12,
+      "caracteres_no_blancos": 1521,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 13,
+      "caracteres_no_blancos": 2134,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 14,
+      "caracteres_no_blancos": 1447,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 15,
+      "caracteres_no_blancos": 1099,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 16,
+      "caracteres_no_blancos": 1197,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 17,
+      "caracteres_no_blancos": 1134,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 18,
+      "caracteres_no_blancos": 1175,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 19,
+      "caracteres_no_blancos": 1121,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    }
+  ],
+  "alcance": "Controles de conservación en todas las páginas; comparación de cifras con Poppler y pypdf. El cotejo visual se registra por separado. No certifica vigencia jurídica.",
+  "incidencias_resueltas": [],
+  "diferencias_de_fuente": [
+    "La comparación léxica Word/PDF no coincide: encabezados repetidos, campos Word y otras diferencias pendientes de cotejo. No equivale a pérdida del Markdown.",
+    "El control original con retirada de paginación difiere. Se conserva el resultado y se añade comparación simétrica de cifras sin retirar paginación.",
+    "Hay discrepancias en la secuencia de cifras entre los dos lectores PDF; requieren cotejo, no se reparan.",
+    "Word original .doc conservado por autorización expresa del usuario; no se fabrica original.docx."
+  ],
+  "formato_word_original": "doc",
+  "ocr_ejecutado": false,
+  "incidencias_descarga": [],
+  "promociones_encabezado_evitadas": [],
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-18T03:03:11.085097+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "decreto_numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.edicion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.seccion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "reformas",
+        "motivo": "Notas literales conservadas con todas las fechas; fecha escalar null si hay varias. Números de diario/decreto no impresos quedan null. Captura automática pendiente de revisión."
+      },
+      {
+        "campo": "abroga",
+        "motivo": "No se localizaron cláusulas con la forma expresa se abroga/queda abrogado; arreglo vacío pendiente de cotejo."
+      },
+      {
+        "campo": "abrogacion_programada",
+        "motivo": "Portada/encabezado sin declaración identificada de abrogación o término de vigencia en fecha cierta; null."
+      }
+    ],
+    "evidencia": {
+      "abroga": [],
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "LEY DEL INSTITUTO MEXICANO DE LA JUVENTUD Nueva Ley publicada en el Diario Oficial de la Federación el 6 de enero de 1999"
+      },
+      "ultima_reforma": {
+        "pagina": 1,
+        "texto": "Última Reforma DOF 01-04-2024"
+      },
+      "reformas": {
+        "pagina_inicio": 1,
+        "encabezado": null,
+        "filas": [
+          {
+            "fila": 0,
+            "texto": "Párrafo reformado DOF 23-03-2022",
+            "pagina": 1
+          },
+          {
+            "fila": 1,
+            "texto": "Artículo reformado DOF 02-04-2015",
+            "pagina": 1
+          },
+          {
+            "fila": 2,
+            "texto": "Artículo reformado DOF 05-08-2011",
+            "pagina": 1
+          },
+          {
+            "fila": 3,
+            "texto": "Fracción adicionada DOF 05-08-2011",
+            "pagina": 1
+          },
+          {
+            "fila": 4,
+            "texto": "Fracción recorrida DOF 05-08-2011. Reformada DOF 01-04-2024",
+            "pagina": 2
+          },
+          {
+            "fila": 5,
+            "texto": "Fracción reformada y recorrida DOF 05-08-2011",
+            "pagina": 2
+          },
+          {
+            "fila": 6,
+            "texto": "Artículo reformado DOF 20-03-2006, 22-06-2006",
+            "pagina": 2
+          },
+          {
+            "fila": 7,
+            "texto": "Párrafo reformado DOF 02-04-2015, 23-03-2022",
+            "pagina": 2
+          },
+          {
+            "fila": 8,
+            "texto": "Artículo adicionado DOF 05-08-2011",
+            "pagina": 3
+          },
+          {
+            "fila": 9,
+            "texto": "Fracción adicionada DOF 05-08-2011",
+            "pagina": 3
+          },
+          {
+            "fila": 10,
+            "texto": "Fracción reformada y recorrida DOF 05-08-2011",
+            "pagina": 3
+          },
+          {
+            "fila": 11,
+            "texto": "Fracción reformada y recorrida DOF 05-08-2011",
+            "pagina": 3
+          },
+          {
+            "fila": 12,
+            "texto": "Fracción adicionada DOF 05-08-2011",
+            "pagina": 3
+          },
+          {
+            "fila": 13,
+            "texto": "Fracción recorrida DOF 05-08-2011. Reformada DOF 01-04-2024",
+            "pagina": 4
+          },
+          {
+            "fila": 14,
+            "texto": "Fracción adicionada DOF 05-08-2011",
+            "pagina": 4
+          },
+          {
+            "fila": 15,
+            "texto": "Fracción reformada y recorrida DOF 05-08-2011",
+            "pagina": 4
+          },
+          {
+            "fila": 16,
+            "texto": "Fracción reformada y recorrida DOF 05-08-2011. Reformada DOF 01-04-2024",
+            "pagina": 4
+          },
+          {
+            "fila": 17,
+            "texto": "Fracción adicionada DOF 05-08-2011",
+            "pagina": 4
+          },
+          {
+            "fila": 18,
+            "texto": "Artículo reformado DOF 20-03-2006, 22-06-2006",
+            "pagina": 4
+          },
+          {
+            "fila": 19,
+            "texto": "Artículo adicionado DOF 05-08-2011",
+            "pagina": 5
+          },
+          {
+            "fila": 20,
+            "texto": "Fracción reformada DOF 05-08-2011",
+            "pagina": 5
+          },
+          {
+            "fila": 21,
+            "texto": "Inciso reformado DOF 02-04-2015, 23-03-2022",
+            "pagina": 5
+          },
+          {
+            "fila": 22,
+            "texto": "Inciso reformado DOF 09-04-2012",
+            "pagina": 5
+          },
+          {
+            "fila": 23,
+            "texto": "Inciso reformado DOF 02-04-2015",
+            "pagina": 5
+          },
+          {
+            "fila": 24,
+            "texto": "Párrafo reformado DOF 02-04-2015",
+            "pagina": 6
+          },
+          {
+            "fila": 25,
+            "texto": "Párrafo reformado DOF 02-04-2015, 23-03-2022",
+            "pagina": 6
+          },
+          {
+            "fila": 26,
+            "texto": "Párrafo reformado DOF 05-08-2011",
+            "pagina": 6
+          },
+          {
+            "fila": 27,
+            "texto": "Artículo reformado DOF 22-06-2006",
+            "pagina": 6
+          },
+          {
+            "fila": 28,
+            "texto": "Fracción adicionada DOF 05-08-2011",
+            "pagina": 6
+          },
+          {
+            "fila": 29,
+            "texto": "Fracción reformada y recorrida DOF 05-08-2011",
+            "pagina": 6
+          },
+          {
+            "fila": 30,
+            "texto": "Fracción recorrida DOF 05-08-2011. Reformada DOF 02-04-2015, 23-03-2022",
+            "pagina": 7
+          },
+          {
+            "fila": 31,
+            "texto": "Fracción reformada DOF 14-05-2013",
+            "pagina": 8
+          },
+          {
+            "fila": 32,
+            "texto": "Fracción adicionada DOF 14-05-2013",
+            "pagina": 8
+          },
+          {
+            "fila": 33,
+            "texto": "Fracción adicionada DOF 14-05-2013",
+            "pagina": 8
+          },
+          {
+            "fila": 34,
+            "texto": "Párrafo reformado DOF 09-04-2012",
+            "pagina": 8
+          },
+          {
+            "fila": 35,
+            "texto": "Artículo reformado DOF 05-08-2011",
+            "pagina": 9
+          },
+          {
+            "fila": 36,
+            "texto": "Artículo reformado DOF 05-08-2011, 09-04-2012",
+            "pagina": 9
+          },
+          {
+            "fila": 37,
+            "texto": "Artículo reformado DOF 22-06-2006, 05-08-2011",
+            "pagina": 9
+          },
+          {
+            "fila": 38,
+            "texto": "Párrafo reformado DOF 01-04-2024",
+            "pagina": 9
+          },
+          {
+            "fila": 39,
+            "texto": "Artículo adicionado DOF 05-08-2011",
+            "pagina": 9
+          },
+          {
+            "fila": 40,
+            "texto": "Denominación del Capítulo reformada DOF 05-08-2011",
+            "pagina": 9
+          }
+        ]
+      }
+    }
+  },
+  "control_pypdf_informativo": {
+    "fuente": "Usuario; piloto aprobado en la conversación",
+    "descripcion": "pypdf fragmenta números con espacios; verificado por el usuario contra originales en 11 páginas señaladas del CFF y tres de CPEUM. Markdown generado con Poppler.",
+    "decision": "Control informativo, no bloquea lotes y no modifica textos. No se atribuye cotejo visual adicional a Codex."
+  }
+}

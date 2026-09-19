@@ -1,0 +1,2785 @@
+{
+  "id": 151,
+  "fecha_revision": "2026-09-18T03:04:17.339288+00:00",
+  "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 125,
+  "paginas_sin_texto": [],
+  "pagina_blanca_confirmada_visualmente": false,
+  "texto_conservado": true,
+  "comparacion_word_pdf": {
+    "palabras_comparadas": 54980,
+    "palabras_pdf": 58174,
+    "frecuencias_coinciden": false,
+    "orden_coincide_separando_nota_al_pie": false,
+    "nota_al_pie_reubicada_por_lector_word": null,
+    "normalizaciones_solo_comparacion": [
+      "Misma función lexical_tokens de Sinaloa; no modifica los originales ni el Markdown."
+    ],
+    "limite": "Campos Word y encabezados permanecen en el control; las diferencias se reportan sin reparación.",
+    "solo_word": {
+      "diario": 1,
+      "oficial": 1,
+      "marzo": 1,
+      "e": 6,
+      "s": 2,
+      "n": 2,
+      "p": 2,
+      "r": 2,
+      "t": 2,
+      "w": 1,
+      "sección": 1,
+      "primera": 1,
+      "page": 2,
+      "mergeformat": 1,
+      "jueves": 1,
+      "embed": 1,
+      "word": 1,
+      "picture": 1,
+      "numpages": 1
+    },
+    "solo_pdf": {
+      "ley": 124,
+      "federal": 124,
+      "de": 618,
+      "presupuesto": 124,
+      "y": 124,
+      "responsabilidad": 124,
+      "hacendaria": 124,
+      "cámara": 124,
+      "diputados": 124,
+      "del": 124,
+      "h": 124,
+      "congreso": 124,
+      "la": 124,
+      "unión": 124,
+      "última": 124,
+      "reforma": 124,
+      "dof": 124,
+      "secretaría": 248,
+      "general": 124,
+      "servicios": 124,
+      "parlamentarios": 124,
+      "presente": 2
+    }
+  },
+  "articulos_word": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "9bis",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "19bis",
+    "19ter",
+    "19",
+    "20",
+    "21",
+    "21bis",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "35bis",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98",
+    "99",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118"
+  ],
+  "articulos_pdf": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "9bis",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "19bis",
+    "19ter",
+    "19",
+    "20",
+    "21",
+    "21bis",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "35bis",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98",
+    "99",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118"
+  ],
+  "identificadores_articulos_coinciden": true,
+  "encabezados_transitorios": [
+    {
+      "pagina": 71,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 73,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 76,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 77,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 80,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 80,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 81,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 82,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 83,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 86,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 90,
+      "encabezado": "Transitorio"
+    },
+    {
+      "pagina": 92,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 93,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 95,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 97,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 102,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 106,
+      "encabezado": "Transitorio"
+    },
+    {
+      "pagina": 115,
+      "encabezado": "Transitorio"
+    },
+    {
+      "pagina": 116,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 117,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 121,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 124,
+      "encabezado": "Transitorios"
+    }
+  ],
+  "encabezados_ordinales_en_seccion_transitoria": [
+    "PRIMERO. El presente Decreto entrará en vigor el 1 de abril de 2006.",
+    "SEGUNDO. Se abroga la Ley de Presupuesto, Contabilidad y Gasto Público Federal y se derogan",
+    "TERCERO. Las disposiciones del Decreto de Presupuesto de Egresos de la Federación para el",
+    "CUARTO. En tanto se expida el Reglamento de la Ley Federal de Presupuesto y Responsabilidad",
+    "QUINTO. El sistema de administración financiera federal y el sistema para el control presupuestario de",
+    "SEXTO. El Ejecutivo Federal, por conducto de la Secretaría y la Función Pública, en el ámbito de sus",
+    "SÉPTIMO. El Ejecutivo Federal, por conducto de la Secretaría, deberá realizar los ajustes necesarios",
+    "OCTAVO. Las unidades de administración de los Poderes Legislativo y Judicial y de los entes",
+    "ARTÍCULO SEGUNDO. Se Deroga el inciso ñ), de la fracción II del artículo 41 y el artículo 85, de la",
+    "Primero. El presente Decreto entrará en vigor el primero de enero de 2007.",
+    "Segundo. Durante el ejercicio fiscal 2007, en tanto se expide el Programa Nacional de Seguridad",
+    "Tercero. Para el ejercicio fiscal 2007, la distribución entre los Estados y el Distrito Federal de los",
+    "ARTÍCULO PRIMERO.- Se REFORMAN los artículos 34, fracciones I, II y III; 65, fracción VIII; 78,",
+    "ARTÍCULO SEGUNDO.- En relación con las modificaciones a la Ley Federal de Presupuesto y",
+    "PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial",
+    "SEGUNDO. Se derogan el artículo 41 de la Ley del Servicio de Tesorería de la Federación y las",
+    "ARTÍCULO ÚNICO.- Se ADICIONAN los artículos 17, con un sexto y séptimo párrafos y 48, con un",
+    "Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "Segundo. Durante los ejercicios fiscales de 2009, 2010 y 2011, el 30% de los ingresos excedentes a",
+    "Tercero. Petróleos Mexicanos podrá emplear los recursos acumulados al cierre del ejercicio fiscal",
+    "Cuarto. Petróleos Mexicanos deberá contar con un comité en materia de estrategia e inversiones el",
+    "Quinto. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.",
+    "Artículo Primero.- Se expide la Ley General de Contabilidad Gubernamental.",
+    "PRIMERO.- La presente Ley entrará en vigor el 1 de enero de 2009.",
+    "SEGUNDO A DÉCIMO PRIMERO.- ……….",
+    "DÉCIMO SEGUNDO.- Cuando, en materia de contabilidad gubernamental, una disposición legal haga",
+    "Artículo Segundo.- Se derogan el Título Quinto De la Contabilidad Gubernamental, los Capítulos I,",
+    "Primero.- El presente Decreto entrará en vigor el 1 de enero de 2009.",
+    "Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto a la Ley que se expide",
+    "Artículo Único.- Se adicionan una fracción III Bis al artículo 2; un párrafo sexto al artículo 23,",
+    "Primero.- El presente Decreto entrará en vigor al día siguiente a aquél en el que se publique en el",
+    "Segundo.- La Secretaría, dentro de los tres meses siguientes a la entrada en vigor del presente",
+    "Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las",
+    "ARTÍCULO ÚNICO.- Se reforman los artículos 2, fracciones III Bis y XLVII; 16, último párrafo; 17; 19,",
+    "PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario",
+    "SEGUNDO. El Ejecutivo Federal deberá realizar las reformas necesarias al Reglamento de la Ley",
+    "TERCERO. El límite máximo del gasto corriente estructural a que se refiere el artículo 2, fracción",
+    "CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.",
+    "QUINTO. El Ejecutivo Federal llevará a cabo acciones para generar economías, durante el ejercicio",
+    "SEXTO. Durante los ejercicios fiscales de 2014 y 2015, no procederá la adquisición de vehículos,",
+    "SÉPTIMO. El Congreso de la Unión, a partir de la entrada en vigor del presente Decreto legislará en",
+    "OCTAVO. El Ejecutivo Federal, para dar cumplimiento a lo establecido en el artículo 61 de esta Ley,",
+    "ARTÍCULO PRIMERO.- Se reforman los artículos 2, fracción VIII; 5, párrafo último; 17, párrafos",
+    "ARTÍCULO SEGUNDO. Se establecen las siguientes disposiciones transitorias de la Ley Federal de",
+    "Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "Segundo. El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, preverá",
+    "Tercero. El Gobierno Federal podrá asumir una proporción de la obligación de pago de las pensiones",
+    "Cuarto. El Gobierno Federal podrá asumir una proporción de la obligación de pago a cargo de la",
+    "Quinto. Las reformas y derogaciones a la Ley Federal de Presupuesto y Responsabilidad Hacendaria",
+    "Sexto. Sin menoscabo de los ingresos que obtenga cada Órgano Regulador Coordinado en Materia",
+    "ARTÍCULO OCTAVO.- Se reforma el artículo 93, tercer párrafo de la Ley Federal de Presupuesto y",
+    "ARTÍCULO NOVENO.- De conformidad con el artículo 79 constitucional, la Auditoría Superior de la",
+    "Único. El presente Decreto entrará en vigor el 1 de enero de 2016.",
+    "ARTÍCULO UNICO.- Se adiciona el artículo 19 Bis a la Ley Federal de Presupuesto y",
+    "Único. El presente Decreto entrará en vigor el 1 de enero de 2016.",
+    "Artículo Segundo.- Se reforman los artículos 6, párrafo primero y 111, párrafos primero y segundo de",
+    "Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "Segundo. El Consejo Nacional de Armonización Contable, dentro de los sesenta días naturales",
+    "Tercero. Las entidades federativas deberán instalar sus consejos de armonización contable a más",
+    "Cuarto. En la fecha a que se refiere el transitorio Primero del presente Decreto, entrará en vigor la",
+    "Quinto. El Ejecutivo Federal deberá realizar las reformas necesarias al Reglamento de la Ley Federal",
+    "Sexto. Derivado de lo previsto en el presente Decreto, los trámites que se hayan iniciado ante la",
+    "Artículo Tercero.- Se reforma el segundo párrafo al artículo 61 de la Ley Federal de Presupuesto y",
+    "Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "Segundo. Los entes públicos en un plazo máximo de ciento ochenta días hábiles siguientes a la",
+    "Tercero. Los entes públicos en un plazo máximo de ciento ochenta días hábiles siguientes a la",
+    "Cuarto. Para el caso de las oficinas de representación de las dependencias y entidades de la",
+    "Quinto. Los lineamientos a que se refiere la Ley Federal de Austeridad Republicana se expedirán en",
+    "Sexto. Se prohíbe y se cancela cualquier otro tipo de pensión que se hubiere creado exprofeso para",
+    "ARTÍCULO QUINTO. Se reforman los artículos 19, fracción I, primer párrafo, y 37, de la Ley Federal",
+    "ARTÍCULO DÉCIMO CUARTO. Se reforman los artículos 11, quinto párrafo; 88 y 89, primer párrafo, y",
+    "Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.",
+    "Tercero. Se abroga la Ley que crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento",
+    "Cuarto. Las dependencias y entidades, por conducto de sus unidades responsables, deberán",
+    "Quinto. Los ejecutores de gasto, por conducto de sus unidades responsables, deberán coordinarse",
+    "Sexto. Las dependencias y entidades que coordinen la operación de los fideicomisos, mandatos o",
+    "Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.",
+    "Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de",
+    "Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa",
+    "Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración",
+    "Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor",
+    "Artículo Segundo.- Se adiciona un artículo 19 Ter a la Ley Federal de Presupuesto y",
+    "Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "SEGUNDO. Se reconoce la validez de los artículos 1, párrafo segundo, 4, fracciones I y II, 7,",
+    "TERCERO. Se declara la invalidez del artículo 24, párrafo segundo, de la Ley Federal de",
+    "CUARTO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el",
+    "PRIMERO. Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.",
+    "SEGUNDO. Se reconoce la validez de los artículos 1, párrafo segundo, 4, fracciones I y II, 7, párrafo",
+    "TERCERO. Se declara la invalidez del artículo 24, párrafo segundo, de la Ley Federal de Austeridad",
+    "CUARTO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario",
+    "SEGUNDO. Se desestima en la presente acción de inconstitucionalidad respecto de los",
+    "TERCERO. Se reconoce la validez de los artículos 23, numeral 1, inciso d), párrafo tercero –con",
+    "QUINTO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el",
+    "PRIMERO. Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.",
+    "SEGUNDO. Se desestima en la presente acción de inconstitucionalidad respecto de los artículos 23,",
+    "TERCERO. Se reconoce la validez de los artículos 23, numeral 1, inciso d), párrafo tercero -con las",
+    "CUARTO. Se declara la invalidez de los artículos 23, numeral 1, inciso d), párrafos tercero, en su",
+    "QUINTO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario",
+    "Artículo Primero.- Se reforman los artículos 2, fracción III Bis; 23, párrafo sexto; 41, fracción III, inciso",
+    "Artículo Segundo.- Se adiciona un inciso w) a la fracción II del artículo 41 de la Ley Federal de",
+    "Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la",
+    "Artículo Único. Se adicionan los artículos 21 Bis, con una fracción V Bis, y 23, con un último párrafo,",
+    "Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "Segundo.- El Ejecutivo Federal deberá realizar las reformas necesarias al Reglamento de la Ley",
+    "Tercero.- El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, deberá",
+    "QUINTO. Se adiciona un artículo 19 Quater a la Ley Federal de Presupuesto y Responsabilidad",
+    "PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial",
+    "SEGUNDO. El Banco de México actuará como fiduciario en el fideicomiso público no considerado",
+    "TERCERO. Los ingresos por los conceptos a que se refiere el artículo 19 Quater, de la Ley Federal de",
+    "CUARTO. A partir de la constitución del Fondo de Pensiones para el Bienestar, el Instituto para",
+    "QUINTO. A partir de la fecha de entrada en vigor este Decreto, queda sin efecto lo previsto en el",
+    "SEXTO. El dictamen a que se refiere el Artículo Séptimo del Decreto por el que se extingue el",
+    "SÉPTIMO. A partir de la fecha de entrada en vigor de este Decreto, queda sin efecto lo previsto en el",
+    "OCTAVO. El Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los",
+    "NOVENO. El Instituto Mexicano del Seguro Social, el Instituto del Fondo Nacional de la Vivienda para",
+    "DÉCIMO. El Instituto Mexicano del Seguro Social, el Instituto del Fondo Nacional de la Vivienda para",
+    "DÉCIMO PRIMERO. Dentro de los 30 días hábiles siguientes de la entrada en vigor del presente",
+    "Artículo Segundo.- Se reforman los artículos 42, fracción VIII, inciso f, y 78, segundo párrafo, y se",
+    "Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial",
+    "Segundo.- Las disposiciones y demás ordenamientos jurídicos relacionados con el objeto del",
+    "Tercero.- El Consejo Nacional de Evaluación de la Política de Desarrollo Social transferirá los",
+    "Cuarto.- El Instituto Nacional de Estadística y Geografía en la implementación del presente Decreto,",
+    "Quinto.- Se llevarán a cabo las gestiones a fin de que el Consejo Nacional de Evaluación de la",
+    "Sexto.- A partir de la fecha de entrada en vigor de este Decreto, las referencias y atribuciones que, en",
+    "Artículo Segundo.- Se reforman los artículos 2, párrafo primero, fracción XXIV Bis; 16, párrafo",
+    "Primero. El presente Decreto, entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "Segundo. El Ejecutivo Federal emitirá el Reglamento de la Ley para el Fomento de la Inversión en",
+    "Tercero. La Secretaría de Hacienda y Crédito Público, dentro de los ciento ochenta días naturales",
+    "Cuarto. El Consejo de Planeación Estratégica para la Inversión en Infraestructura, deberá quedar",
+    "Quinto. Los proyectos de inversión iniciados en el ejercicio fiscal 2026, y con anterioridad a la entrada",
+    "Sexto. El Ejecutivo Federal en caso de así resultar necesario, realizará las reformas al Reglamento de"
+  ],
+  "articulos_numericos_en_seccion_transitoria": [],
+  "transitorios_y_notas_completos_incluidos": true,
+  "paginas_cotejadas_visualmente": [],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 2005,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 2891,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 2835,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 2963,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 3063,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 2684,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 3085,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 2246,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 2551,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 13,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 2988,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 11,
+      "caracteres_no_blancos": 3176,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 12,
+      "caracteres_no_blancos": 3095,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 13,
+      "caracteres_no_blancos": 3115,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 14,
+      "caracteres_no_blancos": 2938,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 15,
+      "caracteres_no_blancos": 3240,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 16,
+      "caracteres_no_blancos": 3250,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 17,
+      "caracteres_no_blancos": 2975,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 18,
+      "caracteres_no_blancos": 3548,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 19,
+      "caracteres_no_blancos": 3215,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 20,
+      "caracteres_no_blancos": 2978,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 21,
+      "caracteres_no_blancos": 2924,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 22,
+      "caracteres_no_blancos": 3238,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 23,
+      "caracteres_no_blancos": 2490,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 24,
+      "caracteres_no_blancos": 2528,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 25,
+      "caracteres_no_blancos": 2820,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 26,
+      "caracteres_no_blancos": 2970,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 27,
+      "caracteres_no_blancos": 3534,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 28,
+      "caracteres_no_blancos": 2840,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 29,
+      "caracteres_no_blancos": 2823,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 30,
+      "caracteres_no_blancos": 2538,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 31,
+      "caracteres_no_blancos": 2503,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 17,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 32,
+      "caracteres_no_blancos": 1896,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 19,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 33,
+      "caracteres_no_blancos": 2326,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 34,
+      "caracteres_no_blancos": 2605,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 35,
+      "caracteres_no_blancos": 2529,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 13,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 36,
+      "caracteres_no_blancos": 2954,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 37,
+      "caracteres_no_blancos": 2900,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 38,
+      "caracteres_no_blancos": 3357,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 39,
+      "caracteres_no_blancos": 3265,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 40,
+      "caracteres_no_blancos": 3247,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 41,
+      "caracteres_no_blancos": 2900,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 42,
+      "caracteres_no_blancos": 2976,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 43,
+      "caracteres_no_blancos": 2965,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 44,
+      "caracteres_no_blancos": 2369,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 45,
+      "caracteres_no_blancos": 3163,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 46,
+      "caracteres_no_blancos": 2649,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 13,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 47,
+      "caracteres_no_blancos": 2326,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 48,
+      "caracteres_no_blancos": 3074,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 49,
+      "caracteres_no_blancos": 3179,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 50,
+      "caracteres_no_blancos": 2929,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 51,
+      "caracteres_no_blancos": 2857,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 52,
+      "caracteres_no_blancos": 3217,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 53,
+      "caracteres_no_blancos": 2876,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 54,
+      "caracteres_no_blancos": 2921,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 55,
+      "caracteres_no_blancos": 2458,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 56,
+      "caracteres_no_blancos": 3030,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 57,
+      "caracteres_no_blancos": 3060,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 58,
+      "caracteres_no_blancos": 2802,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 59,
+      "caracteres_no_blancos": 2642,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 60,
+      "caracteres_no_blancos": 3111,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 61,
+      "caracteres_no_blancos": 3306,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 62,
+      "caracteres_no_blancos": 3047,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 63,
+      "caracteres_no_blancos": 2346,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 64,
+      "caracteres_no_blancos": 2269,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 65,
+      "caracteres_no_blancos": 2992,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 66,
+      "caracteres_no_blancos": 2909,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 67,
+      "caracteres_no_blancos": 3687,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 68,
+      "caracteres_no_blancos": 2599,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 69,
+      "caracteres_no_blancos": 2982,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 70,
+      "caracteres_no_blancos": 2594,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 71,
+      "caracteres_no_blancos": 3016,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 72,
+      "caracteres_no_blancos": 2130,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 73,
+      "caracteres_no_blancos": 2049,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 74,
+      "caracteres_no_blancos": 2540,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 75,
+      "caracteres_no_blancos": 2752,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 76,
+      "caracteres_no_blancos": 1305,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 77,
+      "caracteres_no_blancos": 3076,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 78,
+      "caracteres_no_blancos": 3854,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 79,
+      "caracteres_no_blancos": 1062,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 80,
+      "caracteres_no_blancos": 1795,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 81,
+      "caracteres_no_blancos": 2672,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 82,
+      "caracteres_no_blancos": 1453,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 83,
+      "caracteres_no_blancos": 3178,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 84,
+      "caracteres_no_blancos": 2965,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 85,
+      "caracteres_no_blancos": 2961,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 86,
+      "caracteres_no_blancos": 3019,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 87,
+      "caracteres_no_blancos": 4232,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 88,
+      "caracteres_no_blancos": 3617,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 89,
+      "caracteres_no_blancos": 867,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 90,
+      "caracteres_no_blancos": 2674,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 91,
+      "caracteres_no_blancos": 274,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 92,
+      "caracteres_no_blancos": 1060,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 93,
+      "caracteres_no_blancos": 2507,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 94,
+      "caracteres_no_blancos": 732,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 95,
+      "caracteres_no_blancos": 2650,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 96,
+      "caracteres_no_blancos": 2232,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 97,
+      "caracteres_no_blancos": 2623,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 98,
+      "caracteres_no_blancos": 3712,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 99,
+      "caracteres_no_blancos": 3322,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 100,
+      "caracteres_no_blancos": 3422,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 101,
+      "caracteres_no_blancos": 2720,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 102,
+      "caracteres_no_blancos": 3006,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 103,
+      "caracteres_no_blancos": 3340,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 104,
+      "caracteres_no_blancos": 3188,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 105,
+      "caracteres_no_blancos": 1463,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 106,
+      "caracteres_no_blancos": 1163,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 107,
+      "caracteres_no_blancos": 2640,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 108,
+      "caracteres_no_blancos": 416,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 109,
+      "caracteres_no_blancos": 2522,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 110,
+      "caracteres_no_blancos": 1582,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 111,
+      "caracteres_no_blancos": 2895,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 112,
+      "caracteres_no_blancos": 1096,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 113,
+      "caracteres_no_blancos": 2237,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 114,
+      "caracteres_no_blancos": 2703,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 115,
+      "caracteres_no_blancos": 1420,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 116,
+      "caracteres_no_blancos": 1848,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 117,
+      "caracteres_no_blancos": 3039,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 118,
+      "caracteres_no_blancos": 3584,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 119,
+      "caracteres_no_blancos": 3511,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 120,
+      "caracteres_no_blancos": 509,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 121,
+      "caracteres_no_blancos": 2928,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 122,
+      "caracteres_no_blancos": 3455,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 123,
+      "caracteres_no_blancos": 1861,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 124,
+      "caracteres_no_blancos": 2790,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 125,
+      "caracteres_no_blancos": 1223,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    }
+  ],
+  "alcance": "Controles de conservación en todas las páginas; comparación de cifras con Poppler y pypdf. El cotejo visual se registra por separado. No certifica vigencia jurídica.",
+  "incidencias_resueltas": [],
+  "diferencias_de_fuente": [
+    "La comparación léxica Word/PDF no coincide: encabezados repetidos, campos Word y otras diferencias pendientes de cotejo. No equivale a pérdida del Markdown.",
+    "El control original con retirada de paginación difiere. Se conserva el resultado y se añade comparación simétrica de cifras sin retirar paginación.",
+    "Hay discrepancias en la secuencia de cifras entre los dos lectores PDF; requieren cotejo, no se reparan.",
+    "Word original .doc conservado por autorización expresa del usuario; no se fabrica original.docx."
+  ],
+  "formato_word_original": "doc",
+  "ocr_ejecutado": false,
+  "incidencias_descarga": [],
+  "promociones_encabezado_evitadas": [],
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-18T03:04:17.339288+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "decreto_numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.edicion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.seccion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "reformas",
+        "motivo": "Notas literales conservadas con todas las fechas; fecha escalar null si hay varias. Números de diario/decreto no impresos quedan null. Captura automática pendiente de revisión."
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Cláusulas expresas capturadas para cotejo; no se infieren nombres ni fechas faltantes. Revisar evidencia impresa."
+      },
+      {
+        "campo": "abroga[].nombre",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          5
+        ]
+      },
+      {
+        "campo": "abroga[].po_numero",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "campo": "abroga[].fecha",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0,
+          2,
+          4
+        ]
+      },
+      {
+        "campo": "abroga[].decreto",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Entradas con todos los campos null descartadas; se conserva evidencia literal de las cláusulas sin inferir datos.",
+        "indices_anteriores_descartados": [
+          5,
+          7
+        ]
+      },
+      {
+        "campo": "abrogacion_programada",
+        "motivo": "Portada/encabezado sin declaración identificada de abrogación o término de vigencia en fecha cierta; null."
+      }
+    ],
+    "evidencia": {
+      "abroga": [
+        {
+          "pagina": 71,
+          "texto": "SEGUNDO. Se abroga la Ley de Presupuesto, Contabilidad y Gasto Público Federal y se derogan todas las disposiciones que se opongan a lo dispuesto en la presente Ley."
+        },
+        {
+          "pagina": 97,
+          "texto": "DECRETO por el que se reforman y derogan diversas disposiciones de la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas; de la Ley de Cooperación Internacional para el Desarrollo; de la Ley de Hidrocarburos; de la Ley de la Industria Eléctrica; de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; de la Ley General de Protección Civil; de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero; de la Ley de Ciencia y Tecnología; de la Ley Aduanera; de la Ley Reglamentaria del Servicio Ferroviario; de la Ley General de Cultura Física y Deporte; de la Ley Federal de Cinematografía; de la Ley Federal de Derechos; de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; de la Ley de Bioseguridad de Organismos Genéticamente Modificados; de la Ley General de Cambio Climático; de la Ley General de Víctimas y se abroga la Ley que crea el Fideicomiso que administrará el Fondo de Apoyo Social para Ex Trabajadores Migratorios Mexicanos. Publicado en el Diario Oficial de la Federación el 6 de noviembre de 2020"
+        },
+        {
+          "pagina": 97,
+          "texto": "Tercero. Se abroga la Ley que crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores."
+        },
+        {
+          "pagina": 102,
+          "texto": "DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales. Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021"
+        },
+        {
+          "pagina": 102,
+          "texto": "Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República."
+        },
+        {
+          "pagina": 104,
+          "texto": "Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto."
+        },
+        {
+          "pagina": 117,
+          "texto": "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Seguro Social, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, de la Ley de los Sistemas de Ahorro para el Retiro, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, y del Decreto por el que se extingue el organismo público descentralizado denominado Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, y se abroga su Ley Orgánica, publicado en el Diario Oficial de la Federación el 29 de mayo de 2023, para la creación del Fondo de Pensiones para el Bienestar. Publicado en el Diario Oficial de la Federación el 30 de abril de 2024"
+        },
+        {
+          "pagina": 118,
+          "texto": "SEXTO. El dictamen a que se refiere el Artículo Séptimo del Decreto por el que se extingue el organismo público descentralizado denominado Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, y se abroga su Ley Orgánica, deberá ser emitido por el Instituto para Devolver al Pueblo lo Robado en un plazo máximo de 15 días posteriores a la entrada en vigor de este Decreto."
+        }
+      ],
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA Nueva Ley publicada en el Diario Oficial de la Federación el 30 de marzo de 2006"
+      },
+      "ultima_reforma": {
+        "pagina": 1,
+        "texto": "Última Reforma DOF 09-04-2026"
+      },
+      "reformas": {
+        "pagina_inicio": 2,
+        "encabezado": null,
+        "filas": [
+          {
+            "fila": 0,
+            "texto": "Fracción adicionada DOF 19-01-2012. Reformada DOF 24-01-2014, 13-11-2023",
+            "pagina": 2
+          },
+          {
+            "fila": 1,
+            "texto": "Fracción reformada DOF 09-04-2012, 11-08-2014",
+            "pagina": 2
+          },
+          {
+            "fila": 2,
+            "texto": "Fracción adicionada DOF 11-08-2014",
+            "pagina": 3
+          },
+          {
+            "fila": 3,
+            "texto": "Fracción adicionada DOF 24-01-2014. Reformada DOF 09-04-2026",
+            "pagina": 4
+          },
+          {
+            "fila": 4,
+            "texto": "Fracción adicionada DOF 11-08-2014",
+            "pagina": 4
+          },
+          {
+            "fila": 5,
+            "texto": "Fracción adicionada DOF 24-01-2014",
+            "pagina": 4
+          },
+          {
+            "fila": 6,
+            "texto": "Fracción adicionada DOF 24-01-2014",
+            "pagina": 5
+          },
+          {
+            "fila": 7,
+            "texto": "Fracción adicionada DOF 09-04-2026",
+            "pagina": 5
+          },
+          {
+            "fila": 8,
+            "texto": "Fracción reformada DOF 20-05-2021",
+            "pagina": 6
+          },
+          {
+            "fila": 9,
+            "texto": "Fracción reformada DOF 24-01-2014",
+            "pagina": 6
+          },
+          {
+            "fila": 10,
+            "texto": "Fracción adicionada DOF 11-08-2014",
+            "pagina": 6
+          },
+          {
+            "fila": 11,
+            "texto": "Fracción adicionada DOF 11-08-2014",
+            "pagina": 7
+          },
+          {
+            "fila": 12,
+            "texto": "Fracción derogada DOF 20-05-2021",
+            "pagina": 8
+          },
+          {
+            "fila": 13,
+            "texto": "Párrafo reformado DOF 20-05-2021",
+            "pagina": 8
+          },
+          {
+            "fila": 14,
+            "texto": "Párrafo reformado DOF 11-08-2014",
+            "pagina": 10
+          },
+          {
+            "fila": 15,
+            "texto": "Párrafo reformado DOF 30-12-2015",
+            "pagina": 10
+          },
+          {
+            "fila": 16,
+            "texto": "Artículo adicionado DOF 09-04-2026",
+            "pagina": 11
+          },
+          {
+            "fila": 17,
+            "texto": "Párrafo reformado DOF 06-11-2020",
+            "pagina": 12
+          },
+          {
+            "fila": 18,
+            "texto": "Fracción reformada DOF 24-01-2014",
+            "pagina": 14
+          },
+          {
+            "fila": 19,
+            "texto": "Fracción reformada DOF 24-01-2014",
+            "pagina": 14
+          },
+          {
+            "fila": 20,
+            "texto": "Fracción adicionada DOF 24-01-2014",
+            "pagina": 14
+          },
+          {
+            "fila": 21,
+            "texto": "Fracción adicionada DOF 24-01-2014",
+            "pagina": 14
+          },
+          {
+            "fila": 22,
+            "texto": "Párrafo reformado DOF 24-01-2014, 09-04-2026",
+            "pagina": 14
+          },
+          {
+            "fila": 23,
+            "texto": "Párrafo reformado DOF 11-08-2014, 09-04-2026",
+            "pagina": 15
+          },
+          {
+            "fila": 24,
+            "texto": "Párrafo reformado DOF 11-08-2014, 09-04-2026",
+            "pagina": 15
+          },
+          {
+            "fila": 25,
+            "texto": "Artículo reformado DOF 13-11-2008, 24-01-2014",
+            "pagina": 15
+          },
+          {
+            "fila": 26,
+            "texto": "Párrafo reformado DOF 24-01-2014, 06-11-2020",
+            "pagina": 16
+          },
+          {
+            "fila": 27,
+            "texto": "Párrafo reformado DOF 24-01-2014, 11-08-2014",
+            "pagina": 16
+          },
+          {
+            "fila": 28,
+            "texto": "Inciso derogado DOF 11-08-2014",
+            "pagina": 17
+          },
+          {
+            "fila": 29,
+            "texto": "Inciso reformado DOF 11-08-2014",
+            "pagina": 17
+          },
+          {
+            "fila": 30,
+            "texto": "Párrafo reformado DOF 13-11-2008, 11-08-2014",
+            "pagina": 17
+          },
+          {
+            "fila": 31,
+            "texto": "Párrafo reformado DOF 11-08-2014",
+            "pagina": 17
+          },
+          {
+            "fila": 32,
+            "texto": "Fracción reformada DOF 11-08-2014",
+            "pagina": 18
+          },
+          {
+            "fila": 33,
+            "texto": "Artículo adicionado DOF 18-11-2015",
+            "pagina": 18
+          },
+          {
+            "fila": 34,
+            "texto": "Artículo adicionado DOF 27-02-2022",
+            "pagina": 18
+          },
+          {
+            "fila": 35,
+            "texto": "Artículo adicionado DOF 30-04-2024",
+            "pagina": 19
+          },
+          {
+            "fila": 36,
+            "texto": "Párrafo reformado DOF 13-11-2008, 11-08-2014",
+            "pagina": 19
+          },
+          {
+            "fila": 37,
+            "texto": "Párrafo reformado DOF 09-04-2026",
+            "pagina": 20
+          },
+          {
+            "fila": 38,
+            "texto": "Fracción adicionada DOF 17-04-2024",
+            "pagina": 21
+          },
+          {
+            "fila": 39,
+            "texto": "Artículo adicionado DOF 11-08-2014",
+            "pagina": 21
+          },
+          {
+            "fila": 40,
+            "texto": "Párrafo adicionado DOF 19-01-2012. Reformado DOF 24-01-2014, 13-11-2023",
+            "pagina": 22
+          },
+          {
+            "fila": 41,
+            "texto": "Párrafo reformado DOF 24-01-2014",
+            "pagina": 22
+          },
+          {
+            "fila": 42,
+            "texto": "Párrafo adicionado DOF 17-04-2024",
+            "pagina": 23
+          },
+          {
+            "fila": 43,
+            "texto": "Fracción reformada DOF 19-01-2012",
+            "pagina": 24
+          },
+          {
+            "fila": 44,
+            "texto": "Fracción reformada DOF 19-01-2012",
+            "pagina": 24
+          },
+          {
+            "fila": 45,
+            "texto": "Fracción adicionada DOF 19-01-2012",
+            "pagina": 24
+          },
+          {
+            "fila": 46,
+            "texto": "Fracción reformada DOF 19-01-2012",
+            "pagina": 25
+          },
+          {
+            "fila": 47,
+            "texto": "Fracción reformada DOF 19-01-2012",
+            "pagina": 25
+          },
+          {
+            "fila": 48,
+            "texto": "Fracción adicionada DOF 19-01-2012",
+            "pagina": 25
+          },
+          {
+            "fila": 49,
+            "texto": "Párrafo adicionado DOF 24-01-2014",
+            "pagina": 26
+          },
+          {
+            "fila": 50,
+            "texto": "Párrafo reformado DOF 09-04-2026",
+            "pagina": 26
+          },
+          {
+            "fila": 51,
+            "texto": "Párrafo reformado DOF 09-04-2026",
+            "pagina": 27
+          },
+          {
+            "fila": 52,
+            "texto": "Párrafo reformado DOF 09-04-2026",
+            "pagina": 27
+          },
+          {
+            "fila": 53,
+            "texto": "Párrafo reformado DOF 13-11-2008, 09-04-2026",
+            "pagina": 27
+          },
+          {
+            "fila": 54,
+            "texto": "Párrafo adicionado DOF 01-10-2007. Reformado DOF 09-04-2026",
+            "pagina": 28
+          },
+          {
+            "fila": 55,
+            "texto": "Fracción reformada DOF 01-10-2007",
+            "pagina": 28
+          },
+          {
+            "fila": 56,
+            "texto": "Fracción reformada DOF 01-10-2007",
+            "pagina": 28
+          },
+          {
+            "fila": 57,
+            "texto": "Fracción reformada DOF 01-10-2007",
+            "pagina": 28
+          },
+          {
+            "fila": 58,
+            "texto": "Fracción adicionada DOF 01-10-2007",
+            "pagina": 29
+          },
+          {
+            "fila": 59,
+            "texto": "Párrafo adicionado DOF 11-08-2014",
+            "pagina": 29
+          },
+          {
+            "fila": 60,
+            "texto": "Artículo adicionado DOF 09-04-2026",
+            "pagina": 29
+          },
+          {
+            "fila": 61,
+            "texto": "Artículo reformado DOF 06-11-2020",
+            "pagina": 30
+          },
+          {
+            "fila": 62,
+            "texto": "Inciso reformado DOF 11-08-2014",
+            "pagina": 31
+          },
+          {
+            "fila": 63,
+            "texto": "Inciso adicionado DOF 11-08-2014",
+            "pagina": 31
+          },
+          {
+            "fila": 64,
+            "texto": "Inciso reformado DOF 19-01-2012. Derogado DOF 11-08-2014",
+            "pagina": 33
+          },
+          {
+            "fila": 65,
+            "texto": "Inciso derogado DOF 27-12-2006. Adicionado DOF 01-10-2007. Reformado DOF 19-01-2012",
+            "pagina": 33
+          },
+          {
+            "fila": 66,
+            "texto": "Inciso adicionado DOF 19-01-2012",
+            "pagina": 33
+          },
+          {
+            "fila": 67,
+            "texto": "Inciso adicionado DOF 19-01-2012",
+            "pagina": 33
+          },
+          {
+            "fila": 68,
+            "texto": "Inciso adicionado DOF 19-01-2012",
+            "pagina": 33
+          },
+          {
+            "fila": 69,
+            "texto": "Inciso adicionado DOF 19-01-2012",
+            "pagina": 33
+          },
+          {
+            "fila": 70,
+            "texto": "Inciso adicionado DOF 19-01-2012",
+            "pagina": 33
+          },
+          {
+            "fila": 71,
+            "texto": "Inciso adicionado DOF 19-01-2012. Reformado DOF 24-01-2014",
+            "pagina": 33
+          },
+          {
+            "fila": 72,
+            "texto": "Inciso adicionado DOF 19-01-2012. Reformado DOF 24-01-2014",
+            "pagina": 34
+          },
+          {
+            "fila": 73,
+            "texto": "Inciso adicionado DOF 24-01-2014",
+            "pagina": 34
+          },
+          {
+            "fila": 74,
+            "texto": "Inciso adicionado DOF 13-11-2023",
+            "pagina": 34
+          },
+          {
+            "fila": 75,
+            "texto": "Inciso reformado DOF 19-01-2012",
+            "pagina": 34
+          },
+          {
+            "fila": 76,
+            "texto": "Inciso adicionado DOF 19-01-2012. Reformado DOF 24-01-2014, 13-11-2023",
+            "pagina": 34
+          },
+          {
+            "fila": 77,
+            "texto": "Párrafo adicionado DOF 19-01-2012",
+            "pagina": 34
+          },
+          {
+            "fila": 78,
+            "texto": "Inciso reformado DOF 16-07-2025",
+            "pagina": 36
+          },
+          {
+            "fila": 79,
+            "texto": "Párrafo adicionado DOF 13-11-2008",
+            "pagina": 39
+          },
+          {
+            "fila": 80,
+            "texto": "Fracción adicionada DOF 13-11-2008",
+            "pagina": 39
+          },
+          {
+            "fila": 81,
+            "texto": "Fracción adicionada DOF 13-11-2008",
+            "pagina": 40
+          },
+          {
+            "fila": 82,
+            "texto": "Fracción adicionada DOF 13-11-2008",
+            "pagina": 40
+          },
+          {
+            "fila": 83,
+            "texto": "Fracción adicionada DOF 13-11-2008",
+            "pagina": 40
+          },
+          {
+            "fila": 84,
+            "texto": "Párrafo adicionado DOF 13-11-2008",
+            "pagina": 40
+          },
+          {
+            "fila": 85,
+            "texto": "Párrafo adicionado DOF 13-11-2008",
+            "pagina": 40
+          },
+          {
+            "fila": 86,
+            "texto": "Párrafo adicionado DOF 13-11-2008",
+            "pagina": 40
+          },
+          {
+            "fila": 87,
+            "texto": "Párrafo reformado DOF 09-04-2026",
+            "pagina": 41
+          },
+          {
+            "fila": 88,
+            "texto": "Párrafo reformado DOF 09-04-2026",
+            "pagina": 41
+          },
+          {
+            "fila": 89,
+            "texto": "Párrafo reformado DOF 09-04-2026",
+            "pagina": 41
+          },
+          {
+            "fila": 90,
+            "texto": "Párrafo reformado DOF 09-04-2026",
+            "pagina": 42
+          },
+          {
+            "fila": 91,
+            "texto": "Párrafo adicionado DOF 01-10-2007",
+            "pagina": 42
+          },
+          {
+            "fila": 92,
+            "texto": "Párrafo reformado DOF 24-01-2014",
+            "pagina": 42
+          },
+          {
+            "fila": 93,
+            "texto": "Párrafo adicionado DOF 09-04-2026",
+            "pagina": 43
+          },
+          {
+            "fila": 94,
+            "texto": "Párrafo adicionado DOF 19-01-2012. Publicado sin modificaciones DOF 20-05-2021",
+            "pagina": 44
+          },
+          {
+            "fila": 95,
+            "texto": "Párrafo reformado DOF 19-11-2019",
+            "pagina": 45
+          },
+          {
+            "fila": 96,
+            "texto": "Párrafo adicionado DOF 01-10-2007. Reformado DOF 24-01-2014",
+            "pagina": 45
+          },
+          {
+            "fila": 97,
+            "texto": "Párrafo adicionado DOF 24-01-2014",
+            "pagina": 45
+          },
+          {
+            "fila": 98,
+            "texto": "Párrafo adicionado DOF 01-10-2007. Reformado DOF 24-01-2014",
+            "pagina": 45
+          },
+          {
+            "fila": 99,
+            "texto": "Párrafo con fracciones adicionado DOF 24-01-2014",
+            "pagina": 46
+          },
+          {
+            "fila": 100,
+            "texto": "Párrafo con fracciones adicionado DOF 24-01-2014",
+            "pagina": 47
+          },
+          {
+            "fila": 101,
+            "texto": "Párrafo adicionado DOF 24-01-2014",
+            "pagina": 47
+          },
+          {
+            "fila": 102,
+            "texto": "Párrafo adicionado DOF 24-01-2014",
+            "pagina": 48
+          },
+          {
+            "fila": 103,
+            "texto": "Párrafo reformado DOF 24-01-2014",
+            "pagina": 48
+          },
+          {
+            "fila": 104,
+            "texto": "Fracción reformada DOF 01-10-2007",
+            "pagina": 48
+          },
+          {
+            "fila": 105,
+            "texto": "Fracción adicionada DOF 01-10-2007",
+            "pagina": 49
+          },
+          {
+            "fila": 106,
+            "texto": "Párrafo reformado DOF 01-10-2007",
+            "pagina": 54
+          },
+          {
+            "fila": 107,
+            "texto": "Párrafo reformado DOF 01-10-2007, 16-07-2025",
+            "pagina": 54
+          },
+          {
+            "fila": 108,
+            "texto": "Denominación del Capítulo reformada DOF 01-10-2007",
+            "pagina": 57
+          },
+          {
+            "fila": 109,
+            "texto": "Párrafo adicionado DOF 19-01-2012",
+            "pagina": 57
+          },
+          {
+            "fila": 110,
+            "texto": "Artículo derogado DOF 27-12-2006. Adicionado DOF 01-10-2007",
+            "pagina": 57
+          },
+          {
+            "fila": 111,
+            "texto": "Artículo derogado DOF 31-12-2008. Adicionado (y reubicado por coincidir con la materia del Capítulo III del Título Cuarto) DOF 24-01-2014",
+            "pagina": 58
+          },
+          {
+            "fila": 112,
+            "texto": "anterior Título Quinto y que fue derogado a su vez por DOF 31-12-2008.",
+            "pagina": 58
+          },
+          {
+            "fila": 113,
+            "texto": "Título derogado DOF 31-12-2008. Adicionado con denominación reformada DOF 11-08-2014",
+            "pagina": 58
+          },
+          {
+            "fila": 114,
+            "texto": "Capítulo derogado DOF 31-12-2008. Adicionado con denominación reformada DOF 11-08-2014",
+            "pagina": 58
+          },
+          {
+            "fila": 115,
+            "texto": "Artículo derogado DOF 31-12-2008. Adicionado DOF 11-08-2014",
+            "pagina": 58
+          },
+          {
+            "fila": 116,
+            "texto": "Párrafo reformado DOF 06-11-2020",
+            "pagina": 58
+          },
+          {
+            "fila": 117,
+            "texto": "Fracción reformada DOF 06-11-2020",
+            "pagina": 58
+          },
+          {
+            "fila": 118,
+            "texto": "Párrafo reformado DOF 06-11-2020",
+            "pagina": 59
+          },
+          {
+            "fila": 119,
+            "texto": "Fracción reformada DOF 06-11-2020",
+            "pagina": 59
+          },
+          {
+            "fila": 120,
+            "texto": "Párrafo adicionado DOF 06-11-2020",
+            "pagina": 59
+          },
+          {
+            "fila": 121,
+            "texto": "Artículo derogado DOF 31-12-2008. Adicionado DOF 11-08-2014",
+            "pagina": 59
+          },
+          {
+            "fila": 122,
+            "texto": "Párrafo reformado DOF 06-11-2020",
+            "pagina": 59
+          },
+          {
+            "fila": 123,
+            "texto": "Artículo derogado DOF 31-12-2008. Adicionado DOF 11-08-2014",
+            "pagina": 59
+          },
+          {
+            "fila": 124,
+            "texto": "Artículo derogado DOF 31-12-2008. Adicionado DOF 11-08-2014",
+            "pagina": 59
+          },
+          {
+            "fila": 125,
+            "texto": "Artículo derogado DOF 31-12-2008. Adicionado DOF 11-08-2014",
+            "pagina": 60
+          },
+          {
+            "fila": 126,
+            "texto": "Artículo derogado DOF 31-12-2008. Adicionado DOF 11-08-2014",
+            "pagina": 60
+          },
+          {
+            "fila": 127,
+            "texto": "Párrafo reformado DOF 18-11-2015",
+            "pagina": 60
+          },
+          {
+            "fila": 128,
+            "texto": "Artículo derogado DOF 31-12-2008. Adicionado DOF 11-08-2014",
+            "pagina": 60
+          },
+          {
+            "fila": 129,
+            "texto": "Capítulo derogado DOF 31-12-2008. Adicionado y reubicado con denominación reformada DOF 11-08-2014",
+            "pagina": 60
+          },
+          {
+            "fila": 130,
+            "texto": "Artículo derogado DOF 31-12-2008. Adicionado DOF 11-08-2014",
+            "pagina": 61
+          },
+          {
+            "fila": 131,
+            "texto": "Artículo derogado DOF 31-12-2008. Adicionado DOF 11-08-2014",
+            "pagina": 61
+          },
+          {
+            "fila": 132,
+            "texto": "Artículo derogado DOF 31-12-2008. Adicionado DOF 11-08-2014",
+            "pagina": 62
+          },
+          {
+            "fila": 133,
+            "texto": "Artículo derogado DOF 31-12-2008. Adicionado DOF 11-08-2014",
+            "pagina": 62
+          },
+          {
+            "fila": 134,
+            "texto": "Artículo derogado DOF 31-12-2008",
+            "pagina": 62
+          },
+          {
+            "fila": 135,
+            "texto": "Artículo derogado DOF 31-12-2008",
+            "pagina": 62
+          },
+          {
+            "fila": 136,
+            "texto": "Artículo derogado DOF 31-12-2008",
+            "pagina": 62
+          },
+          {
+            "fila": 137,
+            "texto": "Artículo derogado DOF 31-12-2008",
+            "pagina": 63
+          },
+          {
+            "fila": 138,
+            "texto": "Artículo derogado DOF 31-12-2008",
+            "pagina": 63
+          },
+          {
+            "fila": 139,
+            "texto": "Artículo derogado DOF 31-12-2008",
+            "pagina": 63
+          },
+          {
+            "fila": 140,
+            "texto": "Artículo derogado DOF 31-12-2008",
+            "pagina": 63
+          },
+          {
+            "fila": 141,
+            "texto": "Artículo derogado DOF 31-12-2008",
+            "pagina": 63
+          },
+          {
+            "fila": 142,
+            "texto": "Párrafo adicionado DOF 24-01-2014",
+            "pagina": 63
+          },
+          {
+            "fila": 143,
+            "texto": "Párrafo adicionado DOF 24-01-2014",
+            "pagina": 63
+          },
+          {
+            "fila": 144,
+            "texto": "Párrafo reformado DOF 24-01-2014",
+            "pagina": 64
+          },
+          {
+            "fila": 145,
+            "texto": "Subinciso reformado DOF 24-01-2014",
+            "pagina": 65
+          },
+          {
+            "fila": 146,
+            "texto": "Subinciso reformado DOF 24-01-2014",
+            "pagina": 65
+          },
+          {
+            "fila": 147,
+            "texto": "Subinciso adicionado DOF 19-01-2012. Reformado DOF 24-01-2014, 13-11-2023",
+            "pagina": 65
+          },
+          {
+            "fila": 148,
+            "texto": "Párrafo adicionado DOF 24-01-2014",
+            "pagina": 65
+          },
+          {
+            "fila": 149,
+            "texto": "Párrafo adicionado DOF 24-01-2014",
+            "pagina": 66
+          },
+          {
+            "fila": 150,
+            "texto": "Párrafo reformado DOF 24-01-2014",
+            "pagina": 66
+          },
+          {
+            "fila": 151,
+            "texto": "Inciso adicionado DOF 01-10-2007",
+            "pagina": 66
+          },
+          {
+            "fila": 152,
+            "texto": "Inciso adicionado DOF 24-01-2014",
+            "pagina": 66
+          },
+          {
+            "fila": 153,
+            "texto": "Fracción reformada DOF 24-01-2014",
+            "pagina": 66
+          },
+          {
+            "fila": 154,
+            "texto": "Párrafo adicionado DOF 19-01-2012. Reformado DOF 24-01-2014, 13-11-2023",
+            "pagina": 67
+          },
+          {
+            "fila": 155,
+            "texto": "Párrafo adicionado DOF 24-01-2014",
+            "pagina": 67
+          },
+          {
+            "fila": 156,
+            "texto": "Párrafo reformado DOF 24-01-2014, 09-04-2026",
+            "pagina": 67
+          },
+          {
+            "fila": 157,
+            "texto": "Párrafo reformado DOF 24-01-2014",
+            "pagina": 68
+          },
+          {
+            "fila": 158,
+            "texto": "Fracción reformada DOF 19-01-2012",
+            "pagina": 69
+          },
+          {
+            "fila": 159,
+            "texto": "Artículo reformado DOF 01-10-2007",
+            "pagina": 69
+          },
+          {
+            "fila": 160,
+            "texto": "Párrafo reformado DOF 24-01-2014, 30-12-2015",
+            "pagina": 69
+          },
+          {
+            "fila": 161,
+            "texto": "Párrafo reformado DOF 24-01-2014, 30-12-2015",
+            "pagina": 69
+          },
+          {
+            "fila": 162,
+            "texto": "Párrafo reformado DOF 24-01-2014",
+            "pagina": 69
+          },
+          {
+            "fila": 163,
+            "texto": "Párrafo adicionado DOF 19-01-2012",
+            "pagina": 70
+          }
+        ]
+      }
+    }
+  },
+  "abroga_entradas_sin_datos_descartadas": {
+    "cantidad": 2,
+    "indices_anteriores": [
+      5,
+      7
+    ]
+  },
+  "control_pypdf_informativo": {
+    "fuente": "Usuario; piloto aprobado en la conversación",
+    "descripcion": "pypdf fragmenta números con espacios; verificado por el usuario contra originales en 11 páginas señaladas del CFF y tres de CPEUM. Markdown generado con Poppler.",
+    "decision": "Control informativo, no bloquea lotes y no modifica textos. No se atribuye cotejo visual adicional a Codex."
+  }
+}

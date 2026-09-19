@@ -10,9 +10,12 @@ import subprocess
 from pathlib import Path
 from pypdf import PdfReader
 from biblioteca import extract_word, savejson
+import sys
+sys.path.insert(0,str(Path(__file__).resolve().parents[1]))
+from encabezados import CANDIDATO, EXPLICITO, encabezado
 
 ROOT = Path(__file__).resolve().parents[2] / 'Nayarit'
-ART = re.compile(r'^(?:ART[ÍI]CULO|Artículo|Articulo|ART\.|Art\.)\s*\d+[oº°]?(?:\.?\s*(?:Bis|BIS|bis|Ter|TER|ter|Quáter|QUÁTER)(?:[ -]*[A-G](?=[.\s-]|$))?)?(?:\.-|[.:-])?')
+ART = CANDIDATO
 TRANS = re.compile(r'^(?:ART[ÍI]CULOS?\s+)?TRANSITORIOS?(?:\s+DE\s+LAS\s+REFORMAS)?\s*:?$', re.I)
 ORD = re.compile(r'^(?:(?:ART[ÍI]CULO|Artículo|Articulo)\s+)?(?:PRIMERO|SEGUNDO|TERCERO|CUARTO|QUINTO|SEXTO|SÉPTIMO|SEPTIMO|OCTAVO|NOVENO|DÉCIMO|DECIMO|ÚNICO|UNICO|Primero|Segundo|Tercero|Cuarto|Quinto|Sexto|Único)(?:[.\s-]|$)')
 LIST = re.compile(r'^(?:[IVXLCDM]+|[A-Za-z]|\d+)[.)]\s+')
@@ -29,12 +32,12 @@ def strip_pagination(page, number):
             removed.append({'linea':i+1,'texto':lines[i].strip()});lines[i]=''
     return '\n'.join(lines),removed
 
-EXPLICIT_ART = re.compile(r'^(?:ART[ÍI]CULO|ART\.)\s*\d+[oº°]?(?:\s*(?:bis|ter|qu[áa]ter|quintus|sextus|septimus|octavus|nonus|decimus)(?:[ -]*[A-Z](?=[.\s-]|$))?|\s+[A-Z](?=[.\s-]|$))?\s*(?:\.-|[.:-])',re.I)
+EXPLICIT_ART = EXPLICITO
 
 def heading_decision(lines,index):
     line=re.sub(r'[ \t]+',' ',lines[index].strip());candidate=ART.match(line)
     if not candidate:return None,None
-    explicit=EXPLICIT_ART.match(line)
+    explicit=encabezado(line)
     if explicit:return explicit,None
     previous=lines[index-1].strip() if index else ''
     following=lines[index+1].strip() if index+1<len(lines) else ''

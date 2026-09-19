@@ -1,0 +1,100 @@
+{
+  "id": 83,
+  "nombre_catalogo": "LEY de Nacionalidad",
+  "nombre_oficial": "LEY DE NACIONALIDAD",
+  "nombre_oficial_pendiente_de_cotejo": false,
+  "fuente": "https://www.diputados.gob.mx/LeyesBiblio/",
+  "urls": {
+    "pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/53.pdf",
+    "word": "https://www.diputados.gob.mx/LeyesBiblio/doc/53.doc"
+  },
+  "fecha_descarga": "2026-09-18T02:50:24.953569+00:00",
+  "fecha_catalogo_sin_interpretar": null,
+  "ultima_reforma": {
+    "numero": null,
+    "edicion": null,
+    "fecha": "2012-04-23"
+  },
+  "evidencia_encabezado": [
+    "LEY DE NACIONALIDAD Nueva Ley publicada en el Diario Oficial de la Federación el 23 de enero de 1998",
+    "Última Reforma DOF 23-04-2012"
+  ],
+  "hash_sha256": {
+    "pdf": "0d1600be2162e00dfec7505d7ce4c23ec2e29f43e298bc94e7301146eead38f7",
+    "word": "9bf563cb396852bdb3ca3d426c74f7150d7a09a5e7e23f5cc0a3ba6fe1bdf9d4"
+  },
+  "version": "1a4e0c6e84b57977b5b61a3185209c2fd03a89a8ef1d3b6609188191daa0aa83",
+  "origen_markdown": "PDF original; conserva texto, numeración impresa, fracciones, transitorios y notas",
+  "estatus": "Incluido en índice federal vigente; vigencia jurídica no certificada",
+  "validacion": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "fecha_revision_conversion": "2026-09-18T02:50:24.953569+00:00",
+  "conversor": "Poppler / controles conservadores existentes / adaptación federal",
+  "decreto_numero": null,
+  "po_publicacion": {
+    "numero": null,
+    "edicion": null,
+    "fecha": "1998-01-23",
+    "seccion": null,
+    "diario": "DOF"
+  },
+  "reformas": [
+    {
+      "fecha": "2005-01-12",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción adicionada DOF 12-01-2005",
+      "fechas": [
+        "2005-01-12"
+      ]
+    },
+    {
+      "fecha": "2005-01-12",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 12-01-2005 (se recorre)",
+      "fechas": [
+        "2005-01-12"
+      ]
+    },
+    {
+      "fecha": "2012-04-23",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo adicionado DOF 23-04-2012",
+      "fechas": [
+        "2012-04-23"
+      ]
+    },
+    {
+      "fecha": "2004-12-02",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 02-12-2004",
+      "fechas": [
+        "2004-12-02"
+      ]
+    }
+  ],
+  "abroga": [
+    {
+      "nombre": "Ley de Nacionalidad",
+      "po_numero": null,
+      "fecha": "1993-06-21",
+      "decreto": null
+    }
+  ],
+  "slug": "ley-de-nacionalidad",
+  "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/53.pdf",
+  "url_word": "https://www.diputados.gob.mx/LeyesBiblio/doc/53.doc",
+  "seccion_sitio": "index.htm",
+  "secciones_sitio": [
+    "index.htm"
+  ],
+  "nombre_catalogo_sitio": "LEY de Nacionalidad",
+  "orden": "federal",
+  "regimen": "general",
+  "tipo": "ley",
+  "sigla": "53",
+  "vigencia_anual": false,
+  "archivo_origen": "53.pdf"
+}

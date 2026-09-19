@@ -1,0 +1,4403 @@
+{
+  "id": 155,
+  "fecha_revision": "2026-09-18T14:26:23.400519+00:00",
+  "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 116,
+  "paginas_sin_texto": [],
+  "pagina_blanca_confirmada_visualmente": false,
+  "texto_conservado": true,
+  "comparacion_word_pdf": {
+    "palabras_comparadas": 49653,
+    "palabras_pdf": 52742,
+    "frecuencias_coinciden": false,
+    "orden_coincide_separando_nota_al_pie": false,
+    "nota_al_pie_reubicada_por_lector_word": null,
+    "normalizaciones_solo_comparacion": [
+      "Misma función lexical_tokens de Sinaloa; no modifica los originales ni el Markdown."
+    ],
+    "limite": "Campos Word y encabezados permanecen en el control; las diferencias se reportan sin reparación.",
+    "solo_word": {
+      "diario": 1,
+      "oficial": 1,
+      "julio": 1,
+      "primera": 1,
+      "sección": 1,
+      "page": 2,
+      "mergeformat": 1,
+      "vespertina": 1,
+      "miércoles": 1,
+      "embed": 1,
+      "word": 1,
+      "picture": 1,
+      "numpages": 1
+    },
+    "solo_pdf": {
+      "ley": 115,
+      "federal": 115,
+      "de": 573,
+      "protección": 115,
+      "a": 115,
+      "la": 230,
+      "propiedad": 115,
+      "industrial": 115,
+      "cámara": 115,
+      "diputados": 115,
+      "del": 115,
+      "h": 115,
+      "congreso": 115,
+      "unión": 115,
+      "última": 115,
+      "reforma": 115,
+      "dof": 115,
+      "secretaría": 230,
+      "general": 115,
+      "servicios": 115,
+      "parlamentarios": 115
+    }
+  },
+  "articulos_word": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "40bis",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98",
+    "99",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "105bis",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "111bis",
+    "112",
+    "113",
+    "113bis",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118",
+    "119",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124",
+    "125",
+    "126",
+    "127",
+    "128",
+    "129",
+    "130",
+    "131",
+    "132",
+    "133",
+    "134",
+    "135",
+    "136",
+    "136bis",
+    "137",
+    "138",
+    "139",
+    "140",
+    "141",
+    "142",
+    "143",
+    "144",
+    "145",
+    "146",
+    "147",
+    "148",
+    "149",
+    "150",
+    "151",
+    "152",
+    "153",
+    "154",
+    "155",
+    "156",
+    "157",
+    "158",
+    "159",
+    "160",
+    "161",
+    "162",
+    "163",
+    "164",
+    "165",
+    "166",
+    "167",
+    "168",
+    "169",
+    "170",
+    "171",
+    "172",
+    "173",
+    "174",
+    "175",
+    "176",
+    "177",
+    "178",
+    "179",
+    "180",
+    "181",
+    "182",
+    "183",
+    "184",
+    "185",
+    "186",
+    "187",
+    "188",
+    "189",
+    "190",
+    "191",
+    "192",
+    "193",
+    "194",
+    "195",
+    "196",
+    "197",
+    "198",
+    "199",
+    "200",
+    "201",
+    "202",
+    "203",
+    "204",
+    "205",
+    "206",
+    "207",
+    "208",
+    "209",
+    "210",
+    "211",
+    "212",
+    "213",
+    "214",
+    "215",
+    "216",
+    "217",
+    "218",
+    "219",
+    "220",
+    "221",
+    "222",
+    "223",
+    "224",
+    "225",
+    "226",
+    "227",
+    "228",
+    "229",
+    "229bis",
+    "230",
+    "231",
+    "232",
+    "233",
+    "234",
+    "235",
+    "236",
+    "237",
+    "238",
+    "239",
+    "240",
+    "241",
+    "242",
+    "243",
+    "244",
+    "245",
+    "246",
+    "247",
+    "248",
+    "249",
+    "250",
+    "251",
+    "252",
+    "253",
+    "254",
+    "255",
+    "256",
+    "257",
+    "257bis",
+    "257ter",
+    "258",
+    "259",
+    "260",
+    "261",
+    "262",
+    "263",
+    "264",
+    "265",
+    "266",
+    "267",
+    "268",
+    "269",
+    "270",
+    "271",
+    "272",
+    "273",
+    "274",
+    "275",
+    "276",
+    "277",
+    "278",
+    "279",
+    "280",
+    "281",
+    "282",
+    "283",
+    "284",
+    "285",
+    "286",
+    "287",
+    "288",
+    "289",
+    "290",
+    "291",
+    "292",
+    "293",
+    "294",
+    "295",
+    "296",
+    "297",
+    "298",
+    "299",
+    "300",
+    "301",
+    "302",
+    "303",
+    "304",
+    "305",
+    "306",
+    "307",
+    "308",
+    "309",
+    "310",
+    "311",
+    "312",
+    "313",
+    "314",
+    "315",
+    "316",
+    "317",
+    "318",
+    "319",
+    "320",
+    "321",
+    "322",
+    "323",
+    "324",
+    "325",
+    "326",
+    "327",
+    "327bis",
+    "327ter",
+    "327",
+    "328",
+    "329",
+    "330",
+    "331",
+    "332",
+    "333",
+    "334",
+    "335",
+    "336",
+    "337",
+    "338",
+    "339",
+    "340",
+    "341",
+    "342",
+    "343",
+    "344",
+    "345",
+    "346",
+    "347",
+    "348",
+    "349",
+    "350",
+    "351",
+    "352",
+    "353",
+    "354",
+    "355",
+    "356",
+    "357",
+    "358",
+    "359",
+    "360",
+    "361",
+    "362",
+    "363",
+    "364",
+    "365",
+    "366",
+    "367",
+    "368",
+    "369",
+    "370",
+    "371",
+    "372",
+    "373",
+    "374",
+    "375",
+    "376",
+    "377",
+    "378",
+    "379",
+    "380",
+    "381",
+    "382",
+    "383",
+    "384",
+    "385",
+    "386",
+    "387",
+    "388",
+    "389",
+    "390",
+    "391",
+    "392",
+    "393",
+    "394",
+    "395",
+    "396",
+    "397",
+    "398",
+    "399",
+    "400",
+    "401",
+    "402",
+    "403",
+    "404",
+    "405",
+    "406",
+    "407",
+    "408",
+    "409",
+    "410"
+  ],
+  "articulos_pdf": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "40bis",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98",
+    "99",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "105bis",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "111bis",
+    "112",
+    "113",
+    "113bis",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118",
+    "119",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124",
+    "125",
+    "126",
+    "127",
+    "128",
+    "129",
+    "130",
+    "131",
+    "132",
+    "133",
+    "134",
+    "135",
+    "136",
+    "136bis",
+    "137",
+    "138",
+    "139",
+    "140",
+    "141",
+    "142",
+    "143",
+    "144",
+    "145",
+    "146",
+    "147",
+    "148",
+    "149",
+    "150",
+    "151",
+    "152",
+    "153",
+    "154",
+    "155",
+    "156",
+    "157",
+    "158",
+    "159",
+    "160",
+    "161",
+    "162",
+    "163",
+    "164",
+    "165",
+    "166",
+    "167",
+    "168",
+    "169",
+    "170",
+    "171",
+    "172",
+    "173",
+    "174",
+    "175",
+    "176",
+    "177",
+    "178",
+    "179",
+    "180",
+    "181",
+    "182",
+    "183",
+    "184",
+    "185",
+    "186",
+    "187",
+    "188",
+    "189",
+    "190",
+    "191",
+    "192",
+    "193",
+    "194",
+    "195",
+    "196",
+    "197",
+    "198",
+    "199",
+    "200",
+    "201",
+    "202",
+    "203",
+    "204",
+    "205",
+    "206",
+    "207",
+    "208",
+    "209",
+    "210",
+    "211",
+    "212",
+    "213",
+    "214",
+    "215",
+    "216",
+    "217",
+    "218",
+    "219",
+    "220",
+    "221",
+    "222",
+    "223",
+    "224",
+    "225",
+    "226",
+    "227",
+    "228",
+    "229",
+    "229bis",
+    "230",
+    "231",
+    "232",
+    "233",
+    "234",
+    "235",
+    "236",
+    "237",
+    "238",
+    "239",
+    "240",
+    "241",
+    "242",
+    "243",
+    "244",
+    "245",
+    "246",
+    "247",
+    "248",
+    "249",
+    "250",
+    "251",
+    "252",
+    "253",
+    "254",
+    "255",
+    "256",
+    "257",
+    "257bis",
+    "257ter",
+    "258",
+    "259",
+    "260",
+    "261",
+    "262",
+    "263",
+    "264",
+    "265",
+    "266",
+    "267",
+    "268",
+    "269",
+    "270",
+    "271",
+    "272",
+    "273",
+    "274",
+    "275",
+    "276",
+    "277",
+    "278",
+    "279",
+    "280",
+    "281",
+    "282",
+    "283",
+    "284",
+    "285",
+    "286",
+    "287",
+    "288",
+    "289",
+    "290",
+    "291",
+    "292",
+    "293",
+    "294",
+    "295",
+    "296",
+    "297",
+    "298",
+    "299",
+    "300",
+    "301",
+    "302",
+    "303",
+    "304",
+    "305",
+    "306",
+    "307",
+    "308",
+    "309",
+    "310",
+    "311",
+    "312",
+    "313",
+    "314",
+    "315",
+    "316",
+    "317",
+    "318",
+    "319",
+    "320",
+    "321",
+    "322",
+    "323",
+    "324",
+    "325",
+    "326",
+    "327",
+    "327bis",
+    "327ter",
+    "327",
+    "328",
+    "329",
+    "330",
+    "331",
+    "332",
+    "333",
+    "334",
+    "335",
+    "336",
+    "337",
+    "338",
+    "339",
+    "340",
+    "341",
+    "342",
+    "343",
+    "344",
+    "345",
+    "346",
+    "347",
+    "348",
+    "349",
+    "350",
+    "351",
+    "352",
+    "353",
+    "354",
+    "355",
+    "356",
+    "357",
+    "358",
+    "359",
+    "360",
+    "361",
+    "362",
+    "363",
+    "364",
+    "365",
+    "366",
+    "367",
+    "368",
+    "369",
+    "370",
+    "371",
+    "372",
+    "373",
+    "374",
+    "375",
+    "376",
+    "377",
+    "378",
+    "379",
+    "380",
+    "381",
+    "382",
+    "383",
+    "384",
+    "385",
+    "386",
+    "387",
+    "388",
+    "389",
+    "390",
+    "391",
+    "392",
+    "393",
+    "394",
+    "395",
+    "396",
+    "397",
+    "398",
+    "399",
+    "400",
+    "401",
+    "402",
+    "403",
+    "404",
+    "405",
+    "406",
+    "407",
+    "408",
+    "409",
+    "410"
+  ],
+  "identificadores_articulos_coinciden": true,
+  "encabezados_transitorios": [
+    {
+      "pagina": 106,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 110,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 112,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 115,
+      "encabezado": "Transitorios"
+    }
+  ],
+  "encabezados_ordinales_en_seccion_transitoria": [
+    "PRIMERO.- El presente decreto entrará en vigor a los noventa días hábiles siguientes al de su",
+    "SEGUNDO.- Se abroga la Ley de la Propiedad Industrial, publicada originalmente como Ley de",
+    "TERCERO.- Las menciones que en otras disposiciones se hagan a la Ley de la Propiedad Industrial,",
+    "CUARTO.- En tanto el Ejecutivo Federal expide el Reglamento de la presente Ley, continuará en",
+    "QUINTO.- El Instituto Mexicano de la Propiedad Industrial participará con la Secretaría de Salud, a",
+    "SEXTO.- Las patentes y registros de modelos de utilidad, diseños industriales o esquemas de trazado",
+    "SÉPTIMO.- Los registros de modelos de utilidad otorgados con anterioridad a la entrada en vigor de la",
+    "OCTAVO.- Los registros de modelos de utilidad vigentes al momento de la entrada en vigor del",
+    "NOVENO.- Las solicitudes de patente o de registro de modelos de utilidad, diseños industriales o",
+    "DÉCIMO.- Las solicitudes de registro de marca y aviso comercial, de publicación de un nombre",
+    "DÉCIMO PRIMERO.- Los registros de marca o de aviso comercial y los efectos de publicación de",
+    "DÉCIMO SEGUNDO.- Las autorizaciones de uso de una denominación de origen o de una indicación",
+    "DÉCIMO TERCERO.- Las declaraciones administrativas que se encuentren en trámite a la entrada en",
+    "DÉCIMO CUARTO.- Las causales de nulidad y caducidad contenidas en el presente Decreto, no",
+    "DÉCIMO QUINTO.- Las multas impuestas antes de la entrada en vigor del presente Decreto, se",
+    "DÉCIMO SEXTO.- La determinación y la cuantificación del monto de la indemnización por daños y",
+    "DÉCIMO SÉPTIMO.- Las disposiciones relativas a los artículos 5 fracciones VI, VII, VIII, 393, 394, 396",
+    "Primero Transitorio del presente Decreto.",
+    "DÉCIMO OCTAVO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente",
+    "Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las",
+    "Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto",
+    "Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se",
+    "Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario",
+    "Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la",
+    "Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley",
+    "Cuarto. Las autoridades competentes de la Federación, las entidades federativas, los municipios y las",
+    "Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se",
+    "Sexto. Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este",
+    "Artículo Único.- Se REFORMAN los artículos 2, fracción V; 4, fracción VI; 5, fracciones II, III, VIII, X,",
+    "Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "Segundo. Los asuntos que se encuentren pendientes de resolución a la entrada en vigor del presente",
+    "Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se",
+    "Cuarto. El Ejecutivo Federal realizará las adecuaciones normativas que le correspondan para la",
+    "Quinto. La Junta de Gobierno, dentro de los treinta días siguientes contados a partir de la entrada en"
+  ],
+  "articulos_numericos_en_seccion_transitoria": [],
+  "transitorios_y_notas_completos_incluidos": true,
+  "paginas_cotejadas_visualmente": [],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 1769,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 2496,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 2677,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 2652,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 2809,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 2627,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 2959,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 2734,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 2929,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 2637,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 11,
+      "caracteres_no_blancos": 2489,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 12,
+      "caracteres_no_blancos": 2067,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 13,
+      "caracteres_no_blancos": 3052,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 14,
+      "caracteres_no_blancos": 2764,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 15,
+      "caracteres_no_blancos": 2274,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 14,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 16,
+      "caracteres_no_blancos": 2407,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 17,
+      "caracteres_no_blancos": 2994,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 18,
+      "caracteres_no_blancos": 2729,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 19,
+      "caracteres_no_blancos": 2516,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 20,
+      "caracteres_no_blancos": 2860,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 21,
+      "caracteres_no_blancos": 2726,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 22,
+      "caracteres_no_blancos": 2802,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 23,
+      "caracteres_no_blancos": 2735,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 24,
+      "caracteres_no_blancos": 2564,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 25,
+      "caracteres_no_blancos": 2397,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 26,
+      "caracteres_no_blancos": 2570,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 27,
+      "caracteres_no_blancos": 2424,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 28,
+      "caracteres_no_blancos": 2872,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 29,
+      "caracteres_no_blancos": 2966,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 30,
+      "caracteres_no_blancos": 2341,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 31,
+      "caracteres_no_blancos": 3006,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 32,
+      "caracteres_no_blancos": 2908,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 33,
+      "caracteres_no_blancos": 2876,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 34,
+      "caracteres_no_blancos": 2384,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 35,
+      "caracteres_no_blancos": 2509,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 36,
+      "caracteres_no_blancos": 2363,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 37,
+      "caracteres_no_blancos": 2536,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 38,
+      "caracteres_no_blancos": 2963,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 39,
+      "caracteres_no_blancos": 2685,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 40,
+      "caracteres_no_blancos": 3100,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 41,
+      "caracteres_no_blancos": 2674,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 42,
+      "caracteres_no_blancos": 2332,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 43,
+      "caracteres_no_blancos": 2215,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 44,
+      "caracteres_no_blancos": 2353,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 45,
+      "caracteres_no_blancos": 2921,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 46,
+      "caracteres_no_blancos": 2128,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 47,
+      "caracteres_no_blancos": 2391,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 48,
+      "caracteres_no_blancos": 3135,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 49,
+      "caracteres_no_blancos": 2407,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 50,
+      "caracteres_no_blancos": 3049,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 51,
+      "caracteres_no_blancos": 2860,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 52,
+      "caracteres_no_blancos": 2280,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 53,
+      "caracteres_no_blancos": 2451,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 54,
+      "caracteres_no_blancos": 2250,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 13,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 55,
+      "caracteres_no_blancos": 2551,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 56,
+      "caracteres_no_blancos": 2427,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 57,
+      "caracteres_no_blancos": 2462,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 58,
+      "caracteres_no_blancos": 2354,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 59,
+      "caracteres_no_blancos": 2487,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 60,
+      "caracteres_no_blancos": 2708,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 61,
+      "caracteres_no_blancos": 2667,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 62,
+      "caracteres_no_blancos": 2398,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 63,
+      "caracteres_no_blancos": 2600,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 64,
+      "caracteres_no_blancos": 2776,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 65,
+      "caracteres_no_blancos": 2850,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 66,
+      "caracteres_no_blancos": 2382,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 67,
+      "caracteres_no_blancos": 3156,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 68,
+      "caracteres_no_blancos": 2557,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 69,
+      "caracteres_no_blancos": 2639,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 70,
+      "caracteres_no_blancos": 2321,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 71,
+      "caracteres_no_blancos": 2692,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 72,
+      "caracteres_no_blancos": 2129,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 73,
+      "caracteres_no_blancos": 2147,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 16,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 74,
+      "caracteres_no_blancos": 2512,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 75,
+      "caracteres_no_blancos": 2395,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 76,
+      "caracteres_no_blancos": 2940,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 77,
+      "caracteres_no_blancos": 2528,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 78,
+      "caracteres_no_blancos": 2649,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 79,
+      "caracteres_no_blancos": 3231,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 80,
+      "caracteres_no_blancos": 2496,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 81,
+      "caracteres_no_blancos": 2486,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 82,
+      "caracteres_no_blancos": 2634,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 83,
+      "caracteres_no_blancos": 2555,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 84,
+      "caracteres_no_blancos": 2904,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 85,
+      "caracteres_no_blancos": 2465,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 86,
+      "caracteres_no_blancos": 3081,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 87,
+      "caracteres_no_blancos": 2554,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 88,
+      "caracteres_no_blancos": 2440,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 89,
+      "caracteres_no_blancos": 2594,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 90,
+      "caracteres_no_blancos": 2416,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 91,
+      "caracteres_no_blancos": 2577,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 92,
+      "caracteres_no_blancos": 3062,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 93,
+      "caracteres_no_blancos": 2618,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 94,
+      "caracteres_no_blancos": 2543,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 95,
+      "caracteres_no_blancos": 2622,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 96,
+      "caracteres_no_blancos": 2552,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 97,
+      "caracteres_no_blancos": 2219,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 98,
+      "caracteres_no_blancos": 2655,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 13,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 99,
+      "caracteres_no_blancos": 2874,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 100,
+      "caracteres_no_blancos": 2809,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 101,
+      "caracteres_no_blancos": 2426,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 102,
+      "caracteres_no_blancos": 2663,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 103,
+      "caracteres_no_blancos": 2710,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 104,
+      "caracteres_no_blancos": 3004,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 105,
+      "caracteres_no_blancos": 2741,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 106,
+      "caracteres_no_blancos": 2970,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 107,
+      "caracteres_no_blancos": 3396,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 108,
+      "caracteres_no_blancos": 3336,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 109,
+      "caracteres_no_blancos": 353,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 110,
+      "caracteres_no_blancos": 2725,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 111,
+      "caracteres_no_blancos": 381,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 112,
+      "caracteres_no_blancos": 2793,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 113,
+      "caracteres_no_blancos": 749,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 114,
+      "caracteres_no_blancos": 4592,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 115,
+      "caracteres_no_blancos": 3433,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 116,
+      "caracteres_no_blancos": 298,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    }
+  ],
+  "alcance": "Controles de conservación en todas las páginas; comparación de cifras con Poppler y pypdf. El cotejo visual se registra por separado. No certifica vigencia jurídica.",
+  "incidencias_resueltas": [],
+  "diferencias_de_fuente": [
+    "La comparación léxica Word/PDF no coincide: encabezados repetidos, campos Word y otras diferencias pendientes de cotejo. No equivale a pérdida del Markdown.",
+    "El control original con retirada de paginación difiere. Se conserva el resultado y se añade comparación simétrica de cifras sin retirar paginación.",
+    "Hay discrepancias en la secuencia de cifras entre los dos lectores PDF; requieren cotejo, no se reparan.",
+    "Word original .doc conservado por autorización expresa del usuario; no se fabrica original.docx."
+  ],
+  "formato_word_original": "doc",
+  "ocr_ejecutado": false,
+  "incidencias_descarga": [],
+  "promociones_encabezado_evitadas": [],
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-18T14:26:23.400519+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "decreto_numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.edicion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.seccion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "reformas",
+        "motivo": "Notas literales conservadas con todas las fechas; fecha escalar null si hay varias. Números de diario/decreto no impresos quedan null. Captura automática pendiente de revisión."
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Cláusulas expresas capturadas para cotejo; no se infieren nombres ni fechas faltantes. Revisar evidencia impresa."
+      },
+      {
+        "campo": "abroga[].po_numero",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "campo": "abroga[].fecha",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0
+        ]
+      },
+      {
+        "campo": "abroga[].decreto",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Entradas con todos los campos null descartadas; se conserva evidencia literal de las cláusulas sin inferir datos.",
+        "indices_anteriores_descartados": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "campo": "abrogacion_programada",
+        "motivo": "Portada/encabezado sin declaración identificada de abrogación o término de vigencia en fecha cierta; null."
+      }
+    ],
+    "evidencia": {
+      "abroga": [
+        {
+          "pagina": 1,
+          "texto": "SE EXPIDE LA LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL Y SE ABROGA LA LEY DE LA PROPIEDAD INDUSTRIAL."
+        },
+        {
+          "pagina": 106,
+          "texto": "SEGUNDO.- Se abroga la Ley de la Propiedad Industrial, publicada originalmente como Ley de Fomento y Protección de la Propiedad Industrial en el Diario Oficial de la Federación el 27 de junio de 1991, así como sus posteriores reformas y adiciones. No obstante, ésta se seguirá aplicando"
+        },
+        {
+          "pagina": 107,
+          "texto": "SEXTO.- Las patentes y registros de modelos de utilidad, diseños industriales o esquemas de trazado de circuitos integrados otorgados con fundamento en la Ley que se abroga, conservarán su vigencia concedida hasta su vencimiento y quedarán sujetos a las disposiciones del presente Decreto, exceptuando lo dispuesto por el Capítulo III Del Certificado Complementario y el Capítulo X De la Nulidad y Caducidad de Patentes y Registros del Título Segundo."
+        },
+        {
+          "pagina": 107,
+          "texto": "En caso de solicitarse una declaración administrativa de nulidad o caducidad resultarán aplicables las causales previstas en la Ley de la Propiedad Industrial que se abroga."
+        },
+        {
+          "pagina": 108,
+          "texto": "DÉCIMO SEGUNDO.- Las autorizaciones de uso de una denominación de origen o de una indicación geográfica, otorgados con base en la Ley que se abroga, conservarán su vigencia, en todo lo demás quedarán sujetos al presente Decreto."
+        },
+        {
+          "pagina": 108,
+          "texto": "DÉCIMO TERCERO.- Las declaraciones administrativas que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán substanciándose y se resolverán conforme a las disposiciones contenidas en la Ley de la Propiedad Industrial que se abroga."
+        },
+        {
+          "pagina": 108,
+          "texto": "DÉCIMO CUARTO.- Las causales de nulidad y caducidad contenidas en el presente Decreto, no previstas en la Ley que se abroga, solo serán aplicables a las patentes, registros, publicaciones o autorizaciones de uso que hayan sido solicitados y otorgados al amparo del presente Decreto."
+        },
+        {
+          "pagina": 110,
+          "texto": "Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025."
+        },
+        {
+          "pagina": 112,
+          "texto": "Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto."
+        }
+      ],
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL Nueva Ley publicada en el Diario Oficial de la Federación el 1 de julio de 2020"
+      },
+      "ultima_reforma": {
+        "pagina": 1,
+        "texto": "Última Reforma DOF 03-04-2026"
+      },
+      "reformas": {
+        "pagina_inicio": 1,
+        "encabezado": null,
+        "filas": [
+          {
+            "fila": 0,
+            "texto": "Párrafo adicionado DOF 15-01-2026",
+            "pagina": 1
+          },
+          {
+            "fila": 1,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 2
+          },
+          {
+            "fila": 2,
+            "texto": "Artículo reformado DOF 14-11-2025",
+            "pagina": 2
+          },
+          {
+            "fila": 3,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 2
+          },
+          {
+            "fila": 4,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 3
+          },
+          {
+            "fila": 5,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 3
+          },
+          {
+            "fila": 6,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 3
+          },
+          {
+            "fila": 7,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 3
+          },
+          {
+            "fila": 8,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 3
+          },
+          {
+            "fila": 9,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 3
+          },
+          {
+            "fila": 10,
+            "texto": "Fracción reformada DOF 15-01-2026",
+            "pagina": 4
+          },
+          {
+            "fila": 11,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 4
+          },
+          {
+            "fila": 12,
+            "texto": "Inciso reformado DOF 03-04-2026",
+            "pagina": 4
+          },
+          {
+            "fila": 13,
+            "texto": "Inciso reformado DOF 03-04-2026",
+            "pagina": 4
+          },
+          {
+            "fila": 14,
+            "texto": "Inciso reformado DOF 15-01-2026, 03-04-2026",
+            "pagina": 4
+          },
+          {
+            "fila": 15,
+            "texto": "Inciso reformado DOF 15-01-2026, 03-04-2026",
+            "pagina": 4
+          },
+          {
+            "fila": 16,
+            "texto": "Inciso adicionado DOF 15-01-2026, 03-04-2026",
+            "pagina": 5
+          },
+          {
+            "fila": 17,
+            "texto": "Inciso adicionado DOF 03-04-2026",
+            "pagina": 5
+          },
+          {
+            "fila": 18,
+            "texto": "Fracción reformada DOF 15-01-2026, 03-04-2026",
+            "pagina": 5
+          },
+          {
+            "fila": 19,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 5
+          },
+          {
+            "fila": 20,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 5
+          },
+          {
+            "fila": 21,
+            "texto": "Fracción reformada DOF 15-01-2026",
+            "pagina": 6
+          },
+          {
+            "fila": 22,
+            "texto": "Fracción adicionada DOF 03-04-2026",
+            "pagina": 6
+          },
+          {
+            "fila": 23,
+            "texto": "Fracción adicionada DOF 03-04-2026",
+            "pagina": 6
+          },
+          {
+            "fila": 24,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 6
+          },
+          {
+            "fila": 25,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 6
+          },
+          {
+            "fila": 26,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 6
+          },
+          {
+            "fila": 27,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 6
+          },
+          {
+            "fila": 28,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 6
+          },
+          {
+            "fila": 29,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 7
+          },
+          {
+            "fila": 30,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 7
+          },
+          {
+            "fila": 31,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 8
+          },
+          {
+            "fila": 32,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 8
+          },
+          {
+            "fila": 33,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 8
+          },
+          {
+            "fila": 34,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 8
+          },
+          {
+            "fila": 35,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 9
+          },
+          {
+            "fila": 36,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 9
+          },
+          {
+            "fila": 37,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 10
+          },
+          {
+            "fila": 38,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 10
+          },
+          {
+            "fila": 39,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 10
+          },
+          {
+            "fila": 40,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 10
+          },
+          {
+            "fila": 41,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 10
+          },
+          {
+            "fila": 42,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 10
+          },
+          {
+            "fila": 43,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 10
+          },
+          {
+            "fila": 44,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 10
+          },
+          {
+            "fila": 45,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 11
+          },
+          {
+            "fila": 46,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 11
+          },
+          {
+            "fila": 47,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 11
+          },
+          {
+            "fila": 48,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 11
+          },
+          {
+            "fila": 49,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 11
+          },
+          {
+            "fila": 50,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 12
+          },
+          {
+            "fila": 51,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 12
+          },
+          {
+            "fila": 52,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 12
+          },
+          {
+            "fila": 53,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 12
+          },
+          {
+            "fila": 54,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 12
+          },
+          {
+            "fila": 55,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 13
+          },
+          {
+            "fila": 56,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 13
+          },
+          {
+            "fila": 57,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 13
+          },
+          {
+            "fila": 58,
+            "texto": "Artículo adicionado DOF 03-04-2026",
+            "pagina": 13
+          },
+          {
+            "fila": 59,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 14
+          },
+          {
+            "fila": 60,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 14
+          },
+          {
+            "fila": 61,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 14
+          },
+          {
+            "fila": 62,
+            "texto": "Párrafo adicionado DOF 03-04-2026",
+            "pagina": 14
+          },
+          {
+            "fila": 63,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 15
+          },
+          {
+            "fila": 64,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 15
+          },
+          {
+            "fila": 65,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 16
+          },
+          {
+            "fila": 66,
+            "texto": "Inciso reformado DOF 03-04-2026",
+            "pagina": 16
+          },
+          {
+            "fila": 67,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 17
+          },
+          {
+            "fila": 68,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 18
+          },
+          {
+            "fila": 69,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 18
+          },
+          {
+            "fila": 70,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 18
+          },
+          {
+            "fila": 71,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 18
+          },
+          {
+            "fila": 72,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 18
+          },
+          {
+            "fila": 73,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 18
+          },
+          {
+            "fila": 74,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 19
+          },
+          {
+            "fila": 75,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 19
+          },
+          {
+            "fila": 76,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 19
+          },
+          {
+            "fila": 77,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 20
+          },
+          {
+            "fila": 78,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 20
+          },
+          {
+            "fila": 79,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 20
+          },
+          {
+            "fila": 80,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 20
+          },
+          {
+            "fila": 81,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 21
+          },
+          {
+            "fila": 82,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 22
+          },
+          {
+            "fila": 83,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 22
+          },
+          {
+            "fila": 84,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 23
+          },
+          {
+            "fila": 85,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 23
+          },
+          {
+            "fila": 86,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 23
+          },
+          {
+            "fila": 87,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 24
+          },
+          {
+            "fila": 88,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 24
+          },
+          {
+            "fila": 89,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 24
+          },
+          {
+            "fila": 90,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 25
+          },
+          {
+            "fila": 91,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 25
+          },
+          {
+            "fila": 92,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 25
+          },
+          {
+            "fila": 93,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 25
+          },
+          {
+            "fila": 94,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 25
+          },
+          {
+            "fila": 95,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 26
+          },
+          {
+            "fila": 96,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 26
+          },
+          {
+            "fila": 97,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 26
+          },
+          {
+            "fila": 98,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 26
+          },
+          {
+            "fila": 99,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 27
+          },
+          {
+            "fila": 100,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 27
+          },
+          {
+            "fila": 101,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 28
+          },
+          {
+            "fila": 102,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 28
+          },
+          {
+            "fila": 103,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 28
+          },
+          {
+            "fila": 104,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 28
+          },
+          {
+            "fila": 105,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 28
+          },
+          {
+            "fila": 106,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 29
+          },
+          {
+            "fila": 107,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 29
+          },
+          {
+            "fila": 108,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 29
+          },
+          {
+            "fila": 109,
+            "texto": "Artículo adicionado DOF 03-04-2026",
+            "pagina": 30
+          },
+          {
+            "fila": 110,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 30
+          },
+          {
+            "fila": 111,
+            "texto": "Inciso reformado DOF 03-04-2026",
+            "pagina": 30
+          },
+          {
+            "fila": 112,
+            "texto": "Párrafo adicionado DOF 03-04-2026",
+            "pagina": 30
+          },
+          {
+            "fila": 113,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 31
+          },
+          {
+            "fila": 114,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 31
+          },
+          {
+            "fila": 115,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 31
+          },
+          {
+            "fila": 116,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 32
+          },
+          {
+            "fila": 117,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 32
+          },
+          {
+            "fila": 118,
+            "texto": "Artículo adicionado DOF 03-04-2026",
+            "pagina": 32
+          },
+          {
+            "fila": 119,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 33
+          },
+          {
+            "fila": 120,
+            "texto": "Artículo adicionado DOF 03-04-2026",
+            "pagina": 33
+          },
+          {
+            "fila": 121,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 33
+          },
+          {
+            "fila": 122,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 33
+          },
+          {
+            "fila": 123,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 34
+          },
+          {
+            "fila": 124,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 34
+          },
+          {
+            "fila": 125,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 34
+          },
+          {
+            "fila": 126,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 35
+          },
+          {
+            "fila": 127,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 35
+          },
+          {
+            "fila": 128,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 35
+          },
+          {
+            "fila": 129,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 36
+          },
+          {
+            "fila": 130,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 36
+          },
+          {
+            "fila": 131,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 36
+          },
+          {
+            "fila": 132,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 37
+          },
+          {
+            "fila": 133,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 37
+          },
+          {
+            "fila": 134,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 37
+          },
+          {
+            "fila": 135,
+            "texto": "Artículo adicionado DOF 03-04-2026",
+            "pagina": 38
+          },
+          {
+            "fila": 136,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 38
+          },
+          {
+            "fila": 137,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 38
+          },
+          {
+            "fila": 138,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 39
+          },
+          {
+            "fila": 139,
+            "texto": "Párrafo adicionado DOF 03-04-2026",
+            "pagina": 39
+          },
+          {
+            "fila": 140,
+            "texto": "Párrafo adicionado DOF 03-04-2026",
+            "pagina": 39
+          },
+          {
+            "fila": 141,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 39
+          },
+          {
+            "fila": 142,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 39
+          },
+          {
+            "fila": 143,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 39
+          },
+          {
+            "fila": 144,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 39
+          },
+          {
+            "fila": 145,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 40
+          },
+          {
+            "fila": 146,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 40
+          },
+          {
+            "fila": 147,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 40
+          },
+          {
+            "fila": 148,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 40
+          },
+          {
+            "fila": 149,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 40
+          },
+          {
+            "fila": 150,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 40
+          },
+          {
+            "fila": 151,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 41
+          },
+          {
+            "fila": 152,
+            "texto": "Fracción derogada DOF 03-04-2026",
+            "pagina": 41
+          },
+          {
+            "fila": 153,
+            "texto": "Fracción derogada DOF 03-04-2026",
+            "pagina": 42
+          },
+          {
+            "fila": 154,
+            "texto": "Fracción derogada DOF 03-04-2026",
+            "pagina": 43
+          },
+          {
+            "fila": 155,
+            "texto": "Fracción derogada DOF 03-04-2026",
+            "pagina": 43
+          },
+          {
+            "fila": 156,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 44
+          },
+          {
+            "fila": 157,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 44
+          },
+          {
+            "fila": 158,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 45
+          },
+          {
+            "fila": 159,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 45
+          },
+          {
+            "fila": 160,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 45
+          },
+          {
+            "fila": 161,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 46
+          },
+          {
+            "fila": 162,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 47
+          },
+          {
+            "fila": 163,
+            "texto": "Fracción adicionada DOF 03-04-2026",
+            "pagina": 47
+          },
+          {
+            "fila": 164,
+            "texto": "Fracción adicionada DOF 03-04-2026",
+            "pagina": 47
+          },
+          {
+            "fila": 165,
+            "texto": "Fracción adicionada DOF 03-04-2026",
+            "pagina": 47
+          },
+          {
+            "fila": 166,
+            "texto": "Fracción reformada y recorrida DOF 03-04-2026",
+            "pagina": 47
+          },
+          {
+            "fila": 167,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 47
+          },
+          {
+            "fila": 168,
+            "texto": "Fracción adicionada DOF 03-04-2026",
+            "pagina": 47
+          },
+          {
+            "fila": 169,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 48
+          },
+          {
+            "fila": 170,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 48
+          },
+          {
+            "fila": 171,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 49
+          },
+          {
+            "fila": 172,
+            "texto": "Inciso reformado DOF 03-04-2026",
+            "pagina": 49
+          },
+          {
+            "fila": 173,
+            "texto": "Inciso reformado DOF 03-04-2026",
+            "pagina": 49
+          },
+          {
+            "fila": 174,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 49
+          },
+          {
+            "fila": 175,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 49
+          },
+          {
+            "fila": 176,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 49
+          },
+          {
+            "fila": 177,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 50
+          },
+          {
+            "fila": 178,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 50
+          },
+          {
+            "fila": 179,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 50
+          },
+          {
+            "fila": 180,
+            "texto": "Fracción adicionada DOF 03-04-2026",
+            "pagina": 50
+          },
+          {
+            "fila": 181,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 51
+          },
+          {
+            "fila": 182,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 51
+          },
+          {
+            "fila": 183,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 51
+          },
+          {
+            "fila": 184,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 52
+          },
+          {
+            "fila": 185,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 52
+          },
+          {
+            "fila": 186,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 52
+          },
+          {
+            "fila": 187,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 53
+          },
+          {
+            "fila": 188,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 54
+          },
+          {
+            "fila": 189,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 54
+          },
+          {
+            "fila": 190,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 54
+          },
+          {
+            "fila": 191,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 55
+          },
+          {
+            "fila": 192,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 55
+          },
+          {
+            "fila": 193,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 55
+          },
+          {
+            "fila": 194,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 55
+          },
+          {
+            "fila": 195,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 56
+          },
+          {
+            "fila": 196,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 56
+          },
+          {
+            "fila": 197,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 56
+          },
+          {
+            "fila": 198,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 56
+          },
+          {
+            "fila": 199,
+            "texto": "Artículo derogado DOF 03-04-2026",
+            "pagina": 57
+          },
+          {
+            "fila": 200,
+            "texto": "Párrafo adicionado DOF 03-04-2026",
+            "pagina": 58
+          },
+          {
+            "fila": 201,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 58
+          },
+          {
+            "fila": 202,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 58
+          },
+          {
+            "fila": 203,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 58
+          },
+          {
+            "fila": 204,
+            "texto": "Párrafo adicionado DOF 03-04-2026",
+            "pagina": 59
+          },
+          {
+            "fila": 205,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 59
+          },
+          {
+            "fila": 206,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 59
+          },
+          {
+            "fila": 207,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 60
+          },
+          {
+            "fila": 208,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 60
+          },
+          {
+            "fila": 209,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 60
+          },
+          {
+            "fila": 210,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 60
+          },
+          {
+            "fila": 211,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 61
+          },
+          {
+            "fila": 212,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 61
+          },
+          {
+            "fila": 213,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 61
+          },
+          {
+            "fila": 214,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 61
+          },
+          {
+            "fila": 215,
+            "texto": "Párrafo adicionado DOF 03-04-2026",
+            "pagina": 61
+          },
+          {
+            "fila": 216,
+            "texto": "Fracción adicionada DOF 03-04-2026",
+            "pagina": 62
+          },
+          {
+            "fila": 217,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 62
+          },
+          {
+            "fila": 218,
+            "texto": "Artículo adicionado DOF 03-04-2026",
+            "pagina": 62
+          },
+          {
+            "fila": 219,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 62
+          },
+          {
+            "fila": 220,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 62
+          },
+          {
+            "fila": 221,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 63
+          },
+          {
+            "fila": 222,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 63
+          },
+          {
+            "fila": 223,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 63
+          },
+          {
+            "fila": 224,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 63
+          },
+          {
+            "fila": 225,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 64
+          },
+          {
+            "fila": 226,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 64
+          },
+          {
+            "fila": 227,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 64
+          },
+          {
+            "fila": 228,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 64
+          },
+          {
+            "fila": 229,
+            "texto": "Párrafo adicionado DOF 03-04-2026",
+            "pagina": 64
+          },
+          {
+            "fila": 230,
+            "texto": "Párrafo adicionado DOF 03-04-2026",
+            "pagina": 64
+          },
+          {
+            "fila": 231,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 64
+          },
+          {
+            "fila": 232,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 65
+          },
+          {
+            "fila": 233,
+            "texto": "Párrafo adicionado DOF 03-04-2026",
+            "pagina": 65
+          },
+          {
+            "fila": 234,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 65
+          },
+          {
+            "fila": 235,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 65
+          },
+          {
+            "fila": 236,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 65
+          },
+          {
+            "fila": 237,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 65
+          },
+          {
+            "fila": 238,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 65
+          },
+          {
+            "fila": 239,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 66
+          },
+          {
+            "fila": 240,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 66
+          },
+          {
+            "fila": 241,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 66
+          },
+          {
+            "fila": 242,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 66
+          },
+          {
+            "fila": 243,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 66
+          },
+          {
+            "fila": 244,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 66
+          },
+          {
+            "fila": 245,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 66
+          },
+          {
+            "fila": 246,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 66
+          },
+          {
+            "fila": 247,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 66
+          },
+          {
+            "fila": 248,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 66
+          },
+          {
+            "fila": 249,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 67
+          },
+          {
+            "fila": 250,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 67
+          },
+          {
+            "fila": 251,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 67
+          },
+          {
+            "fila": 252,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 67
+          },
+          {
+            "fila": 253,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 67
+          },
+          {
+            "fila": 254,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 67
+          },
+          {
+            "fila": 255,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 68
+          },
+          {
+            "fila": 256,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 68
+          },
+          {
+            "fila": 257,
+            "texto": "Artículo adicionado DOF 03-04-2026",
+            "pagina": 68
+          },
+          {
+            "fila": 258,
+            "texto": "Artículo adicionado DOF 03-04-2026",
+            "pagina": 68
+          },
+          {
+            "fila": 259,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 69
+          },
+          {
+            "fila": 260,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 69
+          },
+          {
+            "fila": 261,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 69
+          },
+          {
+            "fila": 262,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 70
+          },
+          {
+            "fila": 263,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 70
+          },
+          {
+            "fila": 264,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 71
+          },
+          {
+            "fila": 265,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 72
+          },
+          {
+            "fila": 266,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 72
+          },
+          {
+            "fila": 267,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 73
+          },
+          {
+            "fila": 268,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 74
+          },
+          {
+            "fila": 269,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 74
+          },
+          {
+            "fila": 270,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 74
+          },
+          {
+            "fila": 271,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 74
+          },
+          {
+            "fila": 272,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 75
+          },
+          {
+            "fila": 273,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 75
+          },
+          {
+            "fila": 274,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 75
+          },
+          {
+            "fila": 275,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 75
+          },
+          {
+            "fila": 276,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 75
+          },
+          {
+            "fila": 277,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 75
+          },
+          {
+            "fila": 278,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 76
+          },
+          {
+            "fila": 279,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 76
+          },
+          {
+            "fila": 280,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 76
+          },
+          {
+            "fila": 281,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 77
+          },
+          {
+            "fila": 282,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 77
+          },
+          {
+            "fila": 283,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 77
+          },
+          {
+            "fila": 284,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 77
+          },
+          {
+            "fila": 285,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 77
+          },
+          {
+            "fila": 286,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 77
+          },
+          {
+            "fila": 287,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 78
+          },
+          {
+            "fila": 288,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 79
+          },
+          {
+            "fila": 289,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 79
+          },
+          {
+            "fila": 290,
+            "texto": "Párrafo adicionado DOF 03-04-2026",
+            "pagina": 79
+          },
+          {
+            "fila": 291,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 79
+          },
+          {
+            "fila": 292,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 79
+          },
+          {
+            "fila": 293,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 80
+          },
+          {
+            "fila": 294,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 80
+          },
+          {
+            "fila": 295,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 80
+          },
+          {
+            "fila": 296,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 80
+          },
+          {
+            "fila": 297,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 81
+          },
+          {
+            "fila": 298,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 81
+          },
+          {
+            "fila": 299,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 82
+          },
+          {
+            "fila": 300,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 82
+          },
+          {
+            "fila": 301,
+            "texto": "Párrafo adicionado DOF 03-04-2026",
+            "pagina": 82
+          },
+          {
+            "fila": 302,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 82
+          },
+          {
+            "fila": 303,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 82
+          },
+          {
+            "fila": 304,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 82
+          },
+          {
+            "fila": 305,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 82
+          },
+          {
+            "fila": 306,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 83
+          },
+          {
+            "fila": 307,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 83
+          },
+          {
+            "fila": 308,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 83
+          },
+          {
+            "fila": 309,
+            "texto": "Título adicionado DOF 03-04-2026",
+            "pagina": 83
+          },
+          {
+            "fila": 310,
+            "texto": "Capítulo adicionado DOF 03-04-2026",
+            "pagina": 84
+          },
+          {
+            "fila": 311,
+            "texto": "Artículo adicionado DOF 03-04-2026",
+            "pagina": 84
+          },
+          {
+            "fila": 312,
+            "texto": "Capítulo adicionado DOF 03-04-2026",
+            "pagina": 84
+          },
+          {
+            "fila": 313,
+            "texto": "Artículo adicionado DOF 03-04-2026",
+            "pagina": 84
+          },
+          {
+            "fila": 314,
+            "texto": "Capítulo adicionado DOF 03-04-2026",
+            "pagina": 84
+          },
+          {
+            "fila": 315,
+            "texto": "Artículo adicionado DOF 03-04-2026",
+            "pagina": 85
+          },
+          {
+            "fila": 316,
+            "texto": "Párrafo adicionado DOF 03-04-2026",
+            "pagina": 85
+          },
+          {
+            "fila": 317,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 85
+          },
+          {
+            "fila": 318,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 86
+          },
+          {
+            "fila": 319,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 86
+          },
+          {
+            "fila": 320,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 86
+          },
+          {
+            "fila": 321,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 86
+          },
+          {
+            "fila": 322,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 86
+          },
+          {
+            "fila": 323,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 86
+          },
+          {
+            "fila": 324,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 87
+          },
+          {
+            "fila": 325,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 87
+          },
+          {
+            "fila": 326,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 87
+          },
+          {
+            "fila": 327,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 87
+          },
+          {
+            "fila": 328,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 87
+          },
+          {
+            "fila": 329,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 87
+          },
+          {
+            "fila": 330,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 87
+          },
+          {
+            "fila": 331,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 87
+          },
+          {
+            "fila": 332,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 88
+          },
+          {
+            "fila": 333,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 88
+          },
+          {
+            "fila": 334,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 88
+          },
+          {
+            "fila": 335,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 88
+          },
+          {
+            "fila": 336,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 88
+          },
+          {
+            "fila": 337,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 89
+          },
+          {
+            "fila": 338,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 89
+          },
+          {
+            "fila": 339,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 89
+          },
+          {
+            "fila": 340,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 89
+          },
+          {
+            "fila": 341,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 89
+          },
+          {
+            "fila": 342,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 90
+          },
+          {
+            "fila": 343,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 90
+          },
+          {
+            "fila": 344,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 90
+          },
+          {
+            "fila": 345,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 90
+          },
+          {
+            "fila": 346,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 90
+          },
+          {
+            "fila": 347,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 91
+          },
+          {
+            "fila": 348,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 91
+          },
+          {
+            "fila": 349,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 91
+          },
+          {
+            "fila": 350,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 92
+          },
+          {
+            "fila": 351,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 92
+          },
+          {
+            "fila": 352,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 92
+          },
+          {
+            "fila": 353,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 93
+          },
+          {
+            "fila": 354,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 93
+          },
+          {
+            "fila": 355,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 93
+          },
+          {
+            "fila": 356,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 93
+          },
+          {
+            "fila": 357,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 93
+          },
+          {
+            "fila": 358,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 93
+          },
+          {
+            "fila": 359,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 93
+          },
+          {
+            "fila": 360,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 93
+          },
+          {
+            "fila": 361,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 94
+          },
+          {
+            "fila": 362,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 94
+          },
+          {
+            "fila": 363,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 95
+          },
+          {
+            "fila": 364,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 95
+          },
+          {
+            "fila": 365,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 95
+          },
+          {
+            "fila": 366,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 95
+          },
+          {
+            "fila": 367,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 96
+          },
+          {
+            "fila": 368,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 96
+          },
+          {
+            "fila": 369,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 96
+          },
+          {
+            "fila": 370,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 96
+          },
+          {
+            "fila": 371,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 96
+          },
+          {
+            "fila": 372,
+            "texto": "Inciso reformado DOF 03-04-2026",
+            "pagina": 97
+          },
+          {
+            "fila": 373,
+            "texto": "Inciso reformado DOF 03-04-2026",
+            "pagina": 97
+          },
+          {
+            "fila": 374,
+            "texto": "Inciso reformado DOF 03-04-2026",
+            "pagina": 97
+          },
+          {
+            "fila": 375,
+            "texto": "Inciso reformado DOF 03-04-2026",
+            "pagina": 97
+          },
+          {
+            "fila": 376,
+            "texto": "Inciso adicionado DOF 03-04-2026",
+            "pagina": 98
+          },
+          {
+            "fila": 377,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 98
+          },
+          {
+            "fila": 378,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 98
+          },
+          {
+            "fila": 379,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 98
+          },
+          {
+            "fila": 380,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 98
+          },
+          {
+            "fila": 381,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 98
+          },
+          {
+            "fila": 382,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 98
+          },
+          {
+            "fila": 383,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 98
+          },
+          {
+            "fila": 384,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 98
+          },
+          {
+            "fila": 385,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 98
+          },
+          {
+            "fila": 386,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 99
+          },
+          {
+            "fila": 387,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 99
+          },
+          {
+            "fila": 388,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 99
+          },
+          {
+            "fila": 389,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 100
+          },
+          {
+            "fila": 390,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 100
+          },
+          {
+            "fila": 391,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 100
+          },
+          {
+            "fila": 392,
+            "texto": "Párrafo adicionado DOF 03-04-2026",
+            "pagina": 101
+          },
+          {
+            "fila": 393,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 101
+          },
+          {
+            "fila": 394,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 101
+          },
+          {
+            "fila": 395,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 101
+          },
+          {
+            "fila": 396,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 102
+          },
+          {
+            "fila": 397,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 102
+          },
+          {
+            "fila": 398,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 102
+          },
+          {
+            "fila": 399,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 102
+          },
+          {
+            "fila": 400,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 102
+          },
+          {
+            "fila": 401,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 102
+          },
+          {
+            "fila": 402,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 102
+          },
+          {
+            "fila": 403,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 103
+          },
+          {
+            "fila": 404,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 103
+          },
+          {
+            "fila": 405,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 103
+          },
+          {
+            "fila": 406,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 103
+          },
+          {
+            "fila": 407,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 103
+          },
+          {
+            "fila": 408,
+            "texto": "Artículo reformado DOF 14-11-2025",
+            "pagina": 103
+          },
+          {
+            "fila": 409,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 103
+          },
+          {
+            "fila": 410,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 104
+          },
+          {
+            "fila": 411,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 104
+          },
+          {
+            "fila": 412,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 104
+          },
+          {
+            "fila": 413,
+            "texto": "Fracción reformada DOF 03-04-2026",
+            "pagina": 104
+          },
+          {
+            "fila": 414,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 104
+          },
+          {
+            "fila": 415,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 105
+          },
+          {
+            "fila": 416,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 105
+          },
+          {
+            "fila": 417,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 105
+          },
+          {
+            "fila": 418,
+            "texto": "Artículo reformado DOF 03-04-2026",
+            "pagina": 105
+          },
+          {
+            "fila": 419,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 106
+          },
+          {
+            "fila": 420,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 106
+          },
+          {
+            "fila": 421,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 106
+          },
+          {
+            "fila": 422,
+            "texto": "Párrafo reformado DOF 03-04-2026",
+            "pagina": 106
+          }
+        ]
+      }
+    }
+  },
+  "abroga_entradas_sin_datos_descartadas": {
+    "cantidad": 5,
+    "indices_anteriores": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "control_pypdf_informativo": {
+    "fuente": "Usuario; piloto aprobado en la conversación",
+    "descripcion": "pypdf fragmenta números con espacios; verificado por el usuario contra originales en 11 páginas señaladas del CFF y tres de CPEUM. Markdown generado con Poppler.",
+    "decision": "Control informativo, no bloquea lotes y no modifica textos. No se atribuye cotejo visual adicional a Codex."
+  }
+}

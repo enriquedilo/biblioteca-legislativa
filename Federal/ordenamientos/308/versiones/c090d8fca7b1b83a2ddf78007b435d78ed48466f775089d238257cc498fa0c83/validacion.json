@@ -1,0 +1,1152 @@
+{
+  "id": 308,
+  "fecha_revision": "2026-09-18T15:06:56.290713+00:00",
+  "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 47,
+  "paginas_sin_texto": [],
+  "pagina_blanca_confirmada_visualmente": false,
+  "texto_conservado": true,
+  "comparacion_word_pdf": {
+    "palabras_comparadas": 11883,
+    "palabras_pdf": 13211,
+    "frecuencias_coinciden": false,
+    "orden_coincide_separando_nota_al_pie": false,
+    "nota_al_pie_reubicada_por_lector_word": null,
+    "normalizaciones_solo_comparacion": [
+      "Misma función lexical_tokens de Sinaloa; no modifica los originales ni el Markdown."
+    ],
+    "limite": "Campos Word y encabezados permanecen en el control; las diferencias se reportan sin reparación.",
+    "solo_word": {
+      "b": 1,
+      "embed": 1,
+      "word": 1,
+      "picture": 1,
+      "page": 1,
+      "numpages": 1
+    },
+    "solo_pdf": {
+      "ley": 46,
+      "sobre": 46,
+      "el": 92,
+      "escudo": 46,
+      "la": 92,
+      "bandera": 46,
+      "y": 46,
+      "himno": 46,
+      "nacionales": 46,
+      "cámara": 46,
+      "de": 184,
+      "diputados": 46,
+      "del": 46,
+      "h": 46,
+      "congreso": 46,
+      "unión": 46,
+      "última": 46,
+      "reforma": 46,
+      "dof": 46,
+      "secretaría": 92,
+      "general": 46,
+      "servicios": 46,
+      "parlamentarios": 46
+    }
+  },
+  "articulos_word": [
+    "1",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "23bis",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "32bis",
+    "33",
+    "33bis",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "39bis",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "54bis",
+    "55",
+    "56",
+    "56bis",
+    "56ter",
+    "56quáter",
+    "56quintus",
+    "57",
+    "58",
+    "59",
+    "60"
+  ],
+  "articulos_pdf": [
+    "1",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "23bis",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "32bis",
+    "33",
+    "33bis",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "39bis",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "54bis",
+    "55",
+    "56",
+    "artículo39de",
+    "56bis",
+    "56ter",
+    "56quáter",
+    "56quintus",
+    "57",
+    "58",
+    "59",
+    "60"
+  ],
+  "identificadores_articulos_coinciden": false,
+  "encabezados_transitorios": [
+    {
+      "pagina": 21,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 22,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 23,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 24,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 25,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 26,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 27,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 28,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 29,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 30,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 31,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 32,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 33,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 34,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 35,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 36,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 37,
+      "encabezado": "Transitorio"
+    },
+    {
+      "pagina": 38,
+      "encabezado": "Transitorio"
+    },
+    {
+      "pagina": 39,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 41,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 42,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 43,
+      "encabezado": "Transitorio"
+    },
+    {
+      "pagina": 44,
+      "encabezado": "Transitorio"
+    },
+    {
+      "pagina": 45,
+      "encabezado": "Transitorio"
+    },
+    {
+      "pagina": 46,
+      "encabezado": "Transitorio"
+    },
+    {
+      "pagina": 47,
+      "encabezado": "Transitorio"
+    }
+  ],
+  "encabezados_ordinales_en_seccion_transitoria": [
+    "PRIMERO.- Se abroga la Ley sobre las características y el uso del Escudo, la Bandera y el Himno",
+    "SEGUNDO.- En los términos del articulo 4o. de esta Ley la letra y música del Himno Nacional, serán",
+    "TERCERO.- La presente Ley entrará en vigor el día 24 de febrero de 1984.",
+    "ARTICULO PRIMERO.- Se modifica el inciso a) del artículo 18 de la Ley sobre el Escudo, la Bandera",
+    "ARTICULO SEGUNDO.- Se reforma la fracción II del artículo 35 de la Ley sobre el Escudo, la",
+    "UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "Artículo Primero.- Se modifican los artículos 2o., 18 y 55 de la Ley sobre El Escudo, La Bandera y El",
+    "Artículo Segundo.- Se adicionan los artículos 54 Bis, 59 y 60, en los siguientes términos:",
+    "PRIMERO.- Las presentes reformas entrarán en vigor el día de su publicación en el Diario Oficial de",
+    "SEGUNDO.- Las réplicas de la Bandera Nacional que existan actualmente en las dependencias de los",
+    "TERCERO.- El Ejecutivo Federal expedirá el reglamento de esta Ley, en el que determinará las",
+    "ARTÍCULO ÚNICO.- Se adiciona la fecha 21 de abril \"Aniversario de la gesta heroica de la defensa",
+    "ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial",
+    "ARTÍCULO ÚNICO.- Se adiciona la fecha 2 de mayo, \"Conmemoración de la muerte de los pilotos de",
+    "ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial",
+    "ARTÍCULO ÚNICO.- Se adiciona un artículo 39 bis a la Ley sobre el Escudo, la Bandera y el Himno",
+    "Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario",
+    "ARTÍCULO ÚNICO.- Se reforma el artículo 46 de la Ley sobre el Escudo, la Bandera y el Himno",
+    "Artículo Único.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario",
+    "ARTÍCULO ÚNICO.- Se reforma el inciso a) del artículo 18 de la Ley sobre el Escudo, la Bandera y el",
+    "ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "ARTÍCULO ÚNICO.- Se adiciona la fecha 12 de septiembre \"Conmemoración de la gesta heroica del",
+    "ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial",
+    "ARTÍCULO PRIMERO.- Se adiciona una segunda parte al único párrafo del artículo 10 de la Ley",
+    "ARTÍCULO SEGUNDO.- Se adiciona el artículo 18, inciso a), de la Ley sobre el Escudo, la Bandera y",
+    "ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el",
+    "ARTÍCULO ÚNICO.- Se reforman los artículos 5o. y 6o. último párrafo, de la Ley sobre el Escudo, la",
+    "ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial",
+    "Artículo Único. Se reforma el artículo 34 de la Ley sobre el Escudo, la Bandera y el Himno",
+    "Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de",
+    "Artículo Único.- Se adiciona el artículo 18, inciso a) de la Ley sobre el Escudo, la Bandera y el Himno",
+    "Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario",
+    "Artículo Único.- Se adiciona un párrafo décimo tercero, y se recorren los actuales décimo tercero y",
+    "Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "ARTÍCULO ÚNICO. Se adiciona la fecha 19 de agosto, Aniversario de la instalación de la Suprema",
+    "ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "ARTÍCULO ÚNICO.- Se reforma la fecha 6 de noviembre “Conmemoración de la promulgación del",
+    "ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "Artículo Único.- Se adiciona la fecha “13 de agosto, Aniversario de la Firma de los Tratados de",
+    "Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "Artículo Único.- Se adiciona la fecha 26 de enero, “Aniversario del natalicio de Justo Sierra Méndez",
+    "Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "ARTÍCULO DÉCIMO SÉPTIMO.- Se REFORMAN los artículos 39 Bis y 40 de la Ley sobre el Escudo,",
+    "PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario",
+    "SEGUNDO. El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura,",
+    "TERCERO. Los derechos laborales de los trabajadores que presten sus servicios en el Consejo",
+    "CUARTO. El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y",
+    "QUINTO. La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y",
+    "SEXTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean",
+    "SÉPTIMO. Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el",
+    "OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al",
+    "NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se",
+    "DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.",
+    "Artículo Único.- Se adicionan las fechas 16 de enero “Aniversario del nacimiento de Mariano",
+    "ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "Artículo Único.- Se reforman los artículos 6o.; 7o.; 8o.; 10; 11; 15; 16; 18; 25; 26; 27; 32; 33; 39; 39",
+    "Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "Segundo.- El Ejecutivo Federal expedirá el Reglamento de esta Ley, en un plazo que no excederá los",
+    "Tercero.- Los procedimientos o trámites administrativos iniciados con anterioridad a la entrada en",
+    "Artículo Único. Se reforma el artículo 34 de la Ley sobre el Escudo, la Bandera y el Himno",
+    "Único. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la",
+    "Artículo Único.- Se adiciona un numeral 14, recorriéndose los subsecuentes en su orden, a la",
+    "Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "Artículo Único.- Se adiciona un numeral 29, recorriéndose en su orden los subsecuentes de la",
+    "Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "Artículo Único.- Se reforma el artículo 18 de la Ley sobre el Escudo, la Bandera y el Himno",
+    "Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de"
+  ],
+  "articulos_numericos_en_seccion_transitoria": [],
+  "transitorios_y_notas_completos_incluidos": true,
+  "paginas_cotejadas_visualmente": [],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 2010,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 2983,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 3151,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 1401,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 938,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 13,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 1155,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 13,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 1125,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 13,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 1034,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 14,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 1056,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 13,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 1494,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 11,
+      "caracteres_no_blancos": 2675,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 12,
+      "caracteres_no_blancos": 2974,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 13,
+      "caracteres_no_blancos": 2504,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 14,
+      "caracteres_no_blancos": 3106,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 15,
+      "caracteres_no_blancos": 2668,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 16,
+      "caracteres_no_blancos": 2275,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 16,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 17,
+      "caracteres_no_blancos": 1412,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 18,
+      "caracteres_no_blancos": 1027,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 19,
+      "caracteres_no_blancos": 167,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 20,
+      "caracteres_no_blancos": 187,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 21,
+      "caracteres_no_blancos": 2680,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 22,
+      "caracteres_no_blancos": 1308,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 23,
+      "caracteres_no_blancos": 2008,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 24,
+      "caracteres_no_blancos": 1293,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 25,
+      "caracteres_no_blancos": 1356,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 26,
+      "caracteres_no_blancos": 1129,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 27,
+      "caracteres_no_blancos": 1114,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 28,
+      "caracteres_no_blancos": 1130,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 29,
+      "caracteres_no_blancos": 1294,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 30,
+      "caracteres_no_blancos": 1393,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 31,
+      "caracteres_no_blancos": 1096,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 32,
+      "caracteres_no_blancos": 1107,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 33,
+      "caracteres_no_blancos": 1269,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 34,
+      "caracteres_no_blancos": 1372,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 35,
+      "caracteres_no_blancos": 1314,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 36,
+      "caracteres_no_blancos": 1199,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 37,
+      "caracteres_no_blancos": 1236,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 38,
+      "caracteres_no_blancos": 1232,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 39,
+      "caracteres_no_blancos": 2703,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 40,
+      "caracteres_no_blancos": 2151,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 41,
+      "caracteres_no_blancos": 1383,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 42,
+      "caracteres_no_blancos": 1713,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 43,
+      "caracteres_no_blancos": 1078,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 44,
+      "caracteres_no_blancos": 1171,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 45,
+      "caracteres_no_blancos": 1149,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 46,
+      "caracteres_no_blancos": 1090,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 47,
+      "caracteres_no_blancos": 1180,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    }
+  ],
+  "alcance": "Controles de conservación en todas las páginas; comparación de cifras con Poppler y pypdf. El cotejo visual se registra por separado. No certifica vigencia jurídica.",
+  "incidencias_resueltas": [],
+  "diferencias_de_fuente": [
+    "La secuencia de encabezados numéricos difiere Word/PDF; consultar contadores y evidencia. No se corrige.",
+    "La comparación léxica Word/PDF no coincide: encabezados repetidos, campos Word y otras diferencias pendientes de cotejo. No equivale a pérdida del Markdown.",
+    "El control original con retirada de paginación difiere. Se conserva el resultado y se añade comparación simétrica de cifras sin retirar paginación.",
+    "Hay discrepancias en la secuencia de cifras entre los dos lectores PDF; requieren cotejo, no se reparan.",
+    "Word original .doc conservado por autorización expresa del usuario; no se fabrica original.docx."
+  ],
+  "formato_word_original": "doc",
+  "ocr_ejecutado": false,
+  "incidencias_descarga": [],
+  "promociones_encabezado_evitadas": [
+    {
+      "linea": 34,
+      "texto": "artículo 39 de esta Ley;",
+      "anterior": "IX. Cantar o ejecutar el Himno Nacional con fines de lucro, en contravención de lo previsto en el",
+      "siguiente": "",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 16
+    }
+  ],
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-18T15:06:56.290713+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "decreto_numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.edicion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.seccion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "reformas",
+        "motivo": "Notas literales conservadas con todas las fechas; fecha escalar null si hay varias. Números de diario/decreto no impresos quedan null. Captura automática pendiente de revisión."
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Cláusulas expresas capturadas para cotejo; no se infieren nombres ni fechas faltantes. Revisar evidencia impresa."
+      },
+      {
+        "campo": "abroga[].po_numero",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0
+        ]
+      },
+      {
+        "campo": "abroga[].decreto",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0
+        ]
+      },
+      {
+        "campo": "abrogacion_programada",
+        "motivo": "Portada/encabezado sin declaración identificada de abrogación o término de vigencia en fecha cierta; null."
+      }
+    ],
+    "evidencia": {
+      "abroga": [
+        {
+          "pagina": 21,
+          "texto": "PRIMERO.- Se abroga la Ley sobre las características y el uso del Escudo, la Bandera y el Himno Nacionales, de fecha 23 de diciembre de 1967, publicada en el Diario Oficial de la Federación de fecha 17 de agosto de 1968."
+        }
+      ],
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "Ley publicada en el Diario Oficial de la Federación el 8 de febrero de 1984"
+      },
+      "ultima_reforma": {
+        "pagina": 1,
+        "texto": "Última Reforma DOF 21-07-2025"
+      },
+      "reformas": {
+        "pagina_inicio": 1,
+        "encabezado": null,
+        "filas": [
+          {
+            "fila": 0,
+            "texto": "Artículo adicionado DOF 11-05-2018",
+            "pagina": 1
+          },
+          {
+            "fila": 1,
+            "texto": "Párrafo adicionado DOF 09-05-1995",
+            "pagina": 2
+          },
+          {
+            "fila": 2,
+            "texto": "Artículo reformado DOF 21-01-2008",
+            "pagina": 2
+          },
+          {
+            "fila": 3,
+            "texto": "Artículo reformado DOF 21-01-2008, 11-05-2018",
+            "pagina": 2
+          },
+          {
+            "fila": 4,
+            "texto": "Artículo reformado DOF 11-05-2018",
+            "pagina": 3
+          },
+          {
+            "fila": 5,
+            "texto": "Artículo reformado DOF 11-05-2018",
+            "pagina": 3
+          },
+          {
+            "fila": 6,
+            "texto": "Artículo reformado DOF 20-10-2007, 11-05-2018",
+            "pagina": 3
+          },
+          {
+            "fila": 7,
+            "texto": "Artículo reformado DOF 11-05-2018",
+            "pagina": 3
+          },
+          {
+            "fila": 8,
+            "texto": "Artículo reformado DOF 11-05-2018",
+            "pagina": 4
+          },
+          {
+            "fila": 9,
+            "texto": "Artículo reformado DOF 11-05-2018",
+            "pagina": 4
+          },
+          {
+            "fila": 10,
+            "texto": "Artículo reformado DOF 09-01-1991, 09-05-1995, 03-01-2005, 03-02-2006, 02-06-2006, 20-10-2007, 17-06-2011, 20-12-2011, 17-01-2012, 10-06-2013, 16-04-2014, 27-01-2015, 01-12-2016, 11-05-2018, 23-03-2022, 19-01-2023, 21-07-2025",
+            "pagina": 10
+          },
+          {
+            "fila": 11,
+            "texto": "Artículo derogado DOF 11-05-2018",
+            "pagina": 11
+          },
+          {
+            "fila": 12,
+            "texto": "Artículo adicionado DOF 11-05-2018",
+            "pagina": 11
+          },
+          {
+            "fila": 13,
+            "texto": "Artículo reformado DOF 11-05-2018",
+            "pagina": 12
+          },
+          {
+            "fila": 14,
+            "texto": "Artículo reformado DOF 11-05-2018",
+            "pagina": 12
+          },
+          {
+            "fila": 15,
+            "texto": "Artículo reformado DOF 11-05-2018",
+            "pagina": 12
+          },
+          {
+            "fila": 16,
+            "texto": "Artículo reformado DOF 11-05-2018",
+            "pagina": 12
+          },
+          {
+            "fila": 17,
+            "texto": "Artículo adicionado DOF 11-05-2018",
+            "pagina": 12
+          },
+          {
+            "fila": 18,
+            "texto": "Artículo reformado DOF 11-05-2018",
+            "pagina": 12
+          },
+          {
+            "fila": 19,
+            "texto": "Artículo adicionado DOF 11-05-2018",
+            "pagina": 12
+          },
+          {
+            "fila": 20,
+            "texto": "Artículo reformado DOF 23-06-2010, 30-11-2018",
+            "pagina": 13
+          },
+          {
+            "fila": 21,
+            "texto": "Fracción reformada DOF 09-01-1991",
+            "pagina": 13
+          },
+          {
+            "fila": 22,
+            "texto": "Artículo reformado DOF 11-05-2018",
+            "pagina": 13
+          },
+          {
+            "fila": 23,
+            "texto": "Artículo adicionado DOF 07-12-2005. Reformado DOF 17-12-2015, 11-05-2018, 01-04-2024",
+            "pagina": 14
+          },
+          {
+            "fila": 24,
+            "texto": "Artículo reformado DOF 17-12-2015, 11-05-2018",
+            "pagina": 14
+          },
+          {
+            "fila": 25,
+            "texto": "Artículo reformado DOF 11-05-2018",
+            "pagina": 14
+          },
+          {
+            "fila": 26,
+            "texto": "Párrafo adicionado DOF 11-05-2018",
+            "pagina": 14
+          },
+          {
+            "fila": 27,
+            "texto": "Artículo reformado DOF 07-12-2005, 11-05-2018",
+            "pagina": 14
+          },
+          {
+            "fila": 28,
+            "texto": "Artículo reformado DOF 11-05-2018",
+            "pagina": 15
+          },
+          {
+            "fila": 29,
+            "texto": "Artículo adicionado DOF 09-05-1995",
+            "pagina": 15
+          },
+          {
+            "fila": 30,
+            "texto": "Denominación del Capítulo reformada DOF 11-05-2018",
+            "pagina": 15
+          },
+          {
+            "fila": 31,
+            "texto": "Artículo reformado DOF 09-05-1995",
+            "pagina": 15
+          },
+          {
+            "fila": 32,
+            "texto": "Artículo reformado DOF 11-05-2018",
+            "pagina": 16
+          },
+          {
+            "fila": 33,
+            "texto": "Artículo adicionado DOF 11-05-2018",
+            "pagina": 16
+          },
+          {
+            "fila": 34,
+            "texto": "Artículo adicionado DOF 11-05-2018",
+            "pagina": 17
+          },
+          {
+            "fila": 35,
+            "texto": "Artículo adicionado DOF 11-05-2018",
+            "pagina": 17
+          },
+          {
+            "fila": 36,
+            "texto": "Artículo adicionado DOF 11-05-2018",
+            "pagina": 17
+          },
+          {
+            "fila": 37,
+            "texto": "Artículo adicionado DOF 09-05-1995. Derogado DOF 11-05-2018",
+            "pagina": 21
+          },
+          {
+            "fila": 38,
+            "texto": "Artículo adicionado DOF 09-05-1995. Derogado DOF 11-05-2018",
+            "pagina": 21
+          }
+        ]
+      }
+    }
+  },
+  "control_pypdf_informativo": {
+    "fuente": "Usuario; piloto aprobado en la conversación",
+    "descripcion": "pypdf fragmenta números con espacios; verificado por el usuario contra originales en 11 páginas señaladas del CFF y tres de CPEUM. Markdown generado con Poppler.",
+    "decision": "Control informativo, no bloquea lotes y no modifica textos. No se atribuye cotejo visual adicional a Codex."
+  }
+}

@@ -1,0 +1,554 @@
+{
+  "id": 104,
+  "fecha_revision": "2026-09-18T03:02:35.757762+00:00",
+  "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 17,
+  "paginas_sin_texto": [],
+  "pagina_blanca_confirmada_visualmente": false,
+  "texto_conservado": true,
+  "comparacion_word_pdf": {
+    "palabras_comparadas": 6807,
+    "palabras_pdf": 7305,
+    "frecuencias_coinciden": false,
+    "orden_coincide_separando_nota_al_pie": false,
+    "nota_al_pie_reubicada_por_lector_word": null,
+    "normalizaciones_solo_comparacion": [
+      "Misma función lexical_tokens de Sinaloa; no modifica los originales ni el Markdown."
+    ],
+    "limite": "Campos Word y encabezados permanecen en el control; las diferencias se reportan sin reparación.",
+    "solo_word": {
+      "diario": 1,
+      "oficial": 1,
+      "diciembre": 1,
+      "sección": 1,
+      "page": 2,
+      "tercera": 1,
+      "lunes": 1,
+      "embed": 1,
+      "word": 1,
+      "picture": 1,
+      "numpages": 1
+    },
+    "solo_pdf": {
+      "ley": 16,
+      "de": 94,
+      "transparencia": 16,
+      "y": 16,
+      "fomento": 16,
+      "a": 16,
+      "la": 32,
+      "competencia": 16,
+      "en": 16,
+      "el": 16,
+      "crédito": 16,
+      "garantizado": 16,
+      "cámara": 16,
+      "diputados": 16,
+      "del": 16,
+      "h": 16,
+      "congreso": 16,
+      "unión": 16,
+      "última": 16,
+      "reforma": 16,
+      "dof": 16,
+      "secretaría": 32,
+      "general": 16,
+      "servicios": 16,
+      "parlamentarios": 16
+    }
+  },
+  "articulos_word": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "7bis",
+    "7ter",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "19",
+    "20"
+  ],
+  "articulos_pdf": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "7bis",
+    "7ter",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "19",
+    "20"
+  ],
+  "identificadores_articulos_coinciden": true,
+  "encabezados_transitorios": [
+    {
+      "pagina": 10,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 11,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 12,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 13,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 15,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 17,
+      "encabezado": "TRANSITORIO"
+    }
+  ],
+  "encabezados_ordinales_en_seccion_transitoria": [
+    "PRIMERO. La presente Ley entrará en vigor el 1o. de enero de 2003. Lo dispuesto en la Ley no",
+    "SEGUNDO. La Secretaría de Hacienda y Crédito Público, la Secretaría de Economía, el Banco de",
+    "ARTÍCULO ÚNICO.- Se reforman el artículo 3, en sus fracciones I y II, el artículo 6, en su fracción V, y",
+    "Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario",
+    "Artículo Único. Se Reforma el Artículo 1o., se Adiciona el artículo 3o., con las Fracciones IX, X, XI; 7",
+    "Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario",
+    "Artículo Segundo.- Las personas que cuenten actualmente con autorización de perito valuador ante",
+    "ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el",
+    "ARTÍCULO SEGUNDO.- Las infracciones a las disposiciones de carácter general expedidas por el",
+    "ARTÍCULO TERCERO.- Las Entidades dispondrán de un plazo de hasta ciento ochenta días naturales",
+    "ARTÍCULO CUARTO.- Para los efectos de lo dispuesto en el artículo 48 Bis 2 de la Ley de",
+    "ARTÍCULO QUINTO.- Al entrar en vigor el presente Decreto se abrogará la Ley para la Transparencia",
+    "ARTÍCULO SEXTO.- Al entrar en vigor el presente Decreto se derogan de la Ley de Transparencia y",
+    "ARTÍCULO SÉPTIMO.- Al entrar en vigor el presente Decreto se derogan de la Ley General de",
+    "ARTÍCULO OCTAVO.- Las disposiciones de carácter general que el Banco de México haya emitido en",
+    "ARTÍCULO CUARTO. Se adiciona el artículo 19-Bis de la Ley de Transparencia y de Fomento a la",
+    "Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "Segundo. El Banco de México expedirá las disposiciones de carácter general a que se refiere el",
+    "Tercero. Las Entidades contarán con un plazo de noventa días naturales, contados a partir del día",
+    "Cuarto. Las Personas que operen antes de la entrada en vigor del presente Decreto como Cámaras",
+    "Quinto. Las Sociedades contarán con un plazo de ciento ochenta días naturales contados a partir del",
+    "Sexto. Para los efectos del artículo 20, las Sociedades deberán eliminar, en un plazo no mayor a 90",
+    "ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de"
+  ],
+  "articulos_numericos_en_seccion_transitoria": [],
+  "transitorios_y_notas_completos_incluidos": true,
+  "paginas_cotejadas_visualmente": [],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 1554,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 2656,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 2331,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 2787,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 2803,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 13,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 2719,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 2850,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 3353,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 3279,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 2542,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 11,
+      "caracteres_no_blancos": 1311,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 12,
+      "caracteres_no_blancos": 1739,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 13,
+      "caracteres_no_blancos": 2977,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 14,
+      "caracteres_no_blancos": 1775,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 15,
+      "caracteres_no_blancos": 2921,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 16,
+      "caracteres_no_blancos": 768,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 17,
+      "caracteres_no_blancos": 2220,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    }
+  ],
+  "alcance": "Controles de conservación en todas las páginas; comparación de cifras con Poppler y pypdf. El cotejo visual se registra por separado. No certifica vigencia jurídica.",
+  "incidencias_resueltas": [],
+  "diferencias_de_fuente": [
+    "La comparación léxica Word/PDF no coincide: encabezados repetidos, campos Word y otras diferencias pendientes de cotejo. No equivale a pérdida del Markdown.",
+    "El control original con retirada de paginación difiere. Se conserva el resultado y se añade comparación simétrica de cifras sin retirar paginación.",
+    "Hay discrepancias en la secuencia de cifras entre los dos lectores PDF; requieren cotejo, no se reparan.",
+    "Word original .doc conservado por autorización expresa del usuario; no se fabrica original.docx."
+  ],
+  "formato_word_original": "doc",
+  "ocr_ejecutado": false,
+  "incidencias_descarga": [],
+  "promociones_encabezado_evitadas": [],
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-18T03:02:35.757762+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "decreto_numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.edicion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.seccion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "reformas",
+        "motivo": "Notas literales conservadas con todas las fechas; fecha escalar null si hay varias. Números de diario/decreto no impresos quedan null. Captura automática pendiente de revisión."
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Cláusulas expresas capturadas para cotejo; no se infieren nombres ni fechas faltantes. Revisar evidencia impresa."
+      },
+      {
+        "campo": "abroga[].po_numero",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0
+        ]
+      },
+      {
+        "campo": "abroga[].decreto",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0
+        ]
+      },
+      {
+        "campo": "abrogacion_programada",
+        "motivo": "Portada/encabezado sin declaración identificada de abrogación o término de vigencia en fecha cierta; null."
+      }
+    ],
+    "evidencia": {
+      "abroga": [
+        {
+          "pagina": 13,
+          "texto": "DECRETO por el que se abroga la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, publicada el 26 de enero de 2004, se expide la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito y de la Ley de Protección y Defensa al Usuario de Servicios Financieros y la Ley de la Comisión Nacional Bancaria y de Valores. Publicado en el Diario Oficial de la Federación el 15 de junio de 2007"
+        }
+      ],
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "LEY DE TRANSPARENCIA Y DE FOMENTO A LA COMPETENCIA EN EL CRÉDITO GARANTIZADO Nueva Ley publicada en el Diario Oficial de la Federación el 30 de diciembre de 2002"
+      },
+      "ultima_reforma": {
+        "pagina": 1,
+        "texto": "Última Reforma DOF 10-01-2014"
+      },
+      "reformas": {
+        "pagina_inicio": 1,
+        "encabezado": null,
+        "filas": [
+          {
+            "fila": 0,
+            "texto": "Artículo reformado DOF 07-02-2005",
+            "pagina": 1
+          },
+          {
+            "fila": 1,
+            "texto": "Fracción reformada DOF 13-06-2003. Derogada DOF 15-06-2007",
+            "pagina": 1
+          },
+          {
+            "fila": 2,
+            "texto": "Fracción reformada DOF 13-06-2003",
+            "pagina": 2
+          },
+          {
+            "fila": 3,
+            "texto": "Fracción adicionada DOF 07-02-2005",
+            "pagina": 2
+          },
+          {
+            "fila": 4,
+            "texto": "Fracción adicionada DOF 07-02-2005",
+            "pagina": 2
+          },
+          {
+            "fila": 5,
+            "texto": "Fracción adicionada DOF 07-02-2005",
+            "pagina": 2
+          },
+          {
+            "fila": 6,
+            "texto": "Artículo derogado DOF 15-06-2007",
+            "pagina": 2
+          },
+          {
+            "fila": 7,
+            "texto": "Fracción reformada DOF 13-06-2003",
+            "pagina": 4
+          },
+          {
+            "fila": 8,
+            "texto": "Artículo adicionado DOF 07-02-2005",
+            "pagina": 5
+          },
+          {
+            "fila": 9,
+            "texto": "Artículo adicionado DOF 07-02-2005",
+            "pagina": 6
+          },
+          {
+            "fila": 10,
+            "texto": "Artículo derogado DOF 15-06-2007",
+            "pagina": 6
+          },
+          {
+            "fila": 11,
+            "texto": "Artículo reformado DOF 13-06-2003. Derogado DOF 15-06-2007",
+            "pagina": 7
+          },
+          {
+            "fila": 12,
+            "texto": "Artículo derogado DOF 15-06-2007",
+            "pagina": 7
+          },
+          {
+            "fila": 13,
+            "texto": "Artículo reformado DOF 13-06-2003",
+            "pagina": 7
+          },
+          {
+            "fila": 14,
+            "texto": "Artículo reformado DOF 13-06-2003",
+            "pagina": 7
+          },
+          {
+            "fila": 15,
+            "texto": "Artículo reformado DOF 10-01-2014",
+            "pagina": 8
+          },
+          {
+            "fila": 16,
+            "texto": "Párrafo derogado DOF 15-06-2007",
+            "pagina": 9
+          },
+          {
+            "fila": 17,
+            "texto": "Artículo reformado DOF 10-01-2014",
+            "pagina": 9
+          },
+          {
+            "fila": 18,
+            "texto": "Párrafo adicionado DOF 10-01-2014",
+            "pagina": 10
+          },
+          {
+            "fila": 19,
+            "texto": "Párrafo adicionado DOF 10-01-2014",
+            "pagina": 10
+          },
+          {
+            "fila": 20,
+            "texto": "Artículo adicionado DOF 25-05-2010",
+            "pagina": 10
+          },
+          {
+            "fila": 21,
+            "texto": "Artículo adicionado DOF 10-01-2014",
+            "pagina": 10
+          },
+          {
+            "fila": 22,
+            "texto": "Artículo reformado DOF 13-06-2003",
+            "pagina": 10
+          },
+          {
+            "fila": 23,
+            "texto": "Artículo reformado DOF 13-06-2003",
+            "pagina": 10
+          }
+        ]
+      }
+    }
+  },
+  "control_pypdf_informativo": {
+    "fuente": "Usuario; piloto aprobado en la conversación",
+    "descripcion": "pypdf fragmenta números con espacios; verificado por el usuario contra originales en 11 páginas señaladas del CFF y tres de CPEUM. Markdown generado con Poppler.",
+    "decision": "Control informativo, no bloquea lotes y no modifica textos. No se atribuye cotejo visual adicional a Codex."
+  }
+}

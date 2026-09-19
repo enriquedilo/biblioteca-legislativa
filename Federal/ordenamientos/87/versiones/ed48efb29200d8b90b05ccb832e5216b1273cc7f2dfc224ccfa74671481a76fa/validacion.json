@@ -1,0 +1,1089 @@
+{
+  "id": 87,
+  "fecha_revision": "2026-09-18T02:50:31.047784+00:00",
+  "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 32,
+  "paginas_sin_texto": [],
+  "pagina_blanca_confirmada_visualmente": false,
+  "texto_conservado": true,
+  "comparacion_word_pdf": {
+    "palabras_comparadas": 11515,
+    "palabras_pdf": 12189,
+    "frecuencias_coinciden": false,
+    "orden_coincide_separando_nota_al_pie": false,
+    "nota_al_pie_reubicada_por_lector_word": null,
+    "normalizaciones_solo_comparacion": [
+      "Misma función lexical_tokens de Sinaloa; no modifica los originales ni el Markdown."
+    ],
+    "limite": "Campos Word y encabezados permanecen en el control; las diferencias se reportan sin reparación.",
+    "solo_word": {
+      "ref": 1,
+      "shape": 1,
+      "mergeformat": 1,
+      "embed": 1,
+      "word": 1,
+      "picture": 1,
+      "page": 1,
+      "numpages": 1
+    },
+    "solo_pdf": {
+      "ley": 31,
+      "de": 155,
+      "planeación": 31,
+      "cámara": 31,
+      "diputados": 31,
+      "del": 31,
+      "h": 31,
+      "congreso": 31,
+      "la": 31,
+      "unión": 31,
+      "última": 31,
+      "reforma": 31,
+      "dof": 31,
+      "secretaría": 62,
+      "general": 31,
+      "servicios": 31,
+      "parlamentarios": 31
+    }
+  },
+  "articulos_word": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "20bis",
+    "21",
+    "21bis",
+    "21ter",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "26bis",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+  ],
+  "articulos_pdf": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "20bis",
+    "21",
+    "21bis",
+    "21ter",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "26bis",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+  ],
+  "identificadores_articulos_coinciden": true,
+  "encabezados_transitorios": [
+    {
+      "pagina": 13,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 15,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 16,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 17,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 18,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 19,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 20,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 21,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 23,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 26,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 28,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 31,
+      "encabezado": "Transitorios"
+    }
+  ],
+  "encabezados_ordinales_en_seccion_transitoria": [
+    "ARTICULO PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario",
+    "ARTICULO SEGUNDO.- Lo dispuesto por los párrafos segundo y tercero del Artículo 6o. regirá a",
+    "ARTICULO TERCERO.- Se abroga la Ley sobre Planeación General de la República del 12 de julio",
+    "ARTICULO CUARTO.- En tanto se expiden las disposiciones reglamentarias de esta Ley, continuarán",
+    "ARTICULO QUINTO.- Una vez publicada la presente Ley, el Ejecutivo Federal deberá proceder a",
+    "ARTÍCULO ÚNICO.- Se reforman los artículos 2, párrafo primero y fracción III; 3; 8, párrafo segundo;",
+    "PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial",
+    "SEGUNDO.- Se derogan todas las disposiciones de carácter legal que se contrapongan con el",
+    "TERCERO.- Hasta en tanto no se emitan las disposiciones reglamentarias correspondientes, se",
+    "CUARTO.- El Ejecutivo Federal observará en la medida de lo posible las disposiciones del presente",
+    "ARTÍCULO TERCERO.- Se adiciona un tercer párrafo al artículo 9o. de la Ley de Planeación para",
+    "Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario",
+    "ARTÍCULO ÚNICO.- Se reforman los artículos 1, 6, 14, 15, 16, 20, 29 y el último párrafo del 34, se",
+    "ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "Artículo Único.- Se reforman las fracciones III, V y VI del artículo 2o.; el segundo párrafo del artículo",
+    "Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "ARTÍCULO ÚNICO.- Se reforman los artículos 2, fracciones IV, VI y VII; 3, segundo párrafo; 8,",
+    "PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario",
+    "SEGUNDO.- Los Estados deberán adecuar sus leyes de la materia conforme a lo dispuesto en este",
+    "ARTÍCULO DÉCIMO NOVENO. Se reforman los artículos 6o, tercer párrafo; 8o, primer párrafo; 9o,",
+    "Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las",
+    "ARTÍCULO SEGUNDO.- Se adiciona un artículo 21 Bis a la Ley de Planeación, para quedar como",
+    "Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial",
+    "Segundo.- Durante la presente Administración del Ejecutivo Federal, la política nacional de fomento",
+    "Tercero.- El Comité Nacional de Productividad seguirá funcionando conforme a lo dispuesto en el",
+    "Cuarto.- Dentro de un plazo de sesenta días naturales contado a partir de la entrada en vigor del",
+    "Quinto.- La Secretaría enviará al Congreso de la Unión el primero de los informes semestrales a los",
+    "Sexto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto",
+    "ARTÍCULO SEGUNDO.- Se reforma el primer párrafo del artículo 3o. de la Ley de Planeación, para",
+    "PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial",
+    "SEGUNDO. Se abroga la Ley General de Asentamientos Humanos publicada en el Diario Oficial de la",
+    "TERCERO. En un plazo de un año contado a partir de la entrada en vigor del presente Decreto, las",
+    "CUARTO. En un plazo de seis meses contado a partir de la entrada en vigor de este Decreto, el",
+    "QUINTO. En un plazo de dos años contado a partir de la entrada en vigor de este Decreto, se",
+    "SEXTO. En un plazo de seis meses a partir de la entrada en vigor de este Decreto, el titular de la",
+    "SÉPTIMO. En un plazo no mayor de seis meses a partir de la entrada en vigor de este Decreto, la",
+    "OCTAVO. En un plazo de un año contado a partir de la entrada en vigor de este Decreto, la",
+    "NOVENO. En un plazo de un año contado a partir de la entrada en vigor de este Decreto, la",
+    "DÉCIMO. En un plazo de seis meses, la Secretaría de Desarrollo Agrario, Territorial y Urbano creará e",
+    "DÉCIMO PRIMERO. En un plazo de seis meses a partir de la entrada en vigor de este Decreto, la",
+    "DÉCIMO SEGUNDO. En un plazo de un año contado a partir de la entrada en vigor de este Decreto,",
+    "DÉCIMO TERCERO. En un plazo no mayor a un año a partir de la entrada en vigor de este Decreto,",
+    "DÉCIMO CUARTO. En un plazo no mayor a seis meses a partir de la entrada en vigor de este",
+    "DÉCIMO QUINTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente",
+    "Artículo Único.- Se reforman los artículos 1o., fracciones III y actuales IV y V; 2o., primer párrafo, y",
+    "Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "Segundo.- La reforma al artículo 6o. entrará en vigor el 1o. de abril de 2018.",
+    "Tercero.- El Ejecutivo Federal deberá expedir el Reglamento de esta Ley en un plazo no mayor a 180",
+    "Cuarto.- La Secretaría de Hacienda y Crédito Público deberá implementar un sistema informático para",
+    "Quinto.- Las Administraciones Públicas Federales correspondientes a los períodos 2018-2024 y 2024-",
+    "Sexto.- Se derogan las disposiciones que sean contrarias a lo previsto en el presente Decreto.",
+    "Artículo Tercero. Se reforman los artículos 17, fracción I; 27 y 29, párrafo segundo y se adiciona al",
+    "Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de",
+    "Segundo. Se abrogan la Ley de Ciencia y Tecnología y la Ley Orgánica del Consejo Nacional de",
+    "Tercero. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.",
+    "Cuarto. A partir de la entrada en vigor de esta Ley, todas las referencias en otros ordenamientos,",
+    "Quinto. A partir de la entrada en vigor de esta Ley, todas las referencias en otros ordenamientos,",
+    "Sexto. En un plazo de un año, contado a partir de la entrada en vigor de esta Ley, el Consejo",
+    "Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario",
+    "Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la",
+    "Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley",
+    "Cuarto. Las autoridades competentes de la Federación, las entidades federativas, los municipios y las",
+    "Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se",
+    "Sexto. Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este"
+  ],
+  "articulos_numericos_en_seccion_transitoria": [],
+  "transitorios_y_notas_completos_incluidos": true,
+  "paginas_cotejadas_visualmente": [],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 1772,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 2767,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 3319,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 2910,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 2869,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 2586,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 2814,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 2874,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 2772,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 2709,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 11,
+      "caracteres_no_blancos": 3040,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 12,
+      "caracteres_no_blancos": 2720,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 13,
+      "caracteres_no_blancos": 2505,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 14,
+      "caracteres_no_blancos": 1769,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 15,
+      "caracteres_no_blancos": 2091,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 16,
+      "caracteres_no_blancos": 1214,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 17,
+      "caracteres_no_blancos": 1193,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 18,
+      "caracteres_no_blancos": 1219,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 19,
+      "caracteres_no_blancos": 1213,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 20,
+      "caracteres_no_blancos": 1476,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 21,
+      "caracteres_no_blancos": 2605,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 22,
+      "caracteres_no_blancos": 762,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 23,
+      "caracteres_no_blancos": 2691,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 24,
+      "caracteres_no_blancos": 3261,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 25,
+      "caracteres_no_blancos": 489,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 26,
+      "caracteres_no_blancos": 2752,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 27,
+      "caracteres_no_blancos": 488,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 28,
+      "caracteres_no_blancos": 2748,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 29,
+      "caracteres_no_blancos": 3137,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 30,
+      "caracteres_no_blancos": 2043,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 31,
+      "caracteres_no_blancos": 2672,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 32,
+      "caracteres_no_blancos": 718,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    }
+  ],
+  "alcance": "Controles de conservación en todas las páginas; comparación de cifras con Poppler y pypdf. El cotejo visual se registra por separado. No certifica vigencia jurídica.",
+  "incidencias_resueltas": [],
+  "diferencias_de_fuente": [
+    "La comparación léxica Word/PDF no coincide: encabezados repetidos, campos Word y otras diferencias pendientes de cotejo. No equivale a pérdida del Markdown.",
+    "El control original con retirada de paginación difiere. Se conserva el resultado y se añade comparación simétrica de cifras sin retirar paginación.",
+    "Hay discrepancias en la secuencia de cifras entre los dos lectores PDF; requieren cotejo, no se reparan.",
+    "Word original .doc conservado por autorización expresa del usuario; no se fabrica original.docx."
+  ],
+  "formato_word_original": "doc",
+  "ocr_ejecutado": false,
+  "incidencias_descarga": [],
+  "promociones_encabezado_evitadas": [],
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-18T02:50:31.047784+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "decreto_numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.edicion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.seccion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "reformas",
+        "motivo": "Notas literales conservadas con todas las fechas; fecha escalar null si hay varias. Números de diario/decreto no impresos quedan null. Captura automática pendiente de revisión."
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Cláusulas expresas capturadas para cotejo; no se infieren nombres ni fechas faltantes. Revisar evidencia impresa."
+      },
+      {
+        "campo": "abroga[].po_numero",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "campo": "abroga[].fecha",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0
+        ]
+      },
+      {
+        "campo": "abroga[].decreto",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "evidencia": {
+      "abroga": [
+        {
+          "pagina": 14,
+          "texto": "ARTICULO TERCERO.- Se abroga la Ley sobre Planeación General de la República del 12 de julio de 1930 publicada en el Diario Oficial de la Federación de la misma fecha, y se derogan las demás disposiciones legales que se opongan a la presente."
+        },
+        {
+          "pagina": 23,
+          "texto": "SEGUNDO. Se abroga la Ley General de Asentamientos Humanos publicada en el Diario Oficial de la Federación el 21 de julio de 1993 y se derogan todas las disposiciones legales y reglamentarias que se opongan a lo establecido en la presente Ley."
+        },
+        {
+          "pagina": 31,
+          "texto": "Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto."
+        }
+      ],
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "LEY DE PLANEACIÓN Nueva Ley publicada en el Diario Oficial de la Federación el 5 de enero de 1983"
+      },
+      "ultima_reforma": {
+        "pagina": 1,
+        "texto": "Última Reforma DOF 15-01-2026"
+      },
+      "reformas": {
+        "pagina_inicio": 1,
+        "encabezado": null,
+        "filas": [
+          {
+            "fila": 0,
+            "texto": "Fracción reformada DOF 16-02-2018",
+            "pagina": 1
+          },
+          {
+            "fila": 1,
+            "texto": "Fracción adicionada DOF 16-02-2018",
+            "pagina": 1
+          },
+          {
+            "fila": 2,
+            "texto": "Fracción reformada DOF 13-06-2003. Reformada y recorrida DOF 16-02-2018",
+            "pagina": 1
+          },
+          {
+            "fila": 3,
+            "texto": "Fracción reformada y recorrida DOF 16-02-2018",
+            "pagina": 1
+          },
+          {
+            "fila": 4,
+            "texto": "Párrafo reformado DOF 23-05-2002, 16-02-2018",
+            "pagina": 2
+          },
+          {
+            "fila": 5,
+            "texto": "Fracción reformada DOF 16-02-2018",
+            "pagina": 2
+          },
+          {
+            "fila": 6,
+            "texto": "Fracción reformada DOF 23-05-2002, 20-06-2011, 16-02-2018",
+            "pagina": 2
+          },
+          {
+            "fila": 7,
+            "texto": "Fracción reformada DOF 27-01-2012, 16-02-2018",
+            "pagina": 2
+          },
+          {
+            "fila": 8,
+            "texto": "Fracción reformada DOF 20-06-2011",
+            "pagina": 2
+          },
+          {
+            "fila": 9,
+            "texto": "Fracción reformada DOF 20-06-2011, 27-01-2012",
+            "pagina": 2
+          },
+          {
+            "fila": 10,
+            "texto": "Fracción adicionada DOF 20-06-2011. Reformada DOF 27-01-2012, 15-01-2026",
+            "pagina": 2
+          },
+          {
+            "fila": 11,
+            "texto": "Fracción adicionada DOF 27-01-2012",
+            "pagina": 2
+          },
+          {
+            "fila": 12,
+            "texto": "Párrafo reformado DOF 23-05-2002, 28-11-2016",
+            "pagina": 2
+          },
+          {
+            "fila": 13,
+            "texto": "Párrafo reformado DOF 27-01-2012",
+            "pagina": 3
+          },
+          {
+            "fila": 14,
+            "texto": "Artículo reformado DOF 16-02-2018",
+            "pagina": 3
+          },
+          {
+            "fila": 15,
+            "texto": "Artículo reformado DOF 16-02-2018",
+            "pagina": 3
+          },
+          {
+            "fila": 16,
+            "texto": "Artículo reformado DOF 13-06-2003, 09-04-2012, 16-02-2018",
+            "pagina": 3
+          },
+          {
+            "fila": 17,
+            "texto": "Artículo reformado DOF 16-02-2018",
+            "pagina": 3
+          },
+          {
+            "fila": 18,
+            "texto": "Párrafo reformado DOF 23-05-2002, 09-04-2012, 15-01-2026",
+            "pagina": 3
+          },
+          {
+            "fila": 19,
+            "texto": "Párrafo adicionado DOF 23-05-2002. Reformado DOF 20-06-2011, 27-01-2012, 15-01-2026",
+            "pagina": 3
+          },
+          {
+            "fila": 20,
+            "texto": "Párrafo reformado DOF 15-01-2026",
+            "pagina": 4
+          },
+          {
+            "fila": 21,
+            "texto": "Artículo reformado DOF 23-05-2002, 10-04-2003, 20-06-2011, 09-04-2012, 16-02-2018",
+            "pagina": 4
+          },
+          {
+            "fila": 22,
+            "texto": "Artículo reformado DOF 09-04-2012",
+            "pagina": 4
+          },
+          {
+            "fila": 23,
+            "texto": "Párrafo reformado DOF 13-06-2003",
+            "pagina": 4
+          },
+          {
+            "fila": 24,
+            "texto": "Fracción reformada DOF 13-06-2003, 20-06-2011, 16-02-2018",
+            "pagina": 5
+          },
+          {
+            "fila": 25,
+            "texto": "Fracción reformada DOF 13-06-2003, 16-02-2018",
+            "pagina": 5
+          },
+          {
+            "fila": 26,
+            "texto": "Fracción reformada DOF 20-06-2011. Derogada DOF 16-02-2018",
+            "pagina": 5
+          },
+          {
+            "fila": 27,
+            "texto": "Fracción reformada DOF 20-06-2011, 16-02-2018",
+            "pagina": 5
+          },
+          {
+            "fila": 28,
+            "texto": "Fracción adicionada DOF 20-06-2011. Reformada DOF 16-02-2018",
+            "pagina": 5
+          },
+          {
+            "fila": 29,
+            "texto": "Fracción reformada DOF 13-06-2003",
+            "pagina": 5
+          },
+          {
+            "fila": 30,
+            "texto": "Párrafo reformado DOF 23-05-2002, 16-02-2018",
+            "pagina": 6
+          },
+          {
+            "fila": 31,
+            "texto": "Fracción reformada DOF 23-05-2002",
+            "pagina": 6
+          },
+          {
+            "fila": 32,
+            "texto": "Fracción reformada DOF 23-05-2002, 13-06-2003, 16-02-2018",
+            "pagina": 6
+          },
+          {
+            "fila": 33,
+            "texto": "Fracción reformada DOF 16-02-2018",
+            "pagina": 6
+          },
+          {
+            "fila": 34,
+            "texto": "Fracción reformada DOF 16-02-2018",
+            "pagina": 6
+          },
+          {
+            "fila": 35,
+            "texto": "Fracción reformada DOF 16-02-2018",
+            "pagina": 6
+          },
+          {
+            "fila": 36,
+            "texto": "Fracción reformada DOF 16-02-2018",
+            "pagina": 6
+          },
+          {
+            "fila": 37,
+            "texto": "Fracción reformada DOF 16-02-2018",
+            "pagina": 6
+          },
+          {
+            "fila": 38,
+            "texto": "Fracción reformada DOF 23-05-2002, 08-05-2023",
+            "pagina": 7
+          },
+          {
+            "fila": 39,
+            "texto": "Fracción reformada DOF 23-05-2002, 16-02-2018",
+            "pagina": 7
+          },
+          {
+            "fila": 40,
+            "texto": "Fracción reformada DOF 16-02-2018",
+            "pagina": 7
+          },
+          {
+            "fila": 41,
+            "texto": "Fracción reformada DOF 16-02-2018",
+            "pagina": 7
+          },
+          {
+            "fila": 42,
+            "texto": "Artículo reformado DOF 16-02-2018",
+            "pagina": 7
+          },
+          {
+            "fila": 43,
+            "texto": "Párrafo reformado DOF 09-04-2012",
+            "pagina": 7
+          },
+          {
+            "fila": 44,
+            "texto": "Párrafo reformado DOF 13-06-2003",
+            "pagina": 8
+          },
+          {
+            "fila": 45,
+            "texto": "Párrafo adicionado DOF 13-06-2003",
+            "pagina": 8
+          },
+          {
+            "fila": 46,
+            "texto": "Párrafo reformado DOF 16-02-2018",
+            "pagina": 8
+          },
+          {
+            "fila": 47,
+            "texto": "Artículo adicionado DOF 13-06-2003",
+            "pagina": 8
+          },
+          {
+            "fila": 48,
+            "texto": "Artículo reformado DOF 23-05-2002, 27-01-2012, 16-02-2018",
+            "pagina": 8
+          },
+          {
+            "fila": 49,
+            "texto": "Artículo adicionado DOF 06-05-2015",
+            "pagina": 9
+          },
+          {
+            "fila": 50,
+            "texto": "Artículo adicionado DOF 16-02-2018",
+            "pagina": 9
+          },
+          {
+            "fila": 51,
+            "texto": "Párrafo reformado DOF 16-02-2018",
+            "pagina": 9
+          },
+          {
+            "fila": 52,
+            "texto": "Artículo reformado DOF 16-02-2018",
+            "pagina": 10
+          },
+          {
+            "fila": 53,
+            "texto": "Artículo reformado DOF 16-02-2018",
+            "pagina": 10
+          },
+          {
+            "fila": 54,
+            "texto": "Artículo reformado DOF 16-02-2018",
+            "pagina": 10
+          },
+          {
+            "fila": 55,
+            "texto": "Fracción reformada DOF 15-01-2026",
+            "pagina": 10
+          },
+          {
+            "fila": 56,
+            "texto": "Artículo adicionado DOF 16-02-2018",
+            "pagina": 10
+          },
+          {
+            "fila": 57,
+            "texto": "Artículo reformado DOF 23-05-2002, 27-01-2012, 16-02-2018, 08-05-2023",
+            "pagina": 10
+          },
+          {
+            "fila": 58,
+            "texto": "Artículo reformado DOF 16-02-2018",
+            "pagina": 10
+          },
+          {
+            "fila": 59,
+            "texto": "Párrafo reformado DOF 13-06-2003, 16-02-2018",
+            "pagina": 11
+          },
+          {
+            "fila": 60,
+            "texto": "Párrafo reformado DOF 09-04-2012, 08-05-2023",
+            "pagina": 11
+          },
+          {
+            "fila": 61,
+            "texto": "Párrafo reformado DOF 13-06-2003",
+            "pagina": 11
+          },
+          {
+            "fila": 62,
+            "texto": "Artículo reformado DOF 16-02-2018",
+            "pagina": 11
+          },
+          {
+            "fila": 63,
+            "texto": "Artículo reformado DOF 16-02-2018",
+            "pagina": 11
+          },
+          {
+            "fila": 64,
+            "texto": "Párrafo reformado DOF 16-02-2018",
+            "pagina": 11
+          },
+          {
+            "fila": 65,
+            "texto": "Artículo reformado DOF 16-02-2018",
+            "pagina": 12
+          },
+          {
+            "fila": 66,
+            "texto": "Párrafo reformado DOF 16-02-2018",
+            "pagina": 12
+          },
+          {
+            "fila": 67,
+            "texto": "Fracción reformada DOF 16-02-2018",
+            "pagina": 12
+          },
+          {
+            "fila": 68,
+            "texto": "Fracción reformada DOF 16-02-2018",
+            "pagina": 12
+          },
+          {
+            "fila": 69,
+            "texto": "Párrafo reformado DOF 13-06-2003",
+            "pagina": 12
+          },
+          {
+            "fila": 70,
+            "texto": "Párrafo reformado DOF 15-01-2026",
+            "pagina": 13
+          },
+          {
+            "fila": 71,
+            "texto": "Párrafo adicionado DOF 13-06-2003",
+            "pagina": 13
+          },
+          {
+            "fila": 72,
+            "texto": "Artículo reformado DOF 23-05-2002, 27-01-2012, 09-04-2012, 16-02-2018",
+            "pagina": 13
+          },
+          {
+            "fila": 73,
+            "texto": "Artículo reformado DOF 23-05-2002",
+            "pagina": 13
+          },
+          {
+            "fila": 74,
+            "texto": "Artículo reformado DOF 16-02-2018",
+            "pagina": 13
+          },
+          {
+            "fila": 75,
+            "texto": "Artículo reformado DOF 16-02-2018",
+            "pagina": 13
+          },
+          {
+            "fila": 76,
+            "texto": "Artículo derogado DOF 16-02-2018",
+            "pagina": 13
+          }
+        ]
+      }
+    }
+  },
+  "control_pypdf_informativo": {
+    "fuente": "Usuario; piloto aprobado en la conversación",
+    "descripcion": "pypdf fragmenta números con espacios; verificado por el usuario contra originales en 11 páginas señaladas del CFF y tres de CPEUM. Markdown generado con Poppler.",
+    "decision": "Control informativo, no bloquea lotes y no modifica textos. No se atribuye cotejo visual adicional a Codex."
+  }
+}

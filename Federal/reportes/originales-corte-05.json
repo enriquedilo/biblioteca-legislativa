@@ -1,0 +1,866 @@
+[
+  {
+    "id": 1,
+    "sigla": "CPEUM",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+    "sha256": "ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e",
+    "ruta_local_relativa": "Federal/ordenamientos/1/versiones/e943b45be6d313ac4476264ea10f3e3a890f97ae8df2b69062dbee25ec7edb2d/original.pdf"
+  },
+  {
+    "id": 1,
+    "sigla": "CPEUM",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc",
+    "sha256": "b976c0d9705f274511325ea18c1719ec60b9112da3a240fd2f694f88485a219f",
+    "ruta_local_relativa": "Federal/ordenamientos/1/versiones/e943b45be6d313ac4476264ea10f3e3a890f97ae8df2b69062dbee25ec7edb2d/original.doc"
+  },
+  {
+    "id": 2,
+    "sigla": "CCF",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf",
+    "sha256": "4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76",
+    "ruta_local_relativa": "Federal/ordenamientos/2/versiones/3fb34f8b93451f5830bb82d5511e6a519caf1a253e21385e1d0f2447339185f1/original.pdf"
+  },
+  {
+    "id": 2,
+    "sigla": "CCF",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CCF.doc",
+    "sha256": "75bc335cf70c53c3e407c5355fb96227e4760e2fd05d29ec1a693e172fcc68d6",
+    "ruta_local_relativa": "Federal/ordenamientos/2/versiones/3fb34f8b93451f5830bb82d5511e6a519caf1a253e21385e1d0f2447339185f1/original.doc"
+  },
+  {
+    "id": 3,
+    "sigla": "CCom",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCom.pdf",
+    "sha256": "b99bbf981434011b6351ef308922fea90f6f0f8777b113183cf1737840c5bbef",
+    "ruta_local_relativa": "Federal/ordenamientos/3/versiones/843a1786ae968e18fb8ec1e6547f524c6e1ac55c5de664158dd6d08d7019b173/original.pdf"
+  },
+  {
+    "id": 3,
+    "sigla": "CCom",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CCom.doc",
+    "sha256": "823ff8eaeb1e740d8e344b13592f5f4a81f0a595fe6259be06e131f6b91248dd",
+    "ruta_local_relativa": "Federal/ordenamientos/3/versiones/843a1786ae968e18fb8ec1e6547f524c6e1ac55c5de664158dd6d08d7019b173/original.doc"
+  },
+  {
+    "id": 4,
+    "sigla": "CJM",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CJM.pdf",
+    "sha256": "b9c653ecd9d85d07f156f774129bf3662d1f033dadf5de86437120da00fa9531",
+    "ruta_local_relativa": "Federal/ordenamientos/4/versiones/510f55be7e1f7b7f4093d96ad04eba76fb6b21591619446c15c3ae6a92122e78/original.pdf"
+  },
+  {
+    "id": 4,
+    "sigla": "CJM",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CJM.doc",
+    "sha256": "ed80465d36d0081dbf589ee5efff761139184fd066eeb106422016cd79d97af3",
+    "ruta_local_relativa": "Federal/ordenamientos/4/versiones/510f55be7e1f7b7f4093d96ad04eba76fb6b21591619446c15c3ae6a92122e78/original.doc"
+  },
+  {
+    "id": 5,
+    "sigla": "CFPC",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CFPC.pdf",
+    "sha256": "db545f3918f1c1907dac23d6431d5076c8de91af1fbf97dcf5b5b2a68b165299",
+    "ruta_local_relativa": "Federal/ordenamientos/5/versiones/7b33ea4df697a5a69c948dccecf3a6737a0f2a11da2c95136cfe6c86bc86e836/original.pdf"
+  },
+  {
+    "id": 5,
+    "sigla": "CFPC",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CFPC.doc",
+    "sha256": "8e4dfefd83ed765abb802e29ec0e2813e7ed59ab8cdbf7467f4b14ccbfbb9d7c",
+    "ruta_local_relativa": "Federal/ordenamientos/5/versiones/7b33ea4df697a5a69c948dccecf3a6737a0f2a11da2c95136cfe6c86bc86e836/original.doc"
+  },
+  {
+    "id": 6,
+    "sigla": "CFF",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf",
+    "sha256": "be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d",
+    "ruta_local_relativa": "Federal/ordenamientos/6/versiones/0d25fd20c497b33db9bfb8fb5f85f0a4311bdd7f4355504c6f6f56608c186d1a/original.pdf"
+  },
+  {
+    "id": 6,
+    "sigla": "CFF",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CFF.doc",
+    "sha256": "96e4133a2f5fbe7b40c4bc2526063a59745344b2045724a01df225ae28b9274a",
+    "ruta_local_relativa": "Federal/ordenamientos/6/versiones/0d25fd20c497b33db9bfb8fb5f85f0a4311bdd7f4355504c6f6f56608c186d1a/original.doc"
+  },
+  {
+    "id": 7,
+    "sigla": "CMPP",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CMPP.pdf",
+    "sha256": "351c69a7bc3f61976933d76e45cf185a721a331a145778dd3f315df5216a5e32",
+    "ruta_local_relativa": "Federal/ordenamientos/7/versiones/3f2e81d40a58b48377b5d33a96c429b1d5e0d53f44b1c6d88f4152ee66f259b2/original.pdf"
+  },
+  {
+    "id": 7,
+    "sigla": "CMPP",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CMPP.doc",
+    "sha256": "47459107954e63ba5db7c68d376b4933d63ced2ccb0ad19b51573d4100d89c23",
+    "ruta_local_relativa": "Federal/ordenamientos/7/versiones/3f2e81d40a58b48377b5d33a96c429b1d5e0d53f44b1c6d88f4152ee66f259b2/original.doc"
+  },
+  {
+    "id": 8,
+    "sigla": "CNPCF",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf",
+    "sha256": "6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8",
+    "ruta_local_relativa": "Federal/ordenamientos/8/versiones/fccc19673a372a920e8b6a2cfee7d0950579810b4fbaf63198d6b01ae2ce0284/original.pdf"
+  },
+  {
+    "id": 8,
+    "sigla": "CNPCF",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPCF.doc",
+    "sha256": "a9e9e831ce78934d48733399f635de90314a6571fd3beaffc4b6abff283c5bb4",
+    "ruta_local_relativa": "Federal/ordenamientos/8/versiones/fccc19673a372a920e8b6a2cfee7d0950579810b4fbaf63198d6b01ae2ce0284/original.doc"
+  },
+  {
+    "id": 9,
+    "sigla": "CNPP",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPP.pdf",
+    "sha256": "7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904",
+    "ruta_local_relativa": "Federal/ordenamientos/9/versiones/439403d393845526da7ac0590e74c16bf12069985056f09385cd1a5242805c2e/original.pdf"
+  },
+  {
+    "id": 9,
+    "sigla": "CNPP",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CNPP.doc",
+    "sha256": "d9748449446d54f8525f98b569d8f88d751e5a70747824d39983e5df0c5a83b0",
+    "ruta_local_relativa": "Federal/ordenamientos/9/versiones/439403d393845526da7ac0590e74c16bf12069985056f09385cd1a5242805c2e/original.doc"
+  },
+  {
+    "id": 10,
+    "sigla": "CPF",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPF.pdf",
+    "sha256": "a2d80c4383c5fbc8453cf290c19b7853eb0a5a05d1e366572da384edfafda88c",
+    "ruta_local_relativa": "Federal/ordenamientos/10/versiones/b308d289b693a6668bc5ee18e58af82f7fd8a82a0191fef7a0db61cb723fecc9/original.pdf"
+  },
+  {
+    "id": 10,
+    "sigla": "CPF",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CPF.doc",
+    "sha256": "f4ec5aaa63b94bbd2832dccc2cfdcfeb8a72b992e7d68fd37aefc7b4948cbe65",
+    "ruta_local_relativa": "Federal/ordenamientos/10/versiones/b308d289b693a6668bc5ee18e58af82f7fd8a82a0191fef7a0db61cb723fecc9/original.doc"
+  },
+  {
+    "id": 11,
+    "sigla": "10_270614",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/10_270614.pdf",
+    "sha256": "b7dfa4da4a75e0e017cc880b385f3ed8ae4a4276206d8517effe2754d09e89ad",
+    "ruta_local_relativa": "Federal/ordenamientos/11/versiones/51da591796539d6540f972f7c231da29d2d596ba9e3c5eff4de37b96c8589eb8/original.pdf"
+  },
+  {
+    "id": 11,
+    "sigla": "10_270614",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/10_270614.doc",
+    "sha256": "41969cb4d3f609aaf4bd113b2370c4dad9daaef8af740b17b18967382fb4fbbe",
+    "ruta_local_relativa": "Federal/ordenamientos/11/versiones/51da591796539d6540f972f7c231da29d2d596ba9e3c5eff4de37b96c8589eb8/original.doc"
+  },
+  {
+    "id": 12,
+    "sigla": "79",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/79.pdf",
+    "sha256": "432feb3abb31b584418b275a1e4d42015eb7a4f4a440d09d938a7d74a9c13113",
+    "ruta_local_relativa": "Federal/ordenamientos/12/versiones/3697d145b2db53f67dd701fe67bbab3984b887e57419f36619ca1f660a3faa6b/original.pdf"
+  },
+  {
+    "id": 12,
+    "sigla": "79",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/79.doc",
+    "sha256": "398c7f501d68216f7fad21825f1e45f552da5d7531dede8b3c901b06391db776",
+    "ruta_local_relativa": "Federal/ordenamientos/12/versiones/3697d145b2db53f67dd701fe67bbab3984b887e57419f36619ca1f660a3faa6b/original.doc"
+  },
+  {
+    "id": 13,
+    "sigla": "LAdua",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf",
+    "sha256": "43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d",
+    "ruta_local_relativa": "Federal/ordenamientos/13/versiones/4b54c1959edc35901f952963c8cfb754babc311d68ac37308a1ddc9b3c380088/original.pdf"
+  },
+  {
+    "id": 13,
+    "sigla": "LAdua",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAdua.doc",
+    "sha256": "912f4063e1e62a239ae4a0d812cdc5de294e897181942809bb8e48a3473bbb1b",
+    "ruta_local_relativa": "Federal/ordenamientos/13/versiones/4b54c1959edc35901f952963c8cfb754babc311d68ac37308a1ddc9b3c380088/original.doc"
+  },
+  {
+    "id": 14,
+    "sigla": "LAgra",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAgra.pdf",
+    "sha256": "7fa6151d65442b7beeb14e032ba54cbcaf4a8140606f152acb988bc554978550",
+    "ruta_local_relativa": "Federal/ordenamientos/14/versiones/e388320e596ba88c3a5aa57343547235320c7e9e5a32c67188aad7afc911c99b/original.pdf"
+  },
+  {
+    "id": 14,
+    "sigla": "LAgra",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAgra.doc",
+    "sha256": "517367b4be51364662c6cc5f3d6690647c613c7b2321f6255a4255df0ff12649",
+    "ruta_local_relativa": "Federal/ordenamientos/14/versiones/e388320e596ba88c3a5aa57343547235320c7e9e5a32c67188aad7afc911c99b/original.doc"
+  },
+  {
+    "id": 15,
+    "sigla": "LAASSP",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAASSP.pdf",
+    "sha256": "883f6e9c3139d0961de302de7bddcf3262c69884008bb3b2324d57e5d67009fc",
+    "ruta_local_relativa": "Federal/ordenamientos/15/versiones/de2a40fb52ec15182a206715efd7d30287972e14f3c472369afb23bc768957c8/original.pdf"
+  },
+  {
+    "id": 15,
+    "sigla": "LAASSP",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAASSP.doc",
+    "sha256": "52c68510c7033f8ccbdd272af507c40ea499df5f8695b18262d40517156088dd",
+    "ruta_local_relativa": "Federal/ordenamientos/15/versiones/de2a40fb52ec15182a206715efd7d30287972e14f3c472369afb23bc768957c8/original.doc"
+  },
+  {
+    "id": 16,
+    "sigla": "LAero",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAero.pdf",
+    "sha256": "c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4",
+    "ruta_local_relativa": "Federal/ordenamientos/16/versiones/ebba83ae239d6577078ad2b775271a1eb11a9f781f5ade00e2d090bb7056bb27/original.pdf"
+  },
+  {
+    "id": 16,
+    "sigla": "LAero",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAero.doc",
+    "sha256": "c9757bd52d948814b51df6e1849f82e9eedc06a36213eed055bab3f2bef51c03",
+    "ruta_local_relativa": "Federal/ordenamientos/16/versiones/ebba83ae239d6577078ad2b775271a1eb11a9f781f5ade00e2d090bb7056bb27/original.doc"
+  },
+  {
+    "id": 17,
+    "sigla": "LAN",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf",
+    "sha256": "4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d",
+    "ruta_local_relativa": "Federal/ordenamientos/17/versiones/58c7a712805e66bd9fca6a137dbc1f446d648a0375e25a3611489dde655c008d/original.pdf"
+  },
+  {
+    "id": 17,
+    "sigla": "LAN",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAN.doc",
+    "sha256": "89cffb9aa5addab411111b2876df5ede12cea7bfb79122688d55e9350b7a9157",
+    "ruta_local_relativa": "Federal/ordenamientos/17/versiones/58c7a712805e66bd9fca6a137dbc1f446d648a0375e25a3611489dde655c008d/original.doc"
+  },
+  {
+    "id": 18,
+    "sigla": "LACP",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LACP.pdf",
+    "sha256": "d7c97f38c1dfe7dbf0ac5eba162d5fedb51dd132975912cf6e84aee9a614f348",
+    "ruta_local_relativa": "Federal/ordenamientos/18/versiones/3c3aedf75114f726536dd6934314baa06e5c97b88265e3a3cb5a605003cf1824/original.pdf"
+  },
+  {
+    "id": 18,
+    "sigla": "LACP",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LACP.doc",
+    "sha256": "19d935898628cfc4975f31e5626495b7611c30da1709a89262d70abab2d0120e",
+    "ruta_local_relativa": "Federal/ordenamientos/18/versiones/3c3aedf75114f726536dd6934314baa06e5c97b88265e3a3cb5a605003cf1824/original.doc"
+  },
+  {
+    "id": 19,
+    "sigla": "LAmn",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAmn.pdf",
+    "sha256": "33dc1ac9ff7050121f9d659123179b38894d345fdd7de0844322f1caa329b6fe",
+    "ruta_local_relativa": "Federal/ordenamientos/19/versiones/e4b9ba40b4a6373ca75ff27113f65b551872f467b04802212bb53764ea85e553/original.pdf"
+  },
+  {
+    "id": 19,
+    "sigla": "LAmn",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAmn.doc",
+    "sha256": "1001b679f41de26843ecd160ee7beb7699b15820e77f06e5809712209aa080bb",
+    "ruta_local_relativa": "Federal/ordenamientos/19/versiones/e4b9ba40b4a6373ca75ff27113f65b551872f467b04802212bb53764ea85e553/original.doc"
+  },
+  {
+    "id": 20,
+    "sigla": "19",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/19.pdf",
+    "sha256": "0aeca4ad89610cce814bff87e60d5cc1552f1cab232b798cf3b4da00d243d195",
+    "ruta_local_relativa": "Federal/ordenamientos/20/versiones/aa43246da1cb69d2654ecb56b7513534b49a82d87d77a30da198bd2f4db49e6c/original.pdf"
+  },
+  {
+    "id": 20,
+    "sigla": "19",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/19.doc",
+    "sha256": "8ed66dea2bcf353eff24a2b8d4c2897445645aaab18c66684054c5c0bce494de",
+    "ruta_local_relativa": "Federal/ordenamientos/20/versiones/aa43246da1cb69d2654ecb56b7513534b49a82d87d77a30da198bd2f4db49e6c/original.doc"
+  },
+  {
+    "id": 21,
+    "sigla": "LAmp",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAmp.pdf",
+    "sha256": "05560493ac2b17b9e77eeb9741843176ee0fde76f05e75f853465b13621be78d",
+    "ruta_local_relativa": "Federal/ordenamientos/21/versiones/3af36ec815c3e042ea86ae9fbfa8408eecb87957cc0b57f5e95034d93546a926/original.pdf"
+  },
+  {
+    "id": 21,
+    "sigla": "LAmp",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAmp.doc",
+    "sha256": "bdca96c29633bd0b15849372b9047d434ebfca3876890df336b8bf1231fbea64",
+    "ruta_local_relativa": "Federal/ordenamientos/21/versiones/3af36ec815c3e042ea86ae9fbfa8408eecb87957cc0b57f5e95034d93546a926/original.doc"
+  },
+  {
+    "id": 22,
+    "sigla": "LAAM",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAAM.pdf",
+    "sha256": "e69669aaa047e12ed8da8c0bbf403393ebe0d5f66c5b42b92681df2c11d4e7e8",
+    "ruta_local_relativa": "Federal/ordenamientos/22/versiones/87ea2e6d5a0fdcfd4dc891392ab898917affbf4963fd1e6a2292a0e12fa2a3e6/original.pdf"
+  },
+  {
+    "id": 22,
+    "sigla": "LAAM",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAAM.doc",
+    "sha256": "d7cfeb55846b364089ba78b9441b9cc200bbef73c4e612f5c3ac9cd1c8fff777",
+    "ruta_local_relativa": "Federal/ordenamientos/22/versiones/87ea2e6d5a0fdcfd4dc891392ab898917affbf4963fd1e6a2292a0e12fa2a3e6/original.doc"
+  },
+  {
+    "id": 23,
+    "sigla": "LAREFAGN",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAREFAGN.pdf",
+    "sha256": "9361fe806edd4f3ba0cea975e050eddbc77ff769e9bd8aa70876cb58a31e2975",
+    "ruta_local_relativa": "Federal/ordenamientos/23/versiones/e3250af4c6e10c964158d6b00c4112a11f9cce9376b23188880be3c9e225c0e0/original.pdf"
+  },
+  {
+    "id": 23,
+    "sigla": "LAREFAGN",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAREFAGN.doc",
+    "sha256": "5c2dc8d1bb74530196a55a8bed503d792cc427efb74050cbd73b6f392bb46c07",
+    "ruta_local_relativa": "Federal/ordenamientos/23/versiones/e3250af4c6e10c964158d6b00c4112a11f9cce9376b23188880be3c9e225c0e0/original.doc"
+  },
+  {
+    "id": 24,
+    "sigla": "LASoc",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LASoc.pdf",
+    "sha256": "d8e73214cb24d2de425b58971ee1f4ff50a7ae1b7eeeff05c929649818601228",
+    "ruta_local_relativa": "Federal/ordenamientos/24/versiones/ca6d6a3a4af61f30e6dba994d53e470e081f7bbd066fc8aae496d4a8a24d1065/original.pdf"
+  },
+  {
+    "id": 24,
+    "sigla": "LASoc",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LASoc.doc",
+    "sha256": "42dc3136433a44a813d18d5a82917ff76ef32e9e5d088b2a7852f3216131dbf4",
+    "ruta_local_relativa": "Federal/ordenamientos/24/versiones/ca6d6a3a4af61f30e6dba994d53e470e081f7bbd066fc8aae496d4a8a24d1065/original.doc"
+  },
+  {
+    "id": 25,
+    "sigla": "LAPP",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf",
+    "sha256": "a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf",
+    "ruta_local_relativa": "Federal/ordenamientos/25/versiones/c4216b4996597564f9a2a535013da5f196fc3b61915afba34597528f80e98ddc/original.pdf"
+  },
+  {
+    "id": 25,
+    "sigla": "LAPP",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAPP.doc",
+    "sha256": "099ee671f59ef400126490d2110ead57ade0def195634174dbd3c5d3e8165fd7",
+    "ruta_local_relativa": "Federal/ordenamientos/25/versiones/c4216b4996597564f9a2a535013da5f196fc3b61915afba34597528f80e98ddc/original.doc"
+  },
+  {
+    "id": 26,
+    "sigla": "LARCP",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LARCP.pdf",
+    "sha256": "1f54ff4c063ca2552ee40ff0a9b1ce38b91c4074939c2c97ffda484da8d62290",
+    "ruta_local_relativa": "Federal/ordenamientos/26/versiones/0215e12dfc2c689a55cf3d719006ed6d1d286d5324e715fadbe079f9d50cc7b4/original.pdf"
+  },
+  {
+    "id": 26,
+    "sigla": "LARCP",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LARCP.doc",
+    "sha256": "e6405b6d3caaed1c7426be2b66f95a682baab06a7b4206711b9cf09dbc67d33b",
+    "ruta_local_relativa": "Federal/ordenamientos/26/versiones/0215e12dfc2c689a55cf3d719006ed6d1d286d5324e715fadbe079f9d50cc7b4/original.doc"
+  },
+  {
+    "id": 27,
+    "sigla": "LAC",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf",
+    "sha256": "07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae",
+    "ruta_local_relativa": "Federal/ordenamientos/27/versiones/6ec1867d3e1880c17f6560a1fea2bbf5bd1b99c41ddca6f5fd626f32d293e9d9/original.pdf"
+  },
+  {
+    "id": 27,
+    "sigla": "LAC",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAC.doc",
+    "sha256": "ceef754f672ed101f960c75f7209f9fed4f0d4592e55c933d34c32fa2569945f",
+    "ruta_local_relativa": "Federal/ordenamientos/27/versiones/6ec1867d3e1880c17f6560a1fea2bbf5bd1b99c41ddca6f5fd626f32d293e9d9/original.doc"
+  },
+  {
+    "id": 28,
+    "sigla": "LAAT",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAAT.pdf",
+    "sha256": "2e6462a9ddd472efe129d2285c1602316c91640646847da74dbf13363c5238fb",
+    "ruta_local_relativa": "Federal/ordenamientos/28/versiones/c7fe669cd65e892b68971d66ad2e5f4cfe480e9435859ce6b5aff9a29f1ccac0/original.pdf"
+  },
+  {
+    "id": 28,
+    "sigla": "LAAT",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LAAT.doc",
+    "sha256": "76cb38dd2ce573a7b83af62c30d193072f3b69f4266c10a6b60e3a7289804516",
+    "ruta_local_relativa": "Federal/ordenamientos/28/versiones/c7fe669cd65e892b68971d66ad2e5f4cfe480e9435859ce6b5aff9a29f1ccac0/original.doc"
+  },
+  {
+    "id": 29,
+    "sigla": "LBio",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LBio.pdf",
+    "sha256": "c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4",
+    "ruta_local_relativa": "Federal/ordenamientos/29/versiones/24ae3fa7b0bafb08782c2b990cb878d77de940a21efdfdaf21bda71580583c57/original.pdf"
+  },
+  {
+    "id": 29,
+    "sigla": "LBio",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LBio.doc",
+    "sha256": "a46ffa5904cba7935e8f80c1be1bbe3663f76b7e4115d70f3accf8dd282191a0",
+    "ruta_local_relativa": "Federal/ordenamientos/29/versiones/24ae3fa7b0bafb08782c2b990cb878d77de940a21efdfdaf21bda71580583c57/original.doc"
+  },
+  {
+    "id": 30,
+    "sigla": "LBOGM",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LBOGM.pdf",
+    "sha256": "b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc",
+    "ruta_local_relativa": "Federal/ordenamientos/30/versiones/8a28b69932a624250bd7645a5e6b992a770c6b8e0aa3f490fda76b07d4147810/original.pdf"
+  },
+  {
+    "id": 30,
+    "sigla": "LBOGM",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LBOGM.doc",
+    "sha256": "6f2483a158433b2b8fbad3462f082d3da3ca324f47c07f49fb2cfd968e6d2491",
+    "ruta_local_relativa": "Federal/ordenamientos/30/versiones/8a28b69932a624250bd7645a5e6b992a770c6b8e0aa3f490fda76b07d4147810/original.doc"
+  },
+  {
+    "id": 31,
+    "sigla": "LCEC_120419",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCEC_120419.pdf",
+    "sha256": "e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b",
+    "ruta_local_relativa": "Federal/ordenamientos/31/versiones/8d6d2ca11db5d35bacb79ec673aa8ce08d4994a056815a442c0457c2098f7a6f/original.pdf"
+  },
+  {
+    "id": 31,
+    "sigla": "LCEC_120419",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LCEC_120419.doc",
+    "sha256": "e4e889b29b2961dfb766e4ff28587e52c1b4a0a412bc4502d168dc53c0f8914a",
+    "ruta_local_relativa": "Federal/ordenamientos/31/versiones/8d6d2ca11db5d35bacb79ec673aa8ce08d4994a056815a442c0457c2098f7a6f/original.doc"
+  },
+  {
+    "id": 32,
+    "sigla": "LCPAF",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCPAF.pdf",
+    "sha256": "9133f4bfc63f4f6ee32f3657ba4468c67b2eb9db46410ed893c85e693018a036",
+    "ruta_local_relativa": "Federal/ordenamientos/32/versiones/80fe32a16f04d8b62c38be74634cd682e9fb812f3b55324dfd6f406942d586cc/original.pdf"
+  },
+  {
+    "id": 32,
+    "sigla": "LCPAF",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LCPAF.doc",
+    "sha256": "5b0e00cd7ddb22742f9398d72ef30aa2f0f7a8e85ea51a4fb70a66dbf6668681",
+    "ruta_local_relativa": "Federal/ordenamientos/32/versiones/80fe32a16f04d8b62c38be74634cd682e9fb812f3b55324dfd6f406942d586cc/original.doc"
+  },
+  {
+    "id": 33,
+    "sigla": "238",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/238.pdf",
+    "sha256": "632a042503f2cbca50f9247a0ba9d5df58135381d91bbe8784ff4f5dbda017ea",
+    "ruta_local_relativa": "Federal/ordenamientos/33/versiones/52c7eca5b84aee9f55d6c299403c09426d521ce0c794108368bfe57bf4bd57f6/original.pdf"
+  },
+  {
+    "id": 33,
+    "sigla": "238",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/238.doc",
+    "sha256": "ac6030f2826aad75efb38cd054f4c87e49fb8a3a96e308bd48326501b8d23217",
+    "ruta_local_relativa": "Federal/ordenamientos/33/versiones/52c7eca5b84aee9f55d6c299403c09426d521ce0c794108368bfe57bf4bd57f6/original.doc"
+  },
+  {
+    "id": 34,
+    "sigla": "LCJPJF",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCJPJF.pdf",
+    "sha256": "1307711de5651aa4df9452c8ea4a2e519ab6725b85c014a2e1844a9f8e823f4f",
+    "ruta_local_relativa": "Federal/ordenamientos/34/versiones/d8a15eed490303917ade3e50a78882ba4dbb15d4bbb8c0f919c6779278a0ee6e/original.pdf"
+  },
+  {
+    "id": 34,
+    "sigla": "LCJPJF",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LCJPJF.doc",
+    "sha256": "fd74dc8d6067d53871392c7c889ac8597352ef149e6c4226005e3386e450491c",
+    "ruta_local_relativa": "Federal/ordenamientos/34/versiones/d8a15eed490303917ade3e50a78882ba4dbb15d4bbb8c0f919c6779278a0ee6e/original.doc"
+  },
+  {
+    "id": 35,
+    "sigla": "LCE",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCE.pdf",
+    "sha256": "3f114f47007c21b4691bad502b786b45aa5e45c1571bd56dd8ca4f5af991b459",
+    "ruta_local_relativa": "Federal/ordenamientos/35/versiones/61c8599a0d550016c5c00b7d3b3ca8212658af4eebd77663bf7ac5f46cd1d894/original.pdf"
+  },
+  {
+    "id": 35,
+    "sigla": "LCE",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LCE.doc",
+    "sha256": "1cb224946819990ddf188e73d0ab7fbbda103e0b76b565a13dfeed37a54dfd33",
+    "ruta_local_relativa": "Federal/ordenamientos/35/versiones/61c8599a0d550016c5c00b7d3b3ca8212658af4eebd77663bf7ac5f46cd1d894/original.doc"
+  },
+  {
+    "id": 36,
+    "sigla": "LCM",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCM.pdf",
+    "sha256": "8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a",
+    "ruta_local_relativa": "Federal/ordenamientos/36/versiones/396775a72c7a2ed986a5c295e2169d88e781d7663f97ea553052d40022a7daf9/original.pdf"
+  },
+  {
+    "id": 36,
+    "sigla": "LCM",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LCM.doc",
+    "sha256": "9bbc486014eace24e0199e90646448eaaff47d1a0aa1adedd4843e606e1e475a",
+    "ruta_local_relativa": "Federal/ordenamientos/36/versiones/396775a72c7a2ed986a5c295e2169d88e781d7663f97ea553052d40022a7daf9/original.doc"
+  },
+  {
+    "id": 37,
+    "sigla": "30",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/30.pdf",
+    "sha256": "c8a4080aaf0b6f80cf9c50f8085d899e2ba68bbac8568ab12743dddf65cfa742",
+    "ruta_local_relativa": "Federal/ordenamientos/37/versiones/e70dac833ebeeb6088c6b889b32e367f75fba225ad31f25939126861b002a6f3/original.pdf"
+  },
+  {
+    "id": 37,
+    "sigla": "30",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/30.doc",
+    "sha256": "ec95f151334ecf70aa68e1d179731cbce342a6aa061f66ee305518db64c12db8",
+    "ruta_local_relativa": "Federal/ordenamientos/37/versiones/e70dac833ebeeb6088c6b889b32e367f75fba225ad31f25939126861b002a6f3/original.doc"
+  },
+  {
+    "id": 38,
+    "sigla": "LCID_061120",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCID_061120.pdf",
+    "sha256": "1a64991c466c40c7ed0f3d7bffa1b5d5b87dc9df8aa59a97b525a99f98b381a6",
+    "ruta_local_relativa": "Federal/ordenamientos/38/versiones/4ea85c435195495a048fb7bc86de6b2cfb5b4cc7f170bd9b617be2d3f72285c0/original.pdf"
+  },
+  {
+    "id": 38,
+    "sigla": "LCID_061120",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LCID_061120.doc",
+    "sha256": "ac18540e6d94ee42bc790b7eab8c83491b99f8a3546a870ea72d7fbcb1bb0c6a",
+    "ruta_local_relativa": "Federal/ordenamientos/38/versiones/4ea85c435195495a048fb7bc86de6b2cfb5b4cc7f170bd9b617be2d3f72285c0/original.doc"
+  },
+  {
+    "id": 39,
+    "sigla": "LCF",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCF.pdf",
+    "sha256": "5c89d48167a4e1170c69e0b1e0294260b806a30d861275d8dca09b0334cd09d4",
+    "ruta_local_relativa": "Federal/ordenamientos/39/versiones/77272aa6611d05d79bcd6e17669966ef7b6cd26425239c7822315a24f53c226c/original.pdf"
+  },
+  {
+    "id": 39,
+    "sigla": "LCF",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LCF.doc",
+    "sha256": "ee8e8aa1df19faa082409c4a06f636afafc7e8c549a2a71d9c9a006f8e88ae03",
+    "ruta_local_relativa": "Federal/ordenamientos/39/versiones/77272aa6611d05d79bcd6e17669966ef7b6cd26425239c7822315a24f53c226c/original.doc"
+  },
+  {
+    "id": 40,
+    "sigla": "LDRS",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDRS.pdf",
+    "sha256": "30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21",
+    "ruta_local_relativa": "Federal/ordenamientos/40/versiones/c512022a435b810bbfe33a5e2fd80a9597f94c8f8f9e88ddc486b0356fe6c2ef/original.pdf"
+  },
+  {
+    "id": 40,
+    "sigla": "LDRS",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LDRS.doc",
+    "sha256": "b7923f2ddc65f56330db2a08d99d85377583ee6c220acf3456d5a50603dff2c8",
+    "ruta_local_relativa": "Federal/ordenamientos/40/versiones/c512022a435b810bbfe33a5e2fd80a9597f94c8f8f9e88ddc486b0356fe6c2ef/original.doc"
+  },
+  {
+    "id": 41,
+    "sigla": "LDSC",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDSC.pdf",
+    "sha256": "45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80",
+    "ruta_local_relativa": "Federal/ordenamientos/41/versiones/af3d1727a2253d005dbd8e1677edcd491568d00eb221ae01446fa94335ada841/original.pdf"
+  },
+  {
+    "id": 41,
+    "sigla": "LDSC",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LDSC.doc",
+    "sha256": "7e7490c513b4ecb33c5146150a79082be93bb5cfa163b85d1d8cf0e48ca83c21",
+    "ruta_local_relativa": "Federal/ordenamientos/41/versiones/af3d1727a2253d005dbd8e1677edcd491568d00eb221ae01446fa94335ada841/original.doc"
+  },
+  {
+    "id": 42,
+    "sigla": "LDSCA",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDSCA.pdf",
+    "sha256": "3ae8175ed89c2729e71551aac6ef879dfdd3da40cc03bae6784d61951c2c284d",
+    "ruta_local_relativa": "Federal/ordenamientos/42/versiones/5c24bcaaed03c435ea485073cffd66a2be8e83ec106ea54629766160425d2005/original.pdf"
+  },
+  {
+    "id": 42,
+    "sigla": "LDSCA",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LDSCA.doc",
+    "sha256": "e5c1e606a70f1fd0d76139f01ffe3908f04a6f4fa150f6febbc87568548837a1",
+    "ruta_local_relativa": "Federal/ordenamientos/42/versiones/5c24bcaaed03c435ea485073cffd66a2be8e83ec106ea54629766160425d2005/original.doc"
+  },
+  {
+    "id": 43,
+    "sigla": "LDEFAGN",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDEFAGN.pdf",
+    "sha256": "3fe9742a4b38b3270a7f873cd839755785ee83b7ee2217d00af68bd9d76c0e38",
+    "ruta_local_relativa": "Federal/ordenamientos/43/versiones/3525531e83c530f87e58935cb29203823cb1b2e837b439e5028d05609d809664/original.pdf"
+  },
+  {
+    "id": 43,
+    "sigla": "LDEFAGN",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LDEFAGN.doc",
+    "sha256": "fe642a2a7b2ef02a056895628aca01657acbbf4488554ad29d5495782c8abecf",
+    "ruta_local_relativa": "Federal/ordenamientos/43/versiones/3525531e83c530f87e58935cb29203823cb1b2e837b439e5028d05609d809664/original.doc"
+  },
+  {
+    "id": 44,
+    "sigla": "LDFEFM",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDFEFM.pdf",
+    "sha256": "04c25edb67f0a8b6704cd7d56b7a4bb9f455c77a060199962317bbdb7c889247",
+    "ruta_local_relativa": "Federal/ordenamientos/44/versiones/fdfb3aad76f2ec902b362dbef55967724ff8c6c382bf21a9aab88534101f70c1/original.pdf"
+  },
+  {
+    "id": 44,
+    "sigla": "LDFEFM",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LDFEFM.doc",
+    "sha256": "3b7d36517a0444dcaeae65bf89838361745a83d2ec8575c4075d86cd1a1c0818",
+    "ruta_local_relativa": "Federal/ordenamientos/44/versiones/fdfb3aad76f2ec902b362dbef55967724ff8c6c382bf21a9aab88534101f70c1/original.doc"
+  },
+  {
+    "id": 45,
+    "sigla": "252",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/252.pdf",
+    "sha256": "e3cb7668dc68cdc73e7597def326cf185c392a77c7c9674772134831f4659179",
+    "ruta_local_relativa": "Federal/ordenamientos/45/versiones/1d0f89ec3a93c6a6939613f5b5369c88b4baaf9127caa2f4b4462a9a73770f69/original.pdf"
+  },
+  {
+    "id": 45,
+    "sigla": "252",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/252.doc",
+    "sha256": "a6a833243463aa7589ef00fa11cdb486e7eae64b66ba7204b2f65273a052b511",
+    "ruta_local_relativa": "Federal/ordenamientos/45/versiones/1d0f89ec3a93c6a6939613f5b5369c88b4baaf9127caa2f4b4462a9a73770f69/original.doc"
+  },
+  {
+    "id": 46,
+    "sigla": "LEMEFAGN",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEMEFAGN.pdf",
+    "sha256": "ad4c6635514637c1f3a27c11314083f86c965f3a68273e862c8dfe306c80483a",
+    "ruta_local_relativa": "Federal/ordenamientos/46/versiones/a26d3df339952c94b090a490fadfa52d383e611cffe52737590ed4c0e61cc163/original.pdf"
+  },
+  {
+    "id": 46,
+    "sigla": "LEMEFAGN",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LEMEFAGN.doc",
+    "sha256": "07ab780efc7d93a4491ba8d21b5dfc1ea3d71af9356740808bf72ac2bc126c1a",
+    "ruta_local_relativa": "Federal/ordenamientos/46/versiones/a26d3df339952c94b090a490fadfa52d383e611cffe52737590ed4c0e61cc163/original.doc"
+  },
+  {
+    "id": 47,
+    "sigla": "LEN",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEN.pdf",
+    "sha256": "1cbe263920b6492766c004f8a08e5d20b06c1463a730f0c82f6bbd38406ff91a",
+    "ruta_local_relativa": "Federal/ordenamientos/47/versiones/419ea821b5f700cae4476a29266ee3d459c78d97d693d2b4676b628a976003be/original.pdf"
+  },
+  {
+    "id": 47,
+    "sigla": "LEN",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LEN.doc",
+    "sha256": "becdf65ca2028af9fd96cc4d5f5f09e9001aa52e02e11b7748e870ead01407ce",
+    "ruta_local_relativa": "Federal/ordenamientos/47/versiones/419ea821b5f700cae4476a29266ee3d459c78d97d693d2b4676b628a976003be/original.doc"
+  },
+  {
+    "id": 48,
+    "sigla": "246",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/246.pdf",
+    "sha256": "71dca147c2bed643f28921065bc240abcd15879a1504a55a9c153d6b202bbc5f",
+    "ruta_local_relativa": "Federal/ordenamientos/48/versiones/7b893e8490075f4579cf2f48fd86c2ca9feceab99dc00056452f5b342b094811/original.pdf"
+  },
+  {
+    "id": 48,
+    "sigla": "246",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/246.doc",
+    "sha256": "172b099a09d400d1b309dfffcf2c7ee441cea8bf015a047adf00ea0c79d31c0c",
+    "ruta_local_relativa": "Federal/ordenamientos/48/versiones/7b893e8490075f4579cf2f48fd86c2ca9feceab99dc00056452f5b342b094811/original.doc"
+  },
+  {
+    "id": 49,
+    "sigla": "35",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/35.pdf",
+    "sha256": "40f5c7459f53df7a14ee5aaf70cbb819f8808b14691a63dfd773e36a9f5dd1cb",
+    "ruta_local_relativa": "Federal/ordenamientos/49/versiones/fbe58886099d9ef40d0752d97f139b23bd025ce8978a662987d5c94347949730/original.pdf"
+  },
+  {
+    "id": 49,
+    "sigla": "35",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/35.doc",
+    "sha256": "299ac537783d6f4aecc8e8219935f61b3cf2a7bcdadc6fb3ae74de7d485acca0",
+    "ruta_local_relativa": "Federal/ordenamientos/49/versiones/fbe58886099d9ef40d0752d97f139b23bd025ce8978a662987d5c94347949730/original.doc"
+  },
+  {
+    "id": 50,
+    "sigla": "36_200521",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/36_200521.pdf",
+    "sha256": "8fa795db61b78c3f09ea810793c1b7bc569c8d7fe48cf6a9fabc0fe414457ae5",
+    "ruta_local_relativa": "Federal/ordenamientos/50/versiones/f67f0ab1a8830fb19c21b1a2e9e9116447e53d3580dc908ad0aad2c96496d234/original.pdf"
+  },
+  {
+    "id": 50,
+    "sigla": "36_200521",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/36_200521.doc",
+    "sha256": "5e9d82ba5c0cf7031a87c60095134e330696d48890e8bc87e00480eb767ea31a",
+    "ruta_local_relativa": "Federal/ordenamientos/50/versiones/f67f0ab1a8830fb19c21b1a2e9e9116447e53d3580dc908ad0aad2c96496d234/original.doc"
+  },
+  {
+    "id": 51,
+    "sigla": "LFEA",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEA.pdf",
+    "sha256": "102031c59185ac31397dbd722281bc02046fd4f5db4af7fb9348ffeddcbb2842",
+    "ruta_local_relativa": "Federal/ordenamientos/51/versiones/ea099defb155b876bd561d3c3d2dda8ef8e7c51b294b0ce88260cc61a9aa868f/original.pdf"
+  },
+  {
+    "id": 51,
+    "sigla": "LFEA",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFEA.doc",
+    "sha256": "478b97217371b533b854a31d6a28fe7bc0a05cbb57a34259cc742250c0cc1da1",
+    "ruta_local_relativa": "Federal/ordenamientos/51/versiones/ea099defb155b876bd561d3c3d2dda8ef8e7c51b294b0ce88260cc61a9aa868f/original.doc"
+  },
+  {
+    "id": 52,
+    "sigla": "LFRCF",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF.pdf",
+    "sha256": "cc687a4d8d9de93d2d3ec9b40b26d0273e108bb002a6f611806dc36ebce5ba2c",
+    "ruta_local_relativa": "Federal/ordenamientos/52/versiones/515a845c7f690fac695d529c70fe22f3cfa792861f2703a9580cf327cd7fff66/original.pdf"
+  },
+  {
+    "id": 52,
+    "sigla": "LFRCF",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LFRCF.doc",
+    "sha256": "a30f45e2feb98329e37ae9848238bfede9f3e5f9479e50fdef348da300c11a9f",
+    "ruta_local_relativa": "Federal/ordenamientos/52/versiones/515a845c7f690fac695d529c70fe22f3cfa792861f2703a9580cf327cd7fff66/original.doc"
+  },
+  {
+    "id": 202,
+    "sigla": "LGDNNA",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDNNA.pdf",
+    "sha256": "475861976811f45ac5676ccd6b9db68c61b41d7f8d85e4d3d267914ab3fe3822",
+    "ruta_local_relativa": "Federal/ordenamientos/202/versiones/c14820b446d009b9da81e90bca3087779e9238a8d94ccc339d53e363de652efb/original.pdf"
+  },
+  {
+    "id": 202,
+    "sigla": "LGDNNA",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LGDNNA.doc",
+    "sha256": "2fdc6ea7548bcb6483cac7e62d04ba3379f78e82c6049fa9150313e29224bf98",
+    "ruta_local_relativa": "Federal/ordenamientos/202/versiones/c14820b446d009b9da81e90bca3087779e9238a8d94ccc339d53e363de652efb/original.doc"
+  },
+  {
+    "id": 453,
+    "sigla": "Reg_CFF",
+    "archivo": "pdf",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_CFF.pdf",
+    "sha256": "649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248",
+    "ruta_local_relativa": "Federal/ordenamientos/453/versiones/34919f5783595a22a329e6df0374db304c89caf65ef7b806f71d00987d8be841/original.pdf"
+  },
+  {
+    "id": 453,
+    "sigla": "Reg_CFF",
+    "archivo": "word",
+    "url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_CFF.doc",
+    "sha256": "86543b62d0bd840973200e84fdd016a40a795d4b84cf2da3943738c4248b88e0",
+    "ruta_local_relativa": "Federal/ordenamientos/453/versiones/34919f5783595a22a329e6df0374db304c89caf65ef7b806f71d00987d8be841/original.doc"
+  }
+]
