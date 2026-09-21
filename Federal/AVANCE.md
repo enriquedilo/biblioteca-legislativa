@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-21T06:14:20.940572+00:00
+Actualizado: 2026-09-21T06:15:18.600460+00:00
 
-Procesados: **403/453**. Intentados: 404/453. Pendientes reportados: 1.
+Procesados: **412/453**. Intentados: 414/453. Pendientes reportados: 2.
 
-ID 377 corregido conservando el punto impreso; revisados 403 documentos. ID 372 permanece sin promover por instrucción del usuario.
+Lote 41 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -51,7 +51,7 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 38 | 10/10 | Publicado |
 | 39 | 10/10 | Publicado |
 | 40 | 10/10 | Publicado |
-| 41 | 0/10 | Pendiente |
+| 41 | 10/10 | Cerrado localmente |
 | 42 | 0/10 | Pendiente |
 | 43 | 0/10 | Pendiente |
 | 44 | 0/10 | Pendiente |
@@ -462,16 +462,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 40 | 401 | Reg_LFMZAAH_031220 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 40 | 402 | Reg_LGAMVLV | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 40 | 403 | Reg_LGCC_MRNE_281014 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 41 | 404 | Reg_LGCFD | pendiente | — |
-| 41 | 405 | Reg_LGCDC_291118 | pendiente | — |
-| 41 | 406 | Reg_LGDFS | pendiente | — |
-| 41 | 407 | Reg_LGDS | pendiente | — |
-| 41 | 408 | Reg_LGIFE | pendiente | — |
-| 41 | 409 | Reg_LGDNNA | pendiente | — |
-| 41 | 410 | Reg_LGP | pendiente | — |
-| 41 | 411 | Reg_LGPSACDII_100516 | pendiente | — |
-| 41 | 412 | Reg_LGPC_091215 | pendiente | — |
-| 41 | 413 | Reg_LGS_MCSAEPS_orig_18ene88_ima | pendiente | — |
+| 41 | 404 | Reg_LGCFD | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 41 | 405 | Reg_LGCDC_291118 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 41 | 406 | Reg_LGDFS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 41 | 407 | Reg_LGDS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 41 | 408 | Reg_LGIFE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 41 | 409 | Reg_LGDNNA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 41 | 410 | Reg_LGP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 41 | 411 | Reg_LGPSACDII_100516 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 41 | 412 | Reg_LGPC_091215 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 41 | 413 | Reg_LGS_MCSAEPS_orig_18ene88_ima | error_reportado | Conversión altera contenido; versión no promovida |
 | 42 | 414 | Reg_LGS_MCSOTCSH_orig_20feb85 | pendiente | — |
 | 42 | 415 | Reg_LGS_MCSPIUMC_120121 | pendiente | — |
 | 42 | 416 | Reg_LGS_MIS_orig_06ene87 | pendiente | — |
