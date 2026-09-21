@@ -12,7 +12,7 @@ from pypdf import PdfReader
 from biblioteca import extract_word, savejson
 import sys
 sys.path.insert(0,str(Path(__file__).resolve().parents[1]))
-from encabezados import CANDIDATO, EXPLICITO, encabezado
+from encabezados import CANDIDATO, EXPLICITO, encabezado, normalizar_millares
 
 ROOT = Path(__file__).resolve().parents[2] / 'Nayarit'
 ART = CANDIDATO
@@ -22,7 +22,7 @@ LIST = re.compile(r'^(?:[IVXLCDM]+|[A-Za-z]|\d+)[.)]\s+')
 ROMAN = re.compile(r'M{0,3}(?:CM|CD|D?C{0,3})(?:XC|XL|L?X{0,3})(?:IX|IV|V?I{0,3})')
 
 def compact(s):
-    return re.sub(r'\s+', '', s)
+    return re.sub(r'\s+', '', normalizar_millares(s))
 
 def strip_pagination(page, number):
     lines=page.splitlines(); removed=[]
@@ -61,7 +61,7 @@ def to_markdown(page, incidencias=None):
         if blocked and incidencias is not None:incidencias.append(blocked)
         section=TRANS.match(line) or re.match(r'^(?:T[ÍI]TULO|CAP[ÍI]TULO|SECCI[ÓO]N|LIBRO)\b',line)
         if article:
-            flush();out.append('### '+article[0].strip())
+            flush();out.append('### '+normalizar_millares(article[0].strip()))
             rest=line[article.end():].strip()
             if rest:paragraph.append(rest)
         elif section:

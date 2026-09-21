@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T19:22:51.213180+00:00
+Actualizado: 2026-09-18T19:35:32.911180+00:00
 
 Procesados: **354/453**. Intentados: 354/453. Pendientes reportados: 0.
 
-Lote 35 publicado; revisión de vigencia recuperada completada. Próximo lote: 36.
+Corregidos formatos de encabezado, títulos y tipos; auditados 354 documentos antes del lote 36.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 

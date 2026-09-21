@@ -1,0 +1,956 @@
+{
+  "id": 315,
+  "nombre_catalogo": "REGLAMENTO del Senado de la República",
+  "nombre_oficial": "REGLAMENTO DEL SENADO DE LA REPÚBLICA",
+  "nombre_oficial_pendiente_de_cotejo": false,
+  "fuente": "https://www.diputados.gob.mx/LeyesBiblio/",
+  "urls": {
+    "pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado.pdf",
+    "word": "https://www.diputados.gob.mx/LeyesBiblio/doc/Reg_Senado.doc"
+  },
+  "fecha_descarga": "2026-09-18T15:07:20.172769+00:00",
+  "fecha_catalogo_sin_interpretar": null,
+  "ultima_reforma": {
+    "numero": null,
+    "edicion": null,
+    "fecha": "2024-12-06"
+  },
+  "evidencia_encabezado": [
+    "REGLAMENTO DEL SENADO DE LA REPÚBLICA Nuevo Reglamento publicado en el Diario Oficial de la Federación el 4 de junio de 2010",
+    "Última Reforma DOF 06-12-2024"
+  ],
+  "hash_sha256": {
+    "pdf": "97c7f328d93e915310ceb64d00da908a56188e78088e49e997c1dd60b33a57c2",
+    "word": "1cc8ab9f4c07d4a6370c0bea5feeeead5ebcdb952d1b07f2e84be8d865f175e6"
+  },
+  "version": "c32e460dd587c293e70163e206af9dbb727ba189f8f7476f5d4edde2da35f340",
+  "origen_markdown": "PDF original; conserva texto, numeración impresa, fracciones, transitorios y notas",
+  "estatus": "Incluido en índice federal vigente; vigencia jurídica no certificada",
+  "validacion": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "fecha_revision_conversion": "2026-09-18T15:07:20.172769+00:00",
+  "conversor": "Poppler / controles conservadores existentes / adaptación federal",
+  "decreto_numero": null,
+  "po_publicacion": {
+    "numero": null,
+    "edicion": null,
+    "fecha": "2010-06-04",
+    "seccion": null,
+    "diario": "DOF"
+  },
+  "reformas": [
+    {
+      "fecha": "2022-11-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral adicionado DOF 11-11-2022",
+      "fechas": [
+        "2022-11-11"
+      ]
+    },
+    {
+      "fecha": "2022-11-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral adicionado DOF 11-11-2022",
+      "fechas": [
+        "2022-11-11"
+      ]
+    },
+    {
+      "fecha": "2023-12-05",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo adicionado DOF 05-12-2023",
+      "fechas": [
+        "2023-12-05"
+      ]
+    },
+    {
+      "fecha": "2017-12-19",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 19-12-2017",
+      "fechas": [
+        "2017-12-19"
+      ]
+    },
+    {
+      "fecha": "2014-12-18",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 18-12-2014",
+      "fechas": [
+        "2014-12-18"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción adicionada DOF 18-12-2014. Reformada DOF 22-09-2023",
+      "fechas": [
+        "2014-12-18",
+        "2023-09-22"
+      ]
+    },
+    {
+      "fecha": "2017-03-14",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 14-03-2017",
+      "fechas": [
+        "2017-03-14"
+      ]
+    },
+    {
+      "fecha": "2022-10-25",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 25-10-2022",
+      "fechas": [
+        "2022-10-25"
+      ]
+    },
+    {
+      "fecha": "2022-10-25",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 25-10-2022",
+      "fechas": [
+        "2022-10-25"
+      ]
+    },
+    {
+      "fecha": "2022-10-25",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 25-10-2022",
+      "fechas": [
+        "2022-10-25"
+      ]
+    },
+    {
+      "fecha": "2022-10-25",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 25-10-2022",
+      "fechas": [
+        "2022-10-25"
+      ]
+    },
+    {
+      "fecha": "2022-10-25",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 25-10-2022",
+      "fechas": [
+        "2022-10-25"
+      ]
+    },
+    {
+      "fecha": "2022-11-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral adicionado DOF 11-11-2022",
+      "fechas": [
+        "2022-11-11"
+      ]
+    },
+    {
+      "fecha": "2022-11-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 11-11-2022",
+      "fechas": [
+        "2022-11-11"
+      ]
+    },
+    {
+      "fecha": "2022-11-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 11-11-2022",
+      "fechas": [
+        "2022-11-11"
+      ]
+    },
+    {
+      "fecha": "2017-03-14",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 14-03-2017",
+      "fechas": [
+        "2017-03-14"
+      ]
+    },
+    {
+      "fecha": "2017-03-14",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 14-03-2017",
+      "fechas": [
+        "2017-03-14"
+      ]
+    },
+    {
+      "fecha": "2013-03-05",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 05-03-2013",
+      "fechas": [
+        "2013-03-05"
+      ]
+    },
+    {
+      "fecha": "2013-03-05",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 05-03-2013",
+      "fechas": [
+        "2013-03-05"
+      ]
+    },
+    {
+      "fecha": "2013-03-05",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción adicionada DOF 05-03-2013",
+      "fechas": [
+        "2013-03-05"
+      ]
+    },
+    {
+      "fecha": "2020-03-20",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción adicionada DOF 20-03-2020",
+      "fechas": [
+        "2020-03-20"
+      ]
+    },
+    {
+      "fecha": "2021-03-30",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción adicionada DOF 30-03-2021",
+      "fechas": [
+        "2021-03-30"
+      ]
+    },
+    {
+      "fecha": "2023-09-22",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción adicionada DOF 22-09-2023",
+      "fechas": [
+        "2023-09-22"
+      ]
+    },
+    {
+      "fecha": "2013-03-05",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo adicionado DOF 05-03-2013",
+      "fechas": [
+        "2013-03-05"
+      ]
+    },
+    {
+      "fecha": "2020-03-20",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo adicionado DOF 20-03-2020",
+      "fechas": [
+        "2020-03-20"
+      ]
+    },
+    {
+      "fecha": "2021-03-30",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo adicionado DOF 30-03-2021",
+      "fechas": [
+        "2021-03-30"
+      ]
+    },
+    {
+      "fecha": "2023-09-22",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo adicionado DOF 22-09-2023",
+      "fechas": [
+        "2023-09-22"
+      ]
+    },
+    {
+      "fecha": "2022-11-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 11-11-2022",
+      "fechas": [
+        "2022-11-11"
+      ]
+    },
+    {
+      "fecha": "2017-03-14",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 14-03-2017",
+      "fechas": [
+        "2017-03-14"
+      ]
+    },
+    {
+      "fecha": "2022-11-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo reformado DOF 11-11-2022",
+      "fechas": [
+        "2022-11-11"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 06-04-2018, 11-11-2022",
+      "fechas": [
+        "2018-04-06",
+        "2022-11-11"
+      ]
+    },
+    {
+      "fecha": "2022-11-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 11-11-2022",
+      "fechas": [
+        "2022-11-11"
+      ]
+    },
+    {
+      "fecha": "2024-12-06",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 06-12-2024",
+      "fechas": [
+        "2024-12-06"
+      ]
+    },
+    {
+      "fecha": "2019-03-29",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 29-03-2019",
+      "fechas": [
+        "2019-03-29"
+      ]
+    },
+    {
+      "fecha": "2019-03-29",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral adicionado DOF 29-03-2019",
+      "fechas": [
+        "2019-03-29"
+      ]
+    },
+    {
+      "fecha": "2019-03-29",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral adicionado DOF 29-03-2019",
+      "fechas": [
+        "2019-03-29"
+      ]
+    },
+    {
+      "fecha": "2018-05-23",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 23-05-2018",
+      "fechas": [
+        "2018-05-23"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 23-05-2018, 06-12-2024",
+      "fechas": [
+        "2018-05-23",
+        "2024-12-06"
+      ]
+    },
+    {
+      "fecha": "2024-12-06",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 06-12-2024",
+      "fechas": [
+        "2024-12-06"
+      ]
+    },
+    {
+      "fecha": "2023-12-05",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 05-12-2023",
+      "fechas": [
+        "2023-12-05"
+      ]
+    },
+    {
+      "fecha": "2023-12-05",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 05-12-2023",
+      "fechas": [
+        "2023-12-05"
+      ]
+    },
+    {
+      "fecha": "2023-12-05",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 05-12-2023",
+      "fechas": [
+        "2023-12-05"
+      ]
+    },
+    {
+      "fecha": "2018-05-23",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral adicionado DOF 23-05-2018",
+      "fechas": [
+        "2018-05-23"
+      ]
+    },
+    {
+      "fecha": "2018-05-23",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral adicionado DOF 23-05-2018",
+      "fechas": [
+        "2018-05-23"
+      ]
+    },
+    {
+      "fecha": "2018-05-23",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral adicionado DOF 23-05-2018",
+      "fechas": [
+        "2018-05-23"
+      ]
+    },
+    {
+      "fecha": "2018-05-23",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral adicionado DOF 23-05-2018",
+      "fechas": [
+        "2018-05-23"
+      ]
+    },
+    {
+      "fecha": "2017-10-09",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción derogada DOF 09-10-2017",
+      "fechas": [
+        "2017-10-09"
+      ]
+    },
+    {
+      "fecha": "2017-10-09",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo derogado DOF 09-10-2017",
+      "fechas": [
+        "2017-10-09"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 19-12-2017, 08-04-2022",
+      "fechas": [
+        "2017-12-19",
+        "2022-04-08"
+      ]
+    },
+    {
+      "fecha": "2017-12-19",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 19-12-2017",
+      "fechas": [
+        "2017-12-19"
+      ]
+    },
+    {
+      "fecha": "2017-12-19",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 19-12-2017",
+      "fechas": [
+        "2017-12-19"
+      ]
+    },
+    {
+      "fecha": "2022-11-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 11-11-2022",
+      "fechas": [
+        "2022-11-11"
+      ]
+    },
+    {
+      "fecha": "2022-11-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 11-11-2022",
+      "fechas": [
+        "2022-11-11"
+      ]
+    },
+    {
+      "fecha": "2017-03-14",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 14-03-2017",
+      "fechas": [
+        "2017-03-14"
+      ]
+    },
+    {
+      "fecha": "2022-11-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral adicionado DOF 11-11-2022",
+      "fechas": [
+        "2022-11-11"
+      ]
+    },
+    {
+      "fecha": "2017-12-19",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral adicionado DOF 19-12-2017",
+      "fechas": [
+        "2017-12-19"
+      ]
+    },
+    {
+      "fecha": "2017-12-19",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 19-12-2017",
+      "fechas": [
+        "2017-12-19"
+      ]
+    },
+    {
+      "fecha": "2023-12-05",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 05-12-2023",
+      "fechas": [
+        "2023-12-05"
+      ]
+    },
+    {
+      "fecha": "2024-12-06",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 06-12-2024",
+      "fechas": [
+        "2024-12-06"
+      ]
+    },
+    {
+      "fecha": "2024-12-06",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 06-12-2024",
+      "fechas": [
+        "2024-12-06"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 19-12-2017, 08-04-2022",
+      "fechas": [
+        "2017-12-19",
+        "2022-04-08"
+      ]
+    },
+    {
+      "fecha": "2023-12-05",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 05-12-2023",
+      "fechas": [
+        "2023-12-05"
+      ]
+    },
+    {
+      "fecha": null,
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fe de erratas a la fracción DOF 09-02-2011. Reformada DOF 06-12-2024",
+      "fechas": [
+        "2011-02-09",
+        "2024-12-06"
+      ]
+    },
+    {
+      "fecha": "2024-12-06",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 06-12-2024",
+      "fechas": [
+        "2024-12-06"
+      ]
+    },
+    {
+      "fecha": "2024-12-06",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 06-12-2024",
+      "fechas": [
+        "2024-12-06"
+      ]
+    },
+    {
+      "fecha": "2024-12-06",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral adicionado DOF 06-12-2024",
+      "fechas": [
+        "2024-12-06"
+      ]
+    },
+    {
+      "fecha": "2018-04-13",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 13-04-2018",
+      "fechas": [
+        "2018-04-13"
+      ]
+    },
+    {
+      "fecha": "2018-04-13",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 13-04-2018",
+      "fechas": [
+        "2018-04-13"
+      ]
+    },
+    {
+      "fecha": "2018-04-13",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 13-04-2018",
+      "fechas": [
+        "2018-04-13"
+      ]
+    },
+    {
+      "fecha": "2017-03-14",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 14-03-2017",
+      "fechas": [
+        "2017-03-14"
+      ]
+    },
+    {
+      "fecha": "2010-12-20",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo reformado DOF 20-12-2010",
+      "fechas": [
+        "2010-12-20"
+      ]
+    },
+    {
+      "fecha": "2017-03-14",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción derogada DOF 14-03-2017",
+      "fechas": [
+        "2017-03-14"
+      ]
+    },
+    {
+      "fecha": "2018-05-23",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 23-05-2018",
+      "fechas": [
+        "2018-05-23"
+      ]
+    },
+    {
+      "fecha": "2017-10-09",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 09-10-2017",
+      "fechas": [
+        "2017-10-09"
+      ]
+    },
+    {
+      "fecha": "2014-12-18",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral adicionado DOF 18-12-2014",
+      "fechas": [
+        "2014-12-18"
+      ]
+    },
+    {
+      "fecha": "2017-03-14",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo derogado DOF 14-03-2017",
+      "fechas": [
+        "2017-03-14"
+      ]
+    },
+    {
+      "fecha": "2017-03-14",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo derogado DOF 14-03-2017",
+      "fechas": [
+        "2017-03-14"
+      ]
+    },
+    {
+      "fecha": "2017-03-14",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo derogado DOF 14-03-2017",
+      "fechas": [
+        "2017-03-14"
+      ]
+    },
+    {
+      "fecha": "2017-03-14",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo derogado DOF 14-03-2017",
+      "fechas": [
+        "2017-03-14"
+      ]
+    },
+    {
+      "fecha": "2017-03-14",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo derogado DOF 14-03-2017",
+      "fechas": [
+        "2017-03-14"
+      ]
+    },
+    {
+      "fecha": "2018-05-23",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Denominación de la Sección reformada DOF 23-05-2018",
+      "fechas": [
+        "2018-05-23"
+      ]
+    },
+    {
+      "fecha": "2018-05-23",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 23-05-2018",
+      "fechas": [
+        "2018-05-23"
+      ]
+    },
+    {
+      "fecha": "2018-05-23",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral derogado DOF 23-05-2018",
+      "fechas": [
+        "2018-05-23"
+      ]
+    },
+    {
+      "fecha": "2014-12-18",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Sección adicionada DOF 18-12-2014",
+      "fechas": [
+        "2014-12-18"
+      ]
+    },
+    {
+      "fecha": "2014-12-18",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Artículo adicionado DOF 18-12-2014",
+      "fechas": [
+        "2014-12-18"
+      ]
+    },
+    {
+      "fecha": "2014-12-22",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Párrafo con fracciones adicionado DOF 22-12-2014",
+      "fechas": [
+        "2014-12-22"
+      ]
+    },
+    {
+      "fecha": "2014-12-22",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 22-12-2014",
+      "fechas": [
+        "2014-12-22"
+      ]
+    },
+    {
+      "fecha": "2014-12-22",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral adicionado DOF 22-12-2014",
+      "fechas": [
+        "2014-12-22"
+      ]
+    },
+    {
+      "fecha": "2022-10-25",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral adicionado DOF 25-10-2022",
+      "fechas": [
+        "2022-10-25"
+      ]
+    },
+    {
+      "fecha": "2017-03-14",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 14-03-2017",
+      "fechas": [
+        "2017-03-14"
+      ]
+    },
+    {
+      "fecha": "2011-12-20",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral adicionado DOF 20-12-2011",
+      "fechas": [
+        "2011-12-20"
+      ]
+    },
+    {
+      "fecha": "2011-12-20",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 20-12-2011",
+      "fechas": [
+        "2011-12-20"
+      ]
+    },
+    {
+      "fecha": "2022-11-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 11-11-2022",
+      "fechas": [
+        "2022-11-11"
+      ]
+    },
+    {
+      "fecha": "2017-03-14",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Fracción reformada DOF 14-03-2017",
+      "fechas": [
+        "2017-03-14"
+      ]
+    },
+    {
+      "fecha": "2022-11-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 11-11-2022",
+      "fechas": [
+        "2022-11-11"
+      ]
+    },
+    {
+      "fecha": "2022-11-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 11-11-2022",
+      "fechas": [
+        "2022-11-11"
+      ]
+    },
+    {
+      "fecha": "2022-11-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 11-11-2022",
+      "fechas": [
+        "2022-11-11"
+      ]
+    },
+    {
+      "fecha": "2018-05-23",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 23-05-2018",
+      "fechas": [
+        "2018-05-23"
+      ]
+    },
+    {
+      "fecha": "2022-11-11",
+      "po_numero": null,
+      "decreto": null,
+      "nota": "Numeral reformado DOF 11-11-2022",
+      "fechas": [
+        "2022-11-11"
+      ]
+    }
+  ],
+  "abroga": [],
+  "slug": "reg_senado",
+  "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado.pdf",
+  "url_word": "https://www.diputados.gob.mx/LeyesBiblio/doc/Reg_Senado.doc",
+  "seccion_sitio": "index.htm",
+  "secciones_sitio": [
+    "index.htm"
+  ],
+  "nombre_catalogo_sitio": "REGLAMENTO del Senado de la República",
+  "orden": "federal",
+  "regimen": "general",
+  "tipo": "reglamento",
+  "sigla": "Reg_Senado",
+  "vigencia_anual": false,
+  "archivo_origen": "Reg_Senado.pdf",
+  "vigencia_recuperada": null,
+  "abrogacion_programada": null
+}

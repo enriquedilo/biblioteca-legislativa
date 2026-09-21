@@ -71,6 +71,13 @@ def finalize(row,result):
   if m['slug'] is None:v['metadatos_normativos']['incidencias'].append({'campo':'slug','motivo':'Sigla numérica y nombre oficial pendiente de cotejo; slug null, no se atribuye al catálogo el valor de nombre oficial.'})
   else:row['slug']=m['slug']
  metadatos.ajustar(m,v,(d/'extraccion.txt').read_text())
+ from encabezados import encabezado,normalizar_millares
+ normalization=[]
+ for pn,page in enumerate((d/'extraccion.txt').read_text().split('\f'),1):
+  for ln,line in enumerate(page.splitlines(),1):
+   match=encabezado(' '.join(line.split()))
+   if match and normalizar_millares(match[0])!=match[0]:normalization.append({'pagina_pdf':pn,'linea_extraccion':ln,'encabezado_literal':match[0],'encabezado_markdown':normalizar_millares(match[0]),'motivo':'Normalización de coma de millar autorizada por el usuario; original intacto.'})
+ v['normalizacion_millares_encabezados']=normalization
  v['control_pypdf_informativo']=DIAGNOSTICO
  if row['sigla'].startswith('LIGIE'):v['metadatos_normativos']['incidencias'].append({'campo':'vigencia_anual','motivo':'Bandera administrativa solicitada por el usuario para la tarifa contenida en LIGIE; no se infiere vigencia jurídica anual del texto.'})
  for kind,sha in m['hash_sha256'].items():

@@ -1,0 +1,4010 @@
+{
+  "id": 223,
+  "fecha_revision": "2026-09-18T14:53:29.408896+00:00",
+  "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 76,
+  "paginas_sin_texto": [],
+  "pagina_blanca_confirmada_visualmente": false,
+  "texto_conservado": true,
+  "comparacion_word_pdf": {
+    "palabras_comparadas": 28764,
+    "palabras_pdf": 30995,
+    "frecuencias_coinciden": false,
+    "orden_coincide_separando_nota_al_pie": false,
+    "nota_al_pie_reubicada_por_lector_word": null,
+    "normalizaciones_solo_comparacion": [
+      "Misma función lexical_tokens de Sinaloa; no modifica los originales ni el Markdown."
+    ],
+    "limite": "Campos Word y encabezados permanecen en el control; las diferencias se reportan sin reparación.",
+    "solo_word": {
+      "e": 6,
+      "r": 2,
+      "t": 2,
+      "p": 2,
+      "s": 2,
+      "n": 2,
+      "embed": 1,
+      "word": 1,
+      "picture": 1,
+      "page": 1,
+      "numpages": 1
+    },
+    "solo_pdf": {
+      "ley": 75,
+      "general": 150,
+      "del": 150,
+      "sistema": 75,
+      "de": 450,
+      "medios": 75,
+      "impugnación": 75,
+      "en": 75,
+      "materia": 75,
+      "electoral": 75,
+      "cámara": 75,
+      "diputados": 75,
+      "h": 75,
+      "congreso": 75,
+      "la": 75,
+      "unión": 75,
+      "última": 75,
+      "reforma": 75,
+      "dof": 75,
+      "secretaría": 150,
+      "servicios": 75,
+      "parlamentarios": 75,
+      "presente": 2
+    }
+  },
+  "articulos_word": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "21bis",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "43bis",
+    "43ter",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "77bis",
+    "77ter",
+    "78",
+    "78bis",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98",
+    "99",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112"
+  ],
+  "articulos_pdf": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "artículo80",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "artículo18",
+    "21",
+    "21bis",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "artículos8y",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "43bis",
+    "43ter",
+    "44",
+    "45",
+    "46",
+    "artículo42",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "artículo85",
+    "76",
+    "77",
+    "77bis",
+    "77ter",
+    "78",
+    "78bis",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98",
+    "99",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "artículo41",
+    "110",
+    "111",
+    "112",
+    "artículo2",
+    "5",
+    "artículo49",
+    "artículo54"
+  ],
+  "identificadores_articulos_coinciden": false,
+  "encabezados_transitorios": [
+    {
+      "pagina": 48,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 51,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 53,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 54,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 54,
+      "encabezado": "Transitorio"
+    },
+    {
+      "pagina": 56,
+      "encabezado": "Transitorio"
+    },
+    {
+      "pagina": 57,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 58,
+      "encabezado": "Transitorio"
+    },
+    {
+      "pagina": 61,
+      "encabezado": "Transitorio"
+    },
+    {
+      "pagina": 74,
+      "encabezado": "Transitorios"
+    },
+    {
+      "pagina": 75,
+      "encabezado": "Transitorios"
+    }
+  ],
+  "encabezados_ordinales_en_seccion_transitoria": [
+    "Primero.- Esta ley entrará en vigor el día de la publicación del presente Decreto en el Diario Oficial",
+    "Segundo.- En tanto no se expidan o reformen las normas que rijan las elecciones de Jefe de",
+    "Cuarto de la presente ley.",
+    "Tercero.- Los juicios de inconformidad y los recursos de reconsideración relativos a la elección de",
+    "Cuarto.- Si a la entrada en vigor de la presente ley se encuentra en trámite cualquier medio de",
+    "ARTICULO QUINTO.- ..........",
+    "PRIMERO.- Las reformas a que se refiere el presente Decreto entrarán en vigor el día de su",
+    "SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.",
+    "TERCERO.- El seis de julio de 1997 se elegirán, para el Distrito Federal, exclusivamente el Jefe de",
+    "CUARTO.- Se autoriza al titular del Poder Ejecutivo Federal para que por conducto de la Secretaría de",
+    "QUINTO.- Los criterios de jurisprudencia sostenidos por la Sala Central y la Sala de Segunda",
+    "Artículo Segundo. SE REFORMAN los artículos 3, párrafo 2, inciso d); 4, párrafo 1; 9, párrafo 1 e",
+    "Artículo Primero.- Las facultades y atribuciones de las Salas Regionales del Tribunal Electoral del",
+    "Tercero Transitorio de la Ley Orgánica del Poder Judicial de la Federación contenidos en el presente",
+    "Artículo Segundo.- Los casos radicados en la Sala Superior antes de la entrada en vigor de este",
+    "Artículo Tercero.- En tanto se inicia el ejercicio de las facultades constitucionales y legales de las",
+    "Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario",
+    "Artículo Segundo.- Se adiciona un artículo 43 Ter a la Ley General del Sistema de Medios de",
+    "Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "Segundo. Cada una de las Cámaras realizará las adecuaciones necesarias a sus respectivos",
+    "Tercero.- Las Cámaras del Congreso a través de la oficina de atención ciudadana, en un plazo no",
+    "ARTÍCULO SEGUNDO.- Se REFORMAN los párrafos 1 y 2 del artículo 2; los incisos a), del párrafo 2",
+    "PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial",
+    "SEGUNDO. Los asuntos que a la entrada en vigor del presente Decreto se encuentren en proceso, se",
+    "TERCERO. Todas las referencias al Instituto Federal Electoral contenidas en la Ley General del",
+    "CUARTO. Todas las referencias al Código Federal de Instituciones y Procedimientos Electorales",
+    "Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "Artículo Sexto.- Se reforman los artículos 5, párrafo 1; 70, párrafo 1, inciso a); 83, párrafo 1, inciso a),",
+    "Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "Artículo Tercero.- Se reforma el numeral 1, en su párrafo y el inciso g), y se adiciona un inciso h) al",
+    "Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "Segundo.- Las obligaciones que en su caso se generen con motivo de la entrada en vigor del",
+    "Artículo Único.- Se adiciona un inciso h) al numeral 1 del artículo 10 de la Ley General del Sistema",
+    "Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "SEGUNDO. Se declara la invalidez del artículo 10, numeral 1, inciso h), de la Ley General del",
+    "TERCERO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el",
+    "Artículo Segundo.- Se reforma el inciso c) del numeral 1 del artículo 32 de la Ley General del",
+    "Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "SEGUNDO. Se declara la invalidez del DECRETO por el que se reforman, adicionan y derogan",
+    "TERCERO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el",
+    "PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad y su",
+    "SEGUNDO. Se declara la invalidez del artículo 10, numeral 1, inciso h), de la Ley General del",
+    "TERCERO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el",
+    "PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad y sus acumuladas.",
+    "SEGUNDO. Se declara la invalidez del DECRETO por el que se reforman, adicionan y derogan",
+    "TERCERO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el",
+    "Artículo Único.- Se reforman el numeral 1 y sus incisos a) y c) del artículo 50; los incisos a) y b) del",
+    "Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial",
+    "Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.",
+    "Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las",
+    "Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto",
+    "Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se"
+  ],
+  "articulos_numericos_en_seccion_transitoria": [
+    "artículo2",
+    "5",
+    "artículo49",
+    "artículo54"
+  ],
+  "transitorios_y_notas_completos_incluidos": true,
+  "paginas_cotejadas_visualmente": [],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 1843,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 2371,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 13,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 2719,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 2416,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 2930,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 2360,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 14,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 2330,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 13,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 2153,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 16,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 2684,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 2437,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 15,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 11,
+      "caracteres_no_blancos": 2528,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 14,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 12,
+      "caracteres_no_blancos": 3034,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 13,
+      "caracteres_no_blancos": 2342,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 13,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 14,
+      "caracteres_no_blancos": 2672,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 15,
+      "caracteres_no_blancos": 2552,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 15,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 16,
+      "caracteres_no_blancos": 2631,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 17,
+      "caracteres_no_blancos": 1904,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 13,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 18,
+      "caracteres_no_blancos": 2487,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 19,
+      "caracteres_no_blancos": 3542,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 20,
+      "caracteres_no_blancos": 2216,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 21,
+      "caracteres_no_blancos": 2246,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 22,
+      "caracteres_no_blancos": 2496,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 13,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 23,
+      "caracteres_no_blancos": 2128,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 24,
+      "caracteres_no_blancos": 2274,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 16,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 25,
+      "caracteres_no_blancos": 2032,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 17,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 26,
+      "caracteres_no_blancos": 2453,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 27,
+      "caracteres_no_blancos": 2501,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 28,
+      "caracteres_no_blancos": 2524,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 29,
+      "caracteres_no_blancos": 2341,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 30,
+      "caracteres_no_blancos": 1994,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 31,
+      "caracteres_no_blancos": 1954,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 15,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 32,
+      "caracteres_no_blancos": 2351,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 33,
+      "caracteres_no_blancos": 2470,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 34,
+      "caracteres_no_blancos": 2500,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 35,
+      "caracteres_no_blancos": 2224,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 36,
+      "caracteres_no_blancos": 2445,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 37,
+      "caracteres_no_blancos": 2708,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 38,
+      "caracteres_no_blancos": 2572,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 39,
+      "caracteres_no_blancos": 2867,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 40,
+      "caracteres_no_blancos": 2705,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 41,
+      "caracteres_no_blancos": 2361,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 42,
+      "caracteres_no_blancos": 2135,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 43,
+      "caracteres_no_blancos": 2506,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 44,
+      "caracteres_no_blancos": 2348,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 14,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 45,
+      "caracteres_no_blancos": 2398,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 15,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 46,
+      "caracteres_no_blancos": 2430,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 47,
+      "caracteres_no_blancos": 2323,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 48,
+      "caracteres_no_blancos": 2456,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false,
+      "normalizacion_millares_encabezado": false,
+      "criterio_conservacion": "Texto y signos idénticos salvo espacios, marcado Markdown y comas de millar exclusivamente en numeración de encabezados, normalizadas por instrucción del usuario."
+    },
+    {
+      "pagina": 49,
+      "caracteres_no_blancos": 2906,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 50,
+      "caracteres_no_blancos": 319,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 51,
+      "caracteres_no_blancos": 2827,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 52,
+      "caracteres_no_blancos": 746,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 53,
+      "caracteres_no_blancos": 1682,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 54,
+      "caracteres_no_blancos": 2568,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 55,
+      "caracteres_no_blancos": 370,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 56,
+      "caracteres_no_blancos": 2686,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 57,
+      "caracteres_no_blancos": 1883,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 58,
+      "caracteres_no_blancos": 1168,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 59,
+      "caracteres_no_blancos": 2330,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 60,
+      "caracteres_no_blancos": 383,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 61,
+      "caracteres_no_blancos": 1254,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 62,
+      "caracteres_no_blancos": 2829,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 63,
+      "caracteres_no_blancos": 3203,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 64,
+      "caracteres_no_blancos": 3435,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 65,
+      "caracteres_no_blancos": 2183,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 66,
+      "caracteres_no_blancos": 2778,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 67,
+      "caracteres_no_blancos": 529,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 68,
+      "caracteres_no_blancos": 2361,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 69,
+      "caracteres_no_blancos": 2646,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 70,
+      "caracteres_no_blancos": 2025,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 71,
+      "caracteres_no_blancos": 3369,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 72,
+      "caracteres_no_blancos": 3483,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 73,
+      "caracteres_no_blancos": 2642,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 74,
+      "caracteres_no_blancos": 1749,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 75,
+      "caracteres_no_blancos": 2824,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 76,
+      "caracteres_no_blancos": 311,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    }
+  ],
+  "alcance": "Controles de conservación en todas las páginas; comparación de cifras con Poppler y pypdf. El cotejo visual se registra por separado. No certifica vigencia jurídica.",
+  "incidencias_resueltas": [],
+  "diferencias_de_fuente": [
+    "La secuencia de encabezados numéricos difiere Word/PDF; consultar contadores y evidencia. No se corrige.",
+    "La comparación léxica Word/PDF no coincide: encabezados repetidos, campos Word y otras diferencias pendientes de cotejo. No equivale a pérdida del Markdown.",
+    "El control original con retirada de paginación difiere. Se conserva el resultado y se añade comparación simétrica de cifras sin retirar paginación.",
+    "Hay discrepancias en la secuencia de cifras entre los dos lectores PDF; requieren cotejo, no se reparan.",
+    "Word original .doc conservado por autorización expresa del usuario; no se fabrica original.docx."
+  ],
+  "formato_word_original": "doc",
+  "ocr_ejecutado": false,
+  "incidencias_descarga": [],
+  "promociones_encabezado_evitadas": [
+    {
+      "linea": 9,
+      "texto": "Artículo 1",
+      "anterior": "",
+      "siguiente": "1. La presente ley es de orden público, de observancia general en toda la República y reglamentaria",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 2
+    },
+    {
+      "linea": 13,
+      "texto": "Artículo 2",
+      "anterior": "",
+      "siguiente": "1. Para la resolución de los medios de impugnación previstos en esta ley, las normas se interpretarán",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 2
+    },
+    {
+      "linea": 32,
+      "texto": "Artículo 3",
+      "anterior": "",
+      "siguiente": "1. El sistema de medios de impugnación regulado por esta ley tiene por objeto garantizar:",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 2
+    },
+    {
+      "linea": 14,
+      "texto": "Artículo 4",
+      "anterior": "",
+      "siguiente": "1. Corresponde a los órganos del Instituto Federal Electoral conocer y resolver el recurso de revisión y",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 3
+    },
+    {
+      "linea": 26,
+      "texto": "Artículo 5",
+      "anterior": "",
+      "siguiente": "1. Las autoridades federales, de las entidades federativas, los municipios y las demarcaciones",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 3
+    },
+    {
+      "linea": 41,
+      "texto": "Artículo 6",
+      "anterior": "",
+      "siguiente": "1. Las disposiciones del presente Título rigen para el trámite, sustanciación y resolución de todos los",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 3
+    },
+    {
+      "linea": 9,
+      "texto": "Artículo 7",
+      "anterior": "",
+      "siguiente": "1. Durante los procesos electorales todos los días y horas son hábiles. Los plazos se computarán de",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 4
+    },
+    {
+      "linea": 18,
+      "texto": "Artículo 8",
+      "anterior": "",
+      "siguiente": "1. Los medios de impugnación previstos en esta ley deberán presentarse dentro de los cuatro días",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 4
+    },
+    {
+      "linea": 27,
+      "texto": "Artículo 9",
+      "anterior": "",
+      "siguiente": "1. Los medios de impugnación deberán presentarse por escrito ante la autoridad u órgano partidista",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 4
+    },
+    {
+      "linea": 26,
+      "texto": "Artículo 10",
+      "anterior": "",
+      "siguiente": "1. Los medios de impugnación previstos en esta ley serán improcedentes en los siguientes casos:",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 5
+    },
+    {
+      "linea": 17,
+      "texto": "Artículo 11",
+      "anterior": "",
+      "siguiente": "1. Procede el sobreseimiento cuando:",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 6
+    },
+    {
+      "linea": 44,
+      "texto": "Artículo 12",
+      "anterior": "",
+      "siguiente": "1. Son partes en el procedimiento de los medios de impugnación las siguientes:",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 6
+    },
+    {
+      "linea": 51,
+      "texto": "artículo 80 de esta ley, que haya realizado el acto o emitido la resolución que se impugna, y",
+      "anterior": "b)   La autoridad responsable o el partido político en el caso previsto en el inciso g) del párrafo 1 del",
+      "siguiente": "Inciso reformado DOF 01-07-2008",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 6
+    },
+    {
+      "linea": 39,
+      "texto": "Artículo 13",
+      "anterior": "",
+      "siguiente": "1. La presentación de los medios de impugnación corresponde a:",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 7
+    },
+    {
+      "linea": 21,
+      "texto": "Artículo 14",
+      "anterior": "",
+      "siguiente": "1. Para la resolución de los medios de impugnación previstos en esta ley, sólo podrán ser ofrecidas y",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 8
+    },
+    {
+      "linea": 29,
+      "texto": "Artículo 15",
+      "anterior": "",
+      "siguiente": "1. Son objeto de prueba los hechos controvertibles. No lo será el derecho, los hechos notorios o",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 9
+    },
+    {
+      "linea": 36,
+      "texto": "Artículo 16",
+      "anterior": "",
+      "siguiente": "1. Los medios de prueba serán valorados por el órgano competente para resolver, atendiendo a las",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 9
+    },
+    {
+      "linea": 9,
+      "texto": "Artículo 17",
+      "anterior": "",
+      "siguiente": "1. La autoridad u órgano partidista, según sea el caso, que reciba un medio de impugnación, en contra",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 10
+    },
+    {
+      "linea": 60,
+      "texto": "Artículo 18",
+      "anterior": "",
+      "siguiente": "",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 10
+    },
+    {
+      "linea": 47,
+      "texto": "Artículo 19",
+      "anterior": "",
+      "siguiente": "1. Recibida la documentación a que se refiere el artículo anterior, la Sala competente del Tribunal",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 11
+    },
+    {
+      "linea": 47,
+      "texto": "Artículo 20",
+      "anterior": "",
+      "siguiente": "1. Si la autoridad u órgano partidista responsable incumple con la obligación prevista en el inciso b)",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 12
+    },
+    {
+      "linea": 50,
+      "texto": "artículo 18, ambos de esta ley, se requerirá de inmediato su cumplimiento o remisión fijando un plazo de",
+      "anterior": "del párrafo 1 del artículo 17, u omite enviar cualquiera de los documentos a que se refiere el párrafo 1 del",
+      "siguiente": "veinticuatro horas para tal efecto, bajo apercibimiento que de no cumplir o no enviar oportunamente los",
+      "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+      "pagina": 12
+    },
+    {
+      "linea": 9,
+      "texto": "Artículo 21",
+      "anterior": "",
+      "siguiente": "1. El Secretario del órgano del Instituto o el Presidente de la Sala del Tribunal, en los asuntos de su",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 13
+    },
+    {
+      "linea": 19,
+      "texto": "Artículo 21 Bis",
+      "anterior": "",
+      "siguiente": "1. El incidente sobre la pretensión de nuevo escrutinio y cómputo en las elecciones federales o locales",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 13
+    },
+    {
+      "linea": 42,
+      "texto": "Artículo 22",
+      "anterior": "",
+      "siguiente": "1. Las resoluciones o sentencias que pronuncien, respectivamente, el Instituto Federal Electoral o el",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 13
+    },
+    {
+      "linea": 59,
+      "texto": "Artículo 23",
+      "anterior": "",
+      "siguiente": "",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 13
+    },
+    {
+      "linea": 20,
+      "texto": "Artículo 24",
+      "anterior": "",
+      "siguiente": "1. El Presidente de la Sala competente ordenará que se publique en los estrados respectivos, por lo",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 14
+    },
+    {
+      "linea": 49,
+      "texto": "Artículo 25",
+      "anterior": "",
+      "siguiente": "1. Las sentencias que dicten las Salas del Tribunal Electoral serán definitivas e inatacables, a",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 14
+    },
+    {
+      "linea": 57,
+      "texto": "Artículo 26",
+      "anterior": "",
+      "siguiente": "1. Las notificaciones a que se refiere el presente ordenamiento surtirán sus efectos el mismo día en",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 14
+    },
+    {
+      "linea": 18,
+      "texto": "Artículo 27",
+      "anterior": "",
+      "siguiente": "1. Las notificaciones personales se harán al interesado a más tardar al día siguiente al en que se",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 15
+    },
+    {
+      "linea": 49,
+      "texto": "Artículo 28",
+      "anterior": "",
+      "siguiente": "1. Los estrados son los lugares públicos destinados en las oficinas de los órganos del Instituto Federal",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 15
+    },
+    {
+      "linea": 55,
+      "texto": "Artículo 29",
+      "anterior": "",
+      "siguiente": "1. Se realizarán mediante oficio las notificaciones que sean ordenadas a los órganos y autoridades",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 15
+    },
+    {
+      "linea": 38,
+      "texto": "Artículo 30",
+      "anterior": "",
+      "siguiente": "1. El partido político cuyo representante haya estado presente en la sesión del órgano electoral que",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 16
+    },
+    {
+      "linea": 52,
+      "texto": "Artículo 31",
+      "anterior": "",
+      "siguiente": "1. Para la resolución pronta y expedita de los medios de impugnación previstos en esta ley, los",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 16
+    },
+    {
+      "linea": 13,
+      "texto": "Artículo 32",
+      "anterior": "",
+      "siguiente": "1. Para hacer cumplir las disposiciones del presente ordenamiento y las sentencias que dicte, así",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 17
+    },
+    {
+      "linea": 30,
+      "texto": "Artículo 33",
+      "anterior": "",
+      "siguiente": "1. Los medios de apremio y las correcciones disciplinarias a que se refiere el artículo 32, serán",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 17
+    },
+    {
+      "linea": 43,
+      "texto": "Artículo 34",
+      "anterior": "",
+      "siguiente": "1. Durante el tiempo que transcurra entre dos procesos electorales federales, para garantizar la",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 17
+    },
+    {
+      "linea": 19,
+      "texto": "Artículo 35",
+      "anterior": "",
+      "siguiente": "1. Durante el tiempo que transcurra entre dos procesos electorales federales y dentro de un proceso",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 18
+    },
+    {
+      "linea": 39,
+      "texto": "Artículo 36",
+      "anterior": "",
+      "siguiente": "1. Durante el tiempo que transcurra entre dos procesos electorales federales, es competente para",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 18
+    },
+    {
+      "linea": 56,
+      "texto": "Artículo 37",
+      "anterior": "",
+      "siguiente": "1. Una vez cumplidas las reglas de trámite a que se refiere el Capítulo VIII del Título Segundo del",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 18
+    },
+    {
+      "linea": 10,
+      "texto": "artículos 8 y 9 de esta ley;",
+      "anterior": "a) El Presidente lo turnará al Secretario para que certifique que se cumplió con lo establecido en los",
+      "siguiente": "",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 19
+    },
+    {
+      "linea": 61,
+      "texto": "Artículo 38",
+      "anterior": "",
+      "siguiente": "",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 19
+    },
+    {
+      "linea": 15,
+      "texto": "Artículo 39",
+      "anterior": "",
+      "siguiente": "1. Las resoluciones que recaigan a los recursos de revisión serán notificadas de la siguiente manera:",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 20
+    },
+    {
+      "linea": 33,
+      "texto": "Artículo 40",
+      "anterior": "",
+      "siguiente": "1. Durante el tiempo que transcurra entre dos procesos electorales federales, y durante la etapa de",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 20
+    },
+    {
+      "linea": 50,
+      "texto": "Artículo 41",
+      "anterior": "",
+      "siguiente": "1. El recurso de apelación será procedente para impugnar el informe que rinda la Dirección Ejecutiva",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 20
+    },
+    {
+      "linea": 56,
+      "texto": "Artículo 42",
+      "anterior": "",
+      "siguiente": "1. En cualquier tiempo, el recurso de apelación será procedente para impugnar la determinación y, en",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 20
+    },
+    {
+      "linea": 9,
+      "texto": "Artículo 43",
+      "anterior": "",
+      "siguiente": "1. En el caso a que se refiere el artículo 41 de esta ley, se aplicarán las reglas especiales siguientes:",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 21
+    },
+    {
+      "linea": 23,
+      "texto": "Artículo 43 Bis",
+      "anterior": "",
+      "siguiente": "1. El recurso de apelación será procedente para impugnar la resolución del Órgano Técnico de",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 21
+    },
+    {
+      "linea": 29,
+      "texto": "Artículo 43 Ter",
+      "anterior": "",
+      "siguiente": "1. El recurso de apelación será procedente para impugnar el informe que rinda el Secretario Ejecutivo",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 21
+    },
+    {
+      "linea": 43,
+      "texto": "Artículo 44",
+      "anterior": "",
+      "siguiente": "1. Son competentes para resolver el recurso de apelación:",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 21
+    },
+    {
+      "linea": 60,
+      "texto": "Artículo 45",
+      "anterior": "",
+      "siguiente": "1. Podrán interponer el recurso de apelación:",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 21
+    },
+    {
+      "linea": 45,
+      "texto": "Artículo 46",
+      "anterior": "",
+      "siguiente": "1. Todos los recursos de apelación interpuestos dentro de los cinco días anteriores al de la elección,",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 22
+    },
+    {
+      "linea": 58,
+      "texto": "artículo 42 del presente ordenamiento, la citación a las partes para celebrar audiencia sólo procederá",
+      "anterior": "3. Para la resolución de los recursos de apelación en el supuesto a que se refiere el párrafo 1 del",
+      "siguiente": "cuando a juicio de la Sala Superior del Tribunal Electoral, por la naturaleza de las pruebas ofrecidas o",
+      "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+      "pagina": 22
+    },
+    {
+      "linea": 16,
+      "texto": "Artículo 47",
+      "anterior": "",
+      "siguiente": "1. Las sentencias de fondo que recaigan al recurso de apelación, tendrán como efecto confirmar,",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 23
+    },
+    {
+      "linea": 29,
+      "texto": "Artículo 48",
+      "anterior": "",
+      "siguiente": "1. Las sentencias de las Salas del Tribunal Electoral recaídas a los recursos de apelación, serán",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 23
+    },
+    {
+      "linea": 49,
+      "texto": "Artículo 49",
+      "anterior": "",
+      "siguiente": "1. Durante el proceso electoral federal y exclusivamente en la etapa de resultados y de declaraciones",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 23
+    },
+    {
+      "linea": 11,
+      "texto": "Artículo 50",
+      "anterior": "",
+      "siguiente": "1. Son actos impugnables a través del juicio de inconformidad, en los términos de la Ley General de",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 24
+    },
+    {
+      "linea": 25,
+      "texto": "Artículo 51",
+      "anterior": "",
+      "siguiente": "1. El escrito de protesta por los resultados contenidos en el acta de escrutinio y cómputo de la casilla,",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 25
+    },
+    {
+      "linea": 58,
+      "texto": "Artículo 52",
+      "anterior": "",
+      "siguiente": "1. Además de los requisitos establecidos por el párrafo 1 del artículo 9 del presente ordenamiento, el",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 25
+    },
+    {
+      "linea": 44,
+      "texto": "Artículo 53",
+      "anterior": "",
+      "siguiente": "1. Son competentes para resolver los juicios de inconformidad:",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 26
+    },
+    {
+      "linea": 17,
+      "texto": "Artículo 54",
+      "anterior": "",
+      "siguiente": "1. El juicio de inconformidad sólo podrá ser promovido por:",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 27
+    },
+    {
+      "linea": 39,
+      "texto": "Artículo 55",
+      "anterior": "",
+      "siguiente": "1. La demanda del juicio de inconformidad deberá presentarse dentro de los cuatro días contados a",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 27
+    },
+    {
+      "linea": 22,
+      "texto": "Artículo 56",
+      "anterior": "",
+      "siguiente": "1. Las sentencias que resuelvan el fondo de los juicios de inconformidad podrán tener los efectos",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 28
+    },
+    {
+      "linea": 58,
+      "texto": "Artículo 57",
+      "anterior": "",
+      "siguiente": "1. Las Salas del Tribunal podrán modificar el acta o las actas de cómputo respectivas en la sección de",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 28
+    },
+    {
+      "linea": 15,
+      "texto": "Artículo 58",
+      "anterior": "",
+      "siguiente": "1. Los juicios de inconformidad de las elecciones de diputados y senadores deberán quedar resueltos",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 29
+    },
+    {
+      "linea": 20,
+      "texto": "Artículo 59",
+      "anterior": "",
+      "siguiente": "1. Las sentencias que recaigan a los juicios de inconformidad presentados en contra de los resultados",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 29
+    },
+    {
+      "linea": 28,
+      "texto": "Artículo 60",
+      "anterior": "",
+      "siguiente": "1. Las sentencias recaídas a los juicios de inconformidad serán notificadas:",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 29
+    },
+    {
+      "linea": 52,
+      "texto": "Artículo 61",
+      "anterior": "",
+      "siguiente": "1. El recurso de reconsideración sólo procederá para impugnar las sentencias de fondo dictadas por",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 29
+    },
+    {
+      "linea": 26,
+      "texto": "Artículo 62",
+      "anterior": "",
+      "siguiente": "1. Para el recurso de reconsideración son presupuestos los siguientes:",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 30
+    },
+    {
+      "linea": 60,
+      "texto": "Artículo 63",
+      "anterior": "",
+      "siguiente": "",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 30
+    },
+    {
+      "linea": 42,
+      "texto": "Artículo 64",
+      "anterior": "",
+      "siguiente": "1. La Sala Superior del Tribunal Electoral es la única competente para resolver los recursos de",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 31
+    },
+    {
+      "linea": 49,
+      "texto": "Artículo 65",
+      "anterior": "",
+      "siguiente": "1. La interposición del recurso de reconsideración corresponde exclusivamente a los partidos políticos",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 31
+    },
+    {
+      "linea": 28,
+      "texto": "Artículo 66",
+      "anterior": "",
+      "siguiente": "1. El recurso de reconsideración deberá interponerse:",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 32
+    },
+    {
+      "linea": 41,
+      "texto": "Artículo 67",
+      "anterior": "",
+      "siguiente": "1. Recibido el recurso de reconsideración, la Sala o el Secretario del Consejo General del Instituto,",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 32
+    },
+    {
+      "linea": 49,
+      "texto": "Artículo 68",
+      "anterior": "",
+      "siguiente": "1. Una vez recibido el recurso de reconsideración en la Sala Superior del Tribunal, será turnado al",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 32
+    },
+    {
+      "linea": 60,
+      "texto": "Artículo 69",
+      "anterior": "",
+      "siguiente": "",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 32
+    },
+    {
+      "linea": 29,
+      "texto": "Artículo 70",
+      "anterior": "",
+      "siguiente": "1. Las sentencias recaídas a los recursos de reconsideración serán notificadas:",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 33
+    },
+    {
+      "linea": 54,
+      "texto": "Artículo 71",
+      "anterior": "",
+      "siguiente": "1. Las nulidades establecidas en este Título podrán afectar la votación emitida en una o varias casillas",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 33
+    },
+    {
+      "linea": 20,
+      "texto": "Artículo 72",
+      "anterior": "",
+      "siguiente": "1. Las elecciones cuyos cómputos, constancias de validez y mayoría o de asignación no sean",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 34
+    },
+    {
+      "linea": 24,
+      "texto": "Artículo 73",
+      "anterior": "",
+      "siguiente": "1. Tratándose de la inelegibilidad de candidatos a diputados y senadores electos por el principio de",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 34
+    },
+    {
+      "linea": 30,
+      "texto": "Artículo 74",
+      "anterior": "",
+      "siguiente": "1. Los partidos políticos o candidatos no podrán invocar en su favor, en medio de impugnación alguno,",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 34
+    },
+    {
+      "linea": 37,
+      "texto": "Artículo 75",
+      "anterior": "",
+      "siguiente": "1. La votación recibida en una casilla será nula cuando se acredite cualesquiera de las siguientes",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 34
+    },
+    {
+      "linea": 61,
+      "texto": "artículo 85 de esta ley;",
+      "anterior": "casos de excepción señalados en el Código Federal de Instituciones y Procedimientos Electorales y en el",
+      "siguiente": "",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 34
+    },
+    {
+      "linea": 26,
+      "texto": "Artículo 76",
+      "anterior": "",
+      "siguiente": "1. Son causales de nulidad de una elección de diputado de mayoría relativa en un distrito electoral",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 35
+    },
+    {
+      "linea": 42,
+      "texto": "Artículo 77",
+      "anterior": "",
+      "siguiente": "1. Son causales de nulidad de una elección de senadores en una entidad federativa, cualquiera de las",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 35
+    },
+    {
+      "linea": 59,
+      "texto": "Artículo 77 Bis",
+      "anterior": "",
+      "siguiente": "",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 35
+    },
+    {
+      "linea": 22,
+      "texto": "Artículo 77 Ter",
+      "anterior": "",
+      "siguiente": "1. Son causales de nulidad de la elección de personas juzgadoras del Poder Judicial de la Federación,",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 36
+    },
+    {
+      "linea": 48,
+      "texto": "Artículo 78",
+      "anterior": "",
+      "siguiente": "1. Las Salas del Tribunal Electoral podrán declarar la nulidad de una elección de diputados o",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 36
+    },
+    {
+      "linea": 59,
+      "texto": "Artículo 78 bis",
+      "anterior": "",
+      "siguiente": "",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 36
+    },
+    {
+      "linea": 49,
+      "texto": "Artículo 79",
+      "anterior": "",
+      "siguiente": "1. El juicio para la protección de los derechos político-electorales, sólo procederá cuando la",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 37
+    },
+    {
+      "linea": 13,
+      "texto": "Artículo 80",
+      "anterior": "",
+      "siguiente": "1. El juicio podrá ser promovido por la ciudadana o el ciudadano cuando:",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 38
+    },
+    {
+      "linea": 20,
+      "texto": "Artículo 81",
+      "anterior": "",
+      "siguiente": "1. En los casos previstos por los incisos a) al c) del párrafo 1 del artículo anterior, los ciudadanos",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 39
+    },
+    {
+      "linea": 26,
+      "texto": "Artículo 82",
+      "anterior": "",
+      "siguiente": "1. Cuando por causa de inelegibilidad de los candidatos, las autoridades electorales competentes",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 39
+    },
+    {
+      "linea": 43,
+      "texto": "Artículo 83",
+      "anterior": "",
+      "siguiente": "1. Son competentes para resolver el juicio para la protección de los derechos político-electorales del",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 39
+    },
+    {
+      "linea": 49,
+      "texto": "Artículo 84",
+      "anterior": "",
+      "siguiente": "1. Las sentencias que resuelvan el fondo del juicio para la protección de los derechos político–",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 40
+    },
+    {
+      "linea": 18,
+      "texto": "Artículo 85",
+      "anterior": "",
+      "siguiente": "1. En los casos a que se refieren los incisos a) al c) del párrafo 1, del artículo 80 de este",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 41
+    },
+    {
+      "linea": 38,
+      "texto": "Artículo 86",
+      "anterior": "",
+      "siguiente": "1. El juicio de revisión constitucional electoral sólo procederá para impugnar actos o resoluciones de",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 41
+    },
+    {
+      "linea": 15,
+      "texto": "Artículo 87",
+      "anterior": "",
+      "siguiente": "1. Son competentes para resolver el juicio de revisión constitucional electoral:",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 42
+    },
+    {
+      "linea": 33,
+      "texto": "Artículo 88",
+      "anterior": "",
+      "siguiente": "1. El juicio sólo podrá ser promovido por los partidos políticos a través de sus representantes",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 42
+    },
+    {
+      "linea": 55,
+      "texto": "Artículo 89",
+      "anterior": "",
+      "siguiente": "1. El trámite y resolución de los juicios de revisión constitucional se sujetará exclusivamente a las",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 42
+    },
+    {
+      "linea": 59,
+      "texto": "Artículo 90",
+      "anterior": "",
+      "siguiente": "1. La autoridad electoral que reciba el escrito por el que se promueva el juicio lo remitirá de inmediato",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 42
+    },
+    {
+      "linea": 15,
+      "texto": "Artículo 91",
+      "anterior": "",
+      "siguiente": "1. Dentro del plazo a que se refiere el inciso b) del párrafo 1 del artículo 17 de esta ley, el o los",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 43
+    },
+    {
+      "linea": 26,
+      "texto": "Artículo 92",
+      "anterior": "",
+      "siguiente": "1. Recibida la documentación a que se refiere el párrafo 1 del artículo 90 de la presente ley, el",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 43
+    },
+    {
+      "linea": 35,
+      "texto": "Artículo 93",
+      "anterior": "",
+      "siguiente": "1. Las sentencias que resuelvan el fondo del juicio, podrán tener los efectos siguientes:",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 43
+    },
+    {
+      "linea": 9,
+      "texto": "Artículo 94",
+      "anterior": "",
+      "siguiente": "1. Son competentes para resolver el juicio para dirimir los conflictos o diferencias laborales de los",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 44
+    },
+    {
+      "linea": 30,
+      "texto": "Artículo 95",
+      "anterior": "",
+      "siguiente": "1. En lo que no contravenga al régimen laboral de los servidores del Instituto Federal Electoral",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 44
+    },
+    {
+      "linea": 51,
+      "texto": "Artículo 96",
+      "anterior": "",
+      "siguiente": "1. El servidor del Instituto Federal Electoral que hubiese sido sancionado o destituido de su cargo o",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 44
+    },
+    {
+      "linea": 12,
+      "texto": "Artículo 97",
+      "anterior": "",
+      "siguiente": "1. El escrito de demanda por el que se inconforme el servidor, deberá reunir los requisitos siguientes:",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 45
+    },
+    {
+      "linea": 27,
+      "texto": "Artículo 98",
+      "anterior": "",
+      "siguiente": "1. Son partes en el procedimiento:",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 45
+    },
+    {
+      "linea": 35,
+      "texto": "Artículo 99",
+      "anterior": "",
+      "siguiente": "1. Presentado el escrito a que se refiere el artículo 97 de esta ley, dentro de los tres días hábiles",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 45
+    },
+    {
+      "linea": 39,
+      "texto": "Artículo 100",
+      "anterior": "",
+      "siguiente": "1. El Instituto Federal Electoral deberá contestar dentro de los diez días hábiles siguientes al en que",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 45
+    },
+    {
+      "linea": 43,
+      "texto": "Artículo 101",
+      "anterior": "",
+      "siguiente": "1. Se celebrará una audiencia de conciliación, admisión y desahogo de pruebas y alegatos, dentro de",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 45
+    },
+    {
+      "linea": 47,
+      "texto": "Artículo 102",
+      "anterior": "",
+      "siguiente": "1. La Sala competente del Tribunal Electoral en la audiencia a que se refiere el artículo anterior,",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 45
+    },
+    {
+      "linea": 54,
+      "texto": "Artículo 103",
+      "anterior": "",
+      "siguiente": "1. De ofrecerse la prueba confesional a cargo del Consejero Presidente o del Secretario Ejecutivo del",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 45
+    },
+    {
+      "linea": 9,
+      "texto": "Artículo 104",
+      "anterior": "",
+      "siguiente": "1. El magistrado electoral podrá ordenar el desahogo de pruebas por exhorto, que dirigirá a la",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 46
+    },
+    {
+      "linea": 15,
+      "texto": "Artículo 105",
+      "anterior": "",
+      "siguiente": "1. Para la sustanciación y resolución de los juicios previstos en el presente Libro que se promuevan",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 46
+    },
+    {
+      "linea": 23,
+      "texto": "Artículo 106",
+      "anterior": "",
+      "siguiente": "1. La Sala competente del Tribunal Electoral resolverá en forma definitiva e inatacable, dentro de los",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 46
+    },
+    {
+      "linea": 33,
+      "texto": "Artículo 107",
+      "anterior": "",
+      "siguiente": "1. Una vez notificada la sentencia, las partes dentro del término de tres días podrán solicitar a la Sala",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 46
+    },
+    {
+      "linea": 40,
+      "texto": "Artículo 108",
+      "anterior": "",
+      "siguiente": "1. Los efectos de la sentencia de la Sala competente del Tribunal Electoral podrán ser en el sentido de",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 46
+    },
+    {
+      "linea": 60,
+      "texto": "Artículo 109",
+      "anterior": "",
+      "siguiente": "1. Procede el recurso de revisión respecto del procedimiento especial sancionador previsto en la Ley",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 46
+    },
+    {
+      "linea": 12,
+      "texto": "artículo 41 de la Constitución, y",
+      "anterior": "b)   De las medidas cautelares que emita el Instituto a que se refiere el Apartado D, Base III del",
+      "siguiente": "",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 47
+    },
+    {
+      "linea": 25,
+      "texto": "Artículo 110",
+      "anterior": "",
+      "siguiente": "1. Para la tramitación, sustanciación y resolución del recurso previsto en este Libro, serán aplicables,",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 47
+    },
+    {
+      "linea": 43,
+      "texto": "Artículo 111",
+      "anterior": "",
+      "siguiente": "1. El Juicio Electoral será procedente para impugnar los actos y resoluciones que restrinjan el derecho",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 47
+    },
+    {
+      "linea": 9,
+      "texto": "Artículo 112",
+      "anterior": "",
+      "siguiente": "1. Para la tramitación, sustanciación y resolución del Juicio Electoral, serán aplicables, en lo",
+      "motivo": "sin delimitador impreso de inicio de artículo; se conserva en cuerpo",
+      "pagina": 48
+    },
+    {
+      "linea": 18,
+      "texto": "artículo 2; un inciso f) al párrafo 2 del artículo 3; un inciso d) al párrafo primero del artículo 13; un",
+      "anterior": "del artículo 3; el párrafo 2 del artículo 34 y el párrafo 1 del artículo 40; se ADICIONAN un párrafo 3 al",
+      "siguiente": "CAPÍTULO CUARTO que se denominará “De la nulidad de las elecciones federales y locales” que",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 54
+    },
+    {
+      "linea": 16,
+      "texto": "artículo 49; el inciso f) al numeral 1 del artículo 50; el inciso c) al numeral 1 del artículo 53; el numeral 3 al",
+      "anterior": "numeral 1 del artículo 61; el numeral 1 del artículo 71; y el artículo 79, y se adicionan el numeral 2 al",
+      "siguiente": "artículo 54; el numeral 3 al artículo 55; el numeral 2 al artículo 61; el artículo 77 Ter; el inciso i) al numeral",
+      "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+      "pagina": 74
+    },
+    {
+      "linea": 17,
+      "texto": "artículo 54; el numeral 3 al artículo 55; el numeral 2 al artículo 61; el artículo 77 Ter; el inciso i) al numeral",
+      "anterior": "artículo 49; el inciso f) al numeral 1 del artículo 50; el inciso c) al numeral 1 del artículo 53; el numeral 3 al",
+      "siguiente": "1 del artículo 80; el Libro Séptimo denominado “Del Juicio Electoral”, conformado por los artículos 111 y",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 74
+    }
+  ],
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-18T14:53:29.408896+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "decreto_numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.edicion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.seccion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "reformas",
+        "motivo": "Notas literales conservadas con todas las fechas; fecha escalar null si hay varias. Números de diario/decreto no impresos quedan null. Captura automática pendiente de revisión."
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Cláusulas expresas capturadas para cotejo; no se infieren nombres ni fechas faltantes. Revisar evidencia impresa."
+      },
+      {
+        "campo": "abroga[].po_numero",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0,
+          1
+        ]
+      },
+      {
+        "campo": "abroga[].decreto",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0,
+          1
+        ]
+      },
+      {
+        "campo": "vigencia_recuperada",
+        "motivo": "Abrogación invalidada y recuperación de vigencia impresas: abrogacion_programada null; no es una abrogación vigente."
+      }
+    ],
+    "evidencia": {
+      "abroga": [
+        {
+          "pagina": 62,
+          "texto": "[Segundo. Se abroga la Ley General del Sistema de Medios de Impugnación en Materia Electoral, publicada el 22 de noviembre de 1996 en el Diario Oficial de la Federación.]"
+        },
+        {
+          "pagina": 75,
+          "texto": "Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025."
+        }
+      ],
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Nueva Ley publicada en el Diario Oficial de la Federación el 22 de noviembre de 1996"
+      },
+      "ultima_reforma": {
+        "pagina": 1,
+        "texto": "Última Reforma DOF 14-11-2025"
+      },
+      "reformas": {
+        "pagina_inicio": 2,
+        "encabezado": null,
+        "filas": [
+          {
+            "fila": 0,
+            "texto": "Artículo reformado DOF 01-07-2008, 23-05-2014",
+            "pagina": 2
+          },
+          {
+            "fila": 1,
+            "texto": "Inciso reformado DOF 23-05-2014",
+            "pagina": 2
+          },
+          {
+            "fila": 2,
+            "texto": "Inciso reformado DOF 01-07-2008, 23-05-2014",
+            "pagina": 2
+          },
+          {
+            "fila": 3,
+            "texto": "Inciso reformado DOF 23-05-2014",
+            "pagina": 2
+          },
+          {
+            "fila": 4,
+            "texto": "Inciso adicionado DOF 23-05-2014",
+            "pagina": 3
+          },
+          {
+            "fila": 5,
+            "texto": "Numeral reformado DOF 14-11-2025",
+            "pagina": 3
+          },
+          {
+            "fila": 6,
+            "texto": "Artículo reformado DOF 01-07-2008",
+            "pagina": 3
+          },
+          {
+            "fila": 7,
+            "texto": "Artículo reformado DOF 19-01-2018",
+            "pagina": 3
+          },
+          {
+            "fila": 8,
+            "texto": "Párrafo adicionado DOF 01-07-2008",
+            "pagina": 3
+          },
+          {
+            "fila": 9,
+            "texto": "Párrafo reformado DOF 01-07-2008",
+            "pagina": 4
+          },
+          {
+            "fila": 10,
+            "texto": "Inciso reformado DOF 01-07-2008",
+            "pagina": 4
+          },
+          {
+            "fila": 11,
+            "texto": "Inciso reformado DOF 01-07-2008",
+            "pagina": 4
+          },
+          {
+            "fila": 12,
+            "texto": "Párrafo adicionado DOF 01-07-2008",
+            "pagina": 5
+          },
+          {
+            "fila": 13,
+            "texto": "Inciso reformado DOF 01-07-2008",
+            "pagina": 5
+          },
+          {
+            "fila": 14,
+            "texto": "Inciso adicionado DOF 01-07-2008. Reformado DOF 19-04-2022",
+            "pagina": 5
+          },
+          {
+            "fila": 15,
+            "texto": "Inciso adicionado DOF 01-07-2008. Reformado DOF 19-04-2022",
+            "pagina": 5
+          },
+          {
+            "fila": 16,
+            "texto": "Inciso adicionado DOF 19-04-2022",
+            "pagina": 6
+          },
+          {
+            "fila": 17,
+            "texto": "Inciso reformado DOF 01-07-2008",
+            "pagina": 6
+          },
+          {
+            "fila": 18,
+            "texto": "Inciso reformado DOF 01-07-2008",
+            "pagina": 6
+          },
+          {
+            "fila": 19,
+            "texto": "Inciso reformado DOF 23-05-2014",
+            "pagina": 7
+          },
+          {
+            "fila": 20,
+            "texto": "Inciso reformado DOF 23-05-2014",
+            "pagina": 8
+          },
+          {
+            "fila": 21,
+            "texto": "Inciso adicionado DOF 23-05-2014",
+            "pagina": 8
+          },
+          {
+            "fila": 22,
+            "texto": "Párrafo reformado DOF 01-07-2008",
+            "pagina": 10
+          },
+          {
+            "fila": 23,
+            "texto": "Inciso reformado DOF 01-07-2008",
+            "pagina": 10
+          },
+          {
+            "fila": 24,
+            "texto": "Párrafo reformado DOF 01-07-2008",
+            "pagina": 11
+          },
+          {
+            "fila": 25,
+            "texto": "Párrafo reformado DOF 01-07-2008",
+            "pagina": 11
+          },
+          {
+            "fila": 26,
+            "texto": "Inciso reformado DOF 01-07-2008",
+            "pagina": 12
+          },
+          {
+            "fila": 27,
+            "texto": "Inciso reformado DOF 01-07-2008",
+            "pagina": 12
+          },
+          {
+            "fila": 28,
+            "texto": "Párrafo reformado DOF 01-07-2008",
+            "pagina": 12
+          },
+          {
+            "fila": 29,
+            "texto": "Artículo adicionado DOF 01-07-2008",
+            "pagina": 13
+          },
+          {
+            "fila": 30,
+            "texto": "Párrafo reformado DOF 01-07-2008",
+            "pagina": 14
+          },
+          {
+            "fila": 31,
+            "texto": "Párrafo reformado DOF 01-07-2008",
+            "pagina": 15
+          },
+          {
+            "fila": 32,
+            "texto": "Artículo reformado DOF 01-07-2008",
+            "pagina": 16
+          },
+          {
+            "fila": 33,
+            "texto": "Denominación del Capítulo reformada DOF 01-07-2008",
+            "pagina": 17
+          },
+          {
+            "fila": 34,
+            "texto": "Inciso reformado DOF 01-07-2008, 20-12-2022",
+            "pagina": 17
+          },
+          {
+            "fila": 35,
+            "texto": "Artículo reformado DOF 01-07-2008",
+            "pagina": 17
+          },
+          {
+            "fila": 36,
+            "texto": "Párrafo reformado DOF 23-05-2014",
+            "pagina": 17
+          },
+          {
+            "fila": 37,
+            "texto": "Párrafo reformado DOF 23-05-2014",
+            "pagina": 20
+          },
+          {
+            "fila": 38,
+            "texto": "Artículo adicionado DOF 01-07-2008",
+            "pagina": 21
+          },
+          {
+            "fila": 39,
+            "texto": "Artículo adicionado DOF 20-05-2014",
+            "pagina": 21
+          },
+          {
+            "fila": 40,
+            "texto": "Párrafo reformado DOF 01-07-2008",
+            "pagina": 21
+          },
+          {
+            "fila": 41,
+            "texto": "Párrafo derogado DOF 01-07-2008",
+            "pagina": 21
+          },
+          {
+            "fila": 42,
+            "texto": "Fracción reformada DOF 01-07-2008",
+            "pagina": 22
+          },
+          {
+            "fila": 43,
+            "texto": "Fracción reformada DOF 01-07-2008",
+            "pagina": 22
+          },
+          {
+            "fila": 44,
+            "texto": "Fracción adicionada DOF 01-07-2008",
+            "pagina": 22
+          },
+          {
+            "fila": 45,
+            "texto": "Inciso adicionado DOF 01-07-2008",
+            "pagina": 22
+          },
+          {
+            "fila": 46,
+            "texto": "Párrafo reformado DOF 01-07-2008",
+            "pagina": 23
+          },
+          {
+            "fila": 47,
+            "texto": "Numeral adicionado DOF 15-10-2024",
+            "pagina": 24
+          },
+          {
+            "fila": 48,
+            "texto": "Párrafo reformado DOF 15-10-2024",
+            "pagina": 24
+          },
+          {
+            "fila": 49,
+            "texto": "Párrafo reformado DOF 15-10-2024",
+            "pagina": 24
+          },
+          {
+            "fila": 50,
+            "texto": "Inciso reformado DOF 01-07-2008",
+            "pagina": 24
+          },
+          {
+            "fila": 51,
+            "texto": "Párrafo reformado DOF 15-10-2024",
+            "pagina": 24
+          },
+          {
+            "fila": 52,
+            "texto": "Inciso adicionado DOF 15-10-2024",
+            "pagina": 25
+          },
+          {
+            "fila": 53,
+            "texto": "Párrafo derogado DOF 01-07-2008",
+            "pagina": 25
+          },
+          {
+            "fila": 54,
+            "texto": "Párrafo reformado DOF 01-07-2008",
+            "pagina": 26
+          },
+          {
+            "fila": 55,
+            "texto": "Párrafo adicionado DOF 01-07-2008",
+            "pagina": 26
+          },
+          {
+            "fila": 56,
+            "texto": "Inciso reformado DOF 15-10-2024",
+            "pagina": 26
+          },
+          {
+            "fila": 57,
+            "texto": "Inciso reformado DOF 15-10-2024",
+            "pagina": 26
+          },
+          {
+            "fila": 58,
+            "texto": "Inciso adicionado DOF 15-10-2024",
+            "pagina": 27
+          },
+          {
+            "fila": 59,
+            "texto": "Párrafo adicionado DOF 01-07-2008",
+            "pagina": 27
+          },
+          {
+            "fila": 60,
+            "texto": "Numeral adicionado DOF 15-10-2024",
+            "pagina": 27
+          },
+          {
+            "fila": 61,
+            "texto": "Inciso reformado DOF 15-10-2024",
+            "pagina": 27
+          },
+          {
+            "fila": 62,
+            "texto": "Inciso reformado DOF 15-10-2024",
+            "pagina": 27
+          },
+          {
+            "fila": 63,
+            "texto": "Numeral adicionado DOF 01-07-2008. Reformado DOF 15-10-2024",
+            "pagina": 28
+          },
+          {
+            "fila": 64,
+            "texto": "Numeral adicionado DOF 15-10-2024",
+            "pagina": 28
+          },
+          {
+            "fila": 65,
+            "texto": "Inciso reformado DOF 01-07-2008",
+            "pagina": 28
+          },
+          {
+            "fila": 66,
+            "texto": "Inciso reformado DOF 01-07-2008",
+            "pagina": 28
+          },
+          {
+            "fila": 67,
+            "texto": "Inciso adicionado DOF 01-07-2008",
+            "pagina": 28
+          },
+          {
+            "fila": 68,
+            "texto": "Párrafo reformado DOF 01-07-2008",
+            "pagina": 29
+          },
+          {
+            "fila": 69,
+            "texto": "Inciso reformado DOF 15-10-2024",
+            "pagina": 30
+          },
+          {
+            "fila": 70,
+            "texto": "Numeral adicionado DOF 15-10-2024",
+            "pagina": 30
+          },
+          {
+            "fila": 71,
+            "texto": "Artículo reformado DOF 01-07-2008",
+            "pagina": 30
+          },
+          {
+            "fila": 72,
+            "texto": "Fracción reformada DOF 01-07-2008",
+            "pagina": 30
+          },
+          {
+            "fila": 73,
+            "texto": "Fracción adicionada DOF 01-07-2008",
+            "pagina": 30
+          },
+          {
+            "fila": 74,
+            "texto": "Inciso reformado DOF 19-01-2018",
+            "pagina": 33
+          },
+          {
+            "fila": 75,
+            "texto": "Numeral reformado DOF 15-10-2024",
+            "pagina": 34
+          },
+          {
+            "fila": 76,
+            "texto": "Artículo reformado DOF 01-07-2008",
+            "pagina": 34
+          },
+          {
+            "fila": 77,
+            "texto": "Denominación del Capítulo reformada DOF 01-07-2008",
+            "pagina": 35
+          },
+          {
+            "fila": 78,
+            "texto": "Inciso reformado DOF 01-07-2008",
+            "pagina": 35
+          },
+          {
+            "fila": 79,
+            "texto": "Inciso reformado DOF 01-07-2008",
+            "pagina": 35
+          },
+          {
+            "fila": 80,
+            "texto": "Inciso reformado DOF 01-07-2008",
+            "pagina": 35
+          },
+          {
+            "fila": 81,
+            "texto": "Inciso reformado DOF 01-07-2008",
+            "pagina": 35
+          },
+          {
+            "fila": 82,
+            "texto": "Artículo adicionado DOF 01-07-2008",
+            "pagina": 36
+          },
+          {
+            "fila": 83,
+            "texto": "Artículo adicionado DOF 15-10-2024",
+            "pagina": 36
+          },
+          {
+            "fila": 84,
+            "texto": "Capítulo adicionado DOF 23-05-2014",
+            "pagina": 36
+          },
+          {
+            "fila": 85,
+            "texto": "Artículo adicionado DOF 23-05-2014",
+            "pagina": 37
+          },
+          {
+            "fila": 86,
+            "texto": "Artículo reformado DOF 01-07-2008, 15-10-2024",
+            "pagina": 38
+          },
+          {
+            "fila": 87,
+            "texto": "Párrafo reformado DOF 13-04-2020",
+            "pagina": 38
+          },
+          {
+            "fila": 88,
+            "texto": "Inciso reformado DOF 01-07-2008",
+            "pagina": 38
+          },
+          {
+            "fila": 89,
+            "texto": "Inciso reformado DOF 01-07-2008",
+            "pagina": 38
+          },
+          {
+            "fila": 90,
+            "texto": "Inciso reformado DOF 01-07-2008, 13-04-2020",
+            "pagina": 38
+          },
+          {
+            "fila": 91,
+            "texto": "Inciso adicionado DOF 01-07-2008. Reformado DOF 13-04-2020",
+            "pagina": 38
+          },
+          {
+            "fila": 92,
+            "texto": "Inciso adicionado DOF 13-04-2020",
+            "pagina": 38
+          },
+          {
+            "fila": 93,
+            "texto": "Inciso adicionado DOF 15-10-2024",
+            "pagina": 38
+          },
+          {
+            "fila": 94,
+            "texto": "Párrafo adicionado DOF 01-07-2008",
+            "pagina": 39
+          },
+          {
+            "fila": 95,
+            "texto": "Fracción reformada DOF 19-01-2018",
+            "pagina": 39
+          },
+          {
+            "fila": 96,
+            "texto": "Fracción reformada DOF 19-01-2018",
+            "pagina": 40
+          },
+          {
+            "fila": 97,
+            "texto": "Fracción reformada DOF 19-01-2018",
+            "pagina": 40
+          },
+          {
+            "fila": 98,
+            "texto": "Fracción reformada DOF 19-01-2018",
+            "pagina": 40
+          },
+          {
+            "fila": 99,
+            "texto": "Fracción reformada DOF 19-01-2018",
+            "pagina": 40
+          },
+          {
+            "fila": 100,
+            "texto": "Fracción reformada DOF 19-01-2018",
+            "pagina": 40
+          },
+          {
+            "fila": 101,
+            "texto": "Artículo reformado DOF 01-07-2008",
+            "pagina": 40
+          },
+          {
+            "fila": 102,
+            "texto": "Inciso reformado DOF 19-01-2018",
+            "pagina": 41
+          },
+          {
+            "fila": 103,
+            "texto": "Inciso reformado DOF 01-07-2008",
+            "pagina": 41
+          },
+          {
+            "fila": 104,
+            "texto": "Inciso reformado DOF 19-01-2018",
+            "pagina": 42
+          },
+          {
+            "fila": 105,
+            "texto": "Inciso reformado DOF 19-01-2018",
+            "pagina": 42
+          },
+          {
+            "fila": 106,
+            "texto": "Artículo reformado DOF 01-07-2008",
+            "pagina": 42
+          },
+          {
+            "fila": 107,
+            "texto": "Artículo reformado DOF 01-07-2008",
+            "pagina": 43
+          },
+          {
+            "fila": 108,
+            "texto": "Párrafo reformado DOF 01-07-2008",
+            "pagina": 43
+          },
+          {
+            "fila": 109,
+            "texto": "Inciso reformado DOF 01-07-2008, 19-01-2018",
+            "pagina": 43
+          },
+          {
+            "fila": 110,
+            "texto": "Artículo reformado DOF 01-07-2008",
+            "pagina": 44
+          },
+          {
+            "fila": 111,
+            "texto": "Inciso reformado DOF 14-11-2025",
+            "pagina": 44
+          },
+          {
+            "fila": 112,
+            "texto": "Párrafo reformado DOF 01-07-2008",
+            "pagina": 44
+          },
+          {
+            "fila": 113,
+            "texto": "Artículo reformado DOF 01-07-2008",
+            "pagina": 45
+          },
+          {
+            "fila": 114,
+            "texto": "Artículo reformado DOF 01-07-2008",
+            "pagina": 46
+          },
+          {
+            "fila": 115,
+            "texto": "Artículo reformado DOF 01-07-2008",
+            "pagina": 46
+          },
+          {
+            "fila": 116,
+            "texto": "Párrafo reformado DOF 01-07-2008",
+            "pagina": 46
+          },
+          {
+            "fila": 117,
+            "texto": "Artículo reformado DOF 01-07-2008",
+            "pagina": 46
+          },
+          {
+            "fila": 118,
+            "texto": "Artículo reformado DOF 01-07-2008",
+            "pagina": 46
+          },
+          {
+            "fila": 119,
+            "texto": "Libro adicionado DOF 23-05-2014",
+            "pagina": 46
+          },
+          {
+            "fila": 120,
+            "texto": "Título adicionado DOF 23-05-2014",
+            "pagina": 46
+          },
+          {
+            "fila": 121,
+            "texto": "Capítulo adicionado DOF 23-05-2014",
+            "pagina": 46
+          },
+          {
+            "fila": 122,
+            "texto": "Artículo adicionado DOF 23-05-2014",
+            "pagina": 47
+          },
+          {
+            "fila": 123,
+            "texto": "Artículo adicionado DOF 23-05-2014",
+            "pagina": 47
+          },
+          {
+            "fila": 124,
+            "texto": "Libro adicionado DOF 15-10-2024",
+            "pagina": 47
+          },
+          {
+            "fila": 125,
+            "texto": "Título adicionado DOF 15-10-2024",
+            "pagina": 47
+          },
+          {
+            "fila": 126,
+            "texto": "Capítulo adicionado DOF 15-10-2024",
+            "pagina": 47
+          },
+          {
+            "fila": 127,
+            "texto": "Artículo adicionado DOF 15-10-2024",
+            "pagina": 47
+          },
+          {
+            "fila": 128,
+            "texto": "Artículo adicionado DOF 15-10-2024",
+            "pagina": 48
+          }
+        ]
+      },
+      "vigencia_recuperada": {
+        "pagina_pdf": 1,
+        "texto": "Texto “Que Recupera Vigencia” Declaratoria de invalidez del Decreto DOF 02-03-2023 que abrogó esta Ley, por Sentencia de la SCJN publicada en el Diario Oficial de la Federación el 24 de noviembre de 2023"
+      }
+    }
+  },
+  "control_pypdf_informativo": {
+    "fuente": "Usuario; piloto aprobado en la conversación",
+    "descripcion": "pypdf fragmenta números con espacios; verificado por el usuario contra originales en 11 páginas señaladas del CFF y tres de CPEUM. Markdown generado con Poppler.",
+    "decision": "Control informativo, no bloquea lotes y no modifica textos. No se atribuye cotejo visual adicional a Codex."
+  },
+  "cotejo_abrogacion_portada": {
+    "pagina_pdf": 1,
+    "fecha": "2026-09-18T14:59:57.827117+00:00",
+    "version_anterior": "e06ae0539e1a796d34a568f4b0485dd776b49b14bf02eddcaad73b9e48773140",
+    "cotejo_visual": true,
+    "resultado": "Decreto DOF 02-03-2023 sí impreso; sin fecha cierta de fin de vigencia. Portada declara invalidez del decreto y recuperación de vigencia."
+  },
+  "correccion_vigencia_recuperada": {
+    "fecha": "2026-09-18T15:05:43.418905+00:00",
+    "version_anterior": "38398b869b0367614d68cdda8141cba383314c858fedbe48206fa51950db5899",
+    "solo_metadata": true
+  },
+  "correccion_formatos_lote36": {
+    "fecha": "2026-09-18T19:35:32.203860+00:00",
+    "version_anterior": "f8a480fed36d932121ee1a6af05fcb995367faca5d3d769cc80e4cb85312b430",
+    "aperturas": 118,
+    "evidencia_paginas": [
+      {
+        "pagina_pdf": 2,
+        "linea_extraccion": 9,
+        "encabezado_literal": "Artículo 1",
+        "encabezado_markdown": "Artículo 1",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 1"
+      },
+      {
+        "pagina_pdf": 2,
+        "linea_extraccion": 13,
+        "encabezado_literal": "Artículo 2",
+        "encabezado_markdown": "Artículo 2",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 2"
+      },
+      {
+        "pagina_pdf": 2,
+        "linea_extraccion": 32,
+        "encabezado_literal": "Artículo 3",
+        "encabezado_markdown": "Artículo 3",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 3"
+      },
+      {
+        "pagina_pdf": 3,
+        "linea_extraccion": 14,
+        "encabezado_literal": "Artículo 4",
+        "encabezado_markdown": "Artículo 4",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 4"
+      },
+      {
+        "pagina_pdf": 3,
+        "linea_extraccion": 26,
+        "encabezado_literal": "Artículo 5",
+        "encabezado_markdown": "Artículo 5",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 5"
+      },
+      {
+        "pagina_pdf": 3,
+        "linea_extraccion": 41,
+        "encabezado_literal": "Artículo 6",
+        "encabezado_markdown": "Artículo 6",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 6"
+      },
+      {
+        "pagina_pdf": 4,
+        "linea_extraccion": 9,
+        "encabezado_literal": "Artículo 7",
+        "encabezado_markdown": "Artículo 7",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 7"
+      },
+      {
+        "pagina_pdf": 4,
+        "linea_extraccion": 18,
+        "encabezado_literal": "Artículo 8",
+        "encabezado_markdown": "Artículo 8",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 8"
+      },
+      {
+        "pagina_pdf": 4,
+        "linea_extraccion": 27,
+        "encabezado_literal": "Artículo 9",
+        "encabezado_markdown": "Artículo 9",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 9"
+      },
+      {
+        "pagina_pdf": 5,
+        "linea_extraccion": 26,
+        "encabezado_literal": "Artículo 10",
+        "encabezado_markdown": "Artículo 10",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 10"
+      },
+      {
+        "pagina_pdf": 6,
+        "linea_extraccion": 17,
+        "encabezado_literal": "Artículo 11",
+        "encabezado_markdown": "Artículo 11",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 11"
+      },
+      {
+        "pagina_pdf": 6,
+        "linea_extraccion": 44,
+        "encabezado_literal": "Artículo 12",
+        "encabezado_markdown": "Artículo 12",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 12"
+      },
+      {
+        "pagina_pdf": 7,
+        "linea_extraccion": 39,
+        "encabezado_literal": "Artículo 13",
+        "encabezado_markdown": "Artículo 13",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 13"
+      },
+      {
+        "pagina_pdf": 8,
+        "linea_extraccion": 21,
+        "encabezado_literal": "Artículo 14",
+        "encabezado_markdown": "Artículo 14",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 14"
+      },
+      {
+        "pagina_pdf": 9,
+        "linea_extraccion": 29,
+        "encabezado_literal": "Artículo 15",
+        "encabezado_markdown": "Artículo 15",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 15"
+      },
+      {
+        "pagina_pdf": 9,
+        "linea_extraccion": 36,
+        "encabezado_literal": "Artículo 16",
+        "encabezado_markdown": "Artículo 16",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 16"
+      },
+      {
+        "pagina_pdf": 10,
+        "linea_extraccion": 9,
+        "encabezado_literal": "Artículo 17",
+        "encabezado_markdown": "Artículo 17",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 17"
+      },
+      {
+        "pagina_pdf": 10,
+        "linea_extraccion": 60,
+        "encabezado_literal": "Artículo 18",
+        "encabezado_markdown": "Artículo 18",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 18"
+      },
+      {
+        "pagina_pdf": 11,
+        "linea_extraccion": 47,
+        "encabezado_literal": "Artículo 19",
+        "encabezado_markdown": "Artículo 19",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 19"
+      },
+      {
+        "pagina_pdf": 12,
+        "linea_extraccion": 47,
+        "encabezado_literal": "Artículo 20",
+        "encabezado_markdown": "Artículo 20",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 20"
+      },
+      {
+        "pagina_pdf": 13,
+        "linea_extraccion": 9,
+        "encabezado_literal": "Artículo 21",
+        "encabezado_markdown": "Artículo 21",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 21"
+      },
+      {
+        "pagina_pdf": 13,
+        "linea_extraccion": 19,
+        "encabezado_literal": "Artículo 21 Bis",
+        "encabezado_markdown": "Artículo 21 Bis",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 21 Bis"
+      },
+      {
+        "pagina_pdf": 13,
+        "linea_extraccion": 42,
+        "encabezado_literal": "Artículo 22",
+        "encabezado_markdown": "Artículo 22",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 22"
+      },
+      {
+        "pagina_pdf": 13,
+        "linea_extraccion": 59,
+        "encabezado_literal": "Artículo 23",
+        "encabezado_markdown": "Artículo 23",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 23"
+      },
+      {
+        "pagina_pdf": 14,
+        "linea_extraccion": 20,
+        "encabezado_literal": "Artículo 24",
+        "encabezado_markdown": "Artículo 24",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 24"
+      },
+      {
+        "pagina_pdf": 14,
+        "linea_extraccion": 49,
+        "encabezado_literal": "Artículo 25",
+        "encabezado_markdown": "Artículo 25",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 25"
+      },
+      {
+        "pagina_pdf": 14,
+        "linea_extraccion": 57,
+        "encabezado_literal": "Artículo 26",
+        "encabezado_markdown": "Artículo 26",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 26"
+      },
+      {
+        "pagina_pdf": 15,
+        "linea_extraccion": 18,
+        "encabezado_literal": "Artículo 27",
+        "encabezado_markdown": "Artículo 27",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 27"
+      },
+      {
+        "pagina_pdf": 15,
+        "linea_extraccion": 49,
+        "encabezado_literal": "Artículo 28",
+        "encabezado_markdown": "Artículo 28",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 28"
+      },
+      {
+        "pagina_pdf": 15,
+        "linea_extraccion": 55,
+        "encabezado_literal": "Artículo 29",
+        "encabezado_markdown": "Artículo 29",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 29"
+      },
+      {
+        "pagina_pdf": 16,
+        "linea_extraccion": 38,
+        "encabezado_literal": "Artículo 30",
+        "encabezado_markdown": "Artículo 30",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 30"
+      },
+      {
+        "pagina_pdf": 16,
+        "linea_extraccion": 52,
+        "encabezado_literal": "Artículo 31",
+        "encabezado_markdown": "Artículo 31",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 31"
+      },
+      {
+        "pagina_pdf": 17,
+        "linea_extraccion": 13,
+        "encabezado_literal": "Artículo 32",
+        "encabezado_markdown": "Artículo 32",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 32"
+      },
+      {
+        "pagina_pdf": 17,
+        "linea_extraccion": 30,
+        "encabezado_literal": "Artículo 33",
+        "encabezado_markdown": "Artículo 33",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 33"
+      },
+      {
+        "pagina_pdf": 17,
+        "linea_extraccion": 43,
+        "encabezado_literal": "Artículo 34",
+        "encabezado_markdown": "Artículo 34",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 34"
+      },
+      {
+        "pagina_pdf": 18,
+        "linea_extraccion": 19,
+        "encabezado_literal": "Artículo 35",
+        "encabezado_markdown": "Artículo 35",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 35"
+      },
+      {
+        "pagina_pdf": 18,
+        "linea_extraccion": 39,
+        "encabezado_literal": "Artículo 36",
+        "encabezado_markdown": "Artículo 36",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 36"
+      },
+      {
+        "pagina_pdf": 18,
+        "linea_extraccion": 56,
+        "encabezado_literal": "Artículo 37",
+        "encabezado_markdown": "Artículo 37",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 37"
+      },
+      {
+        "pagina_pdf": 19,
+        "linea_extraccion": 61,
+        "encabezado_literal": "Artículo 38",
+        "encabezado_markdown": "Artículo 38",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 38"
+      },
+      {
+        "pagina_pdf": 20,
+        "linea_extraccion": 15,
+        "encabezado_literal": "Artículo 39",
+        "encabezado_markdown": "Artículo 39",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 39"
+      },
+      {
+        "pagina_pdf": 20,
+        "linea_extraccion": 33,
+        "encabezado_literal": "Artículo 40",
+        "encabezado_markdown": "Artículo 40",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 40"
+      },
+      {
+        "pagina_pdf": 20,
+        "linea_extraccion": 50,
+        "encabezado_literal": "Artículo 41",
+        "encabezado_markdown": "Artículo 41",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 41"
+      },
+      {
+        "pagina_pdf": 20,
+        "linea_extraccion": 56,
+        "encabezado_literal": "Artículo 42",
+        "encabezado_markdown": "Artículo 42",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 42"
+      },
+      {
+        "pagina_pdf": 21,
+        "linea_extraccion": 9,
+        "encabezado_literal": "Artículo 43",
+        "encabezado_markdown": "Artículo 43",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 43"
+      },
+      {
+        "pagina_pdf": 21,
+        "linea_extraccion": 23,
+        "encabezado_literal": "Artículo 43 Bis",
+        "encabezado_markdown": "Artículo 43 Bis",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 43 Bis"
+      },
+      {
+        "pagina_pdf": 21,
+        "linea_extraccion": 29,
+        "encabezado_literal": "Artículo 43 Ter",
+        "encabezado_markdown": "Artículo 43 Ter",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 43 Ter"
+      },
+      {
+        "pagina_pdf": 21,
+        "linea_extraccion": 43,
+        "encabezado_literal": "Artículo 44",
+        "encabezado_markdown": "Artículo 44",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 44"
+      },
+      {
+        "pagina_pdf": 21,
+        "linea_extraccion": 60,
+        "encabezado_literal": "Artículo 45",
+        "encabezado_markdown": "Artículo 45",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 45"
+      },
+      {
+        "pagina_pdf": 22,
+        "linea_extraccion": 45,
+        "encabezado_literal": "Artículo 46",
+        "encabezado_markdown": "Artículo 46",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 46"
+      },
+      {
+        "pagina_pdf": 23,
+        "linea_extraccion": 16,
+        "encabezado_literal": "Artículo 47",
+        "encabezado_markdown": "Artículo 47",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 47"
+      },
+      {
+        "pagina_pdf": 23,
+        "linea_extraccion": 29,
+        "encabezado_literal": "Artículo 48",
+        "encabezado_markdown": "Artículo 48",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 48"
+      },
+      {
+        "pagina_pdf": 23,
+        "linea_extraccion": 49,
+        "encabezado_literal": "Artículo 49",
+        "encabezado_markdown": "Artículo 49",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 49"
+      },
+      {
+        "pagina_pdf": 24,
+        "linea_extraccion": 11,
+        "encabezado_literal": "Artículo 50",
+        "encabezado_markdown": "Artículo 50",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 50"
+      },
+      {
+        "pagina_pdf": 25,
+        "linea_extraccion": 25,
+        "encabezado_literal": "Artículo 51",
+        "encabezado_markdown": "Artículo 51",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 51"
+      },
+      {
+        "pagina_pdf": 25,
+        "linea_extraccion": 58,
+        "encabezado_literal": "Artículo 52",
+        "encabezado_markdown": "Artículo 52",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 52"
+      },
+      {
+        "pagina_pdf": 26,
+        "linea_extraccion": 44,
+        "encabezado_literal": "Artículo 53",
+        "encabezado_markdown": "Artículo 53",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 53"
+      },
+      {
+        "pagina_pdf": 27,
+        "linea_extraccion": 17,
+        "encabezado_literal": "Artículo 54",
+        "encabezado_markdown": "Artículo 54",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 54"
+      },
+      {
+        "pagina_pdf": 27,
+        "linea_extraccion": 39,
+        "encabezado_literal": "Artículo 55",
+        "encabezado_markdown": "Artículo 55",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 55"
+      },
+      {
+        "pagina_pdf": 28,
+        "linea_extraccion": 22,
+        "encabezado_literal": "Artículo 56",
+        "encabezado_markdown": "Artículo 56",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 56"
+      },
+      {
+        "pagina_pdf": 28,
+        "linea_extraccion": 58,
+        "encabezado_literal": "Artículo 57",
+        "encabezado_markdown": "Artículo 57",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 57"
+      },
+      {
+        "pagina_pdf": 29,
+        "linea_extraccion": 15,
+        "encabezado_literal": "Artículo 58",
+        "encabezado_markdown": "Artículo 58",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 58"
+      },
+      {
+        "pagina_pdf": 29,
+        "linea_extraccion": 20,
+        "encabezado_literal": "Artículo 59",
+        "encabezado_markdown": "Artículo 59",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 59"
+      },
+      {
+        "pagina_pdf": 29,
+        "linea_extraccion": 28,
+        "encabezado_literal": "Artículo 60",
+        "encabezado_markdown": "Artículo 60",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 60"
+      },
+      {
+        "pagina_pdf": 29,
+        "linea_extraccion": 52,
+        "encabezado_literal": "Artículo 61",
+        "encabezado_markdown": "Artículo 61",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 61"
+      },
+      {
+        "pagina_pdf": 30,
+        "linea_extraccion": 26,
+        "encabezado_literal": "Artículo 62",
+        "encabezado_markdown": "Artículo 62",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 62"
+      },
+      {
+        "pagina_pdf": 30,
+        "linea_extraccion": 60,
+        "encabezado_literal": "Artículo 63",
+        "encabezado_markdown": "Artículo 63",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 63"
+      },
+      {
+        "pagina_pdf": 31,
+        "linea_extraccion": 42,
+        "encabezado_literal": "Artículo 64",
+        "encabezado_markdown": "Artículo 64",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 64"
+      },
+      {
+        "pagina_pdf": 31,
+        "linea_extraccion": 49,
+        "encabezado_literal": "Artículo 65",
+        "encabezado_markdown": "Artículo 65",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 65"
+      },
+      {
+        "pagina_pdf": 32,
+        "linea_extraccion": 28,
+        "encabezado_literal": "Artículo 66",
+        "encabezado_markdown": "Artículo 66",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 66"
+      },
+      {
+        "pagina_pdf": 32,
+        "linea_extraccion": 41,
+        "encabezado_literal": "Artículo 67",
+        "encabezado_markdown": "Artículo 67",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 67"
+      },
+      {
+        "pagina_pdf": 32,
+        "linea_extraccion": 49,
+        "encabezado_literal": "Artículo 68",
+        "encabezado_markdown": "Artículo 68",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 68"
+      },
+      {
+        "pagina_pdf": 32,
+        "linea_extraccion": 60,
+        "encabezado_literal": "Artículo 69",
+        "encabezado_markdown": "Artículo 69",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 69"
+      },
+      {
+        "pagina_pdf": 33,
+        "linea_extraccion": 29,
+        "encabezado_literal": "Artículo 70",
+        "encabezado_markdown": "Artículo 70",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 70"
+      },
+      {
+        "pagina_pdf": 33,
+        "linea_extraccion": 54,
+        "encabezado_literal": "Artículo 71",
+        "encabezado_markdown": "Artículo 71",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 71"
+      },
+      {
+        "pagina_pdf": 34,
+        "linea_extraccion": 20,
+        "encabezado_literal": "Artículo 72",
+        "encabezado_markdown": "Artículo 72",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 72"
+      },
+      {
+        "pagina_pdf": 34,
+        "linea_extraccion": 24,
+        "encabezado_literal": "Artículo 73",
+        "encabezado_markdown": "Artículo 73",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 73"
+      },
+      {
+        "pagina_pdf": 34,
+        "linea_extraccion": 30,
+        "encabezado_literal": "Artículo 74",
+        "encabezado_markdown": "Artículo 74",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 74"
+      },
+      {
+        "pagina_pdf": 34,
+        "linea_extraccion": 37,
+        "encabezado_literal": "Artículo 75",
+        "encabezado_markdown": "Artículo 75",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 75"
+      },
+      {
+        "pagina_pdf": 35,
+        "linea_extraccion": 26,
+        "encabezado_literal": "Artículo 76",
+        "encabezado_markdown": "Artículo 76",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 76"
+      },
+      {
+        "pagina_pdf": 35,
+        "linea_extraccion": 42,
+        "encabezado_literal": "Artículo 77",
+        "encabezado_markdown": "Artículo 77",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 77"
+      },
+      {
+        "pagina_pdf": 35,
+        "linea_extraccion": 59,
+        "encabezado_literal": "Artículo 77 Bis",
+        "encabezado_markdown": "Artículo 77 Bis",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 77 Bis"
+      },
+      {
+        "pagina_pdf": 36,
+        "linea_extraccion": 22,
+        "encabezado_literal": "Artículo 77 Ter",
+        "encabezado_markdown": "Artículo 77 Ter",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 77 Ter"
+      },
+      {
+        "pagina_pdf": 36,
+        "linea_extraccion": 48,
+        "encabezado_literal": "Artículo 78",
+        "encabezado_markdown": "Artículo 78",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 78"
+      },
+      {
+        "pagina_pdf": 36,
+        "linea_extraccion": 59,
+        "encabezado_literal": "Artículo 78 bis",
+        "encabezado_markdown": "Artículo 78 bis",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 78 bis"
+      },
+      {
+        "pagina_pdf": 37,
+        "linea_extraccion": 49,
+        "encabezado_literal": "Artículo 79",
+        "encabezado_markdown": "Artículo 79",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 79"
+      },
+      {
+        "pagina_pdf": 38,
+        "linea_extraccion": 13,
+        "encabezado_literal": "Artículo 80",
+        "encabezado_markdown": "Artículo 80",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 80"
+      },
+      {
+        "pagina_pdf": 39,
+        "linea_extraccion": 20,
+        "encabezado_literal": "Artículo 81",
+        "encabezado_markdown": "Artículo 81",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 81"
+      },
+      {
+        "pagina_pdf": 39,
+        "linea_extraccion": 26,
+        "encabezado_literal": "Artículo 82",
+        "encabezado_markdown": "Artículo 82",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 82"
+      },
+      {
+        "pagina_pdf": 39,
+        "linea_extraccion": 43,
+        "encabezado_literal": "Artículo 83",
+        "encabezado_markdown": "Artículo 83",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 83"
+      },
+      {
+        "pagina_pdf": 40,
+        "linea_extraccion": 49,
+        "encabezado_literal": "Artículo 84",
+        "encabezado_markdown": "Artículo 84",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 84"
+      },
+      {
+        "pagina_pdf": 41,
+        "linea_extraccion": 18,
+        "encabezado_literal": "Artículo 85",
+        "encabezado_markdown": "Artículo 85",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 85"
+      },
+      {
+        "pagina_pdf": 41,
+        "linea_extraccion": 38,
+        "encabezado_literal": "Artículo 86",
+        "encabezado_markdown": "Artículo 86",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 86"
+      },
+      {
+        "pagina_pdf": 42,
+        "linea_extraccion": 15,
+        "encabezado_literal": "Artículo 87",
+        "encabezado_markdown": "Artículo 87",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 87"
+      },
+      {
+        "pagina_pdf": 42,
+        "linea_extraccion": 33,
+        "encabezado_literal": "Artículo 88",
+        "encabezado_markdown": "Artículo 88",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 88"
+      },
+      {
+        "pagina_pdf": 42,
+        "linea_extraccion": 55,
+        "encabezado_literal": "Artículo 89",
+        "encabezado_markdown": "Artículo 89",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 89"
+      },
+      {
+        "pagina_pdf": 42,
+        "linea_extraccion": 59,
+        "encabezado_literal": "Artículo 90",
+        "encabezado_markdown": "Artículo 90",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 90"
+      },
+      {
+        "pagina_pdf": 43,
+        "linea_extraccion": 15,
+        "encabezado_literal": "Artículo 91",
+        "encabezado_markdown": "Artículo 91",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 91"
+      },
+      {
+        "pagina_pdf": 43,
+        "linea_extraccion": 26,
+        "encabezado_literal": "Artículo 92",
+        "encabezado_markdown": "Artículo 92",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 92"
+      },
+      {
+        "pagina_pdf": 43,
+        "linea_extraccion": 35,
+        "encabezado_literal": "Artículo 93",
+        "encabezado_markdown": "Artículo 93",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 93"
+      },
+      {
+        "pagina_pdf": 44,
+        "linea_extraccion": 9,
+        "encabezado_literal": "Artículo 94",
+        "encabezado_markdown": "Artículo 94",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 94"
+      },
+      {
+        "pagina_pdf": 44,
+        "linea_extraccion": 30,
+        "encabezado_literal": "Artículo 95",
+        "encabezado_markdown": "Artículo 95",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 95"
+      },
+      {
+        "pagina_pdf": 44,
+        "linea_extraccion": 51,
+        "encabezado_literal": "Artículo 96",
+        "encabezado_markdown": "Artículo 96",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 96"
+      },
+      {
+        "pagina_pdf": 45,
+        "linea_extraccion": 12,
+        "encabezado_literal": "Artículo 97",
+        "encabezado_markdown": "Artículo 97",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 97"
+      },
+      {
+        "pagina_pdf": 45,
+        "linea_extraccion": 27,
+        "encabezado_literal": "Artículo 98",
+        "encabezado_markdown": "Artículo 98",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 98"
+      },
+      {
+        "pagina_pdf": 45,
+        "linea_extraccion": 35,
+        "encabezado_literal": "Artículo 99",
+        "encabezado_markdown": "Artículo 99",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 99"
+      },
+      {
+        "pagina_pdf": 45,
+        "linea_extraccion": 39,
+        "encabezado_literal": "Artículo 100",
+        "encabezado_markdown": "Artículo 100",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 100"
+      },
+      {
+        "pagina_pdf": 45,
+        "linea_extraccion": 43,
+        "encabezado_literal": "Artículo 101",
+        "encabezado_markdown": "Artículo 101",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 101"
+      },
+      {
+        "pagina_pdf": 45,
+        "linea_extraccion": 47,
+        "encabezado_literal": "Artículo 102",
+        "encabezado_markdown": "Artículo 102",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 102"
+      },
+      {
+        "pagina_pdf": 45,
+        "linea_extraccion": 54,
+        "encabezado_literal": "Artículo 103",
+        "encabezado_markdown": "Artículo 103",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 103"
+      },
+      {
+        "pagina_pdf": 46,
+        "linea_extraccion": 9,
+        "encabezado_literal": "Artículo 104",
+        "encabezado_markdown": "Artículo 104",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 104"
+      },
+      {
+        "pagina_pdf": 46,
+        "linea_extraccion": 15,
+        "encabezado_literal": "Artículo 105",
+        "encabezado_markdown": "Artículo 105",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 105"
+      },
+      {
+        "pagina_pdf": 46,
+        "linea_extraccion": 23,
+        "encabezado_literal": "Artículo 106",
+        "encabezado_markdown": "Artículo 106",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 106"
+      },
+      {
+        "pagina_pdf": 46,
+        "linea_extraccion": 33,
+        "encabezado_literal": "Artículo 107",
+        "encabezado_markdown": "Artículo 107",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 107"
+      },
+      {
+        "pagina_pdf": 46,
+        "linea_extraccion": 40,
+        "encabezado_literal": "Artículo 108",
+        "encabezado_markdown": "Artículo 108",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 108"
+      },
+      {
+        "pagina_pdf": 46,
+        "linea_extraccion": 60,
+        "encabezado_literal": "Artículo 109",
+        "encabezado_markdown": "Artículo 109",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 109"
+      },
+      {
+        "pagina_pdf": 47,
+        "linea_extraccion": 25,
+        "encabezado_literal": "Artículo 110",
+        "encabezado_markdown": "Artículo 110",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 110"
+      },
+      {
+        "pagina_pdf": 47,
+        "linea_extraccion": 43,
+        "encabezado_literal": "Artículo 111",
+        "encabezado_markdown": "Artículo 111",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 111"
+      },
+      {
+        "pagina_pdf": 48,
+        "linea_extraccion": 9,
+        "encabezado_literal": "Artículo 112",
+        "encabezado_markdown": "Artículo 112",
+        "motivo": "sin_puntuacion",
+        "evidencia": "Artículo 112"
+      }
+    ],
+    "metadata": [],
+    "originales_y_extraccion_intactos": true,
+    "texto_conservado": "Solo formato; se retiran comas de millar de los números de encabezado por instrucción expresa. Todo el texto restante permanece idéntico."
+  }
+}
