@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-21T06:15:48.610124+00:00
+Actualizado: 2026-09-21T06:16:05.777247+00:00
 
-Procesados: **430/453**. Intentados: 434/453. Pendientes reportados: 4.
+Procesados: **440/453**. Intentados: 444/453. Pendientes reportados: 4.
 
-Lote 43 cerrado; publicación por commit del lote.
+Lote 44 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -53,8 +53,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 40 | 10/10 | Publicado |
 | 41 | 10/10 | Publicado |
 | 42 | 10/10 | Publicado |
-| 43 | 10/10 | Cerrado localmente |
-| 44 | 0/10 | Pendiente |
+| 43 | 10/10 | Publicado |
+| 44 | 10/10 | Cerrado localmente |
 | 45 | 0/9 | Pendiente |
 
 | Lote | ID | Sigla | Estado | Detalle |
@@ -492,16 +492,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 43 | 431 | Reg_LGAPPCEA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 43 | 432 | Reg_LGIPD | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 43 | 433 | Reg_LGPSVD_190914 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 44 | 434 | Reg_LGPGIR_311014 | pendiente | — |
-| 44 | 435 | Reg_LGPSEDMTP | pendiente | — |
-| 44 | 436 | Reg_LMin | pendiente | — |
-| 44 | 437 | Reg_LOPGJDF | pendiente | — |
-| 44 | 438 | Reg_LOPGR | pendiente | — |
-| 44 | 439 | Reg_LOINAH_240521 | pendiente | — |
-| 44 | 440 | Reg_LDCMPME_240518 | pendiente | — |
-| 44 | 441 | Reg_LFIIEDB | pendiente | — |
-| 44 | 442 | Reg_LUPDECR | pendiente | — |
-| 44 | 443 | Reg_LPPDDHP | pendiente | — |
+| 44 | 434 | Reg_LGPGIR_311014 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 44 | 435 | Reg_LGPSEDMTP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 44 | 436 | Reg_LMin | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 44 | 437 | Reg_LOPGJDF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 44 | 438 | Reg_LOPGR | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 44 | 439 | Reg_LOINAH_240521 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 44 | 440 | Reg_LDCMPME_240518 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 44 | 441 | Reg_LFIIEDB | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 44 | 442 | Reg_LUPDECR | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 44 | 443 | Reg_LPPDDHP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 45 | 444 | Reg_LFGFAGA_fe_16may55 | pendiente | — |
 | 45 | 445 | Reg_LRMineras | pendiente | — |
 | 45 | 446 | Reg_LRArt5C_orig_01oct45 | pendiente | — |
