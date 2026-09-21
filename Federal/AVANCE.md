@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-21T06:15:36.978698+00:00
+Actualizado: 2026-09-21T06:15:48.610124+00:00
 
-Procesados: **420/453**. Intentados: 424/453. Pendientes reportados: 4.
+Procesados: **430/453**. Intentados: 434/453. Pendientes reportados: 4.
 
-Lote 42 cerrado; publicación por commit del lote.
+Lote 43 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -52,8 +52,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 39 | 10/10 | Publicado |
 | 40 | 10/10 | Publicado |
 | 41 | 10/10 | Publicado |
-| 42 | 10/10 | Cerrado localmente |
-| 43 | 0/10 | Pendiente |
+| 42 | 10/10 | Publicado |
+| 43 | 10/10 | Cerrado localmente |
 | 44 | 0/10 | Pendiente |
 | 45 | 0/9 | Pendiente |
 
@@ -482,16 +482,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 42 | 421 | Reg_LGT | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 42 | 422 | Reg_LGV | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 42 | 423 | Reg_LGVS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 43 | 424 | Reg_LGEEPA_ANP | pendiente | — |
-| 43 | 425 | Reg_LGEEPA_MAAA_311014 | pendiente | — |
-| 43 | 426 | Reg_LGEEPA_MEIA_311014 | pendiente | — |
-| 43 | 427 | Reg_LGEEPA_MOE_311014 | pendiente | — |
-| 43 | 428 | Reg_LGEEPA_MPCCA_311014 | pendiente | — |
-| 43 | 429 | Reg_LGEEPA_MRETC_311014 | pendiente | — |
-| 43 | 430 | Reg_LGCT | pendiente | — |
-| 43 | 431 | Reg_LGAPPCEA | pendiente | — |
-| 43 | 432 | Reg_LGIPD | pendiente | — |
-| 43 | 433 | Reg_LGPSVD_190914 | pendiente | — |
+| 43 | 424 | Reg_LGEEPA_ANP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 43 | 425 | Reg_LGEEPA_MAAA_311014 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 43 | 426 | Reg_LGEEPA_MEIA_311014 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 43 | 427 | Reg_LGEEPA_MOE_311014 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 43 | 428 | Reg_LGEEPA_MPCCA_311014 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 43 | 429 | Reg_LGEEPA_MRETC_311014 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 43 | 430 | Reg_LGCT | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 43 | 431 | Reg_LGAPPCEA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 43 | 432 | Reg_LGIPD | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 43 | 433 | Reg_LGPSVD_190914 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 44 | 434 | Reg_LGPGIR_311014 | pendiente | — |
 | 44 | 435 | Reg_LGPSEDMTP | pendiente | — |
 | 44 | 436 | Reg_LMin | pendiente | — |
