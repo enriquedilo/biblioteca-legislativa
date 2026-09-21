@@ -16,37 +16,54 @@ Salidas:
   vigilancia/estado.json   estado observado, para comparar la próxima vez
   vigilancia/reporte.md    reporte legible de la corrida
 
+Cubre los tres acervos: Sinaloa, Nayarit y Federal (Cámara de Diputados).
+
 Uso:
-    python3 bin/vigilancia.py [--entidad Sinaloa] [--forzar-descarga]
+    python3 bin/vigilancia.py [--entidad Federal] [--forzar-descarga]
 """
-import argparse, hashlib, json, os, sys, time
+import argparse, hashlib, json, os, re, sys, time
 import urllib.request, urllib.error
 from datetime import datetime, timezone
 
 RAIZ = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
 VIG = os.path.join(RAIZ, "vigilancia")
-ENTIDADES = ("Sinaloa", "Nayarit")
+ENTIDADES = ("Sinaloa", "Nayarit", "Federal")
 UA = ("biblioteca-legislativa/1.0 (vigilancia de reformas; "
       "+github.com/enriquedilo/biblioteca-legislativa)")
 TIMEOUT = 30
 REINTENTOS = 2
 PAUSA = 0.4  # cortesía con los servidores del Congreso
+# Cuando el servidor no da cabeceras utiles, se pide solo el principio del
+# archivo en vez de bajarlo entero: basta para notar que cambio y no descarga
+# cientos de MB cada semana (la tarifa de la LIGIE sola pesa ~100 MB).
+PREFIJO = 262144           # 256 KB
+LIMITE_DESCARGA = 12 << 20  # 12 MB: por encima se usa el prefijo salvo --forzar
 
 CATALOGOS = {
     "Sinaloa": "https://gaceta.congresosinaloa.gob.mx/#/leyes",
     "Nayarit": "https://congresonayarit.gob.mx/legislacion-estatal/",
+    "Federal": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
 }
+RE_ENLACE = re.compile(rb'href\s*=\s*["\']([^"\']+\.(?:pdf|docx?|rtf))["\']',
+                       re.IGNORECASE)
 
 
-def pedir(url, metodo="HEAD"):
-    """Devuelve (cabeceras, cuerpo_o_None, error_o_None)."""
+def pedir(url, metodo="HEAD", prefijo=None):
+    """Devuelve (cabeceras, cuerpo_o_None, error_o_None).
+
+    Con `prefijo` pide solo los primeros N bytes (Range). Si el servidor no
+    respeta Range devolvera el archivo completo: se corta al leerlo."""
     for intento in range(REINTENTOS + 1):
         try:
-            req = urllib.request.Request(url, method=metodo,
-                                         headers={"User-Agent": UA})
+            cab = {"User-Agent": UA}
+            if prefijo:
+                cab["Range"] = "bytes=0-%d" % (prefijo - 1)
+            req = urllib.request.Request(url, method=metodo, headers=cab)
             with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
                 h = {k.lower(): v for k, v in r.headers.items()}
-                cuerpo = r.read() if metodo == "GET" else None
+                cuerpo = None
+                if metodo == "GET":
+                    cuerpo = r.read(prefijo) if prefijo else r.read()
                 return h, cuerpo, None
         except urllib.error.HTTPError as e:
             if e.code in (403, 405) and metodo == "HEAD":
@@ -122,21 +139,39 @@ def revisar(item, previo, forzar):
         cambio_cabecera = bool(f and antes.get("firma") and f != antes["firma"])
         sin_senal = f is None or err == "head_no_permitido"
         if forzar or sin_senal or cambio_cabecera:
-            _, cuerpo, err2 = pedir(url, "GET")
+            # Un archivo grande no se baja entero solo para saber si cambio:
+            # se compara su principio contra el de la corrida anterior. Con
+            # --forzar-descarga si se baja completo y se coteja el SHA-256
+            # declarado en metadata.json.
+            tam = (f or {}).get("content_length") or 0
+            parcial = (not forzar) and (sin_senal or tam > LIMITE_DESCARGA)
+            _, cuerpo, err2 = pedir(url, "GET", PREFIJO if parcial else None)
             if err2 or cuerpo is None:
                 hallazgos.append({"tipo": "inaccesible", "clase": clase,
                                   "url": url, "detalle": err2 or "sin cuerpo"})
                 obs[clase]["error"] = err2
                 continue
             sha = hashlib.sha256(cuerpo).hexdigest()
-            obs[clase]["sha256"] = sha
-            obs[clase]["bytes"] = len(cuerpo)
-            declarado = item.get("sha_" + clase)
-            if declarado and sha != declarado:
-                hallazgos.append({
-                    "tipo": "modificado", "clase": clase, "url": url,
-                    "detalle": "sha publicado %s… != archivado %s…"
-                               % (sha[:12], declarado[:12])})
+            if parcial:
+                obs[clase]["sha256_prefijo"] = sha
+                obs[clase]["bytes_prefijo"] = len(cuerpo)
+                ant = antes.get("sha256_prefijo")
+                if ant and ant != sha:
+                    hallazgos.append({
+                        "tipo": "posible_modificacion", "clase": clase,
+                        "url": url,
+                        "detalle": "cambio el inicio del archivo (primeros "
+                                   "%d KB); el servidor no da cabeceras "
+                                   "utiles" % (len(cuerpo) // 1024)})
+            else:
+                obs[clase]["sha256"] = sha
+                obs[clase]["bytes"] = len(cuerpo)
+                declarado = item.get("sha_" + clase)
+                if declarado and sha != declarado:
+                    hallazgos.append({
+                        "tipo": "modificado", "clase": clase, "url": url,
+                        "detalle": "sha publicado %s… != archivado %s…"
+                                   % (sha[:12], declarado[:12])})
         time.sleep(PAUSA)
     return obs, hallazgos
 
@@ -151,6 +186,22 @@ def revisar_catalogo(entidad, previo):
         return ({"error": err},
                 [{"tipo": "catalogo_inaccesible", "entidad": entidad,
                   "url": url, "detalle": err or "sin cuerpo"}])
+    # Comparar la lista de documentos enlazados, no el HTML entero: una fecha
+    # o un banner en la portada no son un alta ni una baja de ordenamiento.
+    enlaces = sorted(set(m.group(1).decode("utf-8", "replace").lower()
+                         for m in RE_ENLACE.finditer(cuerpo)))
+    if enlaces:
+        sha = hashlib.sha256("\n".join(enlaces).encode("utf-8")).hexdigest()
+        obs = {"sha256_enlaces": sha, "enlaces": len(enlaces)}
+        ant = (previo or {}).get("sha256_enlaces")
+        if ant and ant != sha:
+            d = len(enlaces) - ((previo or {}).get("enlaces") or 0)
+            return obs, [{"tipo": "catalogo_movido", "entidad": entidad,
+                          "url": url,
+                          "detalle": "la lista de documentos del catálogo "
+                                     "cambió (%d enlaces, %+d): revisar altas "
+                                     "o bajas" % (len(enlaces), d)}]
+        return obs, []
     sha = hashlib.sha256(cuerpo).hexdigest()
     obs = {"sha256": sha, "bytes": len(cuerpo)}
     if previo and previo.get("sha256") and previo["sha256"] != sha:
@@ -160,7 +211,8 @@ def revisar_catalogo(entidad, previo):
 
 
 ETIQUETAS = {
-    "modificado": "Archivo modificado en el sitio del Congreso",
+    "modificado": "Archivo modificado en el sitio oficial",
+    "posible_modificacion": "Posible modificación (cambió el inicio del archivo)",
     "no_encontrado": "El archivo ya no está en su ruta (404)",
     "inaccesible": "No se pudo leer el archivo",
     "catalogo_movido": "La página de catálogo cambió",
@@ -175,8 +227,9 @@ def escribir_reporte(hallazgos, revisados, segundos, notas):
          "Corrida: %s · %d ordenamientos revisados · %ds"
          % (ahora.strftime("%Y-%m-%d %H:%M UTC"), revisados, segundos), ""]
     if not hallazgos:
-        L.append("**Sin cambios.** Ningún archivo del acervo se movió en el sitio "
-                 "de los Congresos desde la última revisión.")
+        L.append("**Sin cambios.** Ningún archivo del acervo se movió en los "
+                 "sitios de los Congresos ni de la Cámara de Diputados desde la "
+                 "última revisión.")
     else:
         por_tipo = {}
         for x in hallazgos:
@@ -190,8 +243,8 @@ def escribir_reporte(hallazgos, revisados, segundos, notas):
             L.append("**Atención requerida**, pero ningún cambio de contenido "
                      "confirmado.")
         L.append("")
-        for tipo in ("modificado", "no_encontrado", "catalogo_movido",
-                     "inaccesible", "catalogo_inaccesible"):
+        for tipo in ("modificado", "posible_modificacion", "no_encontrado",
+                     "catalogo_movido", "inaccesible", "catalogo_inaccesible"):
             if tipo not in por_tipo:
                 continue
             L += ["## " + ETIQUETAS[tipo], "",
@@ -217,7 +270,8 @@ def escribir_reporte(hallazgos, revisados, segundos, notas):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--entidad", help="Sinaloa o Nayarit; por omisión, ambas")
+    ap.add_argument("--entidad",
+                    help="Sinaloa, Nayarit o Federal; por omisión, las tres")
     ap.add_argument("--forzar-descarga", action="store_true",
                     help="descarga y coteja SHA-256 de todo")
     a = ap.parse_args()

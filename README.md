@@ -135,10 +135,20 @@ Tres ordenamientos federales exigen advertencia expresa al citarlos:
 
 ## Vigilancia de reformas
 
-`bin/vigilancia.py` revisa semanalmente los catálogos oficiales y compara contra
-el SHA-256 archivado de cada ordenamiento; el flujo de GitHub Actions
-(`.github/workflows/vigilancia.yml`) abre un issue cuando detecta cambios.
-Actualmente cubre Sinaloa y Nayarit.
+`bin/vigilancia.py` revisa cada lunes los tres catálogos oficiales —los dos
+Congresos y la Cámara de Diputados— y compara contra el SHA-256 archivado de
+cada uno de los 736 ordenamientos; el flujo de GitHub Actions
+(`.github/workflows/vigilancia.yml`) abre un issue cuando detecta cambios y
+deja constancia de la corrida en `vigilancia/ultima_corrida.json`.
+
+La revisión es barata por diseño: primero pregunta por cabeceras
+(`Last-Modified`, `ETag`, tamaño) y solo descarga cuando algo se movió. Si el
+servidor no da cabeceras útiles, o el archivo pesa más de 12 MB, compara los
+primeros 256 KB en lugar de bajarlo entero y lo reporta como **posible**
+modificación. Con `forzar_descarga` baja todo y coteja el SHA-256 completo.
+
+Del catálogo no se compara el HTML sino la lista de documentos enlazados: una
+fecha o un banner en la portada no son un alta ni una baja de ordenamiento.
 
 ## Fuentes
 

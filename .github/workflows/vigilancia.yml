@@ -1,8 +1,9 @@
 name: Vigilancia de reformas
 
-# Revisa semanalmente si los Congresos de Sinaloa y Nayarit modificaron algún
-# archivo del acervo. DETECTA, no convierte: la conversión y la validación se
-# hacen aparte, con supervisión.
+# Revisa semanalmente si los Congresos de Sinaloa y Nayarit o la Cámara de
+# Diputados modificaron algún archivo del acervo: 736 ordenamientos en total.
+# DETECTA, no convierte: la conversión y la validación se hacen aparte, con
+# supervisión.
 
 on:
   schedule:
@@ -28,7 +29,7 @@ concurrency:
 jobs:
   revisar:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
 
@@ -36,7 +37,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Revisar el sitio de los Congresos
+      - name: Revisar los sitios oficiales
         id: revision
         run: |
           if [ "${{ inputs.forzar_descarga }}" = "true" ]; then
