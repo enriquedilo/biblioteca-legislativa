@@ -1,6 +1,6 @@
 {
   "creado": "2026-09-18T02:11:42.810650+00:00",
-  "fase": "corte tras lote 35 reportado",
+  "fase": "corte tras lote 40 reportado",
   "tamano_lote": 10,
   "catalogados": 453,
   "catalogo_sha256": "c7f9ee6d77d3e729a5f20ad6d99f013d476327d07bb6a9013f7fea6e0086650b",
@@ -38731,7 +38731,9 @@
         "id": 372,
         "error": "Conversión altera contenido; versión no promovida",
         "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSM_orig_10nov42_ima.pdf",
-        "sigla": "Reg_LSM_orig_10nov42_ima"
+        "sigla": "Reg_LSM_orig_10nov42_ima",
+        "reporte": "reportes/pendiente-372.json",
+        "version_no_promovida": "7528196d5c18fe813dca54d51f2e2929ec97321c82d00b15c72139a32dad5f04"
       },
       "catalogo": {
         "id": 372,
@@ -42662,13 +42664,14 @@
     "36": "19da50685832cd85fc424689ad5d198f8ccff2b2",
     "37": "a5ddbe36c68701113da0e42250d5e94498affb94",
     "38": "d6f8bef9ea466e5319dd8403951b2fbfe2d54139",
-    "39": "6459a8594ecf5c7bd71123bc88f52114df3423ed"
+    "39": "6459a8594ecf5c7bd71123bc88f52114df3423ed",
+    "40": "2e7cd747d63f20b8768c56ff21bd58315b3e05c4"
   },
-  "ultimo_evento": "Lote 40 cerrado; publicación por commit del lote.",
+  "ultimo_evento": "Lote 40 publicado; correcciones y conservación verificadas. Próximo lote: 41.",
   "control_pypdf": "informativo, no bloqueante",
-  "actualizado": "2026-09-21T06:02:16.848724+00:00",
+  "actualizado": "2026-09-21T06:03:58.243084+00:00",
   "procesados": 403,
   "intentados": 404,
   "pendientes_reportados": 1,
-  "reanudar_requiere_instruccion_usuario": false
+  "reanudar_requiere_instruccion_usuario": true
 }
