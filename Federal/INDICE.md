@@ -391,16 +391,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 381 | Reg_LFJS | REGLAMENTO de la Ley Federal de Juegos y Sorteos | [Markdown](ordenamientos/381/versiones/aa391705250b91a6809a107df77d8929e53bd1c8ce84d59f4b46d8643b6d5162/texto.md) · procesado_con_incidencias |
 | 382 | Reg_LFEP | REGLAMENTO de la Ley Federal de las Entidades Paraestatales | [Markdown](ordenamientos/382/versiones/628fd9da2904a584746a2bf0c69712899e385dd8241d177bbae422e77169f634/texto.md) · procesado_con_incidencias |
 | 383 | Reg_LFPRH | REGLAMENTO de la Ley Federal de Presupuesto y Responsabilidad Hacendaria | [Markdown](ordenamientos/383/versiones/7881053c51f128c6646324d6125f2f87e9f0f9206175f80af698b30866a06ac1/texto.md) · procesado_con_incidencias |
-| 384 | Reg_LFPCCS | REGLAMENTO de la Ley Federal de Producción, Certificación y Comercio de Semillas | pendiente |
-| 385 | Reg_LFPPI | REGLAMENTO de la Ley Federal de Protección a la Propiedad Industrial | pendiente |
-| 386 | Reg_LFPC_191219 | REGLAMENTO de la Ley Federal de Protección al Consumidor | pendiente |
-| 387 | Reg_LFPDPPP | REGLAMENTO de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares | pendiente |
-| 388 | Reg_LFRT_MCPCTRT | REGLAMENTO de la Ley Federal de Radio y Televisión, en Materia de Concesiones, Permisos y Contenido de las Transmisiones de Radio y Televisión | pendiente |
-| 389 | Reg_LFSA | REGLAMENTO de la Ley Federal de Sanidad Animal | pendiente |
-| 390 | Reg_LFSV | REGLAMENTO de la Ley Federal de Sanidad Vegetal | pendiente |
-| 391 | Reg_LFSP | REGLAMENTO de la Ley Federal de Seguridad Privada | pendiente |
-| 392 | Reg_LFTR_MCSRE | REGLAMENTO de la Ley Federal de Telecomunicaciones y Radiodifusión en Materia de Capacidad Satelital como Reserva del Estado | pendiente |
-| 393 | Reg_LFTAIPG | REGLAMENTO de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental | pendiente |
+| 384 | Reg_LFPCCS | REGLAMENTO de la Ley Federal de Producción, Certificación y Comercio de Semillas | [Markdown](ordenamientos/384/versiones/51e49d6cbea84b2fb561f68325f6cc24d1c91b8152bcf9f9a0c02c350709d521/texto.md) · procesado_con_incidencias |
+| 385 | Reg_LFPPI | REGLAMENTO de la Ley Federal de Protección a la Propiedad Industrial | [Markdown](ordenamientos/385/versiones/48eaaef413077fe39d7655cb16474f36b8ec48ab0d55a59d8015396d1b2d8a5a/texto.md) · procesado_con_incidencias |
+| 386 | Reg_LFPC_191219 | REGLAMENTO de la Ley Federal de Protección al Consumidor | [Markdown](ordenamientos/386/versiones/6e05922441ab2065cd34889fcf69ee236832339808c86e33c225b8637dc357c2/texto.md) · procesado_con_incidencias |
+| 387 | Reg_LFPDPPP | REGLAMENTO de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares | [Markdown](ordenamientos/387/versiones/e1798bc8481824131ebeb0fe4c562487d5d962470bd2d1f6111e25af812800d8/texto.md) · procesado_con_incidencias |
+| 388 | Reg_LFRT_MCPCTRT | REGLAMENTO de la Ley Federal de Radio y Televisión, en Materia de Concesiones, Permisos y Contenido de las Transmisiones de Radio y Televisión | [Markdown](ordenamientos/388/versiones/bf865ec92e2e9dcae93a73549e46c5fcbd1c2e67242eaae8467ce85fb7840b2c/texto.md) · procesado_con_incidencias |
+| 389 | Reg_LFSA | REGLAMENTO de la Ley Federal de Sanidad Animal | [Markdown](ordenamientos/389/versiones/c62fe67144fed005833dfba96273bbeac2017fd51cfea1458a44fd296a536f5f/texto.md) · procesado_con_incidencias |
+| 390 | Reg_LFSV | REGLAMENTO de la Ley Federal de Sanidad Vegetal | [Markdown](ordenamientos/390/versiones/be37062f4a67b9c3f3677dc7460e20ee492749c78739b7e97f8172b64153e737/texto.md) · procesado_con_incidencias |
+| 391 | Reg_LFSP | REGLAMENTO de la Ley Federal de Seguridad Privada | [Markdown](ordenamientos/391/versiones/71a5714654d29bf8b65a07f3a3ba0f9cd4f59b9a0f2283dd8efacf3e8d466ec1/texto.md) · procesado_con_incidencias |
+| 392 | Reg_LFTR_MCSRE | REGLAMENTO de la Ley Federal de Telecomunicaciones y Radiodifusión en Materia de Capacidad Satelital como Reserva del Estado | [Markdown](ordenamientos/392/versiones/012b77380b30a683b86bc7ce3468e484d50ca87441a2bcfebd542ccd2ca09b67/texto.md) · procesado_con_incidencias |
+| 393 | Reg_LFTAIPG | REGLAMENTO de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental | [Markdown](ordenamientos/393/versiones/e862964199c1558f453aa174ac5e58995acd735baeee113b2200dfb16eae4d7f/texto.md) · procesado_con_incidencias |
 | 394 | Reg_LFVV | REGLAMENTO de la Ley Federal de Variedades Vegetales | pendiente |
 | 395 | Reg_LFZEE_290917 | REGLAMENTO de la Ley Federal de Zonas Económicas Especiales | pendiente |
 | 396 | Reg_LFDA | REGLAMENTO de la Ley Federal del Derecho de Autor | pendiente |

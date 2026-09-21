@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-21T06:01:50.889666+00:00
+Actualizado: 2026-09-21T06:02:04.444170+00:00
 
-Procesados: **383/453**. Intentados: 384/453. Pendientes reportados: 1.
+Procesados: **393/453**. Intentados: 394/453. Pendientes reportados: 1.
 
-Lote 38 cerrado; publicación por commit del lote.
+Lote 39 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -48,8 +48,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 35 | 10/10 | Publicado |
 | 36 | 10/10 | Publicado |
 | 37 | 10/10 | Publicado |
-| 38 | 10/10 | Cerrado localmente |
-| 39 | 0/10 | Pendiente |
+| 38 | 10/10 | Publicado |
+| 39 | 10/10 | Cerrado localmente |
 | 40 | 0/10 | Pendiente |
 | 41 | 0/10 | Pendiente |
 | 42 | 0/10 | Pendiente |
@@ -442,16 +442,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 38 | 381 | Reg_LFJS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 38 | 382 | Reg_LFEP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 38 | 383 | Reg_LFPRH | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 39 | 384 | Reg_LFPCCS | pendiente | — |
-| 39 | 385 | Reg_LFPPI | pendiente | — |
-| 39 | 386 | Reg_LFPC_191219 | pendiente | — |
-| 39 | 387 | Reg_LFPDPPP | pendiente | — |
-| 39 | 388 | Reg_LFRT_MCPCTRT | pendiente | — |
-| 39 | 389 | Reg_LFSA | pendiente | — |
-| 39 | 390 | Reg_LFSV | pendiente | — |
-| 39 | 391 | Reg_LFSP | pendiente | — |
-| 39 | 392 | Reg_LFTR_MCSRE | pendiente | — |
-| 39 | 393 | Reg_LFTAIPG | pendiente | — |
+| 39 | 384 | Reg_LFPCCS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 39 | 385 | Reg_LFPPI | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 39 | 386 | Reg_LFPC_191219 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 39 | 387 | Reg_LFPDPPP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 39 | 388 | Reg_LFRT_MCPCTRT | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 39 | 389 | Reg_LFSA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 39 | 390 | Reg_LFSV | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 39 | 391 | Reg_LFSP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 39 | 392 | Reg_LFTR_MCSRE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 39 | 393 | Reg_LFTAIPG | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 40 | 394 | Reg_LFVV | pendiente | — |
 | 40 | 395 | Reg_LFZEE_290917 | pendiente | — |
 | 40 | 396 | Reg_LFDA | pendiente | — |
