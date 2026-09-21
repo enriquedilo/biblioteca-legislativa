@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-21T06:02:04.444170+00:00
+Actualizado: 2026-09-21T06:02:16.848724+00:00
 
-Procesados: **393/453**. Intentados: 394/453. Pendientes reportados: 1.
+Procesados: **403/453**. Intentados: 404/453. Pendientes reportados: 1.
 
-Lote 39 cerrado; publicación por commit del lote.
+Lote 40 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -49,8 +49,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 36 | 10/10 | Publicado |
 | 37 | 10/10 | Publicado |
 | 38 | 10/10 | Publicado |
-| 39 | 10/10 | Cerrado localmente |
-| 40 | 0/10 | Pendiente |
+| 39 | 10/10 | Publicado |
+| 40 | 10/10 | Cerrado localmente |
 | 41 | 0/10 | Pendiente |
 | 42 | 0/10 | Pendiente |
 | 43 | 0/10 | Pendiente |
@@ -452,16 +452,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 39 | 391 | Reg_LFSP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 39 | 392 | Reg_LFTR_MCSRE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 39 | 393 | Reg_LFTAIPG | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 40 | 394 | Reg_LFVV | pendiente | — |
-| 40 | 395 | Reg_LFZEE_290917 | pendiente | — |
-| 40 | 396 | Reg_LFDA | pendiente | — |
-| 40 | 397 | Reg_LFCPrecQuim | pendiente | — |
-| 40 | 398 | Reg_LFAEBSP | pendiente | — |
-| 40 | 399 | Reg_LFPIORPI | pendiente | — |
-| 40 | 400 | Reg_LFMN | pendiente | — |
-| 40 | 401 | Reg_LFMZAAH_031220 | pendiente | — |
-| 40 | 402 | Reg_LGAMVLV | pendiente | — |
-| 40 | 403 | Reg_LGCC_MRNE_281014 | pendiente | — |
+| 40 | 394 | Reg_LFVV | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 40 | 395 | Reg_LFZEE_290917 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 40 | 396 | Reg_LFDA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 40 | 397 | Reg_LFCPrecQuim | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 40 | 398 | Reg_LFAEBSP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 40 | 399 | Reg_LFPIORPI | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 40 | 400 | Reg_LFMN | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 40 | 401 | Reg_LFMZAAH_031220 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 40 | 402 | Reg_LGAMVLV | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 40 | 403 | Reg_LGCC_MRNE_281014 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 41 | 404 | Reg_LGCFD | pendiente | — |
 | 41 | 405 | Reg_LGCDC_291118 | pendiente | — |
 | 41 | 406 | Reg_LGDFS | pendiente | — |

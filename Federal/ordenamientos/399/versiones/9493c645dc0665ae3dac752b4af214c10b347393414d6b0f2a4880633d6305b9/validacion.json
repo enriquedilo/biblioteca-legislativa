@@ -1,0 +1,1121 @@
+{
+  "id": 399,
+  "fecha_revision": "2026-09-21T06:02:12.992358+00:00",
+  "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 22,
+  "paginas_sin_texto": [],
+  "pagina_blanca_confirmada_visualmente": false,
+  "texto_conservado": true,
+  "comparacion_word_pdf": {
+    "palabras_comparadas": 10541,
+    "palabras_pdf": 11282,
+    "frecuencias_coinciden": false,
+    "orden_coincide_separando_nota_al_pie": false,
+    "nota_al_pie_reubicada_por_lector_word": null,
+    "normalizaciones_solo_comparacion": [
+      "Misma función lexical_tokens de Sinaloa; no modifica los originales ni el Markdown."
+    ],
+    "limite": "Campos Word y encabezados permanecen en el control; las diferencias se reportan sin reparación.",
+    "solo_word": {
+      "diario": 1,
+      "oficial": 1,
+      "agosto": 1,
+      "sección": 1,
+      "primera": 1,
+      "page": 2,
+      "mergeformat": 1,
+      "viernes": 1,
+      "embed": 1,
+      "word": 1,
+      "picture": 1,
+      "numpages": 1
+    },
+    "solo_pdf": {
+      "reglamento": 21,
+      "de": 145,
+      "la": 63,
+      "ley": 21,
+      "federal": 21,
+      "para": 21,
+      "prevención": 21,
+      "e": 21,
+      "identificación": 21,
+      "operaciones": 21,
+      "con": 21,
+      "recursos": 21,
+      "procedencia": 21,
+      "ilícita": 21,
+      "cámara": 21,
+      "diputados": 21,
+      "del": 21,
+      "h": 21,
+      "congreso": 21,
+      "unión": 21,
+      "última": 21,
+      "reforma": 21,
+      "dof": 21,
+      "secretaría": 42,
+      "general": 21,
+      "servicios": 21,
+      "parlamentarios": 21
+    }
+  },
+  "articulos_word": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "7bis",
+    "8",
+    "9",
+    "10",
+    "10bis",
+    "11",
+    "12",
+    "12bis",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "21bis",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "31bis",
+    "32",
+    "33",
+    "33bis",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "45bis",
+    "45ter",
+    "45quáter",
+    "45quinquies",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "55bis",
+    "56",
+    "57",
+    "58",
+    "59"
+  ],
+  "articulos_pdf": [
+    "1",
+    "2",
+    "3",
+    "artículo51ter",
+    "artículo16del",
+    "artículo32del",
+    "4",
+    "artículo17de",
+    "artículos56",
+    "5",
+    "artículo17de",
+    "6",
+    "7",
+    "7bis",
+    "8",
+    "9",
+    "10",
+    "10bis",
+    "11",
+    "12",
+    "12bis",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "21bis",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "31bis",
+    "32",
+    "33",
+    "33bis",
+    "34",
+    "35",
+    "artículo32del",
+    "artículo27",
+    "36",
+    "37",
+    "38",
+    "39",
+    "artículo37",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "artículo33de",
+    "artículo32de",
+    "45bis",
+    "45ter",
+    "artículo51ter",
+    "45quáter",
+    "45quinquies",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "55bis",
+    "56",
+    "57",
+    "58",
+    "59",
+    "artículo17"
+  ],
+  "identificadores_articulos_coinciden": false,
+  "encabezados_transitorios": [
+    {
+      "pagina": 18,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 20,
+      "encabezado": "TRANSITORIOS"
+    }
+  ],
+  "encabezados_ordinales_en_seccion_transitoria": [
+    "PRIMERO.- El presente Reglamento entrará en vigor el 1 de septiembre de 2013, salvo por lo que se",
+    "SEGUNDO.- Las disposiciones relativas a la obligación de presentar Avisos por parte de quienes",
+    "TERCERO.- Con la finalidad de que las personas que realicen las Actividades Vulnerables referidas",
+    "CUARTO.- La Secretaría de Hacienda y Crédito Público y la Procuraduría General de la República, a",
+    "ARTÍCULO ÚNICO.- Se REFORMAN los artículos 1, segundo párrafo; 2, primer párrafo, fracción II, y",
+    "Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial",
+    "Segundo.- Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.",
+    "Tercero.- Para efectos de realizar el trámite de alta y registro a que se refiere el artículo 12 del",
+    "Cuarto.- Para efectos de lo establecido en el artículo 10 del Reglamento de la Ley Federal para la",
+    "Quinto.- La presentación del Aviso a que se refiere el artículo 7 Bis del Reglamento de la Ley Federal",
+    "Sexto.- Para la presentación de los Avisos en términos de lo previsto por el artículo 5 del Reglamento"
+  ],
+  "articulos_numericos_en_seccion_transitoria": [
+    "artículo17"
+  ],
+  "transitorios_y_notas_completos_incluidos": true,
+  "paginas_cotejadas_visualmente": [],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 2432,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 2681,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 2631,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 3068,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 3716,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 3229,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 3168,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 3358,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 3397,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 3057,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 11,
+      "caracteres_no_blancos": 3127,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 12,
+      "caracteres_no_blancos": 2720,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 13,
+      "caracteres_no_blancos": 3455,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 14,
+      "caracteres_no_blancos": 2805,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 15,
+      "caracteres_no_blancos": 3129,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 16,
+      "caracteres_no_blancos": 2936,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 17,
+      "caracteres_no_blancos": 2409,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 18,
+      "caracteres_no_blancos": 2993,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 19,
+      "caracteres_no_blancos": 1573,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 20,
+      "caracteres_no_blancos": 3331,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 21,
+      "caracteres_no_blancos": 3315,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 22,
+      "caracteres_no_blancos": 872,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    }
+  ],
+  "alcance": "Controles de conservación en todas las páginas; comparación de cifras con Poppler y pypdf. El cotejo visual se registra por separado. No certifica vigencia jurídica.",
+  "incidencias_resueltas": [],
+  "diferencias_de_fuente": [
+    "La secuencia de encabezados numéricos difiere Word/PDF; consultar contadores y evidencia. No se corrige.",
+    "La comparación léxica Word/PDF no coincide: encabezados repetidos, campos Word y otras diferencias pendientes de cotejo. No equivale a pérdida del Markdown.",
+    "El control original con retirada de paginación difiere. Se conserva el resultado y se añade comparación simétrica de cifras sin retirar paginación.",
+    "Hay discrepancias en la secuencia de cifras entre los dos lectores PDF; requieren cotejo, no se reparan.",
+    "Word original .doc conservado por autorización expresa del usuario; no se fabrica original.docx."
+  ],
+  "formato_word_original": "doc",
+  "ocr_ejecutado": false,
+  "incidencias_descarga": [],
+  "promociones_encabezado_evitadas": [
+    {
+      "linea": 49,
+      "texto": "artículo 51 Ter de la Ley deberán proporcionar la información necesaria a la que se refiere",
+      "anterior": "III Bis. Emitir el formato y determinar el medio conforme a los cuales las autoridades señaladas en el",
+      "siguiente": "dicho artículo para la integración del listado de personas servidoras públicas que serán",
+      "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+      "pagina": 2
+    },
+    {
+      "linea": 55,
+      "texto": "artículo 16 del presente Reglamento;",
+      "anterior": "IV.      Determinar y dar a conocer los medios de cumplimiento alternativos a los que se refiere el",
+      "siguiente": "Fracción reformada DOF 27-03-2026",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 2
+    },
+    {
+      "linea": 64,
+      "texto": "artículo 32 del presente Reglamento;",
+      "anterior": "V.       Participar en la suscripción, en conjunto con el SAT, de los convenios a que se refiere el",
+      "siguiente": "",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 2
+    },
+    {
+      "linea": 30,
+      "texto": "artículo 17 de la Ley y remitirlos a la UIF;",
+      "anterior": "II.    Recibir los Avisos e Informes de quienes realicen las Actividades Vulnerables establecidas en el",
+      "siguiente": "Fracción reformada DOF 27-03-2026",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 3
+    },
+    {
+      "linea": 11,
+      "texto": "artículos 56, 57, 58 y 59 de la Ley, a efecto de que estas procedan a imponer las sanciones",
+      "anterior": "VIII. Informar a las autoridades competentes cuando se actualicen los supuestos previstos en los",
+      "siguiente": "correspondientes;",
+      "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+      "pagina": 4
+    },
+    {
+      "linea": 36,
+      "texto": "artículo 17 de la Ley, para la presentación del Aviso correspondiente se entenderá como fecha del acto u",
+      "anterior": "Tratándose de las Actividades Vulnerables establecidas en los apartados A y B de la fracción XII del",
+      "siguiente": "operación la fecha en que se haya otorgado el instrumento público respectivo o se haya realizado la",
+      "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+      "pagina": 4
+    },
+    {
+      "linea": 39,
+      "texto": "artículo 32 del presente Reglamento deberán solicitarlo por escrito ante el SAT, por conducto de su",
+      "anterior": "Artículo 35.- Las Entidades Colegiadas interesadas en la suscripción del convenio a que se refiere el",
+      "siguiente": "representante o apoderado legal.",
+      "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+      "pagina": 12
+    },
+    {
+      "linea": 51,
+      "texto": "artículo 27, fracción IV, de la Ley, así como, en su caso, del órgano concentrador previsto en el",
+      "anterior": "III.   Datos generales de identificación del representante de la Entidad Colegiada a que se refiere el",
+      "siguiente": "penúltimo párrafo del referido artículo;",
+      "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+      "pagina": 12
+    },
+    {
+      "linea": 46,
+      "texto": "artículo 37, segundo párrafo, del presente Reglamento.",
+      "anterior": "emanen, sin perjuicio de la responsabilidad del representante de la Entidad Colegiada, a que se refiere el",
+      "siguiente": "Párrafo reformado DOF 27-03-2026",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 13
+    },
+    {
+      "linea": 56,
+      "texto": "artículo 33 de la Ley, en la identificación de la forma en que se paguen las obligaciones por parte de las",
+      "anterior": "Artículo 45.- Las personas depositarias de Fe Pública para el cumplimiento de lo establecido en el",
+      "siguiente": "personas Clientes o Usuarias, deberán considerar el monto, fecha y forma de pago o la consignación del",
+      "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+      "pagina": 14
+    },
+    {
+      "linea": 11,
+      "texto": "artículo 32 de la Ley.",
+      "anterior": "pagado las obligaciones en términos del párrafo anterior, para lo cual deberán observar lo previsto en el",
+      "siguiente": "Artículo reformado DOF 27-03-2026",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 15
+    },
+    {
+      "linea": 36,
+      "texto": "artículo 51 Ter de la Ley y continuar con el cumplimiento de sus obligaciones previstas en el artículo 18,",
+      "anterior": "tal efecto establezca, con la única finalidad de verificar si se encuentran en el listado a que se refiere el",
+      "siguiente": "fracciones VIII y X de la Ley o bien, conforme a las disposiciones de carácter general que les",
+      "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+      "pagina": 15
+    },
+    {
+      "linea": 50,
+      "texto": "artículo 17, fracción XIV de la Ley, los cuales deberán cumplir con la obligación prevista en el artículo 18,",
+      "anterior": "fideicomiso u otra figura jurídica, así como las agencias aduanales y las personas morales referidas en el",
+      "siguiente": "fracción IV Bis de la misma Ley, hasta que el referido formato los identifique expresamente.",
+      "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+      "pagina": 20
+    }
+  ],
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-21T06:02:12.992358+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "decreto_numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.edicion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.seccion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "reformas",
+        "motivo": "Notas literales conservadas con todas las fechas; fecha escalar null si hay varias. Números de diario/decreto no impresos quedan null. Captura automática pendiente de revisión."
+      },
+      {
+        "campo": "abroga",
+        "motivo": "No se localizaron cláusulas con la forma expresa se abroga/queda abrogado; arreglo vacío pendiente de cotejo."
+      },
+      {
+        "campo": "abrogacion_programada",
+        "motivo": "Portada/encabezado sin declaración identificada de abrogación o término de vigencia en fecha cierta; null."
+      }
+    ],
+    "evidencia": {
+      "abroga": [],
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "REGLAMENTO DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA Nuevo Reglamento publicado en el Diario Oficial de la Federación el 16 de agosto de 2013"
+      },
+      "ultima_reforma": {
+        "pagina": 1,
+        "texto": "Última Reforma DOF 27-03-2026"
+      },
+      "reformas": {
+        "pagina_inicio": 1,
+        "encabezado": null,
+        "filas": [
+          {
+            "fila": 0,
+            "texto": "Párrafo reformado DOF 27-03-2026",
+            "pagina": 1
+          },
+          {
+            "fila": 1,
+            "texto": "Párrafo reformado DOF 27-03-2026",
+            "pagina": 1
+          },
+          {
+            "fila": 2,
+            "texto": "Fracción derogada DOF 27-03-2026",
+            "pagina": 1
+          },
+          {
+            "fila": 3,
+            "texto": "Fracción reformada DOF 27-03-2026",
+            "pagina": 1
+          },
+          {
+            "fila": 4,
+            "texto": "Fracción adicionada DOF 27-03-2026",
+            "pagina": 1
+          },
+          {
+            "fila": 5,
+            "texto": "Fracción adicionada DOF 27-03-2026",
+            "pagina": 2
+          },
+          {
+            "fila": 6,
+            "texto": "Fracción adicionada DOF 27-03-2026",
+            "pagina": 2
+          },
+          {
+            "fila": 7,
+            "texto": "Fracción reformada y recorrida DOF 27-03-2026",
+            "pagina": 2
+          },
+          {
+            "fila": 8,
+            "texto": "Fracción reformada y recorrida DOF 27-03-2026",
+            "pagina": 2
+          },
+          {
+            "fila": 9,
+            "texto": "Fracción reformada y recorrida DOF 27-03-2026",
+            "pagina": 2
+          },
+          {
+            "fila": 10,
+            "texto": "Fracción reformada DOF 27-03-2026",
+            "pagina": 2
+          },
+          {
+            "fila": 11,
+            "texto": "Fracción reformada DOF 27-03-2026",
+            "pagina": 2
+          },
+          {
+            "fila": 12,
+            "texto": "Fracción adicionada DOF 27-03-2026",
+            "pagina": 2
+          },
+          {
+            "fila": 13,
+            "texto": "Fracción reformada DOF 27-03-2026",
+            "pagina": 2
+          },
+          {
+            "fila": 14,
+            "texto": "Fracción adicionada DOF 27-03-2026",
+            "pagina": 2
+          },
+          {
+            "fila": 15,
+            "texto": "Fracción reformada DOF 27-03-2026",
+            "pagina": 3
+          },
+          {
+            "fila": 16,
+            "texto": "Fracción adicionada DOF 27-03-2026",
+            "pagina": 3
+          },
+          {
+            "fila": 17,
+            "texto": "Fracción adicionada DOF 27-03-2026",
+            "pagina": 3
+          },
+          {
+            "fila": 18,
+            "texto": "Fracción reformada DOF 27-03-2026",
+            "pagina": 3
+          },
+          {
+            "fila": 19,
+            "texto": "Fracción reformada DOF 27-03-2026",
+            "pagina": 3
+          },
+          {
+            "fila": 20,
+            "texto": "Fracción reformada DOF 27-03-2026",
+            "pagina": 3
+          },
+          {
+            "fila": 21,
+            "texto": "Fracción reformada DOF 27-03-2026",
+            "pagina": 3
+          },
+          {
+            "fila": 22,
+            "texto": "Fracción reformada DOF 27-03-2026",
+            "pagina": 3
+          },
+          {
+            "fila": 23,
+            "texto": "Fracción reformada DOF 27-03-2026",
+            "pagina": 3
+          },
+          {
+            "fila": 24,
+            "texto": "Fracción reformada DOF 27-03-2026",
+            "pagina": 4
+          },
+          {
+            "fila": 25,
+            "texto": "Fracción adicionada DOF 27-03-2026",
+            "pagina": 4
+          },
+          {
+            "fila": 26,
+            "texto": "Fracción adicionada DOF 27-03-2026",
+            "pagina": 4
+          },
+          {
+            "fila": 27,
+            "texto": "Fracción adicionada DOF 27-03-2026",
+            "pagina": 4
+          },
+          {
+            "fila": 28,
+            "texto": "Párrafo reformado DOF 27-03-2026",
+            "pagina": 4
+          },
+          {
+            "fila": 29,
+            "texto": "Párrafo reformado DOF 27-03-2026",
+            "pagina": 4
+          },
+          {
+            "fila": 30,
+            "texto": "Párrafo reformado DOF 27-03-2026",
+            "pagina": 4
+          },
+          {
+            "fila": 31,
+            "texto": "Párrafo adicionado DOF 27-03-2026",
+            "pagina": 4
+          },
+          {
+            "fila": 32,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 5
+          },
+          {
+            "fila": 33,
+            "texto": "Artículo adicionado DOF 27-03-2026",
+            "pagina": 5
+          },
+          {
+            "fila": 34,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 5
+          },
+          {
+            "fila": 35,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 6
+          },
+          {
+            "fila": 36,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 6
+          },
+          {
+            "fila": 37,
+            "texto": "Artículo adicionado DOF 27-03-2026",
+            "pagina": 6
+          },
+          {
+            "fila": 38,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 7
+          },
+          {
+            "fila": 39,
+            "texto": "Artículo adicionado DOF 27-03-2026",
+            "pagina": 7
+          },
+          {
+            "fila": 40,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 7
+          },
+          {
+            "fila": 41,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 7
+          },
+          {
+            "fila": 42,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 8
+          },
+          {
+            "fila": 43,
+            "texto": "Párrafo reformado DOF 27-03-2026",
+            "pagina": 8
+          },
+          {
+            "fila": 44,
+            "texto": "Fracción reformada DOF 27-03-2026",
+            "pagina": 8
+          },
+          {
+            "fila": 45,
+            "texto": "Párrafo reformado DOF 27-03-2026",
+            "pagina": 8
+          },
+          {
+            "fila": 46,
+            "texto": "Párrafo reformado DOF 27-03-2026",
+            "pagina": 9
+          },
+          {
+            "fila": 47,
+            "texto": "Párrafo reformado DOF 27-03-2026",
+            "pagina": 9
+          },
+          {
+            "fila": 48,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 9
+          },
+          {
+            "fila": 49,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 9
+          },
+          {
+            "fila": 50,
+            "texto": "Párrafo reformado DOF 27-03-2026",
+            "pagina": 9
+          },
+          {
+            "fila": 51,
+            "texto": "Artículo adicionado DOF 27-03-2026",
+            "pagina": 10
+          },
+          {
+            "fila": 52,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 10
+          },
+          {
+            "fila": 53,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 10
+          },
+          {
+            "fila": 54,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 10
+          },
+          {
+            "fila": 55,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 10
+          },
+          {
+            "fila": 56,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 11
+          },
+          {
+            "fila": 57,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 11
+          },
+          {
+            "fila": 58,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 11
+          },
+          {
+            "fila": 59,
+            "texto": "Artículo adicionado DOF 27-03-2026",
+            "pagina": 11
+          },
+          {
+            "fila": 60,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 12
+          },
+          {
+            "fila": 61,
+            "texto": "Artículo adicionado DOF 27-03-2026",
+            "pagina": 12
+          },
+          {
+            "fila": 62,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 12
+          },
+          {
+            "fila": 63,
+            "texto": "Párrafo reformado DOF 27-03-2026",
+            "pagina": 12
+          },
+          {
+            "fila": 64,
+            "texto": "Fracción reformada DOF 27-03-2026",
+            "pagina": 12
+          },
+          {
+            "fila": 65,
+            "texto": "Fracción reformada DOF 27-03-2026",
+            "pagina": 12
+          },
+          {
+            "fila": 66,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 13
+          },
+          {
+            "fila": 67,
+            "texto": "Párrafo reformado DOF 27-03-2026",
+            "pagina": 13
+          },
+          {
+            "fila": 68,
+            "texto": "Párrafo reformado DOF 27-03-2026",
+            "pagina": 13
+          },
+          {
+            "fila": 69,
+            "texto": "Párrafo reformado DOF 27-03-2026",
+            "pagina": 13
+          },
+          {
+            "fila": 70,
+            "texto": "Fracción reformada DOF 27-03-2026",
+            "pagina": 14
+          },
+          {
+            "fila": 71,
+            "texto": "Fracción reformada DOF 27-03-2026",
+            "pagina": 14
+          },
+          {
+            "fila": 72,
+            "texto": "Fracción adicionada DOF 27-03-2026",
+            "pagina": 14
+          },
+          {
+            "fila": 73,
+            "texto": "Fracción reformada DOF 27-03-2026",
+            "pagina": 14
+          },
+          {
+            "fila": 74,
+            "texto": "Fracción reformada DOF 27-03-2026",
+            "pagina": 14
+          },
+          {
+            "fila": 75,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 15
+          },
+          {
+            "fila": 76,
+            "texto": "Capítulo adicionado DOF 27-03-2026",
+            "pagina": 15
+          },
+          {
+            "fila": 77,
+            "texto": "Artículo adicionado DOF 27-03-2026",
+            "pagina": 15
+          },
+          {
+            "fila": 78,
+            "texto": "Artículo adicionado DOF 27-03-2026",
+            "pagina": 15
+          },
+          {
+            "fila": 79,
+            "texto": "Artículo adicionado DOF 27-03-2026",
+            "pagina": 15
+          },
+          {
+            "fila": 80,
+            "texto": "Artículo adicionado DOF 27-03-2026",
+            "pagina": 15
+          },
+          {
+            "fila": 81,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 15
+          },
+          {
+            "fila": 82,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 16
+          },
+          {
+            "fila": 83,
+            "texto": "Párrafo reformado DOF 27-03-2026",
+            "pagina": 16
+          },
+          {
+            "fila": 84,
+            "texto": "Fracción reformada DOF 27-03-2026",
+            "pagina": 16
+          },
+          {
+            "fila": 85,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 17
+          },
+          {
+            "fila": 86,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 17
+          },
+          {
+            "fila": 87,
+            "texto": "Párrafo reformado DOF 27-03-2026",
+            "pagina": 17
+          },
+          {
+            "fila": 88,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 17
+          },
+          {
+            "fila": 89,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 17
+          },
+          {
+            "fila": 90,
+            "texto": "Artículo adicionado DOF 27-03-2026",
+            "pagina": 18
+          },
+          {
+            "fila": 91,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 18
+          },
+          {
+            "fila": 92,
+            "texto": "Artículo reformado DOF 27-03-2026",
+            "pagina": 18
+          }
+        ]
+      }
+    }
+  },
+  "normalizacion_millares_encabezados": [],
+  "control_pypdf_informativo": {
+    "fuente": "Usuario; piloto aprobado en la conversación",
+    "descripcion": "pypdf fragmenta números con espacios; verificado por el usuario contra originales en 11 páginas señaladas del CFF y tres de CPEUM. Markdown generado con Poppler.",
+    "decision": "Control informativo, no bloquea lotes y no modifica textos. No se atribuye cotejo visual adicional a Codex."
+  }
+}

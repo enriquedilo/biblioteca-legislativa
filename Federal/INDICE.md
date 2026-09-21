@@ -401,16 +401,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 391 | Reg_LFSP | REGLAMENTO de la Ley Federal de Seguridad Privada | [Markdown](ordenamientos/391/versiones/71a5714654d29bf8b65a07f3a3ba0f9cd4f59b9a0f2283dd8efacf3e8d466ec1/texto.md) · procesado_con_incidencias |
 | 392 | Reg_LFTR_MCSRE | REGLAMENTO de la Ley Federal de Telecomunicaciones y Radiodifusión en Materia de Capacidad Satelital como Reserva del Estado | [Markdown](ordenamientos/392/versiones/012b77380b30a683b86bc7ce3468e484d50ca87441a2bcfebd542ccd2ca09b67/texto.md) · procesado_con_incidencias |
 | 393 | Reg_LFTAIPG | REGLAMENTO de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental | [Markdown](ordenamientos/393/versiones/e862964199c1558f453aa174ac5e58995acd735baeee113b2200dfb16eae4d7f/texto.md) · procesado_con_incidencias |
-| 394 | Reg_LFVV | REGLAMENTO de la Ley Federal de Variedades Vegetales | pendiente |
-| 395 | Reg_LFZEE_290917 | REGLAMENTO de la Ley Federal de Zonas Económicas Especiales | pendiente |
-| 396 | Reg_LFDA | REGLAMENTO de la Ley Federal del Derecho de Autor | pendiente |
-| 397 | Reg_LFCPrecQuim | REGLAMENTO de la Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos | pendiente |
-| 398 | Reg_LFAEBSP | REGLAMENTO de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público | pendiente |
-| 399 | Reg_LFPIORPI | REGLAMENTO de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita | pendiente |
-| 400 | Reg_LFMN | REGLAMENTO de la Ley Federal Sobre Metrología y Normalización | pendiente |
-| 401 | Reg_LFMZAAH_031220 | REGLAMENTO de la Ley Federal Sobre Monumentos y Zonas Arqueológicas, Artísticos e Históricos | pendiente |
-| 402 | Reg_LGAMVLV | REGLAMENTO de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia | pendiente |
-| 403 | Reg_LGCC_MRNE_281014 | REGLAMENTO de la Ley General de Cambio Climático en Materia del Registro Nacional de Emisiones | pendiente |
+| 394 | Reg_LFVV | REGLAMENTO de la Ley Federal de Variedades Vegetales | [Markdown](ordenamientos/394/versiones/01bcad0cea82074d4d04f2744b39a031ac8558d7d0ca4d39769cad874ae52069/texto.md) · procesado_con_incidencias |
+| 395 | Reg_LFZEE_290917 | REGLAMENTO de la Ley Federal de Zonas Económicas Especiales | [Markdown](ordenamientos/395/versiones/1c17200c0828e41867cd499625b9784e3646d4e3e34ea3f343829072a8256b3d/texto.md) · procesado_con_incidencias |
+| 396 | Reg_LFDA | REGLAMENTO de la Ley Federal del Derecho de Autor | [Markdown](ordenamientos/396/versiones/3390af5e87bcd476406d81c389e98ca22c022a6a3abd9942d9674b3112108556/texto.md) · procesado_con_incidencias |
+| 397 | Reg_LFCPrecQuim | REGLAMENTO de la Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos | [Markdown](ordenamientos/397/versiones/8cd9a240a014896a953612c84ebf375d3ba6ba42005ef2de73df48d9ae23467b/texto.md) · procesado_con_incidencias |
+| 398 | Reg_LFAEBSP | REGLAMENTO de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público | [Markdown](ordenamientos/398/versiones/19124142516d35ceeaee4011a68e03fce1bc5f7a7098b9962158ff7ff7a077c0/texto.md) · procesado_con_incidencias |
+| 399 | Reg_LFPIORPI | REGLAMENTO de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita | [Markdown](ordenamientos/399/versiones/9493c645dc0665ae3dac752b4af214c10b347393414d6b0f2a4880633d6305b9/texto.md) · procesado_con_incidencias |
+| 400 | Reg_LFMN | REGLAMENTO de la Ley Federal Sobre Metrología y Normalización | [Markdown](ordenamientos/400/versiones/a9a9ccb6c46934978dff09b5bae4d684a789566db2f823b9e2b25ac732bb7223/texto.md) · procesado_con_incidencias |
+| 401 | Reg_LFMZAAH_031220 | REGLAMENTO de la Ley Federal Sobre Monumentos y Zonas Arqueológicas, Artísticos e Históricos | [Markdown](ordenamientos/401/versiones/71d7edb3915bbf39ab22cecf6ff27f992be421c403620ce2395766c783362fb5/texto.md) · procesado_con_incidencias |
+| 402 | Reg_LGAMVLV | REGLAMENTO de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia | [Markdown](ordenamientos/402/versiones/7ed114566f83c13a880a460a5a5eb7c8b2a1f115562696c25d8abb2bd0731316/texto.md) · procesado_con_incidencias |
+| 403 | Reg_LGCC_MRNE_281014 | REGLAMENTO de la Ley General de Cambio Climático en Materia del Registro Nacional de Emisiones | [Markdown](ordenamientos/403/versiones/dd8098d4646246c99257f1e1ef9753381c6bcb4c7a32a408fdbb2badd93aa545/texto.md) · procesado_con_incidencias |
 | 404 | Reg_LGCFD | REGLAMENTO de la Ley General de Cultura Física y Deporte | pendiente |
 | 405 | Reg_LGCDC_291118 | REGLAMENTO de la Ley General de Cultura y Derechos Culturales | pendiente |
 | 406 | Reg_LGDFS | REGLAMENTO de la Ley General de Desarrollo Forestal Sustentable | pendiente |
