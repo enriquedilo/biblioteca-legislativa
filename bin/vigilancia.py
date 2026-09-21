@@ -40,7 +40,10 @@ PREFIJO = 262144           # 256 KB
 LIMITE_DESCARGA = 12 << 20  # 12 MB: por encima se usa el prefijo salvo --forzar
 
 CATALOGOS = {
-    "Sinaloa": "https://gaceta.congresosinaloa.gob.mx/#/leyes",
+    # La Gaceta es una aplicación de una sola página: su raíz no responde a una
+    # petición simple (URLError en cada corrida). Se vigila la página del
+    # Congreso que publica el listado, que sí es HTML servido.
+    "Sinaloa": "https://www.congresosinaloa.gob.mx/leyes-estatales/",
     "Nayarit": "https://congresonayarit.gob.mx/legislacion-estatal/",
     "Federal": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
 }
