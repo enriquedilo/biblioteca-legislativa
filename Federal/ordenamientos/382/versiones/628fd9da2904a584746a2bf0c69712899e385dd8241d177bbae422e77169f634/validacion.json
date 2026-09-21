@@ -1,0 +1,502 @@
+{
+  "id": 382,
+  "fecha_revision": "2026-09-21T06:01:47.281760+00:00",
+  "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 15,
+  "paginas_sin_texto": [],
+  "pagina_blanca_confirmada_visualmente": false,
+  "texto_conservado": true,
+  "comparacion_word_pdf": {
+    "palabras_comparadas": 6201,
+    "palabras_pdf": 6589,
+    "frecuencias_coinciden": false,
+    "orden_coincide_separando_nota_al_pie": false,
+    "nota_al_pie_reubicada_por_lector_word": null,
+    "normalizaciones_solo_comparacion": [
+      "Misma función lexical_tokens de Sinaloa; no modifica los originales ni el Markdown."
+    ],
+    "limite": "Campos Word y encabezados permanecen en el control; las diferencias se reportan sin reparación.",
+    "solo_word": {
+      "embed": 1,
+      "word": 1,
+      "picture": 1,
+      "page": 1
+    },
+    "solo_pdf": {
+      "reglamento": 14,
+      "de": 84,
+      "la": 28,
+      "ley": 14,
+      "federal": 14,
+      "las": 14,
+      "entidades": 14,
+      "paraestatales": 14,
+      "cámara": 14,
+      "diputados": 14,
+      "del": 14,
+      "h": 14,
+      "congreso": 14,
+      "unión": 14,
+      "última": 14,
+      "reforma": 14,
+      "dof": 14,
+      "secretaría": 28,
+      "general": 14,
+      "servicios": 14,
+      "parlamentarios": 14
+    }
+  },
+  "articulos_word": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46"
+  ],
+  "articulos_pdf": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "artículo56de",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46"
+  ],
+  "identificadores_articulos_coinciden": false,
+  "encabezados_transitorios": [
+    {
+      "pagina": 13,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 14,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 15,
+      "encabezado": "TRANSITORIOS"
+    }
+  ],
+  "encabezados_ordinales_en_seccion_transitoria": [
+    "PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario",
+    "SEGUNDO.- Se derogan todas las disposiciones reglamentarias y administrativas que se opongan a",
+    "TERCERO.- Los titulares de las entidades paraestatales deberán someter a la aprobación de la",
+    "ARTICULO UNICO.- Se reforma el primer párrafo y se adiciona un segundo párrafo del artículo 5o., y",
+    "UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "ARTÍCULO ÚNICO.- Se REFORMA el artículo 2, en sus fracciones III y IV, y se ADICIONA el artículo",
+    "PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario",
+    "SEGUNDO. La unidad jurídica y el área a cargo de las tecnologías de la información de la Secretaría",
+    "TERCERO. Los organismos descentralizados de la Administración Pública Federal deberán realizar",
+    "CUARTO. Las erogaciones que, en su caso, se generen con motivo de la operación, acceso e"
+  ],
+  "articulos_numericos_en_seccion_transitoria": [],
+  "transitorios_y_notas_completos_incluidos": true,
+  "paginas_cotejadas_visualmente": [],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 2602,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 2466,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 2747,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 2833,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 2730,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 2747,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 2710,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 3258,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 2122,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 15,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 2892,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 11,
+      "caracteres_no_blancos": 2618,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 12,
+      "caracteres_no_blancos": 2830,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 13,
+      "caracteres_no_blancos": 2078,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 14,
+      "caracteres_no_blancos": 986,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 15,
+      "caracteres_no_blancos": 2006,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    }
+  ],
+  "alcance": "Controles de conservación en todas las páginas; comparación de cifras con Poppler y pypdf. El cotejo visual se registra por separado. No certifica vigencia jurídica.",
+  "incidencias_resueltas": [],
+  "diferencias_de_fuente": [
+    "La secuencia de encabezados numéricos difiere Word/PDF; consultar contadores y evidencia. No se corrige.",
+    "La comparación léxica Word/PDF no coincide: encabezados repetidos, campos Word y otras diferencias pendientes de cotejo. No equivale a pérdida del Markdown.",
+    "El control original con retirada de paginación difiere. Se conserva el resultado y se añade comparación simétrica de cifras sin retirar paginación.",
+    "Hay discrepancias en la secuencia de cifras entre los dos lectores PDF; requieren cotejo, no se reparan.",
+    "Word original .doc conservado por autorización expresa del usuario; no se fabrica original.docx."
+  ],
+  "formato_word_original": "doc",
+  "ocr_ejecutado": false,
+  "incidencias_descarga": [],
+  "promociones_encabezado_evitadas": [
+    {
+      "linea": 28,
+      "texto": "artículo 56 de la Ley, quedan comprendidas las funciones de apoyo al seguimiento de programas",
+      "anterior": "ARTICULO 21.- En los fines que a los comités o subcomités técnicos especializados les señala el",
+      "siguiente": "especiales, a la instrumentación de los procesos do modernización, al aprovechamiento de equipos e",
+      "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+      "pagina": 7
+    }
+  ],
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-21T06:01:47.281760+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "decreto_numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.edicion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.fecha",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.seccion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "reformas",
+        "motivo": "Notas literales conservadas con todas las fechas; fecha escalar null si hay varias. Números de diario/decreto no impresos quedan null. Captura automática pendiente de revisión."
+      },
+      {
+        "campo": "abroga",
+        "motivo": "No se localizaron cláusulas con la forma expresa se abroga/queda abrogado; arreglo vacío pendiente de cotejo."
+      },
+      {
+        "campo": "abrogacion_programada",
+        "motivo": "Portada/encabezado sin declaración identificada de abrogación o término de vigencia en fecha cierta; null."
+      }
+    ],
+    "evidencia": {
+      "abroga": [],
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "REGLAMENTO DE LA LEY FEDERAL DE LAS ENTIDADES PARAESTATALES Nuevo Reglamento publicado en el Diario Oficial de la Federación el 26 de enero de1990"
+      },
+      "ultima_reforma": {
+        "pagina": 1,
+        "texto": "Última Reforma DOF 23-11-2010"
+      },
+      "reformas": {
+        "pagina_inicio": 2,
+        "encabezado": null,
+        "filas": [
+          {
+            "fila": 0,
+            "texto": "Fracción reformada DOF 23-11-2010",
+            "pagina": 2
+          },
+          {
+            "fila": 1,
+            "texto": "Fracción reformada DOF 23-11-2010",
+            "pagina": 2
+          },
+          {
+            "fila": 2,
+            "texto": "Fracción adicionada DOF 23-11-2010",
+            "pagina": 2
+          },
+          {
+            "fila": 3,
+            "texto": "Capítulo adicionado DOF 23-11-2010",
+            "pagina": 11
+          },
+          {
+            "fila": 4,
+            "texto": "Artículo adicionado DOF 23-11-2010",
+            "pagina": 11
+          },
+          {
+            "fila": 5,
+            "texto": "Artículo adicionado DOF 23-11-2010",
+            "pagina": 11
+          },
+          {
+            "fila": 6,
+            "texto": "Artículo adicionado DOF 23-11-2010",
+            "pagina": 11
+          },
+          {
+            "fila": 7,
+            "texto": "Artículo adicionado DOF 23-11-2010",
+            "pagina": 11
+          },
+          {
+            "fila": 8,
+            "texto": "Artículo adicionado DOF 23-11-2010",
+            "pagina": 12
+          },
+          {
+            "fila": 9,
+            "texto": "Artículo adicionado DOF 23-11-2010",
+            "pagina": 12
+          },
+          {
+            "fila": 10,
+            "texto": "Artículo adicionado DOF 23-11-2010",
+            "pagina": 12
+          },
+          {
+            "fila": 11,
+            "texto": "Artículo adicionado DOF 23-11-2010",
+            "pagina": 12
+          },
+          {
+            "fila": 12,
+            "texto": "Artículo adicionado DOF 23-11-2010",
+            "pagina": 13
+          },
+          {
+            "fila": 13,
+            "texto": "Artículo adicionado DOF 23-11-2010",
+            "pagina": 13
+          },
+          {
+            "fila": 14,
+            "texto": "Artículo adicionado DOF 23-11-2010",
+            "pagina": 13
+          },
+          {
+            "fila": 15,
+            "texto": "Artículo adicionado DOF 23-11-2010",
+            "pagina": 13
+          }
+        ]
+      }
+    }
+  },
+  "normalizacion_millares_encabezados": [],
+  "control_pypdf_informativo": {
+    "fuente": "Usuario; piloto aprobado en la conversación",
+    "descripcion": "pypdf fragmenta números con espacios; verificado por el usuario contra originales en 11 páginas señaladas del CFF y tres de CPEUM. Markdown generado con Poppler.",
+    "decision": "Control informativo, no bloquea lotes y no modifica textos. No se atribuye cotejo visual adicional a Codex."
+  }
+}

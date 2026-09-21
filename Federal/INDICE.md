@@ -381,16 +381,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 371 | Reg_LSEM | REGLAMENTO de la Ley del Servicio Exterior Mexicano | [Markdown](ordenamientos/371/versiones/95bbdecff5cc11f5b2122826907d29f4db05dff1876f6a3ff54d7fe823ea9c16/texto.md) · procesado_con_incidencias |
 | 372 | Reg_LSM_orig_10nov42_ima | REGLAMENTO de la Ley del Servicio Militar | error_reportado |
 | 373 | Reg_LSPCAPF | REGLAMENTO de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal | [Markdown](ordenamientos/373/versiones/6d3bc53ce02947da27398e9f90b2b6253953fa34eb9a1eb43e9f7758c547550a/texto.md) · procesado_con_incidencias |
-| 374 | Reg_LSPEE_MA | REGLAMENTO de la Ley del Servicio Público de Energía Eléctrica, en Materia de Aportaciones | pendiente |
-| 375 | Reg_LFA | REGLAMENTO de la Ley Federal de Archivos | pendiente |
-| 376 | Reg_LFAFE | REGLAMENTO de la Ley Federal de Armas de Fuego y Explosivos | pendiente |
-| 377 | Reg_LFCine | REGLAMENTO de la Ley Federal de Cinematografía | pendiente |
-| 378 | Reg_LFCE | REGLAMENTO de la Ley Federal de Competencia Económica | pendiente |
-| 379 | Reg_LFCP | REGLAMENTO de la Ley Federal de Correduría Pública | pendiente |
-| 380 | Reg_LFFAROSC | REGLAMENTO de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil | pendiente |
-| 381 | Reg_LFJS | REGLAMENTO de la Ley Federal de Juegos y Sorteos | pendiente |
-| 382 | Reg_LFEP | REGLAMENTO de la Ley Federal de las Entidades Paraestatales | pendiente |
-| 383 | Reg_LFPRH | REGLAMENTO de la Ley Federal de Presupuesto y Responsabilidad Hacendaria | pendiente |
+| 374 | Reg_LSPEE_MA | REGLAMENTO de la Ley del Servicio Público de Energía Eléctrica, en Materia de Aportaciones | [Markdown](ordenamientos/374/versiones/e0fc00c09dfebfc211db7f0450f0a55afc268a0c9bef3d7ade1ae7d7207f548b/texto.md) · procesado_con_incidencias |
+| 375 | Reg_LFA | REGLAMENTO de la Ley Federal de Archivos | [Markdown](ordenamientos/375/versiones/aa474be0f4baac7902daf22a6e8949cbb529d9a85c871e7242a20310763e060d/texto.md) · procesado_con_incidencias |
+| 376 | Reg_LFAFE | REGLAMENTO de la Ley Federal de Armas de Fuego y Explosivos | [Markdown](ordenamientos/376/versiones/5f1a8c2456aeb5bd79d4e4e9d6d1e5dce94ef3ae12b8b6a108545fd86e5031d1/texto.md) · procesado_con_incidencias |
+| 377 | Reg_LFCine | REGLAMENTO de la Ley Federal de Cinematografía | [Markdown](ordenamientos/377/versiones/9250f80f2928e6884200a33fb4f470c9f396546dedd0a1067bce901c62495b77/texto.md) · procesado_con_incidencias |
+| 378 | Reg_LFCE | REGLAMENTO de la Ley Federal de Competencia Económica | [Markdown](ordenamientos/378/versiones/15976b2e0ecaf76bb87fba36008aee660b627b8f4a68dc030666b97f3381ec83/texto.md) · procesado_con_incidencias |
+| 379 | Reg_LFCP | REGLAMENTO de la Ley Federal de Correduría Pública | [Markdown](ordenamientos/379/versiones/4c208abe3a350f2a95fc40623f47cd42396f612c33cac4bc5bdffc682db11295/texto.md) · procesado_con_incidencias |
+| 380 | Reg_LFFAROSC | REGLAMENTO de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil | [Markdown](ordenamientos/380/versiones/ea955d155e4589b008323160cc31928e1fbc2b8b84b0126e881e190992cc9474/texto.md) · procesado_con_incidencias |
+| 381 | Reg_LFJS | REGLAMENTO de la Ley Federal de Juegos y Sorteos | [Markdown](ordenamientos/381/versiones/aa391705250b91a6809a107df77d8929e53bd1c8ce84d59f4b46d8643b6d5162/texto.md) · procesado_con_incidencias |
+| 382 | Reg_LFEP | REGLAMENTO de la Ley Federal de las Entidades Paraestatales | [Markdown](ordenamientos/382/versiones/628fd9da2904a584746a2bf0c69712899e385dd8241d177bbae422e77169f634/texto.md) · procesado_con_incidencias |
+| 383 | Reg_LFPRH | REGLAMENTO de la Ley Federal de Presupuesto y Responsabilidad Hacendaria | [Markdown](ordenamientos/383/versiones/7881053c51f128c6646324d6125f2f87e9f0f9206175f80af698b30866a06ac1/texto.md) · procesado_con_incidencias |
 | 384 | Reg_LFPCCS | REGLAMENTO de la Ley Federal de Producción, Certificación y Comercio de Semillas | pendiente |
 | 385 | Reg_LFPPI | REGLAMENTO de la Ley Federal de Protección a la Propiedad Industrial | pendiente |
 | 386 | Reg_LFPC_191219 | REGLAMENTO de la Ley Federal de Protección al Consumidor | pendiente |

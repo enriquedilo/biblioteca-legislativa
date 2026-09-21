@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-21T06:01:36.452301+00:00
+Actualizado: 2026-09-21T06:01:50.889666+00:00
 
-Procesados: **373/453**. Intentados: 374/453. Pendientes reportados: 1.
+Procesados: **383/453**. Intentados: 384/453. Pendientes reportados: 1.
 
-Lote 37 cerrado; publicación por commit del lote.
+Lote 38 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -47,8 +47,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 34 | 10/10 | Publicado |
 | 35 | 10/10 | Publicado |
 | 36 | 10/10 | Publicado |
-| 37 | 10/10 | Cerrado localmente |
-| 38 | 0/10 | Pendiente |
+| 37 | 10/10 | Publicado |
+| 38 | 10/10 | Cerrado localmente |
 | 39 | 0/10 | Pendiente |
 | 40 | 0/10 | Pendiente |
 | 41 | 0/10 | Pendiente |
@@ -432,16 +432,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 37 | 371 | Reg_LSEM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 37 | 372 | Reg_LSM_orig_10nov42_ima | error_reportado | Conversión altera contenido; versión no promovida |
 | 37 | 373 | Reg_LSPCAPF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 38 | 374 | Reg_LSPEE_MA | pendiente | — |
-| 38 | 375 | Reg_LFA | pendiente | — |
-| 38 | 376 | Reg_LFAFE | pendiente | — |
-| 38 | 377 | Reg_LFCine | pendiente | — |
-| 38 | 378 | Reg_LFCE | pendiente | — |
-| 38 | 379 | Reg_LFCP | pendiente | — |
-| 38 | 380 | Reg_LFFAROSC | pendiente | — |
-| 38 | 381 | Reg_LFJS | pendiente | — |
-| 38 | 382 | Reg_LFEP | pendiente | — |
-| 38 | 383 | Reg_LFPRH | pendiente | — |
+| 38 | 374 | Reg_LSPEE_MA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 38 | 375 | Reg_LFA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 38 | 376 | Reg_LFAFE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 38 | 377 | Reg_LFCine | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 38 | 378 | Reg_LFCE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 38 | 379 | Reg_LFCP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 38 | 380 | Reg_LFFAROSC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 38 | 381 | Reg_LFJS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 38 | 382 | Reg_LFEP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 38 | 383 | Reg_LFPRH | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 39 | 384 | Reg_LFPCCS | pendiente | — |
 | 39 | 385 | Reg_LFPPI | pendiente | — |
 | 39 | 386 | Reg_LFPC_191219 | pendiente | — |
