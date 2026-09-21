@@ -421,16 +421,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 411 | Reg_LGPSACDII_100516 | REGLAMENTO de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil | [Markdown](ordenamientos/411/versiones/fb3b4cb4e9dd4fb22110f23a00db45253102d51e6eb134e37ea6de2d6d16d997/texto.md) · procesado_con_incidencias |
 | 412 | Reg_LGPC_091215 | REGLAMENTO de la Ley General de Protección Civil | [Markdown](ordenamientos/412/versiones/14461e38231f53db1114d9f85d23aa11ad946a436f43dba2f555ec1b628da4d3/texto.md) · procesado_con_incidencias |
 | 413 | Reg_LGS_MCSAEPS_orig_18ene88_ima | REGLAMENTO de la Ley General de Salud en Materia de Control Sanitario de Actividades, Establecimientos, Productos y Servicios | error_reportado |
-| 414 | Reg_LGS_MCSOTCSH_orig_20feb85 | REGLAMENTO de la Ley General de Salud en Materia de Control Sanitario de la Disposición de Órganos, Tejidos y Cadáveres de Seres Humanos | pendiente |
-| 415 | Reg_LGS_MCSPIUMC_120121 | REGLAMENTO de la Ley General de Salud en Materia de Control Sanitario para la Producción, Investigación y Uso Medicinal de la Cannabis y sus Derivados Farmacológicos | pendiente |
-| 416 | Reg_LGS_MIS_orig_06ene87 | REGLAMENTO de la Ley General de Salud en Materia de Investigación para la Salud | pendiente |
-| 417 | Reg_LGS_MPSAM_170718 | REGLAMENTO de la Ley General de Salud en Materia de Prestación de Servicios de Atención Médica | pendiente |
-| 418 | Reg_LGS_MP | REGLAMENTO de la Ley General de Salud en Materia de Publicidad | pendiente |
-| 419 | Reg_LGS_MSI | REGLAMENTO de la Ley General de Salud en Materia de Sanidad Internacional | pendiente |
-| 420 | Reg_LGS_MT | REGLAMENTO de la Ley General de Salud en Materia de Trasplantes | pendiente |
-| 421 | Reg_LGT | REGLAMENTO de la Ley General de Turismo | pendiente |
-| 422 | Reg_LGV | REGLAMENTO de la Ley General de Víctimas | pendiente |
-| 423 | Reg_LGVS | REGLAMENTO de la Ley General de Vida Silvestre | pendiente |
+| 414 | Reg_LGS_MCSOTCSH_orig_20feb85 | REGLAMENTO de la Ley General de Salud en Materia de Control Sanitario de la Disposición de Órganos, Tejidos y Cadáveres de Seres Humanos | error_reportado |
+| 415 | Reg_LGS_MCSPIUMC_120121 | REGLAMENTO de la Ley General de Salud en Materia de Control Sanitario para la Producción, Investigación y Uso Medicinal de la Cannabis y sus Derivados Farmacológicos | [Markdown](ordenamientos/415/versiones/1aeb3dc18f128a1e655c862c4f0aaf28c46200a15abc2106d77110c62e03d2ae/texto.md) · procesado_con_incidencias |
+| 416 | Reg_LGS_MIS_orig_06ene87 | REGLAMENTO de la Ley General de Salud en Materia de Investigación para la Salud | error_reportado |
+| 417 | Reg_LGS_MPSAM_170718 | REGLAMENTO de la Ley General de Salud en Materia de Prestación de Servicios de Atención Médica | [Markdown](ordenamientos/417/versiones/70bb10d823dd8428f7198c2169db313fa07bf451c53e42a339e6208152b784b7/texto.md) · procesado_con_incidencias |
+| 418 | Reg_LGS_MP | REGLAMENTO de la Ley General de Salud en Materia de Publicidad | [Markdown](ordenamientos/418/versiones/2d32d89603e36345e24dcc7a3fcfb41bb7300a836226ba0eac2b2b973c58094f/texto.md) · procesado_con_incidencias |
+| 419 | Reg_LGS_MSI | REGLAMENTO de la Ley General de Salud en Materia de Sanidad Internacional | [Markdown](ordenamientos/419/versiones/2510ea877a7ae3d8e95dc246cf19fce76483c4552768a4d4b058fb3a955f413d/texto.md) · procesado_con_incidencias |
+| 420 | Reg_LGS_MT | REGLAMENTO de la Ley General de Salud en Materia de Trasplantes | [Markdown](ordenamientos/420/versiones/1e2534d4deb2086612df04861c2793f77c53226eb7e236b21224c4c02e1dbb09/texto.md) · procesado_con_incidencias |
+| 421 | Reg_LGT | REGLAMENTO de la Ley General de Turismo | [Markdown](ordenamientos/421/versiones/9599e41643bee2b08aeddfa32985d3326425c2adee498b0c6fd75a460d7591c4/texto.md) · procesado_con_incidencias |
+| 422 | Reg_LGV | REGLAMENTO de la Ley General de Víctimas | [Markdown](ordenamientos/422/versiones/fda4dbd92187dc140bdc2da71d926889d5454f9bfba9a9c752ea912ff421a088/texto.md) · procesado_con_incidencias |
+| 423 | Reg_LGVS | REGLAMENTO de la Ley General de Vida Silvestre | [Markdown](ordenamientos/423/versiones/bfab4a750af0df627dad7218382c2be0bf53bcb908b97b303e20efe645d635d4/texto.md) · procesado_con_incidencias |
 | 424 | Reg_LGEEPA_ANP | REGLAMENTO de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Áreas Naturales Protegidas | pendiente |
 | 425 | Reg_LGEEPA_MAAA_311014 | REGLAMENTO de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Autorregulación y Auditorías Ambientales | pendiente |
 | 426 | Reg_LGEEPA_MEIA_311014 | REGLAMENTO de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Evaluación del Impacto Ambiental | pendiente |

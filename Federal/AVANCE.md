@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-21T06:15:18.600460+00:00
+Actualizado: 2026-09-21T06:15:36.978698+00:00
 
-Procesados: **412/453**. Intentados: 414/453. Pendientes reportados: 2.
+Procesados: **420/453**. Intentados: 424/453. Pendientes reportados: 4.
 
-Lote 41 cerrado; publicación por commit del lote.
+Lote 42 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -51,8 +51,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 38 | 10/10 | Publicado |
 | 39 | 10/10 | Publicado |
 | 40 | 10/10 | Publicado |
-| 41 | 10/10 | Cerrado localmente |
-| 42 | 0/10 | Pendiente |
+| 41 | 10/10 | Publicado |
+| 42 | 10/10 | Cerrado localmente |
 | 43 | 0/10 | Pendiente |
 | 44 | 0/10 | Pendiente |
 | 45 | 0/9 | Pendiente |
@@ -472,16 +472,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 41 | 411 | Reg_LGPSACDII_100516 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 41 | 412 | Reg_LGPC_091215 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 41 | 413 | Reg_LGS_MCSAEPS_orig_18ene88_ima | error_reportado | Conversión altera contenido; versión no promovida |
-| 42 | 414 | Reg_LGS_MCSOTCSH_orig_20feb85 | pendiente | — |
-| 42 | 415 | Reg_LGS_MCSPIUMC_120121 | pendiente | — |
-| 42 | 416 | Reg_LGS_MIS_orig_06ene87 | pendiente | — |
-| 42 | 417 | Reg_LGS_MPSAM_170718 | pendiente | — |
-| 42 | 418 | Reg_LGS_MP | pendiente | — |
-| 42 | 419 | Reg_LGS_MSI | pendiente | — |
-| 42 | 420 | Reg_LGS_MT | pendiente | — |
-| 42 | 421 | Reg_LGT | pendiente | — |
-| 42 | 422 | Reg_LGV | pendiente | — |
-| 42 | 423 | Reg_LGVS | pendiente | — |
+| 42 | 414 | Reg_LGS_MCSOTCSH_orig_20feb85 | error_reportado | Conversión altera contenido; versión no promovida |
+| 42 | 415 | Reg_LGS_MCSPIUMC_120121 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 42 | 416 | Reg_LGS_MIS_orig_06ene87 | error_reportado | Conversión altera contenido; versión no promovida |
+| 42 | 417 | Reg_LGS_MPSAM_170718 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 42 | 418 | Reg_LGS_MP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 42 | 419 | Reg_LGS_MSI | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 42 | 420 | Reg_LGS_MT | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 42 | 421 | Reg_LGT | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 42 | 422 | Reg_LGV | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 42 | 423 | Reg_LGVS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 43 | 424 | Reg_LGEEPA_ANP | pendiente | — |
 | 43 | 425 | Reg_LGEEPA_MAAA_311014 | pendiente | — |
 | 43 | 426 | Reg_LGEEPA_MEIA_311014 | pendiente | — |
