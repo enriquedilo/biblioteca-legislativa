@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-21T06:00:32.495870+00:00
+Actualizado: 2026-09-21T06:01:36.452301+00:00
 
-Procesados: **364/453**. Intentados: 364/453. Pendientes reportados: 0.
+Procesados: **373/453**. Intentados: 374/453. Pendientes reportados: 1.
 
-Lote 36 cerrado; publicación por commit del lote.
+Lote 37 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -46,8 +46,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 33 | 10/10 | Publicado |
 | 34 | 10/10 | Publicado |
 | 35 | 10/10 | Publicado |
-| 36 | 10/10 | Cerrado localmente |
-| 37 | 0/10 | Pendiente |
+| 36 | 10/10 | Publicado |
+| 37 | 10/10 | Cerrado localmente |
 | 38 | 0/10 | Pendiente |
 | 39 | 0/10 | Pendiente |
 | 40 | 0/10 | Pendiente |
@@ -422,16 +422,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 36 | 361 | Reg_LIEPS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 36 | 362 | Reg_LISR_060516 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 36 | 363 | Reg_LInfonavit_MTAI | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 37 | 364 | Reg_LIFNCT | pendiente | — |
-| 37 | 365 | Reg_LRPV | pendiente | — |
-| 37 | 366 | Reg_LSE | pendiente | — |
-| 37 | 367 | Reg_LSH | pendiente | — |
-| 37 | 368 | Reg_LSS_MAEBA | pendiente | — |
-| 37 | 369 | Reg_LSS_MACERF | pendiente | — |
-| 37 | 370 | Reg_LSS_RFARGFA | pendiente | — |
-| 37 | 371 | Reg_LSEM | pendiente | — |
-| 37 | 372 | Reg_LSM_orig_10nov42_ima | pendiente | — |
-| 37 | 373 | Reg_LSPCAPF | pendiente | — |
+| 37 | 364 | Reg_LIFNCT | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 37 | 365 | Reg_LRPV | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 37 | 366 | Reg_LSE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 37 | 367 | Reg_LSH | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 37 | 368 | Reg_LSS_MAEBA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 37 | 369 | Reg_LSS_MACERF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 37 | 370 | Reg_LSS_RFARGFA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 37 | 371 | Reg_LSEM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 37 | 372 | Reg_LSM_orig_10nov42_ima | error_reportado | Conversión altera contenido; versión no promovida |
+| 37 | 373 | Reg_LSPCAPF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 38 | 374 | Reg_LSPEE_MA | pendiente | — |
 | 38 | 375 | Reg_LFA | pendiente | — |
 | 38 | 376 | Reg_LFAFE | pendiente | — |

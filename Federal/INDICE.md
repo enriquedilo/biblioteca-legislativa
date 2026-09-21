@@ -371,16 +371,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 361 | Reg_LIEPS | REGLAMENTO de la Ley del Impuesto Especial sobre Producción y Servicios | [Markdown](ordenamientos/361/versiones/17821d70a614080345d84b1719118f484ad9ca263bf4a381a7a616b9e670932d/texto.md) · procesado_con_incidencias |
 | 362 | Reg_LISR_060516 | REGLAMENTO de la Ley del Impuesto sobre la Renta | [Markdown](ordenamientos/362/versiones/21d8c88538d76162cae8cf56cd69ebb5a62c5952fa91aec85c9cf9cfc2ee6545/texto.md) · procesado_con_incidencias |
 | 363 | Reg_LInfonavit_MTAI | REGLAMENTO de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores en Materia de Transparencia y Acceso a la Información | [Markdown](ordenamientos/363/versiones/019d6bc4e6b5f8b1f71b7d6419153e22be195050639cc4bb3a717ee19873a211/texto.md) · procesado_con_incidencias |
-| 364 | Reg_LIFNCT | REGLAMENTO de la Ley del Instituto del Fondo Nacional para el Consumo de los Trabajadores | pendiente |
-| 365 | Reg_LRPV | REGLAMENTO de la Ley del Registro Público Vehicular | pendiente |
-| 366 | Reg_LSE | REGLAMENTO de la Ley del Sector Eléctrico | pendiente |
-| 367 | Reg_LSH | REGLAMENTO de la Ley del Sector Hidrocarburos | pendiente |
-| 368 | Reg_LSS_MAEBA | REGLAMENTO de la Ley del Seguro Social, en materia de administración y enajenación de bienes adjudicados con motivo de la aplicación del procedimiento administrativo de ejecución | pendiente |
-| 369 | Reg_LSS_MACERF | REGLAMENTO de la Ley del Seguro Social en Materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización | pendiente |
-| 370 | Reg_LSS_RFARGFA | REGLAMENTO de la Ley del Seguro Social para la constitución, inversión y uso para la operación de las Reservas Financieras y Actuariales y la Reserva General Financiera y Actuarial, así como para la determinación de los costos financieros que deberán reintegrarse a la Reserva de Operación para Contingencias y Financiamiento | pendiente |
-| 371 | Reg_LSEM | REGLAMENTO de la Ley del Servicio Exterior Mexicano | pendiente |
-| 372 | Reg_LSM_orig_10nov42_ima | REGLAMENTO de la Ley del Servicio Militar | pendiente |
-| 373 | Reg_LSPCAPF | REGLAMENTO de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal | pendiente |
+| 364 | Reg_LIFNCT | REGLAMENTO de la Ley del Instituto del Fondo Nacional para el Consumo de los Trabajadores | [Markdown](ordenamientos/364/versiones/8ef6193d2f126a0f54a937a98f4c13c594cc2ab33a30b2e26981f640d8be79d2/texto.md) · procesado_con_incidencias |
+| 365 | Reg_LRPV | REGLAMENTO de la Ley del Registro Público Vehicular | [Markdown](ordenamientos/365/versiones/1fd3898ba70f7b87d5a25976e6bc2854b99e9440d1acf1deb8f7de150bd58c03/texto.md) · procesado_con_incidencias |
+| 366 | Reg_LSE | REGLAMENTO de la Ley del Sector Eléctrico | [Markdown](ordenamientos/366/versiones/be615e22a271de2d4d1f1a092d0d9cd14d5018c9e12dbe915c23de6c452b1841/texto.md) · procesado_con_incidencias |
+| 367 | Reg_LSH | REGLAMENTO de la Ley del Sector Hidrocarburos | [Markdown](ordenamientos/367/versiones/a465bf75f8a930b8e21b610c2beb824bbf4f690dca1c6cd83d516327a55b26fc/texto.md) · procesado_con_incidencias |
+| 368 | Reg_LSS_MAEBA | REGLAMENTO de la Ley del Seguro Social, en materia de administración y enajenación de bienes adjudicados con motivo de la aplicación del procedimiento administrativo de ejecución | [Markdown](ordenamientos/368/versiones/c80642d36ed8769a26032a2a7c55a50a6aa35d6de55865f834852d0a8ab018f3/texto.md) · procesado_con_incidencias |
+| 369 | Reg_LSS_MACERF | REGLAMENTO de la Ley del Seguro Social en Materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización | [Markdown](ordenamientos/369/versiones/144990700762df58f4cd6ffadeb5d98d0605a5141a3bdc50669ed776c29f54d6/texto.md) · procesado_con_incidencias |
+| 370 | Reg_LSS_RFARGFA | REGLAMENTO de la Ley del Seguro Social para la constitución, inversión y uso para la operación de las Reservas Financieras y Actuariales y la Reserva General Financiera y Actuarial, así como para la determinación de los costos financieros que deberán reintegrarse a la Reserva de Operación para Contingencias y Financiamiento | [Markdown](ordenamientos/370/versiones/d3afe8dff23fed7a893e8e63df0c34e456786c70be44760a51490ba440163443/texto.md) · procesado_con_incidencias |
+| 371 | Reg_LSEM | REGLAMENTO de la Ley del Servicio Exterior Mexicano | [Markdown](ordenamientos/371/versiones/95bbdecff5cc11f5b2122826907d29f4db05dff1876f6a3ff54d7fe823ea9c16/texto.md) · procesado_con_incidencias |
+| 372 | Reg_LSM_orig_10nov42_ima | REGLAMENTO de la Ley del Servicio Militar | error_reportado |
+| 373 | Reg_LSPCAPF | REGLAMENTO de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal | [Markdown](ordenamientos/373/versiones/6d3bc53ce02947da27398e9f90b2b6253953fa34eb9a1eb43e9f7758c547550a/texto.md) · procesado_con_incidencias |
 | 374 | Reg_LSPEE_MA | REGLAMENTO de la Ley del Servicio Público de Energía Eléctrica, en Materia de Aportaciones | pendiente |
 | 375 | Reg_LFA | REGLAMENTO de la Ley Federal de Archivos | pendiente |
 | 376 | Reg_LFAFE | REGLAMENTO de la Ley Federal de Armas de Fuego y Explosivos | pendiente |
