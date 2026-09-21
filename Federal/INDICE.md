@@ -230,7 +230,7 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 220 | LGV | LEY General de Víctimas | [Markdown](ordenamientos/220/versiones/7fdee2d94eb4a10510b48af0012f6e0643feffd1131d624db8a16147a3b23daa/texto.md) · procesado_con_incidencias |
 | 221 | LGVS | LEY General de Vida Silvestre | [Markdown](ordenamientos/221/versiones/ec489a19131494136f8ac6537a3d2a0ead56c9837ea29f36fb390d9365249a34/texto.md) · procesado_con_incidencias |
 | 222 | LGEEPA | LEY General del Equilibrio Ecológico y la Protección al Ambiente | [Markdown](ordenamientos/222/versiones/2df7eef84a04688f0a0694497b5857016170e96c173d7ac7a4a23a21591b3a0e/texto.md) · procesado_con_incidencias |
-| 223 | LGSMIME | LEY General del Sistema de Medios de Impugnación en Materia Electoral | [Markdown](ordenamientos/223/versiones/f8a480fed36d932121ee1a6af05fcb995367faca5d3d769cc80e4cb85312b430/texto.md) · procesado_con_incidencias |
+| 223 | LGSMIME | LEY General del Sistema de Medios de Impugnación en Materia Electoral | [Markdown](ordenamientos/223/versiones/ebd8fd354060e9fbb1ecd859a48ba7847887b89e5f5aa86335ecd386e662eb87/texto.md) · procesado_con_incidencias |
 | 224 | LGSNA_200521 | LEY General del Sistema Nacional Anticorrupción | [Markdown](ordenamientos/224/versiones/e0e67b0bcbdfdbc76557389c5c9e5fca20b98de31986f1b0dfdcc49ab97fa7d4/texto.md) · procesado_con_incidencias |
 | 225 | LGSNSP | LEY General del Sistema Nacional de Seguridad Pública | [Markdown](ordenamientos/225/versiones/ac10d10ec9562dbdee2efd1674b0a0bbd2354df19fd1b7496e9a8b123fda328f/texto.md) · procesado_con_incidencias |
 | 226 | LGSCMM_300919 | LEY General del Sistema para la Carrera de las Maestras y los Maestros | [Markdown](ordenamientos/226/versiones/228d108a0b6be63e6ffd1eeff14e57c5c60799646c77403d9e6224dff456611c/texto.md) · procesado_con_incidencias |
@@ -319,145 +319,145 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 309 | 271 | LEY Sobre la Aprobación de Tratados Internacionales en Materia Económica | [Markdown](ordenamientos/309/versiones/d60dbf7ccc4cd34d0ba59e88cf1762060a0ef321fe4dc1f8997532e6c82ce580/texto.md) · procesado_con_incidencias |
 | 310 | LSCT | LEY sobre la Celebración de Tratados | [Markdown](ordenamientos/310/versiones/f8895ca71ce60363a7e587aa0f41ec2b7b2f438accbbd0f27f71ff27b649ac6a/texto.md) · procesado_con_incidencias |
 | 311 | LRPCAP | LEY sobre Refugiados, Protección Complementaria y Asilo Político | [Markdown](ordenamientos/311/versiones/94305e9ee6efdc0ad97b1fa384900b03f2e09377bbe66222b44cf96846cb287a/texto.md) · procesado_con_incidencias |
-| 312 | 218 | ORDENANZA General de la Armada | [Markdown](ordenamientos/312/versiones/330e2bbbdd4e8013e823ea34c4b8ee4524d7c50f53e4f247494b15d21268ea14/texto.md) · procesado_con_incidencias |
+| 312 | 218 | ORDENANZA General de la Armada | [Markdown](ordenamientos/312/versiones/2b44eaa2bc087f4835ddc22b31f38f58001078603b2260ab6f3a78c4ce938f4a/texto.md) · procesado_con_incidencias |
 | 313 | PEF_2026 | PRESUPUESTO de Egresos de la Federación para el Ejercicio Fiscal 2026 | [Markdown](ordenamientos/313/versiones/6b1a307f5f63f245c548d499f5364c6fc48a3da4540277fb76ef37a5ec74a075/texto.md) · procesado_con_incidencias |
-| 314 | Reg_Diputados | REGLAMENTO de la Cámara de Diputados | [Markdown](ordenamientos/314/versiones/1a216c35654e9890081655bbdc86bf803f552af2d9fb0f33d3fa8e2b21304fa9/texto.md) · procesado_con_incidencias |
-| 315 | Reg_Senado | REGLAMENTO del Senado de la República | [Markdown](ordenamientos/315/versiones/ee499dc5d1c8b5dc5446a03f788aaed0b3aeb2561ef6a835974fe3288653876b/texto.md) · procesado_con_incidencias |
-| 316 | 219 | REGLAMENTO para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos | [Markdown](ordenamientos/316/versiones/647bea19c5d23a2c1f3e9d22b897683bda354e08b874daa7d435394f85692238/texto.md) · procesado_con_incidencias |
-| 317 | Reg_LAdua | DOF 20/04/2015 | [Markdown](ordenamientos/317/versiones/7d2e1e8e8d6002126865b53b2e98cbec48bd75da76fff075021404fc5410f43f/texto.md) · procesado_con_incidencias |
+| 314 | Reg_Diputados | REGLAMENTO de la Cámara de Diputados | [Markdown](ordenamientos/314/versiones/63dc3286e36f7dd4cdee1126598436b6fc5913cfe0373aa96240cc6981d8769a/texto.md) · procesado_con_incidencias |
+| 315 | Reg_Senado | REGLAMENTO del Senado de la República | [Markdown](ordenamientos/315/versiones/c32e460dd587c293e70163e206af9dbb727ba189f8f7476f5d4edde2da35f340/texto.md) · procesado_con_incidencias |
+| 316 | 219 | REGLAMENTO para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos | [Markdown](ordenamientos/316/versiones/0cfbcca12930c59eeb41d332c951d727d972ecead65c77069b6242842e5f6b64/texto.md) · procesado_con_incidencias |
+| 317 | Reg_LAdua | REGLAMENTO de la Ley Aduanera | [Markdown](ordenamientos/317/versiones/7d1b43d3d249674e3ff96244a99b452b99fa62995e0e50e42f8585256ba67c74/texto.md) · procesado_con_incidencias |
 | 318 | Reg_LAgra_MCDETS | REGLAMENTO de la Ley Agraria en Materia de Certificación de Derechos Ejidales y Titulación de Solares | [Markdown](ordenamientos/318/versiones/a883212ac8e82e0ea3f73f422a8fdc3a25e0a8d7c58c1f599b1fd00e36907b7d/texto.md) · procesado_con_incidencias |
 | 319 | Reg_LAgra_MOPR | REGLAMENTO de la Ley Agraria en Materia de Ordenamiento de la Propiedad Rural | [Markdown](ordenamientos/319/versiones/76ca40bb9e9f269cbe18a522b61d8e50f848245310def371be403a94515319f4/texto.md) · procesado_con_incidencias |
 | 320 | Reg_LAgra_FODMC | REGLAMENTO de la Ley Agraria para Fomentar la Organización y Desarrollo de la Mujer Campesina | [Markdown](ordenamientos/320/versiones/f1363c44496c74da142434327021cace2f3bedd79a1af653fe4338de4ea8946e/texto.md) · procesado_con_incidencias |
-| 321 | Reg_LAASSP | DOF 18/12/2025 | [Markdown](ordenamientos/321/versiones/9c47217a7d121100024c21e3bfe04d4cdb28bbfde0c0b13a145b75d23b1bb67d/texto.md) · procesado_con_incidencias |
-| 322 | Reg_LAero | DOF 17/02/2000 | [Markdown](ordenamientos/322/versiones/78628510116d92b3c6107831668c6f27ee2d994227249ee729e861267302a28a/texto.md) · procesado_con_incidencias |
-| 323 | Reg_LAN_250814 | DOF 12/01/1994 | [Markdown](ordenamientos/323/versiones/8a9625cc74cafca3b95da7a8168a5583bb6cb626175682d4131c03b3e328739b/texto.md) · procesado_con_incidencias |
-| 324 | Reg_LAAM | DOF 09/11/2006 | [Markdown](ordenamientos/324/versiones/3880100351699a51de1dc0283970aa7a2182a7e19aa96a65977f26a730e2142d/texto.md) · procesado_con_incidencias |
-| 325 | Reg_LAREFAGN | DOF 19/07/2004 | [Markdown](ordenamientos/325/versiones/48dda2c086cfcaa9cbb9ce48d70b7d75470cb15d8ee4aac9191dd72547a4d252/texto.md) · procesado_con_incidencias |
-| 326 | Reg_LAPP_200217 | DOF 05/11/2012 | [Markdown](ordenamientos/326/versiones/34c433f79c4c1c8705d1013ca1ea29e249944d528666206d7db3d6dbe37a716a/texto.md) · procesado_con_incidencias |
-| 327 | Reg_LARCP | DOF 06/11/2003 | [Markdown](ordenamientos/327/versiones/95678c25ec660c958a1f4719151a66b1554442821b8f376e5e242ae7398d5eed/texto.md) · procesado_con_incidencias |
-| 328 | Reg_LAC | DOF 07/12/1998 | [Markdown](ordenamientos/328/versiones/62b67de6d0e58736ee2c48020938feab4c339f0650b775262b3aae5b026079e2/texto.md) · procesado_con_incidencias |
+| 321 | Reg_LAASSP | REGLAMENTO de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público | [Markdown](ordenamientos/321/versiones/5ba76d95bbec8941556716c671c38f8f57dce82aed99a9a11147ff82bff2defd/texto.md) · procesado_con_incidencias |
+| 322 | Reg_LAero | REGLAMENTO de la Ley de Aeropuertos | [Markdown](ordenamientos/322/versiones/b4223958fe88a06c3e4424609505264333a722b79243fb3bdbe7073b25a30947/texto.md) · procesado_con_incidencias |
+| 323 | Reg_LAN_250814 | REGLAMENTO de la Ley de Aguas Nacionales | [Markdown](ordenamientos/323/versiones/3dac7bc5006182e51d00779de374d61f0ac08d65e57f3334a2f0b8f537bf92cd/texto.md) · procesado_con_incidencias |
+| 324 | Reg_LAAM | REGLAMENTO de la Ley de Ascensos de la Armada de México | [Markdown](ordenamientos/324/versiones/d15383296f5850ac36d10519e26287bf7372918e2d1bf0ba314ad6e94027b933/texto.md) · procesado_con_incidencias |
+| 325 | Reg_LAREFAGN | REGLAMENTO de la Ley de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional | [Markdown](ordenamientos/325/versiones/f941ec58a807444ef64e6a1eeeec55232de5091e9552b6b91ff042e7d2e587d5/texto.md) · procesado_con_incidencias |
+| 326 | Reg_LAPP_200217 | REGLAMENTO de la Ley de Asociaciones Público Privadas | [Markdown](ordenamientos/326/versiones/160e6a0e02449cf5bdbcd417b7bf331a871915d7bcd8f7d0e97d58cdc2044bd1/texto.md) · procesado_con_incidencias |
+| 327 | Reg_LARCP | REGLAMENTO de la Ley de Asociaciones Religiosas y Culto Público | [Markdown](ordenamientos/327/versiones/9c9444f5b2111f5cb424c49aa3739d7c4c2dc63efad22d05e89bf950c66486b9/texto.md) · procesado_con_incidencias |
+| 328 | Reg_LAC | REGLAMENTO de la Ley de Aviación Civil | [Markdown](ordenamientos/328/versiones/bdf97056a0f54a5014e9657f40267a06b072a2a66518ad9e678dbcf892aa60ae/texto.md) · procesado_con_incidencias |
 | 329 | Reg_LAAT_040615 | REGLAMENTO de la Ley de Ayuda Alimentaria para los Trabajadores | [Markdown](ordenamientos/329/versiones/0def553fc2f18bc9d363be7ecb6884e87e0dfdeb01135f8d3ac124453ce71d2b/texto.md) · procesado_con_incidencias |
-| 330 | Reg_LBio | DOF 03/10/2025 | [Markdown](ordenamientos/330/versiones/b18add8b10852e9d1da6f4b9fe516bdd6af7787461fe86ad087ce4b51e882df6/texto.md) · procesado_con_incidencias |
-| 331 | Reg_LBOGM | DOF 19/03/2008 | [Markdown](ordenamientos/331/versiones/edd786bb4f3d13d9beff9f907d5768621619ea6680053ad3f14a5bfe9f487bcc/texto.md) · procesado_con_incidencias |
-| 332 | Reg_LCEC | DOF 09/02/2012 | [Markdown](ordenamientos/332/versiones/8a55673fa5f1b1b50e4404c933e1aa253032a270522c6d8f157e762822b4da39/texto.md) · procesado_con_incidencias |
-| 333 | Reg_LCE | DOF 30/12/1993 | [Markdown](ordenamientos/333/versiones/b4d18e32886cfa0e00a6d2037a9592f4db30f4a16ad0b2165f7fae55c9dfcc54/texto.md) · procesado_con_incidencias |
+| 330 | Reg_LBio | REGLAMENTO de la Ley de Biocombustibles | [Markdown](ordenamientos/330/versiones/98ffcb57c01349959f36ffb79ad2735815647b38836d1ab30d13449f4a63ecdd/texto.md) · procesado_con_incidencias |
+| 331 | Reg_LBOGM | REGLAMENTO de la Ley de Bioseguridad de Organismos Genéticamente Modificados | [Markdown](ordenamientos/331/versiones/9f5aa1f5ae515115a7fac59ba1c7a6e0ad4adac75109af6aa2a716a0b819e351/texto.md) · procesado_con_incidencias |
+| 332 | Reg_LCEC | REGLAMENTO de la Ley de Cámaras Empresariales y sus Confederaciones | [Markdown](ordenamientos/332/versiones/fe7d7a095e9413a63bc63606f388db787b1666f05c0e64d7d25f90f2eacd8a7c/texto.md) · procesado_con_incidencias |
+| 333 | Reg_LCE | REGLAMENTO de la Ley de Comercio Exterior | [Markdown](ordenamientos/333/versiones/b4bdae3b1ab6e04331119778b93f7d7d8a06bb1f5a671f7f55302fcca4d75813/texto.md) · procesado_con_incidencias |
 | 334 | Reg_LDRS_MOIRSSE | REGLAMENTO de la Ley de Desarrollo Rural Sustentable en Materia de Organismos, Instancias de Representación, Sistemas y Servicios Especializados | [Markdown](ordenamientos/334/versiones/7a2fdb99ce0c451001e042c2fb1785d702822823b976473f8371d782dde863cc/texto.md) · procesado_con_incidencias |
-| 335 | Reg_LEMEFAGN | DOF 14/08/2006 | [Markdown](ordenamientos/335/versiones/09924a5c213f4afd574c83511ea0be785e064a3fde91a13ee7f3ad7a7f5939a1/texto.md) · procesado_con_incidencias |
-| 336 | Reg_LEN_270120 | DOF 27/01/2020 | [Markdown](ordenamientos/336/versiones/93d4bc24a01d5e3246a752c30eecf7b2571f112316fa49ae0cb462f7c7761eb9/texto.md) · procesado_con_incidencias |
+| 335 | Reg_LEMEFAGN | REGLAMENTO de la Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional | [Markdown](ordenamientos/335/versiones/1f9910e348b8be2b560fb967bb8bf2f75417ec133e2574cb066d5659723d7279/texto.md) · procesado_con_incidencias |
+| 336 | Reg_LEN_270120 | REGLAMENTO de la Ley de Educación Naval | [Markdown](ordenamientos/336/versiones/c0fe8ed25d2b3842383531304a77f97d0df02f2272351fff6cda6f7d2e086d1f/texto.md) · procesado_con_incidencias |
 | 337 | Reg_LECampo | REGLAMENTO de la Ley de Energía para el Campo | [Markdown](ordenamientos/337/versiones/f4a463f5940c0584403d8089e713428d0de303a850e377e681b0235afea3b5aa/texto.md) · procesado_con_incidencias |
 | 338 | Reg_LFEA | REGLAMENTO de la Ley de Firma Electrónica Avanzada | [Markdown](ordenamientos/338/versiones/35f4357ad02546e65c81a292248beddd316698384b9574b1666caa205efa84e6/texto.md) · procesado_con_incidencias |
 | 339 | Reg_LFLL | REGLAMENTO de la Ley de Fomento para la Lectura y el Libro | [Markdown](ordenamientos/339/versiones/d2beb2d2385e169456bec85992228920abc3c8c9ce279ca84da99c992c5d7361/texto.md) · procesado_con_incidencias |
-| 340 | Reg_LGeo | DOF 03/10/2025 | [Markdown](ordenamientos/340/versiones/f9d3fd95b3b1d5c22f0acd7b9b8ab628d85f4f35cefca184b16c7938483ccc4a/texto.md) · procesado_con_incidencias |
-| 341 | Reg_LIEG | DOF 03/11/1982 | [Markdown](ordenamientos/341/versiones/af3a844239531c316f424427a833a47788e8e74492d2c72e50a48146eeaaece4/texto.md) · procesado_con_incidencias |
-| 342 | Reg_LIH | DOF 31/10/2014 | [Markdown](ordenamientos/342/versiones/d7031b8216d2408bb1eb4059303b58542f277ca45e4972e1d21965a0038a325e/texto.md) · procesado_con_incidencias |
-| 343 | Reg_LIERNIE_170816 | DOF 08/09/1998 | [Markdown](ordenamientos/343/versiones/ee3ba3ee316130e0e9121c7d89d3822c001d44780d25563129fb906e7e723d3f/texto.md) · procesado_con_incidencias |
-| 344 | Reg_LEPECFE | DOF 02/12/2025 | [Markdown](ordenamientos/344/versiones/0e11f7361956655792d08e6ce084f83293a2d21d9db0f1513873f6f4fa77a706/texto.md) · procesado_con_incidencias |
-| 345 | Reg_LEPEPM | DOF 03/12/2025 | [Markdown](ordenamientos/345/versiones/fb975b6dcaf9b2083077555a1edc6c1f32086507626c3111c9a03a01858bf323/texto.md) · procesado_con_incidencias |
-| 346 | Reg_LGN_111220 | DOF 29/06/2019 | [Markdown](ordenamientos/346/versiones/651f03e1d2cb28a4e08d218714dee265b035037ba84b51e6ddcca3ae47be899b/texto.md) · procesado_con_incidencias |
-| 347 | Reg_LPF_220814 | DOF 17/05/2010 | [Markdown](ordenamientos/347/versiones/d543c3ddb3816fe0cf39143ce1f6e50b9fb33047a44fdb844375b4e77902764c/texto.md) · procesado_con_incidencias |
-| 348 | Reg_LSAR | DOF 24/08/2009 | [Markdown](ordenamientos/348/versiones/a9d6c3ebad86c8714f3f54b706314a1a5635e5b99a56e3edec11148e68c8b551/texto.md) · procesado_con_incidencias |
-| 349 | Reg_LMigra | DOF 28/09/2012 | [Markdown](ordenamientos/349/versiones/355cb9d0045015d01f12c2c82783b8e6f715d7d1fe20a2e62acb96b4c35efaf4/texto.md) · procesado_con_incidencias |
-| 350 | Reg_LNac | DOF 17/06/2009 | [Markdown](ordenamientos/350/versiones/f8e29d0738e1e5dcf32aed21669d797a3bef293f7c4eb541957f603907b6b674/texto.md) · procesado_con_incidencias |
+| 340 | Reg_LGeo | REGLAMENTO de la Ley de Geotermia | [Markdown](ordenamientos/340/versiones/2a541230db6aa1b08079198365a15793ce9738ca911b5f0c4ca8a7bcdf522319/texto.md) · procesado_con_incidencias |
+| 341 | Reg_LIEG | REGLAMENTO de la Ley de Información Estadística y Geográfica | [Markdown](ordenamientos/341/versiones/e6ed1b99ecffbda04d5658bafd5ade0d250266b5d4913774c3ffaebe6af1ac9e/texto.md) · procesado_con_incidencias |
+| 342 | Reg_LIH | REGLAMENTO de la Ley de Ingresos sobre Hidrocarburos | [Markdown](ordenamientos/342/versiones/79f21a27db0a8027b0b40fbf445f24c64c2045f2a4ad21d1aeadccab77dd4a86/texto.md) · procesado_con_incidencias |
+| 343 | Reg_LIERNIE_170816 | REGLAMENTO de la Ley de Inversión Extranjera y del Registro Nacional de Inversiones Extranjeras | [Markdown](ordenamientos/343/versiones/1520f82b89b296623123a63004a740091dae8f2048040fda52f0cbc32c7e4d30/texto.md) · procesado_con_incidencias |
+| 344 | Reg_LEPECFE | REGLAMENTO de la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad | [Markdown](ordenamientos/344/versiones/21c9abe2d7f93d4df2163b9c1bba73a84d8e10bf41c50e36904f0117058ff235/texto.md) · procesado_con_incidencias |
+| 345 | Reg_LEPEPM | REGLAMENTO de la Ley de la Empresa Pública del Estado, Petróleos Mexicanos | [Markdown](ordenamientos/345/versiones/2d0388de2f8a93a35e3dd45666c083956a982c62cfb85b7daac0b14b55e8030b/texto.md) · procesado_con_incidencias |
+| 346 | Reg_LGN_111220 | REGLAMENTO de la Ley de la Guardia Nacional | [Markdown](ordenamientos/346/versiones/5b9661b4f64859228eb63041061fb7ef9eb5c16b2fb20ee22dc5de132f8879ff/texto.md) · procesado_con_incidencias |
+| 347 | Reg_LPF_220814 | REGLAMENTO de la Ley de la Policía Federal | [Markdown](ordenamientos/347/versiones/40cfe0229fb12b7555cd151cefb014ab697630ed04905f62cb10d9a58c5ad4ac/texto.md) · procesado_con_incidencias |
+| 348 | Reg_LSAR | REGLAMENTO de la Ley de los Sistemas de Ahorro para el Retiro | [Markdown](ordenamientos/348/versiones/1af3c9987a121a5d140e6474a0c07150f991c1f3a763cea46a1411fbe76b2e19/texto.md) · procesado_con_incidencias |
+| 349 | Reg_LMigra | REGLAMENTO de la Ley de Migración | [Markdown](ordenamientos/349/versiones/06b3de9dd54442a02ba5d4b2d8340ddfe985522a3963262d548e78e2b5f36fbd/texto.md) · procesado_con_incidencias |
+| 350 | Reg_LNac | REGLAMENTO de la Ley de Nacionalidad | [Markdown](ordenamientos/350/versiones/f456033d2b66dcbec3185cf768659239978521940b91967b4bd4bee66f082ec5/texto.md) · procesado_con_incidencias |
 | 351 | Reg_LNCM_040315 | REGLAMENTO de la Ley de Navegación y Comercio Marítimos | [Markdown](ordenamientos/351/versiones/d1af54ebe555804858b3d826cd206660e10f25c06d26169a4ef925c9d5636c39/texto.md) · procesado_con_incidencias |
-| 352 | Reg_LOPSRM | DOF 28/07/2010 | [Markdown](ordenamientos/352/versiones/82edbe23cc402dc63101df958757f10f376750d53d4220ee0a880fddb054a58e/texto.md) · procesado_con_incidencias |
-| 353 | Reg_LOGan | DOF 24/12/1999 | [Markdown](ordenamientos/353/versiones/071f6e8b09e015d4b96935fac60d0dbba382fe6df4db8a9638df209542a9472c/texto.md) · procesado_con_incidencias |
-| 354 | Reg_LPesca | DOF 29/09/1999 | pendiente |
-| 355 | Reg_LPTE | DOF 03/10/2025 | pendiente |
-| 356 | Reg_LPO | DOF 01/04/2010 | pendiente |
-| 357 | Reg_LPEAM | DOF 10/02/2026 | pendiente |
-| 358 | Reg_LPue | DOF 16/12/2021 | pendiente |
-| 359 | Reg_LTF_300617 | REGLAMENTO de la Ley de Tesorería de la Federación | pendiente |
-| 360 | Reg_LIVA_250914 | DOF 04/12/2006 | pendiente |
-| 361 | Reg_LIEPS | REGLAMENTO de la Ley del Impuesto Especial sobre Producción y Servicios | pendiente |
-| 362 | Reg_LISR_060516 | DOF 08/10/2015 | pendiente |
-| 363 | Reg_LInfonavit_MTAI | DOF 12/12/2005 | pendiente |
-| 364 | Reg_LIFNCT | REGLAMENTO de la Ley del Instituto del Fondo Nacional para el Consumo de los Trabajadores | pendiente |
-| 365 | Reg_LRPV | REGLAMENTO de la Ley del Registro Público Vehicular | pendiente |
-| 366 | Reg_LSE | DOF 03/10/2025 | pendiente |
-| 367 | Reg_LSH | DOF 03/10/2025 | pendiente |
-| 368 | Reg_LSS_MAEBA | REGLAMENTO de la Ley del Seguro Social, en materia de administración y enajenación de bienes adjudicados con motivo de la aplicación del procedimiento administrativo de ejecución | pendiente |
-| 369 | Reg_LSS_MACERF | DOF 01/11/2002 | pendiente |
-| 370 | Reg_LSS_RFARGFA | REGLAMENTO de la Ley del Seguro Social para la constitución, inversión y uso para la operación de las Reservas Financieras y Actuariales y la Reserva General Financiera y Actuarial, así como para la determinación de los costos financieros que deberán reintegrarse a la Reserva de Operación para Contingencias y Financiamiento | pendiente |
-| 371 | Reg_LSEM | DOF 28/04/2017 | pendiente |
-| 372 | Reg_LSM_orig_10nov42_ima | DOF 10/11/1942 | pendiente |
-| 373 | Reg_LSPCAPF | DOF 06/09/2007 | pendiente |
-| 374 | Reg_LSPEE_MA | DOF 10/11/1998 | pendiente |
-| 375 | Reg_LFA | REGLAMENTO de la Ley Federal de Archivos | pendiente |
-| 376 | Reg_LFAFE | REGLAMENTO de la Ley Federal de Armas de Fuego y Explosivos | pendiente |
-| 377 | Reg_LFCine | REGLAMENTO de la Ley Federal de Cinematografía | pendiente |
-| 378 | Reg_LFCE | REGLAMENTO de la Ley Federal de Competencia Económica | pendiente |
-| 379 | Reg_LFCP | DOF 04/06/1993 | pendiente |
-| 380 | Reg_LFFAROSC | REGLAMENTO de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil | pendiente |
-| 381 | Reg_LFJS | DOF 17/09/2004 | pendiente |
-| 382 | Reg_LFEP | DOF 26/01/1990 | pendiente |
-| 383 | Reg_LFPRH | DOF 28/06/2006 | pendiente |
-| 384 | Reg_LFPCCS | REGLAMENTO de la Ley Federal de Producción, Certificación y Comercio de Semillas | pendiente |
-| 385 | Reg_LFPPI | DOF 28/04/2026 | pendiente |
-| 386 | Reg_LFPC_191219 | DOF 19/12/2019 | pendiente |
-| 387 | Reg_LFPDPPP | REGLAMENTO de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares | pendiente |
-| 388 | Reg_LFRT_MCPCTRT | REGLAMENTO de la Ley Federal de Radio y Televisión, en Materia de Concesiones, Permisos y Contenido de las Transmisiones de Radio y Televisión | pendiente |
-| 389 | Reg_LFSA | REGLAMENTO de la Ley Federal de Sanidad Animal | pendiente |
-| 390 | Reg_LFSV | REGLAMENTO de la Ley Federal de Sanidad Vegetal | pendiente |
-| 391 | Reg_LFSP | REGLAMENTO de la Ley Federal de Seguridad Privada | pendiente |
-| 392 | Reg_LFTR_MCSRE | DOF 25/04/2024 | pendiente |
-| 393 | Reg_LFTAIPG | REGLAMENTO de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental | pendiente |
-| 394 | Reg_LFVV | REGLAMENTO de la Ley Federal de Variedades Vegetales | pendiente |
-| 395 | Reg_LFZEE_290917 | DOF 30/06/2016 | pendiente |
-| 396 | Reg_LFDA | DOF 22/05/1998 | pendiente |
-| 397 | Reg_LFCPrecQuim | REGLAMENTO de la Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos | pendiente |
-| 398 | Reg_LFAEBSP | DOF 17/06/2003 | pendiente |
-| 399 | Reg_LFPIORPI | DOF 16/08/2013 | pendiente |
-| 400 | Reg_LFMN | DOF 14/01/1999 | pendiente |
-| 401 | Reg_LFMZAAH_031220 | DOF 08/12/1975 | pendiente |
-| 402 | Reg_LGAMVLV | DOF 11/03/2008 | pendiente |
-| 403 | Reg_LGCC_MRNE_281014 | REGLAMENTO de la Ley General de Cambio Climático en Materia del Registro Nacional de Emisiones | pendiente |
-| 404 | Reg_LGCFD | DOF 23/05/2014 | pendiente |
-| 405 | Reg_LGCDC_291118 | DOF 29/11/2018 | pendiente |
-| 406 | Reg_LGDFS | DOF 09/12/2020 | pendiente |
-| 407 | Reg_LGDS | DOF 18/01/2006 | pendiente |
-| 408 | Reg_LGIFE | REGLAMENTO de la Ley General de la Infraestructura Física Educativa | pendiente |
-| 409 | Reg_LGDNNA | REGLAMENTO de la Ley General de los Derechos de Niñas, Niños y Adolescentes | pendiente |
-| 410 | Reg_LGP | DOF 14/04/2000 | pendiente |
-| 411 | Reg_LGPSACDII_100516 | DOF 22/08/2012 | pendiente |
-| 412 | Reg_LGPC_091215 | DOF 13/05/2014 | pendiente |
-| 413 | Reg_LGS_MCSAEPS_orig_18ene88_ima | DOF 18/01/1988 | pendiente |
-| 414 | Reg_LGS_MCSOTCSH_orig_20feb85 | DOF 20/02/1985 | pendiente |
-| 415 | Reg_LGS_MCSPIUMC_120121 | DOF 12/01/2021 | pendiente |
-| 416 | Reg_LGS_MIS_orig_06ene87 | DOF 06/01/1987 | pendiente |
-| 417 | Reg_LGS_MPSAM_170718 | DOF 14/05/1986 | pendiente |
-| 418 | Reg_LGS_MP | DOF 04/05/2000 | pendiente |
-| 419 | Reg_LGS_MSI | DOF 18/02/1985 | pendiente |
-| 420 | Reg_LGS_MT | REGLAMENTO de la Ley General de Salud en Materia de Trasplantes | pendiente |
-| 421 | Reg_LGT | DOF 06/07/2015 | pendiente |
-| 422 | Reg_LGV | REGLAMENTO de la Ley General de Víctimas | pendiente |
-| 423 | Reg_LGVS | DOF 30/11/2006 | pendiente |
-| 424 | Reg_LGEEPA_ANP | DOF 30/11/2000 | pendiente |
-| 425 | Reg_LGEEPA_MAAA_311014 | DOF 29/04/2010 | pendiente |
-| 426 | Reg_LGEEPA_MEIA_311014 | DOF 30/05/2000 | pendiente |
-| 427 | Reg_LGEEPA_MOE_311014 | DOF 08/08/2003 | pendiente |
-| 428 | Reg_LGEEPA_MPCCA_311014 | DOF 25/11/1988 | pendiente |
-| 429 | Reg_LGEEPA_MRETC_311014 | DOF 03/06/2004 | pendiente |
-| 430 | Reg_LGCT | DOF 31/05/2009 | pendiente |
-| 431 | Reg_LGAPPCEA | REGLAMENTO de la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista | pendiente |
-| 432 | Reg_LGIPD | REGLAMENTO de la Ley General para la Inclusión de las Personas con Discapacidad | pendiente |
-| 433 | Reg_LGPSVD_190914 | REGLAMENTO de la Ley General para la Prevención Social de la Violencia y la Delincuencia | pendiente |
-| 434 | Reg_LGPGIR_311014 | DOF 30/11/2006 | pendiente |
-| 435 | Reg_LGPSEDMTP | REGLAMENTO de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos | pendiente |
-| 436 | Reg_LMin | DOF 12/10/2012 | pendiente |
-| 437 | Reg_LOPGJDF | REGLAMENTO de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal | pendiente |
-| 438 | Reg_LOPGR | DOF 23/07/2012 | pendiente |
-| 439 | Reg_LOINAH_240521 | DOF 24/05/2021 | pendiente |
-| 440 | Reg_LDCMPME_240518 | DOF 24/05/2006 | pendiente |
-| 441 | Reg_LFIIEDB | DOF 08/05/2026 | pendiente |
-| 442 | Reg_LUPDECR | REGLAMENTO de la Ley para el Uso y Protección de la Denominación y del Emblema de la Cruz Roja | pendiente |
-| 443 | Reg_LPPDDHP | REGLAMENTO de la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas | pendiente |
-| 444 | Reg_LFGFAGA_fe_16may55 | DOF 06/05/1955 | pendiente |
-| 445 | Reg_LRMineras | REGLAMENTO de la Ley que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se Obtengan Isótopos Hendibles que puedan Producir Energía Nuclear | pendiente |
-| 446 | Reg_LRArt5C_orig_01oct45 | DOF 01/10/1945 | pendiente |
-| 447 | Reg_LEBHN | DOF 09/09/2025 | pendiente |
-| 448 | Reg_LRPC | REGLAMENTO de la Ley sobre Refugiados y Protección Complementaria | pendiente |
-| 449 | Reg_Art121-122_LFT_050614 | REGLAMENTO de los Artículos 121 y 122 de la Ley Federal del Trabajo | pendiente |
-| 450 | Reg_LFPC_Art122 | REGLAMENTO del Artículo 122 de la Ley Federal de Protección al Consumidor | pendiente |
-| 451 | Reg_LFIF_Art95 | REGLAMENTO del Artículo 95 de la Ley Federal de Instituciones de Fianzas, para el Cobro de Fianzas Otorgadas a Favor de la Federación, del Distrito Federal, de los Estados y de los Municipios, Distintas de las que Garantizan Obligaciones Fiscales Federales a cargo de Terceros | pendiente |
-| 452 | Reg_CComer_MPSC | REGLAMENTO del Código de Comercio en Materia de Prestadores de Servicios de Certificación | pendiente |
+| 352 | Reg_LOPSRM | REGLAMENTO de la Ley de Obras Públicas y Servicios Relacionados con las Mismas | [Markdown](ordenamientos/352/versiones/ae04fbe33880168f0d8f5a06d63ab7b7fcf9d5953958db8b86f6e13090c5a61e/texto.md) · procesado_con_incidencias |
+| 353 | Reg_LOGan | REGLAMENTO de la Ley de Organizaciones Ganaderas | [Markdown](ordenamientos/353/versiones/b6fd1f1333dd7f2685a454fe619146bf189bbe2f552e54533e02bc6d1cebd452/texto.md) · procesado_con_incidencias |
+| 354 | Reg_LPesca | REGLAMENTO de la Ley de Pesca | [Markdown](ordenamientos/354/versiones/79c02844e4c893550485859e8a4365853f593e9406f8142c5f0e36df1602830b/texto.md) · procesado_con_incidencias |
+| 355 | Reg_LPTE | REGLAMENTO de la Ley de Planeación y Transición Energética | [Markdown](ordenamientos/355/versiones/37dcac13db4359eb7064998d2838901d3515fd16d77e1dd64c495b8d87f40fb2/texto.md) · procesado_con_incidencias |
+| 356 | Reg_LPO | REGLAMENTO de la Ley de Productos Orgánicos | [Markdown](ordenamientos/356/versiones/c2364bae59a34e9d7504df21702071a5697de450d0144d58dd41109e1a29a339/texto.md) · procesado_con_incidencias |
+| 357 | Reg_LPEAM | REGLAMENTO de la Ley de Protección del Espacio Aéreo Mexicano | [Markdown](ordenamientos/357/versiones/a0094e6d4ea723932de216ec039994fe63efbe042760c45c349bd8d9f8cb3e3c/texto.md) · procesado_con_incidencias |
+| 358 | Reg_LPue | REGLAMENTO de la Ley de Puertos | [Markdown](ordenamientos/358/versiones/348b1a54f304d3f5b9afa209304487d75418e92a0f56c0c37a312352811b4d41/texto.md) · procesado_con_incidencias |
+| 359 | Reg_LTF_300617 | REGLAMENTO de la Ley de Tesorería de la Federación | [Markdown](ordenamientos/359/versiones/97db84d0ad670c0c3a2bb7513d310396cc0a753cf629f8cc32c47389942d590c/texto.md) · procesado_con_incidencias |
+| 360 | Reg_LIVA_250914 | REGLAMENTO de la Ley del Impuesto al Valor Agregado | [Markdown](ordenamientos/360/versiones/6e6ebcf404a2e6038db5f42de520c93597f9622bf3c42553ece879ec82eb41b0/texto.md) · procesado_con_incidencias |
+| 361 | Reg_LIEPS | REGLAMENTO de la Ley del Impuesto Especial sobre Producción y Servicios | [Markdown](ordenamientos/361/versiones/17821d70a614080345d84b1719118f484ad9ca263bf4a381a7a616b9e670932d/texto.md) · procesado_con_incidencias |
+| 362 | Reg_LISR_060516 | REGLAMENTO de la Ley del Impuesto sobre la Renta | [Markdown](ordenamientos/362/versiones/21d8c88538d76162cae8cf56cd69ebb5a62c5952fa91aec85c9cf9cfc2ee6545/texto.md) · procesado_con_incidencias |
+| 363 | Reg_LInfonavit_MTAI | REGLAMENTO de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores en Materia de Transparencia y Acceso a la Información | [Markdown](ordenamientos/363/versiones/019d6bc4e6b5f8b1f71b7d6419153e22be195050639cc4bb3a717ee19873a211/texto.md) · procesado_con_incidencias |
+| 364 | Reg_LIFNCT | REGLAMENTO de la Ley del Instituto del Fondo Nacional para el Consumo de los Trabajadores | [Markdown](ordenamientos/364/versiones/8ef6193d2f126a0f54a937a98f4c13c594cc2ab33a30b2e26981f640d8be79d2/texto.md) · procesado_con_incidencias |
+| 365 | Reg_LRPV | REGLAMENTO de la Ley del Registro Público Vehicular | [Markdown](ordenamientos/365/versiones/1fd3898ba70f7b87d5a25976e6bc2854b99e9440d1acf1deb8f7de150bd58c03/texto.md) · procesado_con_incidencias |
+| 366 | Reg_LSE | REGLAMENTO de la Ley del Sector Eléctrico | [Markdown](ordenamientos/366/versiones/be615e22a271de2d4d1f1a092d0d9cd14d5018c9e12dbe915c23de6c452b1841/texto.md) · procesado_con_incidencias |
+| 367 | Reg_LSH | REGLAMENTO de la Ley del Sector Hidrocarburos | [Markdown](ordenamientos/367/versiones/a465bf75f8a930b8e21b610c2beb824bbf4f690dca1c6cd83d516327a55b26fc/texto.md) · procesado_con_incidencias |
+| 368 | Reg_LSS_MAEBA | REGLAMENTO de la Ley del Seguro Social, en materia de administración y enajenación de bienes adjudicados con motivo de la aplicación del procedimiento administrativo de ejecución | [Markdown](ordenamientos/368/versiones/c80642d36ed8769a26032a2a7c55a50a6aa35d6de55865f834852d0a8ab018f3/texto.md) · procesado_con_incidencias |
+| 369 | Reg_LSS_MACERF | REGLAMENTO de la Ley del Seguro Social en Materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización | [Markdown](ordenamientos/369/versiones/144990700762df58f4cd6ffadeb5d98d0605a5141a3bdc50669ed776c29f54d6/texto.md) · procesado_con_incidencias |
+| 370 | Reg_LSS_RFARGFA | REGLAMENTO de la Ley del Seguro Social para la constitución, inversión y uso para la operación de las Reservas Financieras y Actuariales y la Reserva General Financiera y Actuarial, así como para la determinación de los costos financieros que deberán reintegrarse a la Reserva de Operación para Contingencias y Financiamiento | [Markdown](ordenamientos/370/versiones/d3afe8dff23fed7a893e8e63df0c34e456786c70be44760a51490ba440163443/texto.md) · procesado_con_incidencias |
+| 371 | Reg_LSEM | REGLAMENTO de la Ley del Servicio Exterior Mexicano | [Markdown](ordenamientos/371/versiones/95bbdecff5cc11f5b2122826907d29f4db05dff1876f6a3ff54d7fe823ea9c16/texto.md) · procesado_con_incidencias |
+| 372 | Reg_LSM_orig_10nov42_ima | REGLAMENTO de la Ley del Servicio Militar | error_reportado |
+| 373 | Reg_LSPCAPF | REGLAMENTO de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal | [Markdown](ordenamientos/373/versiones/6d3bc53ce02947da27398e9f90b2b6253953fa34eb9a1eb43e9f7758c547550a/texto.md) · procesado_con_incidencias |
+| 374 | Reg_LSPEE_MA | REGLAMENTO de la Ley del Servicio Público de Energía Eléctrica, en Materia de Aportaciones | [Markdown](ordenamientos/374/versiones/e0fc00c09dfebfc211db7f0450f0a55afc268a0c9bef3d7ade1ae7d7207f548b/texto.md) · procesado_con_incidencias |
+| 375 | Reg_LFA | REGLAMENTO de la Ley Federal de Archivos | [Markdown](ordenamientos/375/versiones/aa474be0f4baac7902daf22a6e8949cbb529d9a85c871e7242a20310763e060d/texto.md) · procesado_con_incidencias |
+| 376 | Reg_LFAFE | REGLAMENTO de la Ley Federal de Armas de Fuego y Explosivos | [Markdown](ordenamientos/376/versiones/5f1a8c2456aeb5bd79d4e4e9d6d1e5dce94ef3ae12b8b6a108545fd86e5031d1/texto.md) · procesado_con_incidencias |
+| 377 | Reg_LFCine | REGLAMENTO de la Ley Federal de Cinematografía | [Markdown](ordenamientos/377/versiones/c8ad55019d8bcd5e0641a990e3921bec9d265bf5be880bbacef1691df95bc58f/texto.md) · procesado_con_incidencias |
+| 378 | Reg_LFCE | REGLAMENTO de la Ley Federal de Competencia Económica | [Markdown](ordenamientos/378/versiones/15976b2e0ecaf76bb87fba36008aee660b627b8f4a68dc030666b97f3381ec83/texto.md) · procesado_con_incidencias |
+| 379 | Reg_LFCP | REGLAMENTO de la Ley Federal de Correduría Pública | [Markdown](ordenamientos/379/versiones/4c208abe3a350f2a95fc40623f47cd42396f612c33cac4bc5bdffc682db11295/texto.md) · procesado_con_incidencias |
+| 380 | Reg_LFFAROSC | REGLAMENTO de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil | [Markdown](ordenamientos/380/versiones/ea955d155e4589b008323160cc31928e1fbc2b8b84b0126e881e190992cc9474/texto.md) · procesado_con_incidencias |
+| 381 | Reg_LFJS | REGLAMENTO de la Ley Federal de Juegos y Sorteos | [Markdown](ordenamientos/381/versiones/aa391705250b91a6809a107df77d8929e53bd1c8ce84d59f4b46d8643b6d5162/texto.md) · procesado_con_incidencias |
+| 382 | Reg_LFEP | REGLAMENTO de la Ley Federal de las Entidades Paraestatales | [Markdown](ordenamientos/382/versiones/628fd9da2904a584746a2bf0c69712899e385dd8241d177bbae422e77169f634/texto.md) · procesado_con_incidencias |
+| 383 | Reg_LFPRH | REGLAMENTO de la Ley Federal de Presupuesto y Responsabilidad Hacendaria | [Markdown](ordenamientos/383/versiones/7881053c51f128c6646324d6125f2f87e9f0f9206175f80af698b30866a06ac1/texto.md) · procesado_con_incidencias |
+| 384 | Reg_LFPCCS | REGLAMENTO de la Ley Federal de Producción, Certificación y Comercio de Semillas | [Markdown](ordenamientos/384/versiones/51e49d6cbea84b2fb561f68325f6cc24d1c91b8152bcf9f9a0c02c350709d521/texto.md) · procesado_con_incidencias |
+| 385 | Reg_LFPPI | REGLAMENTO de la Ley Federal de Protección a la Propiedad Industrial | [Markdown](ordenamientos/385/versiones/48eaaef413077fe39d7655cb16474f36b8ec48ab0d55a59d8015396d1b2d8a5a/texto.md) · procesado_con_incidencias |
+| 386 | Reg_LFPC_191219 | REGLAMENTO de la Ley Federal de Protección al Consumidor | [Markdown](ordenamientos/386/versiones/6e05922441ab2065cd34889fcf69ee236832339808c86e33c225b8637dc357c2/texto.md) · procesado_con_incidencias |
+| 387 | Reg_LFPDPPP | REGLAMENTO de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares | [Markdown](ordenamientos/387/versiones/e1798bc8481824131ebeb0fe4c562487d5d962470bd2d1f6111e25af812800d8/texto.md) · procesado_con_incidencias |
+| 388 | Reg_LFRT_MCPCTRT | REGLAMENTO de la Ley Federal de Radio y Televisión, en Materia de Concesiones, Permisos y Contenido de las Transmisiones de Radio y Televisión | [Markdown](ordenamientos/388/versiones/bf865ec92e2e9dcae93a73549e46c5fcbd1c2e67242eaae8467ce85fb7840b2c/texto.md) · procesado_con_incidencias |
+| 389 | Reg_LFSA | REGLAMENTO de la Ley Federal de Sanidad Animal | [Markdown](ordenamientos/389/versiones/c62fe67144fed005833dfba96273bbeac2017fd51cfea1458a44fd296a536f5f/texto.md) · procesado_con_incidencias |
+| 390 | Reg_LFSV | REGLAMENTO de la Ley Federal de Sanidad Vegetal | [Markdown](ordenamientos/390/versiones/be37062f4a67b9c3f3677dc7460e20ee492749c78739b7e97f8172b64153e737/texto.md) · procesado_con_incidencias |
+| 391 | Reg_LFSP | REGLAMENTO de la Ley Federal de Seguridad Privada | [Markdown](ordenamientos/391/versiones/71a5714654d29bf8b65a07f3a3ba0f9cd4f59b9a0f2283dd8efacf3e8d466ec1/texto.md) · procesado_con_incidencias |
+| 392 | Reg_LFTR_MCSRE | REGLAMENTO de la Ley Federal de Telecomunicaciones y Radiodifusión en Materia de Capacidad Satelital como Reserva del Estado | [Markdown](ordenamientos/392/versiones/012b77380b30a683b86bc7ce3468e484d50ca87441a2bcfebd542ccd2ca09b67/texto.md) · procesado_con_incidencias |
+| 393 | Reg_LFTAIPG | REGLAMENTO de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental | [Markdown](ordenamientos/393/versiones/e862964199c1558f453aa174ac5e58995acd735baeee113b2200dfb16eae4d7f/texto.md) · procesado_con_incidencias |
+| 394 | Reg_LFVV | REGLAMENTO de la Ley Federal de Variedades Vegetales | [Markdown](ordenamientos/394/versiones/01bcad0cea82074d4d04f2744b39a031ac8558d7d0ca4d39769cad874ae52069/texto.md) · procesado_con_incidencias |
+| 395 | Reg_LFZEE_290917 | REGLAMENTO de la Ley Federal de Zonas Económicas Especiales | [Markdown](ordenamientos/395/versiones/1c17200c0828e41867cd499625b9784e3646d4e3e34ea3f343829072a8256b3d/texto.md) · procesado_con_incidencias |
+| 396 | Reg_LFDA | REGLAMENTO de la Ley Federal del Derecho de Autor | [Markdown](ordenamientos/396/versiones/3390af5e87bcd476406d81c389e98ca22c022a6a3abd9942d9674b3112108556/texto.md) · procesado_con_incidencias |
+| 397 | Reg_LFCPrecQuim | REGLAMENTO de la Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos | [Markdown](ordenamientos/397/versiones/8cd9a240a014896a953612c84ebf375d3ba6ba42005ef2de73df48d9ae23467b/texto.md) · procesado_con_incidencias |
+| 398 | Reg_LFAEBSP | REGLAMENTO de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público | [Markdown](ordenamientos/398/versiones/19124142516d35ceeaee4011a68e03fce1bc5f7a7098b9962158ff7ff7a077c0/texto.md) · procesado_con_incidencias |
+| 399 | Reg_LFPIORPI | REGLAMENTO de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita | [Markdown](ordenamientos/399/versiones/9493c645dc0665ae3dac752b4af214c10b347393414d6b0f2a4880633d6305b9/texto.md) · procesado_con_incidencias |
+| 400 | Reg_LFMN | REGLAMENTO de la Ley Federal Sobre Metrología y Normalización | [Markdown](ordenamientos/400/versiones/a9a9ccb6c46934978dff09b5bae4d684a789566db2f823b9e2b25ac732bb7223/texto.md) · procesado_con_incidencias |
+| 401 | Reg_LFMZAAH_031220 | REGLAMENTO de la Ley Federal Sobre Monumentos y Zonas Arqueológicas, Artísticos e Históricos | [Markdown](ordenamientos/401/versiones/71d7edb3915bbf39ab22cecf6ff27f992be421c403620ce2395766c783362fb5/texto.md) · procesado_con_incidencias |
+| 402 | Reg_LGAMVLV | REGLAMENTO de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia | [Markdown](ordenamientos/402/versiones/7ed114566f83c13a880a460a5a5eb7c8b2a1f115562696c25d8abb2bd0731316/texto.md) · procesado_con_incidencias |
+| 403 | Reg_LGCC_MRNE_281014 | REGLAMENTO de la Ley General de Cambio Climático en Materia del Registro Nacional de Emisiones | [Markdown](ordenamientos/403/versiones/dd8098d4646246c99257f1e1ef9753381c6bcb4c7a32a408fdbb2badd93aa545/texto.md) · procesado_con_incidencias |
+| 404 | Reg_LGCFD | REGLAMENTO de la Ley General de Cultura Física y Deporte | [Markdown](ordenamientos/404/versiones/70fdea4a95e7400ca0c154b09d5c2048e94a7e2578f1aa5f43a9a431003c213a/texto.md) · procesado_con_incidencias |
+| 405 | Reg_LGCDC_291118 | REGLAMENTO de la Ley General de Cultura y Derechos Culturales | [Markdown](ordenamientos/405/versiones/63ceb515f5d1535df875ae98f59db87532f07b93b2a352b3636cea36bb0475e2/texto.md) · procesado_con_incidencias |
+| 406 | Reg_LGDFS | REGLAMENTO de la Ley General de Desarrollo Forestal Sustentable | [Markdown](ordenamientos/406/versiones/259b565d6cd37c706f0acd9121036aecce1812bef909d0fb299d8ef0c529cd7a/texto.md) · procesado_con_incidencias |
+| 407 | Reg_LGDS | REGLAMENTO de la Ley General de Desarrollo Social | [Markdown](ordenamientos/407/versiones/12b140ffdbd72d559aacfe942e88bc66e63b83b1cbff0c494a79be2a71adfd8e/texto.md) · procesado_con_incidencias |
+| 408 | Reg_LGIFE | REGLAMENTO de la Ley General de la Infraestructura Física Educativa | [Markdown](ordenamientos/408/versiones/b4b3a2036cad95299faae985784e6c2497529ede0d96b16c632e04af4d357b42/texto.md) · procesado_con_incidencias |
+| 409 | Reg_LGDNNA | REGLAMENTO de la Ley General de los Derechos de Niñas, Niños y Adolescentes | [Markdown](ordenamientos/409/versiones/703b65a1060d141d6e8afd2f1af64678c62543779fca5360ed8f25e341542174/texto.md) · procesado_con_incidencias |
+| 410 | Reg_LGP | REGLAMENTO de la Ley General de Población | [Markdown](ordenamientos/410/versiones/913c28cfffa3c2df0a47154f8d5f359312600d1f16a9ffb029df45a0a98d4d91/texto.md) · procesado_con_incidencias |
+| 411 | Reg_LGPSACDII_100516 | REGLAMENTO de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil | [Markdown](ordenamientos/411/versiones/fb3b4cb4e9dd4fb22110f23a00db45253102d51e6eb134e37ea6de2d6d16d997/texto.md) · procesado_con_incidencias |
+| 412 | Reg_LGPC_091215 | REGLAMENTO de la Ley General de Protección Civil | [Markdown](ordenamientos/412/versiones/14461e38231f53db1114d9f85d23aa11ad946a436f43dba2f555ec1b628da4d3/texto.md) · procesado_con_incidencias |
+| 413 | Reg_LGS_MCSAEPS_orig_18ene88_ima | REGLAMENTO de la Ley General de Salud en Materia de Control Sanitario de Actividades, Establecimientos, Productos y Servicios | error_reportado |
+| 414 | Reg_LGS_MCSOTCSH_orig_20feb85 | REGLAMENTO de la Ley General de Salud en Materia de Control Sanitario de la Disposición de Órganos, Tejidos y Cadáveres de Seres Humanos | error_reportado |
+| 415 | Reg_LGS_MCSPIUMC_120121 | REGLAMENTO de la Ley General de Salud en Materia de Control Sanitario para la Producción, Investigación y Uso Medicinal de la Cannabis y sus Derivados Farmacológicos | [Markdown](ordenamientos/415/versiones/1aeb3dc18f128a1e655c862c4f0aaf28c46200a15abc2106d77110c62e03d2ae/texto.md) · procesado_con_incidencias |
+| 416 | Reg_LGS_MIS_orig_06ene87 | REGLAMENTO de la Ley General de Salud en Materia de Investigación para la Salud | error_reportado |
+| 417 | Reg_LGS_MPSAM_170718 | REGLAMENTO de la Ley General de Salud en Materia de Prestación de Servicios de Atención Médica | [Markdown](ordenamientos/417/versiones/70bb10d823dd8428f7198c2169db313fa07bf451c53e42a339e6208152b784b7/texto.md) · procesado_con_incidencias |
+| 418 | Reg_LGS_MP | REGLAMENTO de la Ley General de Salud en Materia de Publicidad | [Markdown](ordenamientos/418/versiones/2d32d89603e36345e24dcc7a3fcfb41bb7300a836226ba0eac2b2b973c58094f/texto.md) · procesado_con_incidencias |
+| 419 | Reg_LGS_MSI | REGLAMENTO de la Ley General de Salud en Materia de Sanidad Internacional | [Markdown](ordenamientos/419/versiones/2510ea877a7ae3d8e95dc246cf19fce76483c4552768a4d4b058fb3a955f413d/texto.md) · procesado_con_incidencias |
+| 420 | Reg_LGS_MT | REGLAMENTO de la Ley General de Salud en Materia de Trasplantes | [Markdown](ordenamientos/420/versiones/1e2534d4deb2086612df04861c2793f77c53226eb7e236b21224c4c02e1dbb09/texto.md) · procesado_con_incidencias |
+| 421 | Reg_LGT | REGLAMENTO de la Ley General de Turismo | [Markdown](ordenamientos/421/versiones/9599e41643bee2b08aeddfa32985d3326425c2adee498b0c6fd75a460d7591c4/texto.md) · procesado_con_incidencias |
+| 422 | Reg_LGV | REGLAMENTO de la Ley General de Víctimas | [Markdown](ordenamientos/422/versiones/fda4dbd92187dc140bdc2da71d926889d5454f9bfba9a9c752ea912ff421a088/texto.md) · procesado_con_incidencias |
+| 423 | Reg_LGVS | REGLAMENTO de la Ley General de Vida Silvestre | [Markdown](ordenamientos/423/versiones/bfab4a750af0df627dad7218382c2be0bf53bcb908b97b303e20efe645d635d4/texto.md) · procesado_con_incidencias |
+| 424 | Reg_LGEEPA_ANP | REGLAMENTO de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Áreas Naturales Protegidas | [Markdown](ordenamientos/424/versiones/3d8a34fb657d1f354c00d0113ef29095671c0a31dd95f81796c309eac44bd786/texto.md) · procesado_con_incidencias |
+| 425 | Reg_LGEEPA_MAAA_311014 | REGLAMENTO de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Autorregulación y Auditorías Ambientales | [Markdown](ordenamientos/425/versiones/ac3538e04f0b3aa2e7e709cfbcf1a8f345935e9162e4800350b3d23e32c62906/texto.md) · procesado_con_incidencias |
+| 426 | Reg_LGEEPA_MEIA_311014 | REGLAMENTO de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Evaluación del Impacto Ambiental | [Markdown](ordenamientos/426/versiones/8a21cd2860841d9adfe234264dbb8b4d995791ae02424c59ac0e12bd4ecea4ef/texto.md) · procesado_con_incidencias |
+| 427 | Reg_LGEEPA_MOE_311014 | REGLAMENTO de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Ordenamiento Ecológico | [Markdown](ordenamientos/427/versiones/7c6d25bb882bf82eedfc4eaa5c8d639f614cdcbcfcb32c18f1bc015f4a1b4825/texto.md) · procesado_con_incidencias |
+| 428 | Reg_LGEEPA_MPCCA_311014 | REGLAMENTO de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Prevención y Control de la Contaminación de la Atmósfera | [Markdown](ordenamientos/428/versiones/fbf3e618c7ef665177216d4c3802d1196408f28233a438dc91a4101c72af4865/texto.md) · procesado_con_incidencias |
+| 429 | Reg_LGEEPA_MRETC_311014 | REGLAMENTO de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Registro de Emisiones y Transferencia de Contaminantes | [Markdown](ordenamientos/429/versiones/45ecc4e9249541bec702483e209ba90c10af9736590ba1935e68b6f8ec306fed/texto.md) · procesado_con_incidencias |
+| 430 | Reg_LGCT | REGLAMENTO de la Ley General para el Control del Tabaco | [Markdown](ordenamientos/430/versiones/0db9526593272c88802e2447deb37ff28da8cb46fcf27fe18024fb31e315b226/texto.md) · procesado_con_incidencias |
+| 431 | Reg_LGAPPCEA | REGLAMENTO de la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista | [Markdown](ordenamientos/431/versiones/47b1e79259c63196affcc3a788ea2068a62d7006d7c8541be326a608d06b09cb/texto.md) · procesado_con_incidencias |
+| 432 | Reg_LGIPD | REGLAMENTO de la Ley General para la Inclusión de las Personas con Discapacidad | [Markdown](ordenamientos/432/versiones/8dbd39eeb90cc4f3ce82fb53844b7d3142c29a434e81916533ad2613a9a37ace/texto.md) · procesado_con_incidencias |
+| 433 | Reg_LGPSVD_190914 | REGLAMENTO de la Ley General para la Prevención Social de la Violencia y la Delincuencia | [Markdown](ordenamientos/433/versiones/9f00e81341d8b6bf5ce3ec2ac378345f00bd3fd7fb1776cc3d66d9b1f12bacab/texto.md) · procesado_con_incidencias |
+| 434 | Reg_LGPGIR_311014 | REGLAMENTO de la Ley General para la Prevención y Gestión Integral de los Residuos | [Markdown](ordenamientos/434/versiones/99b0f43d0bfa781d142c3c01fd9f7a4df74a7aff2c4647a017fb3d28dd36b9a4/texto.md) · procesado_con_incidencias |
+| 435 | Reg_LGPSEDMTP | REGLAMENTO de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos | [Markdown](ordenamientos/435/versiones/748274df0f8eb68a066f5d653c6850571768bfd7ef45c51be20ddb191bbcc358/texto.md) · procesado_con_incidencias |
+| 436 | Reg_LMin | REGLAMENTO de la Ley Minera | [Markdown](ordenamientos/436/versiones/4e1f38c8dd7e635cdca52fda2ff16b0abbcc2ef08eeb67853fd5cbaaf6ffa172/texto.md) · procesado_con_incidencias |
+| 437 | Reg_LOPGJDF | REGLAMENTO de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal | [Markdown](ordenamientos/437/versiones/4d604c55fedb15b9a6bfcd3c24aefb28626c3dc8d65ea737e63cc15fcdd793c0/texto.md) · procesado_con_incidencias |
+| 438 | Reg_LOPGR | REGLAMENTO de la Ley Orgánica de la Procuraduría General de la República | [Markdown](ordenamientos/438/versiones/2d20009beed9ce4efe14ba6762428aa5a1d7533720e84b214689dc35b514c683/texto.md) · procesado_con_incidencias |
+| 439 | Reg_LOINAH_240521 | REGLAMENTO de la Ley Orgánica del Instituto Nacional de Antropología e Historia | [Markdown](ordenamientos/439/versiones/9dd0f89c2aeb9ab9a81ea652d02080ddb85796c7f1e3e6b342b4e9cbe533bdb0/texto.md) · procesado_con_incidencias |
+| 440 | Reg_LDCMPME_240518 | REGLAMENTO de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa | [Markdown](ordenamientos/440/versiones/9f38d55e6f9b2cbbdde2bf21e51d7fe8e10c944fe089a9a50dcdc95c272e45fc/texto.md) · procesado_con_incidencias |
+| 441 | Reg_LFIIEDB | REGLAMENTO de la Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar | [Markdown](ordenamientos/441/versiones/a4085694b701469f4f68c9682efa327cffb47b76f284b816460a43fddd6a0b53/texto.md) · procesado_con_incidencias |
+| 442 | Reg_LUPDECR | REGLAMENTO de la Ley para el Uso y Protección de la Denominación y del Emblema de la Cruz Roja | [Markdown](ordenamientos/442/versiones/300bbfb1d7bb378917769bebc6af662bbf2c234a67461e7bfef45f1094b0a201/texto.md) · procesado_con_incidencias |
+| 443 | Reg_LPPDDHP | REGLAMENTO de la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas | [Markdown](ordenamientos/443/versiones/a0b984abca19bebcc2e34affd9e33674ecdb8d59ac0d8b39999e4cb710b3e278/texto.md) · procesado_con_incidencias |
+| 444 | Reg_LFGFAGA_fe_16may55 | REGLAMENTO de la Ley que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura | pendiente_sin_texto |
+| 445 | Reg_LRMineras | REGLAMENTO de la Ley que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se Obtengan Isótopos Hendibles que puedan Producir Energía Nuclear | [Markdown](ordenamientos/445/versiones/39a73e0aea93f379e05d2cb9d16f1b9a4b3bf1216cd2d8150221f397e272a2e0/texto.md) · procesado_con_incidencias |
+| 446 | Reg_LRArt5C_orig_01oct45 | REGLAMENTO de la Ley Reglamentaria del Artículo 5o. Constitucional, Relativo al Ejercicio de las Profesiones en el Distrito Federal | error_reportado |
+| 447 | Reg_LEBHN | REGLAMENTO de la Ley sobre el Escudo, la Bandera y el Himno Nacionales | [Markdown](ordenamientos/447/versiones/b5b04d05410afca2e1b0c9a46a4f49ea9e4d0264e88a2492cd1a058d513bc81f/texto.md) · procesado_con_incidencias |
+| 448 | Reg_LRPC | REGLAMENTO de la Ley sobre Refugiados y Protección Complementaria | [Markdown](ordenamientos/448/versiones/451675994e69658ff91b1909682157754959b52321a68e840119983a96f18965/texto.md) · procesado_con_incidencias |
+| 449 | Reg_Art121-122_LFT_050614 | REGLAMENTO de los Artículos 121 y 122 de la Ley Federal del Trabajo | [Markdown](ordenamientos/449/versiones/acbf18aa55057b4065d2ed51496a290a2e9a2d7c6c1a4f5635ecbc987941938b/texto.md) · procesado_con_incidencias |
+| 450 | Reg_LFPC_Art122 | REGLAMENTO del Artículo 122 de la Ley Federal de Protección al Consumidor | [Markdown](ordenamientos/450/versiones/fd79c86b1933bcc66a63523d97d23c75c04531dc27cc442caa3c1ab88a3eae93/texto.md) · procesado_con_incidencias |
+| 451 | Reg_LFIF_Art95 | REGLAMENTO del Artículo 95 de la Ley Federal de Instituciones de Fianzas, para el Cobro de Fianzas Otorgadas a Favor de la Federación, del Distrito Federal, de los Estados y de los Municipios, Distintas de las que Garantizan Obligaciones Fiscales Federales a cargo de Terceros | [Markdown](ordenamientos/451/versiones/519e13d8551dd5f085e799d00a63e04a5d5dc6a20cc48abc3c8f501787a6bfd7/texto.md) · procesado_con_incidencias |
+| 452 | Reg_CComer_MPSC | REGLAMENTO del Código de Comercio en Materia de Prestadores de Servicios de Certificación | [Markdown](ordenamientos/452/versiones/75e473401920be2137cf4360b2ac689c0aa6683c20671529f819c2ce393699fe/texto.md) · procesado_con_incidencias |
 | 453 | Reg_CFF | REGLAMENTO del Código Fiscal de la Federación | [Markdown](ordenamientos/453/versiones/34919f5783595a22a329e6df0374db304c89caf65ef7b806f71d00987d8be841/texto.md) · piloto_aprobado |

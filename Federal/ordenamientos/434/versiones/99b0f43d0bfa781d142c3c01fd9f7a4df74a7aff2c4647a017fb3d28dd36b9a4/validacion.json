@@ -1,0 +1,1547 @@
+{
+  "id": 434,
+  "fecha_revision": "2026-09-21T06:15:52.309870+00:00",
+  "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 63,
+  "paginas_sin_texto": [],
+  "pagina_blanca_confirmada_visualmente": false,
+  "texto_conservado": true,
+  "comparacion_word_pdf": {
+    "palabras_comparadas": 25799,
+    "palabras_pdf": 27769,
+    "frecuencias_coinciden": false,
+    "orden_coincide_separando_nota_al_pie": false,
+    "nota_al_pie_reubicada_por_lector_word": null,
+    "normalizaciones_solo_comparacion": [
+      "Misma función lexical_tokens de Sinaloa; no modifica los originales ni el Markdown."
+    ],
+    "limite": "Campos Word y encabezados permanecen en el control; las diferencias se reportan sin reparación.",
+    "solo_word": {
+      "diario": 1,
+      "oficial": 1,
+      "noviembre": 1,
+      "u": 1,
+      "sección": 1,
+      "page": 1,
+      "mergeformat": 1,
+      "séptima": 1,
+      "jueves": 1,
+      "embed": 1,
+      "word": 1,
+      "picture": 1
+    },
+    "solo_pdf": {
+      "reglamento": 62,
+      "de": 308,
+      "la": 186,
+      "ley": 62,
+      "general": 124,
+      "para": 62,
+      "prevención": 62,
+      "y": 62,
+      "gestión": 62,
+      "integral": 62,
+      "los": 62,
+      "residuos": 62,
+      "cámara": 62,
+      "diputados": 62,
+      "del": 62,
+      "h": 62,
+      "congreso": 62,
+      "unión": 62,
+      "última": 62,
+      "reforma": 62,
+      "dof": 62,
+      "secretaría": 124,
+      "servicios": 62,
+      "parlamentarios": 62
+    }
+  },
+  "articulos_word": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "34bis",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98",
+    "99",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118",
+    "119",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124",
+    "125",
+    "126",
+    "127",
+    "128",
+    "129",
+    "130",
+    "131",
+    "132",
+    "133",
+    "134",
+    "135",
+    "136",
+    "137",
+    "138",
+    "139",
+    "140",
+    "141",
+    "142",
+    "143",
+    "144",
+    "145",
+    "146",
+    "147",
+    "148",
+    "149",
+    "150",
+    "151",
+    "152",
+    "153",
+    "154",
+    "155",
+    "156",
+    "157",
+    "158",
+    "159",
+    "160",
+    "161",
+    "162",
+    "163"
+  ],
+  "articulos_pdf": [
+    "1",
+    "2",
+    "artículo75de",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "artículo19",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "34bis",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98",
+    "99",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "artículo108",
+    "116",
+    "117",
+    "118",
+    "119",
+    "artículo108",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124",
+    "125",
+    "126",
+    "127",
+    "128",
+    "129",
+    "130",
+    "131",
+    "132",
+    "133",
+    "134",
+    "135",
+    "136",
+    "137",
+    "138",
+    "139",
+    "140",
+    "141",
+    "142",
+    "143",
+    "144",
+    "145",
+    "146",
+    "147",
+    "148",
+    "149",
+    "150",
+    "151",
+    "152",
+    "153",
+    "154",
+    "155",
+    "156",
+    "157",
+    "158",
+    "159",
+    "160",
+    "161",
+    "162",
+    "163",
+    "artículo42de"
+  ],
+  "identificadores_articulos_coinciden": false,
+  "encabezados_transitorios": [
+    {
+      "pagina": 60,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 63,
+      "encabezado": "TRANSITORIOS"
+    }
+  ],
+  "encabezados_ordinales_en_seccion_transitoria": [
+    "PRIMERO.- El presente Reglamento entrará en vigor a los treinta días siguientes de su publicación en",
+    "SEGUNDO.- Se abroga el Reglamento de la Ley General del Equilibrio Ecológico y la Protección al",
+    "TERCERO.- Las autorizaciones que hasta el momento hayan sido otorgadas a las empresas minero",
+    "CUARTO.- Los convenios celebrados y los planes de manejo de residuos señalados en el artículo 22",
+    "QUINTO.- En tanto la Secretaría publica el Acuerdo mediante el cual se da a conocer el sistema de",
+    "SEXTO.- En tanto la Secretaría establece y opera la base de datos a que se refiere el artículo 81 del",
+    "SÉPTIMO.- Cuando se trate de los generadores que se encuentren registrados ante la Secretaría",
+    "OCTAVO.- Las personas que a la entrada en vigor del presente Reglamento se encuentren inscritas",
+    "NOVENO.- Los obligados a presentar los informes de generación o de manejo de residuos peligrosos",
+    "DÉCIMO.- En tanto se expida la norma oficial mexicana correspondiente, el plan de muestreo a que",
+    "DÉCIMO PRIMERO.- Las acciones derivadas del presente Reglamento se ejecutarán con cargo al",
+    "DÉCIMO SEGUNDO.- En tanto se expide la norma oficial mexicana relativa a los protocolos de",
+    "Artículo Único. Se reforma la fracción I del artículo 73 y se adicionan un párrafo segundo al artículo",
+    "Primero. El presente Decreto entrará en vigor el día 2 de marzo de 2015.",
+    "Segundo. A la entrada en vigor del presente Decreto, las facultades que corresponde ejercer a la"
+  ],
+  "articulos_numericos_en_seccion_transitoria": [
+    "artículo42de"
+  ],
+  "transitorios_y_notas_completos_incluidos": true,
+  "paginas_cotejadas_visualmente": [],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 2546,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [
+        {
+          "linea": 65,
+          "texto": "1"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 2684,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [
+        {
+          "linea": 63,
+          "texto": "2"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 2865,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "3"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 2642,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [
+        {
+          "linea": 62,
+          "texto": "4"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 2208,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [
+        {
+          "linea": 63,
+          "texto": "5"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 2850,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "6"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 2123,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [
+        {
+          "linea": 63,
+          "texto": "7"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 2465,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 63,
+          "texto": "8"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 2498,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "9"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 2029,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 21,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "10"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 11,
+      "caracteres_no_blancos": 2388,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "11"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 12,
+      "caracteres_no_blancos": 2765,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [
+        {
+          "linea": 63,
+          "texto": "12"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 13,
+      "caracteres_no_blancos": 2777,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "13"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 14,
+      "caracteres_no_blancos": 2556,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 63,
+          "texto": "14"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 15,
+      "caracteres_no_blancos": 2830,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [
+        {
+          "linea": 63,
+          "texto": "15"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 16,
+      "caracteres_no_blancos": 2493,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 15,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "16"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 17,
+      "caracteres_no_blancos": 2060,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 15,
+      "paginacion_retirada": [
+        {
+          "linea": 61,
+          "texto": "17"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 18,
+      "caracteres_no_blancos": 2117,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 17,
+      "paginacion_retirada": [
+        {
+          "linea": 63,
+          "texto": "18"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 19,
+      "caracteres_no_blancos": 2485,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 16,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "19"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 20,
+      "caracteres_no_blancos": 2725,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "20"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 21,
+      "caracteres_no_blancos": 2108,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "inicios_lista": 18,
+      "paginacion_retirada": [
+        {
+          "linea": 62,
+          "texto": "21"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 22,
+      "caracteres_no_blancos": 2388,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 14,
+      "paginacion_retirada": [
+        {
+          "linea": 63,
+          "texto": "22"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 23,
+      "caracteres_no_blancos": 2031,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 16,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "23"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 24,
+      "caracteres_no_blancos": 2424,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [
+        {
+          "linea": 62,
+          "texto": "24"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 25,
+      "caracteres_no_blancos": 2820,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "25"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 26,
+      "caracteres_no_blancos": 2995,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 63,
+          "texto": "26"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 27,
+      "caracteres_no_blancos": 2445,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 13,
+      "paginacion_retirada": [
+        {
+          "linea": 63,
+          "texto": "27"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 28,
+      "caracteres_no_blancos": 2095,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 14,
+      "paginacion_retirada": [
+        {
+          "linea": 63,
+          "texto": "28"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 29,
+      "caracteres_no_blancos": 2249,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 15,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "29"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 30,
+      "caracteres_no_blancos": 2675,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "30"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 31,
+      "caracteres_no_blancos": 2705,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 10,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "31"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 32,
+      "caracteres_no_blancos": 3075,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 63,
+          "texto": "32"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 33,
+      "caracteres_no_blancos": 2264,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 13,
+      "paginacion_retirada": [
+        {
+          "linea": 63,
+          "texto": "33"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 34,
+      "caracteres_no_blancos": 2316,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "34"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 35,
+      "caracteres_no_blancos": 2751,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "35"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 36,
+      "caracteres_no_blancos": 2287,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 62,
+          "texto": "36"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 37,
+      "caracteres_no_blancos": 1958,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 16,
+      "paginacion_retirada": [
+        {
+          "linea": 62,
+          "texto": "37"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 38,
+      "caracteres_no_blancos": 2274,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 13,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "38"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 39,
+      "caracteres_no_blancos": 2274,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 16,
+      "paginacion_retirada": [
+        {
+          "linea": 63,
+          "texto": "39"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 40,
+      "caracteres_no_blancos": 2594,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "40"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 41,
+      "caracteres_no_blancos": 2347,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 62,
+          "texto": "41"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 42,
+      "caracteres_no_blancos": 2486,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "42"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 43,
+      "caracteres_no_blancos": 2618,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 63,
+          "texto": "43"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 44,
+      "caracteres_no_blancos": 3186,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 63,
+          "texto": "44"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 45,
+      "caracteres_no_blancos": 2746,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "45"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 46,
+      "caracteres_no_blancos": 2805,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 6,
+      "paginacion_retirada": [
+        {
+          "linea": 63,
+          "texto": "46"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 47,
+      "caracteres_no_blancos": 2950,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 63,
+          "texto": "47"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 48,
+      "caracteres_no_blancos": 2454,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 62,
+          "texto": "48"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 49,
+      "caracteres_no_blancos": 2700,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 62,
+          "texto": "49"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 50,
+      "caracteres_no_blancos": 2421,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 63,
+          "texto": "50"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 51,
+      "caracteres_no_blancos": 2396,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 9,
+      "paginacion_retirada": [
+        {
+          "linea": 61,
+          "texto": "51"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 52,
+      "caracteres_no_blancos": 2398,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "52"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 53,
+      "caracteres_no_blancos": 2348,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 13,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "53"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 54,
+      "caracteres_no_blancos": 2341,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "54"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 55,
+      "caracteres_no_blancos": 2490,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "55"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 56,
+      "caracteres_no_blancos": 2558,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 11,
+      "paginacion_retirada": [
+        {
+          "linea": 63,
+          "texto": "56"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 57,
+      "caracteres_no_blancos": 3157,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "57"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 58,
+      "caracteres_no_blancos": 2958,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "58"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 59,
+      "caracteres_no_blancos": 3263,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "59"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 60,
+      "caracteres_no_blancos": 3163,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "60"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 61,
+      "caracteres_no_blancos": 2881,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [
+        {
+          "linea": 64,
+          "texto": "61"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 62,
+      "caracteres_no_blancos": 2584,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 7,
+      "paginacion_retirada": [
+        {
+          "linea": 62,
+          "texto": "62"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    },
+    {
+      "pagina": 63,
+      "caracteres_no_blancos": 1776,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [
+        {
+          "linea": 44,
+          "texto": "63"
+        }
+      ],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": true
+    }
+  ],
+  "alcance": "Controles de conservación en todas las páginas; comparación de cifras con Poppler y pypdf. El cotejo visual se registra por separado. No certifica vigencia jurídica.",
+  "incidencias_resueltas": [],
+  "diferencias_de_fuente": [
+    "La secuencia de encabezados numéricos difiere Word/PDF; consultar contadores y evidencia. No se corrige.",
+    "La comparación léxica Word/PDF no coincide: encabezados repetidos, campos Word y otras diferencias pendientes de cotejo. No equivale a pérdida del Markdown.",
+    "Hay discrepancias en la secuencia de cifras entre los dos lectores PDF; requieren cotejo, no se reparan.",
+    "Word original .doc conservado por autorización expresa del usuario; no se fabrica original.docx."
+  ],
+  "formato_word_original": "doc",
+  "ocr_ejecutado": false,
+  "incidencias_descarga": [],
+  "promociones_encabezado_evitadas": [
+    {
+      "linea": 49,
+      "texto": "artículo 75 de la Ley General para la Prevención y Gestión Integral de los Residuos;",
+      "anterior": "XI.     Inventario Nacional de Sitios Contaminados, el que elabora la Secretaría conforme al",
+      "siguiente": "",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 2
+    },
+    {
+      "linea": 29,
+      "texto": "artículo 19, fracción IX, de la Ley, se establecerá en la norma oficial mexicana correspondiente.",
+      "anterior": "Artículo 11.- La determinación para clasificar a un residuo como de manejo especial, en términos del",
+      "siguiente": "",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 4
+    },
+    {
+      "linea": 20,
+      "texto": "artículo 108, se anexarán los siguientes documentos:",
+      "anterior": "Artículo 115.- Para el caso de importación de residuos peligrosos, al manifiesto señalado en el",
+      "siguiente": "",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 45
+    },
+    {
+      "linea": 19,
+      "texto": "artículo 108, se anexarán los siguientes documentos:",
+      "anterior": "Artículo 119.- Para el caso de exportación de residuos peligrosos, al manifiesto señalado en el",
+      "siguiente": "",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 46
+    },
+    {
+      "linea": 29,
+      "texto": "artículo 42 de la Ley, podrán consultar a la Secretaría la información relacionada con la vigencia de las",
+      "anterior": "presente Reglamento, los generadores de residuos peligrosos, para cumplir con lo ordenado en el",
+      "siguiente": "autorizaciones otorgadas a gestores para la prestación de los servicios de manejo de residuos",
+      "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+      "pagina": 61
+    }
+  ],
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-21T06:15:52.309870+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "decreto_numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.edicion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.seccion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "reformas",
+        "motivo": "Notas literales conservadas con todas las fechas; fecha escalar null si hay varias. Números de diario/decreto no impresos quedan null. Captura automática pendiente de revisión."
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Cláusulas expresas capturadas para cotejo; no se infieren nombres ni fechas faltantes. Revisar evidencia impresa."
+      },
+      {
+        "campo": "abroga[].po_numero",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0
+        ]
+      },
+      {
+        "campo": "abroga[].decreto",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0
+        ]
+      },
+      {
+        "campo": "abrogacion_programada",
+        "motivo": "Portada/encabezado sin declaración identificada de abrogación o término de vigencia en fecha cierta; null."
+      }
+    ],
+    "evidencia": {
+      "abroga": [
+        {
+          "pagina": 61,
+          "texto": "SEGUNDO.- Se abroga el Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en materia de Residuos Peligrosos, publicado el 25 de noviembre de 1988 en el Diario Oficial de la Federación."
+        }
+      ],
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "REGLAMENTO DE LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS Nuevo Reglamento publicado en el Diario Oficial de la Federación el 30 de noviembre de 2006"
+      },
+      "ultima_reforma": {
+        "pagina": 1,
+        "texto": "Última Reforma DOF 31-10-2014"
+      },
+      "reformas": {
+        "pagina_inicio": 1,
+        "encabezado": null,
+        "filas": [
+          {
+            "fila": 0,
+            "texto": "Párrafo adicionado DOF 31-10-2014",
+            "pagina": 1
+          },
+          {
+            "fila": 1,
+            "texto": "Fracción adicionada DOF 31-10-2014",
+            "pagina": 1
+          },
+          {
+            "fila": 2,
+            "texto": "Fracción adicionada DOF 31-10-2014",
+            "pagina": 2
+          },
+          {
+            "fila": 3,
+            "texto": "Título adicionado DOF 31-10-2014",
+            "pagina": 11
+          },
+          {
+            "fila": 4,
+            "texto": "Artículo adicionado DOF 31-10-2014",
+            "pagina": 11
+          },
+          {
+            "fila": 5,
+            "texto": "Fracción reformada DOF 31-10-2014",
+            "pagina": 30
+          }
+        ]
+      }
+    }
+  },
+  "normalizacion_millares_encabezados": [],
+  "puntuacion_previa_encabezados": [],
+  "control_pypdf_informativo": {
+    "fuente": "Usuario; piloto aprobado en la conversación",
+    "descripcion": "pypdf fragmenta números con espacios; verificado por el usuario contra originales en 11 páginas señaladas del CFF y tres de CPEUM. Markdown generado con Poppler.",
+    "decision": "Control informativo, no bloquea lotes y no modifica textos. No se atribuye cotejo visual adicional a Codex."
+  }
+}

@@ -1,0 +1,725 @@
+# REGLAMENTO DE LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO
+
+> Transcripción del PDF descargado. Consulta metadata.json y validacion.json para límites e incidencias.
+
+<!-- PAGINA_PDF: 1 -->
+
+REGLAMENTO DE LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Nuevo Reglamento DOF 10-02-2026 Secretaría General Secretaría de Servicios Parlamentarios
+
+REGLAMENTO DE LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO
+
+TEXTO VIGENTE Nuevo Reglamento publicado en el Diario Oficial de la Federación el 10 de febrero de 2026
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República. CLAUDIA SHEINBAUM PARDO, Presidenta de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, y con fundamento en los artículos 27, 28, 29, 30, 30 Bis y 36 de la Ley Orgánica de la Administración Pública Federal, 1, 2, 5 y demás relativos de la Ley de Protección del Espacio Aéreo Mexicano, he tenido a bien expedir el siguiente DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO
+
+ARTÍCULO ÚNICO. Se expide el Reglamento de la Ley de Protección del Espacio Aéreo Mexicano, para quedar como sigue: REGLAMENTO DE LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO
+
+## TÍTULO PRIMERO
+
+GENERALIDADES Capítulo I De las Disposiciones Generales
+
+### Artículo 1.-
+
+El presente reglamento tiene por objeto regular la actuación y coordinación de las dependencias y entidades de la Administración Pública Federal que, en el ámbito de sus competencias, deban coadyuvar en la Vigilancia y Protección del Espacio Aéreo Mexicano, en términos de la Ley de Protección del Espacio Aéreo Mexicano. La aplicación e interpretación de este reglamento corresponde a la Secretaría de la Defensa Nacional y demás autoridades que resulten competentes.
+
+### Artículo 2.-
+
+El dominio sobre el espacio aéreo es una prerrogativa exclusiva del Estado mexicano, que se ejerce a través de las dependencias y entidades competentes de la Administración Pública Federal, para preservar la seguridad, la soberanía y la independencia del Espacio Aéreo Mexicano, con el fin de proteger la vida humana en el territorio del país y favorecer condiciones óptimas para el desarrollo nacional.
+
+### Artículo 3.-
+
+La Secretaría de la Defensa Nacional, para la coordinación en materia de vigilancia y protección del Espacio Aéreo Mexicano, debe aplicar las medidas, acciones y procedimientos de su competencia, sin perjuicio de las demás atribuciones que correspondan a otras dependencias y entidades de la Administración Pública Federal, por conducto de:
+
+I. El Centro Nacional de Vigilancia y Protección del Espacio Aéreo, para las acciones de seguridad nacional en el Espacio Aéreo Mexicano;
+
+II. La Fuerza Aérea Mexicana, para las acciones de seguridad nacional y defensa del Espacio Aéreo Mexicano, y
+
+III. El Ejército Mexicano, como coadyuvante en las operaciones de Vigilancia y Protección del Espacio Aéreo Mexicano.
+
+### Artículo 4.-
+
+Para efectos del presente reglamento, además de las definiciones previstas en el artículo 5 de la Ley, se debe entender por:
+
+I. ADIZ: Zonas de Identificación de Defensa Aérea;
+
+II. Aeródromo Autorizado: los aeródromos de destino y alternos especificados en el plan de vuelo autorizado por la Agencia Federal de Aviación Civil;
+
+1 de 15
+
+<!-- PAGINA_PDF: 2 -->
+
+REGLAMENTO DE LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Nuevo Reglamento DOF 10-02-2026 Secretaría General Secretaría de Servicios Parlamentarios
+
+III. AFAC: Agencia Federal de Aviación Civil, órgano administrativo desconcentrado de la SICT, autoridad de aviación civil;
+
+IV. Amenaza: antagonismo intencional generado por el poder de otro Estado o por agentes no estatales, cuya característica es una voluntad hostil y deliberada que pone en peligro de vulneración grave a las aspiraciones, intereses y objetivos nacionales;
+
+V. Amenaza aérea: situación que puede generar una afectación a la Seguridad del Espacio Aéreo e infraestructura aeronáutica del país, así como vulnerar la soberanía de la Nación sobre el territorio nacional;
+
+VI. Autoridades Operativas Coordinadas: son las dependencias integrantes del Sistema que, en el ejercicio de sus atribuciones, participan activamente en la Vigilancia y Protección del Espacio Aéreo Mexicano en forma coordinada con el Centro;
+
+VII. Autoridad para la defensa del Espacio Aéreo Mexicano: autoridad militar responsable de resguardar y preservar la soberanía de la Nación sobre el Espacio Aéreo Mexicano. Esta responsabilidad recae en la Secretaría a través de la Fuerza Aérea Mexicana, en coordinación con la Secretaría de Marina a través de la Armada de México, conforme al ámbito de sus respectivas competencias;
+
+VIII. Clasificación: proceso realizado por el Centro para determinar los supuestos de traza de interés, de vuelo no autorizado y de vuelo clandestino, con base en las conductas de vuelo establecidas en el Capítulo II de la Ley;
+
+IX. Consolidación: es la intervención de las autoridades competentes para acudir al sitio donde aterricen las aeronaves que hayan sido declaradas como vuelo clandestino, con el fin de establecer la seguridad periférica, preservar el lugar de los hechos y, en su caso, poner a disposición de la autoridad competente a las personas, así como los indicios, evidencia, objeto, instrumento o producto del hecho delictivo;
+
+X. Declaratoria de Aeronave en Situación de Emergencia: acto por el cual el Centro comunica a la SICT, por medio del SENEAM, el estatus de emergencia declarado por la tripulación de una aeronave durante un procedimiento de Interceptación aérea;
+
+XI. Declaratoria de Vuelo Clandestino: acto por el cual el Centro comunica a los integrantes del Sistema la determinación de la clasificación de un vuelo clandestino conforme a lo dispuesto en el artículo 10 de la Ley;
+
+XII. Declaratoria de Vuelo No Autorizado: acto por el cual el Centro comunica a los integrantes del Sistema la determinación de la clasificación de un vuelo no autorizado conforme a lo dispuesto en el artículo 9 de la Ley;
+
+XIII. Declaratoria de Traza de Interés: acto por el cual el Centro comunica a los integrantes del Sistema la determinación de la clasificación de traza de interés conforme a lo dispuesto en el artículo 8 de la Ley;
+
+XIV. Defensa Aérea: es el conjunto de actividades y procedimientos especiales cuyo propósito es garantizar permanentemente la soberanía de la Nación sobre el Espacio Aéreo Mexicano y preservar las áreas estratégicas como espacios geográficos, funcionales o de concentración de actividad humana que tengan un gran valor o importancia para el país frente a las Amenazas que vulneren la seguridad nacional;
+
+XV. Interferencia Ilícita: a los actos o tentativas destinados a comprometer la seguridad de la aviación civil;
+
+XVI. Ley: Ley de Protección del Espacio Aéreo Mexicano;
+
+XVII. MMR: zona aérea restringida de dimensiones definidas sobre el territorio o las aguas jurisdiccionales adyacentes del Estado mexicano dentro del cual está restringido el vuelo de las aeronaves, establecidas de conformidad con la Ley de Aviación Civil;
+
+XVIII. Operaciones Contra el Uso Ilícito del Espacio Aéreo Mexicano: son las realizadas por los integrantes del Sistema y coordinadas por el Centro con la finalidad de inhibir, contrarrestar y evitar operaciones aéreas ilícitas y demás acciones contrarias a la Ley, mediante la Vigilancia, Detección, Identificación, Interceptación aérea, asistencia, Seguimiento y Consolidación;
+
+2 de 15
+
+<!-- PAGINA_PDF: 3 -->
+
+REGLAMENTO DE LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Nuevo Reglamento DOF 10-02-2026 Secretaría General Secretaría de Servicios Parlamentarios
+
+XIX. Operaciones Preventivas del Uso Ilícito del Espacio Aéreo Mexicano: son los actos que realizan las autoridades federales y militares con el objeto de prevenir actos en contra del uso ilícito del Espacio Aéreo Mexicano;
+
+XX. Personal Técnico de Operaciones de Vigilancia Aérea: personas designadas por el Centro para intervenir conforme a las funciones que se les designen en materia de operaciones de control del espacio aéreo;
+
+XXI. Piloto al Mando: persona integrante de la Tripulación de Vuelo, la cual es la máxima autoridad a bordo de la aeronave y responsable de su operación y dirección, así como de mantener el orden y la seguridad de dicha aeronave, de los demás integrantes de la Tripulación de Vuelo, de las personas pasajeras, del equipaje y de la carga;
+
+XXII. Protocolos de Búsqueda y Salvamento: son las procedimientos que supervisa la Secretaría de Infraestructura, Comunicaciones y Transportes a efecto de que exista una adecuada coordinación con la Secretaría y las demás autoridades federales, de las entidades federativas y de los municipios integrantes del Centro Operativo de Emergencia de los aeropuertos del país, de conformidad con las disposiciones de la Secretaría de Infraestructura, Comunicaciones y Transportes y normas internacionales aplicables, con el fin de que reaccionen de manera conjunta en la activación del plan de acción de búsqueda y salvamento para la localización y retorno a la seguridad de personas en peligro, víctimas de un accidente aéreo y otras situaciones de emergencia, derivadas o no de un Alertamiento aéreo;
+
+XXIII. Riesgo Aéreo: la estimación del grado de exposición ante una Amenaza aérea en contra de la Nación que le causen daños o perjuicios. La medición del riesgo se realiza con base en la Amenaza, la vulnerabilidad y la consecuencia;
+
+XXIV. SICT: Secretaría de Infraestructura, Comunicaciones y Transportes;
+
+XXV. Seguridad Operacional: el estado en el que los riesgos asociados a las actividades de aviación relativas a la operación de las aeronaves, o que apoyan directamente dicha operación, se reducen y controlan a un nivel aceptable, conforme a las disposiciones jurídicas aplicables;
+
+XXVI. SENEAM: Servicios a la Navegación en el Espacio Aéreo Mexicano, órgano administrativo desconcentrado de la SICT;
+
+XXVII. Tripulación de Vuelo: se integra con el Piloto al Mando de la aeronave y el personal que desempeña una función en vuelo para la correcta operación de una aeronave, conforme a la licencia que le haya expedido su autoridad aeronáutica;
+
+XXVIII. Uso Flexible del Espacio Aéreo: a la coordinación que tiene el Estado mexicano entre las dependencias y entidades de la Administración Pública Federal para el mantenimiento de la Seguridad Operacional de las aeronaves civiles y la seguridad nacional, que garantice una mayor seguridad, eficiencia y flexibilidad operativa;
+
+XXIX. Vigilancia: es la actividad fundamental del Centro que consiste en la observación sistemática y continua de trazas de interés y de probables vuelos no autorizados y clandestinos, con fines de Protección del Espacio Aéreo Mexicano, y
+
+XXX. ZVP: Zonas de Vigilancia y Protección del Espacio Aéreo Mexicano. Capítulo II De la Coordinación Interinstitucional
+
+### Artículo 5.-
+
+La persona titular del Ejecutivo Federal, para la Vigilancia y Protección del Espacio Aéreo Mexicano, se auxilia de las dependencias integrantes del Sistema en relación con sus atribuciones, funciones y recursos disponibles, conforme a lo siguiente:
+
+I. La coordinación de la participación de las autoridades integrantes del Sistema está a cargo de la Secretaría, a través del Centro;
+
+II. La defensa y protección de la soberanía de la Nación sobre el Espacio Aéreo Mexicano para evitar actos contra la seguridad del territorio nacional, corresponde a la Secretaría, en el ámbito de su competencia;
+
+3 de 15
+
+<!-- PAGINA_PDF: 4 -->
+
+REGLAMENTO DE LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Nuevo Reglamento DOF 10-02-2026 Secretaría General Secretaría de Servicios Parlamentarios
+
+III. La defensa y protección de la soberanía de la Nación en el espacio aéreo sobre el mar territorial y costas del territorio nacional corresponde a la Secretaría de Marina, a través de la Armada de México, en el ámbito de su competencia;
+
+IV. La búsqueda y salvamento de las aeronaves en estado de emergencia, incidentadas, accidentadas o extraviadas, así como la investigación de accidentes e incidentes de aviación en el territorio nacional y aguas jurisdiccionales y la prestación de servicios a la navegación aérea, en términos de los acuerdos interinstitucionales, tratados internacionales y demás disposiciones jurídicas aplicables, corresponde a la SICT. Para efectos del párrafo anterior, la SICT es la responsable de la regulación, vigilancia, dirección, control y coordinación nacional de las labores de búsqueda y salvamento y de la investigación de los accidentes e incidentes de aviación.
+
+### Artículo 6.-
+
+La persona titular de cualquier dependencia integrante del Sistema debe promover ante el Consejo los asuntos de su interés en materia de Protección del Espacio Aéreo Mexicano, los cuales se deben presentar a través de la Secretaría Técnica del Consejo por lo menos diez días hábiles previos a la siguiente sesión.
+
+### Artículo 7.-
+
+Con el propósito de preservar la seguridad nacional y ejercer la soberanía dentro del Espacio Aéreo Mexicano, las solicitudes de sobrevuelos y aterrizajes de aeronaves extranjeras en territorio nacional se regirán bajo las bases generales de coordinación establecidas por el Consejo y demás disposiciones aplicables. La SICT notificará al Centro los convenios de colaboración en materia de búsqueda y salvamento que tenga con Estados pertenecientes a la Organización de Aviación Civil Internacional, a efecto de facilitar en el ámbito de su competencia, el ingreso a territorio nacional de personal y equipo que se requiera ante la ocurrencia de un desastre aéreo que requiera el apoyo internacional.
+
+### Artículo 8.-
+
+La coordinación entre el Centro, la AFAC y SENEAM, en sus ámbitos de competencia, debe privilegiar la Seguridad Operacional y el Uso Flexible del Espacio Aéreo Mexicano, así como los procedimientos aprobados por el Consejo. Capítulo III De las Maniobras de Vuelo de las Aeronaves
+
+### Artículo 9.-
+
+Las maniobras de vuelo de las aeronaves que operan dentro del Espacio Aéreo Mexicano y requieran de alguna acción en materia de seguridad y protección del espacio aéreo por parte del Centro deben clasificarse en:
+
+I. Traza de interés;
+
+II. Vuelo no autorizado, y
+
+III. Vuelo clandestino.
+
+### Artículo 10.-
+
+Cualquier dependencia integrante del Sistema debe notificar y aportar a las autoridades competentes, los elementos de prueba que tengan conforme a sus atribuciones, con el fin de que dichas autoridades ejecuten las acciones que correspondan, según se trate de vuelo no autorizado o vuelo clandestino.
+
+### Artículo 11.-
+
+Las maniobras de vuelo de urgencia o emergencia que realicen las aeronaves deben considerarse como conductas no intencionales. Cuando se trate de una aeronave en situación de emergencia, los integrantes del Sistema deben proporcionar a la SICT toda la información disponible para que esta actúe en el ámbito de su competencia. Cuando se trate de un accidente o incidente aéreo, la SICT debe realizar la investigación en materia de aeronáutica conforme a lo previsto en la Ley de Aviación Civil, su Reglamento y demás disposiciones jurídicas aplicables y, una vez concluida la investigación correspondiente, debe determinar los factores causales y contribuyentes del accidente o incidente y, en su caso, realizar las recomendaciones que procedan. Los demás integrantes del Sistema, en el ámbito de su competencia, deben garantizar que la zona del accidente o incidente quede asegurada para permitir las tareas de investigación de la SICT.
+
+4 de 15
+
+<!-- PAGINA_PDF: 5 -->
+
+REGLAMENTO DE LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Nuevo Reglamento DOF 10-02-2026 Secretaría General Secretaría de Servicios Parlamentarios
+
+### Artículo 12.-
+
+El Centro debe determinar si una aeronave se considera como una traza de interés, mediante la aplicación de los procedimientos de Vigilancia, Detección e Identificación establecidos por el Consejo.
+
+### Artículo 13.-
+
+Cuando exista una traza de interés, el Personal Técnico de Operaciones de Vigilancia Aérea del Centro, debe sujetarse al procedimiento siguiente:
+
+I. Determinar que se trata de una traza de interés, como consecuencia de la detección de un eco radar o avistamiento de una aeronave que presenta alguna de las conductas previstas en el artículo 8 de la Ley;
+
+II. Analizar, dar seguimiento y documentar el comportamiento de la traza de interés, así como recabar la información y documentación que debe aportarse a la SICT, a la AFAC y SENEAM, para que en el ámbito de su competencia determinen lo conducente, y
+
+III. Emitir, con base en el resultado del análisis correspondiente, la Declaratoria de Traza de Interés.
+
+### Artículo 14.-
+
+El Centro debe determinar si se trata o no de un vuelo no autorizado, mediante la aplicación de los procedimientos de Vigilancia, Detección, Identificación e Interceptación aérea establecidos por el Consejo. El Centro debe requerir a las Autoridades Operativas Coordinadas información de su competencia para emitir la Declaratoria de Vuelo No Autorizado, previa comprobación de que la Tripulación de Vuelo de una aeronave está incurriendo en alguno de los supuestos de traza de interés previstos en el artículo 8 de la Ley, conforme al procedimiento de Identificación establecido por el Consejo, o cuando la AFAC confirma que dicha aeronave no cuenta con un plan de vuelo autorizado o aprobado por SENEAM. En ambos casos, el Centro debe agotar todos los medios a su alcance, conforme al procedimiento de Identificación de una aeronave, o conocer la intención de la Tripulación de Vuelo y, como último recurso, recurrir a la Interceptación aérea, mediante el procedimiento establecido por el Consejo; lo anterior debe realizarse con un enfoque de protección a los derechos humanos de las personas involucradas en dicha aeronave.
+
+### Artículo 15.-
+
+Cuando se determine que se trata de un vuelo no autorizado, el Personal Técnico de Operaciones de Vigilancia Aérea del Centro, debe sujetarse al procedimiento siguiente:
+
+I. Emitir la Declaratoria de Vuelo No Autorizado a todos los integrantes del Sistema para que procedan en el ámbito de sus competencias, y
+
+II. Aportar a la autoridad competente la información recabada y, en su caso, conforme a la ley de la materia.
+
+### Artículo 16.-
+
+El Centro, una vez que haya determinado un vuelo no autorizado, puede disponer del empleo de Aeronaves interceptoras, para comunicar a la Tripulación de Vuelo de la aeronave interceptada que su conducta de vuelo está clasificada como vuelo no autorizado e instruirle para que corrija la causa que motivó su Interceptación aérea.
+
+### Artículo 17.-
+
+El Centro debe determinar si se trata o no de un vuelo clandestino, mediante la aplicación de los procedimientos de Vigilancia, Detección, Identificación e Interceptación aérea establecidos por el Consejo.
+
+### Artículo 18.-
+
+El Centro, para determinar si se trata de un vuelo clandestino conforme al artículo 10 de la Ley, debe considerar lo siguiente:
+
+I. Que el Piloto al Mando de una aeronave no cuenta con un plan de vuelo autorizado antes del despegue o aprobado durante el vuelo, con la intención de evitar ser detectado o eludir o desobedecer a la autoridad, cuando:
+
+a) Despegue o aterrice sin autorización expresa de la AFAC o, en su caso, sin la aprobación de SENEAM para cambio de plan de vuelo durante este, desde o hacia cualquier aeródromo;
+
+b) Durante el vuelo abandone el Espacio Aéreo Mexicano, sin tener un plan de vuelo autorizado;
+
+c) Ingrese al Espacio Aéreo Mexicano sin autorización, y
+
+d) Que no establezca contacto con SENEAM, cuando tenga un plan de vuelo autorizado;
+
+II. Que la Tripulación de Vuelo de una aeronave interceptada desacata las instrucciones del Piloto al Mando de la Aeronave interceptora o de la aeronave que realiza el Seguimiento del vuelo, cuando de manera intencional o por negligencia, omite la ejecución de conductas obligatorias señaladas en el
+
+5 de 15
+
+<!-- PAGINA_PDF: 6 -->
+
+REGLAMENTO DE LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Nuevo Reglamento DOF 10-02-2026 Secretaría General Secretaría de Servicios Parlamentarios
+
+procedimiento de interceptación aérea establecido por el Consejo. Dicho procedimiento tiene el carácter de público;
+
+III. Que una aeronave no exhiba de manera visible los distintivos de nacionalidad y matrícula o que no es posible visualizar estos por medios electro-ópticos; o que porte unos que no le correspondan; o que los distintivos o matrícula sean sobrepuestos o alterados, o cuando no cumpla con los requisitos establecidos en la Ley de Aviación Civil y su Reglamento, por lo que respecta a las aeronaves nacionales, y a lo establecido por la Organización de Aviación Civil Internacional respecto de aeronaves extranjeras;
+
+IV. Que las aeronaves que ingresen al Espacio Aéreo Mexicano realicen operaciones sin haber cumplido con los requisitos y procedimientos de internación e inicio de operación, y
+
+V. Que se localice una aeronave posada sin autorización en cualquier superficie terrestre o marítima diferente a un aeródromo o helipuerto y haya transcurrido un término de 72 horas después de haber sido localizada y no se haya reportado alguna emergencia por la Tripulación de Vuelo o por su propietario. En caso de que una Tripulación de Vuelo aterrice de emergencia o de manera precautoria su aeronave en un lugar distinto al Aeródromo Autorizado, es obligación del Piloto al Mando informar a la AFAC, hasta en un término de 24 horas después de haber aterrizado, los motivos que originaron dicho aterrizaje y mantener sin alteración alguno la aeronave y sus componentes, de conformidad con la Ley de Aviación Civil y demás disposiciones jurídicas aplicables. Si con motivo de las operaciones derivadas de la ejecución de un procedimiento de Interceptación aérea de un vuelo clandestino, se pierde el seguimiento de la aeronave y mediante operaciones de inteligencia, Vigilancia y reconocimiento o las realizadas por alguna otra autoridad en el ejercicio de sus funciones, se localiza dentro de las 72 horas posteriores a su pérdida, se le aplicarán las sanciones que correspondan.
+
+### Artículo 19.-
+
+Cuando se trate de un vuelo clandestino, el Centro, a través del Personal Técnico de Operaciones de Vigilancia Aérea, debe realizar lo siguiente:
+
+I. Documentar las conductas establecidas en el artículo 10 de la Ley;
+
+II. Obtener datos de prueba, por diversos medios tecnológicos disponibles, sobre la advertencia realizada al Piloto al Mando de la aeronave interceptada y el apercibimiento de la responsabilidad penal en la que incurre al ser considerado como vuelo clandestino, de conformidad con el Código Penal Federal, y
+
+III. Remitir la Declaratoria de Vuelo Clandestino a todos los integrantes del Sistema para que procedan en el ámbito de su competencia.
+
+## TÍTULO SEGUNDO
+
+ORGANIZACIÓN Capítulo I Del Sistema de Vigilancia y Protección del Espacio Aéreo Mexicano
+
+### Artículo 20.-
+
+El Sistema promueve la interacción funcional de recursos humanos, materiales, tecnológicos y financieros que las dependencias que lo integran designan para la Protección del Espacio Aéreo Mexicano, de conformidad con el presupuesto que se les sea asignado, de forma preventiva, reactiva y proactiva ante Amenazas que atenten contra la seguridad nacional. El Sistema, además de lo señalado en la Ley, tiene los objetivos siguientes:
+
+I. Preservar la seguridad nacional, la soberanía e independencia del Espacio Aéreo Mexicano en contra de Riesgos y Amenazas aéreas;
+
+II. Fortalecer la seguridad en el Espacio Aéreo Mexicano, con el fin de reducir y controlar a un nivel aceptable los riesgos asociados a las operaciones de las aeronaves, y
+
+III. Promover la participación interinstitucional entre los integrantes del Sistema, para materializar acciones coordinadas que contribuyan a la consecución de los objetivos de la Ley y este reglamento.
+
+6 de 15
+
+<!-- PAGINA_PDF: 7 -->
+
+REGLAMENTO DE LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Nuevo Reglamento DOF 10-02-2026 Secretaría General Secretaría de Servicios Parlamentarios
+
+### Artículo 21.-
+
+Los integrantes del Sistema, en el ámbito de sus competencias, tienen las responsabilidades siguientes:
+
+I. El Centro, de la coordinación de los integrantes del Sistema, conforme a la Ley y el presente reglamento;
+
+II. La Fuerza Aérea Mexicana, de la defensa aérea y protección del espacio aéreo sobre el territorio nacional, conforme al ámbito de su competencia, y de coadyuvancia para inhibir las operaciones aéreas ilícitas en coordinación con el Centro;
+
+III. El Centro de Mando y Control de la Armada de México, de la protección del espacio aéreo situado sobre el mar territorial y costas del territorio, conforme al ámbito de su competencia y de coadyuvancia para inhibir las operaciones aéreas ilícitas, en coordinación con el Centro;
+
+IV. La Guardia Nacional, de salvaguardar la integridad de las personas y de su patrimonio, así como de la prevención de delitos en el Espacio Aéreo Mexicano y aeródromos civiles, en coordinación con diversas autoridades competentes;
+
+V. El Centro Nacional de Inteligencia, de generar inteligencia que permita coadyuvar a prevenir, disuadir, contener y desactivar Riesgos y Amenazas que pretendan vulnerar la integridad, estabilidad y permanencia del Estado mexicano, relacionados con el Espacio Aéreo Mexicano;
+
+VI. La SICT, de establecer políticas y lineamientos para la activación inmediata y segura de los Protocolos de Búsqueda y Salvamento en el territorio nacional y sus aguas jurisdiccionales y vigilar la eficiencia del servicio, así como para realizar la investigación de accidentes e incidentes aéreos;
+
+VII. La AFAC, de regular, coordinar, vigilar, y controlar la prestación de los servicios de transporte aéreo nacional e internacional, aeroportuarios, complementarios y comerciales;
+
+VIII. SENEAM, de proporcionar servicios para la navegación aérea en el Espacio Aéreo Mexicano, y
+
+IX. El Instituto Nacional de Migración, de establecer las acciones técnicas y operativas en materia migratoria y, en su caso, de ejecutar los procedimientos que resulten aplicables a las personas extranjeras emitidos por las autoridades competentes, de conformidad con las disposiciones jurídicas aplicables.
+
+### Artículo 22.-
+
+Los integrantes del Sistema, a través de sus titulares, deberán designar a personas servidoras públicas como enlaces, quienes deben contar con capacidad para la toma de decisiones que correspondan a cada integrante, conforme a las atribuciones que les otorgan la normativa aplicable. Asimismo, los integrantes del Sistema, a través de sus titulares, podrán designar por escrito a personas servidoras públicas como representantes en el Centro, las cuales no podrán tener un nivel jerárquico inferior al de titular de Dirección de Área u Homólogo, a fin de facilitar la coordinación de las actividades que les correspondan conforme a la Ley y este reglamento.
+
+### Artículo 23.-
+
+El Sistema, para fines operativos, cuenta con los subsistemas y componentes siguientes:
+
+I. Subsistema de Coordinación, a cargo del Centro:
+
+a) Componente de Enlace: encargado de articular y sincronizar la cooperación entre los integrantes del Sistema, mediante el uso coordinado de sus medios de comunicación y plataformas de información disponibles;
+
+b) Componente de Alerta Temprana: son los mecanismos de coordinación y cooperación nacional e internacional establecidos por los integrantes del Sistema, para recibir avisos o alertas sobre riesgos aéreos con alta probabilidad de convertirse en una Amenaza, y
+
+c) Componente de Inteligencia Aérea: son los mecanismos de coordinación y cooperación para el intercambio de información con autoridades u organismos nacionales e internacionales para minimizar los Riesgos aéreos y disuadir las Amenazas aéreas en el Espacio Aéreo Mexicano;
+
+II. Subsistema de Ejecución, conformado por las Autoridades Operativas Coordinadas:
+
+7 de 15
+
+<!-- PAGINA_PDF: 8 -->
+
+REGLAMENTO DE LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Nuevo Reglamento DOF 10-02-2026 Secretaría General Secretaría de Servicios Parlamentarios
+
+a) Componente de Control: encargado de dirigir, coordinar y supervisar las acciones para proteger el Espacio Aéreo Mexicano, integrado por:
+
+1\. Centros de Mando y Control de la Fuerza Aérea Mexicana;
+
+2\. Centros de Mando y Control de la Armada de México;
+
+3\. Centros de Control de Área del SENEAM, y
+
+4\. Otras unidades administrativas o entidades públicas que dependan o estén coordinadas por las Autoridades Operativas Coordinadas integrantes del Sistema;
+
+b) Componente de Vigilancia y Detección: se refiere a las actividades realizadas por organismos civiles y militares que operan en tierra, mar y aire, a través de radares y otros sensores, así como de diversos medios tecnológicos para la Vigilancia y Detección en el Espacio Aéreo Mexicano;
+
+c) Componente de Interceptación Aérea: se refiere a las actividades realizadas por las Autoridades Operativas Coordinadas que cuenten con medios para la Interceptación de aeronaves en el Espacio Aéreo Mexicano, y
+
+d) Componente de Consolidación: se refiere a las actividades realizadas por las autoridades competentes y que cuentan con los medios para realizar la Consolidación en las superficies terrestre y marítima, y
+
+III. Subsistema de Profesionalización, a cargo de las Autoridades Operativas Coordinadas con atribuciones y capacidades de formación:
+
+a) Componente de Capacitación y Evaluación: se refiere a las actividades realizadas por las Autoridades Operativas Coordinadas que cuentan con la obligación de brindar la capacitación necesaria a las personas servidoras públicas que participan en las operaciones de Vigilancia y Protección del Espacio Aéreo Mexicano, conforme a lo siguiente:
+
+1\. La Secretaría, respecto a la Vigilancia, Detección e Identificación;
+
+2\. La Secretaría y la Secretaría de Marina, a través de la Fuerza Aérea Mexicana y la Armada de México, en coordinación con las demás dependencias integrantes del Sistema, respecto a la Interceptación aérea, Seguimiento, asistencia de aeronaves en vuelo y Consolidación;
+
+3\. La AFAC en materia de seguridad de la aviación civil y en materia de vigilancia de la seguridad aeroportuaria;
+
+4\. La Guardia Nacional, respecto a la intervención durante operaciones de Vigilancia y Protección del Espacio Aéreo Mexicano;
+
+5\. La SICT, respecto a búsqueda y salvamento, e investigación de accidentes e incidentes en la aviación, conforme a la regulación nacional e internacional, y
+
+6\. SENEAM, respecto a la prestación del servicio de tránsito aéreo. Para fomentar la eficiencia de los procedimientos derivados de los subsistemas y sus componentes, las Autoridades Operativas Coordinadas deben llevar a cabo ejercicios conjuntos recurrentes, de conformidad con lo que establezca el Consejo y, en caso de realizarse en una terminal aérea, sujetarse a los procedimientos del plan de emergencia de dicha terminal. Es atribución del Consejo realizar modificaciones a la conformación del Sistema, de acuerdo con sus necesidades de operación.
+
+### Artículo 24.-
+
+Durante la Interceptación aérea, Seguimiento y Consolidación de aeronaves en vuelo clandestino, las Aeronaves interceptoras podrán utilizar los aeródromos civiles, de conformidad con el artículo 49 de la Ley de Aeropuertos y el Código Nacional de Procedimientos Penales, para lo cual deben cumplir con los protocolos nacionales de actuación policial y, en su caso, con los procedimientos correspondientes aprobados por la autoridad competente de dicho aeródromo. Capítulo II
+
+8 de 15
+
+<!-- PAGINA_PDF: 9 -->
+
+REGLAMENTO DE LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Nuevo Reglamento DOF 10-02-2026 Secretaría General Secretaría de Servicios Parlamentarios
+
+Del Consejo Nacional de Vigilancia y Protección del Espacio Aéreo Sección Primera De la Operación del Consejo
+
+### Artículo 25.-
+
+Los asuntos que los integrantes del Sistema requieran tratar en el pleno del Consejo, deben ser presentados a través de la Secretaría Técnica. Para las sesiones ordinarias del Consejo, se debe convocar con treinta días de anticipación a la fecha en que se llevará a cabo la sesión, sin perjuicio de lo previsto en el segundo párrafo del artículo 17 de la Ley. Para las sesiones extraordinarias del Consejo, se debe convocar con quince días de anticipación a la fecha en que se llevará a cabo la sesión, sin perjuicio de lo previsto en el segundo párrafo del artículo 17 de la Ley.
+
+### Artículo 26.-
+
+Cuando haya algún cambio de la persona titular o de su suplente de los integrantes del Consejo, se debe tomar la protesta al cargo en la siguiente sesión, lo que se hará constar en el acta correspondiente.
+
+### Artículo 27.-
+
+Las personas integrantes del Consejo tienen derecho a voz y deben ejercer con carácter obligatorio su voto, ya sea a favor o en contra de los asuntos que se presenten de conformidad con la orden del día de la sesión correspondiente
+
+### Artículo 28.-
+
+Las personas invitadas permanentes podrán designar su suplente, quien deberá tener como mínimo el nivel jerárquico de titular de Dirección General u homólogo.
+
+### Artículo 29.-
+
+La Secretaría Técnica del Consejo convocará a la persona titular del Centro Nacional de Inteligencia a las sesiones del Consejo cuando se traten asuntos de seguridad nacional.
+
+### Artículo 30.-
+
+El Consejo, además de lo previsto en la Ley, realizará lo siguiente:
+
+I. Invitar, cuando se requiera tratar asuntos de carácter técnico especializado, a personas representantes de instituciones y organizaciones civiles en el ámbito aeronáutico, las cuales asistirán con carácter honorario, con el fin de que emitan su opinión sobre dichos asuntos;
+
+II. Promover entre los integrantes del Sistema, las políticas, acciones, programas y estrategias que, en el ámbito de su competencia, coadyuven a preservar la seguridad, soberanía e independencia del Espacio Aéreo Mexicano, y
+
+III. Solicitar a los consejos de Seguridad Nacional o de Seguridad Pública, a través de la Secretaría Técnica, su opinión, según la importancia y naturaleza de los asuntos a tratar.
+
+### Artículo 31.-
+
+Los integrantes del Consejo y todas las personas presentes en las sesiones están obligadas a guardar confidencialidad de los asuntos tratados en dichas sesiones. La persona titular de la Secretaría Técnica del Consejo podrá difundir públicamente, para efectos de transparencia y rendición de cuentas, los aspectos generales de la sesión respectiva, de conformidad con las disposiciones en materia de transparencia y acceso a la información pública.
+
+### Artículo 32.-
+
+Para la validez de las sesiones, además del porcentaje de asistencia a que se refiere el párrafo tercero del artículo 17 de la Ley, deberán estar presentes las personas titulares de la Presidencia y de la Secretaría Técnica del Consejo, o sus respectivos suplentes. Cuando la persona titular de la Secretaría supla a la persona titular de la Presidencia, la persona suplente de aquella tendrá derecho a voz, pero no a voto, ni tampoco se computará para que exista quorum legal, a efecto de evitar que se duplique la representación de la Secretaría.
+
+### Artículo 33.-
+
+Los acuerdos aprobados en las sesiones del Consejo son de carácter obligatorio para sus integrantes. Sección Segunda De la Secretaría Técnica del Consejo
+
+### Artículo 34.-
+
+La persona titular de la Secretaría Técnica, para atender las solicitudes y requerimientos que el Consejo le ordene, tiene a su cargo las funciones siguientes:
+
+I. Planeación;
+
+II. Apoyo técnico;
+
+9 de 15
+
+<!-- PAGINA_PDF: 10 -->
+
+REGLAMENTO DE LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Nuevo Reglamento DOF 10-02-2026 Secretaría General Secretaría de Servicios Parlamentarios
+
+III. Coordinación interinstitucional;
+
+IV. Asuntos jurídicos, y
+
+V. Administración. Capítulo III Del Centro Nacional de Vigilancia y Protección del Espacio Aéreo
+
+### Artículo 35.-
+
+Las operaciones de Vigilancia y Protección del Espacio Aéreo Mexicano son llevadas a cabo por la autoridad para la defensa del Espacio Aéreo Mexicano y por los integrantes del Sistema, en el ámbito de sus competencias y conforme al marco jurídico aplicable, a fin de evitar actos contra la Seguridad del Espacio Aéreo y la soberanía del territorio nacional, así como para salvaguardar la vida humana e infraestructura aeronáutica. Estas operaciones se clasifican en las categorías siguientes:
+
+I. Operaciones Preventivas del Uso Ilícito del Espacio Aéreo Mexicano;
+
+II. Operaciones Contra el Uso Ilícito del Espacio Aéreo Mexicano;
+
+III. Operaciones de inteligencia, Vigilancia y reconocimiento, y
+
+IV. Operaciones de búsqueda y salvamento, las cuales serán realizadas en cada aeródromo civil, conforme a los procedimientos aprobados en el plan de acción que dicte la SICT.
+
+### Artículo 36.-
+
+El Centro, para detectar alguna traza de interés y adoptar medidas en caso de vuelo no autorizado o vuelo clandestino, debe coordinar a los integrantes del Sistema, de conformidad con los procedimientos de actuación y coordinación de las Operaciones Contra el Uso Ilícito del Espacio Aéreo Mexicano siguientes:
+
+I. La Vigilancia;
+
+II. La Detección;
+
+III. La Identificación;
+
+IV. La Interceptación aérea;
+
+V. La asistencia y Seguimiento, y
+
+VI. La Consolidación.
+
+### Artículo 37.-
+
+El Centro debe llevar a cabo el monitoreo del Espacio Aéreo Mexicano a través de los subsistemas de Coordinación y de Ejecución, con el fin de obtener información de las aeronaves que sobrevuelen el Espacio Aéreo Mexicano, así como de aquellas que se encuentren en vuelo fuera de dicho espacio y con rumbo aparente hacia territorio mexicano, como medida de seguridad ante una Amenaza aérea.
+
+### Artículo 38.-
+
+El Centro debe elaborar la estadística de la incidencia de los vuelos clandestinos sobre el Espacio Aéreo Mexicano.
+
+### Artículo 39.-
+
+Para efectos del artículo 20, fracciones III y IV, de la Ley, las ZVP deben de ser integradas en la “Publicación de Información Aeronáutica” como una MMR en coordinación con la AFAC y SENEAM, a solicitud del Centro, y difundidas mediante un aviso emitido por medio de telecomunicaciones aeronáuticas, de conformidad con las disposiciones jurídicas aplicables.
+
+### Artículo 40.-
+
+Las ADIZ a que se refiere el artículo 20, fracción IV, de la Ley, deben ser de carácter permanente y establecerse considerando como base las fronteras del territorio nacional hasta el límite exterior de la denominada “Región de Información de Vuelo México” establecida por el derecho internacional aeronáutico para las fronteras marítimas y, en el caso de las fronteras terrestres, hasta 10 millas náuticas hacia el exterior del territorio nacional.
+
+### Artículo 41.-
+
+La determinación de ZVP a que se refiere el artículo 20, fracción IV, de la Ley, debe considerar lo siguiente:
+
+I. Eventos cívico-militares a los que asista la persona titular del Ejecutivo Federal u otros jefes de Estado o de gobierno;
+
+II. Áreas geográficas en donde se registre mayor incidencia de vuelos no autorizados o clandestinos, y
+
+III. Otros que el Centro determine.
+
+10 de 15
+
+<!-- PAGINA_PDF: 11 -->
+
+REGLAMENTO DE LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Nuevo Reglamento DOF 10-02-2026 Secretaría General Secretaría de Servicios Parlamentarios
+
+### Artículo 42.-
+
+El Centro, para el establecimiento de las ZVP a las que se refiere el artículo 5, fracción XVIII, de la Ley, y de los procedimientos para el ingreso de aeronaves a las ADIZ, debe establecer coordinación con:
+
+I. La Secretaría de Relaciones Exteriores, la Secretaría de Marina, la AFAC y SENEAM respecto a las ADIZ, y
+
+II. La AFAC y SENEAM respecto a las ZVP. Lo anterior, para garantizar la seguridad de las operaciones, de la aviación civil y el Uso Flexible del Espacio Aéreo Mexicano.
+
+### Artículo 43.-
+
+El Centro debe realizar las gestiones correspondientes para publicar las ADIZ en el Diario Oficial de la Federación y coordinarse con la AFAC para su integración en la “Publicación de Información Aeronáutica”.
+
+### Artículo 44.-
+
+SENEAM debe notificar al Centro y a la comandancia del aeropuerto correspondiente, sobre aquellas aeronaves que no se apeguen a las condiciones de operación dentro de cada ADIZ, previo a su ingreso al Espacio Aéreo Mexicano.
+
+### Artículo 45.-
+
+Es atribución exclusiva del Centro, como autoridad de control de Interceptación, comunicar el Alertamiento aéreo a los integrantes del Sistema, a partir del cual se deben realizar las acciones preventivas correspondientes para su oportuna intervención, ante situaciones de aeronaves que se clasifiquen como trazas de interés, vuelos no autorizados o vuelos clandestinos.
+
+### Artículo 46.-
+
+Al Centro, a través del Personal Técnico de Operaciones de Vigilancia Aérea, le corresponde:
+
+I. Registrar y dar seguimiento a las Operaciones Contra el Uso Ilícito del Espacio Aéreo Mexicano;
+
+II. Comunicar las declaratorias de: traza de interés, vuelo no autorizado, alertamiento aéreo, vuelo clandestino y aeronave en situación de emergencia cuando corresponda;
+
+III. Elaborar el acta de hechos que se origine por la posible comisión de faltas administrativas, la cual debe presentarse ante la AFAC cuando se trate de un posible vuelo no autorizado, conforme a la Ley, y
+
+IV. Interponer ante la autoridad competente, la denuncia que se origine por la comisión de hechos relacionados con un vuelo clandestino.
+
+### Artículo 47.-
+
+El funcionamiento y operación del Centro debe regirse por el Manual de Organización y Funcionamiento expedido por la Secretaría, de conformidad con las disposiciones jurídicas aplicables.
+
+### Artículo 48.-
+
+Los integrantes del Sistema podrán convocar reuniones para instrumentar las disposiciones técnicas emitidas por el Consejo, para estandarizar y articular los procedimientos y protocolos aplicables para la seguridad y Protección del Espacio Aéreo Mexicano.
+
+## TÍTULO TERCERO
+
+PROCEDIMIENTOS Capítulo I De las Generalidades
+
+### Artículo 49.-
+
+El Centro, de manera coordinada con los integrantes del Sistema en el ámbito de sus competencias, debe utilizar los medios a su disposición, con el objeto de detectar, localizar, identificar y clasificar el tránsito aéreo en el Espacio Aéreo Mexicano para determinar las trazas de interés, vuelo no autorizado o vuelo clandestino y, en caso de ser necesario, denunciar los hechos constitutivos de faltas administrativas o delitos ante la autoridad competente.
+
+### Artículo 50.-
+
+Los procedimientos de actuación para la Vigilancia, Detección, Identificación, Interceptación aérea y Seguimiento en territorio nacional, deben ser establecidos por el Consejo, conforme a lo previsto en la Ley, este reglamento y demás disposiciones jurídicas aplicables. Capítulo II De la Detección
+
+### Artículo 51.-
+
+El procedimiento de Detección de trazas de interés es la vigilancia sistemática y permanente del Espacio Aéreo Mexicano, consistente en ubicar, identificar y clasificar las aeronaves mediante los sistemas destinados para tal fin.
+
+### Artículo 52.-
+
+La Detección de trazas de interés en el Espacio Aéreo Mexicano debe realizarse conforme a lo siguiente:
+
+11 de 15
+
+<!-- PAGINA_PDF: 12 -->
+
+REGLAMENTO DE LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Nuevo Reglamento DOF 10-02-2026 Secretaría General Secretaría de Servicios Parlamentarios
+
+I. Detección terrestre y aerotransportada con los medios disponibles de la Fuerza Aérea Mexicana;
+
+II. Detección embarcada con los medios disponibles con que cuenta la Armada de México;
+
+III. La vigilancia que realizan los servicios de tránsito aéreo disponibles en SENEAM;
+
+IV. Otros sistemas de Detección con los que cuenten los integrantes del Sistema, y
+
+V. Intercambio de información de trazas de interés que mantengan rumbo aparente hacia territorio nacional, en el marco de los acuerdos interinstitucionales que existen con otros países. Capítulo III De la Identificación
+
+### Artículo 53.-
+
+El procedimiento de Identificación de aeronaves es la búsqueda de información entre el Centro y los integrantes del Sistema para determinar la identidad de una traza de interés de la cual se desconocen sus intenciones. La Identificación se debe realizar mediante:
+
+I. La correlación de planes de vuelo;
+
+II. La comunicación;
+
+III. La utilización de medios visuales o electrónicos, y
+
+IV. El comportamiento operacional de la Tripulación de Vuelo de la aeronave.
+
+### Artículo 54.-
+
+El Centro, para materializar la Identificación de las trazas de interés, debe realizar las acciones siguientes:
+
+I. Dentro del Espacio Aéreo Mexicano, establecer coordinación con la AFAC y SENEAM para que mediante la consulta del plan de vuelo o el establecimiento de la comunicación con la Tripulación de Vuelo de la aeronave, se conozcan sus intenciones y se identifique;
+
+II. En caso de no obtener información que permita la Identificación de la aeronave, el Centro debe proceder conforme a lo siguiente:
+
+a) Establecer comunicación con la Fuerza Aérea Mexicana, la Secretaría de Marina y la Guardia Nacional, para determinar si se trata de una aeronave perteneciente a alguna de estas dependencias, y
+
+b) Aplicar el procedimiento de Interceptación aérea, como última instancia, únicamente como medio de Identificación;
+
+III. Fuera del Espacio Aéreo Mexicano, consultar a los organismos homólogos extranjeros en materia de vigilancia y protección del espacio aéreo con los que se tengan mecanismos de cooperación vigentes para la Identificación de las aeronaves que vuelen fuera del Espacio Aéreo Mexicano, siempre que la aeronave mantenga rumbo aparente en dirección a territorio nacional, o que se encuentre dentro de la ADIZ.
+
+### Artículo 55.-
+
+El procedimiento de Identificación debe incluir la participación de la AFAC mediante la declaratoria de Alertamiento aéreo que realice el Centro, a través del Personal Técnico de Operaciones de Vigilancia Aérea, a efecto de que se ejecuten las acciones administrativas que correspondan. Capítulo IV De la Interceptación Aérea Sección Primera De las Generalidades
+
+### Artículo 56.-
+
+El procedimiento de Interceptación aérea tiene los objetivos siguientes:
+
+I. Verificar la situación de la Tripulación de Vuelo y de la aeronave;
+
+II. Conocer las intenciones de la Tripulación de Vuelo;
+
+III. Proporcionar, en caso de emergencia, asistencia a la Tripulación de Vuelo de la aeronave interceptada, en coordinación con la SICT, y demás autoridades competentes según corresponda;
+
+12 de 15
+
+<!-- PAGINA_PDF: 13 -->
+
+REGLAMENTO DE LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Nuevo Reglamento DOF 10-02-2026 Secretaría General Secretaría de Servicios Parlamentarios
+
+IV. Girar instrucciones a la Tripulación de Vuelo para que cese la maniobra que originó su Interceptación aérea, o aterrice en un aeródromo conveniente, en coordinación con la AFAC y SENEAM;
+
+V. Comunicar el motivo por el cual la aeronave ha sido interceptada. En caso de no acatar las instrucciones de la tripulación de la Aeronave interceptora, la aeronave interceptada podrá considerarse como vuelo no autorizado o vuelo clandestino, de conformidad con la Ley, este reglamento y demás disposiciones aplicables;
+
+VI. Guiar o acompañar a la tripulación de la aeronave interceptada para aterrizar en un aeródromo conveniente, en coordinación con la AFAC y SENEAM, y
+
+VII. El procedimiento de Interceptación aérea debe ser el último recurso para la Identificación de una aeronave.
+
+### Artículo 57.-
+
+La Interceptación aérea y la Consolidación deben incluir la participación de las autoridades competentes mediante el reporte o denuncia que haga el Centro, a través del Personal Técnico de Operaciones de Vigilancia Aérea, a efecto de que se ejecuten las acciones legales o administrativas que correspondan.
+
+### Artículo 58.-
+
+Quedan exentas de ser objeto de Interceptación aérea, las aeronaves del Estado mexicano que por la naturaleza de sus actividades requieran mantener la discreción de su operación mediante sus equipos de identificación apagados, por las condiciones de amenaza y riesgo a la seguridad de la vida de las personas a bordo de sus aeronaves o por seguridad nacional, siempre y cuando hayan establecido coordinación previa de su operación con el Centro.
+
+### Artículo 59.-
+
+En caso de que se presenten actos de interferencia ilícita durante una Interceptación aérea, el Centro debe presentar la denuncia correspondiente ante la autoridad competente e informar al Sistema y al Comité Especializado de Alto Nivel en Materia de Desarme, Terrorismo y Seguridad Internacionales, a través de su Secretaría General, para los efectos correspondientes de conformidad con su competencia. Sección Segunda De las Maniobras de Interceptación Aérea
+
+### Artículo 60.-
+
+Las maniobras que realice el Piloto al Mando de la Aeronave interceptora para la Identificación visual, así como para verificar la situación de la Tripulación de Vuelo de la aeronave interceptada, comprenden las fases siguientes:
+
+I. De aproximación;
+
+II. De Identificación, y
+
+III. De asistencia o Seguimiento.
+
+### Artículo 61.-
+
+Cuando la Tripulación de Vuelo de la Aeronave interceptora realice una Interceptación aérea, debe proceder de la forma siguiente:
+
+I. Cuando se trate de una aeronave civil:
+
+a) Actuar de conformidad con la Ley, el presente reglamento y demás disposiciones jurídicas aplicables;
+
+b) Ajustar su actuación conforme a los procedimientos y coordinación que al efecto determine el Consejo, y
+
+c) Cumplir con lo establecido en la Ley Nacional sobre el Uso de la Fuerza y sus protocolos, y
+
+II. Cuando se trate de una aeronave no autorizada: perteneciente a una fuerza armada extranjera o civil artillada o equipada con sensores o con ambos componentes:
+
+a) Actuar conforme a su naturaleza y a la normativa internacional de la que el Estado mexicano sea parte, y
+
+b) Aplicar el Plan Militar de Defensa Aérea, si la situación lo exige. Tercera Sección
+
+13 de 15
+
+<!-- PAGINA_PDF: 14 -->
+
+REGLAMENTO DE LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Nuevo Reglamento DOF 10-02-2026 Secretaría General Secretaría de Servicios Parlamentarios
+
+De los Deberes de la Tripulación de Vuelo de la Aeronave Interceptada
+
+### Artículo 62.-
+
+La Tripulación de Vuelo de una aeronave interceptada está obligada a proceder conforme a lo siguiente:
+
+I. Intentar establecer comunicación por radio con la Aeronave interceptora o con la instalación de control de tránsito aéreo apropiada, con una llamada general en frecuencias de emergencia (121.5 o 243.0 MHz), para informar la identidad, posición y naturaleza del vuelo;
+
+II. Cumplir sin demora con las instrucciones de la Aeronave interceptora transmitidas mediante el uso de comunicaciones por radio y, en su caso, por dispositivos o señales visuales;
+
+III. Notificar a SENEAM que está siendo interceptada;
+
+IV. Seleccionar el Modo 3/A y el Código 7700 en su equipo transpondedor, salvo que reciba otras instrucciones de SENEAM;
+
+V. Seleccionar la función de emergencia apropiada si la aeronave está equipada con ADS-B o ADS-C, salvo que reciba otras instrucciones de SENEAM, y
+
+VI. Requerir aclaración inmediata por el Piloto al Mando de la aeronave interceptada, mientras continúa con el cumplimiento de las instrucciones dadas por la Aeronave interceptora, si alguna instrucción recibida por radio o emitida por otra fuente, está en conflicto con las instrucciones dadas por la Aeronave interceptora mediante radiocomunicación o señales visuales.
+
+### Artículo 63.-
+
+Si durante la aplicación del procedimiento de Interceptación aérea se pierde el contacto visual con la aeronave interceptada y el Centro mantiene el contacto a través de los medios tecnológicos de que disponga, este debe proporcionar la información a los demás integrantes del Sistema para que en el ejercicio de sus atribuciones, de manera coordinada, lleven a cabo la búsqueda con sus propios medios, a fin de proceder con su localización y se esté en posibilidad de aplicar las medidas de asistencia, administrativas o legales que correspondan.
+
+### Artículo 64.-
+
+El aterrizaje de una aeronave interceptada en un aeródromo civil se debe ajustar a los planes de contingencia y emergencia que establezca la SICT, a través de la AFAC, los cuales deben incluir tanto los procedimientos aprobados por el Comité Local de Seguridad Aeroportuaria, como, en su caso las recomendaciones emitidas por las instancias competentes en dichos aeródromos sobre los procedimientos de actuación de las autoridades federales y militares destacamentadas en el aeródromo. Estos planes deben señalar, por lo menos, la zona de estacionamiento, custodia y aseguramiento de sus ocupantes, bienes y de la aeronave interceptada.
+
+### Artículo 65.-
+
+Los integrantes del Sistema deben participar en la atención a un vuelo no autorizado, a un vuelo clandestino o a un vuelo en situación de emergencia, conforme al ámbito de su competencia y con el uso de los recursos que tengan disponibles a efecto de atender la situación de que se trate, de conformidad con la Ley Nacional sobre el uso de la Fuerza y con irrestricto apego a los derechos humanos.
+
+### Artículo 66.-
+
+Los integrantes del Sistema, de manera coordinada, deben instruir a todas sus unidades administrativas y órganos administrativos desconcentrados, así como solicitar el apoyo a las entidades paraestatales que tengan sectorizadas, en el ámbito de sus competencias, para que prevean lo conducente al cumplimiento exacto de los procedimientos de las actividades de Vigilancia y Protección del Espacio Aéreo Mexicano. Capítulo V Del Alertamiento Aéreo
+
+### Artículo 67.-
+
+El Alertamiento aéreo es la comunicación que realiza el Centro en su carácter de autoridad de control de interceptación, para advertir sobre la existencia de una aeronave en vuelo que no ha sido identificada y representa una Amenaza para la seguridad nacional o un Riesgo para la seguridad de las aeronaves en vuelo, de las personas y de la infraestructura. Una vez emitido el Alertamiento aéreo se deben aplicar los procedimientos a que se refiere la Ley y este reglamento, incluso la Interceptación aérea como última instancia para hacer frente a dicha Amenaza o Riesgo.
+
+14 de 15
+
+<!-- PAGINA_PDF: 15 -->
+
+REGLAMENTO DE LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Nuevo Reglamento DOF 10-02-2026 Secretaría General Secretaría de Servicios Parlamentarios
+
+### Artículo 68.-
+
+El Centro debe comunicar el Alertamiento aéreo a los integrantes del Sistema mediante una declaratoria, conforme a la Ley, para lo cual debe hacer uso de los medios que disponga.
+
+### Artículo 69.-
+
+El Centro debe declarar un Alertamiento aéreo cuando se den las circunstancias a que se refiere la Ley, y los supuestos siguientes:
+
+I. Después del procedimiento para la Identificación de la aeronave y no haya sido posible determinar su identidad;
+
+II. Cuando SENEAM detecte un vuelo no autorizado dentro del Espacio Aéreo Mexicano;
+
+III. Cuando se tenga conocimiento de que una aeronave modificó intencionalmente su ruta, sin aprobación de SENEAM, y mantenga rumbo aparente hacia el exterior del territorio nacional, y
+
+IV. Cuando una autoridad extranjera comparta información sobre la existencia de una aeronave con rumbo o intenciones de ingresar al Espacio Aéreo Mexicano y esta ingrese a las ADIZ sin apegarse al procedimiento establecido y publicado en el Diario Oficial de la Federación.
+
+### Artículo 70.-
+
+El Centro debe comunicar el cese del Alertamiento aéreo, una vez que finalicen las actividades que lo motivaron, sin perjuicio de continuar con las actividades que deban hacerse durante la Consolidación.
+
+## TRANSITORIOS
+
+Primero. El presente Decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto deben realizarse con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes en el Presupuesto de Egresos de la Federación correspondiente, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales.
+
+Tercero. El Manual de Organización y Funcionamiento del Centro se expedirá transcurridos 365 días después de la publicación del presente Decreto.
+
+Cuarto. Los integrantes del Sistema de Vigilancia y Protección del Espacio Aéreo Mexicano deben armonizar sus respectivos reglamentos, manuales de organización, de funcionamiento y de procedimientos, con el objeto de cumplir con la Ley de Protección del Espacio Aéreo Mexicano y con el presente reglamento. Dado en la residencia del Poder Ejecutivo Federal, en Ciudad de México, a 09 de febrero de 2026.- La Presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo.- Rúbrica.- La Secretaria de Gobernación, Rosa Icela Rodríguez Velázquez.- Rúbrica.- El Secretario de Relaciones Exteriores, Juan Ramón de la Fuente Ramírez.- Rúbrica.- El Secretario de la Defensa Nacional, Ricardo Trevilla Trejo.- Rúbrica.- El Secretario de Marina, Raymundo Pedro Morales Ángeles.- Rúbrica.- El Secretario de Seguridad y Protección Ciudadana, Omar Hamid García Harfuch.- Rúbrica.- El Secretario de Infraestructura, Comunicaciones y Transportes, Jesús Antonio Esteva Medina.- Rúbrica.
+
+15 de 15

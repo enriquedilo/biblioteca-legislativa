@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T19:22:51.213180+00:00
+Actualizado: 2026-09-21T06:17:47.686323+00:00
 
-Procesados: **354/453**. Intentados: 354/453. Pendientes reportados: 0.
+Procesados: **447/453**. Intentados: 453/453. Pendientes reportados: 6.
 
-Lote 35 publicado; revisión de vigencia recuperada completada. Próximo lote: 36.
+45 lotes publicados. 453/453 intentados; 447 incorporados y 6 pendientes reportados. Captura cerrada, pendiente revisión del pull request.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -46,16 +46,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 33 | 10/10 | Publicado |
 | 34 | 10/10 | Publicado |
 | 35 | 10/10 | Publicado |
-| 36 | 0/10 | Pendiente |
-| 37 | 0/10 | Pendiente |
-| 38 | 0/10 | Pendiente |
-| 39 | 0/10 | Pendiente |
-| 40 | 0/10 | Pendiente |
-| 41 | 0/10 | Pendiente |
-| 42 | 0/10 | Pendiente |
-| 43 | 0/10 | Pendiente |
-| 44 | 0/10 | Pendiente |
-| 45 | 0/9 | Pendiente |
+| 36 | 10/10 | Publicado |
+| 37 | 10/10 | Publicado |
+| 38 | 10/10 | Publicado |
+| 39 | 10/10 | Publicado |
+| 40 | 10/10 | Publicado |
+| 41 | 10/10 | Publicado |
+| 42 | 10/10 | Publicado |
+| 43 | 10/10 | Publicado |
+| 44 | 10/10 | Publicado |
+| 45 | 9/9 | Publicado |
 
 | Lote | ID | Sigla | Estado | Detalle |
 |---|---|---|---|---|
@@ -412,103 +412,103 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 35 | 351 | Reg_LNCM_040315 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 35 | 352 | Reg_LOPSRM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 35 | 353 | Reg_LOGan | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 36 | 354 | Reg_LPesca | pendiente | — |
-| 36 | 355 | Reg_LPTE | pendiente | — |
-| 36 | 356 | Reg_LPO | pendiente | — |
-| 36 | 357 | Reg_LPEAM | pendiente | — |
-| 36 | 358 | Reg_LPue | pendiente | — |
-| 36 | 359 | Reg_LTF_300617 | pendiente | — |
-| 36 | 360 | Reg_LIVA_250914 | pendiente | — |
-| 36 | 361 | Reg_LIEPS | pendiente | — |
-| 36 | 362 | Reg_LISR_060516 | pendiente | — |
-| 36 | 363 | Reg_LInfonavit_MTAI | pendiente | — |
-| 37 | 364 | Reg_LIFNCT | pendiente | — |
-| 37 | 365 | Reg_LRPV | pendiente | — |
-| 37 | 366 | Reg_LSE | pendiente | — |
-| 37 | 367 | Reg_LSH | pendiente | — |
-| 37 | 368 | Reg_LSS_MAEBA | pendiente | — |
-| 37 | 369 | Reg_LSS_MACERF | pendiente | — |
-| 37 | 370 | Reg_LSS_RFARGFA | pendiente | — |
-| 37 | 371 | Reg_LSEM | pendiente | — |
-| 37 | 372 | Reg_LSM_orig_10nov42_ima | pendiente | — |
-| 37 | 373 | Reg_LSPCAPF | pendiente | — |
-| 38 | 374 | Reg_LSPEE_MA | pendiente | — |
-| 38 | 375 | Reg_LFA | pendiente | — |
-| 38 | 376 | Reg_LFAFE | pendiente | — |
-| 38 | 377 | Reg_LFCine | pendiente | — |
-| 38 | 378 | Reg_LFCE | pendiente | — |
-| 38 | 379 | Reg_LFCP | pendiente | — |
-| 38 | 380 | Reg_LFFAROSC | pendiente | — |
-| 38 | 381 | Reg_LFJS | pendiente | — |
-| 38 | 382 | Reg_LFEP | pendiente | — |
-| 38 | 383 | Reg_LFPRH | pendiente | — |
-| 39 | 384 | Reg_LFPCCS | pendiente | — |
-| 39 | 385 | Reg_LFPPI | pendiente | — |
-| 39 | 386 | Reg_LFPC_191219 | pendiente | — |
-| 39 | 387 | Reg_LFPDPPP | pendiente | — |
-| 39 | 388 | Reg_LFRT_MCPCTRT | pendiente | — |
-| 39 | 389 | Reg_LFSA | pendiente | — |
-| 39 | 390 | Reg_LFSV | pendiente | — |
-| 39 | 391 | Reg_LFSP | pendiente | — |
-| 39 | 392 | Reg_LFTR_MCSRE | pendiente | — |
-| 39 | 393 | Reg_LFTAIPG | pendiente | — |
-| 40 | 394 | Reg_LFVV | pendiente | — |
-| 40 | 395 | Reg_LFZEE_290917 | pendiente | — |
-| 40 | 396 | Reg_LFDA | pendiente | — |
-| 40 | 397 | Reg_LFCPrecQuim | pendiente | — |
-| 40 | 398 | Reg_LFAEBSP | pendiente | — |
-| 40 | 399 | Reg_LFPIORPI | pendiente | — |
-| 40 | 400 | Reg_LFMN | pendiente | — |
-| 40 | 401 | Reg_LFMZAAH_031220 | pendiente | — |
-| 40 | 402 | Reg_LGAMVLV | pendiente | — |
-| 40 | 403 | Reg_LGCC_MRNE_281014 | pendiente | — |
-| 41 | 404 | Reg_LGCFD | pendiente | — |
-| 41 | 405 | Reg_LGCDC_291118 | pendiente | — |
-| 41 | 406 | Reg_LGDFS | pendiente | — |
-| 41 | 407 | Reg_LGDS | pendiente | — |
-| 41 | 408 | Reg_LGIFE | pendiente | — |
-| 41 | 409 | Reg_LGDNNA | pendiente | — |
-| 41 | 410 | Reg_LGP | pendiente | — |
-| 41 | 411 | Reg_LGPSACDII_100516 | pendiente | — |
-| 41 | 412 | Reg_LGPC_091215 | pendiente | — |
-| 41 | 413 | Reg_LGS_MCSAEPS_orig_18ene88_ima | pendiente | — |
-| 42 | 414 | Reg_LGS_MCSOTCSH_orig_20feb85 | pendiente | — |
-| 42 | 415 | Reg_LGS_MCSPIUMC_120121 | pendiente | — |
-| 42 | 416 | Reg_LGS_MIS_orig_06ene87 | pendiente | — |
-| 42 | 417 | Reg_LGS_MPSAM_170718 | pendiente | — |
-| 42 | 418 | Reg_LGS_MP | pendiente | — |
-| 42 | 419 | Reg_LGS_MSI | pendiente | — |
-| 42 | 420 | Reg_LGS_MT | pendiente | — |
-| 42 | 421 | Reg_LGT | pendiente | — |
-| 42 | 422 | Reg_LGV | pendiente | — |
-| 42 | 423 | Reg_LGVS | pendiente | — |
-| 43 | 424 | Reg_LGEEPA_ANP | pendiente | — |
-| 43 | 425 | Reg_LGEEPA_MAAA_311014 | pendiente | — |
-| 43 | 426 | Reg_LGEEPA_MEIA_311014 | pendiente | — |
-| 43 | 427 | Reg_LGEEPA_MOE_311014 | pendiente | — |
-| 43 | 428 | Reg_LGEEPA_MPCCA_311014 | pendiente | — |
-| 43 | 429 | Reg_LGEEPA_MRETC_311014 | pendiente | — |
-| 43 | 430 | Reg_LGCT | pendiente | — |
-| 43 | 431 | Reg_LGAPPCEA | pendiente | — |
-| 43 | 432 | Reg_LGIPD | pendiente | — |
-| 43 | 433 | Reg_LGPSVD_190914 | pendiente | — |
-| 44 | 434 | Reg_LGPGIR_311014 | pendiente | — |
-| 44 | 435 | Reg_LGPSEDMTP | pendiente | — |
-| 44 | 436 | Reg_LMin | pendiente | — |
-| 44 | 437 | Reg_LOPGJDF | pendiente | — |
-| 44 | 438 | Reg_LOPGR | pendiente | — |
-| 44 | 439 | Reg_LOINAH_240521 | pendiente | — |
-| 44 | 440 | Reg_LDCMPME_240518 | pendiente | — |
-| 44 | 441 | Reg_LFIIEDB | pendiente | — |
-| 44 | 442 | Reg_LUPDECR | pendiente | — |
-| 44 | 443 | Reg_LPPDDHP | pendiente | — |
-| 45 | 444 | Reg_LFGFAGA_fe_16may55 | pendiente | — |
-| 45 | 445 | Reg_LRMineras | pendiente | — |
-| 45 | 446 | Reg_LRArt5C_orig_01oct45 | pendiente | — |
-| 45 | 447 | Reg_LEBHN | pendiente | — |
-| 45 | 448 | Reg_LRPC | pendiente | — |
-| 45 | 449 | Reg_Art121-122_LFT_050614 | pendiente | — |
-| 45 | 450 | Reg_LFPC_Art122 | pendiente | — |
-| 45 | 451 | Reg_LFIF_Art95 | pendiente | — |
-| 45 | 452 | Reg_CComer_MPSC | pendiente | — |
+| 36 | 354 | Reg_LPesca | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 36 | 355 | Reg_LPTE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 36 | 356 | Reg_LPO | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 36 | 357 | Reg_LPEAM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 36 | 358 | Reg_LPue | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 36 | 359 | Reg_LTF_300617 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 36 | 360 | Reg_LIVA_250914 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 36 | 361 | Reg_LIEPS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 36 | 362 | Reg_LISR_060516 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 36 | 363 | Reg_LInfonavit_MTAI | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 37 | 364 | Reg_LIFNCT | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 37 | 365 | Reg_LRPV | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 37 | 366 | Reg_LSE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 37 | 367 | Reg_LSH | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 37 | 368 | Reg_LSS_MAEBA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 37 | 369 | Reg_LSS_MACERF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 37 | 370 | Reg_LSS_RFARGFA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 37 | 371 | Reg_LSEM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 37 | 372 | Reg_LSM_orig_10nov42_ima | error_reportado | Conversión altera contenido; versión no promovida |
+| 37 | 373 | Reg_LSPCAPF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 38 | 374 | Reg_LSPEE_MA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 38 | 375 | Reg_LFA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 38 | 376 | Reg_LFAFE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 38 | 377 | Reg_LFCine | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 38 | 378 | Reg_LFCE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 38 | 379 | Reg_LFCP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 38 | 380 | Reg_LFFAROSC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 38 | 381 | Reg_LFJS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 38 | 382 | Reg_LFEP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 38 | 383 | Reg_LFPRH | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 39 | 384 | Reg_LFPCCS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 39 | 385 | Reg_LFPPI | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 39 | 386 | Reg_LFPC_191219 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 39 | 387 | Reg_LFPDPPP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 39 | 388 | Reg_LFRT_MCPCTRT | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 39 | 389 | Reg_LFSA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 39 | 390 | Reg_LFSV | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 39 | 391 | Reg_LFSP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 39 | 392 | Reg_LFTR_MCSRE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 39 | 393 | Reg_LFTAIPG | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 40 | 394 | Reg_LFVV | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 40 | 395 | Reg_LFZEE_290917 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 40 | 396 | Reg_LFDA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 40 | 397 | Reg_LFCPrecQuim | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 40 | 398 | Reg_LFAEBSP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 40 | 399 | Reg_LFPIORPI | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 40 | 400 | Reg_LFMN | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 40 | 401 | Reg_LFMZAAH_031220 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 40 | 402 | Reg_LGAMVLV | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 40 | 403 | Reg_LGCC_MRNE_281014 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 41 | 404 | Reg_LGCFD | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 41 | 405 | Reg_LGCDC_291118 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 41 | 406 | Reg_LGDFS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 41 | 407 | Reg_LGDS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 41 | 408 | Reg_LGIFE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 41 | 409 | Reg_LGDNNA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 41 | 410 | Reg_LGP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 41 | 411 | Reg_LGPSACDII_100516 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 41 | 412 | Reg_LGPC_091215 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 41 | 413 | Reg_LGS_MCSAEPS_orig_18ene88_ima | error_reportado | Conversión altera contenido; versión no promovida |
+| 42 | 414 | Reg_LGS_MCSOTCSH_orig_20feb85 | error_reportado | Conversión altera contenido; versión no promovida |
+| 42 | 415 | Reg_LGS_MCSPIUMC_120121 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 42 | 416 | Reg_LGS_MIS_orig_06ene87 | error_reportado | Conversión altera contenido; versión no promovida |
+| 42 | 417 | Reg_LGS_MPSAM_170718 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 42 | 418 | Reg_LGS_MP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 42 | 419 | Reg_LGS_MSI | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 42 | 420 | Reg_LGS_MT | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 42 | 421 | Reg_LGT | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 42 | 422 | Reg_LGV | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 42 | 423 | Reg_LGVS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 43 | 424 | Reg_LGEEPA_ANP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 43 | 425 | Reg_LGEEPA_MAAA_311014 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 43 | 426 | Reg_LGEEPA_MEIA_311014 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 43 | 427 | Reg_LGEEPA_MOE_311014 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 43 | 428 | Reg_LGEEPA_MPCCA_311014 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 43 | 429 | Reg_LGEEPA_MRETC_311014 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 43 | 430 | Reg_LGCT | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 43 | 431 | Reg_LGAPPCEA | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 43 | 432 | Reg_LGIPD | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 43 | 433 | Reg_LGPSVD_190914 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 44 | 434 | Reg_LGPGIR_311014 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 44 | 435 | Reg_LGPSEDMTP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 44 | 436 | Reg_LMin | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 44 | 437 | Reg_LOPGJDF | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 44 | 438 | Reg_LOPGR | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 44 | 439 | Reg_LOINAH_240521 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 44 | 440 | Reg_LDCMPME_240518 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 44 | 441 | Reg_LFIIEDB | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 44 | 442 | Reg_LUPDECR | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 44 | 443 | Reg_LPPDDHP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 45 | 444 | Reg_LFGFAGA_fe_16may55 | pendiente_sin_texto | PDF sin capa de texto extraíble; sin OCR. Original conservado en preparación. |
+| 45 | 445 | Reg_LRMineras | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 45 | 446 | Reg_LRArt5C_orig_01oct45 | error_reportado | Conversión altera contenido; versión no promovida |
+| 45 | 447 | Reg_LEBHN | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 45 | 448 | Reg_LRPC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 45 | 449 | Reg_Art121-122_LFT_050614 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 45 | 450 | Reg_LFPC_Art122 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 45 | 451 | Reg_LFIF_Art95 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 45 | 452 | Reg_CComer_MPSC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 0 | 453 | Reg_CFF | piloto_aprobado | Conversión conservada; cotejo Word/PDF con incidencias |

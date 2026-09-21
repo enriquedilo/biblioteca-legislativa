@@ -1,0 +1,592 @@
+{
+  "id": 342,
+  "fecha_revision": "2026-09-18T15:08:01.919646+00:00",
+  "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 11,
+  "paginas_sin_texto": [],
+  "pagina_blanca_confirmada_visualmente": false,
+  "texto_conservado": true,
+  "comparacion_word_pdf": {
+    "palabras_comparadas": 4610,
+    "palabras_pdf": 4864,
+    "frecuencias_coinciden": false,
+    "orden_coincide_separando_nota_al_pie": false,
+    "nota_al_pie_reubicada_por_lector_word": null,
+    "normalizaciones_solo_comparacion": [
+      "Misma función lexical_tokens de Sinaloa; no modifica los originales ni el Markdown."
+    ],
+    "limite": "Campos Word y encabezados permanecen en el control; las diferencias se reportan sin reparación.",
+    "solo_word": {
+      "diario": 1,
+      "oficial": 1,
+      "octubre": 1,
+      "sección": 1,
+      "b": 1,
+      "segunda": 1,
+      "page": 2,
+      "mergeformat": 1,
+      "viernes": 1,
+      "embed": 1,
+      "word": 1,
+      "picture": 1,
+      "numpages": 1
+    },
+    "solo_pdf": {
+      "reglamento": 10,
+      "de": 58,
+      "la": 20,
+      "ley": 10,
+      "ingresos": 10,
+      "sobre": 10,
+      "hidrocarburos": 10,
+      "cámara": 10,
+      "diputados": 10,
+      "del": 10,
+      "h": 10,
+      "congreso": 10,
+      "unión": 10,
+      "última": 10,
+      "reforma": 10,
+      "dof": 10,
+      "secretaría": 20,
+      "general": 10,
+      "servicios": 10,
+      "parlamentarios": 10
+    }
+  },
+  "articulos_word": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36"
+  ],
+  "articulos_pdf": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "artículo19de",
+    "7",
+    "8",
+    "9",
+    "artículo6de",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "artículo23de",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "artículo5de"
+  ],
+  "identificadores_articulos_coinciden": false,
+  "encabezados_transitorios": [
+    {
+      "pagina": 8,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 10,
+      "encabezado": "TRANSITORIO"
+    },
+    {
+      "pagina": 11,
+      "encabezado": "TRANSITORIOS"
+    }
+  ],
+  "encabezados_ordinales_en_seccion_transitoria": [
+    "Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario",
+    "Segundo.- Con el fin de que la Secretaría de Hacienda y Crédito Público ejerza las facultades que le",
+    "Tercero.- Las disposiciones administrativas relacionadas con lo dispuesto en el Título Tercero de la",
+    "Cuarto.- Durante los años 2014 y 2015, para efectos de la determinación de los conceptos señalados",
+    "Quinto.- Para efectos de los artículos 18 y 30 de este Reglamento, y 55, párrafo cuarto de la Ley de",
+    "Artículo Único.- Se REFORMAN los artículos 6, en sus fracciones VI y VII y 9 del Reglamento de la",
+    "ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial",
+    "ARTÍCULO ÚNICO.- Se reforman los artículos 2, párrafo primero; 4, párrafos primero y segundo; 5,",
+    "Primero.- El presente Decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de",
+    "Segundo.- En caso de que se solicite la migración de una Asignación a un Contrato para la",
+    "Tercero.- La Secretaría y la Secretaría de Energía deben hacer las adecuaciones necesarias a los",
+    "Cuarto.- Las erogaciones que, en su caso, se generen con motivo de la ejecución del presente"
+  ],
+  "articulos_numericos_en_seccion_transitoria": [
+    "artículo5de"
+  ],
+  "transitorios_y_notas_completos_incluidos": true,
+  "paginas_cotejadas_visualmente": [],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 2196,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 2517,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 12,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 3184,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 2739,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 2991,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 3,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 3148,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 2815,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 2635,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 1617,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 870,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 11,
+      "caracteres_no_blancos": 2503,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    }
+  ],
+  "alcance": "Controles de conservación en todas las páginas; comparación de cifras con Poppler y pypdf. El cotejo visual se registra por separado. No certifica vigencia jurídica.",
+  "incidencias_resueltas": [],
+  "diferencias_de_fuente": [
+    "La secuencia de encabezados numéricos difiere Word/PDF; consultar contadores y evidencia. No se corrige.",
+    "La comparación léxica Word/PDF no coincide: encabezados repetidos, campos Word y otras diferencias pendientes de cotejo. No equivale a pérdida del Markdown.",
+    "El control original con retirada de paginación difiere. Se conserva el resultado y se añade comparación simétrica de cifras sin retirar paginación.",
+    "Hay discrepancias en la secuencia de cifras entre los dos lectores PDF; requieren cotejo, no se reparan.",
+    "Word original .doc conservado por autorización expresa del usuario; no se fabrica original.docx."
+  ],
+  "formato_word_original": "doc",
+  "ocr_ejecutado": false,
+  "incidencias_descarga": [],
+  "promociones_encabezado_evitadas": [
+    {
+      "linea": 10,
+      "texto": "artículo 19 de este Reglamento, y",
+      "anterior": "VII. Las reglas para la correcta operación de las Contraprestaciones, conforme a lo señalado en el",
+      "siguiente": "Fracción reformada DOF 22-05-2017",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 3
+    },
+    {
+      "linea": 44,
+      "texto": "artículo 6 de este Reglamento.",
+      "anterior": "términos se harán del conocimiento de la Secretaría de Energía a través de la resolución señalada en el",
+      "siguiente": "",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 3
+    },
+    {
+      "linea": 40,
+      "texto": "artículo 23 de la Ley, se actualizarán anualmente el primero de enero de cada año, considerando el",
+      "anterior": "Artículo 18.- Los valores de las Cuotas Contractuales para la Fase de Exploración a que se refiere el",
+      "siguiente": "periodo comprendido desde el décimo tercer mes inmediato anterior y hasta el último mes anterior a",
+      "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+      "pagina": 5
+    },
+    {
+      "linea": 31,
+      "texto": "artículo 5 de este Reglamento, así como los términos técnicos que haya emitido y la propuesta del",
+      "anterior": "Hidrocarburos, la Secretaría de Energía debe entregarle lo señalado en las fracciones I, III y IV del",
+      "siguiente": "acuerdo de operación conjunta conforme al Reglamento de la Ley del Sector Hidrocarburos.",
+      "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+      "pagina": 11
+    }
+  ],
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-18T15:08:01.919646+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "decreto_numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.edicion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.seccion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "reformas",
+        "motivo": "Notas literales conservadas con todas las fechas; fecha escalar null si hay varias. Números de diario/decreto no impresos quedan null. Captura automática pendiente de revisión."
+      },
+      {
+        "campo": "abroga",
+        "motivo": "No se localizaron cláusulas con la forma expresa se abroga/queda abrogado; arreglo vacío pendiente de cotejo."
+      },
+      {
+        "campo": "abrogacion_programada",
+        "motivo": "Portada/encabezado sin declaración identificada de abrogación o término de vigencia en fecha cierta; null."
+      }
+    ],
+    "evidencia": {
+      "abroga": [],
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "REGLAMENTO DE LA LEY DE INGRESOS SOBRE HIDROCARBUROS Nuevo Reglamento publicado en el Diario Oficial de la Federación el 31 de octubre de 2014"
+      },
+      "ultima_reforma": {
+        "pagina": 1,
+        "texto": "Última Reforma DOF 03-10-2025"
+      },
+      "reformas": {
+        "pagina_inicio": 1,
+        "encabezado": null,
+        "filas": [
+          {
+            "fila": 0,
+            "texto": "Párrafo reformado DOF 03-10-2025",
+            "pagina": 1
+          },
+          {
+            "fila": 1,
+            "texto": "Párrafo reformado DOF 03-10-2025",
+            "pagina": 1
+          },
+          {
+            "fila": 2,
+            "texto": "Párrafo reformado DOF 03-10-2025",
+            "pagina": 2
+          },
+          {
+            "fila": 3,
+            "texto": "Párrafo reformado DOF 03-10-2025",
+            "pagina": 2
+          },
+          {
+            "fila": 4,
+            "texto": "Fracción reformada DOF 22-05-2017",
+            "pagina": 2
+          },
+          {
+            "fila": 5,
+            "texto": "Fracción reformada DOF 22-05-2017",
+            "pagina": 3
+          },
+          {
+            "fila": 6,
+            "texto": "Fracción adicionada DOF 22-05-2017",
+            "pagina": 3
+          },
+          {
+            "fila": 7,
+            "texto": "Párrafo reformado DOF 03-10-2025",
+            "pagina": 3
+          },
+          {
+            "fila": 8,
+            "texto": "Párrafo reformado DOF 03-10-2025",
+            "pagina": 3
+          },
+          {
+            "fila": 9,
+            "texto": "Párrafo reformado DOF 03-10-2025",
+            "pagina": 3
+          },
+          {
+            "fila": 10,
+            "texto": "Artículo reformado DOF 22-05-2017",
+            "pagina": 3
+          },
+          {
+            "fila": 11,
+            "texto": "Párrafo reformado DOF 03-10-2025",
+            "pagina": 4
+          },
+          {
+            "fila": 12,
+            "texto": "Párrafo reformado DOF 03-10-2025",
+            "pagina": 4
+          },
+          {
+            "fila": 13,
+            "texto": "Párrafo reformado DOF 03-10-2025",
+            "pagina": 4
+          },
+          {
+            "fila": 14,
+            "texto": "Párrafo reformado DOF 03-10-2025",
+            "pagina": 4
+          },
+          {
+            "fila": 15,
+            "texto": "Párrafo reformado DOF 03-10-2025",
+            "pagina": 4
+          },
+          {
+            "fila": 16,
+            "texto": "Artículo reformado DOF 03-10-2025",
+            "pagina": 5
+          },
+          {
+            "fila": 17,
+            "texto": "Artículo reformado DOF 03-10-2025",
+            "pagina": 5
+          },
+          {
+            "fila": 18,
+            "texto": "Artículo reformado DOF 03-10-2025",
+            "pagina": 6
+          },
+          {
+            "fila": 19,
+            "texto": "Párrafo reformado DOF 03-10-2025",
+            "pagina": 6
+          },
+          {
+            "fila": 20,
+            "texto": "Párrafo reformado DOF 03-10-2025",
+            "pagina": 6
+          },
+          {
+            "fila": 21,
+            "texto": "Artículo reformado DOF 03-10-2025",
+            "pagina": 6
+          },
+          {
+            "fila": 22,
+            "texto": "Artículo reformado DOF 03-10-2025",
+            "pagina": 6
+          },
+          {
+            "fila": 23,
+            "texto": "Artículo reformado DOF 03-10-2025",
+            "pagina": 6
+          },
+          {
+            "fila": 24,
+            "texto": "Artículo reformado DOF 03-10-2025",
+            "pagina": 6
+          },
+          {
+            "fila": 25,
+            "texto": "Párrafo reformado DOF 03-10-2025",
+            "pagina": 7
+          },
+          {
+            "fila": 26,
+            "texto": "Párrafo reformado DOF 03-10-2025",
+            "pagina": 7
+          },
+          {
+            "fila": 27,
+            "texto": "Párrafo reformado DOF 03-10-2025",
+            "pagina": 7
+          },
+          {
+            "fila": 28,
+            "texto": "Artículo reformado DOF 03-10-2025",
+            "pagina": 7
+          },
+          {
+            "fila": 29,
+            "texto": "Artículo derogado DOF 03-10-2025",
+            "pagina": 7
+          },
+          {
+            "fila": 30,
+            "texto": "Artículo reformado DOF 03-10-2025",
+            "pagina": 7
+          },
+          {
+            "fila": 31,
+            "texto": "Párrafo reformado DOF 03-10-2025",
+            "pagina": 8
+          },
+          {
+            "fila": 32,
+            "texto": "Párrafo reformado DOF 03-10-2025",
+            "pagina": 8
+          },
+          {
+            "fila": 33,
+            "texto": "Artículo reformado DOF 03-10-2025",
+            "pagina": 8
+          }
+        ]
+      }
+    }
+  },
+  "control_pypdf_informativo": {
+    "fuente": "Usuario; piloto aprobado en la conversación",
+    "descripcion": "pypdf fragmenta números con espacios; verificado por el usuario contra originales en 11 páginas señaladas del CFF y tres de CPEUM. Markdown generado con Poppler.",
+    "decision": "Control informativo, no bloquea lotes y no modifica textos. No se atribuye cotejo visual adicional a Codex."
+  },
+  "incidencias_metadata": [],
+  "correccion_formatos_lote36": {
+    "fecha": "2026-09-18T19:35:32.787843+00:00",
+    "version_anterior": "d7031b8216d2408bb1eb4059303b58542f277ca45e4972e1d21965a0038a325e",
+    "aperturas": 0,
+    "evidencia_paginas": [],
+    "metadata": [
+      {
+        "campo": "nombre_catalogo",
+        "anterior": "DOF 31/10/2014",
+        "nuevo": "REGLAMENTO de la Ley de Ingresos sobre Hidrocarburos"
+      },
+      {
+        "campo": "nombre_catalogo_sitio",
+        "anterior": "DOF 31/10/2014",
+        "nuevo": "REGLAMENTO de la Ley de Ingresos sobre Hidrocarburos"
+      },
+      {
+        "campo": "nombre_oficial",
+        "anterior": null,
+        "nuevo": "REGLAMENTO DE LA LEY DE INGRESOS SOBRE HIDROCARBUROS",
+        "pagina_pdf": 1
+      }
+    ],
+    "originales_y_extraccion_intactos": true,
+    "texto_conservado": "Solo formato; se retiran comas de millar de los números de encabezado por instrucción expresa. Todo el texto restante permanece idéntico."
+  }
+}

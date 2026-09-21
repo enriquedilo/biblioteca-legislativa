@@ -44,9 +44,10 @@ def catalog():
    sigla=Path(pdf).stem;url=urljoin(base.BASE,pdf)
    if any(r['url_pdf']==url for r in rows):continue
    titlelinks=[l for l in cells[1]['links'] if l['text'].strip()]
-   name=' '.join((titlelinks[0]['text'] if titlelinks else cells[1]['text'].split('DOF')[0]).split())
+   celltext=' '.join(cells[1]['text'].split())
+   name=(re.split(r'\b(?:Original|Reformas?|Cantidades|Nueva|Nuevo Reglamento|DOF|Antes)\b',celltext,maxsplit=1,flags=re.I)[0].rstrip(' (') if section=='regla.htm' else ' '.join((titlelinks[0]['text'] if titlelinks else cells[1]['text'].split('DOF')[0]).split()))
    word=next((l['href'] for l in links if Path(l['href']).stem.lower()==sigla.lower() and l['href'].lower().endswith('.doc')),None)
-   low=name.casefold();tipo='reglamento' if section=='regla.htm' else ('constitucion' if low.startswith('constitución') else 'codigo' if low.startswith('código') else 'ley_general' if low.startswith('ley general') else 'ley_organica' if low.startswith('ley orgánica') else 'ley')
+   low=name.casefold();tipo='reglamento' if section=='regla.htm' else ('constitucion' if low.startswith('constitución') else 'codigo' if low.startswith('código') else 'ley_general' if low.startswith('ley general') else 'ley_organica' if low.startswith('ley orgánica') else 'reglamento' if low.startswith('reglamento') else 'ordenanza' if low.startswith('ordenanza') else 'ley')
    ident=ids.get(url)
    if ident is None:ident=nextid;nextid+=1
    rows.append({'id':ident,'sigla':sigla,'slug':slug_nombre(name) if numeric_sigla(sigla) else sigla.lower(),'archivo_origen':Path(pdf).name,'nombre_catalogo':name,'nombre_catalogo_sitio':name,'ley':name,'url_pdf':url,'url_word':urljoin(base.BASE,word) if word else None,'nb_extword':'doc','seccion_sitio':section,'secciones_sitio':[section],'orden':'federal','regimen':'general','tipo':tipo,'vigencia_anual':(low.startswith('ley de ingresos de la federación') and 'ejercicio fiscal' in low) or 'tarifa de la ley de los impuestos generales de importación y exportación' in low})
