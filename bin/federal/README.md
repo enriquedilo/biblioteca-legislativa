@@ -10,13 +10,13 @@ Resultados y límites del piloto: `Federal/reportes/piloto.md`. La continuación
 
 ## Lotes y corte vigente
 
-El piloto y el corte de cinco lotes fueron aprobados. Los lotes 1–40 están publicados. `lotes.py` persiste cada intento, recupera publicaciones interrumpidas y sincroniza federal antes del push, incorporando main sin reescribir commits publicados. El control pypdf es informativo.
+El piloto y el corte de cinco lotes fueron aprobados. Los lotes 1–45 están publicados. `lotes.py` persiste cada intento, recupera publicaciones interrumpidas y sincroniza federal antes del push, incorporando main sin reescribir commits publicados. El control pypdf es informativo.
 
-Corte actual: 403 procesados, 404 intentados, un pendiente (ID 372) y 49 sin intentar; próximo lote 41. Detenido tras el lote 40 por el corte solicitado. Para avanzar cinco lotes: `python3 bin/federal/lotes.py --lotes 5`. Si el usuario ordena detenerse, registrar la barrera reanudar_requiere_instruccion_usuario y usar --reanudar únicamente tras una instrucción posterior de continuación.
+Captura concluida: 453 intentados, 447 incorporados y seis pendientes sin promover (372, 413, 414, 416, 444 y 446). No quedan registros sin intentar. El 444 no tiene texto extraíble; los otros cinco fallaron conservación. No reparar ni aplicar OCR; 372 expresamente ratificado por el usuario. Para avanzar cinco lotes: `python3 bin/federal/lotes.py --lotes 5`. Si el usuario ordena detenerse, registrar la barrera reanudar_requiere_instruccion_usuario y usar --reanudar únicamente tras una instrucción posterior de continuación.
 
 Slugs: cuando la sigla de origen sea numérica, incluidos sufijos numéricos de fecha, derivar del nombre oficial mediante slug_nombre; conservar sigla y archivo_origen. Si nombre_oficial no está cotejado, slug null con incidencia. Los siete casos señalados por el usuario y los dos casos anteriores con sufijo de fecha se ajustaron creando nuevas versiones de metadatos; originales y texto permanecen idénticos. Reporte: ajuste-slugs-numericos.json.
 
-Informe e inventario: `Federal/reportes/corte-lotes-36-40.md` y `originales-corte-40.json`. Los enlaces locales actual deben ser enlaces simbólicos; el clon principal tiene core.symlinks=false y un rebase puede representarlos como archivos. Verificar/restaurar al destino exacto de actual.json sin tocar originales ni textos.
+Informe e inventario: `Federal/reportes/corte-lotes-41-45.md` y `originales-corte-45.json`. Los enlaces locales actual deben ser enlaces simbólicos; el clon principal tiene core.symlinks=false y un rebase puede representarlos como archivos. Verificar/restaurar al destino exacto de actual.json sin tocar originales ni textos.
 
 ## Abrogación: metadatos
 
@@ -33,3 +33,5 @@ La detección usa una palabra de sufijo abierta (incluye acentos), con serie opc
 Corrección del criterio: una abrogación cuyo decreto se declaró inválido no es abrogación vigente. ID 223: abrogacion_programada null; vigencia_recuperada con fecha_publicacion_sentencia 2023-11-24, decreto_invalidado y evidencia. Revisión de 304 portadas registrada en revision-vigencia-recuperada-304.json; notas de artículos/títulos no se interpretan como recuperación de la ley completa. IDs 203 y 281 declaran invalidez del decreto de expedición; quedan señalados para revisión del alcance, sin eliminar documentos.
 
 Antes del lote 36 se revisaron los 354 publicados: 1,297 aperturas corregidas y nuevas versiones para 33 documentos, incluidos títulos y tipos. Se acepta Artículo N en línea completa sin puntuación y Artículo. N con punto impreso tras la palabra. En Federal se normaliza la coma de millar del número de encabezado, con literal y página de evidencia. ID 317 artículo 88 cotejado visualmente en página 34. Reporte: correccion-formatos-354.json.
+
+Cierre 41–45: ID 377 conserva «. Artículo 40.» como encabezado y errata, con nueva versión. Auditoría de 403 documentos sin otros casos de puntuación suelta; ver correccion-puntuacion-403.json. Los seis pendientes se documentan con URL y SHA-256 en pendientes-finales.json, sin promoción. Los 447 incorporados incluyen 23,824 páginas y 894 originales verificados; seis originales de pendientes conservados aparte. La captura está cerrada y la integración se propone por pull request, sin merge automático.

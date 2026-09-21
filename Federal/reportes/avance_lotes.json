@@ -1,6 +1,6 @@
 {
   "creado": "2026-09-18T02:11:42.810650+00:00",
-  "fase": "lotes autorizados",
+  "fase": "captura completa; pendientes reportados sin promover",
   "tamano_lote": 10,
   "catalogados": 453,
   "catalogo_sha256": "c7f9ee6d77d3e729a5f20ad6d99f013d476327d07bb6a9013f7fea6e0086650b",
@@ -44917,13 +44917,14 @@
     "41": "272bd7606d79455ed54e08796e58c4b805dd3320",
     "42": "79dbb481e0755e6f9323882a025b817b533bb48f",
     "43": "b7c0bda606930982f629bd14602420c8c90fb1eb",
-    "44": "e7f43cb051d6ee2c47bb14d571f40e1f47ae2e20"
+    "44": "e7f43cb051d6ee2c47bb14d571f40e1f47ae2e20",
+    "45": "6c657f1eb07b366cafdfe419dc02a9b5cd081371"
   },
-  "ultimo_evento": "Lote 45 cerrado; publicación por commit del lote.",
+  "ultimo_evento": "45 lotes publicados. 453/453 intentados; 447 incorporados y 6 pendientes reportados. Captura cerrada, pendiente revisión del pull request.",
   "control_pypdf": "informativo, no bloqueante",
-  "actualizado": "2026-09-21T06:16:17.138010+00:00",
+  "actualizado": "2026-09-21T06:17:47.686323+00:00",
   "procesados": 447,
   "intentados": 453,
   "pendientes_reportados": 6,
-  "reanudar_requiere_instruccion_usuario": false
+  "reanudar_requiere_instruccion_usuario": true
 }
