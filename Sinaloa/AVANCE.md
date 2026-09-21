@@ -197,3 +197,5 @@ Se extrajeron de los 151 PDF las menciones impresas de decreto, publicación, ú
 ## Actualización individual 2026-09-21
 
 ID 9 actualizado por nueva descarga individual; Decreto 494, P.O. 111 del 16-09-2026; ocho artículos modificados. Versión anterior conservada.
+
+ID 9: cuatro encabezados iniciales marcados; misma reforma y originales. Otros tres documentos con conversor 3 revisados sin este defecto.

@@ -1,0 +1,83 @@
+{
+  "fecha": "2026-09-21T19:57:38.778174+00:00",
+  "id": 9,
+  "version_anterior": "dabaa269878c8e609d87fbd0339d207ff670b3972f9316bb544b4ceecaa671a0",
+  "version_nueva": "34d2664d44928e333c1022e298310688c9346cd203d38fe6d3515fdbc5b8142d",
+  "correccion": {
+    "version_anterior": "dabaa269878c8e609d87fbd0339d207ff670b3972f9316bb544b4ceecaa671a0",
+    "fecha": "2026-09-21T19:57:38.778174+00:00",
+    "causa": "Faltaba admitir ordinal º/° sin punto ni guion, seguido de texto. No depende de la posición en el documento.",
+    "evidencia": [
+      {
+        "pagina_pdf": 1,
+        "encabezado_literal": "Art. 1º",
+        "cambio": "Separación y marcado; texto y signos intactos."
+      },
+      {
+        "pagina_pdf": 1,
+        "encabezado_literal": "Art. 2º",
+        "cambio": "Separación y marcado; texto y signos intactos."
+      },
+      {
+        "pagina_pdf": 1,
+        "encabezado_literal": "Art. 3º",
+        "cambio": "Separación y marcado; texto y signos intactos."
+      },
+      {
+        "pagina_pdf": 1,
+        "encabezado_literal": "Art. 4º",
+        "cambio": "Separación y marcado; texto y signos intactos."
+      }
+    ],
+    "texto_y_signos_conservados": true
+  },
+  "comprobacion_parser": {
+    "aumento_encabezados": 4
+  },
+  "auditoria_conversor_3": [
+    {
+      "entidad": "Sinaloa",
+      "id": 9,
+      "primeros_cuatro_encabezados": [
+        "### Art. 1º",
+        "### Art. 2º",
+        "### Art. 3º",
+        "### Art. 4º"
+      ],
+      "estado": "corregido"
+    },
+    {
+      "entidad": "Sinaloa",
+      "id": 42,
+      "primeros_cuatro_encabezados": [
+        "### Artículo 1.",
+        "### Artículo 2.",
+        "### Artículo 3.",
+        "### Artículo 4."
+      ],
+      "estado": "sin_defecto_al_inicio"
+    },
+    {
+      "entidad": "Sinaloa",
+      "id": 1,
+      "primeros_cuatro_encabezados": [
+        "### ART. 1o.",
+        "### ART. 2o.",
+        "### ART. 3o.",
+        "### ART. 4o."
+      ],
+      "estado": "sin_defecto_al_inicio"
+    },
+    {
+      "entidad": "Sinaloa",
+      "id": 70,
+      "primeros_cuatro_encabezados": [
+        "### Artículo 1.",
+        "### Artículo 2.",
+        "### Artículo 3.",
+        "### Artículo 4."
+      ],
+      "estado": "sin_defecto_al_inicio"
+    }
+  ]
+}
