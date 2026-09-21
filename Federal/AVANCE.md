@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-21T06:16:05.777247+00:00
+Actualizado: 2026-09-21T06:16:17.138010+00:00
 
-Procesados: **440/453**. Intentados: 444/453. Pendientes reportados: 4.
+Procesados: **447/453**. Intentados: 453/453. Pendientes reportados: 6.
 
-Lote 44 cerrado; publicación por commit del lote.
+Lote 45 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -54,8 +54,8 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 41 | 10/10 | Publicado |
 | 42 | 10/10 | Publicado |
 | 43 | 10/10 | Publicado |
-| 44 | 10/10 | Cerrado localmente |
-| 45 | 0/9 | Pendiente |
+| 44 | 10/10 | Publicado |
+| 45 | 9/9 | Cerrado localmente |
 
 | Lote | ID | Sigla | Estado | Detalle |
 |---|---|---|---|---|
@@ -502,13 +502,13 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 44 | 441 | Reg_LFIIEDB | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 44 | 442 | Reg_LUPDECR | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 44 | 443 | Reg_LPPDDHP | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 45 | 444 | Reg_LFGFAGA_fe_16may55 | pendiente | — |
-| 45 | 445 | Reg_LRMineras | pendiente | — |
-| 45 | 446 | Reg_LRArt5C_orig_01oct45 | pendiente | — |
-| 45 | 447 | Reg_LEBHN | pendiente | — |
-| 45 | 448 | Reg_LRPC | pendiente | — |
-| 45 | 449 | Reg_Art121-122_LFT_050614 | pendiente | — |
-| 45 | 450 | Reg_LFPC_Art122 | pendiente | — |
-| 45 | 451 | Reg_LFIF_Art95 | pendiente | — |
-| 45 | 452 | Reg_CComer_MPSC | pendiente | — |
+| 45 | 444 | Reg_LFGFAGA_fe_16may55 | pendiente_sin_texto | PDF sin capa de texto extraíble; sin OCR. Original conservado en preparación. |
+| 45 | 445 | Reg_LRMineras | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 45 | 446 | Reg_LRArt5C_orig_01oct45 | error_reportado | Conversión altera contenido; versión no promovida |
+| 45 | 447 | Reg_LEBHN | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 45 | 448 | Reg_LRPC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 45 | 449 | Reg_Art121-122_LFT_050614 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 45 | 450 | Reg_LFPC_Art122 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 45 | 451 | Reg_LFIF_Art95 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 45 | 452 | Reg_CComer_MPSC | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 0 | 453 | Reg_CFF | piloto_aprobado | Conversión conservada; cotejo Word/PDF con incidencias |

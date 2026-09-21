@@ -44332,8 +44332,13 @@
       "id": 444,
       "sigla": "Reg_LFGFAGA_fe_16may55",
       "lote": 45,
-      "estado": "pendiente",
-      "detalle": null,
+      "estado": "pendiente_sin_texto",
+      "detalle": {
+        "id": 444,
+        "error": "PDF sin capa de texto extraíble; sin OCR. Original conservado en preparación.",
+        "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFGFAGA_fe_16may55.pdf",
+        "sigla": "Reg_LFGFAGA_fe_16may55"
+      },
       "catalogo": {
         "id": 444,
         "sigla": "Reg_LFGFAGA_fe_16may55",
@@ -44359,8 +44364,33 @@
       "id": 445,
       "sigla": "Reg_LRMineras",
       "lote": 45,
-      "estado": "pendiente",
-      "detalle": null,
+      "estado": "procesado_con_incidencias",
+      "detalle": {
+        "id": 445,
+        "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+        "paginas": 5,
+        "version": "39a73e0aea93f379e05d2cb9d16f1b9a4b3bf1216cd2d8150221f397e272a2e0",
+        "campos_incompletos": [
+          "abroga",
+          "decreto_numero",
+          "po_publicacion.edicion",
+          "po_publicacion.numero",
+          "po_publicacion.seccion",
+          "reformas",
+          "ultima_reforma"
+        ],
+        "paginas_sin_texto": [],
+        "incidencias_descarga": [],
+        "paginas_cifras_discrepantes": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "remisiones_en_cuerpo": 1,
+        "sigla": "Reg_LRMineras"
+      },
       "catalogo": {
         "id": 445,
         "sigla": "Reg_LRMineras",
@@ -44386,8 +44416,13 @@
       "id": 446,
       "sigla": "Reg_LRArt5C_orig_01oct45",
       "lote": 45,
-      "estado": "pendiente",
-      "detalle": null,
+      "estado": "error_reportado",
+      "detalle": {
+        "id": 446,
+        "error": "Conversión altera contenido; versión no promovida",
+        "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LRArt5C_orig_01oct45.pdf",
+        "sigla": "Reg_LRArt5C_orig_01oct45"
+      },
       "catalogo": {
         "id": 446,
         "sigla": "Reg_LRArt5C_orig_01oct45",
@@ -44413,8 +44448,37 @@
       "id": 447,
       "sigla": "Reg_LEBHN",
       "lote": 45,
-      "estado": "pendiente",
-      "detalle": null,
+      "estado": "procesado_con_incidencias",
+      "detalle": {
+        "id": 447,
+        "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+        "paginas": 11,
+        "version": "b5b04d05410afca2e1b0c9a46a4f49ea9e4d0264e88a2492cd1a058d513bc81f",
+        "campos_incompletos": [
+          "abroga",
+          "decreto_numero",
+          "po_publicacion.edicion",
+          "po_publicacion.numero",
+          "po_publicacion.seccion",
+          "reformas",
+          "ultima_reforma"
+        ],
+        "paginas_sin_texto": [],
+        "incidencias_descarga": [],
+        "paginas_cifras_discrepantes": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "remisiones_en_cuerpo": 3,
+        "sigla": "Reg_LEBHN"
+      },
       "catalogo": {
         "id": 447,
         "sigla": "Reg_LEBHN",
@@ -44440,8 +44504,50 @@
       "id": 448,
       "sigla": "Reg_LRPC",
       "lote": 45,
-      "estado": "pendiente",
-      "detalle": null,
+      "estado": "procesado_con_incidencias",
+      "detalle": {
+        "id": 448,
+        "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+        "paginas": 23,
+        "version": "451675994e69658ff91b1909682157754959b52321a68e840119983a96f18965",
+        "campos_incompletos": [
+          "abroga",
+          "decreto_numero",
+          "po_publicacion.edicion",
+          "po_publicacion.numero",
+          "po_publicacion.seccion",
+          "reformas",
+          "ultima_reforma"
+        ],
+        "paginas_sin_texto": [],
+        "incidencias_descarga": [],
+        "paginas_cifras_discrepantes": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ],
+        "remisiones_en_cuerpo": 4,
+        "sigla": "Reg_LRPC"
+      },
       "catalogo": {
         "id": 448,
         "sigla": "Reg_LRPC",
@@ -44467,8 +44573,36 @@
       "id": 449,
       "sigla": "Reg_Art121-122_LFT_050614",
       "lote": 45,
-      "estado": "pendiente",
-      "detalle": null,
+      "estado": "procesado_con_incidencias",
+      "detalle": {
+        "id": 449,
+        "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+        "paginas": 6,
+        "version": "acbf18aa55057b4065d2ed51496a290a2e9a2d7c6c1a4f5635ecbc987941938b",
+        "campos_incompletos": [
+          "abroga",
+          "abroga[].decreto",
+          "abroga[].po_numero",
+          "decreto_numero",
+          "po_publicacion.edicion",
+          "po_publicacion.numero",
+          "po_publicacion.seccion",
+          "reformas",
+          "ultima_reforma"
+        ],
+        "paginas_sin_texto": [],
+        "incidencias_descarga": [],
+        "paginas_cifras_discrepantes": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "remisiones_en_cuerpo": 0,
+        "sigla": "Reg_Art121-122_LFT_050614"
+      },
       "catalogo": {
         "id": 449,
         "sigla": "Reg_Art121-122_LFT_050614",
@@ -44494,8 +44628,32 @@
       "id": 450,
       "sigla": "Reg_LFPC_Art122",
       "lote": 45,
-      "estado": "pendiente",
-      "detalle": null,
+      "estado": "procesado_con_incidencias",
+      "detalle": {
+        "id": 450,
+        "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+        "paginas": 4,
+        "version": "fd79c86b1933bcc66a63523d97d23c75c04531dc27cc442caa3c1ab88a3eae93",
+        "campos_incompletos": [
+          "abroga",
+          "decreto_numero",
+          "po_publicacion.edicion",
+          "po_publicacion.numero",
+          "po_publicacion.seccion",
+          "reformas",
+          "ultima_reforma"
+        ],
+        "paginas_sin_texto": [],
+        "incidencias_descarga": [],
+        "paginas_cifras_discrepantes": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "remisiones_en_cuerpo": 1,
+        "sigla": "Reg_LFPC_Art122"
+      },
       "catalogo": {
         "id": 450,
         "sigla": "Reg_LFPC_Art122",
@@ -44521,8 +44679,35 @@
       "id": 451,
       "sigla": "Reg_LFIF_Art95",
       "lote": 45,
-      "estado": "pendiente",
-      "detalle": null,
+      "estado": "procesado_con_incidencias",
+      "detalle": {
+        "id": 451,
+        "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+        "paginas": 4,
+        "version": "519e13d8551dd5f085e799d00a63e04a5d5dc6a20cc48abc3c8f501787a6bfd7",
+        "campos_incompletos": [
+          "abroga",
+          "abroga[].decreto",
+          "abroga[].fecha",
+          "abroga[].po_numero",
+          "decreto_numero",
+          "po_publicacion.edicion",
+          "po_publicacion.numero",
+          "po_publicacion.seccion",
+          "reformas",
+          "ultima_reforma"
+        ],
+        "paginas_sin_texto": [],
+        "incidencias_descarga": [],
+        "paginas_cifras_discrepantes": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "remisiones_en_cuerpo": 1,
+        "sigla": "Reg_LFIF_Art95"
+      },
       "catalogo": {
         "id": 451,
         "sigla": "Reg_LFIF_Art95",
@@ -44548,8 +44733,36 @@
       "id": 452,
       "sigla": "Reg_CComer_MPSC",
       "lote": 45,
-      "estado": "pendiente",
-      "detalle": null,
+      "estado": "procesado_con_incidencias",
+      "detalle": {
+        "id": 452,
+        "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+        "paginas": 8,
+        "version": "75e473401920be2137cf4360b2ac689c0aa6683c20671529f819c2ce393699fe",
+        "campos_incompletos": [
+          "abroga",
+          "decreto_numero",
+          "po_publicacion.edicion",
+          "po_publicacion.numero",
+          "po_publicacion.seccion",
+          "reformas",
+          "ultima_reforma"
+        ],
+        "paginas_sin_texto": [],
+        "incidencias_descarga": [],
+        "paginas_cifras_discrepantes": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "remisiones_en_cuerpo": 0,
+        "sigla": "Reg_CComer_MPSC"
+      },
       "catalogo": {
         "id": 452,
         "sigla": "Reg_CComer_MPSC",
@@ -44703,13 +44916,14 @@
     "40": "2e7cd747d63f20b8768c56ff21bd58315b3e05c4",
     "41": "272bd7606d79455ed54e08796e58c4b805dd3320",
     "42": "79dbb481e0755e6f9323882a025b817b533bb48f",
-    "43": "b7c0bda606930982f629bd14602420c8c90fb1eb"
+    "43": "b7c0bda606930982f629bd14602420c8c90fb1eb",
+    "44": "e7f43cb051d6ee2c47bb14d571f40e1f47ae2e20"
   },
-  "ultimo_evento": "Lote 44 cerrado; publicación por commit del lote.",
+  "ultimo_evento": "Lote 45 cerrado; publicación por commit del lote.",
   "control_pypdf": "informativo, no bloqueante",
-  "actualizado": "2026-09-21T06:16:05.777247+00:00",
-  "procesados": 440,
-  "intentados": 444,
-  "pendientes_reportados": 4,
+  "actualizado": "2026-09-21T06:16:17.138010+00:00",
+  "procesados": 447,
+  "intentados": 453,
+  "pendientes_reportados": 6,
   "reanudar_requiere_instruccion_usuario": false
 }
