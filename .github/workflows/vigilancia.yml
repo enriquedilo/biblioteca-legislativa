@@ -6,8 +6,10 @@ name: Vigilancia de reformas
 
 on:
   schedule:
-    # Lunes 14:00 UTC = 07:00 en Mazatlán. GitHub puede retrasarlo unos minutos.
-    - cron: "0 14 * * 1"
+    # Lunes 14:17 UTC = 07:17 en Mazatlán. El minuto no es redondo a propósito:
+    # GitHub encola las corridas programadas y las que caen en punto compiten
+    # con miles de repositorios; puede retrasarlas mucho o saltárselas.
+    - cron: "17 14 * * 1"
   workflow_dispatch:
     inputs:
       forzar_descarga:
@@ -47,6 +49,13 @@ jobs:
         run: |
           git config user.name "Vigilancia de reformas"
           git config user.email "209737312+enriquedilo@users.noreply.github.com"
+          # Deja constancia de la corrida aunque no haya hallazgos: sin esto,
+          # una semana sin cambios y una semana sin ejecutarse se ven igual.
+          printf '{\n  "corrida_utc": "%s",\n  "disparo": "%s",\n  "revisados": "%s",\n  "hallazgos": "%s"\n}\n' \
+            "$(date -u +%Y-%m-%dT%H:%M:%SZ)" \
+            "${{ github.event_name }}" \
+            "${{ steps.revision.outputs.revisados }}" \
+            "${{ steps.revision.outputs.hallazgos }}" > vigilancia/ultima_corrida.json
           git add vigilancia/
           if git diff --cached --quiet; then
             echo "Sin cambios que registrar."
