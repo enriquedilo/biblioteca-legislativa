@@ -361,16 +361,16 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 351 | Reg_LNCM_040315 | REGLAMENTO de la Ley de Navegación y Comercio Marítimos | [Markdown](ordenamientos/351/versiones/d1af54ebe555804858b3d826cd206660e10f25c06d26169a4ef925c9d5636c39/texto.md) · procesado_con_incidencias |
 | 352 | Reg_LOPSRM | REGLAMENTO de la Ley de Obras Públicas y Servicios Relacionados con las Mismas | [Markdown](ordenamientos/352/versiones/ae04fbe33880168f0d8f5a06d63ab7b7fcf9d5953958db8b86f6e13090c5a61e/texto.md) · procesado_con_incidencias |
 | 353 | Reg_LOGan | REGLAMENTO de la Ley de Organizaciones Ganaderas | [Markdown](ordenamientos/353/versiones/b6fd1f1333dd7f2685a454fe619146bf189bbe2f552e54533e02bc6d1cebd452/texto.md) · procesado_con_incidencias |
-| 354 | Reg_LPesca | REGLAMENTO de la Ley de Pesca | pendiente |
-| 355 | Reg_LPTE | REGLAMENTO de la Ley de Planeación y Transición Energética | pendiente |
-| 356 | Reg_LPO | REGLAMENTO de la Ley de Productos Orgánicos | pendiente |
-| 357 | Reg_LPEAM | REGLAMENTO de la Ley de Protección del Espacio Aéreo Mexicano | pendiente |
-| 358 | Reg_LPue | REGLAMENTO de la Ley de Puertos | pendiente |
-| 359 | Reg_LTF_300617 | REGLAMENTO de la Ley de Tesorería de la Federación | pendiente |
-| 360 | Reg_LIVA_250914 | REGLAMENTO de la Ley del Impuesto al Valor Agregado | pendiente |
-| 361 | Reg_LIEPS | REGLAMENTO de la Ley del Impuesto Especial sobre Producción y Servicios | pendiente |
-| 362 | Reg_LISR_060516 | REGLAMENTO de la Ley del Impuesto sobre la Renta | pendiente |
-| 363 | Reg_LInfonavit_MTAI | REGLAMENTO de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores en Materia de Transparencia y Acceso a la Información | pendiente |
+| 354 | Reg_LPesca | REGLAMENTO de la Ley de Pesca | [Markdown](ordenamientos/354/versiones/79c02844e4c893550485859e8a4365853f593e9406f8142c5f0e36df1602830b/texto.md) · procesado_con_incidencias |
+| 355 | Reg_LPTE | REGLAMENTO de la Ley de Planeación y Transición Energética | [Markdown](ordenamientos/355/versiones/37dcac13db4359eb7064998d2838901d3515fd16d77e1dd64c495b8d87f40fb2/texto.md) · procesado_con_incidencias |
+| 356 | Reg_LPO | REGLAMENTO de la Ley de Productos Orgánicos | [Markdown](ordenamientos/356/versiones/c2364bae59a34e9d7504df21702071a5697de450d0144d58dd41109e1a29a339/texto.md) · procesado_con_incidencias |
+| 357 | Reg_LPEAM | REGLAMENTO de la Ley de Protección del Espacio Aéreo Mexicano | [Markdown](ordenamientos/357/versiones/a0094e6d4ea723932de216ec039994fe63efbe042760c45c349bd8d9f8cb3e3c/texto.md) · procesado_con_incidencias |
+| 358 | Reg_LPue | REGLAMENTO de la Ley de Puertos | [Markdown](ordenamientos/358/versiones/348b1a54f304d3f5b9afa209304487d75418e92a0f56c0c37a312352811b4d41/texto.md) · procesado_con_incidencias |
+| 359 | Reg_LTF_300617 | REGLAMENTO de la Ley de Tesorería de la Federación | [Markdown](ordenamientos/359/versiones/97db84d0ad670c0c3a2bb7513d310396cc0a753cf629f8cc32c47389942d590c/texto.md) · procesado_con_incidencias |
+| 360 | Reg_LIVA_250914 | REGLAMENTO de la Ley del Impuesto al Valor Agregado | [Markdown](ordenamientos/360/versiones/6e6ebcf404a2e6038db5f42de520c93597f9622bf3c42553ece879ec82eb41b0/texto.md) · procesado_con_incidencias |
+| 361 | Reg_LIEPS | REGLAMENTO de la Ley del Impuesto Especial sobre Producción y Servicios | [Markdown](ordenamientos/361/versiones/17821d70a614080345d84b1719118f484ad9ca263bf4a381a7a616b9e670932d/texto.md) · procesado_con_incidencias |
+| 362 | Reg_LISR_060516 | REGLAMENTO de la Ley del Impuesto sobre la Renta | [Markdown](ordenamientos/362/versiones/21d8c88538d76162cae8cf56cd69ebb5a62c5952fa91aec85c9cf9cfc2ee6545/texto.md) · procesado_con_incidencias |
+| 363 | Reg_LInfonavit_MTAI | REGLAMENTO de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores en Materia de Transparencia y Acceso a la Información | [Markdown](ordenamientos/363/versiones/019d6bc4e6b5f8b1f71b7d6419153e22be195050639cc4bb3a717ee19873a211/texto.md) · procesado_con_incidencias |
 | 364 | Reg_LIFNCT | REGLAMENTO de la Ley del Instituto del Fondo Nacional para el Consumo de los Trabajadores | pendiente |
 | 365 | Reg_LRPV | REGLAMENTO de la Ley del Registro Público Vehicular | pendiente |
 | 366 | Reg_LSE | REGLAMENTO de la Ley del Sector Eléctrico | pendiente |

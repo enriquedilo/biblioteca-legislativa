@@ -1,0 +1,749 @@
+{
+  "id": 360,
+  "fecha_revision": "2026-09-21T06:00:29.182801+00:00",
+  "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 16,
+  "paginas_sin_texto": [],
+  "pagina_blanca_confirmada_visualmente": false,
+  "texto_conservado": true,
+  "comparacion_word_pdf": {
+    "palabras_comparadas": 7350,
+    "palabras_pdf": 7745,
+    "frecuencias_coinciden": false,
+    "orden_coincide_separando_nota_al_pie": false,
+    "nota_al_pie_reubicada_por_lector_word": null,
+    "normalizaciones_solo_comparacion": [
+      "Misma función lexical_tokens de Sinaloa; no modifica los originales ni el Markdown."
+    ],
+    "limite": "Campos Word y encabezados permanecen en el control; las diferencias se reportan sin reparación.",
+    "solo_word": {
+      "diario": 2,
+      "oficial": 2,
+      "diciembre": 2,
+      "sección": 2,
+      "page": 3,
+      "mergeformat": 1,
+      "primera": 2,
+      "docvariable": 1,
+      "dvfecha": 1,
+      "lunes": 2,
+      "embed": 1,
+      "word": 1,
+      "picture": 1
+    },
+    "solo_pdf": {
+      "reglamento": 15,
+      "de": 71,
+      "la": 30,
+      "ley": 15,
+      "del": 30,
+      "impuesto": 15,
+      "al": 15,
+      "valor": 15,
+      "agregado": 15,
+      "cámara": 15,
+      "diputados": 15,
+      "h": 15,
+      "congreso": 15,
+      "unión": 15,
+      "última": 15,
+      "reforma": 15,
+      "dof": 15,
+      "secretaría": 30,
+      "general": 15,
+      "servicios": 15,
+      "parlamentarios": 15
+    }
+  },
+  "articulos_word": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "22",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "39",
+    "40",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79"
+  ],
+  "articulos_pdf": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "10",
+    "artículo2",
+    "11",
+    "12",
+    "13",
+    "14",
+    "artículo16del",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "22",
+    "artículo5",
+    "artículo32",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "artículo12de",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "39",
+    "40",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79"
+  ],
+  "identificadores_articulos_coinciden": false,
+  "encabezados_transitorios": [
+    {
+      "pagina": 15,
+      "encabezado": "TRANSITORIOS"
+    },
+    {
+      "pagina": 16,
+      "encabezado": "TRANSITORIOS"
+    }
+  ],
+  "encabezados_ordinales_en_seccion_transitoria": [
+    "Artículo Primero. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación",
+    "Artículo Segundo. Se abroga el Reglamento de la Ley del Impuesto al Valor Agregado publicado en",
+    "Artículo Tercero. Para el efecto de las obligaciones previstas en el artículo 74, fracción I, primer",
+    "ARTÍCULO ÚNICO. Se REFORMAN los artículos 1, fracciones III y IV; 10; 20, fracciones III, IV,",
+    "Artículo Primero. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación",
+    "Artículo Segundo. Lo dispuesto por los artículos 46, fracción II, 47 y 56 del presente Decreto, entrará"
+  ],
+  "articulos_numericos_en_seccion_transitoria": [],
+  "transitorios_y_notas_completos_incluidos": true,
+  "paginas_cotejadas_visualmente": [],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 1741,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 2994,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 3106,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 5,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 3456,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 2861,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 8,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 2902,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 2987,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 3244,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 2904,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 2798,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 11,
+      "caracteres_no_blancos": 3085,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 12,
+      "caracteres_no_blancos": 2602,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 4,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 13,
+      "caracteres_no_blancos": 1962,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 2,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 14,
+      "caracteres_no_blancos": 3123,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 1,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 15,
+      "caracteres_no_blancos": 1256,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    },
+    {
+      "pagina": 16,
+      "caracteres_no_blancos": 1809,
+      "contenido_y_signos_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "inicios_lista": 0,
+      "paginacion_retirada": [],
+      "inicios_lista_conservados": true,
+      "control_sinaloa_paginacion_retirada": false
+    }
+  ],
+  "alcance": "Controles de conservación en todas las páginas; comparación de cifras con Poppler y pypdf. El cotejo visual se registra por separado. No certifica vigencia jurídica.",
+  "incidencias_resueltas": [],
+  "diferencias_de_fuente": [
+    "La secuencia de encabezados numéricos difiere Word/PDF; consultar contadores y evidencia. No se corrige.",
+    "La comparación léxica Word/PDF no coincide: encabezados repetidos, campos Word y otras diferencias pendientes de cotejo. No equivale a pérdida del Markdown.",
+    "El control original con retirada de paginación difiere. Se conserva el resultado y se añade comparación simétrica de cifras sin retirar paginación.",
+    "Hay discrepancias en la secuencia de cifras entre los dos lectores PDF; requieren cotejo, no se reparan.",
+    "Word original .doc conservado por autorización expresa del usuario; no se fabrica original.docx."
+  ],
+  "formato_word_original": "doc",
+  "ocr_ejecutado": false,
+  "incidencias_descarga": [],
+  "promociones_encabezado_evitadas": [
+    {
+      "linea": 37,
+      "texto": "artículo 2o.-A, fracción I, último párrafo de la Ley.",
+      "anterior": "establecimientos similares, por lo que en estos casos la tasa aplicable será la del 16% a que se refiere el",
+      "siguiente": "Artículo adicionado DOF 25-09-2014",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 3
+    },
+    {
+      "linea": 14,
+      "texto": "artículo 16 del Código Fiscal de la Federación, los locales que utilicen las personas físicas en el territorio",
+      "anterior": "tratamiento que el establecimiento en el país, definido como tal en los términos del último párrafo del",
+      "siguiente": "nacional para prestar servicios personales independientes.",
+      "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+      "pagina": 4
+    },
+    {
+      "linea": 17,
+      "texto": "artículo 5o.-B.",
+      "anterior": "como las actualizaciones y recargos que resulten de aplicar el tratamiento establecido en el mencionado",
+      "siguiente": "",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 6
+    },
+    {
+      "linea": 21,
+      "texto": "artículo 32, primer párrafo del Código Fiscal de la Federación.",
+      "anterior": "que se refiere este artículo, no se computarán dentro del límite de declaraciones establecido en el",
+      "siguiente": "Artículo adicionado DOF 25-09-2014",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 6
+    },
+    {
+      "linea": 17,
+      "texto": "artículo 12 de la Ley, al que podrá restársele el costo de adquisición del bien de que se trate, sin incluir",
+      "anterior": "forma expresa y por separado el impuesto, se considerará como valor el determinado conforme al",
+      "siguiente": "los gastos que se originen con motivo de la reparación o mejoras realizadas en los mismos. El impuesto",
+      "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+      "pagina": 7
+    }
+  ],
+  "metadatos_normativos": {
+    "fecha_extraccion": "2026-09-21T06:00:29.182801+00:00",
+    "estado": "parcial: campos no localizados o estructura impresa no representable en el objeto solicitado",
+    "incidencias": [
+      {
+        "campo": "decreto_numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.numero",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.edicion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "po_publicacion.seccion",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Dato no localizado de forma inequívoca en lo impreso; no se infiere.",
+        "pagina": 1
+      },
+      {
+        "campo": "reformas",
+        "motivo": "Notas literales conservadas con todas las fechas; fecha escalar null si hay varias. Números de diario/decreto no impresos quedan null. Captura automática pendiente de revisión."
+      },
+      {
+        "campo": "abroga",
+        "motivo": "Cláusulas expresas capturadas para cotejo; no se infieren nombres ni fechas faltantes. Revisar evidencia impresa."
+      },
+      {
+        "campo": "abroga[].po_numero",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0
+        ]
+      },
+      {
+        "campo": "abroga[].decreto",
+        "motivo": "Dato no impreso; queda null.",
+        "indices": [
+          0
+        ]
+      },
+      {
+        "campo": "abrogacion_programada",
+        "motivo": "Portada/encabezado sin declaración identificada de abrogación o término de vigencia en fecha cierta; null."
+      }
+    ],
+    "evidencia": {
+      "abroga": [
+        {
+          "pagina": 15,
+          "texto": "Artículo Segundo. Se abroga el Reglamento de la Ley del Impuesto al Valor Agregado publicado en el Diario Oficial de la Federación el 29 de febrero de 1984."
+        }
+      ],
+      "po_publicacion": {
+        "pagina": 1,
+        "texto": "REGLAMENTO DE LA LEY DEL IMPUESTO AL VALOR AGREGADO Nuevo Reglamento publicado en el Diario Oficial de la Federación el 4 de diciembre de 2006"
+      },
+      "ultima_reforma": {
+        "pagina": 1,
+        "texto": "Última Reforma DOF 25-09-2014"
+      },
+      "reformas": {
+        "pagina_inicio": 1,
+        "encabezado": null,
+        "filas": [
+          {
+            "fila": 0,
+            "texto": "Fracción reformada DOF 25-09-2014",
+            "pagina": 1
+          },
+          {
+            "fila": 1,
+            "texto": "Fracción reformada DOF 25-09-2014",
+            "pagina": 1
+          },
+          {
+            "fila": 2,
+            "texto": "Artículo derogado DOF 25-09-2014",
+            "pagina": 1
+          },
+          {
+            "fila": 3,
+            "texto": "Artículo derogado DOF 25-09-2014",
+            "pagina": 2
+          },
+          {
+            "fila": 4,
+            "texto": "Artículo reformado DOF 25-09-2014",
+            "pagina": 3
+          },
+          {
+            "fila": 5,
+            "texto": "Artículo adicionado DOF 25-09-2014",
+            "pagina": 3
+          },
+          {
+            "fila": 6,
+            "texto": "Fracción reformada DOF 25-09-2014",
+            "pagina": 5
+          },
+          {
+            "fila": 7,
+            "texto": "Párrafo reformado DOF 25-09-2014",
+            "pagina": 5
+          },
+          {
+            "fila": 8,
+            "texto": "Fracción reformada DOF 25-09-2014",
+            "pagina": 5
+          },
+          {
+            "fila": 9,
+            "texto": "Artículo derogado DOF 25-09-2014",
+            "pagina": 6
+          },
+          {
+            "fila": 10,
+            "texto": "Artículo adicionado DOF 25-09-2014",
+            "pagina": 6
+          },
+          {
+            "fila": 11,
+            "texto": "Artículo adicionado DOF 25-09-2014",
+            "pagina": 6
+          },
+          {
+            "fila": 12,
+            "texto": "Artículo reformado DOF 25-09-2014",
+            "pagina": 6
+          },
+          {
+            "fila": 13,
+            "texto": "Párrafo reformado DOF 25-09-2014",
+            "pagina": 6
+          },
+          {
+            "fila": 14,
+            "texto": "Artículo reformado DOF 25-09-2014",
+            "pagina": 6
+          },
+          {
+            "fila": 15,
+            "texto": "Artículo reformado DOF 25-09-2014",
+            "pagina": 9
+          },
+          {
+            "fila": 16,
+            "texto": "Artículo adicionado DOF 25-09-2014",
+            "pagina": 9
+          },
+          {
+            "fila": 17,
+            "texto": "Artículo adicionado DOF 25-09-2014",
+            "pagina": 9
+          },
+          {
+            "fila": 18,
+            "texto": "Párrafo reformado DOF 25-09-2014",
+            "pagina": 10
+          },
+          {
+            "fila": 19,
+            "texto": "Fracción reformada DOF 25-09-2014",
+            "pagina": 10
+          },
+          {
+            "fila": 20,
+            "texto": "Artículo reformado DOF 25-09-2014",
+            "pagina": 10
+          },
+          {
+            "fila": 21,
+            "texto": "Artículo derogado DOF 25-09-2014",
+            "pagina": 10
+          },
+          {
+            "fila": 22,
+            "texto": "Artículo reformado DOF 25-09-2014",
+            "pagina": 11
+          },
+          {
+            "fila": 23,
+            "texto": "Artículo reformado DOF 25-09-2014",
+            "pagina": 11
+          },
+          {
+            "fila": 24,
+            "texto": "Artículo reformado DOF 25-09-2014",
+            "pagina": 12
+          },
+          {
+            "fila": 25,
+            "texto": "Párrafo reformado DOF 25-09-2014",
+            "pagina": 12
+          },
+          {
+            "fila": 26,
+            "texto": "Fracción derogada DOF 25-09-2014",
+            "pagina": 12
+          },
+          {
+            "fila": 27,
+            "texto": "Sección derogada DOF 25-09-2014",
+            "pagina": 12
+          },
+          {
+            "fila": 28,
+            "texto": "Artículo derogado DOF 25-09-2014",
+            "pagina": 12
+          },
+          {
+            "fila": 29,
+            "texto": "Artículo derogado DOF 25-09-2014",
+            "pagina": 13
+          },
+          {
+            "fila": 30,
+            "texto": "Artículo derogado DOF 25-09-2014",
+            "pagina": 13
+          },
+          {
+            "fila": 31,
+            "texto": "Artículo derogado DOF 25-09-2014",
+            "pagina": 13
+          },
+          {
+            "fila": 32,
+            "texto": "Artículo derogado DOF 25-09-2014",
+            "pagina": 13
+          },
+          {
+            "fila": 33,
+            "texto": "Artículo derogado DOF 25-09-2014",
+            "pagina": 13
+          },
+          {
+            "fila": 34,
+            "texto": "Artículo derogado DOF 25-09-2014",
+            "pagina": 13
+          },
+          {
+            "fila": 35,
+            "texto": "Artículo derogado DOF 25-09-2014",
+            "pagina": 13
+          },
+          {
+            "fila": 36,
+            "texto": "Artículo derogado DOF 25-09-2014",
+            "pagina": 13
+          },
+          {
+            "fila": 37,
+            "texto": "Artículo derogado DOF 25-09-2014",
+            "pagina": 13
+          }
+        ]
+      }
+    }
+  },
+  "normalizacion_millares_encabezados": [],
+  "control_pypdf_informativo": {
+    "fuente": "Usuario; piloto aprobado en la conversación",
+    "descripcion": "pypdf fragmenta números con espacios; verificado por el usuario contra originales en 11 páginas señaladas del CFF y tres de CPEUM. Markdown generado con Poppler.",
+    "decision": "Control informativo, no bloquea lotes y no modifica textos. No se atribuye cotejo visual adicional a Codex."
+  }
+}

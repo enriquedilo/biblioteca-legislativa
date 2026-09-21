@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-18T19:35:32.911180+00:00
+Actualizado: 2026-09-21T06:00:32.495870+00:00
 
-Procesados: **354/453**. Intentados: 354/453. Pendientes reportados: 0.
+Procesados: **364/453**. Intentados: 364/453. Pendientes reportados: 0.
 
-Corregidos formatos de encabezado, títulos y tipos; auditados 354 documentos antes del lote 36.
+Lote 36 cerrado; publicación por commit del lote.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 
@@ -46,7 +46,7 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 33 | 10/10 | Publicado |
 | 34 | 10/10 | Publicado |
 | 35 | 10/10 | Publicado |
-| 36 | 0/10 | Pendiente |
+| 36 | 10/10 | Cerrado localmente |
 | 37 | 0/10 | Pendiente |
 | 38 | 0/10 | Pendiente |
 | 39 | 0/10 | Pendiente |
@@ -412,16 +412,16 @@ Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR,
 | 35 | 351 | Reg_LNCM_040315 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 35 | 352 | Reg_LOPSRM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 35 | 353 | Reg_LOGan | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
-| 36 | 354 | Reg_LPesca | pendiente | — |
-| 36 | 355 | Reg_LPTE | pendiente | — |
-| 36 | 356 | Reg_LPO | pendiente | — |
-| 36 | 357 | Reg_LPEAM | pendiente | — |
-| 36 | 358 | Reg_LPue | pendiente | — |
-| 36 | 359 | Reg_LTF_300617 | pendiente | — |
-| 36 | 360 | Reg_LIVA_250914 | pendiente | — |
-| 36 | 361 | Reg_LIEPS | pendiente | — |
-| 36 | 362 | Reg_LISR_060516 | pendiente | — |
-| 36 | 363 | Reg_LInfonavit_MTAI | pendiente | — |
+| 36 | 354 | Reg_LPesca | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 36 | 355 | Reg_LPTE | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 36 | 356 | Reg_LPO | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 36 | 357 | Reg_LPEAM | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 36 | 358 | Reg_LPue | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 36 | 359 | Reg_LTF_300617 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 36 | 360 | Reg_LIVA_250914 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 36 | 361 | Reg_LIEPS | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 36 | 362 | Reg_LISR_060516 | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
+| 36 | 363 | Reg_LInfonavit_MTAI | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 37 | 364 | Reg_LIFNCT | pendiente | — |
 | 37 | 365 | Reg_LRPV | pendiente | — |
 | 37 | 366 | Reg_LSE | pendiente | — |
