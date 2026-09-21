@@ -1,18 +1,27 @@
 # Vigilancia de reformas
 
-Corrida: 2026-09-18 00:50 UTC · 289 ordenamientos revisados · 803s
+Corrida: 2026-09-21 18:46 UTC · 289 ordenamientos revisados · 398s
 
-**Atención requerida**, pero ningún cambio de contenido confirmado.
+**2 archivo(s) cambiaron.** Requiere conversión y validación: pasa este reporte al pipeline de mantenimiento.
 
-## El archivo ya no está en su ruta (404)
+## Archivo modificado en el sitio del Congreso
 
 | Entidad | ID | Ordenamiento | Archivo | Detalle |
 |---|---:|---|---|---|
-| Nayarit | 62 | Ley de Expropiación del Estado de Nayarit | word | el archivo ya no está en esa ruta |
+| Sinaloa | 9 | Constitución Política del Estado de Sinaloa | pdf | sha publicado c98929100aa8… != archivado bf81d0a6de57… |
+| Sinaloa | 9 | Constitución Política del Estado de Sinaloa | word | sha publicado 24aa7c9d50ef… != archivado 8ccafa9b042d… |
 
-## Notas de la corrida
+## La página de catálogo cambió
 
-- Primera corrida: se levantó la línea base. A partir de la próxima se reportan los cambios.
+| Entidad | ID | Ordenamiento | Archivo | Detalle |
+|---|---:|---|---|---|
+| Nayarit | — | — | — | la página de catálogo cambió: revisar altas o bajas |
+
+## No se pudo leer la página de catálogo
+
+| Entidad | ID | Ordenamiento | Archivo | Detalle |
+|---|---:|---|---|---|
+| Sinaloa | — | — | — | URLError |
 
 ---
 
