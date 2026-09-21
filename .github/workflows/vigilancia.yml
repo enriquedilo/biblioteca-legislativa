@@ -71,9 +71,27 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh issue create \
-            --title "Vigilancia $(date -u +%Y-%m-%d): hay movimiento en el sitio de los Congresos" \
-            --body-file vigilancia/reporte.md
+          # Un pendiente sin resolver se reporta cada semana. Si ya hay un
+          # issue abierto de vigilancia, se comenta ahí en vez de abrir otro:
+          # de lo contrario se acumularía uno por corrida hasta que el acervo
+          # se actualice. El issue se cierra a mano al incorporar la versión.
+          gh label create vigilancia --color BFD4F2 \
+            --description "Reportes de la revisión semanal" 2>/dev/null || true
+          ABIERTO=$(gh issue list --state open --label vigilancia \
+                      --limit 1 --json number --jq '.[0].number // empty')
+          if [ -n "$ABIERTO" ]; then
+            {
+              echo "### Corrida $(date -u +%Y-%m-%d\ %H:%M) UTC"
+              echo
+              cat vigilancia/reporte.md
+            } | gh issue comment "$ABIERTO" --body-file -
+            echo "Comentado en el issue #$ABIERTO."
+          else
+            gh issue create \
+              --title "Vigilancia $(date -u +%Y-%m-%d): hay movimiento en los sitios oficiales" \
+              --label vigilancia \
+              --body-file vigilancia/reporte.md
+          fi
 
       - name: Resumen de la corrida
         if: always()
