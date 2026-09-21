@@ -28,6 +28,5 @@ Seis reglamentos federales antiguos no tienen texto en el acervo: son PDF
 escaneados cuya conversión no superó el control de conservación. El skill está
 instruido para decirlo en vez de responder por ellos.
 
-Ninguna parte de este acervo certifica vigencia jurídica: el respaldo de una
-cita formal es el decreto publicado en el Periódico Oficial del Estado o en el
-Diario Oficial de la Federación.
+El acervo refleja la compilación oficial a la fecha de descarga que registra
+cada `metadata.json`, no el estado del día.

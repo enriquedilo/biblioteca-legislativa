@@ -110,12 +110,12 @@ presentan rotulados por orden de gobierno: **las tablas no se fusionan**.
 
 ## Vigencia
 
-Los textos provienen de la compilación consolidada que publica cada Congreso,
-que es una compilación administrativa. **Ningún archivo de este repositorio
-certifica vigencia jurídica.** `actual.json` identifica la versión seleccionada
-de la biblioteca, no acredita que sea el texto vigente. El respaldo de una cita
-formal es el decreto publicado en el Periódico Oficial del Estado o en el Diario
-Oficial de la Federación.
+Los textos provienen de la compilación consolidada que publica cada Congreso y
+se toman como fuente de trabajo. Lo que el acervo fija es **qué versión de esa
+compilación se está leyendo**: `actual.json` identifica la versión seleccionada
+y `metadata.json` la fecha en que se descargó. No refleja reformas posteriores a
+esa fecha ni sustituye al decreto publicado cuando alguien necesite el
+documento originario.
 
 Las notas de reforma al pie de los artículos son anotaciones impresas por el
 compilador: sirven para saber cuándo se intervino un artículo, pero no son una

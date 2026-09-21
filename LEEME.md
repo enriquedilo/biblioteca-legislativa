@@ -35,9 +35,9 @@ imprime. Si falta un dato se deja `null` y se registra la incidencia; las tablas
 de reformas se conservan solo cuando el documento trae una lista explícita, no
 se reconstruyen desde referencias dispersas.
 
-**Nada de aquí certifica vigencia.** `actual.json` identifica la versión
-seleccionada del acervo. El respaldo de una cita formal es el decreto publicado
-en el Periódico Oficial del Estado o en el Diario Oficial de la Federación.
+**Lo que el acervo fija es la versión, no la vigencia.** `actual.json`
+identifica la versión seleccionada y `metadata.json` su fecha de descarga: el
+texto es el que la compilación oficial publicaba ese día.
 
 El alcance, lo que falta y por qué, y la organización completa están en
 [README.md](README.md). Para compartir las reglas de consulta con otra persona,

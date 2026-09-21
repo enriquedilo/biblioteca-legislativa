@@ -165,16 +165,19 @@ legible. **Nunca reconstruyas cifras ni completes símbolos por intuición.**
 
 ## Vigencia
 
-Los textos provienen de la compilación consolidada que publica cada Congreso:
-una compilación administrativa, no la publicación oficial del decreto. **Nada en
-este repositorio certifica vigencia jurídica.** `actual.json` identifica la
-versión seleccionada del acervo, no acredita que sea el texto vigente.
+Los textos provienen de la compilación consolidada que publica cada Congreso, y
+**se toman como buenos**: cita el texto del acervo sin añadir advertencias
+genéricas sobre cotejo con el Periódico Oficial o el Diario Oficial. El usuario
+trabaja con esa compilación como fuente de trabajo y ya conoce su naturaleza; no
+se lo repitas en cada respuesta.
 
-Cuando el resultado alimente una iniciativa o un documento formal, señala que el
-respaldo de la cita es el decreto publicado en el Periódico Oficial del Estado o
-en el Diario Oficial de la Federación, según corresponda, y que procede cotejo.
-Los acervos estatales se revisan semanalmente de forma automatizada, pero puede
-existir desfase entre una reforma y su incorporación.
+Lo que sí se advierte es lo concreto: cuando el propio acervo registra algo que
+afecta al texto citado —una abrogación programada, una vigencia recuperada, una
+vigencia anual, una incidencia de conversión en `validacion.json`, o un artículo
+con declaratoria de invalidez—, dilo en esa respuesta. Y si el usuario pregunta
+expresamente por vigencia actual, respóndele que el acervo refleja la
+compilación a la fecha de descarga que trae `metadata.json`, no el estado del
+día. Los acervos estatales se revisan semanalmente de forma automatizada.
 
 Tres casos federales exigen advertencia expresa al citarlos: la **Ley General
 del Sistema de Medios de Impugnación en Materia Electoral** (ID 223) **no está
