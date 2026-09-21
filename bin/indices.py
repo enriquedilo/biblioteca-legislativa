@@ -42,7 +42,7 @@ MESES["setiembre"] = 9
 RE_PAGINA = re.compile(r"<!--\s*PAGINA_PDF:\s*(\d+)\s*-->")
 # Encabezados de articulo: "### Artículo 47." / "### ARTÍCULO 1o." / "### Artículo 12 Bis."
 RE_ART = re.compile(
-    r"^#{1,4}\s*(?:ART[IÍ]CULOS?|ART[O]?\.)\s*([0-9]+)\s*(?:(?:o|º|°)(?![A-ZÁÉÍÓÚa-záéíóú]))?\s*[.\-–]*\s*"
+    r"^#{1,4}\s*(?:ART[IÍ]CULOS?|ART[O]?\.)\s*([0-9][0-9,]*)\s*(?:(?:o|º|°)(?![A-ZÁÉÍÓÚa-záéíóú]))?\s*[.\-–]*\s*"
     r"((?:[-–A-ZÁÉÍÓÚa-záéíóú][-–A-ZÁÉÍÓÚa-záéíóú.\s0-9]{0,25})?)$",
     re.IGNORECASE)
 # Encabezado cortado por salto de pagina: "### ARTÍCULO 29-" y el sufijo abajo.
@@ -173,10 +173,36 @@ def parse_notas(bloque):
     return out
 
 
+RE_PORTADA_CD = re.compile(
+    r"^\s*(.{8,200}?)\s+C[ÁA]MARA DE DIPUTADOS DEL H\. CONGRESO DE LA UNI[ÓO]N",
+    re.MULTILINE)
+
+
+def nombre_utilizable(meta, txt):
+    """Nombre para los indices. Algunos catalogos (reglamentos federales)
+    traen la fecha DOF en lugar del nombre: se toma entonces el nombre oficial
+    o, si falta, el que imprime el encabezado de pagina de la compilacion."""
+    nc = (meta.get("nombre_catalogo") or "").strip()
+    if nc and not re.match(r"^DOF\s", nc):
+        return nc, False
+    no = (meta.get("nombre_oficial") or "").strip()
+    if no:
+        return no, True
+    m = RE_PORTADA_CD.search(txt[:6000])
+    if m:
+        return " ".join(m.group(1).split()), True
+    return nc or meta.get("sigla") or "", True
+
+
 def leer(idl):
     base = os.path.join(ORD, idl, "actual")
     meta = json.load(open(os.path.join(base, "metadata.json"), encoding="utf-8"))
     txt = open(os.path.join(base, "texto.md"), encoding="utf-8", errors="replace").read()
+    nombre, derivado = nombre_utilizable(meta, txt)
+    if derivado:
+        meta["nombre_catalogo_original"] = meta.get("nombre_catalogo")
+        meta["nombre_catalogo"] = nombre
+        meta["nombre_derivado_de_portada"] = True
     return meta, txt
 
 
@@ -205,7 +231,7 @@ def articulos_de(texto):
                     if ms:
                         suf = norm_sufijo(ms.group(1))
                     break
-            num = ma.group(1) + (" " + suf if suf else "")
+            num = ma.group(1).replace(",", "") + (" " + suf if suf else "")
             marcas.append((i, num, "transitorio" if en_trans else "cuerpo", pagina))
             continue
         mt = RE_TRANS_ART.match(ln.strip())
@@ -268,7 +294,7 @@ def gen_articulos():
             "nombre": meta.get("nombre_catalogo"),
             "nombre_oficial": meta.get("nombre_oficial"),
             "version": meta.get("version"),
-            "ruta_texto": f"Sinaloa/ordenamientos/{idl}/actual/texto.md",
+            "ruta_texto": f"{ENTIDAD}/ordenamientos/{idl}/actual/texto.md",
             "generado": datetime.now(timezone.utc).isoformat(),
             "conteo": {"cuerpo": len(cuerpo), "transitorios": len(trans),
                        "notas_de_reforma": notas},
@@ -336,7 +362,7 @@ def gen_fts():
              _campo(meta, "ultima_reforma", "po_numero"),
              len(meta.get("reformas") or []), len(meta.get("abroga") or []),
              meta.get("fecha_descarga"), meta.get("validacion"),
-             f"Sinaloa/ordenamientos/{idl}/actual/texto.md"))
+             f"{ENTIDAD}/ordenamientos/{idl}/actual/texto.md"))
         for a in articulos_de(txt):
             con.execute("INSERT INTO articulos VALUES (?,?,?,?,?,?,?)",
                         (int(idl), meta.get("nombre_catalogo"), a["articulo"],
