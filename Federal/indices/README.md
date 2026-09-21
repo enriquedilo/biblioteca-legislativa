@@ -29,12 +29,12 @@ presentando los resultados por separado: **nunca se fusionan las tablas**.
 - `rutas.json` — id, nombre y ruta resuelta del `texto.md` vigente de cada
   ordenamiento (útil cuando el enlace `actual/` no se resuelve, p. ej. por HTTP).
 
-## Cifras de esta generación (corte de lotes 1–35)
+## Cifras de esta generación (acervo cerrado)
 
-- 354 de 453 ordenamientos: leyes y códigos completos; 38 de 137 reglamentos.
-- 47,517 artículos de cuerpo y 14,807 transitorios.
-- 33,281 notas de reforma DOF ancladas a su artículo, en 269 ordenamientos.
-- 62,324 artículos en el índice de búsqueda; 5,923 aristas de remisión.
+- 447 de 453 ordenamientos catalogados. Seis no tienen versión promovida.
+- 58,794 artículos de cuerpo y 15,698 transitorios.
+- 35,344 notas de reforma DOF ancladas a su artículo.
+- 74,492 artículos en el índice de búsqueda; 6,678 aristas de remisión.
 
 ## Nombres de reglamentos
 
@@ -43,18 +43,29 @@ presentando los resultados por separado: **nunca se fusionan las tablas**.
 de la propia compilación («REGLAMENTO DE LA LEY ADUANERA») y se marca
 `nombre_derivado_de_portada`. El `metadata.json` del acervo no se modifica.
 
-## Límites conocidos de este corte
+## Seis ordenamientos sin versión promovida
 
-- **Reglamento del Senado (ID 315)**: su articulado no está marcado en la
-  conversión; el índice solo tiene 7 entradas espurias. Consultar el `texto.md`
-  directamente.
-- **Ordenanza General de la Armada (ID 312)**: los artículos 1,000 a 1,289 no
-  están marcados; consultar el `texto.md`.
-- **LGSMIME (ID 223)**: 118 aperturas de artículo sin marcar (formato de
-  párrafos numerados). Además tiene `vigencia_recuperada`: la SCJN invalidó el
-  decreto que la abrogaba.
-- **Reglamento de la Ley Aduanera (ID 317)**: falta el artículo 88 en el
-  articulado; pendiente de cotejo con el PDF.
+Están catalogados y sus originales se conservan con su SHA-256, pero no tienen
+`actual/` ni entran en los índices, porque su conversión no superó el control de
+conservación o el PDF no trae texto. Detalle en
+`Federal/reportes/pendientes-finales.json`. No se les aplicó OCR.
+
+| ID | Ordenamiento | Motivo |
+|----|--------------|--------|
+| 372 | Reglamento de la Ley del Servicio Militar (1942) | conversión altera contenido |
+| 413 | Reglamento de la LGS en Materia de Control Sanitario de Actividades, Establecimientos, Productos y Servicios (1988) | conversión altera contenido |
+| 414 | Reglamento de la LGS en Materia de Control Sanitario de la Disposición de Órganos, Tejidos y Cadáveres (1985) | conversión altera contenido |
+| 416 | Reglamento de la LGS en Materia de Investigación para la Salud (1987) | conversión altera contenido |
+| 444 | Reglamento de la Ley Federal de Ganadería (1955) | PDF sin capa de texto |
+| 446 | Reglamento del artículo 5º constitucional (1945) | conversión altera contenido |
+
+Si la consulta toca uno de estos, dilo: el texto no está en la biblioteca y el
+PDF original es la única fuente.
+
+## Otros límites
+
+- **Reglamento de la LGS en Materia de Sanidad Internacional (ID 419)**: la
+  compilación oficial salta del artículo 22 al 24. El 23 no existe en la fuente.
 - Notas no ancladas: explicativas `Reforma DOF …:`, declaratorias de invalidez
   de la SCJN y la tabla arancelaria de la LIGIE (ID 78).
 - Las notas son anotaciones del compilador, no tabla oficial de reformas. Las

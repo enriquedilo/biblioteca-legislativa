@@ -275,7 +275,12 @@ def articulos_de(texto):
 
 
 def ids():
-    return sorted([d for d in os.listdir(ORD) if d.isdigit()], key=int)
+    """Ordenamientos con version promovida. Un id catalogado cuya conversion
+    no se promovio (p. ej. el PDF sin capa de texto) no tiene enlace actual:
+    queda fuera de los indices, no del catalogo."""
+    return sorted([d for d in os.listdir(ORD) if d.isdigit()
+                   and os.path.exists(os.path.join(ORD, d, "actual", "metadata.json"))],
+                  key=int)
 
 
 # ---------------------------------------------------------------- articulado
