@@ -193,3 +193,7 @@ Para continuar en esta tarea, escribe: **Retoma la biblioteca desde AVANCE.md, u
 ## Ajustes de metadatos y rutas
 
 Se extrajeron de los 151 PDF las menciones impresas de decreto, publicación, última reforma, tablas explícitas de reformas y abrogaciones. Los campos no localizados o no representables están en [METADATOS_NORMATIVOS.json](reportes/METADATOS_NORMATIVOS.json). Cada ordenamiento tiene el enlace estable `actual/` hacia la versión declarada.
+
+## Actualización individual 2026-09-21
+
+ID 9 actualizado por nueva descarga individual; Decreto 494, P.O. 111 del 16-09-2026; ocho artículos modificados. Versión anterior conservada.

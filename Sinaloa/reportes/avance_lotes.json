@@ -1,6 +1,6 @@
 {
   "creado": "2026-09-07T17:19:12.844233+00:00",
-  "actualizado": "2026-09-10T13:13:51.606580+00:00",
+  "actualizado": "2026-09-21T19:27:56.446009+00:00",
   "tamano_lote": 10,
   "catalogo_origen": "catalogo/leyes-estatales.json",
   "catalogo_sha256": "a3bdbf2cbbf0ab5b07039e1ce4b97c3d7eb9416dbd8584a7acc83b179c726468",
@@ -152,9 +152,9 @@
       "lote": 0,
       "estado": "piloto_verificado",
       "detalle": {
-        "version": "9a17a27aa83c84a72e5b5da47b1e83e41a140c69491f6ff2045468fa20253fe5",
-        "revision": "Conversión verificada: controles completos y cotejo visual por muestra",
-        "markdown_sha256": "805478d49dd33e0d3b4d4dbae944556045b8747be8c810adbeb3ea9128ecfdea"
+        "version": "dabaa269878c8e609d87fbd0339d207ff670b3972f9316bb544b4ceecaa671a0",
+        "revision": "Conversión verificada: conservación completa y cotejo visual de cambios",
+        "markdown_sha256": "88490c36bca6e8950d9a24badb48a97da7ab2ae81d61969ee84d98bcab7f3f1c"
       },
       "catalogo": {
         "id": 9,
@@ -3027,5 +3027,5 @@
       }
     }
   ],
-  "ultimo_evento": "Preparadas pruebas con 5 leyes. Fórmulas ID24 recuperadas como texto. Tabla ID65 preservada con aviso: no transcrita."
+  "ultimo_evento": "ID 9 actualizado por nueva descarga individual; Decreto 494, P.O. 111 del 16-09-2026; ocho artículos modificados. Versión anterior conservada."
 }
