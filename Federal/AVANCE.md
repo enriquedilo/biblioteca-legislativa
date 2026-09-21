@@ -1,10 +1,10 @@
 # Avance Federal
 
-Actualizado: 2026-09-21T06:03:58.243084+00:00
+Actualizado: 2026-09-21T06:14:20.940572+00:00
 
 Procesados: **403/453**. Intentados: 404/453. Pendientes reportados: 1.
 
-Lote 40 publicado; correcciones y conservación verificadas. Próximo lote: 41.
+ID 377 corregido conservando el punto impreso; revisados 403 documentos. ID 372 permanece sin promover por instrucción del usuario.
 
 Piloto aprobado. Alcance confirmado: 316 principales y 137 reglamentos. Sin OCR, búsqueda ni articulado. Control pypdf informativo; diagnóstico del usuario en reportes/aprobacion_piloto.json. Originales y extracción conservados localmente; Git excluye binarios.
 

@@ -78,6 +78,8 @@ def finalize(row,result):
    match=encabezado(' '.join(line.split()))
    if match and normalizar_millares(match[0])!=match[0]:normalization.append({'pagina_pdf':pn,'linea_extraccion':ln,'encabezado_literal':match[0],'encabezado_markdown':normalizar_millares(match[0]),'motivo':'Normalización de coma de millar autorizada por el usuario; original intacto.'})
  v['normalizacion_millares_encabezados']=normalization
+ import re
+ v['puntuacion_previa_encabezados']=[{'pagina_pdf':pn,'encabezado_literal':match[0],'criterio':'Puntuación impresa conservada, solo separación de encabezado; pendiente de cotejo de errata.'} for pn,page in enumerate((d/'extraccion.txt').read_text().split('\f'),1) for line in page.splitlines() if re.match(r'^[.;:,–—-]+\s+Art',line.strip(),re.I) and (match:=encabezado(' '.join(line.split())))]
  v['control_pypdf_informativo']=DIAGNOSTICO
  if row['sigla'].startswith('LIGIE'):v['metadatos_normativos']['incidencias'].append({'campo':'vigencia_anual','motivo':'Bandera administrativa solicitada por el usuario para la tarifa contenida en LIGIE; no se infiere vigencia jurídica anual del texto.'})
  for kind,sha in m['hash_sha256'].items():
