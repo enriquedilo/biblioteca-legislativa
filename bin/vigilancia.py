@@ -175,6 +175,22 @@ def revisar(item, previo, forzar):
                         "tipo": "modificado", "clase": clase, "url": url,
                         "detalle": "sha publicado %s… != archivado %s…"
                                    % (sha[:12], declarado[:12])})
+        # Una discrepancia confirmada sigue vigente hasta que el acervo se
+        # actualice. Sin esto, la alerta dura una sola corrida: a la siguiente
+        # las cabeceras ya coinciden con lo observado, no se vuelve a
+        # descargar y el pendiente desaparece del reporte con el texto viejo
+        # todavía en la biblioteca.
+        declarado = item.get("sha_" + clase)
+        visto = obs[clase].get("sha256") or antes.get("sha256")
+        ya = any(x.get("tipo") == "modificado" and x.get("clase") == clase
+                 for x in hallazgos)
+        if declarado and visto and visto != declarado and not ya:
+            obs[clase].setdefault("sha256", visto)
+            hallazgos.append({
+                "tipo": "pendiente_de_actualizar", "clase": clase, "url": url,
+                "detalle": "el archivo publicado sigue difiriendo del "
+                           "archivado (%s… != %s…)" % (visto[:12],
+                                                       declarado[:12])})
         time.sleep(PAUSA)
     return obs, hallazgos
 
@@ -216,6 +232,7 @@ def revisar_catalogo(entidad, previo):
 ETIQUETAS = {
     "modificado": "Archivo modificado en el sitio oficial",
     "posible_modificacion": "Posible modificación (cambió el inicio del archivo)",
+    "pendiente_de_actualizar": "Cambio ya detectado, acervo aún sin actualizar",
     "no_encontrado": "El archivo ya no está en su ruta (404)",
     "inaccesible": "No se pudo leer el archivo",
     "catalogo_movido": "La página de catálogo cambió",
@@ -237,7 +254,8 @@ def escribir_reporte(hallazgos, revisados, segundos, notas):
         por_tipo = {}
         for x in hallazgos:
             por_tipo.setdefault(x["tipo"], []).append(x)
-        n = len(por_tipo.get("modificado", []))
+        n = len(por_tipo.get("modificado", [])) + len(
+            por_tipo.get("pendiente_de_actualizar", []))
         if n:
             L.append("**%d archivo(s) cambiaron.** Requiere conversión y "
                      "validación: pasa este reporte al pipeline de "
@@ -246,7 +264,8 @@ def escribir_reporte(hallazgos, revisados, segundos, notas):
             L.append("**Atención requerida**, pero ningún cambio de contenido "
                      "confirmado.")
         L.append("")
-        for tipo in ("modificado", "posible_modificacion", "no_encontrado",
+        for tipo in ("modificado", "pendiente_de_actualizar",
+                     "posible_modificacion", "no_encontrado",
                      "catalogo_movido", "inaccesible", "catalogo_inaccesible"):
             if tipo not in por_tipo:
                 continue
