@@ -1,24 +1,32 @@
 ---
 name: biblioteca-legislativa
-description: "Consulta la biblioteca legislativa pública de Sinaloa y Nayarit alojada en GitHub: localiza leyes, artículos, transitorios, aranceles e historial de reformas por artículo, y responde qué ordenamientos regulan una materia, con entidad, fuente y página."
+description: "Consulta la biblioteca legislativa pública alojada en GitHub —legislación federal, de Sinaloa y de Nayarit—: localiza leyes, artículos, transitorios, aranceles e historial de reformas por artículo, y responde qué ordenamientos regulan una materia, con acervo, fuente y página."
 ---
 
-# Consultar la biblioteca legislativa de Sinaloa y Nayarit
+# Consultar la biblioteca legislativa federal, de Sinaloa y de Nayarit
 
 ## Qué es y dónde está
 
-Un acervo público de legislación estatal, descargado de los sitios oficiales de
-cada Congreso, convertido a Markdown con trazabilidad de página, validado e
-indexado:
+Un acervo público de legislación mexicana, descargado de los sitios oficiales,
+convertido a Markdown con trazabilidad de página, validado e indexado:
 
 `https://github.com/enriquedilo/biblioteca-legislativa`
 
+- `Federal/` — compilación de leyes federales vigentes de la Cámara de Diputados:
+  Constitución, códigos, leyes ordinarias, generales y orgánicas, y reglamentos.
 - `Sinaloa/` — ordenamientos de la categoría «Leyes Estatales» del Congreso de Sinaloa.
 - `Nayarit/` — Códigos, Constitución, Leyes, Leyes Orgánicas, Marco Jurídico del
   Congreso y Marco Jurídico Municipal del Congreso de Nayarit.
 
 No presupongas cuántos documentos hay: lee el catálogo. El repositorio es
-público, así que `git clone` funciona sin credenciales (unos 62 MB, segundos).
+público, así que `git clone` funciona sin credenciales (unos 250 MB).
+
+**Seis reglamentos federales antiguos no tienen texto en el acervo** (IDs 372,
+413, 414, 416, 444 y 446): son PDF escaneados cuya conversión no superó el
+control de conservación, o sin capa de texto. No tienen `actual/` ni aparecen en
+los índices, y no se les aplicó OCR. Si la consulta toca uno de ellos, dilo: la
+única fuente es el PDF de la Cámara, con su URL y hash en
+`Federal/reportes/pendientes-finales.json`.
 
 ## Cómo acceder
 
@@ -33,7 +41,7 @@ no se versiona:
 cualquier ruta del repositorio, y declara que la búsqueda transversal es
 limitada en vez de presentarla como exhaustiva.
 
-**Punto de entrada:** `<Entidad>/indices/rutas.json`, que da por ordenamiento el
+**Punto de entrada:** `<Acervo>/indices/rutas.json`, que da por ordenamiento el
 `id`, el `nombre` y la ruta ya resuelta a `texto`, `metadata`, `validacion` y
 `articulado`. **No uses rutas que contengan `/actual/`**: son enlaces simbólicos
 y por HTTP devuelven el destino, no el archivo.
@@ -49,20 +57,24 @@ descargarlo del Congreso y verificar que corresponde a lo archivado.
 Sí están las imágenes de respaldo en `imagenes/` y algunos documentos en
 `referencias/`, que son la única evidencia disponible de ciertos pasajes.
 
-## Regla de entidad
+## Regla de acervo
 
-**Fija la entidad antes de consultar y declárala en la respuesta.** Si el
-usuario no la nombra y el contexto no la resuelve, pregúntalo antes de leer.
+**Fija el acervo antes de consultar —Federal, Sinaloa o Nayarit— y decláralo en
+la respuesta.** Si el usuario no lo nombra y el contexto no lo resuelve,
+pregúntalo antes de leer.
 
-**Toda cita lleva la entidad.** Nunca «artículo 47, página 21», siempre «Ley de
-Profesiones de Sinaloa, artículo 47, página 21». Los identificadores son propios
-de cada entidad: el ID 70 de Sinaloa y el 70 de Nayarit son leyes distintas.
+**Toda cita lleva el acervo.** Nunca «artículo 47, página 21», siempre «Ley de
+Profesiones de Sinaloa, artículo 47, página 21» o «Ley de Instituciones de
+Crédito, artículo 5 Bis 1, página 3». Los identificadores son propios de cada
+acervo: el ID 70 de Sinaloa, el de Nayarit y el federal son ordenamientos
+distintos.
 
-**No mezcles entidades.** Para derecho comparado, consulta cada una por separado
-y presenta los resultados en bloques rotulados por estado, nunca en un párrafo
-común ni en una tabla que funda ambas fuentes. Un ordenamiento externo traído
-para una comparación puntual se cita como documento externo, no como parte del
-acervo.
+**No mezcles acervos.** Para derecho comparado —incluida la contrastación de una
+ley estatal con la ley general o federal que la rige— consulta cada uno por
+separado y presenta los resultados en bloques rotulados por orden de gobierno,
+nunca en un párrafo común ni en una tabla que funda las fuentes. Un ordenamiento
+externo traído para una comparación puntual se cita como documento externo, no
+como parte del acervo.
 
 ## Anclaje de citas — el error más frecuente
 
@@ -114,15 +126,28 @@ Código de Procedimientos Civiles usan la forma abreviada `Art. Nº`. Nayarit us
 `Artículo N.-` o `ARTÍCULO N.-`, y dos leyes antiguas —la que crea la Comisión de
 Financiamiento y Comercialización de Productos Agrícolas y la que crea la
 Procuraduría de la Defensa del Menor y la Familia— numeran su **cuerpo** con
-ordinales en letra. No confundas 1°, 1º o 1o con 11, ni omitas sufijos Bis o Ter.
+ordinales en letra. Federal usa `Artículo N.-` o `Artículo N.`, con series
+compuestas (`5 Bis 1`), ordinales latinos altos (`78 Octodecies`) y numeración
+con coma de millar (`1,000`); el Reglamento del Senado y la Ley General del
+Sistema de Medios de Impugnación rotulan `Artículo N` sin puntuación y numeran
+párrafos debajo (`1.`, `2.`): esos números de párrafo **no** son artículos. Las
+compilaciones traen erratas de imprenta que el acervo conserva tal cual
+(«Artículos 135», «Artículo. 88», «. Artículo 40»). No confundas 1°, 1º o 1o con
+11, ni omitas sufijos Bis o Ter.
 
 ## Historial de reformas
 
-Ambos congresos imprimen anotaciones al pie de los artículos: Sinaloa con la
-forma `(Ref. Según Dec. No. 257, publicado en el P.O. No. 115, del 23 de
+Los tres acervos imprimen anotaciones al pie o al final de los párrafos: Sinaloa
+con la forma `(Ref. Según Dec. No. 257, publicado en el P.O. No. 115, del 23 de
 septiembre de 2022)`; Nayarit más escueto, `(REFORMADO, P.O. 8 DE NOVIEMBRE DE
-2016)`, normalmente sin número de decreto ni de periódico. La capa de índices las
+2016)`, normalmente sin número de decreto ni de periódico; Federal sin paréntesis
+y pegado al párrafo, `Párrafo reformado DOF 30-09-2024`. La capa de índices las
 extrae a `articulos/<id>.json` con lo que haya impreso.
+
+En Federal no se anclan las notas explicativas `Reforma DOF dd-mm-aaaa: …`, las
+declaratorias de invalidez de la SCJN ni las referencias de la tabla arancelaria
+de la LIGIE: búscalas en el texto cuando importen. **Una declaratoria de
+invalidez no es una reforma**: si un artículo la trae, dilo expresamente.
 
 Sirven para saber cuándo se intervino un artículo, pero **no son una tabla
 oficial de reformas**: pueden faltar en artículos efectivamente reformados. No
@@ -146,9 +171,17 @@ este repositorio certifica vigencia jurídica.** `actual.json` identifica la
 versión seleccionada del acervo, no acredita que sea el texto vigente.
 
 Cuando el resultado alimente una iniciativa o un documento formal, señala que el
-respaldo de la cita es el decreto publicado en el Periódico Oficial y que procede
-cotejo. El acervo se actualiza mediante una revisión semanal automatizada, pero
-puede existir desfase entre una reforma y su incorporación.
+respaldo de la cita es el decreto publicado en el Periódico Oficial del Estado o
+en el Diario Oficial de la Federación, según corresponda, y que procede cotejo.
+Los acervos estatales se revisan semanalmente de forma automatizada, pero puede
+existir desfase entre una reforma y su incorporación.
+
+Tres casos federales exigen advertencia expresa al citarlos: la **Ley General
+del Sistema de Medios de Impugnación en Materia Electoral** (ID 223) **no está
+abrogada** —la SCJN invalidó el decreto de 2023 que la abrogaba y trae
+`vigencia_recuperada`—; el **Código Federal de Procedimientos Civiles** (ID 5)
+trae `abrogacion_programada`, con vigencia a más tardar al 1 de abril de 2027; y
+la **Ley de Ingresos** (ID 60) y la **LIGIE** (ID 78) son de `vigencia_anual`.
 
 ## Respuesta
 

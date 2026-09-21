@@ -15,8 +15,8 @@ tu asistente. El nombre y la descripción salen del propio archivo.
 ## Qué esperar
 
 Funciona para localizar disposiciones, investigar qué ordenamientos regulan una
-materia y comparar entre Sinaloa y Nayarit, siempre con cita de entidad,
-artículo y página.
+materia y comparar entre los tres acervos —federal, Sinaloa y Nayarit—, siempre
+con cita de acervo, artículo y página.
 
 No incluye los PDF y Word originales: quedaron fuera del repositorio para
 mantenerlo ligero. Si una conclusión exige cotejar contra el original, el skill
@@ -24,5 +24,10 @@ está instruido para decirlo en vez de responder sin él. Cada `metadata.json`
 conserva el SHA-256 y la URL de origen, así que cualquiera puede descargar el
 archivo del Congreso y verificar que corresponde.
 
+Seis reglamentos federales antiguos no tienen texto en el acervo: son PDF
+escaneados cuya conversión no superó el control de conservación. El skill está
+instruido para decirlo en vez de responder por ellos.
+
 Ninguna parte de este acervo certifica vigencia jurídica: el respaldo de una
-cita formal es el decreto publicado en el Periódico Oficial.
+cita formal es el decreto publicado en el Periódico Oficial del Estado o en el
+Diario Oficial de la Federación.

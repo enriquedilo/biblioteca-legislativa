@@ -1,33 +1,44 @@
-# Biblioteca Legislativa de Sinaloa
+# Biblioteca Legislativa — empieza aquí
 
-## Empieza aquí
+Tres acervos independientes, con la misma estructura:
 
-1. Abre [el índice](Sinaloa/INDICE.md).
-2. Elige el Markdown de la ley que necesitas.
-3. Usa `metadata.json` para publicación, decreto, reformas y abrogaciones impresas; usa `validacion.json` para conocer campos no localizados y limitaciones.
-4. La ruta estable de consulta es `Sinaloa/ordenamientos/<id>/actual/`.
+| Acervo | Índice | Ordenamientos |
+|---|---|---:|
+| Federal | [Federal/INDICE.md](Federal/INDICE.md) | 447 |
+| Sinaloa | [Sinaloa/INDICE.md](Sinaloa/INDICE.md) | 151 |
+| Nayarit | [Nayarit/INDICE.md](Nayarit/INDICE.md) | 138 |
 
-## Qué contiene
+## Cómo consultar
 
-La biblioteca contiene los 151 ordenamientos de la categoría «Leyes Estatales» descargados del catálogo del Congreso. Cada ordenamiento conserva su PDF y Word originales, la conversión Markdown, la extracción de control, metadata normativa y trazabilidad. La categoría «Leyes de Ingreso» no está incluida.
+1. Abre el índice del acervo que te interesa y localiza el ordenamiento.
+2. Lee `<Acervo>/ordenamientos/<id>/actual/texto.md`. Es la ruta estable.
+3. Consulta `metadata.json` para publicación, decreto, reformas y abrogaciones
+   impresas, y `validacion.json` para las limitaciones y los campos no
+   localizados de esa conversión.
+4. Para búsquedas por materia o por término, usa la capa de índices:
+   `<Acervo>/indices/` —articulado en JSON, remisiones, rutas resueltas y base
+   SQLite con búsqueda de texto completo—. Se regenera con
+   `python3 bin/indices.py todo --entidad <Acervo>`.
 
-Fuente: [Leyes Estatales del Congreso](https://www.congresosinaloa.gob.mx/leyes-estatales/), que enlaza al [catálogo de la Gaceta](https://gaceta.congresosinaloa.gob.mx/#/leyes).
+Los comentarios `<!-- PAGINA_PDF: n -->` del Markdown permiten localizar
+cualquier pasaje en el PDF original. Los números de carpeta son identificadores
+de catálogo, no números de decreto, y son propios de cada acervo.
 
-## Cómo se organiza
+## Reglas que conviene no saltarse
 
-- `Sinaloa/INDICE.md`: entrada principal.
-- `Sinaloa/catalogo/`: inventarios del Congreso.
-- `Sinaloa/ordenamientos/`: una carpeta por identificador de ley.
-- `Sinaloa/ordenamientos/<id>/actual/`: enlace estable a la versión que declara `actual.json`.
-- `Sinaloa/ordenamientos/<id>/versiones/`: originales, Markdown, metadata, validación, revisiones y referencias.
-- `Sinaloa/reportes/`: documentos de síntesis y avance general.
-- `bin/`: herramientas de mantenimiento local.
-- `pruebas/PRUEBA_01/`: copias de prueba, separadas del árbol de datos.
+**Un acervo no toca al otro.** Cada uno tiene su índice y su base. El derecho
+comparado se hace corriendo la misma pregunta en cada uno y presentando los
+resultados por separado.
 
-Los números de carpeta son identificadores de catálogo, no números de decreto. `actual.json` apunta a la versión seleccionada; no declara vigencia jurídica. Los comentarios `PAGINA_PDF` del Markdown permiten localizar el texto en el PDF.
+**Solo lo impreso.** La metadata se extrae únicamente de lo que el documento
+imprime. Si falta un dato se deja `null` y se registra la incidencia; las tablas
+de reformas se conservan solo cuando el documento trae una lista explícita, no
+se reconstruyen desde referencias dispersas.
 
-## Alcance
+**Nada de aquí certifica vigencia.** `actual.json` identifica la versión
+seleccionada del acervo. El respaldo de una cita formal es el decreto publicado
+en el Periódico Oficial del Estado o en el Diario Oficial de la Federación.
 
-La extracción de metadata normativa usa únicamente menciones impresas en cada PDF. Si falta un dato, se deja `null` o un arreglo vacío y se registra la incidencia en `validacion.json`. Las tablas de reformas se conservan sólo cuando el documento incluye una lista o tabla explícita; no se reconstruyen desde referencias dispersas.
-
-La descarga y la conversión están completas. La revisión de calidad visual y la certificación de vigencia jurídica no son equivalentes a la descarga y siguen indicadas en los reportes de síntesis. La actualización periódica aún no está configurada.
+El alcance, lo que falta y por qué, y la organización completa están en
+[README.md](README.md). Para compartir las reglas de consulta con otra persona,
+[skill/](skill/) trae una versión que no depende de ninguna computadora.
