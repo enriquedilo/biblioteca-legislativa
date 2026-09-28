@@ -64,6 +64,15 @@ La ruta estable de consulta es `<Acervo>/ordenamientos/<id>/actual/texto.md`.
 El `<hash>` de cada versión es el SHA-256 del original del que se convirtió: el
 versionado es por contenido, no por fecha.
 
+**`actual/` es un enlace simbólico y por HTTP no se resuelve.** En un clon
+funciona; pedirlo a `raw.githubusercontent.com` devuelve **404**, y ese 404 no
+significa que el ordenamiento falte. Para leer por HTTP, resuelve la ruta real
+con `<Acervo>/indices/rutas.json`, que trae por ordenamiento el id, el nombre y
+la ruta ya resuelta del texto, la metadata y la validación; o con
+`<Acervo>/ordenamientos/<id>/actual.json`, que declara el hash de la versión
+vigente. Antes de concluir que una ley no está, compruébala en `rutas.json`:
+los únicos seis ordenamientos sin texto son los de la tabla anterior.
+
 Los identificadores son de catálogo, propios de cada acervo, y no son números de
 decreto: el ID 70 de Sinaloa, el de Nayarit y el federal son ordenamientos
 distintos.
