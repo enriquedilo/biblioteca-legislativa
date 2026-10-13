@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-21T20:18:03.557706+00:00",
+ "generado": "2026-10-13T16:07:26.177625+00:00",
  "aristas": 774,
  "nota": "Mencion nominal de un ordenamiento de la biblioteca dentro del texto de otro. Es deteccion lexica: no distingue remision normativa de cita incidental.",
  "remisiones": [
@@ -567,9 +567,24 @@
    "origen": 32,
    "origen_nombre": "Ley de Ejecución de las Consecuencias Jurídicas del Delito",
    "destino": 7,
-   "destino_nombre": "Código Penal",
+   "destino_nombre": "CÓDIGO PENAL PARA EL ESTADO DE SINALOA",
    "menciones": 17,
    "articulos": [
+    {
+     "articulo": "125",
+     "tipo": "cuerpo",
+     "pagina_pdf": 33
+    },
+    {
+     "articulo": "132 BIS",
+     "tipo": "cuerpo",
+     "pagina_pdf": 34
+    },
+    {
+     "articulo": "132 BIS A",
+     "tipo": "cuerpo",
+     "pagina_pdf": 35
+    },
     {
      "articulo": "1",
      "tipo": "cuerpo",
@@ -589,21 +604,6 @@
      "articulo": "120",
      "tipo": "cuerpo",
      "pagina_pdf": 31
-    },
-    {
-     "articulo": "125",
-     "tipo": "cuerpo",
-     "pagina_pdf": 33
-    },
-    {
-     "articulo": "132 BIS",
-     "tipo": "cuerpo",
-     "pagina_pdf": 34
-    },
-    {
-     "articulo": "132 BIS A",
-     "tipo": "cuerpo",
-     "pagina_pdf": 35
     },
     {
      "articulo": "143",
@@ -1211,9 +1211,14 @@
    "origen": 4,
    "origen_nombre": "Código Familiar",
    "destino": 7,
-   "destino_nombre": "Código Penal",
+   "destino_nombre": "CÓDIGO PENAL PARA EL ESTADO DE SINALOA",
    "menciones": 10,
    "articulos": [
+    {
+     "articulo": "1204",
+     "tipo": "cuerpo",
+     "pagina_pdf": 220
+    },
     {
      "articulo": "55",
      "tipo": "cuerpo",
@@ -1253,11 +1258,6 @@
      "articulo": "1199",
      "tipo": "cuerpo",
      "pagina_pdf": 218
-    },
-    {
-     "articulo": "1204",
-     "tipo": "cuerpo",
-     "pagina_pdf": 220
     }
    ]
   },
@@ -2777,7 +2777,7 @@
    "origen": 35,
    "origen_nombre": "Ley de Extinción de Dominio",
    "destino": 7,
-   "destino_nombre": "Código Penal",
+   "destino_nombre": "CÓDIGO PENAL PARA EL ESTADO DE SINALOA",
    "menciones": 6,
    "articulos": [
     {
@@ -4114,9 +4114,14 @@
    "origen": 1,
    "origen_nombre": "Código Civil",
    "destino": 7,
-   "destino_nombre": "Código Penal",
+   "destino_nombre": "CÓDIGO PENAL PARA EL ESTADO DE SINALOA",
    "menciones": 3,
    "articulos": [
+    {
+     "articulo": "2932",
+     "tipo": "cuerpo",
+     "pagina_pdf": 237
+    },
     {
      "articulo": "2472",
      "tipo": "cuerpo",
@@ -4126,11 +4131,6 @@
      "articulo": "2645",
      "tipo": "cuerpo",
      "pagina_pdf": 192
-    },
-    {
-     "articulo": "2932",
-     "tipo": "cuerpo",
-     "pagina_pdf": 237
     }
    ]
   },
@@ -4162,14 +4162,9 @@
    "origen": 4,
    "origen_nombre": "Código Familiar",
    "destino": 55,
-   "destino_nombre": "Ley de los Derechos de Niñas, Niños y Adolescentes",
+   "destino_nombre": "LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA",
    "menciones": 3,
    "articulos": [
-    {
-     "articulo": "43",
-     "tipo": "cuerpo",
-     "pagina_pdf": 11
-    },
     {
      "articulo": "232 BIS",
      "tipo": "cuerpo",
@@ -4179,6 +4174,11 @@
      "articulo": "418",
      "tipo": "cuerpo",
      "pagina_pdf": 97
+    },
+    {
+     "articulo": "43",
+     "tipo": "cuerpo",
+     "pagina_pdf": 11
     }
    ]
   },
@@ -4254,12 +4254,12 @@
     {
      "articulo": "SEGUNDO",
      "tipo": "transitorio",
-     "pagina_pdf": 177
+     "pagina_pdf": 178
     },
     {
      "articulo": "CUARTO",
      "tipo": "transitorio",
-     "pagina_pdf": 180
+     "pagina_pdf": 181
     }
    ]
   },
@@ -4574,12 +4574,12 @@
     {
      "articulo": "32",
      "tipo": "cuerpo",
-     "pagina_pdf": 26
+     "pagina_pdf": 27
     },
     {
      "articulo": "84",
      "tipo": "cuerpo",
-     "pagina_pdf": 56
+     "pagina_pdf": 58
     }
    ]
   },
@@ -4862,6 +4862,25 @@
   {
    "origen": 79,
    "origen_nombre": "Ley de Salud",
+   "destino": 7,
+   "destino_nombre": "CÓDIGO PENAL PARA EL ESTADO DE SINALOA",
+   "menciones": 3,
+   "articulos": [
+    {
+     "articulo": "75",
+     "tipo": "cuerpo",
+     "pagina_pdf": 41
+    },
+    {
+     "articulo": "86 BIS",
+     "tipo": "cuerpo",
+     "pagina_pdf": 50
+    }
+   ]
+  },
+  {
+   "origen": 79,
+   "origen_nombre": "Ley de Salud",
    "destino": 42,
    "destino_nombre": "Ley de Gobierno Municipal",
    "menciones": 3,
@@ -4880,25 +4899,6 @@
      "articulo": "222",
      "tipo": "cuerpo",
      "pagina_pdf": 101
-    }
-   ]
-  },
-  {
-   "origen": 79,
-   "origen_nombre": "Ley de Salud",
-   "destino": 7,
-   "destino_nombre": "Código Penal",
-   "menciones": 3,
-   "articulos": [
-    {
-     "articulo": "75",
-     "tipo": "cuerpo",
-     "pagina_pdf": 41
-    },
-    {
-     "articulo": "86 BIS",
-     "tipo": "cuerpo",
-     "pagina_pdf": 50
     }
    ]
   },
@@ -4930,7 +4930,7 @@
    "origen": 81,
    "origen_nombre": "Ley de Seguridad Pública",
    "destino": 7,
-   "destino_nombre": "Código Penal",
+   "destino_nombre": "CÓDIGO PENAL PARA EL ESTADO DE SINALOA",
    "menciones": 3,
    "articulos": [
     {
@@ -5001,27 +5001,8 @@
   {
    "origen": 88,
    "origen_nombre": "Ley del Notariado del Estado de Sinaloa",
-   "destino": 2,
-   "destino_nombre": "Código de Procedimientos Civiles",
-   "menciones": 3,
-   "articulos": [
-    {
-     "articulo": "8",
-     "tipo": "cuerpo",
-     "pagina_pdf": 2
-    },
-    {
-     "articulo": "110",
-     "tipo": "cuerpo",
-     "pagina_pdf": 29
-    }
-   ]
-  },
-  {
-   "origen": 88,
-   "origen_nombre": "Ley del Notariado del Estado de Sinaloa",
    "destino": 7,
-   "destino_nombre": "Código Penal",
+   "destino_nombre": "CÓDIGO PENAL PARA EL ESTADO DE SINALOA",
    "menciones": 3,
    "articulos": [
     {
@@ -5038,6 +5019,25 @@
      "articulo": "105",
      "tipo": "cuerpo",
      "pagina_pdf": 28
+    }
+   ]
+  },
+  {
+   "origen": 88,
+   "origen_nombre": "Ley del Notariado del Estado de Sinaloa",
+   "destino": 2,
+   "destino_nombre": "Código de Procedimientos Civiles",
+   "menciones": 3,
+   "articulos": [
+    {
+     "articulo": "8",
+     "tipo": "cuerpo",
+     "pagina_pdf": 2
+    },
+    {
+     "articulo": "110",
+     "tipo": "cuerpo",
+     "pagina_pdf": 29
     }
    ]
   },
@@ -5312,7 +5312,7 @@
    "origen": 168,
    "origen_nombre": "Ley para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia",
    "destino": 55,
-   "destino_nombre": "Ley de los Derechos de Niñas, Niños y Adolescentes",
+   "destino_nombre": "LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA",
    "menciones": 3,
    "articulos": [
     {
@@ -5537,12 +5537,12 @@
     {
      "articulo": "373",
      "tipo": "cuerpo",
-     "pagina_pdf": 156
+     "pagina_pdf": 157
     },
     {
      "articulo": "SEGUNDO",
      "tipo": "transitorio",
-     "pagina_pdf": 175
+     "pagina_pdf": 176
     }
    ]
   },
@@ -5556,12 +5556,12 @@
     {
      "articulo": "364",
      "tipo": "cuerpo",
-     "pagina_pdf": 151
+     "pagina_pdf": 152
     },
     {
      "articulo": "QUINTO",
      "tipo": "transitorio",
-     "pagina_pdf": 179
+     "pagina_pdf": 180
     }
    ]
   },
@@ -5575,26 +5575,26 @@
     {
      "articulo": "SEGUNDO",
      "tipo": "transitorio",
-     "pagina_pdf": 163
+     "pagina_pdf": 164
     },
     {
      "articulo": "TERCERO",
      "tipo": "transitorio",
-     "pagina_pdf": 163
+     "pagina_pdf": 164
     }
    ]
   },
   {
    "origen": 7,
    "origen_nombre": "Código Penal",
-   "destino": 1,
-   "destino_nombre": "Código Civil",
+   "destino": 4,
+   "destino_nombre": "Código Familiar",
    "menciones": 2,
    "articulos": [
     {
-     "articulo": "44",
+     "articulo": "134 BIS",
      "tipo": "cuerpo",
-     "pagina_pdf": 14
+     "pagina_pdf": 40
     },
     {
      "articulo": "241",
@@ -5664,7 +5664,7 @@
    "origen": 11,
    "origen_nombre": "Ley de Acceso de las Mujeres a una Vida Libre de Violencia",
    "destino": 7,
-   "destino_nombre": "Código Penal",
+   "destino_nombre": "CÓDIGO PENAL PARA EL ESTADO DE SINALOA",
    "menciones": 2,
    "articulos": [
     {
@@ -5786,6 +5786,25 @@
   {
    "origen": 16,
    "origen_nombre": "Ley de Atención y Protección a Víctimas",
+   "destino": 7,
+   "destino_nombre": "CÓDIGO PENAL PARA EL ESTADO DE SINALOA",
+   "menciones": 2,
+   "articulos": [
+    {
+     "articulo": "99",
+     "tipo": "cuerpo",
+     "pagina_pdf": 61
+    },
+    {
+     "articulo": "95",
+     "tipo": "cuerpo",
+     "pagina_pdf": 57
+    }
+   ]
+  },
+  {
+   "origen": 16,
+   "origen_nombre": "Ley de Atención y Protección a Víctimas",
    "destino": 81,
    "destino_nombre": "Ley de Seguridad Pública",
    "menciones": 2,
@@ -5799,25 +5818,6 @@
      "articulo": "178",
      "tipo": "cuerpo",
      "pagina_pdf": 103
-    }
-   ]
-  },
-  {
-   "origen": 16,
-   "origen_nombre": "Ley de Atención y Protección a Víctimas",
-   "destino": 7,
-   "destino_nombre": "Código Penal",
-   "menciones": 2,
-   "articulos": [
-    {
-     "articulo": "95",
-     "tipo": "cuerpo",
-     "pagina_pdf": 57
-    },
-    {
-     "articulo": "99",
-     "tipo": "cuerpo",
-     "pagina_pdf": 61
     }
    ]
   },
@@ -6466,12 +6466,12 @@
     {
      "articulo": "TERCERO",
      "tipo": "transitorio",
-     "pagina_pdf": 87
+     "pagina_pdf": 88
     },
     {
      "articulo": "CUARTO",
      "tipo": "transitorio",
-     "pagina_pdf": 87
+     "pagina_pdf": 88
     }
    ]
   },
@@ -6490,7 +6490,7 @@
     {
      "articulo": "87",
      "tipo": "cuerpo",
-     "pagina_pdf": 59
+     "pagina_pdf": 60
     }
    ]
   },
@@ -6881,6 +6881,25 @@
   {
    "origen": 70,
    "origen_nombre": "Ley de Profesiones",
+   "destino": 7,
+   "destino_nombre": "CÓDIGO PENAL PARA EL ESTADO DE SINALOA",
+   "menciones": 2,
+   "articulos": [
+    {
+     "articulo": "46",
+     "tipo": "cuerpo",
+     "pagina_pdf": 21
+    },
+    {
+     "articulo": "1",
+     "tipo": "cuerpo",
+     "pagina_pdf": 1
+    }
+   ]
+  },
+  {
+   "origen": 70,
+   "origen_nombre": "Ley de Profesiones",
    "destino": 48,
    "destino_nombre": "Ley de Justicia Administrativa",
    "menciones": 2,
@@ -6913,25 +6932,6 @@
      "articulo": "79",
      "tipo": "cuerpo",
      "pagina_pdf": 34
-    }
-   ]
-  },
-  {
-   "origen": 70,
-   "origen_nombre": "Ley de Profesiones",
-   "destino": 7,
-   "destino_nombre": "Código Penal",
-   "menciones": 2,
-   "articulos": [
-    {
-     "articulo": "1",
-     "tipo": "cuerpo",
-     "pagina_pdf": 1
-    },
-    {
-     "articulo": "46",
-     "tipo": "cuerpo",
-     "pagina_pdf": 21
     }
    ]
   },
@@ -7327,7 +7327,7 @@
    "origen": 92,
    "origen_nombre": "Ley en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Estatal de Búsqueda de Personas de Sinaloa",
    "destino": 55,
-   "destino_nombre": "Ley de los Derechos de Niñas, Niños y Adolescentes",
+   "destino_nombre": "LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA",
    "menciones": 2,
    "articulos": [
     {
@@ -7387,6 +7387,20 @@
   {
    "origen": 95,
    "origen_nombre": "Ley Orgánica de la Fiscalía General",
+   "destino": 7,
+   "destino_nombre": "CÓDIGO PENAL PARA EL ESTADO DE SINALOA",
+   "menciones": 2,
+   "articulos": [
+    {
+     "articulo": "5",
+     "tipo": "cuerpo",
+     "pagina_pdf": 1
+    }
+   ]
+  },
+  {
+   "origen": 95,
+   "origen_nombre": "Ley Orgánica de la Fiscalía General",
    "destino": 90,
    "destino_nombre": "Ley del Sistema Anticorrupción",
    "menciones": 2,
@@ -7400,20 +7414,6 @@
      "articulo": "55",
      "tipo": "cuerpo",
      "pagina_pdf": 51
-    }
-   ]
-  },
-  {
-   "origen": 95,
-   "origen_nombre": "Ley Orgánica de la Fiscalía General",
-   "destino": 7,
-   "destino_nombre": "Código Penal",
-   "menciones": 2,
-   "articulos": [
-    {
-     "articulo": "5",
-     "tipo": "cuerpo",
-     "pagina_pdf": 1
     }
    ]
   },
@@ -7648,18 +7648,18 @@
    "origen": 114,
    "origen_nombre": "Ley para la Prevención y Atención de la Violencia Familiar",
    "destino": 7,
-   "destino_nombre": "Código Penal",
+   "destino_nombre": "CÓDIGO PENAL PARA EL ESTADO DE SINALOA",
    "menciones": 2,
    "articulos": [
-    {
-     "articulo": "60",
-     "tipo": "cuerpo",
-     "pagina_pdf": 29
-    },
     {
      "articulo": "64",
      "tipo": "cuerpo",
      "pagina_pdf": 30
+    },
+    {
+     "articulo": "60",
+     "tipo": "cuerpo",
+     "pagina_pdf": 29
     }
    ]
   },
@@ -7743,7 +7743,7 @@
    "origen": 130,
    "origen_nombre": "Ley que Regula la Prevención y el Control de las Adicciones",
    "destino": 55,
-   "destino_nombre": "Ley de los Derechos de Niñas, Niños y Adolescentes",
+   "destino_nombre": "LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA",
    "menciones": 2,
    "articulos": [
     {
@@ -7890,7 +7890,7 @@
    "origen": 161,
    "origen_nombre": "Ley de Amnistía",
    "destino": 7,
-   "destino_nombre": "Código Penal",
+   "destino_nombre": "CÓDIGO PENAL PARA EL ESTADO DE SINALOA",
    "menciones": 2,
    "articulos": [
     {
@@ -8127,7 +8127,7 @@
    "origen": 171,
    "origen_nombre": "Ley para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes",
    "destino": 7,
-   "destino_nombre": "Código Penal",
+   "destino_nombre": "CÓDIGO PENAL PARA EL ESTADO DE SINALOA",
    "menciones": 2,
    "articulos": [
     {
@@ -8395,6 +8395,20 @@
   {
    "origen": 5,
    "origen_nombre": "Código Fiscal",
+   "destino": 7,
+   "destino_nombre": "CÓDIGO PENAL PARA EL ESTADO DE SINALOA",
+   "menciones": 1,
+   "articulos": [
+    {
+     "articulo": "117",
+     "tipo": "cuerpo",
+     "pagina_pdf": 62
+    }
+   ]
+  },
+  {
+   "origen": 5,
+   "origen_nombre": "Código Fiscal",
    "destino": 30,
    "destino_nombre": "Ley de Deuda Pública",
    "menciones": 1,
@@ -8403,20 +8417,6 @@
      "articulo": "2",
      "tipo": "cuerpo",
      "pagina_pdf": 1
-    }
-   ]
-  },
-  {
-   "origen": 5,
-   "origen_nombre": "Código Fiscal",
-   "destino": 7,
-   "destino_nombre": "Código Penal",
-   "menciones": 1,
-   "articulos": [
-    {
-     "articulo": "117",
-     "tipo": "cuerpo",
-     "pagina_pdf": 62
     }
    ]
   },
@@ -8459,6 +8459,20 @@
      "articulo": "25",
      "tipo": "cuerpo",
      "pagina_pdf": 7
+    }
+   ]
+  },
+  {
+   "origen": 6,
+   "origen_nombre": "Código Fiscal Municipal",
+   "destino": 7,
+   "destino_nombre": "CÓDIGO PENAL PARA EL ESTADO DE SINALOA",
+   "menciones": 1,
+   "articulos": [
+    {
+     "articulo": "131",
+     "tipo": "cuerpo",
+     "pagina_pdf": 73
     }
    ]
   },
@@ -8519,16 +8533,16 @@
    ]
   },
   {
-   "origen": 6,
-   "origen_nombre": "Código Fiscal Municipal",
-   "destino": 7,
-   "destino_nombre": "Código Penal",
+   "origen": 7,
+   "origen_nombre": "Código Penal",
+   "destino": 55,
+   "destino_nombre": "LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA",
    "menciones": 1,
    "articulos": [
     {
-     "articulo": "131",
+     "articulo": "272 BIS A",
      "tipo": "cuerpo",
-     "pagina_pdf": 73
+     "pagina_pdf": 110
     }
    ]
   },
@@ -8542,7 +8556,7 @@
     {
      "articulo": "TERCERO",
      "tipo": "transitorio",
-     "pagina_pdf": 186
+     "pagina_pdf": 187
     }
    ]
   },
@@ -8556,21 +8570,7 @@
     {
      "articulo": "313",
      "tipo": "cuerpo",
-     "pagina_pdf": 132
-    }
-   ]
-  },
-  {
-   "origen": 7,
-   "origen_nombre": "Código Penal",
-   "destino": 55,
-   "destino_nombre": "Ley de los Derechos de Niñas, Niños y Adolescentes",
-   "menciones": 1,
-   "articulos": [
-    {
-     "articulo": "272 BIS A",
-     "tipo": "cuerpo",
-     "pagina_pdf": 109
+     "pagina_pdf": 133
     }
    ]
   },
@@ -8591,14 +8591,14 @@
   {
    "origen": 7,
    "origen_nombre": "Código Penal",
-   "destino": 4,
-   "destino_nombre": "Código Familiar",
+   "destino": 1,
+   "destino_nombre": "Código Civil",
    "menciones": 1,
    "articulos": [
     {
-     "articulo": "134 BIS",
+     "articulo": "44",
      "tipo": "cuerpo",
-     "pagina_pdf": 40
+     "pagina_pdf": 14
     }
    ]
   },
@@ -9613,6 +9613,20 @@
   {
    "origen": 28,
    "origen_nombre": "Ley de Desarrollo Ganadero",
+   "destino": 7,
+   "destino_nombre": "CÓDIGO PENAL PARA EL ESTADO DE SINALOA",
+   "menciones": 1,
+   "articulos": [
+    {
+     "articulo": "138",
+     "tipo": "cuerpo",
+     "pagina_pdf": 69
+    }
+   ]
+  },
+  {
+   "origen": 28,
+   "origen_nombre": "Ley de Desarrollo Ganadero",
    "destino": 33,
    "destino_nombre": "Ley de Entidades Paraestatales",
    "menciones": 1,
@@ -9635,20 +9649,6 @@
      "articulo": "208",
      "tipo": "cuerpo",
      "pagina_pdf": 100
-    }
-   ]
-  },
-  {
-   "origen": 28,
-   "origen_nombre": "Ley de Desarrollo Ganadero",
-   "destino": 7,
-   "destino_nombre": "Código Penal",
-   "menciones": 1,
-   "articulos": [
-    {
-     "articulo": "138",
-     "tipo": "cuerpo",
-     "pagina_pdf": 69
     }
    ]
   },
@@ -9698,7 +9698,7 @@
    "origen": 31,
    "origen_nombre": "Ley de Educación",
    "destino": 55,
-   "destino_nombre": "Ley de los Derechos de Niñas, Niños y Adolescentes",
+   "destino_nombre": "LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA",
    "menciones": 1,
    "articulos": [
     {
@@ -10664,7 +10664,7 @@
    "origen": 51,
    "origen_nombre": "Ley de la Juventud",
    "destino": 55,
-   "destino_nombre": "Ley de los Derechos de Niñas, Niños y Adolescentes",
+   "destino_nombre": "LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA",
    "menciones": 1,
    "articulos": [
     {
@@ -10824,7 +10824,7 @@
     {
      "articulo": "87",
      "tipo": "cuerpo",
-     "pagina_pdf": 59
+     "pagina_pdf": 60
     }
    ]
   },
@@ -10852,7 +10852,7 @@
     {
      "articulo": "44",
      "tipo": "cuerpo",
-     "pagina_pdf": 31
+     "pagina_pdf": 32
     }
    ]
   },
@@ -10866,7 +10866,7 @@
     {
      "articulo": "32",
      "tipo": "cuerpo",
-     "pagina_pdf": 26
+     "pagina_pdf": 27
     }
    ]
   },
@@ -11042,7 +11042,7 @@
    "origen": 59,
    "origen_nombre": "Ley de Movilidad Sustentable y Seguridad Vial",
    "destino": 7,
-   "destino_nombre": "Código Penal",
+   "destino_nombre": "CÓDIGO PENAL PARA EL ESTADO DE SINALOA",
    "menciones": 1,
    "articulos": [
     {
@@ -11447,12 +11447,12 @@
   {
    "origen": 68,
    "origen_nombre": "Ley de prestación de servicios para la atención, cuidado y desarrollo integral infantil",
-   "destino": 48,
-   "destino_nombre": "Ley de Justicia Administrativa",
+   "destino": 7,
+   "destino_nombre": "CÓDIGO PENAL PARA EL ESTADO DE SINALOA",
    "menciones": 1,
    "articulos": [
     {
-     "articulo": "68",
+     "articulo": "67",
      "tipo": "cuerpo",
      "pagina_pdf": 22
     }
@@ -11461,12 +11461,12 @@
   {
    "origen": 68,
    "origen_nombre": "Ley de prestación de servicios para la atención, cuidado y desarrollo integral infantil",
-   "destino": 7,
-   "destino_nombre": "Código Penal",
+   "destino": 48,
+   "destino_nombre": "Ley de Justicia Administrativa",
    "menciones": 1,
    "articulos": [
     {
-     "articulo": "67",
+     "articulo": "68",
      "tipo": "cuerpo",
      "pagina_pdf": 22
     }
@@ -13453,6 +13453,20 @@
   {
    "origen": 118,
    "origen_nombre": "Ley para la Protección, Atención y Asistencia a las Víctimas de los Delitos en Materia de Trata de Personas",
+   "destino": 55,
+   "destino_nombre": "LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA",
+   "menciones": 1,
+   "articulos": [
+    {
+     "articulo": "4",
+     "tipo": "cuerpo",
+     "pagina_pdf": 3
+    }
+   ]
+  },
+  {
+   "origen": 118,
+   "origen_nombre": "Ley para la Protección, Atención y Asistencia a las Víctimas de los Delitos en Materia de Trata de Personas",
    "destino": 34,
    "destino_nombre": "Ley de Entrega y Recepción de los Asuntos y Recursos Públicos",
    "menciones": 1,
@@ -13461,20 +13475,6 @@
      "articulo": "QUINTO",
      "tipo": "transitorio",
      "pagina_pdf": 24
-    }
-   ]
-  },
-  {
-   "origen": 118,
-   "origen_nombre": "Ley para la Protección, Atención y Asistencia a las Víctimas de los Delitos en Materia de Trata de Personas",
-   "destino": 55,
-   "destino_nombre": "Ley de los Derechos de Niñas, Niños y Adolescentes",
-   "menciones": 1,
-   "articulos": [
-    {
-     "articulo": "4",
-     "tipo": "cuerpo",
-     "pagina_pdf": 3
     }
    ]
   },
@@ -13495,6 +13495,20 @@
   {
    "origen": 118,
    "origen_nombre": "Ley para la Protección, Atención y Asistencia a las Víctimas de los Delitos en Materia de Trata de Personas",
+   "destino": 7,
+   "destino_nombre": "CÓDIGO PENAL PARA EL ESTADO DE SINALOA",
+   "menciones": 1,
+   "articulos": [
+    {
+     "articulo": "4",
+     "tipo": "cuerpo",
+     "pagina_pdf": 3
+    }
+   ]
+  },
+  {
+   "origen": 118,
+   "origen_nombre": "Ley para la Protección, Atención y Asistencia a las Víctimas de los Delitos en Materia de Trata de Personas",
    "destino": 33,
    "destino_nombre": "Ley de Entidades Paraestatales",
    "menciones": 1,
@@ -13503,20 +13517,6 @@
      "articulo": "QUINTO",
      "tipo": "transitorio",
      "pagina_pdf": 24
-    }
-   ]
-  },
-  {
-   "origen": 118,
-   "origen_nombre": "Ley para la Protección, Atención y Asistencia a las Víctimas de los Delitos en Materia de Trata de Personas",
-   "destino": 7,
-   "destino_nombre": "Código Penal",
-   "menciones": 1,
-   "articulos": [
-    {
-     "articulo": "4",
-     "tipo": "cuerpo",
-     "pagina_pdf": 3
     }
    ]
   },
@@ -13691,6 +13691,20 @@
   {
    "origen": 129,
    "origen_nombre": "Ley que Regula el Aseguramiento, Administración, Enajenación y Disposición Final de Vehículos Automotores, Accesorios o Componentes Abandonados",
+   "destino": 7,
+   "destino_nombre": "CÓDIGO PENAL PARA EL ESTADO DE SINALOA",
+   "menciones": 1,
+   "articulos": [
+    {
+     "articulo": "1",
+     "tipo": "cuerpo",
+     "pagina_pdf": 1
+    }
+   ]
+  },
+  {
+   "origen": 129,
+   "origen_nombre": "Ley que Regula el Aseguramiento, Administración, Enajenación y Disposición Final de Vehículos Automotores, Accesorios o Componentes Abandonados",
    "destino": 48,
    "destino_nombre": "Ley de Justicia Administrativa",
    "menciones": 1,
@@ -13707,20 +13721,6 @@
    "origen_nombre": "Ley que Regula el Aseguramiento, Administración, Enajenación y Disposición Final de Vehículos Automotores, Accesorios o Componentes Abandonados",
    "destino": 35,
    "destino_nombre": "Ley de Extinción de Dominio",
-   "menciones": 1,
-   "articulos": [
-    {
-     "articulo": "1",
-     "tipo": "cuerpo",
-     "pagina_pdf": 1
-    }
-   ]
-  },
-  {
-   "origen": 129,
-   "origen_nombre": "Ley que Regula el Aseguramiento, Administración, Enajenación y Disposición Final de Vehículos Automotores, Accesorios o Componentes Abandonados",
-   "destino": 7,
-   "destino_nombre": "Código Penal",
    "menciones": 1,
    "articulos": [
     {
@@ -13755,6 +13755,20 @@
      "articulo": "4",
      "tipo": "cuerpo",
      "pagina_pdf": 1
+    }
+   ]
+  },
+  {
+   "origen": 131,
+   "origen_nombre": "Ley que Regula las Casas de Empeño",
+   "destino": 7,
+   "destino_nombre": "CÓDIGO PENAL PARA EL ESTADO DE SINALOA",
+   "menciones": 1,
+   "articulos": [
+    {
+     "articulo": "27",
+     "tipo": "cuerpo",
+     "pagina_pdf": 7
     }
    ]
   },
@@ -13811,20 +13825,6 @@
      "articulo": "SEGUNDO",
      "tipo": "transitorio",
      "pagina_pdf": 19
-    }
-   ]
-  },
-  {
-   "origen": 131,
-   "origen_nombre": "Ley que Regula las Casas de Empeño",
-   "destino": 7,
-   "destino_nombre": "Código Penal",
-   "menciones": 1,
-   "articulos": [
-    {
-     "articulo": "27",
-     "tipo": "cuerpo",
-     "pagina_pdf": 7
     }
    ]
   },
@@ -13995,6 +13995,20 @@
   {
    "origen": 159,
    "origen_nombre": "Ley para Prevenir, Atender y Reparar Integralmente el Desplazamiento Forzado Interno",
+   "destino": 55,
+   "destino_nombre": "LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA",
+   "menciones": 1,
+   "articulos": [
+    {
+     "articulo": "10",
+     "tipo": "cuerpo",
+     "pagina_pdf": 5
+    }
+   ]
+  },
+  {
+   "origen": 159,
+   "origen_nombre": "Ley para Prevenir, Atender y Reparar Integralmente el Desplazamiento Forzado Interno",
    "destino": 34,
    "destino_nombre": "Ley de Entrega y Recepción de los Asuntos y Recursos Públicos",
    "menciones": 1,
@@ -14003,20 +14017,6 @@
      "articulo": "QUINTO",
      "tipo": "transitorio",
      "pagina_pdf": 20
-    }
-   ]
-  },
-  {
-   "origen": 159,
-   "origen_nombre": "Ley para Prevenir, Atender y Reparar Integralmente el Desplazamiento Forzado Interno",
-   "destino": 55,
-   "destino_nombre": "Ley de los Derechos de Niñas, Niños y Adolescentes",
-   "menciones": 1,
-   "articulos": [
-    {
-     "articulo": "10",
-     "tipo": "cuerpo",
-     "pagina_pdf": 5
     }
    ]
   },
@@ -14494,7 +14494,7 @@
    "origen": 177,
    "origen_nombre": "Ley para Prevenir, Investigar y Sancionar el Delito de Extorsión",
    "destino": 7,
-   "destino_nombre": "Código Penal",
+   "destino_nombre": "CÓDIGO PENAL PARA EL ESTADO DE SINALOA",
    "menciones": 1,
    "articulos": [
     {
