@@ -46,7 +46,9 @@ RE_ART = re.compile(
     r"((?:[-–A-ZÁÉÍÓÚa-záéíóú][-–A-ZÁÉÍÓÚa-záéíóú.\s0-9]{0,25})?)$",
     re.IGNORECASE)
 # Encabezado cortado por salto de pagina: "### ARTÍCULO 29-" y el sufijo abajo.
-RE_SUFIJO_SIG = re.compile(r"^\**\s*((?:BIS|TER|QUATER|QUINQUIES|SEXIES)?[-\s]*[A-Z])\s*\.", re.IGNORECASE)
+RE_SUFIJO_SIG = re.compile(
+    r"^\**\s*((?:BIS|TER|QU[ÁA]TER|QUATER|QUINQUIES|SEXIES|SEPTIES|OCTIES|NONIES|"
+    r"DECIES)(?:[-\s]*[A-Z])?|[A-Z])\s*[.\-–]", re.IGNORECASE)
 ORDINAL_SUELTO = re.compile(r"^(?:o|º|°|bis|ter)?$", re.IGNORECASE)
 
 
