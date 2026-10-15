@@ -8,7 +8,7 @@ Se conservaron las versiones anteriores y seis originales en respaldo local perm
 
 ## Sinaloa — 7 Código Penal
 
-188 páginas. Añadidos: ['172 BIS H', '172 BIS I', '274 BIS F']; eliminados: ['172 BIS D']; diferencias por rango de artículo: ['172 BIS', '172 BIS C', '240', '241', '273', '274 BIS E'].
+188 páginas. Añadidos: ['172 BIS H', '172 BIS I', '274 BIS F']; eliminados: []; diferencias por rango de artículo: ['172 BIS', '172 BIS D', '240', '241', '273', '274 BIS E'].
 
 La comparación omite espacios, marcadores de página y encabezados repetidos reconocidos. Los rangos pueden incluir títulos o notas contiguas: la lista señala diferencias textuales, no certifica que todos esos artículos hayan sido reformados. El diff completo conserva el contexto de los transitorios y decretos; su correspondencia definitiva está pendiente, sin emparejar ordinales repetidos a ciegas.
 
@@ -37,5 +37,7 @@ Campos/incidencias: abroga, decreto_numero, po_publicacion.edicion, po_publicaci
 - Se corrigió la lectura literal de publicación de Nayarit 73: Sección Décima Tercera, 13 de junio de 2022, página 1.
 - Se corrigió el generador para no interpretar el día de una fecha después de P.O. como número de edición. Esto corrige también notas derivadas de otros índices de las dos entidades regeneradas; no cambia sus textos ni versiones.
 - Regenerados articulado, FTS, remisiones y rutas de Sinaloa y Nayarit.
-- Federal 1, 396 y 441: fuera del alcance de esta automatización; pendientes de conversión separada.
+- Federal 1, 396 y 441: fuera del alcance original de la automatización; convertidos el 14 de octubre por ampliación expresa del usuario. Véase el informe del 14 de octubre.
 - No se declara cotejo visual ni vigencia jurídica. El PR permanece en borrador hasta resolver los controles pendientes.
+
+Actualización 14 de octubre: 172 Bis D queda identificado como encabezado propio, conservando «Derogado» sin agregar punto. La ausencia anterior era del índice, no del original. Los federales 1, 396 y 441 ya se convirtieron por instrucción expresa posterior: véase ../2026-10-14/reporte.md.

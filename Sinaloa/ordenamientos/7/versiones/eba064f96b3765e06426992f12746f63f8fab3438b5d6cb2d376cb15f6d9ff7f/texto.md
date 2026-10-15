@@ -2020,7 +2020,9 @@ Derogado. (Por Decreto No. 260 publicado en el P.O. No. 089 de fecha 22 de julio
 
 Derogado. (Por Decreto No. 260 publicado en el P.O. No. 089 de fecha 22 de julio de 2019).
 
-ARTÍCULO 172 Bis D Derogado. (Por Decreto No. 260 publicado en el P.O. No. 089 de fecha 22 de julio de 2019).
+### ARTÍCULO 172 Bis D
+
+Derogado. (Por Decreto No. 260 publicado en el P.O. No. 089 de fecha 22 de julio de 2019).
 
 ### ARTÍCULO 172 Bis E.
 

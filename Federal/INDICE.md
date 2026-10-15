@@ -8,7 +8,7 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 
 | ID | Sigla | Ordenamiento | Texto / Estado |
 |---|---|---|---|
-| 1 | CPEUM | CONSTITUCIÓN Política de los Estados Unidos Mexicanos | [Markdown](ordenamientos/1/versiones/e943b45be6d313ac4476264ea10f3e3a890f97ae8df2b69062dbee25ec7edb2d/texto.md) · piloto_aprobado |
+| 1 | CPEUM | CONSTITUCIÓN Política de los Estados Unidos Mexicanos | [Markdown](ordenamientos/1/versiones/0f55a273bc4807d0c7bff38d290090e39755e2d6e1a44347d0cb9594b66c4d52/texto.md) · piloto_aprobado |
 | 2 | CCF | CÓDIGO Civil Federal | [Markdown](ordenamientos/2/versiones/20be0fa3aa248e84cc24b1fb7250a2ef81967c497a780928a2854a288a8b6d1b/texto.md) · procesado_con_incidencias |
 | 3 | CCom | CÓDIGO de Comercio | [Markdown](ordenamientos/3/versiones/0bcf3b16dffe56a394c2655ee9d8f1313504d8de375cdd20958d36ee27b7bc41/texto.md) · procesado_con_incidencias |
 | 4 | CJM | CÓDIGO de Justicia Militar | [Markdown](ordenamientos/4/versiones/cefe516a48b3286e2355934e638a2ff4dc9a725329ba3ae3f6bae6c0b93e183f/texto.md) · procesado_con_incidencias |
@@ -403,7 +403,7 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 393 | Reg_LFTAIPG | REGLAMENTO de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental | [Markdown](ordenamientos/393/versiones/e862964199c1558f453aa174ac5e58995acd735baeee113b2200dfb16eae4d7f/texto.md) · procesado_con_incidencias |
 | 394 | Reg_LFVV | REGLAMENTO de la Ley Federal de Variedades Vegetales | [Markdown](ordenamientos/394/versiones/01bcad0cea82074d4d04f2744b39a031ac8558d7d0ca4d39769cad874ae52069/texto.md) · procesado_con_incidencias |
 | 395 | Reg_LFZEE_290917 | REGLAMENTO de la Ley Federal de Zonas Económicas Especiales | [Markdown](ordenamientos/395/versiones/1c17200c0828e41867cd499625b9784e3646d4e3e34ea3f343829072a8256b3d/texto.md) · procesado_con_incidencias |
-| 396 | Reg_LFDA | REGLAMENTO de la Ley Federal del Derecho de Autor | [Markdown](ordenamientos/396/versiones/3390af5e87bcd476406d81c389e98ca22c022a6a3abd9942d9674b3112108556/texto.md) · procesado_con_incidencias |
+| 396 | Reg_LFDA | REGLAMENTO de la Ley Federal del Derecho de Autor | [Markdown](ordenamientos/396/versiones/a2d6ca77c7675afdf8c037c7c8e6f5ef6dc4237e7275f5b49a85cfd3e3f3e736/texto.md) · procesado_con_incidencias |
 | 397 | Reg_LFCPrecQuim | REGLAMENTO de la Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos | [Markdown](ordenamientos/397/versiones/8cd9a240a014896a953612c84ebf375d3ba6ba42005ef2de73df48d9ae23467b/texto.md) · procesado_con_incidencias |
 | 398 | Reg_LFAEBSP | REGLAMENTO de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público | [Markdown](ordenamientos/398/versiones/19124142516d35ceeaee4011a68e03fce1bc5f7a7098b9962158ff7ff7a077c0/texto.md) · procesado_con_incidencias |
 | 399 | Reg_LFPIORPI | REGLAMENTO de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita | [Markdown](ordenamientos/399/versiones/9493c645dc0665ae3dac752b4af214c10b347393414d6b0f2a4880633d6305b9/texto.md) · procesado_con_incidencias |
@@ -448,7 +448,7 @@ Sin índices de búsqueda ni articulado. URLs individuales y SHA-256 en metadata
 | 438 | Reg_LOPGR | REGLAMENTO de la Ley Orgánica de la Procuraduría General de la República | [Markdown](ordenamientos/438/versiones/2d20009beed9ce4efe14ba6762428aa5a1d7533720e84b214689dc35b514c683/texto.md) · procesado_con_incidencias |
 | 439 | Reg_LOINAH_240521 | REGLAMENTO de la Ley Orgánica del Instituto Nacional de Antropología e Historia | [Markdown](ordenamientos/439/versiones/9dd0f89c2aeb9ab9a81ea652d02080ddb85796c7f1e3e6b342b4e9cbe533bdb0/texto.md) · procesado_con_incidencias |
 | 440 | Reg_LDCMPME_240518 | REGLAMENTO de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa | [Markdown](ordenamientos/440/versiones/9f38d55e6f9b2cbbdde2bf21e51d7fe8e10c944fe089a9a50dcdc95c272e45fc/texto.md) · procesado_con_incidencias |
-| 441 | Reg_LFIIEDB | REGLAMENTO de la Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar | [Markdown](ordenamientos/441/versiones/a4085694b701469f4f68c9682efa327cffb47b76f284b816460a43fddd6a0b53/texto.md) · procesado_con_incidencias |
+| 441 | Reg_LFIIEDB | REGLAMENTO de la Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar | [Markdown](ordenamientos/441/versiones/1ca05635ed1f56a50daee3ff800089c88c55207b25ecc0e8f29be8bcf839d979/texto.md) · procesado_con_incidencias |
 | 442 | Reg_LUPDECR | REGLAMENTO de la Ley para el Uso y Protección de la Denominación y del Emblema de la Cruz Roja | [Markdown](ordenamientos/442/versiones/300bbfb1d7bb378917769bebc6af662bbf2c234a67461e7bfef45f1094b0a201/texto.md) · procesado_con_incidencias |
 | 443 | Reg_LPPDDHP | REGLAMENTO de la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas | [Markdown](ordenamientos/443/versiones/a0b984abca19bebcc2e34affd9e33674ecdb8d59ac0d8b39999e4cb710b3e278/texto.md) · procesado_con_incidencias |
 | 444 | Reg_LFGFAGA_fe_16may55 | REGLAMENTO de la Ley que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura | pendiente_sin_texto |
