@@ -12,8 +12,9 @@ MILLARES=re.compile(r'((?:ART[ÍI]CULOS?\.?|ART\.)\s*)(\d{1,3}(?:,\d{3})+)',re.I
 def normalizar_millares(text):
     return MILLARES.sub(lambda m:m[1]+m[2].replace(',',''),text)
 ORDINAL_SIN_PUNTO=re.compile(r'^'+PUNTUACION+r'(?i:ART[ÍI]CULOS?\.?|ART\.)\s*\d+[º°](?=\s+[A-ZÁÉÍÓÚÜÑ])')
+DEROGADO_SIN_PUNTO=re.compile(r'^'+PUNTUACION+r'(?:ART[ÍI]CULO\.?|ART\.)\s*'+NUMERO+r'(?:\s+(?:Bis|Ter|Qu[áa]ter)(?:\s+[A-Z])?)?(?=\s+Derogado\b)',re.I)
 def encabezado(line):
-    m=RANGO.match(line) or EXPLICITO.match(line) or ORDINAL_SIN_PUNTO.match(line) or SOLO.match(line)
+    m=DEROGADO_SIN_PUNTO.match(line) or RANGO.match(line) or EXPLICITO.match(line) or ORDINAL_SIN_PUNTO.match(line) or SOLO.match(line)
     if not m:return None
     # Wrapped references in lowercase are not new article headings.
     literal=re.sub(r'^[.;:,–—-]+\s+','',line)

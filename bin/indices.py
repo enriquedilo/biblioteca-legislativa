@@ -158,6 +158,9 @@ def parse_notas(bloque):
         crudo = " ".join(m.group(1).split())
         dec = RE_DEC.search(crudo)
         po = RE_PO.search(crudo)
+        # Una fecha tras P.O. no proporciona el número de la edición.
+        if po and re.match(r"\s+de\s+[a-záéíóú]+\s+de\s+\d{4}", crudo[po.end():], re.I):
+            po = None
         reg = {
             "tipo": tipo_nota(crudo),
             "decreto": dec.group(1) if dec else None,

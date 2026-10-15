@@ -1,14 +1,14 @@
 {
  "id": 7,
  "nombre": "Código Penal",
- "nombre_oficial": null,
- "version": "38f72a68ce9acb069236f1ff7a7991dd1243fffb8dcf70b6a5c1ee403e667ed6",
+ "nombre_oficial": "CÓDIGO PENAL PARA EL ESTADO DE SINALOA",
+ "version": "eba064f96b3765e06426992f12746f63f8fab3438b5d6cb2d376cb15f6d9ff7f",
  "ruta_texto": "Sinaloa/ordenamientos/7/actual/texto.md",
- "generado": "2026-10-14T23:55:12.110611+00:00",
+ "generado": "2026-10-15T00:01:17.693027+00:00",
  "conteo": {
-  "cuerpo": 464,
-  "transitorios": 170,
-  "notas_de_reforma": 306
+  "cuerpo": 465,
+  "transitorios": 178,
+  "notas_de_reforma": 309
  },
  "articulos": [
   {
@@ -2635,7 +2635,7 @@
    "reformas": []
   },
   {
-   "articulo": "172 BIS",
+   "articulo": "172 BIS H",
    "tipo": "cuerpo",
    "pagina_pdf": 62,
    "linea_inicio": 2041,
@@ -2644,7 +2644,7 @@
    "reformas": []
   },
   {
-   "articulo": "172 BIS",
+   "articulo": "172 BIS I",
    "tipo": "cuerpo",
    "pagina_pdf": 62,
    "linea_inicio": 2045,
@@ -4133,22 +4133,22 @@
    "tipo": "cuerpo",
    "pagina_pdf": 94,
    "linea_inicio": 3041,
-   "linea_fin": 3054,
-   "caracteres": 1487,
+   "linea_fin": 3060,
+   "caracteres": 2817,
    "reformas": [
     {
      "tipo": "reforma",
-     "decreto": "332",
-     "po_numero": "72",
-     "fecha": "2009-06-17",
-     "nota": "Ref. según Dec. 332 publicado en el P.O. No. 72 del 17 de junio del 2009"
+     "decreto": "447",
+     "po_numero": null,
+     "fecha": "2026-09-04",
+     "nota": "Ref. Según Decreto No. 447, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 106, de fecha 4 de septiembre de 2026."
     },
     {
      "tipo": "adicion",
-     "decreto": "515",
+     "decreto": "447",
      "po_numero": null,
-     "fecha": "2012-04-25",
-     "nota": "Adic. según Dec. 515, publicado en el Periódico Oficial No. 51 del 25 de abril del 2012"
+     "fecha": "2026-09-04",
+     "nota": "Adic. Según Decreto No. 447, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 106, de fecha 4 de septiembre de 2026."
     }
    ]
   },
@@ -4156,10 +4156,17 @@
    "articulo": "241",
    "tipo": "cuerpo",
    "pagina_pdf": 95,
-   "linea_inicio": 3055,
-   "linea_fin": 3068,
-   "caracteres": 1785,
+   "linea_inicio": 3061,
+   "linea_fin": 3078,
+   "caracteres": 1914,
    "reformas": [
+    {
+     "tipo": "reforma",
+     "decreto": "447",
+     "po_numero": null,
+     "fecha": "2026-09-04",
+     "nota": "Ref. Según Decreto No. 447, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 106, de fecha 4 de septiembre de 2026."
+    },
     {
      "tipo": "reforma",
      "decreto": "515",
@@ -4186,10 +4193,10 @@
   {
    "articulo": "241 BIS",
    "tipo": "cuerpo",
-   "pagina_pdf": 95,
-   "linea_inicio": 3069,
-   "linea_fin": 3080,
-   "caracteres": 1058,
+   "pagina_pdf": 96,
+   "linea_inicio": 3079,
+   "linea_fin": 3086,
+   "caracteres": 1055,
    "reformas": [
     {
      "tipo": "reforma",
@@ -4211,8 +4218,8 @@
    "articulo": "241 BIS A",
    "tipo": "cuerpo",
    "pagina_pdf": 96,
-   "linea_inicio": 3081,
-   "linea_fin": 3084,
+   "linea_inicio": 3087,
+   "linea_fin": 3092,
    "caracteres": 567,
    "reformas": [
     {
@@ -4227,9 +4234,9 @@
   {
    "articulo": "241 BIS B",
    "tipo": "cuerpo",
-   "pagina_pdf": 96,
-   "linea_inicio": 3085,
-   "linea_fin": 3088,
+   "pagina_pdf": 97,
+   "linea_inicio": 3093,
+   "linea_fin": 3096,
    "caracteres": 693,
    "reformas": [
     {
@@ -4244,10 +4251,10 @@
   {
    "articulo": "241 BIS C",
    "tipo": "cuerpo",
-   "pagina_pdf": 96,
-   "linea_inicio": 3089,
-   "linea_fin": 3112,
-   "caracteres": 1162,
+   "pagina_pdf": 97,
+   "linea_inicio": 3097,
+   "linea_fin": 3118,
+   "caracteres": 1160,
    "reformas": [
     {
      "tipo": "reforma",
@@ -4283,9 +4290,9 @@
    "articulo": "241 BIS D",
    "tipo": "cuerpo",
    "pagina_pdf": 97,
-   "linea_inicio": 3113,
-   "linea_fin": 3124,
-   "caracteres": 574,
+   "linea_inicio": 3119,
+   "linea_fin": 3132,
+   "caracteres": 576,
    "reformas": [
     {
      "tipo": "reforma",
@@ -4299,10 +4306,10 @@
   {
    "articulo": "241 BIS E",
    "tipo": "cuerpo",
-   "pagina_pdf": 97,
-   "linea_inicio": 3125,
-   "linea_fin": 3142,
-   "caracteres": 1515,
+   "pagina_pdf": 98,
+   "linea_inicio": 3133,
+   "linea_fin": 3148,
+   "caracteres": 1513,
    "reformas": [
     {
      "tipo": "adicion",
@@ -4317,9 +4324,9 @@
    "articulo": "242",
    "tipo": "cuerpo",
    "pagina_pdf": 98,
-   "linea_inicio": 3143,
-   "linea_fin": 3150,
-   "caracteres": 1098,
+   "linea_inicio": 3149,
+   "linea_fin": 3158,
+   "caracteres": 1100,
    "reformas": [
     {
      "tipo": "reforma",
@@ -4340,10 +4347,10 @@
   {
    "articulo": "242 BIS",
    "tipo": "cuerpo",
-   "pagina_pdf": 98,
-   "linea_inicio": 3151,
-   "linea_fin": 3170,
-   "caracteres": 858,
+   "pagina_pdf": 99,
+   "linea_inicio": 3159,
+   "linea_fin": 3176,
+   "caracteres": 856,
    "reformas": [
     {
      "tipo": "adicion",
@@ -4358,9 +4365,9 @@
    "articulo": "243",
    "tipo": "cuerpo",
    "pagina_pdf": 99,
-   "linea_inicio": 3171,
-   "linea_fin": 3188,
-   "caracteres": 1486,
+   "linea_inicio": 3177,
+   "linea_fin": 3196,
+   "caracteres": 1488,
    "reformas": [
     {
      "tipo": "reforma",
@@ -4374,54 +4381,54 @@
   {
    "articulo": "244",
    "tipo": "cuerpo",
-   "pagina_pdf": 99,
-   "linea_inicio": 3189,
-   "linea_fin": 3214,
+   "pagina_pdf": 100,
+   "linea_inicio": 3197,
+   "linea_fin": 3222,
    "caracteres": 1180,
    "reformas": []
   },
   {
    "articulo": "245",
    "tipo": "cuerpo",
-   "pagina_pdf": 100,
-   "linea_inicio": 3215,
-   "linea_fin": 3218,
+   "pagina_pdf": 101,
+   "linea_inicio": 3223,
+   "linea_fin": 3226,
    "caracteres": 182,
    "reformas": []
   },
   {
    "articulo": "246",
    "tipo": "cuerpo",
-   "pagina_pdf": 100,
-   "linea_inicio": 3219,
-   "linea_fin": 3224,
+   "pagina_pdf": 101,
+   "linea_inicio": 3227,
+   "linea_fin": 3232,
    "caracteres": 267,
    "reformas": []
   },
   {
    "articulo": "247",
    "tipo": "cuerpo",
-   "pagina_pdf": 100,
-   "linea_inicio": 3225,
-   "linea_fin": 3234,
-   "caracteres": 419,
+   "pagina_pdf": 101,
+   "linea_inicio": 3233,
+   "linea_fin": 3240,
+   "caracteres": 417,
    "reformas": []
   },
   {
    "articulo": "248",
    "tipo": "cuerpo",
    "pagina_pdf": 101,
-   "linea_inicio": 3235,
-   "linea_fin": 3252,
+   "linea_inicio": 3241,
+   "linea_fin": 3260,
    "caracteres": 459,
    "reformas": []
   },
   {
    "articulo": "249",
    "tipo": "cuerpo",
-   "pagina_pdf": 101,
-   "linea_inicio": 3253,
-   "linea_fin": 3260,
+   "pagina_pdf": 102,
+   "linea_inicio": 3261,
+   "linea_fin": 3268,
    "caracteres": 771,
    "reformas": [
     {
@@ -4443,9 +4450,9 @@
   {
    "articulo": "250",
    "tipo": "cuerpo",
-   "pagina_pdf": 101,
-   "linea_inicio": 3261,
-   "linea_fin": 3270,
+   "pagina_pdf": 102,
+   "linea_inicio": 3269,
+   "linea_fin": 3276,
    "caracteres": 432,
    "reformas": [
     {
@@ -4461,8 +4468,8 @@
    "articulo": "251",
    "tipo": "cuerpo",
    "pagina_pdf": 102,
-   "linea_inicio": 3271,
-   "linea_fin": 3278,
+   "linea_inicio": 3277,
+   "linea_fin": 3284,
    "caracteres": 390,
    "reformas": []
   },
@@ -4470,9 +4477,9 @@
    "articulo": "252",
    "tipo": "cuerpo",
    "pagina_pdf": 102,
-   "linea_inicio": 3279,
-   "linea_fin": 3290,
-   "caracteres": 755,
+   "linea_inicio": 3285,
+   "linea_fin": 3298,
+   "caracteres": 757,
    "reformas": [
     {
      "tipo": "reforma",
@@ -4486,9 +4493,9 @@
   {
    "articulo": "253",
    "tipo": "cuerpo",
-   "pagina_pdf": 102,
-   "linea_inicio": 3291,
-   "linea_fin": 3302,
+   "pagina_pdf": 103,
+   "linea_inicio": 3299,
+   "linea_fin": 3308,
    "caracteres": 782,
    "reformas": [
     {
@@ -4504,8 +4511,8 @@
    "articulo": "254",
    "tipo": "cuerpo",
    "pagina_pdf": 103,
-   "linea_inicio": 3303,
-   "linea_fin": 3310,
+   "linea_inicio": 3309,
+   "linea_fin": 3316,
    "caracteres": 394,
    "reformas": [
     {
@@ -4521,8 +4528,8 @@
    "articulo": "254 BIS",
    "tipo": "cuerpo",
    "pagina_pdf": 103,
-   "linea_inicio": 3311,
-   "linea_fin": 3314,
+   "linea_inicio": 3317,
+   "linea_fin": 3320,
    "caracteres": 155,
    "reformas": []
   },
@@ -4530,44 +4537,44 @@
    "articulo": "254 BIS A",
    "tipo": "cuerpo",
    "pagina_pdf": 103,
-   "linea_inicio": 3315,
-   "linea_fin": 3324,
-   "caracteres": 518,
+   "linea_inicio": 3321,
+   "linea_fin": 3332,
+   "caracteres": 520,
    "reformas": []
   },
   {
    "articulo": "254 BIS B",
    "tipo": "cuerpo",
-   "pagina_pdf": 103,
-   "linea_inicio": 3325,
-   "linea_fin": 3328,
+   "pagina_pdf": 104,
+   "linea_inicio": 3333,
+   "linea_fin": 3336,
    "caracteres": 204,
    "reformas": []
   },
   {
    "articulo": "254 BIS C",
    "tipo": "cuerpo",
-   "pagina_pdf": 103,
-   "linea_inicio": 3329,
-   "linea_fin": 3334,
+   "pagina_pdf": 104,
+   "linea_inicio": 3337,
+   "linea_fin": 3342,
    "caracteres": 334,
    "reformas": []
   },
   {
    "articulo": "254 BIS D",
    "tipo": "cuerpo",
-   "pagina_pdf": 103,
-   "linea_inicio": 3335,
-   "linea_fin": 3350,
-   "caracteres": 444,
+   "pagina_pdf": 104,
+   "linea_inicio": 3343,
+   "linea_fin": 3354,
+   "caracteres": 441,
    "reformas": []
   },
   {
    "articulo": "255",
    "tipo": "cuerpo",
    "pagina_pdf": 104,
-   "linea_inicio": 3351,
-   "linea_fin": 3354,
+   "linea_inicio": 3355,
+   "linea_fin": 3358,
    "caracteres": 162,
    "reformas": []
   },
@@ -4575,8 +4582,8 @@
    "articulo": "256",
    "tipo": "cuerpo",
    "pagina_pdf": 104,
-   "linea_inicio": 3355,
-   "linea_fin": 3358,
+   "linea_inicio": 3359,
+   "linea_fin": 3362,
    "caracteres": 119,
    "reformas": []
   },
@@ -4584,8 +4591,8 @@
    "articulo": "257",
    "tipo": "cuerpo",
    "pagina_pdf": 104,
-   "linea_inicio": 3359,
-   "linea_fin": 3362,
+   "linea_inicio": 3363,
+   "linea_fin": 3366,
    "caracteres": 321,
    "reformas": []
   },
@@ -4593,62 +4600,62 @@
    "articulo": "258",
    "tipo": "cuerpo",
    "pagina_pdf": 104,
-   "linea_inicio": 3363,
-   "linea_fin": 3366,
+   "linea_inicio": 3367,
+   "linea_fin": 3372,
    "caracteres": 237,
    "reformas": []
   },
   {
    "articulo": "259",
    "tipo": "cuerpo",
-   "pagina_pdf": 104,
-   "linea_inicio": 3367,
-   "linea_fin": 3370,
+   "pagina_pdf": 105,
+   "linea_inicio": 3373,
+   "linea_fin": 3376,
    "caracteres": 230,
    "reformas": []
   },
   {
    "articulo": "260",
    "tipo": "cuerpo",
-   "pagina_pdf": 104,
-   "linea_inicio": 3371,
-   "linea_fin": 3374,
+   "pagina_pdf": 105,
+   "linea_inicio": 3377,
+   "linea_fin": 3380,
    "caracteres": 212,
    "reformas": []
   },
   {
    "articulo": "261",
    "tipo": "cuerpo",
-   "pagina_pdf": 104,
-   "linea_inicio": 3375,
-   "linea_fin": 3378,
+   "pagina_pdf": 105,
+   "linea_inicio": 3381,
+   "linea_fin": 3384,
    "caracteres": 188,
    "reformas": []
   },
   {
    "articulo": "262",
    "tipo": "cuerpo",
-   "pagina_pdf": 104,
-   "linea_inicio": 3379,
-   "linea_fin": 3382,
+   "pagina_pdf": 105,
+   "linea_inicio": 3385,
+   "linea_fin": 3388,
    "caracteres": 286,
    "reformas": []
   },
   {
    "articulo": "263",
    "tipo": "cuerpo",
-   "pagina_pdf": 104,
-   "linea_inicio": 3383,
-   "linea_fin": 3392,
-   "caracteres": 322,
+   "pagina_pdf": 105,
+   "linea_inicio": 3389,
+   "linea_fin": 3396,
+   "caracteres": 320,
    "reformas": []
   },
   {
    "articulo": "264",
    "tipo": "cuerpo",
    "pagina_pdf": 105,
-   "linea_inicio": 3393,
-   "linea_fin": 3398,
+   "linea_inicio": 3397,
+   "linea_fin": 3402,
    "caracteres": 653,
    "reformas": []
   },
@@ -4656,9 +4663,9 @@
    "articulo": "264 BIS",
    "tipo": "cuerpo",
    "pagina_pdf": 105,
-   "linea_inicio": 3399,
-   "linea_fin": 3416,
-   "caracteres": 1406,
+   "linea_inicio": 3403,
+   "linea_fin": 3420,
+   "caracteres": 1408,
    "reformas": [
     {
      "tipo": "adicion",
@@ -4673,8 +4680,8 @@
    "articulo": "265",
    "tipo": "cuerpo",
    "pagina_pdf": 106,
-   "linea_inicio": 3417,
-   "linea_fin": 3432,
+   "linea_inicio": 3421,
+   "linea_fin": 3436,
    "caracteres": 636,
    "reformas": []
   },
@@ -4682,17 +4689,17 @@
    "articulo": "266",
    "tipo": "cuerpo",
    "pagina_pdf": 106,
-   "linea_inicio": 3433,
-   "linea_fin": 3444,
-   "caracteres": 717,
+   "linea_inicio": 3437,
+   "linea_fin": 3450,
+   "caracteres": 719,
    "reformas": []
   },
   {
    "articulo": "267",
    "tipo": "cuerpo",
-   "pagina_pdf": 106,
-   "linea_inicio": 3445,
-   "linea_fin": 3454,
+   "pagina_pdf": 107,
+   "linea_inicio": 3451,
+   "linea_fin": 3458,
    "caracteres": 370,
    "reformas": []
   },
@@ -4700,8 +4707,8 @@
    "articulo": "268",
    "tipo": "cuerpo",
    "pagina_pdf": 107,
-   "linea_inicio": 3455,
-   "linea_fin": 3466,
+   "linea_inicio": 3459,
+   "linea_fin": 3470,
    "caracteres": 860,
    "reformas": []
   },
@@ -4709,35 +4716,35 @@
    "articulo": "269",
    "tipo": "cuerpo",
    "pagina_pdf": 107,
-   "linea_inicio": 3467,
-   "linea_fin": 3478,
-   "caracteres": 630,
+   "linea_inicio": 3471,
+   "linea_fin": 3484,
+   "caracteres": 632,
    "reformas": []
   },
   {
    "articulo": "270",
    "tipo": "cuerpo",
-   "pagina_pdf": 107,
-   "linea_inicio": 3479,
-   "linea_fin": 3482,
+   "pagina_pdf": 108,
+   "linea_inicio": 3485,
+   "linea_fin": 3488,
    "caracteres": 256,
    "reformas": []
   },
   {
    "articulo": "271",
    "tipo": "cuerpo",
-   "pagina_pdf": 107,
-   "linea_inicio": 3483,
-   "linea_fin": 3490,
-   "caracteres": 283,
+   "pagina_pdf": 108,
+   "linea_inicio": 3489,
+   "linea_fin": 3492,
+   "caracteres": 280,
    "reformas": []
   },
   {
    "articulo": "271 BIS",
    "tipo": "cuerpo",
    "pagina_pdf": 108,
-   "linea_inicio": 3491,
-   "linea_fin": 3518,
+   "linea_inicio": 3493,
+   "linea_fin": 3520,
    "caracteres": 2336,
    "reformas": [
     {
@@ -4760,8 +4767,8 @@
    "articulo": "272",
    "tipo": "cuerpo",
    "pagina_pdf": 109,
-   "linea_inicio": 3519,
-   "linea_fin": 3528,
+   "linea_inicio": 3521,
+   "linea_fin": 3530,
    "caracteres": 721,
    "reformas": [
     {
@@ -4777,9 +4784,9 @@
    "articulo": "272 BIS",
    "tipo": "cuerpo",
    "pagina_pdf": 109,
-   "linea_inicio": 3529,
-   "linea_fin": 3534,
-   "caracteres": 415,
+   "linea_inicio": 3531,
+   "linea_fin": 3540,
+   "caracteres": 418,
    "reformas": [
     {
      "tipo": "adicion",
@@ -4793,10 +4800,10 @@
   {
    "articulo": "272 BIS A",
    "tipo": "cuerpo",
-   "pagina_pdf": 109,
-   "linea_inicio": 3535,
-   "linea_fin": 3562,
-   "caracteres": 1684,
+   "pagina_pdf": 110,
+   "linea_inicio": 3541,
+   "linea_fin": 3566,
+   "caracteres": 1682,
    "reformas": [
     {
      "tipo": "adicion",
@@ -4818,16 +4825,16 @@
    "articulo": "273",
    "tipo": "cuerpo",
    "pagina_pdf": 110,
-   "linea_inicio": 3563,
-   "linea_fin": 3578,
-   "caracteres": 1959,
+   "linea_inicio": 3567,
+   "linea_fin": 3582,
+   "caracteres": 1893,
    "reformas": [
     {
      "tipo": "reforma",
-     "decreto": "336",
-     "po_numero": "74",
-     "fecha": "2009-06-22",
-     "nota": "Ref. según Dec. 336, publicado en el P.O. No. 74 de fecha 22 de junio del 2009"
+     "decreto": "538",
+     "po_numero": null,
+     "fecha": "2026-10-07",
+     "nota": "Ref. Según Decreto No. 538, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 120, de fecha 7 de octubre de 2026."
     },
     {
      "tipo": "adicion",
@@ -4849,8 +4856,8 @@
    "articulo": "274",
    "tipo": "cuerpo",
    "pagina_pdf": 111,
-   "linea_inicio": 3579,
-   "linea_fin": 3586,
+   "linea_inicio": 3583,
+   "linea_fin": 3592,
    "caracteres": 988,
    "reformas": [
     {
@@ -4865,10 +4872,10 @@
   {
    "articulo": "274 BIS",
    "tipo": "cuerpo",
-   "pagina_pdf": 111,
-   "linea_inicio": 3587,
-   "linea_fin": 3600,
-   "caracteres": 1572,
+   "pagina_pdf": 112,
+   "linea_inicio": 3593,
+   "linea_fin": 3602,
+   "caracteres": 1569,
    "reformas": [
     {
      "tipo": "reforma",
@@ -4883,8 +4890,8 @@
    "articulo": "274 BIS A",
    "tipo": "cuerpo",
    "pagina_pdf": 112,
-   "linea_inicio": 3601,
-   "linea_fin": 3604,
+   "linea_inicio": 3603,
+   "linea_fin": 3606,
    "caracteres": 392,
    "reformas": [
     {
@@ -4900,8 +4907,8 @@
    "articulo": "274 BIS B",
    "tipo": "cuerpo",
    "pagina_pdf": 112,
-   "linea_inicio": 3605,
-   "linea_fin": 3608,
+   "linea_inicio": 3607,
+   "linea_fin": 3610,
    "caracteres": 564,
    "reformas": [
     {
@@ -4917,9 +4924,9 @@
    "articulo": "274 BIS C",
    "tipo": "cuerpo",
    "pagina_pdf": 112,
-   "linea_inicio": 3609,
-   "linea_fin": 3612,
-   "caracteres": 611,
+   "linea_inicio": 3611,
+   "linea_fin": 3618,
+   "caracteres": 614,
    "reformas": [
     {
      "tipo": "reforma",
@@ -4933,9 +4940,9 @@
   {
    "articulo": "274 BIS D",
    "tipo": "cuerpo",
-   "pagina_pdf": 112,
-   "linea_inicio": 3613,
-   "linea_fin": 3616,
+   "pagina_pdf": 113,
+   "linea_inicio": 3619,
+   "linea_fin": 3622,
    "caracteres": 524,
    "reformas": [
     {
@@ -4950,10 +4957,10 @@
   {
    "articulo": "274 BIS E",
    "tipo": "cuerpo",
-   "pagina_pdf": 112,
-   "linea_inicio": 3617,
-   "linea_fin": 3632,
-   "caracteres": 1108,
+   "pagina_pdf": 113,
+   "linea_inicio": 3623,
+   "linea_fin": 3636,
+   "caracteres": 1309,
    "reformas": [
     {
      "tipo": "adicion",
@@ -4961,61 +4968,85 @@
      "po_numero": "034",
      "fecha": "2009-02-26",
      "nota": "Adic. según Decreto No. 284, del 26 de febrero del 2009, publicado en el P.O. No. 034 de fecha 20 de marzo del 2009"
+    },
+    {
+     "tipo": "adicion",
+     "decreto": "538",
+     "po_numero": null,
+     "fecha": "2026-10-07",
+     "nota": "Adic. Según Decreto No. 538, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 120, de fecha 7 de octubre de 2026."
+    }
+   ]
+  },
+  {
+   "articulo": "274 BIS F",
+   "tipo": "cuerpo",
+   "pagina_pdf": 113,
+   "linea_inicio": 3637,
+   "linea_fin": 3662,
+   "caracteres": 1767,
+   "reformas": [
+    {
+     "tipo": "adicion",
+     "decreto": "538",
+     "po_numero": null,
+     "fecha": "2026-10-07",
+     "nota": "Adic. Según Decreto No. 538, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 120, de fecha 7 de octubre de 2026."
     }
    ]
   },
   {
    "articulo": "275",
    "tipo": "cuerpo",
-   "pagina_pdf": 113,
-   "linea_inicio": 3633,
-   "linea_fin": 3642,
-   "caracteres": 872,
+   "pagina_pdf": 114,
+   "linea_inicio": 3663,
+   "linea_fin": 3674,
+   "caracteres": 874,
    "reformas": []
   },
   {
    "articulo": "276",
    "tipo": "cuerpo",
-   "pagina_pdf": 113,
-   "linea_inicio": 3643,
-   "linea_fin": 3658,
-   "caracteres": 345,
+   "pagina_pdf": 115,
+   "linea_inicio": 3675,
+   "linea_fin": 3686,
+   "caracteres": 342,
    "reformas": []
   },
   {
    "articulo": "277",
    "tipo": "cuerpo",
-   "pagina_pdf": 114,
-   "linea_inicio": 3659,
-   "linea_fin": 3666,
+   "pagina_pdf": 115,
+   "linea_inicio": 3687,
+   "linea_fin": 3694,
    "caracteres": 408,
    "reformas": []
   },
   {
    "articulo": "278",
    "tipo": "cuerpo",
-   "pagina_pdf": 114,
-   "linea_inicio": 3667,
-   "linea_fin": 3678,
+   "pagina_pdf": 115,
+   "linea_inicio": 3695,
+   "linea_fin": 3706,
    "caracteres": 272,
    "reformas": []
   },
   {
    "articulo": "279",
    "tipo": "cuerpo",
-   "pagina_pdf": 114,
-   "linea_inicio": 3679,
-   "linea_fin": 3684,
-   "caracteres": 338,
+   "pagina_pdf": 115,
+   "linea_inicio": 3707,
+   "linea_fin": 3714,
+   "caracteres": 340,
    "reformas": []
   },
   {
    "articulo": "280",
    "tipo": "cuerpo",
-   "pagina_pdf": 114,
-   "linea_inicio": 3685,
-   "linea_fin": 3702,
-   "caracteres": 1295,
+   "pagina_pdf": 116,
+   "linea_inicio": 3715,
+   "linea_fin": 3730,
+   "caracteres": 1293,
    "reformas": [
     {
      "tipo": "reforma",
@@ -5029,28 +5060,28 @@
   {
    "articulo": "281",
    "tipo": "cuerpo",
-   "pagina_pdf": 115,
-   "linea_inicio": 3703,
-   "linea_fin": 3712,
+   "pagina_pdf": 116,
+   "linea_inicio": 3731,
+   "linea_fin": 3742,
    "caracteres": 623,
    "reformas": []
   },
   {
    "articulo": "282",
    "tipo": "cuerpo",
-   "pagina_pdf": 115,
-   "linea_inicio": 3713,
-   "linea_fin": 3716,
+   "pagina_pdf": 117,
+   "linea_inicio": 3743,
+   "linea_fin": 3746,
    "caracteres": 237,
    "reformas": []
   },
   {
    "articulo": "283",
    "tipo": "cuerpo",
-   "pagina_pdf": 115,
-   "linea_inicio": 3717,
-   "linea_fin": 3730,
-   "caracteres": 715,
+   "pagina_pdf": 117,
+   "linea_inicio": 3747,
+   "linea_fin": 3758,
+   "caracteres": 713,
    "reformas": [
     {
      "tipo": "adicion",
@@ -5064,9 +5095,9 @@
   {
    "articulo": "283 BIS",
    "tipo": "cuerpo",
-   "pagina_pdf": 116,
-   "linea_inicio": 3731,
-   "linea_fin": 3742,
+   "pagina_pdf": 117,
+   "linea_inicio": 3759,
+   "linea_fin": 3770,
    "caracteres": 501,
    "reformas": [
     {
@@ -5081,10 +5112,10 @@
   {
    "articulo": "283 BIS A",
    "tipo": "cuerpo",
-   "pagina_pdf": 116,
-   "linea_inicio": 3743,
-   "linea_fin": 3760,
-   "caracteres": 447,
+   "pagina_pdf": 117,
+   "linea_inicio": 3771,
+   "linea_fin": 3790,
+   "caracteres": 449,
    "reformas": [
     {
      "tipo": "adicion",
@@ -5098,91 +5129,91 @@
   {
    "articulo": "284",
    "tipo": "cuerpo",
-   "pagina_pdf": 116,
-   "linea_inicio": 3761,
-   "linea_fin": 3772,
+   "pagina_pdf": 118,
+   "linea_inicio": 3791,
+   "linea_fin": 3800,
    "caracteres": 394,
    "reformas": []
   },
   {
    "articulo": "285",
    "tipo": "cuerpo",
-   "pagina_pdf": 117,
-   "linea_inicio": 3773,
-   "linea_fin": 3782,
+   "pagina_pdf": 118,
+   "linea_inicio": 3801,
+   "linea_fin": 3810,
    "caracteres": 652,
    "reformas": []
   },
   {
    "articulo": "286",
    "tipo": "cuerpo",
-   "pagina_pdf": 117,
-   "linea_inicio": 3783,
-   "linea_fin": 3794,
-   "caracteres": 655,
+   "pagina_pdf": 118,
+   "linea_inicio": 3811,
+   "linea_fin": 3824,
+   "caracteres": 657,
    "reformas": []
   },
   {
    "articulo": "287",
    "tipo": "cuerpo",
-   "pagina_pdf": 117,
-   "linea_inicio": 3795,
-   "linea_fin": 3800,
+   "pagina_pdf": 119,
+   "linea_inicio": 3825,
+   "linea_fin": 3830,
    "caracteres": 630,
    "reformas": []
   },
   {
    "articulo": "288",
    "tipo": "cuerpo",
-   "pagina_pdf": 117,
-   "linea_inicio": 3801,
-   "linea_fin": 3812,
-   "caracteres": 588,
+   "pagina_pdf": 119,
+   "linea_inicio": 3831,
+   "linea_fin": 3840,
+   "caracteres": 586,
    "reformas": []
   },
   {
    "articulo": "289",
    "tipo": "cuerpo",
-   "pagina_pdf": 118,
-   "linea_inicio": 3813,
-   "linea_fin": 3816,
+   "pagina_pdf": 119,
+   "linea_inicio": 3841,
+   "linea_fin": 3844,
    "caracteres": 210,
    "reformas": []
   },
   {
    "articulo": "290",
    "tipo": "cuerpo",
-   "pagina_pdf": 118,
-   "linea_inicio": 3817,
-   "linea_fin": 3826,
+   "pagina_pdf": 119,
+   "linea_inicio": 3845,
+   "linea_fin": 3856,
    "caracteres": 519,
    "reformas": []
   },
   {
    "articulo": "291",
    "tipo": "cuerpo",
-   "pagina_pdf": 118,
-   "linea_inicio": 3827,
-   "linea_fin": 3838,
+   "pagina_pdf": 120,
+   "linea_inicio": 3857,
+   "linea_fin": 3866,
    "caracteres": 797,
    "reformas": []
   },
   {
    "articulo": "292",
    "tipo": "cuerpo",
-   "pagina_pdf": 119,
-   "linea_inicio": 3839,
-   "linea_fin": 3854,
+   "pagina_pdf": 120,
+   "linea_inicio": 3867,
+   "linea_fin": 3882,
    "caracteres": 716,
    "reformas": []
   },
   {
    "articulo": "293",
    "tipo": "cuerpo",
-   "pagina_pdf": 119,
-   "linea_inicio": 3855,
-   "linea_fin": 3862,
-   "caracteres": 408,
+   "pagina_pdf": 120,
+   "linea_inicio": 3883,
+   "linea_fin": 3894,
+   "caracteres": 411,
    "reformas": [
     {
      "tipo": "adicion",
@@ -5196,17 +5227,17 @@
   {
    "articulo": "293 BIS",
    "tipo": "cuerpo",
-   "pagina_pdf": 119,
-   "linea_inicio": 3863,
-   "linea_fin": 3892,
-   "caracteres": 3319,
+   "pagina_pdf": 121,
+   "linea_inicio": 3895,
+   "linea_fin": 3920,
+   "caracteres": 3316,
    "reformas": [
     {
      "tipo": "reforma",
      "decreto": "107",
      "po_numero": null,
      "fecha": "2025-04-23",
-     "nota": "Ref. Según Decreto No. 107, <!-- PAGINA_PDF: 120 --> publicado en el Periódico Oficial “El Estado de Sinaloa” No. 050, de fecha 23 de abril de 2025"
+     "nota": "Ref. Según Decreto No. 107, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 050, de fecha 23 de abril de 2025"
     },
     {
      "tipo": "adicion",
@@ -5227,45 +5258,45 @@
   {
    "articulo": "294",
    "tipo": "cuerpo",
-   "pagina_pdf": 121,
-   "linea_inicio": 3893,
-   "linea_fin": 3896,
+   "pagina_pdf": 122,
+   "linea_inicio": 3921,
+   "linea_fin": 3924,
    "caracteres": 117,
    "reformas": []
   },
   {
    "articulo": "295",
    "tipo": "cuerpo",
-   "pagina_pdf": 121,
-   "linea_inicio": 3897,
-   "linea_fin": 3912,
-   "caracteres": 698,
+   "pagina_pdf": 122,
+   "linea_inicio": 3925,
+   "linea_fin": 3942,
+   "caracteres": 700,
    "reformas": []
   },
   {
    "articulo": "296",
    "tipo": "cuerpo",
-   "pagina_pdf": 121,
-   "linea_inicio": 3913,
-   "linea_fin": 3918,
+   "pagina_pdf": 123,
+   "linea_inicio": 3943,
+   "linea_fin": 3946,
    "caracteres": 420,
    "reformas": []
   },
   {
    "articulo": "297",
    "tipo": "cuerpo",
-   "pagina_pdf": 122,
-   "linea_inicio": 3919,
-   "linea_fin": 3926,
+   "pagina_pdf": 123,
+   "linea_inicio": 3947,
+   "linea_fin": 3954,
    "caracteres": 438,
    "reformas": []
   },
   {
    "articulo": "298",
    "tipo": "cuerpo",
-   "pagina_pdf": 122,
-   "linea_inicio": 3927,
-   "linea_fin": 3950,
+   "pagina_pdf": 123,
+   "linea_inicio": 3955,
+   "linea_fin": 3978,
    "caracteres": 2621,
    "reformas": [
     {
@@ -5287,18 +5318,18 @@
   {
    "articulo": "299",
    "tipo": "cuerpo",
-   "pagina_pdf": 123,
-   "linea_inicio": 3951,
-   "linea_fin": 3958,
+   "pagina_pdf": 124,
+   "linea_inicio": 3979,
+   "linea_fin": 3986,
    "caracteres": 287,
    "reformas": []
   },
   {
    "articulo": "300",
    "tipo": "cuerpo",
-   "pagina_pdf": 123,
-   "linea_inicio": 3959,
-   "linea_fin": 3984,
+   "pagina_pdf": 124,
+   "linea_inicio": 3987,
+   "linea_fin": 4012,
    "caracteres": 2176,
    "reformas": [
     {
@@ -5313,10 +5344,10 @@
   {
    "articulo": "300 BIS",
    "tipo": "cuerpo",
-   "pagina_pdf": 124,
-   "linea_inicio": 3985,
-   "linea_fin": 3994,
-   "caracteres": 607,
+   "pagina_pdf": 125,
+   "linea_inicio": 4013,
+   "linea_fin": 4026,
+   "caracteres": 610,
    "reformas": [
     {
      "tipo": "adicion",
@@ -5330,10 +5361,10 @@
   {
    "articulo": "301",
    "tipo": "cuerpo",
-   "pagina_pdf": 124,
-   "linea_inicio": 3995,
-   "linea_fin": 4016,
-   "caracteres": 1383,
+   "pagina_pdf": 126,
+   "linea_inicio": 4027,
+   "linea_fin": 4046,
+   "caracteres": 1381,
    "reformas": [
     {
      "tipo": "reforma",
@@ -5347,9 +5378,9 @@
   {
    "articulo": "301 BIS",
    "tipo": "cuerpo",
-   "pagina_pdf": 125,
-   "linea_inicio": 4017,
-   "linea_fin": 4030,
+   "pagina_pdf": 126,
+   "linea_inicio": 4047,
+   "linea_fin": 4060,
    "caracteres": 1051,
    "reformas": [
     {
@@ -5364,10 +5395,10 @@
   {
    "articulo": "301 BIS A",
    "tipo": "cuerpo",
-   "pagina_pdf": 126,
-   "linea_inicio": 4031,
-   "linea_fin": 4050,
-   "caracteres": 1270,
+   "pagina_pdf": 127,
+   "linea_inicio": 4061,
+   "linea_fin": 4082,
+   "caracteres": 1272,
    "reformas": [
     {
      "tipo": "adicion",
@@ -5381,28 +5412,28 @@
   {
    "articulo": "302",
    "tipo": "cuerpo",
-   "pagina_pdf": 126,
-   "linea_inicio": 4051,
-   "linea_fin": 4060,
+   "pagina_pdf": 128,
+   "linea_inicio": 4083,
+   "linea_fin": 4090,
    "caracteres": 413,
    "reformas": []
   },
   {
    "articulo": "303",
    "tipo": "cuerpo",
-   "pagina_pdf": 127,
-   "linea_inicio": 4061,
-   "linea_fin": 4068,
+   "pagina_pdf": 128,
+   "linea_inicio": 4091,
+   "linea_fin": 4098,
    "caracteres": 455,
    "reformas": []
   },
   {
    "articulo": "304",
    "tipo": "cuerpo",
-   "pagina_pdf": 127,
-   "linea_inicio": 4069,
-   "linea_fin": 4082,
-   "caracteres": 1349,
+   "pagina_pdf": 128,
+   "linea_inicio": 4099,
+   "linea_fin": 4114,
+   "caracteres": 1351,
    "reformas": [
     {
      "tipo": "reforma",
@@ -5416,10 +5447,10 @@
   {
    "articulo": "304 BIS",
    "tipo": "cuerpo",
-   "pagina_pdf": 127,
-   "linea_inicio": 4083,
-   "linea_fin": 4104,
-   "caracteres": 1708,
+   "pagina_pdf": 129,
+   "linea_inicio": 4115,
+   "linea_fin": 4134,
+   "caracteres": 1706,
    "reformas": [
     {
      "tipo": "adicion",
@@ -5433,10 +5464,10 @@
   {
    "articulo": "305",
    "tipo": "cuerpo",
-   "pagina_pdf": 128,
-   "linea_inicio": 4105,
-   "linea_fin": 4120,
-   "caracteres": 1233,
+   "pagina_pdf": 129,
+   "linea_inicio": 4135,
+   "linea_fin": 4148,
+   "caracteres": 1232,
    "reformas": [
     {
      "tipo": "reforma",
@@ -5450,9 +5481,9 @@
   {
    "articulo": "305 BIS",
    "tipo": "cuerpo",
-   "pagina_pdf": 129,
-   "linea_inicio": 4121,
-   "linea_fin": 4132,
+   "pagina_pdf": 130,
+   "linea_inicio": 4149,
+   "linea_fin": 4160,
    "caracteres": 812,
    "reformas": [
     {
@@ -5467,10 +5498,10 @@
   {
    "articulo": "305 BIS A",
    "tipo": "cuerpo",
-   "pagina_pdf": 129,
-   "linea_inicio": 4133,
-   "linea_fin": 4144,
-   "caracteres": 528,
+   "pagina_pdf": 130,
+   "linea_inicio": 4161,
+   "linea_fin": 4174,
+   "caracteres": 530,
    "reformas": [
     {
      "tipo": "adicion",
@@ -5484,55 +5515,55 @@
   {
    "articulo": "306",
    "tipo": "cuerpo",
-   "pagina_pdf": 129,
-   "linea_inicio": 4145,
-   "linea_fin": 4154,
+   "pagina_pdf": 131,
+   "linea_inicio": 4175,
+   "linea_fin": 4182,
    "caracteres": 433,
    "reformas": []
   },
   {
    "articulo": "307",
    "tipo": "cuerpo",
-   "pagina_pdf": 130,
-   "linea_inicio": 4155,
-   "linea_fin": 4164,
+   "pagina_pdf": 131,
+   "linea_inicio": 4183,
+   "linea_fin": 4192,
    "caracteres": 432,
    "reformas": []
   },
   {
    "articulo": "308",
    "tipo": "cuerpo",
-   "pagina_pdf": 130,
-   "linea_inicio": 4165,
-   "linea_fin": 4178,
-   "caracteres": 1326,
+   "pagina_pdf": 131,
+   "linea_inicio": 4193,
+   "linea_fin": 4208,
+   "caracteres": 1328,
    "reformas": []
   },
   {
    "articulo": "309",
    "tipo": "cuerpo",
-   "pagina_pdf": 130,
-   "linea_inicio": 4179,
-   "linea_fin": 4196,
-   "caracteres": 761,
+   "pagina_pdf": 132,
+   "linea_inicio": 4209,
+   "linea_fin": 4224,
+   "caracteres": 759,
    "reformas": []
   },
   {
    "articulo": "310",
    "tipo": "cuerpo",
-   "pagina_pdf": 131,
-   "linea_inicio": 4197,
-   "linea_fin": 4204,
+   "pagina_pdf": 132,
+   "linea_inicio": 4225,
+   "linea_fin": 4232,
    "caracteres": 391,
    "reformas": []
   },
   {
    "articulo": "311",
    "tipo": "cuerpo",
-   "pagina_pdf": 131,
-   "linea_inicio": 4205,
-   "linea_fin": 4216,
-   "caracteres": 911,
+   "pagina_pdf": 132,
+   "linea_inicio": 4233,
+   "linea_fin": 4246,
+   "caracteres": 913,
    "reformas": [
     {
      "tipo": "reforma",
@@ -5546,10 +5577,10 @@
   {
    "articulo": "312",
    "tipo": "cuerpo",
-   "pagina_pdf": 131,
-   "linea_inicio": 4217,
-   "linea_fin": 4228,
-   "caracteres": 442,
+   "pagina_pdf": 133,
+   "linea_inicio": 4247,
+   "linea_fin": 4254,
+   "caracteres": 439,
    "reformas": [
     {
      "tipo": "reforma",
@@ -5563,45 +5594,45 @@
   {
    "articulo": "313",
    "tipo": "cuerpo",
-   "pagina_pdf": 132,
-   "linea_inicio": 4229,
-   "linea_fin": 4236,
+   "pagina_pdf": 133,
+   "linea_inicio": 4255,
+   "linea_fin": 4262,
    "caracteres": 355,
    "reformas": []
   },
   {
    "articulo": "314",
    "tipo": "cuerpo",
-   "pagina_pdf": 132,
-   "linea_inicio": 4237,
-   "linea_fin": 4252,
+   "pagina_pdf": 133,
+   "linea_inicio": 4263,
+   "linea_fin": 4278,
    "caracteres": 1633,
    "reformas": []
   },
   {
    "articulo": "315",
    "tipo": "cuerpo",
-   "pagina_pdf": 133,
-   "linea_inicio": 4253,
-   "linea_fin": 4260,
+   "pagina_pdf": 134,
+   "linea_inicio": 4279,
+   "linea_fin": 4286,
    "caracteres": 502,
    "reformas": []
   },
   {
    "articulo": "316",
    "tipo": "cuerpo",
-   "pagina_pdf": 133,
-   "linea_inicio": 4261,
-   "linea_fin": 4264,
+   "pagina_pdf": 134,
+   "linea_inicio": 4287,
+   "linea_fin": 4290,
    "caracteres": 256,
    "reformas": []
   },
   {
    "articulo": "316 BIS",
    "tipo": "cuerpo",
-   "pagina_pdf": 133,
-   "linea_inicio": 4265,
-   "linea_fin": 4268,
+   "pagina_pdf": 134,
+   "linea_inicio": 4291,
+   "linea_fin": 4294,
    "caracteres": 370,
    "reformas": [
     {
@@ -5616,54 +5647,54 @@
   {
    "articulo": "317",
    "tipo": "cuerpo",
-   "pagina_pdf": 133,
-   "linea_inicio": 4269,
-   "linea_fin": 4272,
+   "pagina_pdf": 134,
+   "linea_inicio": 4295,
+   "linea_fin": 4298,
    "caracteres": 299,
    "reformas": []
   },
   {
    "articulo": "318",
    "tipo": "cuerpo",
-   "pagina_pdf": 133,
-   "linea_inicio": 4273,
-   "linea_fin": 4276,
+   "pagina_pdf": 134,
+   "linea_inicio": 4299,
+   "linea_fin": 4304,
    "caracteres": 335,
    "reformas": []
   },
   {
    "articulo": "319",
    "tipo": "cuerpo",
-   "pagina_pdf": 133,
-   "linea_inicio": 4277,
-   "linea_fin": 4280,
+   "pagina_pdf": 135,
+   "linea_inicio": 4305,
+   "linea_fin": 4308,
    "caracteres": 269,
    "reformas": []
   },
   {
    "articulo": "320",
    "tipo": "cuerpo",
-   "pagina_pdf": 133,
-   "linea_inicio": 4281,
-   "linea_fin": 4288,
-   "caracteres": 439,
+   "pagina_pdf": 135,
+   "linea_inicio": 4309,
+   "linea_fin": 4312,
+   "caracteres": 436,
    "reformas": []
   },
   {
    "articulo": "321",
    "tipo": "cuerpo",
-   "pagina_pdf": 134,
-   "linea_inicio": 4289,
-   "linea_fin": 4292,
+   "pagina_pdf": 135,
+   "linea_inicio": 4313,
+   "linea_fin": 4316,
    "caracteres": 233,
    "reformas": []
   },
   {
    "articulo": "321 BIS",
    "tipo": "cuerpo",
-   "pagina_pdf": 134,
-   "linea_inicio": 4293,
-   "linea_fin": 4304,
+   "pagina_pdf": 135,
+   "linea_inicio": 4317,
+   "linea_fin": 4328,
    "caracteres": 682,
    "reformas": [
     {
@@ -5678,19 +5709,19 @@
   {
    "articulo": "322",
    "tipo": "cuerpo",
-   "pagina_pdf": 134,
-   "linea_inicio": 4305,
-   "linea_fin": 4312,
+   "pagina_pdf": 135,
+   "linea_inicio": 4329,
+   "linea_fin": 4336,
    "caracteres": 318,
    "reformas": []
   },
   {
    "articulo": "323",
    "tipo": "cuerpo",
-   "pagina_pdf": 134,
-   "linea_inicio": 4313,
-   "linea_fin": 4326,
-   "caracteres": 1124,
+   "pagina_pdf": 135,
+   "linea_inicio": 4337,
+   "linea_fin": 4348,
+   "caracteres": 1123,
    "reformas": [
     {
      "tipo": "adicion",
@@ -5704,18 +5735,18 @@
   {
    "articulo": "324",
    "tipo": "cuerpo",
-   "pagina_pdf": 135,
-   "linea_inicio": 4327,
-   "linea_fin": 4334,
+   "pagina_pdf": 136,
+   "linea_inicio": 4349,
+   "linea_fin": 4356,
    "caracteres": 258,
    "reformas": []
   },
   {
    "articulo": "325",
    "tipo": "cuerpo",
-   "pagina_pdf": 135,
-   "linea_inicio": 4335,
-   "linea_fin": 4342,
+   "pagina_pdf": 136,
+   "linea_inicio": 4357,
+   "linea_fin": 4364,
    "caracteres": 526,
    "reformas": [
     {
@@ -5730,10 +5761,10 @@
   {
    "articulo": "325 BIS",
    "tipo": "cuerpo",
-   "pagina_pdf": 135,
-   "linea_inicio": 4343,
-   "linea_fin": 4358,
-   "caracteres": 613,
+   "pagina_pdf": 136,
+   "linea_inicio": 4365,
+   "linea_fin": 4380,
+   "caracteres": 615,
    "reformas": [
     {
      "tipo": "adicion",
@@ -5747,10 +5778,10 @@
   {
    "articulo": "326",
    "tipo": "cuerpo",
-   "pagina_pdf": 136,
-   "linea_inicio": 4359,
-   "linea_fin": 4434,
-   "caracteres": 6506,
+   "pagina_pdf": 137,
+   "linea_inicio": 4381,
+   "linea_fin": 4460,
+   "caracteres": 6508,
    "reformas": [
     {
      "tipo": "reforma",
@@ -5792,9 +5823,9 @@
   {
    "articulo": "327",
    "tipo": "cuerpo",
-   "pagina_pdf": 139,
-   "linea_inicio": 4435,
-   "linea_fin": 4446,
+   "pagina_pdf": 140,
+   "linea_inicio": 4461,
+   "linea_fin": 4472,
    "caracteres": 1055,
    "reformas": [
     {
@@ -5816,82 +5847,82 @@
   {
    "articulo": "328",
    "tipo": "cuerpo",
-   "pagina_pdf": 139,
-   "linea_inicio": 4447,
-   "linea_fin": 4450,
+   "pagina_pdf": 140,
+   "linea_inicio": 4473,
+   "linea_fin": 4476,
    "caracteres": 109,
    "reformas": []
   },
   {
    "articulo": "329",
    "tipo": "cuerpo",
-   "pagina_pdf": 139,
-   "linea_inicio": 4451,
-   "linea_fin": 4454,
+   "pagina_pdf": 140,
+   "linea_inicio": 4477,
+   "linea_fin": 4480,
    "caracteres": 109,
    "reformas": []
   },
   {
    "articulo": "330",
    "tipo": "cuerpo",
-   "pagina_pdf": 139,
-   "linea_inicio": 4455,
-   "linea_fin": 4458,
+   "pagina_pdf": 140,
+   "linea_inicio": 4481,
+   "linea_fin": 4486,
    "caracteres": 109,
    "reformas": []
   },
   {
    "articulo": "331",
    "tipo": "cuerpo",
-   "pagina_pdf": 139,
-   "linea_inicio": 4459,
-   "linea_fin": 4462,
+   "pagina_pdf": 141,
+   "linea_inicio": 4487,
+   "linea_fin": 4490,
    "caracteres": 109,
    "reformas": []
   },
   {
    "articulo": "332",
    "tipo": "cuerpo",
-   "pagina_pdf": 139,
-   "linea_inicio": 4463,
-   "linea_fin": 4468,
+   "pagina_pdf": 141,
+   "linea_inicio": 4491,
+   "linea_fin": 4494,
    "caracteres": 109,
    "reformas": []
   },
   {
    "articulo": "333",
    "tipo": "cuerpo",
-   "pagina_pdf": 140,
-   "linea_inicio": 4469,
-   "linea_fin": 4476,
+   "pagina_pdf": 141,
+   "linea_inicio": 4495,
+   "linea_fin": 4502,
    "caracteres": 143,
    "reformas": []
   },
   {
    "articulo": "334",
    "tipo": "cuerpo",
-   "pagina_pdf": 140,
-   "linea_inicio": 4477,
-   "linea_fin": 4488,
+   "pagina_pdf": 141,
+   "linea_inicio": 4503,
+   "linea_fin": 4514,
    "caracteres": 834,
    "reformas": []
   },
   {
    "articulo": "335",
    "tipo": "cuerpo",
-   "pagina_pdf": 140,
-   "linea_inicio": 4489,
-   "linea_fin": 4500,
+   "pagina_pdf": 141,
+   "linea_inicio": 4515,
+   "linea_fin": 4528,
    "caracteres": 604,
    "reformas": []
   },
   {
    "articulo": "336",
    "tipo": "cuerpo",
-   "pagina_pdf": 140,
-   "linea_inicio": 4501,
-   "linea_fin": 4508,
-   "caracteres": 334,
+   "pagina_pdf": 142,
+   "linea_inicio": 4529,
+   "linea_fin": 4534,
+   "caracteres": 332,
    "reformas": [
     {
      "tipo": "reforma",
@@ -5905,18 +5936,18 @@
   {
    "articulo": "337",
    "tipo": "cuerpo",
-   "pagina_pdf": 141,
-   "linea_inicio": 4509,
-   "linea_fin": 4512,
+   "pagina_pdf": 142,
+   "linea_inicio": 4535,
+   "linea_fin": 4538,
    "caracteres": 365,
    "reformas": []
   },
   {
    "articulo": "338",
    "tipo": "cuerpo",
-   "pagina_pdf": 141,
-   "linea_inicio": 4513,
-   "linea_fin": 4518,
+   "pagina_pdf": 142,
+   "linea_inicio": 4539,
+   "linea_fin": 4544,
    "caracteres": 266,
    "reformas": [
     {
@@ -5931,135 +5962,135 @@
   {
    "articulo": "339",
    "tipo": "cuerpo",
-   "pagina_pdf": 141,
-   "linea_inicio": 4519,
-   "linea_fin": 4522,
+   "pagina_pdf": 142,
+   "linea_inicio": 4545,
+   "linea_fin": 4548,
    "caracteres": 319,
    "reformas": []
   },
   {
    "articulo": "340",
    "tipo": "cuerpo",
-   "pagina_pdf": 141,
-   "linea_inicio": 4523,
-   "linea_fin": 4530,
+   "pagina_pdf": 142,
+   "linea_inicio": 4549,
+   "linea_fin": 4556,
    "caracteres": 154,
    "reformas": []
   },
   {
    "articulo": "341",
    "tipo": "cuerpo",
-   "pagina_pdf": 141,
-   "linea_inicio": 4531,
-   "linea_fin": 4534,
+   "pagina_pdf": 142,
+   "linea_inicio": 4557,
+   "linea_fin": 4560,
    "caracteres": 198,
    "reformas": []
   },
   {
    "articulo": "342",
    "tipo": "cuerpo",
-   "pagina_pdf": 141,
-   "linea_inicio": 4535,
-   "linea_fin": 4538,
+   "pagina_pdf": 142,
+   "linea_inicio": 4561,
+   "linea_fin": 4564,
    "caracteres": 179,
    "reformas": []
   },
   {
    "articulo": "343",
    "tipo": "cuerpo",
-   "pagina_pdf": 141,
-   "linea_inicio": 4539,
-   "linea_fin": 4542,
+   "pagina_pdf": 142,
+   "linea_inicio": 4565,
+   "linea_fin": 4570,
    "caracteres": 205,
    "reformas": []
   },
   {
    "articulo": "344",
    "tipo": "cuerpo",
-   "pagina_pdf": 141,
-   "linea_inicio": 4543,
-   "linea_fin": 4548,
+   "pagina_pdf": 143,
+   "linea_inicio": 4571,
+   "linea_fin": 4574,
    "caracteres": 265,
    "reformas": []
   },
   {
    "articulo": "345",
    "tipo": "cuerpo",
-   "pagina_pdf": 142,
-   "linea_inicio": 4549,
-   "linea_fin": 4552,
+   "pagina_pdf": 143,
+   "linea_inicio": 4575,
+   "linea_fin": 4578,
    "caracteres": 279,
    "reformas": []
   },
   {
    "articulo": "346",
    "tipo": "cuerpo",
-   "pagina_pdf": 142,
-   "linea_inicio": 4553,
-   "linea_fin": 4556,
+   "pagina_pdf": 143,
+   "linea_inicio": 4579,
+   "linea_fin": 4582,
    "caracteres": 229,
    "reformas": []
   },
   {
    "articulo": "347",
    "tipo": "cuerpo",
-   "pagina_pdf": 142,
-   "linea_inicio": 4557,
-   "linea_fin": 4564,
+   "pagina_pdf": 143,
+   "linea_inicio": 4583,
+   "linea_fin": 4590,
    "caracteres": 228,
    "reformas": []
   },
   {
    "articulo": "348",
    "tipo": "cuerpo",
-   "pagina_pdf": 142,
-   "linea_inicio": 4565,
-   "linea_fin": 4570,
+   "pagina_pdf": 143,
+   "linea_inicio": 4591,
+   "linea_fin": 4596,
    "caracteres": 701,
    "reformas": []
   },
   {
    "articulo": "349",
    "tipo": "cuerpo",
-   "pagina_pdf": 142,
-   "linea_inicio": 4571,
-   "linea_fin": 4576,
+   "pagina_pdf": 143,
+   "linea_inicio": 4597,
+   "linea_fin": 4604,
    "caracteres": 500,
    "reformas": []
   },
   {
    "articulo": "350",
    "tipo": "cuerpo",
-   "pagina_pdf": 142,
-   "linea_inicio": 4577,
-   "linea_fin": 4594,
-   "caracteres": 679,
+   "pagina_pdf": 144,
+   "linea_inicio": 4605,
+   "linea_fin": 4620,
+   "caracteres": 677,
    "reformas": []
   },
   {
    "articulo": "351",
    "tipo": "cuerpo",
-   "pagina_pdf": 143,
-   "linea_inicio": 4595,
-   "linea_fin": 4604,
+   "pagina_pdf": 144,
+   "linea_inicio": 4621,
+   "linea_fin": 4630,
    "caracteres": 419,
    "reformas": []
   },
   {
    "articulo": "352",
    "tipo": "cuerpo",
-   "pagina_pdf": 143,
-   "linea_inicio": 4605,
-   "linea_fin": 4624,
+   "pagina_pdf": 144,
+   "linea_inicio": 4631,
+   "linea_fin": 4650,
    "caracteres": 1236,
    "reformas": []
   },
   {
    "articulo": "353",
    "tipo": "cuerpo",
-   "pagina_pdf": 144,
-   "linea_inicio": 4625,
-   "linea_fin": 4636,
+   "pagina_pdf": 145,
+   "linea_inicio": 4651,
+   "linea_fin": 4662,
    "caracteres": 522,
    "reformas": [
     {
@@ -6081,9 +6112,9 @@
   {
    "articulo": "354",
    "tipo": "cuerpo",
-   "pagina_pdf": 144,
-   "linea_inicio": 4637,
-   "linea_fin": 4658,
+   "pagina_pdf": 145,
+   "linea_inicio": 4663,
+   "linea_fin": 4684,
    "caracteres": 2215,
    "reformas": [
     {
@@ -6098,16 +6129,16 @@
      "decreto": null,
      "po_numero": "039",
      "fecha": "2007-03-27",
-     "nota": "Adic. por <!-- PAGINA_PDF: 145 --> Decreto número 504, de 27 de marzo del 2007, y publicado en el P.O. No. 039 de 30 de marzo de 2007"
+     "nota": "Adic. por Decreto número 504, de 27 de marzo del 2007, y publicado en el P.O. No. 039 de 30 de marzo de 2007"
     }
    ]
   },
   {
    "articulo": "355",
    "tipo": "cuerpo",
-   "pagina_pdf": 145,
-   "linea_inicio": 4659,
-   "linea_fin": 4690,
+   "pagina_pdf": 146,
+   "linea_inicio": 4685,
+   "linea_fin": 4718,
    "caracteres": 3148,
    "reformas": [
     {
@@ -6122,10 +6153,10 @@
   {
    "articulo": "356",
    "tipo": "cuerpo",
-   "pagina_pdf": 146,
-   "linea_inicio": 4691,
-   "linea_fin": 4720,
-   "caracteres": 3173,
+   "pagina_pdf": 148,
+   "linea_inicio": 4719,
+   "linea_fin": 4748,
+   "caracteres": 3172,
    "reformas": [
     {
      "tipo": "reforma",
@@ -6146,9 +6177,9 @@
   {
    "articulo": "357",
    "tipo": "cuerpo",
-   "pagina_pdf": 148,
-   "linea_inicio": 4721,
-   "linea_fin": 4734,
+   "pagina_pdf": 149,
+   "linea_inicio": 4749,
+   "linea_fin": 4762,
    "caracteres": 1248,
    "reformas": [
     {
@@ -6163,9 +6194,9 @@
   {
    "articulo": "358",
    "tipo": "cuerpo",
-   "pagina_pdf": 148,
-   "linea_inicio": 4735,
-   "linea_fin": 4780,
+   "pagina_pdf": 149,
+   "linea_inicio": 4763,
+   "linea_fin": 4808,
    "caracteres": 3392,
    "reformas": [
     {
@@ -6187,18 +6218,18 @@
   {
    "articulo": "359",
    "tipo": "cuerpo",
-   "pagina_pdf": 150,
-   "linea_inicio": 4781,
-   "linea_fin": 4784,
+   "pagina_pdf": 151,
+   "linea_inicio": 4809,
+   "linea_fin": 4812,
    "caracteres": 279,
    "reformas": []
   },
   {
    "articulo": "360",
    "tipo": "cuerpo",
-   "pagina_pdf": 150,
-   "linea_inicio": 4785,
-   "linea_fin": 4788,
+   "pagina_pdf": 151,
+   "linea_inicio": 4813,
+   "linea_fin": 4816,
    "caracteres": 448,
    "reformas": [
     {
@@ -6213,18 +6244,18 @@
   {
    "articulo": "361",
    "tipo": "cuerpo",
-   "pagina_pdf": 150,
-   "linea_inicio": 4789,
-   "linea_fin": 4792,
+   "pagina_pdf": 151,
+   "linea_inicio": 4817,
+   "linea_fin": 4820,
    "caracteres": 134,
    "reformas": []
   },
   {
    "articulo": "362",
    "tipo": "cuerpo",
-   "pagina_pdf": 150,
-   "linea_inicio": 4793,
-   "linea_fin": 4796,
+   "pagina_pdf": 151,
+   "linea_inicio": 4821,
+   "linea_fin": 4826,
    "caracteres": 437,
    "reformas": [
     {
@@ -6239,10 +6270,10 @@
   {
    "articulo": "363",
    "tipo": "cuerpo",
-   "pagina_pdf": 150,
-   "linea_inicio": 4797,
-   "linea_fin": 4814,
-   "caracteres": 1230,
+   "pagina_pdf": 152,
+   "linea_inicio": 4827,
+   "linea_fin": 4842,
+   "caracteres": 1228,
    "reformas": [
     {
      "tipo": "adicion",
@@ -6263,9 +6294,9 @@
   {
    "articulo": "364",
    "tipo": "cuerpo",
-   "pagina_pdf": 151,
-   "linea_inicio": 4815,
-   "linea_fin": 4834,
+   "pagina_pdf": 152,
+   "linea_inicio": 4843,
+   "linea_fin": 4862,
    "caracteres": 2330,
    "reformas": [
     {
@@ -6280,9 +6311,9 @@
   {
    "articulo": "364 BIS",
    "tipo": "cuerpo",
-   "pagina_pdf": 152,
-   "linea_inicio": 4835,
-   "linea_fin": 4844,
+   "pagina_pdf": 153,
+   "linea_inicio": 4863,
+   "linea_fin": 4874,
    "caracteres": 965,
    "reformas": [
     {
@@ -6297,10 +6328,10 @@
   {
    "articulo": "364 BIS A",
    "tipo": "cuerpo",
-   "pagina_pdf": 152,
-   "linea_inicio": 4845,
-   "linea_fin": 4864,
-   "caracteres": 1048,
+   "pagina_pdf": 154,
+   "linea_inicio": 4875,
+   "linea_fin": 4892,
+   "caracteres": 1046,
    "reformas": [
     {
      "tipo": "adicion",
@@ -6321,9 +6352,9 @@
   {
    "articulo": "365",
    "tipo": "cuerpo",
-   "pagina_pdf": 153,
-   "linea_inicio": 4865,
-   "linea_fin": 4872,
+   "pagina_pdf": 154,
+   "linea_inicio": 4893,
+   "linea_fin": 4900,
    "caracteres": 899,
    "reformas": [
     {
@@ -6338,9 +6369,9 @@
   {
    "articulo": "366",
    "tipo": "cuerpo",
-   "pagina_pdf": 153,
-   "linea_inicio": 4873,
-   "linea_fin": 4882,
+   "pagina_pdf": 154,
+   "linea_inicio": 4901,
+   "linea_fin": 4910,
    "caracteres": 847,
    "reformas": [
     {
@@ -6355,9 +6386,9 @@
   {
    "articulo": "367",
    "tipo": "cuerpo",
-   "pagina_pdf": 154,
-   "linea_inicio": 4883,
-   "linea_fin": 4888,
+   "pagina_pdf": 155,
+   "linea_inicio": 4911,
+   "linea_fin": 4916,
    "caracteres": 593,
    "reformas": [
     {
@@ -6372,9 +6403,9 @@
   {
    "articulo": "368",
    "tipo": "cuerpo",
-   "pagina_pdf": 154,
-   "linea_inicio": 4889,
-   "linea_fin": 4896,
+   "pagina_pdf": 155,
+   "linea_inicio": 4917,
+   "linea_fin": 4924,
    "caracteres": 840,
    "reformas": [
     {
@@ -6389,10 +6420,10 @@
   {
    "articulo": "369",
    "tipo": "cuerpo",
-   "pagina_pdf": 154,
-   "linea_inicio": 4897,
-   "linea_fin": 4912,
-   "caracteres": 1666,
+   "pagina_pdf": 155,
+   "linea_inicio": 4925,
+   "linea_fin": 4938,
+   "caracteres": 1665,
    "reformas": [
     {
      "tipo": "adicion",
@@ -6406,9 +6437,9 @@
   {
    "articulo": "371",
    "tipo": "cuerpo",
-   "pagina_pdf": 155,
-   "linea_inicio": 4913,
-   "linea_fin": 4934,
+   "pagina_pdf": 156,
+   "linea_inicio": 4939,
+   "linea_fin": 4960,
    "caracteres": 1592,
    "reformas": [
     {
@@ -6423,9 +6454,9 @@
   {
    "articulo": "372",
    "tipo": "cuerpo",
-   "pagina_pdf": 156,
-   "linea_inicio": 4935,
-   "linea_fin": 4942,
+   "pagina_pdf": 157,
+   "linea_inicio": 4961,
+   "linea_fin": 4968,
    "caracteres": 735,
    "reformas": [
     {
@@ -6440,9 +6471,9 @@
   {
    "articulo": "373",
    "tipo": "cuerpo",
-   "pagina_pdf": 156,
-   "linea_inicio": 4943,
-   "linea_fin": 4950,
+   "pagina_pdf": 157,
+   "linea_inicio": 4969,
+   "linea_fin": 4976,
    "caracteres": 1368,
    "reformas": [
     {
@@ -6457,10 +6488,10 @@
   {
    "articulo": "374",
    "tipo": "cuerpo",
-   "pagina_pdf": 156,
-   "linea_inicio": 4951,
-   "linea_fin": 4956,
-   "caracteres": 380,
+   "pagina_pdf": 157,
+   "linea_inicio": 4977,
+   "linea_fin": 4984,
+   "caracteres": 382,
    "reformas": [
     {
      "tipo": "adicion",
@@ -6474,10 +6505,10 @@
   {
    "articulo": "375",
    "tipo": "cuerpo",
-   "pagina_pdf": 156,
-   "linea_inicio": 4957,
-   "linea_fin": 4976,
-   "caracteres": 701,
+   "pagina_pdf": 158,
+   "linea_inicio": 4985,
+   "linea_fin": 5002,
+   "caracteres": 699,
    "reformas": [
     {
      "tipo": "adicion",
@@ -6498,10 +6529,10 @@
   {
    "articulo": "376",
    "tipo": "cuerpo",
-   "pagina_pdf": 157,
-   "linea_inicio": 4977,
-   "linea_fin": 4988,
-   "caracteres": 1384,
+   "pagina_pdf": 158,
+   "linea_inicio": 5003,
+   "linea_fin": 5016,
+   "caracteres": 1386,
    "reformas": [
     {
      "tipo": "adicion",
@@ -6515,10 +6546,10 @@
   {
    "articulo": "377",
    "tipo": "cuerpo",
-   "pagina_pdf": 157,
-   "linea_inicio": 4989,
-   "linea_fin": 5006,
-   "caracteres": 1672,
+   "pagina_pdf": 159,
+   "linea_inicio": 5017,
+   "linea_fin": 5030,
+   "caracteres": 1669,
    "reformas": [
     {
      "tipo": "adicion",
@@ -6532,90 +6563,90 @@
   {
    "articulo": "PRIMERO",
    "tipo": "transitorio",
-   "pagina_pdf": 158,
-   "linea_inicio": 5007,
-   "linea_fin": 5008,
+   "pagina_pdf": 159,
+   "linea_inicio": 5031,
+   "linea_fin": 5032,
    "caracteres": 146,
    "reformas": []
   },
   {
    "articulo": "SEGUNDO",
    "tipo": "transitorio",
-   "pagina_pdf": 158,
-   "linea_inicio": 5009,
-   "linea_fin": 5010,
+   "pagina_pdf": 159,
+   "linea_inicio": 5033,
+   "linea_fin": 5034,
    "caracteres": 241,
    "reformas": []
   },
   {
    "articulo": "TERCERO",
    "tipo": "transitorio",
-   "pagina_pdf": 158,
-   "linea_inicio": 5011,
-   "linea_fin": 5012,
+   "pagina_pdf": 159,
+   "linea_inicio": 5035,
+   "linea_fin": 5036,
    "caracteres": 87,
    "reformas": []
   },
   {
    "articulo": "CUARTO",
    "tipo": "transitorio",
-   "pagina_pdf": 158,
-   "linea_inicio": 5013,
-   "linea_fin": 5014,
+   "pagina_pdf": 159,
+   "linea_inicio": 5037,
+   "linea_fin": 5040,
    "caracteres": 190,
    "reformas": []
   },
   {
    "articulo": "QUINTO",
    "tipo": "transitorio",
-   "pagina_pdf": 158,
-   "linea_inicio": 5015,
-   "linea_fin": 5020,
-   "caracteres": 533,
+   "pagina_pdf": 160,
+   "linea_inicio": 5041,
+   "linea_fin": 5042,
+   "caracteres": 530,
    "reformas": []
   },
   {
    "articulo": "SEXTO",
    "tipo": "transitorio",
-   "pagina_pdf": 159,
-   "linea_inicio": 5021,
-   "linea_fin": 5022,
+   "pagina_pdf": 160,
+   "linea_inicio": 5043,
+   "linea_fin": 5044,
    "caracteres": 210,
    "reformas": []
   },
   {
    "articulo": "SÉPTIMO",
    "tipo": "transitorio",
-   "pagina_pdf": 159,
-   "linea_inicio": 5023,
-   "linea_fin": 5024,
+   "pagina_pdf": 160,
+   "linea_inicio": 5045,
+   "linea_fin": 5046,
    "caracteres": 503,
    "reformas": []
   },
   {
    "articulo": "OCTAVO",
    "tipo": "transitorio",
-   "pagina_pdf": 159,
-   "linea_inicio": 5025,
-   "linea_fin": 5026,
+   "pagina_pdf": 160,
+   "linea_inicio": 5047,
+   "linea_fin": 5048,
    "caracteres": 597,
    "reformas": []
   },
   {
    "articulo": "NOVENO",
    "tipo": "transitorio",
-   "pagina_pdf": 159,
-   "linea_inicio": 5027,
-   "linea_fin": 5058,
+   "pagina_pdf": 160,
+   "linea_inicio": 5049,
+   "linea_fin": 5080,
    "caracteres": 1248,
    "reformas": []
   },
   {
    "articulo": "ÚNICO",
    "tipo": "transitorio",
-   "pagina_pdf": 162,
-   "linea_inicio": 5059,
-   "linea_fin": 5062,
+   "pagina_pdf": 163,
+   "linea_inicio": 5081,
+   "linea_fin": 5084,
    "caracteres": 451,
    "reformas": [
     {
@@ -6630,100 +6661,37 @@
   {
    "articulo": "UNICO",
    "tipo": "transitorio",
-   "pagina_pdf": 162,
-   "linea_inicio": 5063,
-   "linea_fin": 5066,
+   "pagina_pdf": 163,
+   "linea_inicio": 5085,
+   "linea_fin": 5088,
    "caracteres": 703,
    "reformas": []
   },
   {
    "articulo": "ÚNICO",
    "tipo": "transitorio",
-   "pagina_pdf": 162,
-   "linea_inicio": 5067,
-   "linea_fin": 5070,
+   "pagina_pdf": 163,
+   "linea_inicio": 5089,
+   "linea_fin": 5092,
    "caracteres": 380,
    "reformas": []
   },
   {
    "articulo": "ÚNICO",
    "tipo": "transitorio",
-   "pagina_pdf": 162,
-   "linea_inicio": 5071,
-   "linea_fin": 5074,
+   "pagina_pdf": 163,
+   "linea_inicio": 5093,
+   "linea_fin": 5096,
    "caracteres": 210,
    "reformas": []
   },
   {
    "articulo": "ÚNICO",
    "tipo": "transitorio",
-   "pagina_pdf": 162,
-   "linea_inicio": 5075,
-   "linea_fin": 5080,
-   "caracteres": 208,
-   "reformas": []
-  },
-  {
-   "articulo": "ÚNICO",
-   "tipo": "transitorio",
-   "pagina_pdf": 163,
-   "linea_inicio": 5081,
-   "linea_fin": 5084,
-   "caracteres": 212,
-   "reformas": []
-  },
-  {
-   "articulo": "ÚNICO",
-   "tipo": "transitorio",
-   "pagina_pdf": 163,
-   "linea_inicio": 5085,
-   "linea_fin": 5088,
-   "caracteres": 220,
-   "reformas": []
-  },
-  {
-   "articulo": "PRIMERO",
-   "tipo": "transitorio",
-   "pagina_pdf": 163,
-   "linea_inicio": 5089,
-   "linea_fin": 5090,
-   "caracteres": 138,
-   "reformas": []
-  },
-  {
-   "articulo": "SEGUNDO",
-   "tipo": "transitorio",
-   "pagina_pdf": 163,
-   "linea_inicio": 5091,
-   "linea_fin": 5092,
-   "caracteres": 657,
-   "reformas": []
-  },
-  {
-   "articulo": "TERCERO",
-   "tipo": "transitorio",
-   "pagina_pdf": 163,
-   "linea_inicio": 5093,
-   "linea_fin": 5094,
-   "caracteres": 339,
-   "reformas": []
-  },
-  {
-   "articulo": "CUARTO",
-   "tipo": "transitorio",
-   "pagina_pdf": 163,
-   "linea_inicio": 5095,
-   "linea_fin": 5096,
-   "caracteres": 402,
-   "reformas": []
-  },
-  {
-   "articulo": "QUINTO",
-   "tipo": "transitorio",
    "pagina_pdf": 163,
    "linea_inicio": 5097,
    "linea_fin": 5102,
-   "caracteres": 583,
+   "caracteres": 208,
    "reformas": []
   },
   {
@@ -6732,7 +6700,7 @@
    "pagina_pdf": 164,
    "linea_inicio": 5103,
    "linea_fin": 5106,
-   "caracteres": 233,
+   "caracteres": 212,
    "reformas": []
   },
   {
@@ -6741,79 +6709,97 @@
    "pagina_pdf": 164,
    "linea_inicio": 5107,
    "linea_fin": 5110,
-   "caracteres": 214,
-   "reformas": []
-  },
-  {
-   "articulo": "ÚNICO",
-   "tipo": "transitorio",
-   "pagina_pdf": 164,
-   "linea_inicio": 5111,
-   "linea_fin": 5114,
-   "caracteres": 216,
-   "reformas": []
-  },
-  {
-   "articulo": "ÚNICO",
-   "tipo": "transitorio",
-   "pagina_pdf": 164,
-   "linea_inicio": 5115,
-   "linea_fin": 5118,
-   "caracteres": 216,
-   "reformas": []
-  },
-  {
-   "articulo": "ÚNICO",
-   "tipo": "transitorio",
-   "pagina_pdf": 164,
-   "linea_inicio": 5119,
-   "linea_fin": 5122,
-   "caracteres": 239,
-   "reformas": []
-  },
-  {
-   "articulo": "ÚNICO",
-   "tipo": "transitorio",
-   "pagina_pdf": 164,
-   "linea_inicio": 5123,
-   "linea_fin": 5126,
-   "caracteres": 239,
-   "reformas": []
-  },
-  {
-   "articulo": "ÚNICO",
-   "tipo": "transitorio",
-   "pagina_pdf": 164,
-   "linea_inicio": 5127,
-   "linea_fin": 5130,
-   "caracteres": 239,
-   "reformas": []
-  },
-  {
-   "articulo": "ÚNICO",
-   "tipo": "transitorio",
-   "pagina_pdf": 164,
-   "linea_inicio": 5131,
-   "linea_fin": 5136,
-   "caracteres": 255,
+   "caracteres": 220,
    "reformas": []
   },
   {
    "articulo": "PRIMERO",
    "tipo": "transitorio",
-   "pagina_pdf": 165,
-   "linea_inicio": 5137,
-   "linea_fin": 5138,
+   "pagina_pdf": 164,
+   "linea_inicio": 5111,
+   "linea_fin": 5112,
    "caracteres": 138,
    "reformas": []
   },
   {
    "articulo": "SEGUNDO",
    "tipo": "transitorio",
+   "pagina_pdf": 164,
+   "linea_inicio": 5113,
+   "linea_fin": 5114,
+   "caracteres": 657,
+   "reformas": []
+  },
+  {
+   "articulo": "TERCERO",
+   "tipo": "transitorio",
+   "pagina_pdf": 164,
+   "linea_inicio": 5115,
+   "linea_fin": 5116,
+   "caracteres": 339,
+   "reformas": []
+  },
+  {
+   "articulo": "CUARTO",
+   "tipo": "transitorio",
+   "pagina_pdf": 164,
+   "linea_inicio": 5117,
+   "linea_fin": 5118,
+   "caracteres": 402,
+   "reformas": []
+  },
+  {
+   "articulo": "QUINTO",
+   "tipo": "transitorio",
+   "pagina_pdf": 164,
+   "linea_inicio": 5119,
+   "linea_fin": 5124,
+   "caracteres": 583,
+   "reformas": []
+  },
+  {
+   "articulo": "ÚNICO",
+   "tipo": "transitorio",
    "pagina_pdf": 165,
-   "linea_inicio": 5139,
+   "linea_inicio": 5125,
+   "linea_fin": 5128,
+   "caracteres": 233,
+   "reformas": []
+  },
+  {
+   "articulo": "ÚNICO",
+   "tipo": "transitorio",
+   "pagina_pdf": 165,
+   "linea_inicio": 5129,
+   "linea_fin": 5132,
+   "caracteres": 214,
+   "reformas": []
+  },
+  {
+   "articulo": "ÚNICO",
+   "tipo": "transitorio",
+   "pagina_pdf": 165,
+   "linea_inicio": 5133,
+   "linea_fin": 5136,
+   "caracteres": 216,
+   "reformas": []
+  },
+  {
+   "articulo": "ÚNICO",
+   "tipo": "transitorio",
+   "pagina_pdf": 165,
+   "linea_inicio": 5137,
+   "linea_fin": 5140,
+   "caracteres": 216,
+   "reformas": []
+  },
+  {
+   "articulo": "ÚNICO",
+   "tipo": "transitorio",
+   "pagina_pdf": 165,
+   "linea_inicio": 5141,
    "linea_fin": 5144,
-   "caracteres": 888,
+   "caracteres": 239,
    "reformas": []
   },
   {
@@ -6822,7 +6808,7 @@
    "pagina_pdf": 165,
    "linea_inicio": 5145,
    "linea_fin": 5148,
-   "caracteres": 235,
+   "caracteres": 239,
    "reformas": []
   },
   {
@@ -6831,15 +6817,6 @@
    "pagina_pdf": 165,
    "linea_inicio": 5149,
    "linea_fin": 5152,
-   "caracteres": 237,
-   "reformas": []
-  },
-  {
-   "articulo": "ÚNICO",
-   "tipo": "transitorio",
-   "pagina_pdf": 165,
-   "linea_inicio": 5153,
-   "linea_fin": 5156,
    "caracteres": 239,
    "reformas": []
   },
@@ -6847,18 +6824,27 @@
    "articulo": "ÚNICO",
    "tipo": "transitorio",
    "pagina_pdf": 165,
-   "linea_inicio": 5157,
-   "linea_fin": 5162,
-   "caracteres": 241,
+   "linea_inicio": 5153,
+   "linea_fin": 5158,
+   "caracteres": 255,
    "reformas": []
   },
   {
-   "articulo": "ÚNICO",
+   "articulo": "PRIMERO",
    "tipo": "transitorio",
    "pagina_pdf": 166,
-   "linea_inicio": 5163,
+   "linea_inicio": 5159,
+   "linea_fin": 5160,
+   "caracteres": 138,
+   "reformas": []
+  },
+  {
+   "articulo": "SEGUNDO",
+   "tipo": "transitorio",
+   "pagina_pdf": 166,
+   "linea_inicio": 5161,
    "linea_fin": 5166,
-   "caracteres": 235,
+   "caracteres": 888,
    "reformas": []
   },
   {
@@ -6876,7 +6862,7 @@
    "pagina_pdf": 166,
    "linea_inicio": 5171,
    "linea_fin": 5174,
-   "caracteres": 233,
+   "caracteres": 237,
    "reformas": []
   },
   {
@@ -6885,7 +6871,7 @@
    "pagina_pdf": 166,
    "linea_inicio": 5175,
    "linea_fin": 5178,
-   "caracteres": 240,
+   "caracteres": 239,
    "reformas": []
   },
   {
@@ -6893,44 +6879,35 @@
    "tipo": "transitorio",
    "pagina_pdf": 166,
    "linea_inicio": 5179,
-   "linea_fin": 5182,
-   "caracteres": 233,
+   "linea_fin": 5184,
+   "caracteres": 241,
    "reformas": []
   },
   {
    "articulo": "ÚNICO",
    "tipo": "transitorio",
-   "pagina_pdf": 166,
-   "linea_inicio": 5183,
-   "linea_fin": 5186,
-   "caracteres": 236,
+   "pagina_pdf": 167,
+   "linea_inicio": 5185,
+   "linea_fin": 5188,
+   "caracteres": 235,
    "reformas": []
   },
   {
-   "articulo": "PRIMERO",
-   "tipo": "transitorio",
-   "pagina_pdf": 166,
-   "linea_inicio": 5187,
-   "linea_fin": 5190,
-   "caracteres": 127,
-   "reformas": []
-  },
-  {
-   "articulo": "SEGUNDO",
+   "articulo": "ÚNICO",
    "tipo": "transitorio",
    "pagina_pdf": 167,
-   "linea_inicio": 5191,
+   "linea_inicio": 5189,
    "linea_fin": 5192,
-   "caracteres": 299,
+   "caracteres": 235,
    "reformas": []
   },
   {
-   "articulo": "TERCERO",
+   "articulo": "ÚNICO",
    "tipo": "transitorio",
    "pagina_pdf": 167,
    "linea_inicio": 5193,
    "linea_fin": 5196,
-   "caracteres": 229,
+   "caracteres": 233,
    "reformas": []
   },
   {
@@ -6939,7 +6916,7 @@
    "pagina_pdf": 167,
    "linea_inicio": 5197,
    "linea_fin": 5200,
-   "caracteres": 212,
+   "caracteres": 240,
    "reformas": []
   },
   {
@@ -6948,7 +6925,7 @@
    "pagina_pdf": 167,
    "linea_inicio": 5201,
    "linea_fin": 5204,
-   "caracteres": 211,
+   "caracteres": 233,
    "reformas": []
   },
   {
@@ -6957,7 +6934,7 @@
    "pagina_pdf": 167,
    "linea_inicio": 5205,
    "linea_fin": 5208,
-   "caracteres": 199,
+   "caracteres": 236,
    "reformas": []
   },
   {
@@ -6966,52 +6943,52 @@
    "pagina_pdf": 167,
    "linea_inicio": 5209,
    "linea_fin": 5212,
-   "caracteres": 204,
-   "reformas": []
-  },
-  {
-   "articulo": "PRIMERO",
-   "tipo": "transitorio",
-   "pagina_pdf": 167,
-   "linea_inicio": 5213,
-   "linea_fin": 5214,
-   "caracteres": 128,
-   "reformas": []
-  },
-  {
-   "articulo": "SEGUNDO",
-   "tipo": "transitorio",
-   "pagina_pdf": 167,
-   "linea_inicio": 5215,
-   "linea_fin": 5218,
-   "caracteres": 389,
-   "reformas": []
-  },
-  {
-   "articulo": "PRIMERO",
-   "tipo": "transitorio",
-   "pagina_pdf": 167,
-   "linea_inicio": 5219,
-   "linea_fin": 5224,
-   "caracteres": 673,
+   "caracteres": 127,
    "reformas": []
   },
   {
    "articulo": "SEGUNDO",
    "tipo": "transitorio",
    "pagina_pdf": 168,
-   "linea_inicio": 5225,
-   "linea_fin": 5226,
-   "caracteres": 79,
+   "linea_inicio": 5213,
+   "linea_fin": 5214,
+   "caracteres": 299,
    "reformas": []
   },
   {
    "articulo": "TERCERO",
    "tipo": "transitorio",
    "pagina_pdf": 168,
+   "linea_inicio": 5215,
+   "linea_fin": 5218,
+   "caracteres": 229,
+   "reformas": []
+  },
+  {
+   "articulo": "ÚNICO",
+   "tipo": "transitorio",
+   "pagina_pdf": 168,
+   "linea_inicio": 5219,
+   "linea_fin": 5222,
+   "caracteres": 212,
+   "reformas": []
+  },
+  {
+   "articulo": "ÚNICO",
+   "tipo": "transitorio",
+   "pagina_pdf": 168,
+   "linea_inicio": 5223,
+   "linea_fin": 5226,
+   "caracteres": 211,
+   "reformas": []
+  },
+  {
+   "articulo": "ÚNICO",
+   "tipo": "transitorio",
+   "pagina_pdf": 168,
    "linea_inicio": 5227,
    "linea_fin": 5230,
-   "caracteres": 169,
+   "caracteres": 199,
    "reformas": []
   },
   {
@@ -7019,7 +6996,16 @@
    "tipo": "transitorio",
    "pagina_pdf": 168,
    "linea_inicio": 5231,
-   "linea_fin": 5232,
+   "linea_fin": 5234,
+   "caracteres": 204,
+   "reformas": []
+  },
+  {
+   "articulo": "PRIMERO",
+   "tipo": "transitorio",
+   "pagina_pdf": 168,
+   "linea_inicio": 5235,
+   "linea_fin": 5236,
    "caracteres": 128,
    "reformas": []
   },
@@ -7027,117 +7013,90 @@
    "articulo": "SEGUNDO",
    "tipo": "transitorio",
    "pagina_pdf": 168,
-   "linea_inicio": 5233,
-   "linea_fin": 5236,
-   "caracteres": 349,
-   "reformas": []
-  },
-  {
-   "articulo": "ÚNICO",
-   "tipo": "transitorio",
-   "pagina_pdf": 168,
    "linea_inicio": 5237,
    "linea_fin": 5240,
-   "caracteres": 209,
-   "reformas": []
-  },
-  {
-   "articulo": "ÚNICO",
-   "tipo": "transitorio",
-   "pagina_pdf": 168,
-   "linea_inicio": 5241,
-   "linea_fin": 5244,
-   "caracteres": 209,
-   "reformas": []
-  },
-  {
-   "articulo": "ÚNICO",
-   "tipo": "transitorio",
-   "pagina_pdf": 168,
-   "linea_inicio": 5245,
-   "linea_fin": 5248,
-   "caracteres": 205,
-   "reformas": []
-  },
-  {
-   "articulo": "ÚNICO",
-   "tipo": "transitorio",
-   "pagina_pdf": 168,
-   "linea_inicio": 5249,
-   "linea_fin": 5254,
-   "caracteres": 219,
+   "caracteres": 389,
    "reformas": []
   },
   {
    "articulo": "PRIMERO",
    "tipo": "transitorio",
-   "pagina_pdf": 169,
-   "linea_inicio": 5255,
-   "linea_fin": 5256,
-   "caracteres": 131,
+   "pagina_pdf": 168,
+   "linea_inicio": 5241,
+   "linea_fin": 5246,
+   "caracteres": 673,
    "reformas": []
   },
   {
    "articulo": "SEGUNDO",
    "tipo": "transitorio",
    "pagina_pdf": 169,
-   "linea_inicio": 5257,
-   "linea_fin": 5258,
-   "caracteres": 637,
+   "linea_inicio": 5247,
+   "linea_fin": 5248,
+   "caracteres": 79,
    "reformas": []
   },
   {
    "articulo": "TERCERO",
    "tipo": "transitorio",
    "pagina_pdf": 169,
-   "linea_inicio": 5259,
-   "linea_fin": 5260,
-   "caracteres": 391,
-   "reformas": []
-  },
-  {
-   "articulo": "CUARTO",
-   "tipo": "transitorio",
-   "pagina_pdf": 169,
-   "linea_inicio": 5261,
-   "linea_fin": 5262,
-   "caracteres": 595,
-   "reformas": []
-  },
-  {
-   "articulo": "QUINTO",
-   "tipo": "transitorio",
-   "pagina_pdf": 169,
-   "linea_inicio": 5263,
-   "linea_fin": 5264,
-   "caracteres": 450,
-   "reformas": []
-  },
-  {
-   "articulo": "SEXTO",
-   "tipo": "transitorio",
-   "pagina_pdf": 169,
-   "linea_inicio": 5265,
-   "linea_fin": 5268,
-   "caracteres": 257,
+   "linea_inicio": 5249,
+   "linea_fin": 5252,
+   "caracteres": 169,
    "reformas": []
   },
   {
    "articulo": "PRIMERO",
    "tipo": "transitorio",
    "pagina_pdf": 169,
-   "linea_inicio": 5269,
-   "linea_fin": 5272,
+   "linea_inicio": 5253,
+   "linea_fin": 5254,
    "caracteres": 128,
    "reformas": []
   },
   {
    "articulo": "SEGUNDO",
    "tipo": "transitorio",
-   "pagina_pdf": 170,
-   "linea_inicio": 5273,
+   "pagina_pdf": 169,
+   "linea_inicio": 5255,
+   "linea_fin": 5258,
+   "caracteres": 349,
+   "reformas": []
+  },
+  {
+   "articulo": "ÚNICO",
+   "tipo": "transitorio",
+   "pagina_pdf": 169,
+   "linea_inicio": 5259,
+   "linea_fin": 5262,
+   "caracteres": 209,
+   "reformas": []
+  },
+  {
+   "articulo": "ÚNICO",
+   "tipo": "transitorio",
+   "pagina_pdf": 169,
+   "linea_inicio": 5263,
+   "linea_fin": 5266,
+   "caracteres": 209,
+   "reformas": []
+  },
+  {
+   "articulo": "ÚNICO",
+   "tipo": "transitorio",
+   "pagina_pdf": 169,
+   "linea_inicio": 5267,
+   "linea_fin": 5270,
+   "caracteres": 205,
+   "reformas": []
+  },
+  {
+   "articulo": "ÚNICO",
+   "tipo": "transitorio",
+   "pagina_pdf": 169,
+   "linea_inicio": 5271,
    "linea_fin": 5276,
-   "caracteres": 156,
+   "caracteres": 219,
    "reformas": []
   },
   {
@@ -7146,7 +7105,7 @@
    "pagina_pdf": 170,
    "linea_inicio": 5277,
    "linea_fin": 5278,
-   "caracteres": 137,
+   "caracteres": 131,
    "reformas": []
   },
   {
@@ -7154,332 +7113,341 @@
    "tipo": "transitorio",
    "pagina_pdf": 170,
    "linea_inicio": 5279,
+   "linea_fin": 5280,
+   "caracteres": 637,
+   "reformas": []
+  },
+  {
+   "articulo": "TERCERO",
+   "tipo": "transitorio",
+   "pagina_pdf": 170,
+   "linea_inicio": 5281,
    "linea_fin": 5282,
+   "caracteres": 391,
+   "reformas": []
+  },
+  {
+   "articulo": "CUARTO",
+   "tipo": "transitorio",
+   "pagina_pdf": 170,
+   "linea_inicio": 5283,
+   "linea_fin": 5284,
+   "caracteres": 595,
+   "reformas": []
+  },
+  {
+   "articulo": "QUINTO",
+   "tipo": "transitorio",
+   "pagina_pdf": 170,
+   "linea_inicio": 5285,
+   "linea_fin": 5286,
+   "caracteres": 450,
+   "reformas": []
+  },
+  {
+   "articulo": "SEXTO",
+   "tipo": "transitorio",
+   "pagina_pdf": 170,
+   "linea_inicio": 5287,
+   "linea_fin": 5290,
+   "caracteres": 257,
+   "reformas": []
+  },
+  {
+   "articulo": "PRIMERO",
+   "tipo": "transitorio",
+   "pagina_pdf": 170,
+   "linea_inicio": 5291,
+   "linea_fin": 5294,
+   "caracteres": 128,
+   "reformas": []
+  },
+  {
+   "articulo": "SEGUNDO",
+   "tipo": "transitorio",
+   "pagina_pdf": 171,
+   "linea_inicio": 5295,
+   "linea_fin": 5298,
+   "caracteres": 156,
+   "reformas": []
+  },
+  {
+   "articulo": "PRIMERO",
+   "tipo": "transitorio",
+   "pagina_pdf": 171,
+   "linea_inicio": 5299,
+   "linea_fin": 5300,
+   "caracteres": 137,
+   "reformas": []
+  },
+  {
+   "articulo": "SEGUNDO",
+   "tipo": "transitorio",
+   "pagina_pdf": 171,
+   "linea_inicio": 5301,
+   "linea_fin": 5304,
    "caracteres": 187,
    "reformas": []
   },
   {
    "articulo": "PRIMERO",
    "tipo": "transitorio",
-   "pagina_pdf": 170,
-   "linea_inicio": 5283,
-   "linea_fin": 5284,
+   "pagina_pdf": 171,
+   "linea_inicio": 5305,
+   "linea_fin": 5306,
    "caracteres": 128,
    "reformas": []
   },
   {
    "articulo": "SEGUNDO",
    "tipo": "transitorio",
-   "pagina_pdf": 170,
-   "linea_inicio": 5285,
-   "linea_fin": 5288,
+   "pagina_pdf": 171,
+   "linea_inicio": 5307,
+   "linea_fin": 5310,
    "caracteres": 158,
    "reformas": []
   },
   {
    "articulo": "PRIMERO",
    "tipo": "transitorio",
-   "pagina_pdf": 170,
-   "linea_inicio": 5289,
-   "linea_fin": 5290,
+   "pagina_pdf": 171,
+   "linea_inicio": 5311,
+   "linea_fin": 5312,
    "caracteres": 128,
    "reformas": []
   },
   {
    "articulo": "SEGUNDO",
    "tipo": "transitorio",
-   "pagina_pdf": 170,
-   "linea_inicio": 5291,
-   "linea_fin": 5292,
+   "pagina_pdf": 171,
+   "linea_inicio": 5313,
+   "linea_fin": 5314,
    "caracteres": 253,
    "reformas": []
   },
   {
    "articulo": "TERCERO",
    "tipo": "transitorio",
-   "pagina_pdf": 170,
-   "linea_inicio": 5293,
-   "linea_fin": 5296,
+   "pagina_pdf": 171,
+   "linea_inicio": 5315,
+   "linea_fin": 5318,
    "caracteres": 158,
    "reformas": []
   },
   {
    "articulo": "ÚNICO",
    "tipo": "transitorio",
-   "pagina_pdf": 170,
-   "linea_inicio": 5297,
-   "linea_fin": 5300,
+   "pagina_pdf": 171,
+   "linea_inicio": 5319,
+   "linea_fin": 5322,
    "caracteres": 206,
    "reformas": []
   },
   {
    "articulo": "PRIMERO",
    "tipo": "transitorio",
-   "pagina_pdf": 170,
-   "linea_inicio": 5301,
-   "linea_fin": 5302,
+   "pagina_pdf": 171,
+   "linea_inicio": 5323,
+   "linea_fin": 5324,
    "caracteres": 128,
    "reformas": []
   },
   {
    "articulo": "SEGUNDO",
    "tipo": "transitorio",
-   "pagina_pdf": 170,
-   "linea_inicio": 5303,
-   "linea_fin": 5308,
+   "pagina_pdf": 171,
+   "linea_inicio": 5325,
+   "linea_fin": 5330,
    "caracteres": 158,
    "reformas": []
   },
   {
    "articulo": "ÚNICO",
    "tipo": "transitorio",
-   "pagina_pdf": 171,
-   "linea_inicio": 5309,
-   "linea_fin": 5312,
+   "pagina_pdf": 172,
+   "linea_inicio": 5331,
+   "linea_fin": 5334,
    "caracteres": 204,
    "reformas": []
   },
   {
    "articulo": "ÚNICO",
    "tipo": "transitorio",
-   "pagina_pdf": 171,
-   "linea_inicio": 5313,
-   "linea_fin": 5316,
+   "pagina_pdf": 172,
+   "linea_inicio": 5335,
+   "linea_fin": 5338,
    "caracteres": 205,
    "reformas": []
   },
   {
    "articulo": "ÚNICO",
    "tipo": "transitorio",
-   "pagina_pdf": 171,
-   "linea_inicio": 5317,
-   "linea_fin": 5320,
+   "pagina_pdf": 172,
+   "linea_inicio": 5339,
+   "linea_fin": 5342,
    "caracteres": 207,
    "reformas": []
   },
   {
    "articulo": "ÚNICO",
    "tipo": "transitorio",
-   "pagina_pdf": 171,
-   "linea_inicio": 5321,
-   "linea_fin": 5324,
+   "pagina_pdf": 172,
+   "linea_inicio": 5343,
+   "linea_fin": 5346,
    "caracteres": 351,
    "reformas": []
   },
   {
    "articulo": "PRIMERO",
    "tipo": "transitorio",
-   "pagina_pdf": 171,
-   "linea_inicio": 5325,
-   "linea_fin": 5332,
+   "pagina_pdf": 172,
+   "linea_inicio": 5347,
+   "linea_fin": 5354,
    "caracteres": 652,
    "reformas": []
   },
   {
    "articulo": "SEGUNDO",
    "tipo": "transitorio",
-   "pagina_pdf": 172,
-   "linea_inicio": 5333,
-   "linea_fin": 5344,
+   "pagina_pdf": 173,
+   "linea_inicio": 5355,
+   "linea_fin": 5366,
    "caracteres": 1567,
    "reformas": []
   },
   {
    "articulo": "TERCERO",
    "tipo": "transitorio",
-   "pagina_pdf": 172,
-   "linea_inicio": 5345,
-   "linea_fin": 5350,
+   "pagina_pdf": 173,
+   "linea_inicio": 5367,
+   "linea_fin": 5372,
    "caracteres": 277,
    "reformas": []
   },
   {
    "articulo": "CUARTO",
    "tipo": "transitorio",
-   "pagina_pdf": 173,
-   "linea_inicio": 5351,
-   "linea_fin": 5352,
+   "pagina_pdf": 174,
+   "linea_inicio": 5373,
+   "linea_fin": 5374,
    "caracteres": 168,
    "reformas": []
   },
   {
    "articulo": "QUINTO",
    "tipo": "transitorio",
-   "pagina_pdf": 173,
-   "linea_inicio": 5353,
-   "linea_fin": 5354,
+   "pagina_pdf": 174,
+   "linea_inicio": 5375,
+   "linea_fin": 5376,
    "caracteres": 255,
    "reformas": []
   },
   {
    "articulo": "SEXTO",
    "tipo": "transitorio",
-   "pagina_pdf": 173,
-   "linea_inicio": 5355,
-   "linea_fin": 5358,
+   "pagina_pdf": 174,
+   "linea_inicio": 5377,
+   "linea_fin": 5380,
    "caracteres": 796,
    "reformas": []
   },
   {
    "articulo": "SÉPTIMO",
    "tipo": "transitorio",
-   "pagina_pdf": 173,
-   "linea_inicio": 5359,
-   "linea_fin": 5360,
+   "pagina_pdf": 174,
+   "linea_inicio": 5381,
+   "linea_fin": 5382,
    "caracteres": 211,
    "reformas": []
   },
   {
    "articulo": "OCTAVO",
    "tipo": "transitorio",
-   "pagina_pdf": 173,
-   "linea_inicio": 5361,
-   "linea_fin": 5368,
+   "pagina_pdf": 174,
+   "linea_inicio": 5383,
+   "linea_fin": 5390,
    "caracteres": 677,
    "reformas": []
   },
   {
    "articulo": "NOVENO",
    "tipo": "transitorio",
-   "pagina_pdf": 174,
-   "linea_inicio": 5369,
-   "linea_fin": 5376,
+   "pagina_pdf": 175,
+   "linea_inicio": 5391,
+   "linea_fin": 5398,
    "caracteres": 386,
    "reformas": []
   },
   {
    "articulo": "SEGUNDO",
    "tipo": "transitorio",
-   "pagina_pdf": 174,
-   "linea_inicio": 5377,
-   "linea_fin": 5378,
+   "pagina_pdf": 175,
+   "linea_inicio": 5399,
+   "linea_fin": 5400,
    "caracteres": 534,
    "reformas": []
   },
   {
    "articulo": "TERCERO",
    "tipo": "transitorio",
-   "pagina_pdf": 174,
-   "linea_inicio": 5379,
-   "linea_fin": 5388,
+   "pagina_pdf": 175,
+   "linea_inicio": 5401,
+   "linea_fin": 5410,
    "caracteres": 489,
    "reformas": []
   },
   {
    "articulo": "SEGUNDO",
    "tipo": "transitorio",
-   "pagina_pdf": 175,
-   "linea_inicio": 5389,
-   "linea_fin": 5390,
+   "pagina_pdf": 176,
+   "linea_inicio": 5411,
+   "linea_fin": 5412,
    "caracteres": 528,
    "reformas": []
   },
   {
    "articulo": "TERCERO",
    "tipo": "transitorio",
-   "pagina_pdf": 175,
-   "linea_inicio": 5391,
-   "linea_fin": 5394,
+   "pagina_pdf": 176,
+   "linea_inicio": 5413,
+   "linea_fin": 5416,
    "caracteres": 269,
    "reformas": []
   },
   {
    "articulo": "ÚNICO",
    "tipo": "transitorio",
-   "pagina_pdf": 175,
-   "linea_inicio": 5395,
-   "linea_fin": 5398,
+   "pagina_pdf": 176,
+   "linea_inicio": 5417,
+   "linea_fin": 5420,
    "caracteres": 209,
    "reformas": []
   },
   {
    "articulo": "ÚNICO",
    "tipo": "transitorio",
-   "pagina_pdf": 175,
-   "linea_inicio": 5399,
-   "linea_fin": 5402,
+   "pagina_pdf": 176,
+   "linea_inicio": 5421,
+   "linea_fin": 5424,
    "caracteres": 398,
    "reformas": []
   },
   {
    "articulo": "PRIMERO",
    "tipo": "transitorio",
-   "pagina_pdf": 175,
-   "linea_inicio": 5403,
-   "linea_fin": 5404,
+   "pagina_pdf": 176,
+   "linea_inicio": 5425,
+   "linea_fin": 5426,
    "caracteres": 128,
    "reformas": []
   },
   {
    "articulo": "SEGUNDO",
    "tipo": "transitorio",
-   "pagina_pdf": 175,
-   "linea_inicio": 5405,
-   "linea_fin": 5412,
-   "caracteres": 604,
-   "reformas": []
-  },
-  {
-   "articulo": "PRIMERO",
-   "tipo": "transitorio",
-   "pagina_pdf": 176,
-   "linea_inicio": 5413,
-   "linea_fin": 5414,
-   "caracteres": 131,
-   "reformas": []
-  },
-  {
-   "articulo": "SEGUNDO",
-   "tipo": "transitorio",
-   "pagina_pdf": 176,
-   "linea_inicio": 5415,
-   "linea_fin": 5416,
-   "caracteres": 142,
-   "reformas": []
-  },
-  {
-   "articulo": "TERCERO",
-   "tipo": "transitorio",
-   "pagina_pdf": 176,
-   "linea_inicio": 5417,
-   "linea_fin": 5418,
-   "caracteres": 196,
-   "reformas": []
-  },
-  {
-   "articulo": "CUARTO",
-   "tipo": "transitorio",
-   "pagina_pdf": 176,
-   "linea_inicio": 5419,
-   "linea_fin": 5420,
-   "caracteres": 346,
-   "reformas": []
-  },
-  {
-   "articulo": "QUINTO",
-   "tipo": "transitorio",
-   "pagina_pdf": 176,
-   "linea_inicio": 5421,
-   "linea_fin": 5422,
-   "caracteres": 212,
-   "reformas": []
-  },
-  {
-   "articulo": "SEXTO",
-   "tipo": "transitorio",
-   "pagina_pdf": 176,
-   "linea_inicio": 5423,
-   "linea_fin": 5426,
-   "caracteres": 156,
-   "reformas": []
-  },
-  {
-   "articulo": "ÚNICO",
-   "tipo": "transitorio",
    "pagina_pdf": 176,
    "linea_inicio": 5427,
    "linea_fin": 5434,
-   "caracteres": 343,
+   "caracteres": 604,
    "reformas": []
   },
   {
@@ -7488,7 +7456,7 @@
    "pagina_pdf": 177,
    "linea_inicio": 5435,
    "linea_fin": 5436,
-   "caracteres": 137,
+   "caracteres": 131,
    "reformas": []
   },
   {
@@ -7497,7 +7465,7 @@
    "pagina_pdf": 177,
    "linea_inicio": 5437,
    "linea_fin": 5438,
-   "caracteres": 472,
+   "caracteres": 142,
    "reformas": []
   },
   {
@@ -7505,35 +7473,44 @@
    "tipo": "transitorio",
    "pagina_pdf": 177,
    "linea_inicio": 5439,
-   "linea_fin": 5442,
-   "caracteres": 888,
+   "linea_fin": 5440,
+   "caracteres": 196,
    "reformas": []
   },
   {
    "articulo": "CUARTO",
    "tipo": "transitorio",
    "pagina_pdf": 177,
+   "linea_inicio": 5441,
+   "linea_fin": 5442,
+   "caracteres": 346,
+   "reformas": []
+  },
+  {
+   "articulo": "QUINTO",
+   "tipo": "transitorio",
+   "pagina_pdf": 177,
    "linea_inicio": 5443,
-   "linea_fin": 5446,
-   "caracteres": 515,
+   "linea_fin": 5444,
+   "caracteres": 212,
+   "reformas": []
+  },
+  {
+   "articulo": "SEXTO",
+   "tipo": "transitorio",
+   "pagina_pdf": 177,
+   "linea_inicio": 5445,
+   "linea_fin": 5448,
+   "caracteres": 156,
    "reformas": []
   },
   {
    "articulo": "ÚNICO",
    "tipo": "transitorio",
    "pagina_pdf": 177,
-   "linea_inicio": 5447,
-   "linea_fin": 5452,
-   "caracteres": 220,
-   "reformas": []
-  },
-  {
-   "articulo": "ÚNICO",
-   "tipo": "transitorio",
-   "pagina_pdf": 178,
-   "linea_inicio": 5453,
+   "linea_inicio": 5449,
    "linea_fin": 5456,
-   "caracteres": 231,
+   "caracteres": 343,
    "reformas": []
   },
   {
@@ -7542,7 +7519,7 @@
    "pagina_pdf": 178,
    "linea_inicio": 5457,
    "linea_fin": 5458,
-   "caracteres": 131,
+   "caracteres": 137,
    "reformas": []
   },
   {
@@ -7550,106 +7527,160 @@
    "tipo": "transitorio",
    "pagina_pdf": 178,
    "linea_inicio": 5459,
-   "linea_fin": 5462,
-   "caracteres": 257,
-   "reformas": []
-  },
-  {
-   "articulo": "PRIMERO",
-   "tipo": "transitorio",
-   "pagina_pdf": 178,
-   "linea_inicio": 5463,
-   "linea_fin": 5464,
-   "caracteres": 128,
-   "reformas": []
-  },
-  {
-   "articulo": "SEGUNDO",
-   "tipo": "transitorio",
-   "pagina_pdf": 178,
-   "linea_inicio": 5465,
-   "linea_fin": 5466,
-   "caracteres": 99,
+   "linea_fin": 5460,
+   "caracteres": 472,
    "reformas": []
   },
   {
    "articulo": "TERCERO",
    "tipo": "transitorio",
    "pagina_pdf": 178,
-   "linea_inicio": 5467,
-   "linea_fin": 5468,
-   "caracteres": 200,
+   "linea_inicio": 5461,
+   "linea_fin": 5464,
+   "caracteres": 888,
    "reformas": []
   },
   {
    "articulo": "CUARTO",
    "tipo": "transitorio",
    "pagina_pdf": 178,
+   "linea_inicio": 5465,
+   "linea_fin": 5468,
+   "caracteres": 515,
+   "reformas": []
+  },
+  {
+   "articulo": "ÚNICO",
+   "tipo": "transitorio",
+   "pagina_pdf": 178,
    "linea_inicio": 5469,
-   "linea_fin": 5472,
-   "caracteres": 271,
-   "reformas": []
-  },
-  {
-   "articulo": "QUINTO",
-   "tipo": "transitorio",
-   "pagina_pdf": 179,
-   "linea_inicio": 5473,
    "linea_fin": 5474,
-   "caracteres": 269,
-   "reformas": []
-  },
-  {
-   "articulo": "SEXTO",
-   "tipo": "transitorio",
-   "pagina_pdf": 179,
-   "linea_inicio": 5475,
-   "linea_fin": 5478,
-   "caracteres": 337,
+   "caracteres": 220,
    "reformas": []
   },
   {
    "articulo": "ÚNICO",
    "tipo": "transitorio",
    "pagina_pdf": 179,
-   "linea_inicio": 5479,
-   "linea_fin": 5482,
-   "caracteres": 331,
+   "linea_inicio": 5475,
+   "linea_fin": 5478,
+   "caracteres": 231,
    "reformas": []
   },
   {
    "articulo": "PRIMERO",
    "tipo": "transitorio",
    "pagina_pdf": 179,
-   "linea_inicio": 5483,
-   "linea_fin": 5484,
-   "caracteres": 125,
+   "linea_inicio": 5479,
+   "linea_fin": 5480,
+   "caracteres": 131,
    "reformas": []
   },
   {
    "articulo": "SEGUNDO",
    "tipo": "transitorio",
    "pagina_pdf": 179,
+   "linea_inicio": 5481,
+   "linea_fin": 5484,
+   "caracteres": 257,
+   "reformas": []
+  },
+  {
+   "articulo": "PRIMERO",
+   "tipo": "transitorio",
+   "pagina_pdf": 179,
    "linea_inicio": 5485,
+   "linea_fin": 5486,
+   "caracteres": 128,
+   "reformas": []
+  },
+  {
+   "articulo": "SEGUNDO",
+   "tipo": "transitorio",
+   "pagina_pdf": 179,
+   "linea_inicio": 5487,
+   "linea_fin": 5488,
+   "caracteres": 99,
+   "reformas": []
+  },
+  {
+   "articulo": "TERCERO",
+   "tipo": "transitorio",
+   "pagina_pdf": 179,
+   "linea_inicio": 5489,
+   "linea_fin": 5490,
+   "caracteres": 200,
+   "reformas": []
+  },
+  {
+   "articulo": "CUARTO",
+   "tipo": "transitorio",
+   "pagina_pdf": 179,
+   "linea_inicio": 5491,
    "linea_fin": 5494,
+   "caracteres": 271,
+   "reformas": []
+  },
+  {
+   "articulo": "QUINTO",
+   "tipo": "transitorio",
+   "pagina_pdf": 180,
+   "linea_inicio": 5495,
+   "linea_fin": 5496,
+   "caracteres": 269,
+   "reformas": []
+  },
+  {
+   "articulo": "SEXTO",
+   "tipo": "transitorio",
+   "pagina_pdf": 180,
+   "linea_inicio": 5497,
+   "linea_fin": 5500,
+   "caracteres": 337,
+   "reformas": []
+  },
+  {
+   "articulo": "ÚNICO",
+   "tipo": "transitorio",
+   "pagina_pdf": 180,
+   "linea_inicio": 5501,
+   "linea_fin": 5504,
+   "caracteres": 331,
+   "reformas": []
+  },
+  {
+   "articulo": "PRIMERO",
+   "tipo": "transitorio",
+   "pagina_pdf": 180,
+   "linea_inicio": 5505,
+   "linea_fin": 5506,
+   "caracteres": 125,
+   "reformas": []
+  },
+  {
+   "articulo": "SEGUNDO",
+   "tipo": "transitorio",
+   "pagina_pdf": 180,
+   "linea_inicio": 5507,
+   "linea_fin": 5516,
    "caracteres": 906,
    "reformas": []
   },
   {
    "articulo": "TERCERO",
    "tipo": "transitorio",
-   "pagina_pdf": 180,
-   "linea_inicio": 5495,
-   "linea_fin": 5498,
+   "pagina_pdf": 181,
+   "linea_inicio": 5517,
+   "linea_fin": 5520,
    "caracteres": 254,
    "reformas": []
   },
   {
    "articulo": "CUARTO",
    "tipo": "transitorio",
-   "pagina_pdf": 180,
-   "linea_inicio": 5499,
-   "linea_fin": 5500,
+   "pagina_pdf": 181,
+   "linea_inicio": 5521,
+   "linea_fin": 5522,
    "caracteres": 648,
    "reformas": [
     {
@@ -7664,127 +7695,73 @@
   {
    "articulo": "QUINTO",
    "tipo": "transitorio",
-   "pagina_pdf": 180,
-   "linea_inicio": 5501,
-   "linea_fin": 5502,
+   "pagina_pdf": 181,
+   "linea_inicio": 5523,
+   "linea_fin": 5524,
    "caracteres": 166,
    "reformas": []
   },
   {
    "articulo": "SEXTO",
    "tipo": "transitorio",
-   "pagina_pdf": 180,
-   "linea_inicio": 5503,
-   "linea_fin": 5504,
+   "pagina_pdf": 181,
+   "linea_inicio": 5525,
+   "linea_fin": 5526,
    "caracteres": 373,
    "reformas": []
   },
   {
    "articulo": "SÉPTIMO",
    "tipo": "transitorio",
-   "pagina_pdf": 180,
-   "linea_inicio": 5505,
-   "linea_fin": 5512,
+   "pagina_pdf": 181,
+   "linea_inicio": 5527,
+   "linea_fin": 5534,
    "caracteres": 383,
    "reformas": []
   },
   {
    "articulo": "PRIMERO",
    "tipo": "transitorio",
-   "pagina_pdf": 181,
-   "linea_inicio": 5513,
-   "linea_fin": 5514,
+   "pagina_pdf": 182,
+   "linea_inicio": 5535,
+   "linea_fin": 5536,
    "caracteres": 128,
    "reformas": []
   },
   {
    "articulo": "SEGUNDO",
    "tipo": "transitorio",
-   "pagina_pdf": 181,
-   "linea_inicio": 5515,
-   "linea_fin": 5518,
+   "pagina_pdf": 182,
+   "linea_inicio": 5537,
+   "linea_fin": 5540,
    "caracteres": 154,
    "reformas": []
   },
   {
    "articulo": "PRIMERO",
    "tipo": "transitorio",
-   "pagina_pdf": 181,
-   "linea_inicio": 5519,
-   "linea_fin": 5520,
+   "pagina_pdf": 182,
+   "linea_inicio": 5541,
+   "linea_fin": 5542,
    "caracteres": 128,
    "reformas": []
   },
   {
    "articulo": "SEGUNDO",
    "tipo": "transitorio",
-   "pagina_pdf": 181,
-   "linea_inicio": 5521,
-   "linea_fin": 5524,
+   "pagina_pdf": 182,
+   "linea_inicio": 5543,
+   "linea_fin": 5546,
    "caracteres": 155,
    "reformas": []
   },
   {
    "articulo": "ÚNICO",
    "tipo": "transitorio",
-   "pagina_pdf": 181,
-   "linea_inicio": 5525,
-   "linea_fin": 5528,
-   "caracteres": 304,
-   "reformas": []
-  },
-  {
-   "articulo": "PRIMERO",
-   "tipo": "transitorio",
-   "pagina_pdf": 181,
-   "linea_inicio": 5529,
-   "linea_fin": 5530,
-   "caracteres": 128,
-   "reformas": []
-  },
-  {
-   "articulo": "SEGUNDO",
-   "tipo": "transitorio",
-   "pagina_pdf": 181,
-   "linea_inicio": 5531,
-   "linea_fin": 5538,
-   "caracteres": 277,
-   "reformas": []
-  },
-  {
-   "articulo": "PRIMERO",
-   "tipo": "transitorio",
-   "pagina_pdf": 182,
-   "linea_inicio": 5539,
-   "linea_fin": 5540,
-   "caracteres": 128,
-   "reformas": []
-  },
-  {
-   "articulo": "SEGUNDO",
-   "tipo": "transitorio",
-   "pagina_pdf": 182,
-   "linea_inicio": 5541,
-   "linea_fin": 5544,
-   "caracteres": 156,
-   "reformas": []
-  },
-  {
-   "articulo": "PRIMERO",
-   "tipo": "transitorio",
-   "pagina_pdf": 182,
-   "linea_inicio": 5545,
-   "linea_fin": 5546,
-   "caracteres": 128,
-   "reformas": []
-  },
-  {
-   "articulo": "SEGUNDO",
-   "tipo": "transitorio",
    "pagina_pdf": 182,
    "linea_inicio": 5547,
    "linea_fin": 5550,
-   "caracteres": 275,
+   "caracteres": 304,
    "reformas": []
   },
   {
@@ -7801,44 +7778,44 @@
    "tipo": "transitorio",
    "pagina_pdf": 182,
    "linea_inicio": 5553,
-   "linea_fin": 5556,
-   "caracteres": 314,
+   "linea_fin": 5560,
+   "caracteres": 277,
    "reformas": []
   },
   {
    "articulo": "PRIMERO",
    "tipo": "transitorio",
-   "pagina_pdf": 182,
-   "linea_inicio": 5557,
-   "linea_fin": 5558,
-   "caracteres": 127,
+   "pagina_pdf": 183,
+   "linea_inicio": 5561,
+   "linea_fin": 5562,
+   "caracteres": 128,
    "reformas": []
   },
   {
    "articulo": "SEGUNDO",
    "tipo": "transitorio",
-   "pagina_pdf": 182,
-   "linea_inicio": 5559,
-   "linea_fin": 5564,
-   "caracteres": 283,
+   "pagina_pdf": 183,
+   "linea_inicio": 5563,
+   "linea_fin": 5566,
+   "caracteres": 156,
    "reformas": []
   },
   {
-   "articulo": "ÚNICO",
+   "articulo": "PRIMERO",
    "tipo": "transitorio",
    "pagina_pdf": 183,
-   "linea_inicio": 5565,
+   "linea_inicio": 5567,
    "linea_fin": 5568,
-   "caracteres": 198,
+   "caracteres": 128,
    "reformas": []
   },
   {
-   "articulo": "ÚNICO",
+   "articulo": "SEGUNDO",
    "tipo": "transitorio",
    "pagina_pdf": 183,
    "linea_inicio": 5569,
    "linea_fin": 5572,
-   "caracteres": 332,
+   "caracteres": 275,
    "reformas": []
   },
   {
@@ -7856,7 +7833,7 @@
    "pagina_pdf": 183,
    "linea_inicio": 5575,
    "linea_fin": 5578,
-   "caracteres": 156,
+   "caracteres": 314,
    "reformas": []
   },
   {
@@ -7865,7 +7842,7 @@
    "pagina_pdf": 183,
    "linea_inicio": 5579,
    "linea_fin": 5580,
-   "caracteres": 128,
+   "caracteres": 127,
    "reformas": []
   },
   {
@@ -7873,25 +7850,34 @@
    "tipo": "transitorio",
    "pagina_pdf": 183,
    "linea_inicio": 5581,
-   "linea_fin": 5584,
-   "caracteres": 210,
+   "linea_fin": 5586,
+   "caracteres": 283,
    "reformas": []
   },
   {
    "articulo": "ÚNICO",
    "tipo": "transitorio",
-   "pagina_pdf": 183,
-   "linea_inicio": 5585,
+   "pagina_pdf": 184,
+   "linea_inicio": 5587,
    "linea_fin": 5590,
-   "caracteres": 252,
+   "caracteres": 198,
+   "reformas": []
+  },
+  {
+   "articulo": "ÚNICO",
+   "tipo": "transitorio",
+   "pagina_pdf": 184,
+   "linea_inicio": 5591,
+   "linea_fin": 5594,
+   "caracteres": 332,
    "reformas": []
   },
   {
    "articulo": "PRIMERO",
    "tipo": "transitorio",
    "pagina_pdf": 184,
-   "linea_inicio": 5591,
-   "linea_fin": 5592,
+   "linea_inicio": 5595,
+   "linea_fin": 5596,
    "caracteres": 128,
    "reformas": []
   },
@@ -7899,54 +7885,36 @@
    "articulo": "SEGUNDO",
    "tipo": "transitorio",
    "pagina_pdf": 184,
-   "linea_inicio": 5593,
-   "linea_fin": 5596,
-   "caracteres": 215,
+   "linea_inicio": 5597,
+   "linea_fin": 5600,
+   "caracteres": 156,
    "reformas": []
   },
   {
    "articulo": "PRIMERO",
    "tipo": "transitorio",
    "pagina_pdf": 184,
-   "linea_inicio": 5597,
-   "linea_fin": 5598,
-   "caracteres": 137,
+   "linea_inicio": 5601,
+   "linea_fin": 5602,
+   "caracteres": 128,
    "reformas": []
   },
   {
    "articulo": "SEGUNDO",
-   "tipo": "transitorio",
-   "pagina_pdf": 184,
-   "linea_inicio": 5599,
-   "linea_fin": 5602,
-   "caracteres": 224,
-   "reformas": []
-  },
-  {
-   "articulo": "PRIMERO",
    "tipo": "transitorio",
    "pagina_pdf": 184,
    "linea_inicio": 5603,
-   "linea_fin": 5604,
-   "caracteres": 137,
-   "reformas": []
-  },
-  {
-   "articulo": "SEGUNDO",
-   "tipo": "transitorio",
-   "pagina_pdf": 184,
-   "linea_inicio": 5605,
    "linea_fin": 5606,
-   "caracteres": 277,
+   "caracteres": 210,
    "reformas": []
   },
   {
-   "articulo": "TERCERO",
+   "articulo": "ÚNICO",
    "tipo": "transitorio",
    "pagina_pdf": 184,
    "linea_inicio": 5607,
    "linea_fin": 5612,
-   "caracteres": 221,
+   "caracteres": 252,
    "reformas": []
   },
   {
@@ -7964,78 +7932,60 @@
    "pagina_pdf": 185,
    "linea_inicio": 5615,
    "linea_fin": 5618,
-   "caracteres": 189,
+   "caracteres": 215,
    "reformas": []
   },
   {
-   "articulo": "ÚNICO",
+   "articulo": "PRIMERO",
    "tipo": "transitorio",
    "pagina_pdf": 185,
    "linea_inicio": 5619,
-   "linea_fin": 5622,
-   "caracteres": 252,
-   "reformas": []
-  },
-  {
-   "articulo": "PRIMERO",
-   "tipo": "transitorio",
-   "pagina_pdf": 185,
-   "linea_inicio": 5623,
-   "linea_fin": 5624,
+   "linea_fin": 5620,
    "caracteres": 137,
    "reformas": []
   },
   {
    "articulo": "SEGUNDO",
+   "tipo": "transitorio",
+   "pagina_pdf": 185,
+   "linea_inicio": 5621,
+   "linea_fin": 5624,
+   "caracteres": 224,
+   "reformas": []
+  },
+  {
+   "articulo": "PRIMERO",
    "tipo": "transitorio",
    "pagina_pdf": 185,
    "linea_inicio": 5625,
-   "linea_fin": 5628,
-   "caracteres": 205,
-   "reformas": []
-  },
-  {
-   "articulo": "ÚNICO",
-   "tipo": "transitorio",
-   "pagina_pdf": 185,
-   "linea_inicio": 5629,
-   "linea_fin": 5632,
-   "caracteres": 252,
-   "reformas": []
-  },
-  {
-   "articulo": "PRIMERO",
-   "tipo": "transitorio",
-   "pagina_pdf": 185,
-   "linea_inicio": 5633,
-   "linea_fin": 5636,
+   "linea_fin": 5626,
    "caracteres": 137,
    "reformas": []
   },
   {
    "articulo": "SEGUNDO",
    "tipo": "transitorio",
-   "pagina_pdf": 186,
-   "linea_inicio": 5637,
-   "linea_fin": 5638,
-   "caracteres": 204,
+   "pagina_pdf": 185,
+   "linea_inicio": 5627,
+   "linea_fin": 5628,
+   "caracteres": 277,
    "reformas": []
   },
   {
-   "articulo": "ÚNICO",
+   "articulo": "TERCERO",
    "tipo": "transitorio",
-   "pagina_pdf": 186,
-   "linea_inicio": 5639,
-   "linea_fin": 5642,
-   "caracteres": 251,
+   "pagina_pdf": 185,
+   "linea_inicio": 5629,
+   "linea_fin": 5634,
+   "caracteres": 221,
    "reformas": []
   },
   {
    "articulo": "PRIMERO",
    "tipo": "transitorio",
    "pagina_pdf": 186,
-   "linea_inicio": 5643,
-   "linea_fin": 5644,
+   "linea_inicio": 5635,
+   "linea_fin": 5636,
    "caracteres": 128,
    "reformas": []
   },
@@ -8043,26 +7993,26 @@
    "articulo": "SEGUNDO",
    "tipo": "transitorio",
    "pagina_pdf": 186,
-   "linea_inicio": 5645,
-   "linea_fin": 5646,
-   "caracteres": 79,
+   "linea_inicio": 5637,
+   "linea_fin": 5640,
+   "caracteres": 189,
    "reformas": []
   },
   {
-   "articulo": "TERCERO",
+   "articulo": "ÚNICO",
    "tipo": "transitorio",
    "pagina_pdf": 186,
-   "linea_inicio": 5647,
-   "linea_fin": 5650,
-   "caracteres": 479,
+   "linea_inicio": 5641,
+   "linea_fin": 5644,
+   "caracteres": 252,
    "reformas": []
   },
   {
    "articulo": "PRIMERO",
    "tipo": "transitorio",
    "pagina_pdf": 186,
-   "linea_inicio": 5651,
-   "linea_fin": 5652,
+   "linea_inicio": 5645,
+   "linea_fin": 5646,
    "caracteres": 137,
    "reformas": []
   },
@@ -8070,9 +8020,162 @@
    "articulo": "SEGUNDO",
    "tipo": "transitorio",
    "pagina_pdf": 186,
-   "linea_inicio": 5653,
-   "linea_fin": 5656,
-   "caracteres": 227,
+   "linea_inicio": 5647,
+   "linea_fin": 5650,
+   "caracteres": 205,
+   "reformas": []
+  },
+  {
+   "articulo": "ÚNICO",
+   "tipo": "transitorio",
+   "pagina_pdf": 186,
+   "linea_inicio": 5651,
+   "linea_fin": 5654,
+   "caracteres": 252,
+   "reformas": []
+  },
+  {
+   "articulo": "PRIMERO",
+   "tipo": "transitorio",
+   "pagina_pdf": 186,
+   "linea_inicio": 5655,
+   "linea_fin": 5658,
+   "caracteres": 137,
+   "reformas": []
+  },
+  {
+   "articulo": "SEGUNDO",
+   "tipo": "transitorio",
+   "pagina_pdf": 187,
+   "linea_inicio": 5659,
+   "linea_fin": 5660,
+   "caracteres": 204,
+   "reformas": []
+  },
+  {
+   "articulo": "ÚNICO",
+   "tipo": "transitorio",
+   "pagina_pdf": 187,
+   "linea_inicio": 5661,
+   "linea_fin": 5664,
+   "caracteres": 251,
+   "reformas": []
+  },
+  {
+   "articulo": "PRIMERO",
+   "tipo": "transitorio",
+   "pagina_pdf": 187,
+   "linea_inicio": 5665,
+   "linea_fin": 5666,
+   "caracteres": 128,
+   "reformas": []
+  },
+  {
+   "articulo": "SEGUNDO",
+   "tipo": "transitorio",
+   "pagina_pdf": 187,
+   "linea_inicio": 5667,
+   "linea_fin": 5668,
+   "caracteres": 79,
+   "reformas": []
+  },
+  {
+   "articulo": "TERCERO",
+   "tipo": "transitorio",
+   "pagina_pdf": 187,
+   "linea_inicio": 5669,
+   "linea_fin": 5672,
+   "caracteres": 479,
+   "reformas": []
+  },
+  {
+   "articulo": "PRIMERO",
+   "tipo": "transitorio",
+   "pagina_pdf": 187,
+   "linea_inicio": 5673,
+   "linea_fin": 5674,
+   "caracteres": 137,
+   "reformas": []
+  },
+  {
+   "articulo": "SEGUNDO",
+   "tipo": "transitorio",
+   "pagina_pdf": 187,
+   "linea_inicio": 5675,
+   "linea_fin": 5680,
+   "caracteres": 325,
+   "reformas": []
+  },
+  {
+   "articulo": "PRIMERO",
+   "tipo": "transitorio",
+   "pagina_pdf": 188,
+   "linea_inicio": 5681,
+   "linea_fin": 5682,
+   "caracteres": 137,
+   "reformas": []
+  },
+  {
+   "articulo": "SEGUNDO",
+   "tipo": "transitorio",
+   "pagina_pdf": 188,
+   "linea_inicio": 5683,
+   "linea_fin": 5684,
+   "caracteres": 230,
+   "reformas": []
+  },
+  {
+   "articulo": "TERCERO",
+   "tipo": "transitorio",
+   "pagina_pdf": 188,
+   "linea_inicio": 5685,
+   "linea_fin": 5686,
+   "caracteres": 235,
+   "reformas": []
+  },
+  {
+   "articulo": "CUARTO",
+   "tipo": "transitorio",
+   "pagina_pdf": 188,
+   "linea_inicio": 5687,
+   "linea_fin": 5688,
+   "caracteres": 303,
+   "reformas": []
+  },
+  {
+   "articulo": "QUINTO",
+   "tipo": "transitorio",
+   "pagina_pdf": 188,
+   "linea_inicio": 5689,
+   "linea_fin": 5690,
+   "caracteres": 443,
+   "reformas": []
+  },
+  {
+   "articulo": "SEXTO",
+   "tipo": "transitorio",
+   "pagina_pdf": 188,
+   "linea_inicio": 5691,
+   "linea_fin": 5694,
+   "caracteres": 203,
+   "reformas": []
+  },
+  {
+   "articulo": "PRIMERO",
+   "tipo": "transitorio",
+   "pagina_pdf": 188,
+   "linea_inicio": 5695,
+   "linea_fin": 5696,
+   "caracteres": 137,
+   "reformas": []
+  },
+  {
+   "articulo": "SEGUNDO",
+   "tipo": "transitorio",
+   "pagina_pdf": 188,
+   "linea_inicio": 5697,
+   "linea_fin": 5700,
+   "caracteres": 368,
    "reformas": []
   }
  ]
