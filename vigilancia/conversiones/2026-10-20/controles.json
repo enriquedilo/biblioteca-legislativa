@@ -1,0 +1,88 @@
+[
+  {
+    "entidad": "Sinaloa",
+    "id": 9,
+    "paginas": 196,
+    "conservacion_markdown": true,
+    "hashes_y_respaldo": true,
+    "campos_incompletos": [
+      "abroga",
+      "decreto_numero",
+      "po_publicacion",
+      "po_publicacion.edicion",
+      "po_publicacion.fecha",
+      "po_publicacion.numero",
+      "reformas.numeracion_impresa",
+      "reformas[].fecha",
+      "reformas[].po_numero",
+      "ultima_reforma.edicion"
+    ],
+    "cotejo_visual": [
+      169
+    ]
+  },
+  {
+    "entidad": "Nayarit",
+    "id": 16,
+    "paginas": 35,
+    "conservacion_markdown": true,
+    "hashes_y_respaldo": true,
+    "campos_incompletos": [
+      "abroga",
+      "decreto_numero",
+      "po_publicacion.edicion",
+      "po_publicacion.numero",
+      "reformas[].decreto",
+      "reformas[].po_numero",
+      "ultima_reforma.edicion",
+      "ultima_reforma.numero"
+    ],
+    "cotejo_visual": [
+      33
+    ]
+  },
+  {
+    "entidad": "Nayarit",
+    "id": 55,
+    "paginas": 175,
+    "conservacion_markdown": true,
+    "hashes_y_respaldo": true,
+    "campos_incompletos": [
+      "abroga",
+      "abroga[].nombre",
+      "abroga[].po_numero",
+      "decreto_numero",
+      "po_publicacion.edicion",
+      "po_publicacion.numero",
+      "reformas[].decreto",
+      "reformas[].fecha",
+      "reformas[].po_numero",
+      "ultima_reforma.edicion",
+      "ultima_reforma.numero"
+    ],
+    "cotejo_visual": [
+      169
+    ]
+  },
+  {
+    "entidad": "Nayarit",
+    "id": 139,
+    "paginas": 162,
+    "conservacion_markdown": true,
+    "hashes_y_respaldo": true,
+    "campos_incompletos": [
+      "abroga",
+      "abroga[].nombre",
+      "abroga[].po_numero",
+      "po_publicacion.edicion",
+      "po_publicacion.numero",
+      "reformas[].decreto",
+      "reformas[].po_numero",
+      "ultima_reforma.edicion",
+      "ultima_reforma.numero"
+    ],
+    "cotejo_visual": [
+      158
+    ]
+  }
+]

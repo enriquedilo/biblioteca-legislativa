@@ -1,0 +1,260 @@
+[
+  {
+    "tipo": "delete",
+    "antes": "PDF",
+    "despues": "",
+    "contexto_previo": "# Constitución Política del Estado de Sinaloa > Transcripción del"
+  },
+  {
+    "tipo": "replace",
+    "antes": "descargado. Integridad de conversión verificada; vigencia jurídica no certificada. Los comentarios PAGINA_PDF permiten localizar el original.",
+    "despues": "del Congreso. Consulta metadata.json y validacion.json.",
+    "contexto_previo": "# Constitución Política del Estado de Sinaloa > Transcripción del original"
+  },
+  {
+    "tipo": "replace",
+    "antes": "111,",
+    "despues": "121,",
+    "contexto_previo": "del Congreso. Consulta metadata.json y validacion.json. TEXTO VIGENTE Última reforma publicada en el P.O. No."
+  },
+  {
+    "tipo": "replace",
+    "antes": "16",
+    "despues": "9",
+    "contexto_previo": "metadata.json y validacion.json. TEXTO VIGENTE Última reforma publicada en el P.O. No. 121, de fecha"
+  },
+  {
+    "tipo": "replace",
+    "antes": "septiembre",
+    "despues": "octubre",
+    "contexto_previo": "validacion.json. TEXTO VIGENTE Última reforma publicada en el P.O. No. 121, de fecha 9 de"
+  },
+  {
+    "tipo": "delete",
+    "antes": "## TÍTULO I Bis DE LOS DERECHOS HUMANOS (Adic. según Decreto No. 94, de fecha 1 de abril del 2008, y publicado en el P.O. No. 063 de fecha 26 de mayo del 2008).",
+    "despues": "",
+    "contexto_previo": "de Sinaloa es el que posee actualmente y el que por todo derecho le corresponda."
+  },
+  {
+    "tipo": "insert",
+    "antes": "",
+    "despues": "## TÍTULO I Bis DE LOS DERECHOS HUMANOS (Adic. según Decreto No. 94, de fecha 1 de abril del 2008, y publicado en el P.O. No. 063 de fecha 26 de mayo del 2008).",
+    "contexto_previo": "a los días 6, 8, 11, 13, 15, 18 y 20 de julio de 1922."
+  },
+  {
+    "tipo": "replace",
+    "antes": "138.",
+    "despues": "138\\.",
+    "contexto_previo": "consecuencia de los actos y omisiones a que hace referencia la fracción III del artículo"
+  },
+  {
+    "tipo": "replace",
+    "antes": "(sic- no",
+    "despues": "(sic-no",
+    "contexto_previo": "comunal dentro del territorio de Sinaloa, también el Estado reconoce personalidad jurídica a las asociaciones,"
+  },
+  {
+    "tipo": "delete",
+    "antes": "ordinaria",
+    "despues": "",
+    "contexto_previo": "cargos de elección en el Poder Judicial del Estado se realizará en la elección estatal"
+  },
+  {
+    "tipo": "replace",
+    "antes": "2027,",
+    "despues": "2028,",
+    "contexto_previo": "elección en el Poder Judicial del Estado se realizará en la elección estatal del año"
+  },
+  {
+    "tipo": "insert",
+    "antes": "",
+    "despues": "(Ref. Según Decreto No. 509, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 121, de fecha 9 de octubre de 2026.)",
+    "contexto_previo": "la elección estatal del año 2028, de conformidad con lo dispuesto en el presente Decreto."
+  },
+  {
+    "tipo": "insert",
+    "antes": "",
+    "despues": "Magistradas",
+    "contexto_previo": "Judicial iniciarán sus funciones en la fecha en que se les tome protesta a las"
+  },
+  {
+    "tipo": "replace",
+    "antes": "de 2027.",
+    "despues": "del año 2028.",
+    "contexto_previo": "las Magistradas y los Magistrados del Tribunal de Disciplina Judicial que emanen del proceso electoral"
+  },
+  {
+    "tipo": "insert",
+    "antes": "",
+    "despues": "(Ref. Según Decreto No. 509, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 121, de fecha 9 de octubre de 2026.)",
+    "contexto_previo": "año 2028. En esa misma fecha, el Consejo de la Judicatura del Estado quedará extinto."
+  },
+  {
+    "tipo": "replace",
+    "antes": "de 2027,",
+    "despues": "del año 2028,",
+    "contexto_previo": "judicial. Quinto. Para garantizar el escalonamiento en el Tribunal de Disciplina Judicial en la elección"
+  },
+  {
+    "tipo": "replace",
+    "antes": "tres",
+    "despues": "dos",
+    "contexto_previo": "Judicial en la elección del año 2028, por única ocasión se elegirá una magistratura por"
+  },
+  {
+    "tipo": "replace",
+    "antes": "seis",
+    "despues": "cinco",
+    "contexto_previo": "año 2028, por única ocasión se elegirá una magistratura por dos años; otra magistratura por"
+  },
+  {
+    "tipo": "replace",
+    "antes": "nueve",
+    "despues": "ocho",
+    "contexto_previo": "elegirá una magistratura por dos años; otra magistratura por cinco años; y, otra magistratura por"
+  },
+  {
+    "tipo": "insert",
+    "antes": "",
+    "despues": "(Ref. Según Decreto No. 509, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 121, de fecha 9 de octubre de 2026.)",
+    "contexto_previo": "magistratura por dos años; otra magistratura por cinco años; y, otra magistratura por ocho años."
+  },
+  {
+    "tipo": "insert",
+    "antes": "",
+    "despues": "Magistradas",
+    "contexto_previo": "Circuito continuarán sus funciones hasta el día en que se les tome protesta a las"
+  },
+  {
+    "tipo": "insert",
+    "antes": "",
+    "despues": "del año 2028. (Ref. Según Decreto No. 509, publicado en el Periódico Oficial “El Estado",
+    "contexto_previo": "Pleno del Supremo Tribunal de Justicia del Estado que resulten electos en el proceso electoral"
+  },
+  {
+    "tipo": "replace",
+    "antes": "2027.",
+    "despues": "Sinaloa” No. 121, de fecha 9 de octubre de 2026.)",
+    "contexto_previo": "año 2028. (Ref. Según Decreto No. 509, publicado en el Periódico Oficial “El Estado de"
+  },
+  {
+    "tipo": "insert",
+    "antes": "",
+    "despues": "del año 2028. (Ref. Según Decreto No. 509, publicado en el Periódico Oficial “El Estado",
+    "contexto_previo": "correspondan para dar cumplimiento al presente Decreto, con la debida anticipación para el proceso electoral"
+  },
+  {
+    "tipo": "replace",
+    "antes": "2027.",
+    "despues": "Sinaloa” No. 121, de fecha 9 de octubre de 2026.)",
+    "contexto_previo": "año 2028. (Ref. Según Decreto No. 509, publicado en el Periódico Oficial “El Estado de"
+  },
+  {
+    "tipo": "replace",
+    "antes": "2027,",
+    "despues": "2028,",
+    "contexto_previo": "su encargo por no postularse o no haber sido electos en la elección del año"
+  },
+  {
+    "tipo": "insert",
+    "antes": "",
+    "despues": "(Ref. Según Decreto No. 509, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 121, de fecha 9 de octubre de 2026.)",
+    "contexto_previo": "proporcional al tiempo de su desempeño, siempre y cuando no tengan derecho al retiro voluntario."
+  },
+  {
+    "tipo": "insert",
+    "antes": "",
+    "despues": "(Decreto No. 509, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 121, de fecha 9 de octubre de 2026.) PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”. SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.",
+    "contexto_previo": "públicos a que hace referencia la presente reforma, no podrán postularse para procesos de reelección."
+  },
+  {
+    "tipo": "delete",
+    "antes": "###",
+    "despues": "",
+    "contexto_previo": "el Periódico Oficial Nº 50 de fecha 27 de abril de 1933, que reforma el"
+  },
+  {
+    "tipo": "delete",
+    "antes": "###",
+    "despues": "",
+    "contexto_previo": "el Periódico Oficial Nº 52 de fecha 3 de mayo de 1938, que reforma los"
+  },
+  {
+    "tipo": "delete",
+    "antes": "###",
+    "despues": "",
+    "contexto_previo": "el Periódico Oficial Nº 58 de fecha 19 de mayo de 1938, que reforma el"
+  },
+  {
+    "tipo": "delete",
+    "antes": "###",
+    "despues": "",
+    "contexto_previo": "el Periódico Oficial Nº 2 de fecha 04 de enero de 1940, que reforma el"
+  },
+  {
+    "tipo": "delete",
+    "antes": "###",
+    "despues": "",
+    "contexto_previo": "el Periódico Oficial Nº 19 de fecha 13 de febrero de 1940, que reforma el"
+  },
+  {
+    "tipo": "delete",
+    "antes": "###",
+    "despues": "",
+    "contexto_previo": "el Periódico Oficial Nº. 30 de fecha 09 de marzo de 1940, que reforma el"
+  },
+  {
+    "tipo": "delete",
+    "antes": "###",
+    "despues": "",
+    "contexto_previo": "el Periódico Oficial Nº 61 de fecha 25 de mayo de 1943, que reforma el"
+  },
+  {
+    "tipo": "delete",
+    "antes": "###",
+    "despues": "",
+    "contexto_previo": "el Periódico Oficial Nº 49 de fecha 26 de abril de 1945, que reforma los"
+  },
+  {
+    "tipo": "delete",
+    "antes": "###",
+    "despues": "",
+    "contexto_previo": "el Periódico Oficial Nº 31 de fecha 16 de marzo de 1946, que reforma el"
+  },
+  {
+    "tipo": "replace",
+    "antes": "1946.",
+    "despues": "1946\\.",
+    "contexto_previo": "35\\. Decreto Nº 156, expedido por la Trigésima Octava Legislatura, el 08 de mayo de"
+  },
+  {
+    "tipo": "delete",
+    "antes": "###",
+    "despues": "",
+    "contexto_previo": "el Periódico Oficial Nº 12 de fecha 26 de enero de 1952, que reforma el"
+  },
+  {
+    "tipo": "delete",
+    "antes": "###",
+    "despues": "",
+    "contexto_previo": "el Periódico Oficial Nº 56 de fecha 21 de mayo de 1953, que reforma el"
+  },
+  {
+    "tipo": "delete",
+    "antes": "###",
+    "despues": "",
+    "contexto_previo": "el Periódico Oficial Nº 88 de fecha 04 de agosto de 1953, que reforma el"
+  },
+  {
+    "tipo": "delete",
+    "antes": "###",
+    "despues": "",
+    "contexto_previo": "el Periódico Oficial Nº 74 de fecha 22 de junio de 1983, que reforma el"
+  },
+  {
+    "tipo": "insert",
+    "antes": "",
+    "despues": "192\\. Decreto No. 509, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 121, de fecha 9 de octubre de 2026",
+    "contexto_previo": "Periódico Oficial “El Estado de Sinaloa” No. 111, de fecha 16 de septiembre de 2026."
+  }
+]
