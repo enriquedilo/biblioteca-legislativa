@@ -62,11 +62,56 @@ def norm_sufijo(s):
 
 
 RE_TRANS_TIT = re.compile(r"^#{1,4}\s*(ART[IÍ]CULOS?\s+)?TRANSITORIOS?\s*:?\s*$", re.IGNORECASE)
-ORDINALES = ("ÚNICO UNICO PRIMERO SEGUNDO TERCERO CUARTO QUINTO SEXTO SÉPTIMO SEPTIMO "
-             "OCTAVO NOVENO DÉCIMO DECIMO UNDÉCIMO UNDECIMO DUODÉCIMO DUODECIMO").split()
-RE_TRANS_ART = re.compile(r"^\**\s*(?:ART[IÍ]CULO\s+)?(" + "|".join(ORDINALES) + r")\s*(BIS)?\s*[\.\-—]", re.IGNORECASE)
+# Ordinales simples y compuestos. Los compuestos aparecen pegados
+# ("DECIMOPRIMERO") o separados ("Décimo Primero"); ambas formas se
+# normalizan a "DÉCIMO PRIMERO" para que la etiqueta sea una sola.
+ORD_BASE = ("PRIMERO SEGUNDO TERCERO CUARTO QUINTO SEXTO SÉPTIMO SEPTIMO "
+            "OCTAVO NOVENO").split()
+ORD_DECENA = ("UNDÉCIMO UNDECIMO DUODÉCIMO DUODECIMO DÉCIMO DECIMO "
+              "VIGÉSIMO VIGESIMO TRIGÉSIMO TRIGESIMO CUADRAGÉSIMO CUADRAGESIMO "
+              "QUINCUAGÉSIMO QUINCUAGESIMO").split()
+ORDINALES = ["ÚNICO", "UNICO"] + ORD_BASE + ORD_DECENA
+ORD_TODOS = set(ORDINALES)
+ORD_PAT = (r"(?:(?:" + "|".join(ORD_DECENA) + r")(?:\s*(?:" + "|".join(ORD_BASE) +
+           r"))?|" + "|".join(["ÚNICO", "UNICO"] + ORD_BASE) + r")")
+RE_TRANS_ART = re.compile(r"^\**\s*(?:ART[IÍ]CULO\s+)?(" + ORD_PAT + r")\s*(BIS)?\s*[\.\-—]", re.IGNORECASE)
+# Errata de imprenta: el ordinal viene sin punto ni guion y la oracion sigue
+# en la misma linea ("Tercero Para su conocimiento..."). Solo dentro de los
+# transitorios y solo si lo que sigue abre oracion.
+RE_TRANS_ART_SP = re.compile(r"^\**\s*(?:ART[IÍ]CULO\s+)?(" + ORD_PAT + r")\s+(\w{2,})", re.IGNORECASE)
 # Leyes antiguas que numeran el CUERPO con ordinales en letra (p. ej. Nayarit 31 y 34).
-RE_ART_ORDINAL = re.compile(r"^\**\s*ART[IÍ]CULO\s+(" + "|".join(ORDINALES) + r")\s*(BIS)?\s*[\.\-—]", re.IGNORECASE)
+RE_ART_ORDINAL = re.compile(r"^\**\s*ART[IÍ]CULO\s+(" + ORD_PAT + r")\s*(BIS)?\s*[\.\-—]", re.IGNORECASE)
+
+
+def norm_ordinal(s):
+    """DECIMOPRIMERO / Décimo Primero -> DÉCIMO PRIMERO."""
+    s = " ".join(s.split()).upper()
+    for d in ORD_DECENA:
+        if s.startswith(d) and len(s) > len(d):
+            resto = s[len(d):].strip()
+            if resto in ORD_BASE:
+                return d + " " + resto
+    return s
+
+
+# Palabras con las que abre la oracion de un transitorio. Es lista cerrada a
+# proposito: el ordinal sin punto tambien aparece como adjetivo ("Cuarto
+# Distrito Electoral", "Segundo Capitulo"), y ahi no encabeza nada.
+APERTURAS = set("""EL LA LOS LAS UN UNA UNOS UNAS ESTE ESTA ESTOS ESTAS ESE ESA
+SE EN AL DEL DE PARA POR CON SIN SOBRE DENTRO DESDE HASTA DURANTE SALVO
+CUANDO MIENTRAS TODA TODAS TODO TODOS CUALQUIER AMBOS LO NO ES SON QUEDA
+QUEDAN SERA SERÁ SERAN SERÁN DEBERA DEBERÁ DEBERAN DEBERÁN TRATANDOSE
+TRATÁNDOSE ASIMISMO ADEMAS ADEMÁS CONFORME RESPECTO COMUNIQUESE COMUNÍQUESE
+PUBLIQUESE PUBLÍQUESE REMITASE REMÍTASE NOTIFIQUESE NOTIFÍQUESE TURNESE
+TÚRNESE HAGASE HÁGASE DESE DÉSE CUMPLASE CÚMPLASE ABROGASE ABRÓGASE
+DEROGASE DERÓGASE EXPIDASE EXPÍDASE""".split())
+
+
+def abre_oracion(p):
+    """¿La palabra que sigue al ordinal abre la oracion del transitorio?"""
+    return bool(p) and len(p) > 1 and p[0].isupper() and p.upper() in APERTURAS
+
+
 # Nota de reforma al pie de articulo o inline
 RE_NOTA = re.compile(
     r"\((?:\s*)((?:Ref|Adic|Der|Reformad|Adicionad|Derogad|Fe\s+de\s+erratas)[^)]{0,300}?)\)",
@@ -241,8 +286,13 @@ def articulos_de(texto):
             continue
         mt = RE_TRANS_ART.match(ln.strip())
         if mt and en_trans:
-            num = mt.group(1).upper() + (" BIS" if mt.group(2) else "")
+            num = norm_ordinal(mt.group(1)) + (" BIS" if mt.group(2) else "")
             marcas.append((i, num, "transitorio", pagina))
+            continue
+        if en_trans:
+            ms = RE_TRANS_ART_SP.match(ln.strip())
+            if ms and abre_oracion(ms.group(2)):
+                marcas.append((i, norm_ordinal(ms.group(1)), "transitorio", pagina))
     if not any(t == "cuerpo" for _, _, t, _ in marcas):
         en_trans = False
         pagina = None
@@ -259,7 +309,7 @@ def articulos_de(texto):
                 continue
             mo = RE_ART_ORDINAL.match(ln.strip())
             if mo:
-                extra.append((i, mo.group(1).upper() + (" BIS" if mo.group(2) else ""),
+                extra.append((i, norm_ordinal(mo.group(1)) + (" BIS" if mo.group(2) else ""),
                               "cuerpo", pagina))
         if extra:
             marcas = sorted(marcas + extra, key=lambda x: x[0])
