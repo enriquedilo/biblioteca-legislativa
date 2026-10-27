@@ -1460,7 +1460,9 @@ IV. Cuando se utilicen recursos públicos o se destinen programas sociales de cu
 
 <!-- PAGINA_PDF: 45 -->
 
-Artículo. 93.- Con independencia de lo establecido en el artículo anterior, las elecciones serán nulas por violaciones graves, dolosas y determinantes en los casos previstos en los incisos a, b y c, del párrafo noveno, apartado D, del artículo 135 de la Constitución local.
+### Artículo. 93.-
+
+Con independencia de lo establecido en el artículo anterior, las elecciones serán nulas por violaciones graves, dolosas y determinantes en los casos previstos en los incisos a, b y c, del párrafo noveno, apartado D, del artículo 135 de la Constitución local.
 
 Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones establecidas en este artículo son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
 
