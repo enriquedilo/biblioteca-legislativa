@@ -35,20 +35,6 @@ Falta el visto bueno para empezar, y decidir si se cargan las 74 versiones
 históricas o solo el texto vigente con la cadena de reformas anotada en
 `metadata.json`.
 
-## Correcciones de conversión
-
-Dos aperturas de artículo quedaron sin marca de encabezado en el Markdown, así
-que el texto está pero el artículo no entra al índice ni a las búsquedas:
-
-- **Nayarit 69**, Ley del Fondo de Ahorro para el Retiro Digno, línea 841:
-  `Artículo. 45. Régimen laboral.`
-- **Nayarit 79**, Ley de Justicia Electoral para el Estado de Nayarit, línea
-  1463: `Artículo. 93.- Con independencia de lo establecido…`
-
-En ambos casos el original imprime «Artículo.» con punto intruso. El índice ya
-tolera esa errata cuando la línea viene marcada como encabezado; lo que falta
-es la marca.
-
 ## Calidad del índice
 
 - **398 números de artículo duplicados** dentro de un mismo ordenamiento
