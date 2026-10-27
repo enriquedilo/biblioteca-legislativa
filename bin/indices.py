@@ -447,11 +447,17 @@ def _nombres():
     reg = []
     for idl in ids():
         meta, _ = leer(idl)
-        for n in {meta.get("nombre_oficial"), meta.get("nombre_catalogo")}:
-            if not n or len(n) < 12:
+        vistos = set()
+        # Orden fijo y nombre de catalogo primero. Recorrer un conjunto hacia
+        # que el nombre elegido cambiara de una corrida a otra -el orden de
+        # iteracion de un set depende del hash del proceso-, y remisiones.json
+        # salia distinto cada vez sin que cambiara ningun dato.
+        for n in (meta.get("nombre_catalogo"), meta.get("nombre_oficial")):
+            if not n or len(n) < 12 or n in vistos:
                 continue
+            vistos.add(n)
             reg.append((sin_acentos(n), int(idl), n))
-    reg.sort(key=lambda r: -len(r[0]))
+    reg.sort(key=lambda r: (-len(r[0]), r[0], r[1]))
     return reg
 
 
