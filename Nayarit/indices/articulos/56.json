@@ -4,10 +4,10 @@
  "nombre_oficial": null,
  "version": "f348ecf105b5727111a25885d6cd824c0db0627e807174b81c1297c040bd8962",
  "ruta_texto": "Nayarit/ordenamientos/56/actual/texto.md",
- "generado": "2026-10-15T00:32:26.175745+00:00",
+ "generado": "2026-10-27T19:56:58.265981+00:00",
  "conteo": {
   "cuerpo": 25,
-  "transitorios": 0,
+  "transitorios": 2,
   "notas_de_reforma": 0
  },
  "articulos": [
@@ -232,8 +232,26 @@
    "tipo": "cuerpo",
    "pagina_pdf": 4,
    "linea_inicio": 163,
+   "linea_fin": 168,
+   "caracteres": 273,
+   "reformas": []
+  },
+  {
+   "articulo": "PRIMERO",
+   "tipo": "transitorio",
+   "pagina_pdf": 4,
+   "linea_inicio": 169,
+   "linea_fin": 170,
+   "caracteres": 127,
+   "reformas": []
+  },
+  {
+   "articulo": "SEGUNDO",
+   "tipo": "transitorio",
+   "pagina_pdf": 4,
+   "linea_inicio": 171,
    "linea_fin": 196,
-   "caracteres": 1476,
+   "caracteres": 1072,
    "reformas": []
   }
  ]
