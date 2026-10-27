@@ -4,11 +4,11 @@
  "nombre_oficial": null,
  "version": "fa359e5febc36b5fc44b1406d60d7c7fbfd4107e67e9850990b3cfc561b4c939",
  "ruta_texto": "Sinaloa/ordenamientos/65/actual/texto.md",
- "generado": "2026-10-15T00:32:20.303263+00:00",
+ "generado": "2026-10-27T19:56:51.970314+00:00",
  "conteo": {
   "cuerpo": 99,
-  "transitorios": 14,
-  "notas_de_reforma": 19
+  "transitorios": 40,
+  "notas_de_reforma": 21
  },
  "articulos": [
   {
@@ -1113,8 +1113,17 @@
    "tipo": "transitorio",
    "pagina_pdf": 30,
    "linea_inicio": 1055,
-   "linea_fin": 1216,
-   "caracteres": 17074,
+   "linea_fin": 1060,
+   "caracteres": 559,
+   "reformas": []
+  },
+  {
+   "articulo": "DÉCIMO PRIMERO",
+   "tipo": "transitorio",
+   "pagina_pdf": 31,
+   "linea_inicio": 1061,
+   "linea_fin": 1070,
+   "caracteres": 1898,
    "reformas": [
     {
      "tipo": "adicion",
@@ -1122,14 +1131,159 @@
      "po_numero": "146",
      "fecha": "2020-12-04",
      "nota": "Adic. Según Decreto No. 529, publicado en el P.O. No. 146, Primera Sección, del 04 de diciembre de 2020"
-    },
+    }
+   ]
+  },
+  {
+   "articulo": "DÉCIMO SEGUNDO",
+   "tipo": "transitorio",
+   "pagina_pdf": 31,
+   "linea_inicio": 1071,
+   "linea_fin": 1076,
+   "caracteres": 453,
+   "reformas": []
+  },
+  {
+   "articulo": "DÉCIMO TERCERO",
+   "tipo": "transitorio",
+   "pagina_pdf": 32,
+   "linea_inicio": 1077,
+   "linea_fin": 1080,
+   "caracteres": 774,
+   "reformas": []
+  },
+  {
+   "articulo": "DÉCIMO CUARTO",
+   "tipo": "transitorio",
+   "pagina_pdf": 32,
+   "linea_inicio": 1081,
+   "linea_fin": 1090,
+   "caracteres": 908,
+   "reformas": [
     {
      "tipo": "reforma",
      "decreto": "529",
      "po_numero": "146",
      "fecha": "2020-12-04",
      "nota": "Ref. Según Decreto No. 529, publicado en el P.O. No. 146, Primera Sección, del 04 de diciembre de 2020"
-    },
+    }
+   ]
+  },
+  {
+   "articulo": "DÉCIMO QUINTO",
+   "tipo": "transitorio",
+   "pagina_pdf": 33,
+   "linea_inicio": 1091,
+   "linea_fin": 1100,
+   "caracteres": 840,
+   "reformas": []
+  },
+  {
+   "articulo": "DÉCIMO SEXTO",
+   "tipo": "transitorio",
+   "pagina_pdf": 33,
+   "linea_inicio": 1101,
+   "linea_fin": 1106,
+   "caracteres": 881,
+   "reformas": []
+  },
+  {
+   "articulo": "DÉCIMO SÉPTIMO",
+   "tipo": "transitorio",
+   "pagina_pdf": 33,
+   "linea_inicio": 1107,
+   "linea_fin": 1108,
+   "caracteres": 205,
+   "reformas": []
+  },
+  {
+   "articulo": "DÉCIMO OCTAVO",
+   "tipo": "transitorio",
+   "pagina_pdf": 33,
+   "linea_inicio": 1109,
+   "linea_fin": 1110,
+   "caracteres": 110,
+   "reformas": []
+  },
+  {
+   "articulo": "DÉCIMO NOVENO",
+   "tipo": "transitorio",
+   "pagina_pdf": 33,
+   "linea_inicio": 1111,
+   "linea_fin": 1116,
+   "caracteres": 613,
+   "reformas": []
+  },
+  {
+   "articulo": "VIGÉSIMO",
+   "tipo": "transitorio",
+   "pagina_pdf": 34,
+   "linea_inicio": 1117,
+   "linea_fin": 1118,
+   "caracteres": 245,
+   "reformas": []
+  },
+  {
+   "articulo": "VIGÉSIMO PRIMERO",
+   "tipo": "transitorio",
+   "pagina_pdf": 34,
+   "linea_inicio": 1119,
+   "linea_fin": 1120,
+   "caracteres": 300,
+   "reformas": []
+  },
+  {
+   "articulo": "VIGÉSIMO SEGUNDO",
+   "tipo": "transitorio",
+   "pagina_pdf": 34,
+   "linea_inicio": 1121,
+   "linea_fin": 1128,
+   "caracteres": 1056,
+   "reformas": []
+  },
+  {
+   "articulo": "VIGÉSIMO TERCERO",
+   "tipo": "transitorio",
+   "pagina_pdf": 34,
+   "linea_inicio": 1129,
+   "linea_fin": 1134,
+   "caracteres": 460,
+   "reformas": [
+    {
+     "tipo": "reforma",
+     "decreto": "529",
+     "po_numero": "146",
+     "fecha": "2020-12-04",
+     "nota": "Ref. Según Decreto No. 529, publicado en el P.O. No. 146, Primera Sección, del 04 de diciembre de 2020"
+    }
+   ]
+  },
+  {
+   "articulo": "VIGÉSIMO CUARTO",
+   "tipo": "transitorio",
+   "pagina_pdf": 35,
+   "linea_inicio": 1135,
+   "linea_fin": 1138,
+   "caracteres": 632,
+   "reformas": []
+  },
+  {
+   "articulo": "VIGÉSIMO QUINTO",
+   "tipo": "transitorio",
+   "pagina_pdf": 35,
+   "linea_inicio": 1139,
+   "linea_fin": 1140,
+   "caracteres": 327,
+   "reformas": []
+  },
+  {
+   "articulo": "VIGÉSIMO SEXTO",
+   "tipo": "transitorio",
+   "pagina_pdf": 35,
+   "linea_inicio": 1141,
+   "linea_fin": 1142,
+   "caracteres": 529,
+   "reformas": [
     {
      "tipo": "reforma",
      "decreto": "93",
@@ -1138,6 +1292,104 @@
      "nota": "Ref. Por Decreto No. 93, publicado en el P.O. No. 017 Edición Vespertina del 03 de febrero de 2017"
     }
    ]
+  },
+  {
+   "articulo": "VIGÉSIMO SÉPTIMO",
+   "tipo": "transitorio",
+   "pagina_pdf": 35,
+   "linea_inicio": 1143,
+   "linea_fin": 1144,
+   "caracteres": 362,
+   "reformas": []
+  },
+  {
+   "articulo": "VIGÉSIMO OCTAVO",
+   "tipo": "transitorio",
+   "pagina_pdf": 35,
+   "linea_inicio": 1145,
+   "linea_fin": 1148,
+   "caracteres": 307,
+   "reformas": []
+  },
+  {
+   "articulo": "VIGÉSIMO NOVENO",
+   "tipo": "transitorio",
+   "pagina_pdf": 35,
+   "linea_inicio": 1149,
+   "linea_fin": 1160,
+   "caracteres": 1015,
+   "reformas": [
+    {
+     "tipo": "reforma",
+     "decreto": "93",
+     "po_numero": "017",
+     "fecha": "2017-02-03",
+     "nota": "Ref. Por Decreto No. 93, publicado en el P.O. No. 017 Edición Vespertina del 03 de febrero de 2017"
+    }
+   ]
+  },
+  {
+   "articulo": "TRIGÉSIMO",
+   "tipo": "transitorio",
+   "pagina_pdf": 36,
+   "linea_inicio": 1161,
+   "linea_fin": 1168,
+   "caracteres": 709,
+   "reformas": []
+  },
+  {
+   "articulo": "TRIGÉSIMO PRIMERO",
+   "tipo": "transitorio",
+   "pagina_pdf": 37,
+   "linea_inicio": 1169,
+   "linea_fin": 1176,
+   "caracteres": 1073,
+   "reformas": []
+  },
+  {
+   "articulo": "TRIGÉSIMO SEGUNDO",
+   "tipo": "transitorio",
+   "pagina_pdf": 37,
+   "linea_inicio": 1177,
+   "linea_fin": 1180,
+   "caracteres": 428,
+   "reformas": []
+  },
+  {
+   "articulo": "TRIGÉSIMO TERCERO",
+   "tipo": "transitorio",
+   "pagina_pdf": 37,
+   "linea_inicio": 1181,
+   "linea_fin": 1186,
+   "caracteres": 638,
+   "reformas": []
+  },
+  {
+   "articulo": "TRIGÉSIMO CUARTO",
+   "tipo": "transitorio",
+   "pagina_pdf": 37,
+   "linea_inicio": 1187,
+   "linea_fin": 1188,
+   "caracteres": 317,
+   "reformas": []
+  },
+  {
+   "articulo": "TRIGÉSIMO QUINTO",
+   "tipo": "transitorio",
+   "pagina_pdf": 37,
+   "linea_inicio": 1189,
+   "linea_fin": 1192,
+   "caracteres": 135,
+   "reformas": []
+  },
+  {
+   "articulo": "TRIGÉSIMO SEXTO",
+   "tipo": "transitorio",
+   "pagina_pdf": 38,
+   "linea_inicio": 1193,
+   "linea_fin": 1216,
+   "caracteres": 1240,
+   "reformas": []
   },
   {
    "articulo": "PRIMERO",
