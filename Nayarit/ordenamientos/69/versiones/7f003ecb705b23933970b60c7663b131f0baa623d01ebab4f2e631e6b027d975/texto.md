@@ -838,7 +838,9 @@ La Junta Directiva resolverá sobre las solicitudes de licencia que le presente 
 
 Impedimento. El Presidente de la Junta Directiva deberá informar al titular del Poder Ejecutivo y a la misma Junta sobre el incumplimiento de alguno de los requisitos que debe cubrir para su designación, así como sobre cualquier impedimento que le sobrevenga.
 
-Artículo. 45. Régimen laboral. Las relaciones laborales entre el Fondo y sus trabajadores de las áreas administrativas, independientemente de la naturaleza
+### Artículo. 45.
+
+Régimen laboral. Las relaciones laborales entre el Fondo y sus trabajadores de las áreas administrativas, independientemente de la naturaleza
 
 <!-- PAGINA_PDF: 34 -->
 
