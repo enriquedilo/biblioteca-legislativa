@@ -1,0 +1,66 @@
+# Acervo IEEN
+
+Normatividad del Instituto Estatal Electoral de Nayarit. Es el cuarto acervo
+de la biblioteca y sigue la misma estructura que Sinaloa, Nayarit y Federal:
+`ordenamientos/<id>/versiones/<hash>/` con el enlace `actual` apuntando a la
+versión vigente, e `indices/` como capa derivada regenerable.
+
+## De dónde sale
+
+`bin/catalogo_ieen.py` lee las dos páginas de normatividad del Instituto y
+escribe `IEEN/catalogo/normatividad.json`. Ese archivo es la fuente del
+acervo: dice qué documentos hay, cuál es la versión vigente de cada uno y
+qué acuerdos lo han reformado.
+
+La versión vigente de un reglamento suele ser el anexo del acuerdo que lo
+reformó, no un PDF propio. **El sitio no lista los anexos en orden
+constante**: unos van del más viejo al más nuevo y otros al revés. La versión
+vigente se elige por fecha, nunca por posición en la lista.
+
+## Numeración
+
+El identificador es estable y viene del catálogo, no del orden de carga:
+
+- `normatividad-N` → id **N** (1 a 51)
+- `interna-N` → id **100 + N** (101 a 121)
+
+Hay huecos a propósito. Siete documentos de «Legislación Local» del catálogo
+del IEEN son leyes del Congreso de Nayarit que la biblioteca ya tiene por su
+fuente oficial, y no se duplican: los ids 1, 2, 3, 4, 5, 7 y 8 quedan vacíos,
+y `metadata` del catálogo dice a qué ordenamiento de Nayarit corresponde cada
+uno. El id 6, el Compendio Electoral 2021, queda fuera por ser una
+recopilación de esas mismas leyes en un PDF de 207 MB.
+
+Volver a correr el extractor siempre devuelve el mismo id para el mismo
+documento. Si el Instituto da de alta uno nuevo, toma el número que le asigne
+el catálogo y los demás no se mueven.
+
+## Secciones
+
+Un solo acervo, con el campo `seccion` en `metadata.json`:
+
+- `electoral` — los 43 reglamentos y lineamientos de `/normatividad/IEEN`.
+- `interna` — los 21 estatutos, manuales, procedimientos y lineamientos
+  administrativos de `/normatividad/Interna`.
+
+No se parten en dos acervos: una sola capa de índices y una sola entrada en
+la vigilancia. Cuando una consulta sea estrictamente electoral, se filtra por
+sección.
+
+## Metadata
+
+Además de los campos que ya usan los otros acervos —`id`, `nombre_catalogo`,
+`nombre_oficial`, `fuente`, `urls`, `fecha_descarga`, `hash_sha256`,
+`version`, `validacion`, `tipo`—, este acervo guarda:
+
+- `seccion`: `electoral` o `interna`.
+- `acuerdo`: el acuerdo del Consejo o de la Junta que aprobó la versión
+  vigente, por ejemplo `IEEN-CLE-015/2025`.
+- `reformas`: la cadena de acuerdos que han reformado el ordenamiento, cada
+  uno con su fecha y su URL. **No se convierten**: quedan anotados para poder
+  promover una versión anterior el día que haga falta, sin rehacer nada.
+
+## Lo que no está aquí
+
+Los acuerdos del Consejo Local Electoral. Son cientos por año y son materia
+de consulta puntual, no de acervo.
