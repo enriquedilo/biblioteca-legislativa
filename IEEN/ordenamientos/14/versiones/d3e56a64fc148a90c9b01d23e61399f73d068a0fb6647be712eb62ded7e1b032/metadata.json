@@ -1,0 +1,70 @@
+{
+  "id": 14,
+  "nombre_catalogo": "Reglamento de Quejas y Denuncias.",
+  "nombre_oficial": "REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT",
+  "nombre_catalogo_sitio": "Reglamento de Quejas y Denuncias.",
+  "fuente": "https://ieenayarit.org/normatividad/IEEN",
+  "urls": {
+    "pdf": "https://ieenayarit.org/PDF/2023/Acuerdos/IEEN-CLE-072-2023-A1.pdf",
+    "word": null
+  },
+  "url_pdf": "https://ieenayarit.org/PDF/2023/Acuerdos/IEEN-CLE-072-2023-A1.pdf",
+  "url_word": null,
+  "fecha_descarga": "2026-11-09T20:00:29.490085+00:00",
+  "hash_sha256": {
+    "pdf": "d3e56a64fc148a90c9b01d23e61399f73d068a0fb6647be712eb62ded7e1b032"
+  },
+  "version": "d3e56a64fc148a90c9b01d23e61399f73d068a0fb6647be712eb62ded7e1b032",
+  "validacion": "Conversión conservada; cotejo visual de muestra; incidencias informativas registradas",
+  "tipo": "reglamento",
+  "seccion": "electoral",
+  "seccion_sitio": "normatividad",
+  "secciones_sitio": [
+    "normatividad"
+  ],
+  "acuerdo": "IEEN-CLE-072/2023",
+  "reformas": [
+    {
+      "acuerdo": "IEEN-CLE-030/2017",
+      "fecha": "2017-02-25",
+      "url": "https://ieenayarit.org/PDF/2017/Acuerdos/ACU-CLE-030-2017-A1.pdf"
+    },
+    {
+      "acuerdo": "IEEN-CLE-033/2017",
+      "fecha": "2017-03-05",
+      "url": "https://ieenayarit.org/PDF/2017/Acuerdos/ACU-CLE-033-2017-A1.pdf"
+    },
+    {
+      "acuerdo": "IEEN-CLE-012/2021",
+      "fecha": "2021-01-07",
+      "url": "https://ieenayarit.org/PDF/2021/Acuerdos/ReglamentoQyD_070121.pdf"
+    },
+    {
+      "acuerdo": "IEEN-CLE-072/2023",
+      "fecha": "2023-08-21",
+      "url": "https://ieenayarit.org/PDF/2023/Acuerdos/IEEN-CLE-072-2023-A1.pdf"
+    }
+  ],
+  "fecha_catalogo_sin_interpretar": "2023-08-21",
+  "decreto_numero": null,
+  "po_publicacion": null,
+  "ultima_reforma": null,
+  "abroga": [
+    {
+      "nombre": "Reglamento de Quejas de Denuncias del IEEN",
+      "fecha": null,
+      "po_numero": null,
+      "nota": "SEGUNDO. Con la entrada en vigor del presente Reglamento, queda abrogado el Reglamento de Quejas de Denuncias del IEEN, aprobado el 25 de febrero de 2017, por el Consejo Local, publicado en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit, el 02 de marzo 2017. 23",
+      "pagina_pdf": 23
+    }
+  ],
+  "slug": "reglamento-de-quejas-y-denuncias",
+  "fecha_revision_conversion": "2026-11-09T20:01:50.333101+00:00",
+  "conversor": "bin/ieen/convertir.py; Poppler layout y controles conservadores Nayarit",
+  "origen_markdown": "PDF original; sin OCR; erratas conservadas",
+  "procedencia_metadata": {
+    "acuerdo": "catálogo IEEN, versión vigente",
+    "reformas": "cadena íntegra del catálogo IEEN, no convertida",
+    "nombre_oficial": "Título impreso cotejado en muestra; página 2 para ID 16, página 1 para los demás."
+  }
+}

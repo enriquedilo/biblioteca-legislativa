@@ -1,0 +1,52 @@
+{
+  "id": 10,
+  "nombre_catalogo": "Reglamento de Sesiones de la Junta Estatal Ejecutiva del Instituto Estatal Electoral del Estado de Nayarit.",
+  "nombre_oficial": "Reglamento de Sesiones de la Junta Estatal Ejecutiva del Instituto Estatal Electoral del Estado de Nayarit.",
+  "nombre_catalogo_sitio": "Reglamento de Sesiones de la Junta Estatal Ejecutiva del Instituto Estatal Electoral del Estado de Nayarit.",
+  "fuente": "https://ieenayarit.org/normatividad/IEEN",
+  "urls": {
+    "pdf": "https://ieenayarit.org/PDF/2017/ReglamentoSJEE.pdf",
+    "word": null
+  },
+  "url_pdf": "https://ieenayarit.org/PDF/2017/ReglamentoSJEE.pdf",
+  "url_word": null,
+  "fecha_descarga": "2026-11-09T20:00:27.992026+00:00",
+  "hash_sha256": {
+    "pdf": "ba9f9bcb574cff502e3bd7651cf394d1203ed374a718fc1f9070a2d64ceffbb2"
+  },
+  "version": "ba9f9bcb574cff502e3bd7651cf394d1203ed374a718fc1f9070a2d64ceffbb2",
+  "validacion": "Conversión conservada; cotejo visual de muestra; incidencias informativas registradas",
+  "tipo": "reglamento",
+  "seccion": "electoral",
+  "seccion_sitio": "normatividad",
+  "secciones_sitio": [
+    "normatividad"
+  ],
+  "acuerdo": "IEEN-CLE-009/2018",
+  "reformas": [
+    {
+      "acuerdo": "IEEN-CLE-184/2017",
+      "fecha": "2017-12-18",
+      "url": "https://ieenayarit.org/PDF/2017/ReglamentoSJEE-.pdf"
+    },
+    {
+      "acuerdo": "IEEN-CLE-009/2018",
+      "fecha": "2018-01-26",
+      "url": "https://ieenayarit.org/PDF/2017/ReglamentoSJEE.pdf"
+    }
+  ],
+  "fecha_catalogo_sin_interpretar": "2018-01-26",
+  "decreto_numero": null,
+  "po_publicacion": null,
+  "ultima_reforma": null,
+  "abroga": [],
+  "slug": "reglamento-de-sesiones-de-la-junta-estatal-ejecutiva-del-instituto-estatal-electoral-del-estado-de-nayarit",
+  "fecha_revision_conversion": "2026-11-09T20:01:49.440058+00:00",
+  "conversor": "bin/ieen/convertir.py; Poppler layout y controles conservadores Nayarit",
+  "origen_markdown": "PDF original; sin OCR; erratas conservadas",
+  "procedencia_metadata": {
+    "acuerdo": "catálogo IEEN, versión vigente",
+    "reformas": "cadena íntegra del catálogo IEEN, no convertida",
+    "nombre_oficial": "Título impreso cotejado en muestra; página 2 para ID 16, página 1 para los demás."
+  }
+}

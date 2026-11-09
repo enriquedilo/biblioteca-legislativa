@@ -12,7 +12,7 @@ import json, os, re, sys, sqlite3, unicodedata
 from datetime import datetime, timezone
 
 RAIZ = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
-ENTIDADES_CONOCIDAS = ("Sinaloa", "Nayarit", "Federal")
+ENTIDADES_CONOCIDAS = ("Sinaloa", "Nayarit", "Federal", "IEEN")
 ENTIDAD = "Sinaloa"
 SIN = os.path.join(RAIZ, ENTIDAD)
 ORD = os.path.join(SIN, "ordenamientos")
