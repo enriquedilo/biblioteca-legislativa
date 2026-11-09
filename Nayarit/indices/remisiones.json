@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-27T21:02:03.192854+00:00",
+ "generado": "2026-11-09T23:49:24.555285+00:00",
  "aristas": 441,
  "nota": "Mencion nominal de un ordenamiento de la biblioteca dentro del texto de otro. Es deteccion lexica: no distingue remision normativa de cita incidental.",
  "remisiones": [
@@ -1278,7 +1278,26 @@
     {
      "articulo": "85",
      "tipo": "cuerpo",
-     "pagina_pdf": 65
+     "pagina_pdf": 66
+    }
+   ]
+  },
+  {
+   "origen": 5,
+   "origen_nombre": "Constitución Política del Estado Libre y Soberano de Nayarit",
+   "destino": 130,
+   "destino_nombre": "Ley Orgánica del Poder Judicial del Estado de Nayarit",
+   "menciones": 3,
+   "articulos": [
+    {
+     "articulo": "83",
+     "tipo": "cuerpo",
+     "pagina_pdf": 60
+    },
+    {
+     "articulo": "SEGUNDO",
+     "tipo": "transitorio",
+     "pagina_pdf": 182
     }
    ]
   },
@@ -1972,12 +1991,12 @@
     {
      "articulo": "SEGUNDO",
      "tipo": "transitorio",
-     "pagina_pdf": 149
+     "pagina_pdf": 151
     },
     {
      "articulo": "TERCERO",
      "tipo": "transitorio",
-     "pagina_pdf": 152
+     "pagina_pdf": 154
     }
    ]
   },
@@ -1991,26 +2010,12 @@
     {
      "articulo": "SEGUNDO",
      "tipo": "transitorio",
-     "pagina_pdf": 159
+     "pagina_pdf": 161
     },
     {
      "articulo": "QUINTO",
      "tipo": "transitorio",
-     "pagina_pdf": 164
-    }
-   ]
-  },
-  {
-   "origen": 5,
-   "origen_nombre": "Constitución Política del Estado Libre y Soberano de Nayarit",
-   "destino": 130,
-   "destino_nombre": "Ley Orgánica del Poder Judicial del Estado de Nayarit",
-   "menciones": 2,
-   "articulos": [
-    {
-     "articulo": "83",
-     "tipo": "cuerpo",
-     "pagina_pdf": 60
+     "pagina_pdf": 167
     }
    ]
   },
@@ -2024,12 +2029,12 @@
     {
      "articulo": "7 BIS",
      "tipo": "cuerpo",
-     "pagina_pdf": 16
+     "pagina_pdf": 15
     },
     {
      "articulo": "SEGUNDO",
      "tipo": "transitorio",
-     "pagina_pdf": 159
+     "pagina_pdf": 161
     }
    ]
   },
@@ -2043,12 +2048,12 @@
     {
      "articulo": "CUARTO",
      "tipo": "transitorio",
-     "pagina_pdf": 148
+     "pagina_pdf": 150
     },
     {
      "articulo": "SEGUNDO",
      "tipo": "transitorio",
-     "pagina_pdf": 170
+     "pagina_pdf": 172
     }
    ]
   },
@@ -3472,6 +3477,25 @@
    ]
   },
   {
+   "origen": 130,
+   "origen_nombre": "Ley Orgánica del Poder Judicial del Estado de Nayarit",
+   "destino": 5,
+   "destino_nombre": "Constitución Política del Estado Libre y Soberano de Nayarit",
+   "menciones": 2,
+   "articulos": [
+    {
+     "articulo": "5",
+     "tipo": "cuerpo",
+     "pagina_pdf": 3
+    },
+    {
+     "articulo": "ÚNICO",
+     "tipo": "transitorio",
+     "pagina_pdf": 130
+    }
+   ]
+  },
+  {
    "origen": 131,
    "origen_nombre": "Ley Orgánica del Tribunal de Justicia Administrativa de Nayarit",
    "destino": 114,
@@ -3914,7 +3938,7 @@
     {
      "articulo": "CUARTO",
      "tipo": "transitorio",
-     "pagina_pdf": 146
+     "pagina_pdf": 148
     }
    ]
   },
@@ -3928,7 +3952,7 @@
     {
      "articulo": "SEGUNDO",
      "tipo": "transitorio",
-     "pagina_pdf": 169
+     "pagina_pdf": 171
     }
    ]
   },
@@ -3956,7 +3980,7 @@
     {
      "articulo": "SEGUNDO",
      "tipo": "transitorio",
-     "pagina_pdf": 159
+     "pagina_pdf": 161
     }
    ]
   },
@@ -5062,7 +5086,7 @@
     {
      "articulo": "34",
      "tipo": "cuerpo",
-     "pagina_pdf": 28
+     "pagina_pdf": 30
     }
    ]
   },
@@ -5076,7 +5100,7 @@
     {
      "articulo": "160",
      "tipo": "cuerpo",
-     "pagina_pdf": 71
+     "pagina_pdf": 74
     }
    ]
   },
@@ -5090,7 +5114,7 @@
     {
      "articulo": "28",
      "tipo": "cuerpo",
-     "pagina_pdf": 26
+     "pagina_pdf": 28
     }
    ]
   },
@@ -7339,20 +7363,6 @@
    "origen_nombre": "Ley Orgánica del Poder Judicial del Estado de Nayarit",
    "destino": 114,
    "destino_nombre": "Ley de Responsabilidades Administrativas del Estado de Nayarit",
-   "menciones": 1,
-   "articulos": [
-    {
-     "articulo": "5",
-     "tipo": "cuerpo",
-     "pagina_pdf": 3
-    }
-   ]
-  },
-  {
-   "origen": 130,
-   "origen_nombre": "Ley Orgánica del Poder Judicial del Estado de Nayarit",
-   "destino": 5,
-   "destino_nombre": "Constitución Política del Estado Libre y Soberano de Nayarit",
    "menciones": 1,
    "articulos": [
     {
