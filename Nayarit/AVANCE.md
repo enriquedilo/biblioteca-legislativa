@@ -171,3 +171,7 @@ El piloto se reporta antes de iniciar los lotes. No se ha autorizado ni aplicado
 | 14 | 137 | Ley Orgánica del Poder Legislativo del Estado de Nayarit | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 14 | 138 | Ley de Hacienda Municipal del Estado de Nayarit | procesado_con_incidencias | Conversión conservada; cotejo Word/PDF con incidencias |
 | 0 | 139 | Ley Municipal para el Estado de Nayarit | piloto_revisado | Piloto corregido v2: conservación verificada; cotejo Word/PDF con incidencias |
+
+## Actualización 2026-11-09
+
+Actualizados IDs 5, 24, 48 y 130 desde enlaces vigentes del catálogo capturado 2026-11-09. Versiones anteriores preservadas. ID 139 sin cambios.
