@@ -22,7 +22,7 @@ Uso:
     python3 bin/vigilancia.py [--entidad Federal] [--forzar-descarga]
 """
 import argparse, hashlib, json, os, re, sys, time
-import urllib.request, urllib.error
+import urllib.request, urllib.error, urllib.parse
 from datetime import datetime, timezone
 
 RAIZ = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
@@ -195,7 +195,43 @@ def revisar(item, previo, forzar):
     return obs, hallazgos
 
 
-def revisar_catalogo(entidad, previo):
+def prefijos_de(inventario_ent):
+    """(host, primer segmento) de las URL que el acervo ya tiene para esa
+    entidad. Con eso se distingue un enlace del catálogo de uno del menú del
+    sitio: en Sinaloa, el único PDF del HTML es «Estadística Parlamentaria»,
+    que cambia de número cada mes y no es un ordenamiento."""
+    pref = set()
+    for it in inventario_ent:
+        for u in (it.get("url_pdf"), it.get("url_word")):
+            if not u:
+                continue
+            try:
+                p = urllib.parse.urlparse(u)
+            except ValueError:
+                continue
+            seg = [x for x in p.path.split("/") if x]
+            if p.netloc and seg:
+                pref.add((p.netloc.lower(), seg[0].lower()))
+    return pref
+
+
+def del_catalogo(enlaces, url_catalogo, prefijos):
+    """Se queda con los enlaces que viven donde viven los ordenamientos."""
+    if not prefijos:
+        return enlaces
+    dentro = []
+    for e in enlaces:
+        try:
+            a = urllib.parse.urlparse(urllib.parse.urljoin(url_catalogo, e))
+        except ValueError:
+            continue
+        seg = [x for x in a.path.split("/") if x]
+        if seg and (a.netloc.lower(), seg[0].lower()) in prefijos:
+            dentro.append(e)
+    return dentro
+
+
+def revisar_catalogo(entidad, previo, inventario_ent=()):
     """Detecta movimiento en la página de catálogo (posibles altas o bajas)."""
     url = CATALOGOS.get(entidad)
     if not url:
@@ -207,8 +243,15 @@ def revisar_catalogo(entidad, previo):
                   "url": url, "detalle": err or "sin cuerpo"}])
     # Comparar la lista de documentos enlazados, no el HTML entero: una fecha
     # o un banner en la portada no son un alta ni una baja de ordenamiento.
-    enlaces = sorted(set(m.group(1).decode("utf-8", "replace").lower()
-                         for m in RE_ENLACE.finditer(cuerpo)))
+    crudos = sorted(set(m.group(1).decode("utf-8", "replace").lower()
+                        for m in RE_ENLACE.finditer(cuerpo)))
+    enlaces = del_catalogo(crudos, url, prefijos_de(inventario_ent))
+    if not enlaces:
+        # El catálogo de Sinaloa se arma con JavaScript desde otro host: su
+        # lista nunca está en el HTML servido. Se deja constancia y no se
+        # reporta nada, en vez de vigilar lo primero que se parezca a un
+        # documento. Las altas de Sinaloa se detectan por otra vía.
+        return ({"lista_no_observable": True, "enlaces_crudos": len(crudos)}, [])
     if enlaces:
         sha = hashlib.sha256("\n".join(enlaces).encode("utf-8")).hexdigest()
         obs = {"sha256_enlaces": sha, "enlaces": len(enlaces)}
@@ -319,7 +362,8 @@ def main():
         if not inv:
             notas.append("%s: no se encontró el árbol de ordenamientos." % ent)
             continue
-        obs_cat, hc = revisar_catalogo(ent, (previo.get("catalogos") or {}).get(ent))
+        obs_cat, hc = revisar_catalogo(
+            ent, (previo.get("catalogos") or {}).get(ent), inv)
         if obs_cat:
             nuevo["catalogos"][ent] = obs_cat
         if not primera:
