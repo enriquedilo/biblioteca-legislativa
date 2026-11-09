@@ -59,6 +59,28 @@ Electoral, que ya están aquí. Alcance acordado:
 - Las URL del INE no pudieron verificarse desde el entorno de trabajo porque
   el proxy bloquea `sidj.ine.mx`. Se verifican al llegar al paso 4.
 
+## Skill
+
+El acervo del IEEN obliga a actualizar la skill `biblioteca-legislativa` en
+dos momentos:
+
+1. **Al fusionar el primer lote**: la descripción, que hoy dice «Sinaloa,
+   Nayarit y Federal». Es lo que decide si la skill se activa; sin ese cambio
+   una pregunta por un reglamento del IEEN puede no invocarla.
+2. **Al terminar los 64**: conteos reales, la numeración con huecos, que
+   siete números del catálogo del IEEN corresponden a ordenamientos de
+   Nayarit y no a IEEN, las dos secciones, el rotulado de artículos de los
+   reglamentos —que se conoce con el lote 1— y la receta de consulta
+   electoral cruzando Nayarit, Federal e IEEN en bloques rotulados.
+
+La skill instalada se actualiza con una tarjeta de revisión, no editando
+archivos. La copia de `skill/biblioteca-legislativa/SKILL.md` está
+desincronizada: hoy tiene una estructura vieja, de tres entidades, sin la
+regla de los enlaces `actual/` ni la de no advertir sobre cotejo. **Decidido:
+el repositorio queda público y se publica todo**, así que esa copia se deja
+idéntica a la instalada, con una nota de que es copia publicada y no la
+fuente.
+
 ## Calidad del índice
 
 - **398 números de artículo duplicados** dentro de un mismo ordenamiento
