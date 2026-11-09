@@ -84,6 +84,49 @@ cuando la URL archivada de un ordenamiento deja de estar enlazada. **Sinaloa
 sigue sin esa protección**: su catálogo se arma con JavaScript desde otro
 host y su lista no es observable desde el HTML servido.
 
+## Auditoría integral — pendiente mayor
+
+**La biblioteca se ha venido corrigiendo a parches, cada uno a raíz del error
+que lo destapó.** Han funcionado, pero ninguno nació de una revisión
+sistemática: el índice que se detenía en DUODÉCIMO llevaba meses perdiendo
+2,651 transitorios, las remisiones salían distintas en cada corrida sin que
+nadie lo notara, y cuatro ordenamientos de Nayarit quedaron congelados dos
+meses mientras la alerta semanal decía «algo cambió» sin decir qué. Los tres
+se descubrieron de casualidad, no por buscarlos.
+
+Hace falta una pasada completa y de una sola vez, antes de que el acervo
+crezca más. Lo que debe cubrir, con lo que hoy sabemos:
+
+**Integridad de los punteros.** Cada URL archivada contra el catálogo vigente,
+en los cuatro acervos. Incluye resolver la observabilidad del catálogo de
+Sinaloa, hoy el único sin protección contra el enlace congelado.
+
+**Vigencia real.** Fecha de última reforma archivada contra la que publica
+cada fuente, ordenamiento por ordenamiento. No solo los que cambiaron de
+enlace: también los que la fuente actualizó sin que lo notáramos.
+
+**Altas que nunca entraron.** Ordenamientos publicados por los congresos
+después de la carga inicial y que no están en el acervo. Hoy no hay ningún
+control que los busque.
+
+**Consistencia estructural.** Que `version` sea el SHA-256 del original, que
+`actual` resuelva a un directorio existente, que no queden versiones huérfanas
+ni `metadata.json` apuntando a un texto que no es el suyo.
+
+**Calidad del articulado.** Los 398 números de artículo duplicados dentro de
+un mismo ordenamiento; aperturas de artículo sin marcar; transitorios que
+absorben el resto del documento —el último de Nayarit 139 carga 18,665
+caracteres—; las notas del DOF, las declaratorias de invalidez de la SCJN y la
+tabla de la LIGIE, todas sin anclar.
+
+**Reproducibilidad.** Que regenerar los índices dos veces produzca exactamente
+lo mismo. Se corrigió en `remisiones.json`; falta comprobar el resto de la
+capa.
+
+**El proceso, no solo el dato.** Por qué una alerta se cerró dos veces como
+ruido. Una alerta que no se puede accionar enseña a ignorar la alarma, y ese
+es el fallo más caro de todos.
+
 ## Skill
 
 El acervo del IEEN obliga a actualizar la skill `biblioteca-legislativa` en
