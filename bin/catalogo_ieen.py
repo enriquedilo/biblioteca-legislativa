@@ -20,7 +20,7 @@ Uso:
     python3 bin/catalogo_ieen.py [--verificar] [--salida RUTA]
 """
 import argparse, json, os, re, sys, time
-import urllib.request, urllib.error
+import urllib.request, urllib.error, urllib.parse
 from datetime import datetime, timezone
 
 RAIZ = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
@@ -59,7 +59,7 @@ def pedir(url, metodo="GET"):
     ultimo = None
     for intento in range(REINTENTOS + 1):
         try:
-            pet = urllib.request.Request(url, method=metodo,
+            pet = urllib.request.Request(escapar(url), method=metodo,
                                          headers={"User-Agent": UA})
             with urllib.request.urlopen(pet, timeout=TIMEOUT) as r:
                 cuerpo = r.read() if metodo == "GET" else None
@@ -159,11 +159,28 @@ def fecha_iso(s):
     return s if re.fullmatch(r"\d{4}", s) else None
 
 
+# Caracteres que no se tocan al escapar una URL. El % va dentro a proposito:
+# asi volver a escapar una URL ya escapada no la rompe.
+SEGUROS = "/%:@&=+$,;~!*'()?#[]"
+
+
+def escapar(u):
+    """Deja la URL en ASCII. El sitio publica rutas con acentos
+    -«Manual_integración_funcionamiento_CA.pdf»- y urllib no las acepta:
+    revienta con UnicodeEncodeError antes de salir a la red."""
+    partes = urllib.parse.urlsplit(u)
+    return urllib.parse.urlunsplit((
+        partes.scheme, partes.netloc,
+        urllib.parse.quote(partes.path, safe=SEGUROS),
+        urllib.parse.quote(partes.query, safe=SEGUROS),
+        urllib.parse.quote(partes.fragment, safe=SEGUROS)))
+
+
 def absoluta(u):
     u = (u or "").strip()
     if not u:
         return None
-    return u if u.startswith("http") else BASE + u
+    return escapar(u if u.startswith("http") else BASE + u)
 
 
 def vigente_de(doc):

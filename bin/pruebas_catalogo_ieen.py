@@ -90,4 +90,16 @@ print("4. marcado de duplicados: OK")
 # sin anexos y sin pdf -> sin versión vigente, no revienta
 assert C.vigente_de({"pdf": "", "anexos": []}) is None
 print("5. documento sin versión vigente: OK")
+
+# 6. URL con acentos: el sitio publica rutas como
+# «Manual_integración_funcionamiento_CA.pdf» y urllib no admite no-ASCII.
+u = C.absoluta("/PDF/2020/Manual_integración_funcionamiento_CA.pdf")
+assert u == "https://ieenayarit.org/PDF/2020/Manual_integraci%C3%B3n_funcionamiento_CA.pdf", u
+assert all(ord(c) < 128 for c in u)
+assert C.escapar(u) == u, "escapar debe ser idempotente"
+assert C.absoluta("/PDF/2025/Acuerdos/IEEN-CLE-015-2025-A1.pdf").endswith(
+    "/PDF/2025/Acuerdos/IEEN-CLE-015-2025-A1.pdf")
+print("6. URL con acentos escapadas, sin doble escape: OK")
+
 print("\nTodas las pruebas pasaron.")
+
