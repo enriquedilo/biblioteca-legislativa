@@ -39,13 +39,18 @@ PAUSA = 0.4  # cortesía con los servidores del Congreso
 PREFIJO = 262144           # 256 KB
 LIMITE_DESCARGA = 12 << 20  # 12 MB: por encima se usa el prefijo salvo --forzar
 
+# Una entidad puede publicar su catálogo en más de una página. La Cámara
+# separa leyes y reglamentos: vigilar solo la portada dejaba 131 reglamentos
+# sin cobertura y hundía el porcentaje por debajo del umbral, de modo que el
+# control de enlaces huérfanos se abstenía para todo el acervo federal.
 CATALOGOS = {
     # La Gaceta es una aplicación de una sola página: su raíz no responde a una
     # petición simple (URLError en cada corrida). Se vigila la página del
     # Congreso que publica el listado, que sí es HTML servido.
-    "Sinaloa": "https://www.congresosinaloa.gob.mx/leyes-estatales/",
-    "Nayarit": "https://congresonayarit.gob.mx/legislacion-estatal/",
-    "Federal": "https://www.diputados.gob.mx/LeyesBiblio/index.htm",
+    "Sinaloa": ("https://www.congresosinaloa.gob.mx/leyes-estatales/",),
+    "Nayarit": ("https://congresonayarit.gob.mx/legislacion-estatal/",),
+    "Federal": ("https://www.diputados.gob.mx/LeyesBiblio/index.htm",
+                "https://www.diputados.gob.mx/LeyesBiblio/regla.htm"),
 }
 RE_ENLACE = re.compile(rb'href\s*=\s*["\']([^"\']+\.(?:pdf|docx?|rtf))["\']',
                        re.IGNORECASE)
@@ -233,43 +238,103 @@ def del_catalogo(enlaces, url_catalogo, prefijos):
 
 def revisar_catalogo(entidad, previo, inventario_ent=()):
     """Detecta movimiento en la página de catálogo (posibles altas o bajas)."""
-    url = CATALOGOS.get(entidad)
-    if not url:
+    urls = CATALOGOS.get(entidad)
+    if not urls:
         return None, []
-    _, cuerpo, err = pedir(url, "GET")
-    if err or cuerpo is None:
-        return ({"error": err},
-                [{"tipo": "catalogo_inaccesible", "entidad": entidad,
-                  "url": url, "detalle": err or "sin cuerpo"}])
-    # Comparar la lista de documentos enlazados, no el HTML entero: una fecha
-    # o un banner en la portada no son un alta ni una baja de ordenamiento.
-    crudos = sorted(set(m.group(1).decode("utf-8", "replace").lower()
-                        for m in RE_ENLACE.finditer(cuerpo)))
-    enlaces = del_catalogo(crudos, url, prefijos_de(inventario_ent))
+    if isinstance(urls, str):
+        urls = (urls,)
+    url = urls[0]
+    prefijos = prefijos_de(inventario_ent)
+    enlaces, crudos, fallos = [], 0, []
+    for u in urls:
+        _, cuerpo, err = pedir(u, "GET")
+        if err or cuerpo is None:
+            fallos.append({"tipo": "catalogo_inaccesible", "entidad": entidad,
+                           "url": u, "detalle": err or "sin cuerpo"})
+            continue
+        # Comparar la lista de documentos enlazados, no el HTML entero: una
+        # fecha o un banner en la portada no son un alta ni una baja.
+        brutos = sorted(set(m.group(1).decode("utf-8", "replace").lower()
+                            for m in RE_ENLACE.finditer(cuerpo)))
+        crudos += len(brutos)
+        enlaces += [urllib.parse.urljoin(u, e)
+                    for e in del_catalogo(brutos, u, prefijos)]
+    if fallos and not enlaces:
+        return {"error": fallos[0]["detalle"]}, fallos
+    enlaces = sorted(set(enlaces))
     if not enlaces:
         # El catálogo de Sinaloa se arma con JavaScript desde otro host: su
         # lista nunca está en el HTML servido. Se deja constancia y no se
         # reporta nada, en vez de vigilar lo primero que se parezca a un
         # documento. Las altas de Sinaloa se detectan por otra vía.
-        return ({"lista_no_observable": True, "enlaces_crudos": len(crudos)}, [])
-    if enlaces:
-        sha = hashlib.sha256("\n".join(enlaces).encode("utf-8")).hexdigest()
-        obs = {"sha256_enlaces": sha, "enlaces": len(enlaces)}
-        ant = (previo or {}).get("sha256_enlaces")
-        if ant and ant != sha:
-            d = len(enlaces) - ((previo or {}).get("enlaces") or 0)
-            return obs, [{"tipo": "catalogo_movido", "entidad": entidad,
+        return ({"lista_no_observable": True, "enlaces_crudos": crudos}, fallos)
+    absolutos = enlaces
+    sha = hashlib.sha256("\n".join(enlaces).encode("utf-8")).hexdigest()
+    # Se guarda la lista, no solo su huella: decir «algo cambió» sin decir qué
+    # dejó pasar dos meses una reforma de la Constitución de Nayarit.
+    obs = {"sha256_enlaces": sha, "enlaces": len(enlaces), "lista": absolutos}
+    hallazgos = list(fallos)
+    antes = set((previo or {}).get("lista") or [])
+    ant_sha = (previo or {}).get("sha256_enlaces")
+    if antes:
+        altas = sorted(set(absolutos) - antes)
+        bajas = sorted(antes - set(absolutos))
+        if altas or bajas:
+            hallazgos.append({
+                "tipo": "catalogo_movido", "entidad": entidad, "url": url,
+                "detalle": _detalle_diferencia(altas, bajas)})
+    elif ant_sha and ant_sha != sha:
+        # Primera corrida tras el cambio: todavía no hay lista guardada.
+        hallazgos.append({"tipo": "catalogo_movido", "entidad": entidad,
                           "url": url,
-                          "detalle": "la lista de documentos del catálogo "
-                                     "cambió (%d enlaces, %+d): revisar altas "
-                                     "o bajas" % (len(enlaces), d)}]
-        return obs, []
-    sha = hashlib.sha256(cuerpo).hexdigest()
-    obs = {"sha256": sha, "bytes": len(cuerpo)}
-    if previo and previo.get("sha256") and previo["sha256"] != sha:
-        return obs, [{"tipo": "catalogo_movido", "entidad": entidad, "url": url,
-                      "detalle": "la página de catálogo cambió: revisar altas o bajas"}]
-    return obs, []
+                          "detalle": "la lista del catálogo cambió (%d enlaces); "
+                                     "desde la próxima corrida se dirá cuáles"
+                                     % len(enlaces)})
+    hallazgos += _huerfanos(entidad, inventario_ent, set(absolutos), obs)
+    return obs, hallazgos
+
+
+def _nombre_archivo(u):
+    return urllib.parse.unquote(urllib.parse.urlparse(u).path.rsplit("/", 1)[-1])
+
+
+def _detalle_diferencia(altas, bajas, tope=12):
+    partes = []
+    for et, xs in (("alta", altas), ("baja", bajas)):
+        if not xs:
+            continue
+        nombres = [_nombre_archivo(x) for x in xs[:tope]]
+        extra = "" if len(xs) <= tope else " y %d más" % (len(xs) - tope)
+        partes.append("%s (%d): %s%s" % (et, len(xs), ", ".join(nombres), extra))
+    return "el catálogo cambió — " + "; ".join(partes)
+
+
+def _huerfanos(entidad, inventario_ent, enlaces, obs):
+    """Ordenamientos cuya URL archivada ya no aparece en el catálogo.
+
+    Es el caso que pasó inadvertido dos meses: el Congreso no sobreescribió el
+    archivo, subió otro con el nombre terminado en «-1» y cambió el enlace. La
+    URL vieja sigue respondiendo y con el mismo contenido, así que la revisión
+    por SHA no ve nada; lo que cambió fue a dónde apunta el catálogo.
+
+    Solo se reporta si el catálogo cubre casi todo el acervo. En la Cámara, la
+    portada no enlaza los reglamentos, y sin esta cautela saldrían ciento y
+    pico de falsos positivos."""
+    con_url = [it for it in inventario_ent if it.get("url_pdf")]
+    if not con_url:
+        return []
+    dentro = [it for it in con_url if it["url_pdf"] in enlaces]
+    cobertura = len(dentro) / len(con_url)
+    obs["cobertura"] = round(cobertura, 3)
+    if cobertura < 0.9:
+        obs["huerfanos_no_evaluables"] = True
+        return []
+    fuera = [it for it in con_url if it["url_pdf"] not in enlaces]
+    return [{"tipo": "enlace_fuera_del_catalogo", "entidad": entidad,
+             "id": it["id"], "nombre": it["nombre"], "url": it["url_pdf"],
+             "detalle": "el catálogo ya no enlaza este archivo: el sitio "
+                        "publicó otro y la URL archivada quedó congelada"}
+            for it in fuera]
 
 
 ETIQUETAS = {
@@ -279,6 +344,7 @@ ETIQUETAS = {
     "no_encontrado": "El archivo ya no está en su ruta (404)",
     "inaccesible": "No se pudo leer el archivo",
     "catalogo_movido": "La página de catálogo cambió",
+    "enlace_fuera_del_catalogo": "El catálogo dejó de enlazar el archivo archivado",
     "catalogo_inaccesible": "No se pudo leer la página de catálogo",
 }
 

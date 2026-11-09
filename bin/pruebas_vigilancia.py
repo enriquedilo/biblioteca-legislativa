@@ -45,4 +45,40 @@ print("Nayarit y Federal: enlaces del catalogo conservados  OK")
 # sin prefijos conocidos no se filtra nada (acervo nuevo, sin metadata aun)
 assert V.del_catalogo(menu, cat, set()) == menu
 print("sin inventario no se filtra  OK")
+
+# --- enlace congelado: el caso de la Constitucion de Nayarit ---------------
+P = "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/"
+VIEJA = P + "constitucion/Constitucion_Politica_del_Estado_Libre_y_Soberano_de_Nayarit.pdf"
+NUEVA = P + "constitucion/Constitucion_Politica_del_Estado_Libre_y_Soberano_de_Nayarit-1.pdf"
+OTRA  = P + "leyes/electoral_del_estado_de_nayarit_ley.pdf"
+
+# Un acervo realista: 19 leyes bien enlazadas y la Constitucion congelada.
+resto = [{"id": 100 + i, "nombre": "Ley %d" % i, "url_pdf": P + "leyes/l%d.pdf" % i}
+         for i in range(19)]
+inv = [{"id": 5, "nombre": "Constitucion", "url_pdf": VIEJA}] + resto
+catalogo = {NUEVA, OTRA} | {it["url_pdf"] for it in resto}
+
+h = V._huerfanos("Nayarit", inv, catalogo, {})
+assert len(h) == 1 and h[0]["id"] == 5, h
+assert h[0]["tipo"] == "enlace_fuera_del_catalogo"
+print("huerfano detectado cuando el catalogo cambia de archivo  OK")
+
+# si el catalogo sigue enlazando lo archivado, no se reporta nada
+assert V._huerfanos("Nayarit", inv, catalogo | {VIEJA}, {}) == []
+print("sin huerfanos cuando todo sigue enlazado  OK")
+
+# cobertura baja: no se evalua, para no inventar falsos positivos
+obs = {}
+muchos = [{"id": i, "nombre": "x", "url_pdf": P + "r/%d.pdf" % i} for i in range(20)]
+assert V._huerfanos("Federal", muchos, {P + "r/1.pdf"}, obs) == []
+assert obs.get("huerfanos_no_evaluables") is True and obs["cobertura"] < 0.9
+print("cobertura baja: se abstiene en vez de inventar  OK")
+
+# el detalle nombra los archivos, que es lo que faltaba
+d = V._detalle_diferencia([NUEVA], [VIEJA])
+assert "Constitucion_Politica_del_Estado_Libre_y_Soberano_de_Nayarit-1.pdf" in d
+assert "alta (1)" in d and "baja (1)" in d
+print("el aviso nombra el archivo que entro y el que salio  OK")
+
 print("\nTodas las pruebas pasaron.")
+

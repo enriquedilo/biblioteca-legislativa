@@ -59,6 +59,31 @@ Electoral, que ya están aquí. Alcance acordado:
 - Las URL del INE no pudieron verificarse desde el entorno de trabajo porque
   el proxy bloquea `sidj.ine.mx`. Se verifican al llegar al paso 4.
 
+## Cuatro ordenamientos de Nayarit congelados
+
+Detectado el 9 de noviembre de 2026. El Congreso de Nayarit no sobreescribe
+el archivo cuando publica una reforma: **sube otro con el nombre terminado en
+«-1» y cambia el enlace del catálogo**. La URL vieja sigue respondiendo, con
+el mismo contenido, así que la revisión por SHA no ve nada. Lo que cambió fue
+a dónde apunta el catálogo.
+
+| ID | Ordenamiento | Lo nuestro | Lo publicado |
+|---:|---|---|---|
+| 5 | Constitución Política del Estado | 22-jul-2026, 181 págs. | 22-sep-2026, 187 págs., enmienda del 3-sep |
+| 24 | Ley para la Competitividad y el Empleo | 22-sep-2025 | 23-sep-2026 |
+| 48 | Ley de Desarrollo Forestal Sustentable | 18-abr-2024 | 15-sep-2026 |
+| 130 | Ley Orgánica del Poder Judicial | 20-nov-2025 | 15-sep-2026 |
+
+Falta reconvertirlos desde la URL nueva y actualizar `urls` en su
+`metadata.json`. La Ley Municipal (ID 139) también tiene un archivo «-1»,
+pero es idéntico al que ya usamos: no requiere nada.
+
+La causa de fondo quedó corregida en `bin/vigilancia.py`, que ahora guarda la
+lista de enlaces del catálogo y reporta altas y bajas por nombre, y avisa
+cuando la URL archivada de un ordenamiento deja de estar enlazada. **Sinaloa
+sigue sin esa protección**: su catálogo se arma con JavaScript desde otro
+host y su lista no es observable desde el HTML servido.
+
 ## Skill
 
 El acervo del IEEN obliga a actualizar la skill `biblioteca-legislativa` en
