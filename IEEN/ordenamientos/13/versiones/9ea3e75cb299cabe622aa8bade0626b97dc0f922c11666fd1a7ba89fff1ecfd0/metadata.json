@@ -1,0 +1,60 @@
+{
+  "id": 13,
+  "nombre_catalogo": "Reglamento para el funcionamiento de la Oficialía Electoral del Instituto Electoral Electoral de Nayarit.",
+  "nombre_oficial": "REGLAMENTO PARA EL FUNCIONAMIENTO DE LA OFICIALÍA ELECTORAL DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT.",
+  "nombre_catalogo_sitio": "Reglamento para el funcionamiento de la Oficialía Electoral del Instituto Electoral Electoral de Nayarit.",
+  "fuente": "https://ieenayarit.org/normatividad/IEEN",
+  "urls": {
+    "pdf": "https://ieenayarit.org/PDF/2023/Acuerdos/IEEN-CLE-101-2023-A1.pdf",
+    "word": null
+  },
+  "url_pdf": "https://ieenayarit.org/PDF/2023/Acuerdos/IEEN-CLE-101-2023-A1.pdf",
+  "url_word": null,
+  "fecha_descarga": "2026-11-09T20:00:29.119603+00:00",
+  "hash_sha256": {
+    "pdf": "9ea3e75cb299cabe622aa8bade0626b97dc0f922c11666fd1a7ba89fff1ecfd0"
+  },
+  "version": "9ea3e75cb299cabe622aa8bade0626b97dc0f922c11666fd1a7ba89fff1ecfd0",
+  "validacion": "Conversión conservada; cotejo visual de muestra; incidencias informativas registradas",
+  "tipo": "reglamento",
+  "seccion": "electoral",
+  "seccion_sitio": "normatividad",
+  "secciones_sitio": [
+    "normatividad"
+  ],
+  "acuerdo": "IEEN-CLE-101/2023",
+  "reformas": [
+    {
+      "acuerdo": "IEEN-CLE-010/2017",
+      "fecha": "2017-01-16",
+      "url": "https://ieenayarit.org/PDF/2017/Acuerdos/ACU-CLE-010-2017.pdf"
+    },
+    {
+      "acuerdo": "IEEN-CLE-101/2023",
+      "fecha": "2023-10-18",
+      "url": "https://ieenayarit.org/PDF/2023/Acuerdos/IEEN-CLE-101-2023-A1.pdf"
+    }
+  ],
+  "fecha_catalogo_sin_interpretar": "2023-10-18",
+  "decreto_numero": null,
+  "po_publicacion": null,
+  "ultima_reforma": null,
+  "abroga": [
+    {
+      "nombre": "Reglamento para el Funcionamiento de la Oficialía Electoral del Instituto Electoral del Estado de Nayarit",
+      "fecha": null,
+      "po_numero": null,
+      "nota": "Primero. Se abroga el Reglamento para el Funcionamiento de la Oficialía Electoral del Instituto Electoral del Estado de Nayarit, aprobado por el Consejo Local Electoral del IEEN el 16 de enero de 2017, mediante el acuerdo IEEN-CLE-010/2017.",
+      "pagina_pdf": 17
+    }
+  ],
+  "slug": "reglamento-para-el-funcionamiento-de-la-oficialia-electoral-del-instituto-electoral-electoral-de-nayarit",
+  "fecha_revision_conversion": "2026-11-09T20:01:50.133944+00:00",
+  "conversor": "bin/ieen/convertir.py; Poppler layout y controles conservadores Nayarit",
+  "origen_markdown": "PDF original; sin OCR; erratas conservadas",
+  "procedencia_metadata": {
+    "acuerdo": "catálogo IEEN, versión vigente",
+    "reformas": "cadena íntegra del catálogo IEEN, no convertida",
+    "nombre_oficial": "Título impreso cotejado en muestra; página 2 para ID 16, página 1 para los demás."
+  }
+}

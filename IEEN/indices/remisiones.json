@@ -1,0 +1,59 @@
+{
+ "generado": "2026-11-09T20:06:21.558029+00:00",
+ "aristas": 3,
+ "nota": "Mencion nominal de un ordenamiento de la biblioteca dentro del texto de otro. Es deteccion lexica: no distingue remision normativa de cita incidental.",
+ "remisiones": [
+  {
+   "origen": 11,
+   "origen_nombre": "Reglamento de Comisiones del Consejo Local Electoral.",
+   "destino": 9,
+   "destino_nombre": "REGLAMENTO DE SESIONES DEL CONSEJO LOCAL ELECTORAL DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT",
+   "menciones": 2,
+   "articulos": [
+    {
+     "articulo": "13",
+     "tipo": "cuerpo",
+     "pagina_pdf": 11
+    },
+    {
+     "articulo": "21",
+     "tipo": "cuerpo",
+     "pagina_pdf": 18
+    }
+   ]
+  },
+  {
+   "origen": 15,
+   "origen_nombre": "Reglamento del Sistema de Quejas y Denuncias.",
+   "destino": 14,
+   "destino_nombre": "REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT",
+   "menciones": 2,
+   "articulos": [
+    {
+     "articulo": "2",
+     "tipo": "cuerpo",
+     "pagina_pdf": 1
+    },
+    {
+     "articulo": "3",
+     "tipo": "cuerpo",
+     "pagina_pdf": 1
+    }
+   ]
+  },
+  {
+   "origen": 21,
+   "origen_nombre": "Reglamento de Quejas y Denuncias en Materia de Violencia Política contra las Mujeres en Razón de Género del Instituto Estatal Electoral de Nayarit",
+   "destino": 14,
+   "destino_nombre": "REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT",
+   "menciones": 1,
+   "articulos": [
+    {
+     "articulo": "3",
+     "tipo": "cuerpo",
+     "pagina_pdf": 4
+    }
+   ]
+  }
+ ]
+}
