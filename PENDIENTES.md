@@ -3,37 +3,61 @@
 Lista corta de lo que falta en la biblioteca, para no depender de la memoria
 de una conversación. Quien cierre un punto lo borra de aquí.
 
-Última revisión: 27 de octubre de 2026.
+Última revisión: 9 de noviembre de 2026.
 
-## Decisión de alcance
+## Acervo electoral: en construcción
 
-**Acervo electoral del IEEN y del INE.** Reconocimiento hecho el 26 de octubre
-de 2026. El catálogo del Instituto Estatal Electoral de Nayarit publica 51
-ordenamientos en `ieenayarit.org/normatividad/IEEN` —8 de legislación local, 13
-reglamentos y 30 lineamientos— y 21 más en `/normatividad/Interna`, con 74 PDF
-adicionales de acuerdos de reforma colgados como anexos. El arreglo
-`documentos` viene embebido como literal de JavaScript dentro del HTML, de modo
-que se extrae con una expresión regular, sin navegador. Los PDF son texto
-generado desde Word, de 11 a 24 páginas, y responden `Last-Modified`: la
-detección barata por cabecera de `bin/vigilancia.py` sirve igual. Los anexos
-«A1/A2» son el texto consolidado completo, no la hoja del acuerdo.
+**Decidido el 9 de noviembre de 2026.** Se cargan en este mismo repositorio,
+no en una biblioteca aparte: el trabajo electoral cruza la Constitución
+federal, la LGIPE, la LGPP, la Constitución de Nayarit y la Ley Estatal
+Electoral, que ya están aquí. Alcance acordado:
 
-Del INE, el enlace de normatividad del IEEN lleva al Compendio Normativo:
-23 documentos servidos desde `sidj.ine.mx/restWS…/app/doc/<id>/20/1`, con
-identificador numérico estable. Detrás está NormaINE, repositorio de miles de
-acuerdos: eso se consulta, no se espeja.
+- **IEEN completo**: los 51 documentos de `ieenayarit.org/normatividad/IEEN`
+  y los 21 de `/normatividad/Interna`. De los 51, siete son leyes del Congreso
+  de Nayarit que la biblioteca ya tiene por su fuente oficial y no se
+  duplican, y el Compendio Electoral 2021 queda fuera por ser una
+  recopilación de esas mismas leyes en un PDF de 207 MB. **Neto: 64.**
+- **Compendio normativo del INE**: 23 documentos servidos desde
+  `sidj.ine.mx/restWS…/app/doc/<id>/20/1`, con identificador numérico estable.
+  NormaINE, el repositorio de miles de acuerdos que está detrás, se consulta,
+  no se espeja.
+- **Solo texto vigente.** Los 75 acuerdos de reforma quedan anotados con su
+  fecha y su URL, sin convertir. Si después hace falta un texto anterior, se
+  promueve esa versión sin rehacer nada.
+- **Los acuerdos del Consejo quedan fuera por ahora.** Son cientos por año y
+  son materia de consulta puntual, no de acervo. Se evalúa después.
 
-Recomendación: **dos acervos nuevos en este mismo repositorio**, `IEEN` e `INE`,
-con la estructura de Sinaloa, Nayarit y Federal, y una vista electoral en la
-capa de índices. No una biblioteca aparte: el trabajo electoral cruza la
-Constitución federal, la LGIPE, la LGPP, la Constitución de Nayarit y la Ley
-Estatal Electoral, que ya están cargadas. Volumen neto estimado: 82
-ordenamientos, unos seis lotes de conversión, más un adaptador de catálogo en
-`bin/vigilancia.py`.
+### Ruta
 
-Falta el visto bueno para empezar, y decidir si se cargan las 74 versiones
-históricas o solo el texto vigente con la cadena de reformas anotada en
-`metadata.json`.
+1. **Catálogo.** `bin/catalogo_ieen.py` lee las dos páginas del IEEN y escribe
+   `IEEN/catalogo/normatividad.json` con la versión vigente de cada documento.
+   Hecho y probado; falta correrlo y publicar su salida.
+2. **Acervo IEEN.** Estructura igual a la de los otros tres acervos y carga en
+   lotes de unos doce ordenamientos, con cotejo por lote.
+3. **Vigilancia.** Adaptador del catálogo del IEEN en `bin/vigilancia.py`. El
+   sitio responde `Last-Modified` y `Content-Length` en los 72 documentos, así
+   que sirve la misma detección barata por cabecera.
+4. **INE.** Los 23 del compendio, con su propio adaptador de catálogo.
+5. **Vista electoral** en la capa de índices, que es regenerable.
+
+### Notas técnicas comprobadas
+
+- El arreglo `documentos` viene embebido en el HTML como literal de
+  JavaScript: claves sin comillas, escapes `\/` y `\uXXXX`, coma sobrante
+  antes del corchete. Se extrae sin navegador.
+- **Los anexos no vienen en orden constante**: unos van del más viejo al más
+  nuevo y otros al revés. La versión vigente se elige por fecha, nunca por
+  posición en la lista.
+- Los PDF son texto generado desde Word, no escaneos, de 11 a 24 páginas. Los
+  anexos «A1/A2» son el texto consolidado completo, no la hoja del acuerdo.
+- Dos ordenamientos del IEEN apuntan a PDF alojados en el sitio del Congreso
+  de Nayarit, y uno pesa 207 MB: los tres quedan resueltos por las reglas de
+  arriba.
+- Pendiente de confirmar en el primer lote: que «Ley de Justicia del Estado de
+  Nayarit» del catálogo del IEEN (`LJEN-07102020.pdf`) sea la Ley de Justicia
+  Electoral, que la biblioteca tiene como Nayarit 79.
+- Las URL del INE no pudieron verificarse desde el entorno de trabajo porque
+  el proxy bloquea `sidj.ine.mx`. Se verifican al llegar al paso 4.
 
 ## Calidad del índice
 
