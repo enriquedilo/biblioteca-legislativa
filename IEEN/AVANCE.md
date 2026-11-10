@@ -2,7 +2,7 @@
 
 13 documentos, 266 páginas, 788 artículos de cuerpo y 34 transitorios. Cero documentos o páginas sin texto extraíble; sin OCR.
 
-Lote 1: IDs 9–21 convertidos, índices generados; pendiente cotejo del PR. Otros 51 candidatos del catálogo pendientes.
+Lote 1: IDs 9–21 convertidos, índices generados; pendiente cotejo del PR. Otros 36 candidatos del catálogo pendientes tras completar el lote 2.
 
 | ID | Reglamento (nombre de catálogo) | Páginas | Cuerpo | Transitorios |
 |---|---|---:|---:|---:|
@@ -19,3 +19,9 @@ Lote 1: IDs 9–21 convertidos, índices generados; pendiente cotejo del PR. Otr
 | 19 | Reglamento de Fiscalización del Instituto Estatal Electoral de Nayarit para las Organizaciones de Ciudadanos y Ciudadanas que desean constituirse como Partido Político Local. | 31 | 103 | 5 |
 | 20 | Reglamento del Centro de Capacitación del Instituto Estatal Electoral. | 20 | 81 | 2 |
 | 21 | Reglamento de Quejas y Denuncias en Materia de Violencia Política contra las Mujeres en Razón de Género del Instituto Estatal Electoral de Nayarit | 31 | 91 | 1 |
+
+## Lote 2 completado
+
+IDs 22–36: 15 documentos, 229 páginas, 477 artículos de cuerpo y 10 transitorios; todos promovidos, sin OCR. Índices regenerados. Acumulado: 28 documentos, 495 páginas, 1,265 artículos de cuerpo y 44 transitorios.
+
+IDs 28, 29 y 34 conservan estructura por numerales/apartados; no se fuerzan como artículos y no entran en FTS por artículo. Véase [reporte completo del lote 2](reportes/LOTE_2.md). PR en borrador para revisión.

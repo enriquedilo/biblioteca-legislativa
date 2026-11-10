@@ -1,0 +1,661 @@
+{
+  "id": 31,
+  "fecha_revision": "2026-11-10T05:13:10.608034+00:00",
+  "resultado": "Conversión conservada; muestra visual y auditoría de índices verificadas",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 18,
+  "paginas_sin_texto": [],
+  "texto_conservado": true,
+  "transitorios_y_notas_completos_incluidos": true,
+  "ocr_ejecutado": false,
+  "paginas_cotejadas_visualmente": [
+    1,
+    18
+  ],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 2194,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 15,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 46,
+          "texto": "1"
+        }
+      ]
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 1602,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 11,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 46,
+          "texto": "2"
+        }
+      ]
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 1947,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 4,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 46,
+          "texto": "3"
+        }
+      ]
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 2149,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 5,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 46,
+          "texto": "4"
+        }
+      ]
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 1714,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 4,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 45,
+          "texto": "5"
+        }
+      ]
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 2319,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 3,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 46,
+          "texto": "6"
+        }
+      ]
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 2100,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 6,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 46,
+          "texto": "7"
+        }
+      ]
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 1621,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 45,
+          "texto": "8"
+        }
+      ]
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 2081,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 46,
+          "texto": "9"
+        }
+      ]
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 2153,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 8,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 45,
+          "texto": "10"
+        }
+      ]
+    },
+    {
+      "pagina": 11,
+      "caracteres_no_blancos": 1921,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 46,
+          "texto": "11"
+        }
+      ]
+    },
+    {
+      "pagina": 12,
+      "caracteres_no_blancos": 2289,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 3,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 46,
+          "texto": "12"
+        }
+      ]
+    },
+    {
+      "pagina": 13,
+      "caracteres_no_blancos": 1444,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 12,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 46,
+          "texto": "13"
+        }
+      ]
+    },
+    {
+      "pagina": 14,
+      "caracteres_no_blancos": 2069,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 6,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 47,
+          "texto": "14"
+        }
+      ]
+    },
+    {
+      "pagina": 15,
+      "caracteres_no_blancos": 2188,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 5,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 46,
+          "texto": "15"
+        }
+      ]
+    },
+    {
+      "pagina": 16,
+      "caracteres_no_blancos": 1786,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 45,
+          "texto": "16"
+        }
+      ]
+    },
+    {
+      "pagina": 17,
+      "caracteres_no_blancos": 1998,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 46,
+          "texto": "17"
+        }
+      ]
+    },
+    {
+      "pagina": 18,
+      "caracteres_no_blancos": 1104,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 8,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 32,
+          "texto": "18"
+        }
+      ]
+    }
+  ],
+  "promociones_encabezado_evitadas": [],
+  "incidencias_metadata": [
+    {
+      "campo": "decreto_numero",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "po_publicacion",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "ultima_reforma",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "abroga",
+      "motivo": "Sin cláusula inequívoca localizada; arreglo vacío no afirma ausencia normativa."
+    }
+  ],
+  "comparacion_word_pdf": null,
+  "diferencias_de_fuente": [
+    "No hay Word en el catálogo; sin comparación Word/PDF."
+  ],
+  "alcance": "Conservación por página de todos los caracteres no blancos, signos, cifras y comienzos de listas respecto de Poppler; doble lector numérico informativo, discrepancias no reparadas. No equivale a cotejo visual integral. Acuerdo y reformas proceden del catálogo por instrucción expresa.",
+  "evidencia_metadata": {
+    "nombre_oficial": {
+      "pagina_pdf": 1,
+      "texto": "LINEAMIENTOS PARA EL REGISTRO DE LA CIUDADANÍA QUE ASPIRA A CONTENDER A TRAVÉS DE UNA CANDIDATURA INDEPENDIENTE A LOS DISTINTOS CARGOS DE ELECCION POPULAR PARA EL PROCESO ELECTORAL LOCAL 2024"
+    },
+    "fecha_catalogo": "No se usa como fecha de publicación ni última reforma impresa."
+  },
+  "auditoria_encabezados": {
+    "rotulos_propios": 62,
+    "rotulos_no_reconocidos": [],
+    "remisiones_no_promovidas": [],
+    "rotulos_por_pagina": [
+      {
+        "articulo": "1",
+        "pagina_pdf": 1,
+        "texto": "Artículo 1. Las disposiciones de los presentes lineamientos y su anexo, son de orden"
+      },
+      {
+        "articulo": "2",
+        "pagina_pdf": 1,
+        "texto": "Artículo 2. La interpretación y aplicación de los presentes lineamientos y su anexo, se hará"
+      },
+      {
+        "articulo": "3",
+        "pagina_pdf": 1,
+        "texto": "Artículo 3. Para efectos de los presentes lineamientos, se entenderá por:"
+      },
+      {
+        "articulo": "4",
+        "pagina_pdf": 2,
+        "texto": "Artículo 4. Son derechos de la ciudadanía obtener la calidad de aspirantes a una"
+      },
+      {
+        "articulo": "5",
+        "pagina_pdf": 2,
+        "texto": "Artículo 5. Las personas que aspiren a una candidatura independiente en el ámbito"
+      },
+      {
+        "articulo": "6",
+        "pagina_pdf": 2,
+        "texto": "Artículo 6. El procedimiento de obtención de una candidatura independiente, comprende"
+      },
+      {
+        "articulo": "7",
+        "pagina_pdf": 2,
+        "texto": "Artículo 7. El Consejo Local, emitirá la convocatoria para la ciudadanía interesada en"
+      },
+      {
+        "articulo": "8",
+        "pagina_pdf": 3,
+        "texto": "Artículo 8. La ciudadanía nayarita interesada en postularse a través de una candidatura"
+      },
+      {
+        "articulo": "9",
+        "pagina_pdf": 3,
+        "texto": "Artículo 9. La manifestación de intención, en el formato correspondiente, se deberá"
+      },
+      {
+        "articulo": "10",
+        "pagina_pdf": 3,
+        "texto": "Artículo 10. Al escrito de manifestación de intención se deberá acompañar la siguiente"
+      },
+      {
+        "articulo": "11",
+        "pagina_pdf": 4,
+        "texto": "Artículo 11. Una vez recibida la documentación la Secretaría General verificará que reúna"
+      },
+      {
+        "articulo": "12",
+        "pagina_pdf": 4,
+        "texto": "Artículo 12. Si dentro del plazo legal otorgado, la persona fue omisa en dar respuesta a la"
+      },
+      {
+        "articulo": "13",
+        "pagina_pdf": 4,
+        "texto": "Artículo 13. Una vez verificado que se cumplieron todos los requisitos la Secretaría General"
+      },
+      {
+        "articulo": "14",
+        "pagina_pdf": 5,
+        "texto": "Artículo 14. La persona que obtuvo su constancia como aspirante a la candidatura"
+      },
+      {
+        "articulo": "15",
+        "pagina_pdf": 5,
+        "texto": "Artículo 15. Se entiende como actos tendentes a recabar el apoyo de la ciudadanía al"
+      },
+      {
+        "articulo": "16",
+        "pagina_pdf": 5,
+        "texto": "Artículo 16. La persona que obtuvo la calidad de aspirante, deberá utilizar los"
+      },
+      {
+        "articulo": "17",
+        "pagina_pdf": 6,
+        "texto": "Artículo 17. Las actividades tendentes a la obtención del apoyo de la ciudadanía deberán"
+      },
+      {
+        "articulo": "18",
+        "pagina_pdf": 6,
+        "texto": "Artículo 18. La propaganda que utilice la persona aspirante a una candidatura"
+      },
+      {
+        "articulo": "19",
+        "pagina_pdf": 6,
+        "texto": "Artículo 19. El porcentaje de apoyo de la ciudadanía requerido en cada caso, se"
+      },
+      {
+        "articulo": "20",
+        "pagina_pdf": 6,
+        "texto": "Artículo 20. El Consejo Local deberá aprobar en el mes de enero del año de la elección, el"
+      },
+      {
+        "articulo": "21",
+        "pagina_pdf": 6,
+        "texto": "Artículo 21. Las personas aspirantes a una candidatura independiente deberán recabar el"
+      },
+      {
+        "articulo": "22",
+        "pagina_pdf": 7,
+        "texto": "Artículo 22. La aplicación móvil es el software desarrollado por el INE para recabar el apoyo"
+      },
+      {
+        "articulo": "23",
+        "pagina_pdf": 7,
+        "texto": "Artículo 23. Declarada procedente la manifestación de intención y adquirida la calidad de"
+      },
+      {
+        "articulo": "24",
+        "pagina_pdf": 7,
+        "texto": "Artículo 24. Una vez realizado lo anterior, el sistema enviará a la cuenta de correo"
+      },
+      {
+        "articulo": "25",
+        "pagina_pdf": 7,
+        "texto": "Artículo 25. Las personas aspirantes podrán hacer uso del Portal Web de la Aplicación"
+      },
+      {
+        "articulo": "26",
+        "pagina_pdf": 7,
+        "texto": "Artículo 26. Las personas auxiliares, deberán cumplir con los siguientes requisitos:"
+      },
+      {
+        "articulo": "27",
+        "pagina_pdf": 8,
+        "texto": "Artículo 27. La persona auxiliar ingresará a la aplicación móvil para recabar el apoyo de la"
+      },
+      {
+        "articulo": "28",
+        "pagina_pdf": 8,
+        "texto": "Artículo 28. Adicional a la funcionalidad de captura de apoyo de la ciudadanía por las"
+      },
+      {
+        "articulo": "29",
+        "pagina_pdf": 8,
+        "texto": "Artículo 29. Los porcentajes que deberán acreditar las personas aspirantes a candidaturas"
+      },
+      {
+        "articulo": "30",
+        "pagina_pdf": 8,
+        "texto": "Artículo 30. En los casos en los que la persona aspirante enfrente impedimentos que hagan"
+      },
+      {
+        "articulo": "31",
+        "pagina_pdf": 9,
+        "texto": "Artículo 31. Para efectos de lo establecido en el artículo que antecede, la persona aspirante"
+      },
+      {
+        "articulo": "32",
+        "pagina_pdf": 9,
+        "texto": "Artículo 32. Las cédulas físicas de respaldo deberán presentarse de acuerdo con el"
+      },
+      {
+        "articulo": "33",
+        "pagina_pdf": 9,
+        "texto": "Artículo 33. Las personas aspirantes a una candidatura independiente deberán acompañar"
+      },
+      {
+        "articulo": "34",
+        "pagina_pdf": 9,
+        "texto": "Artículo 34. Las personas aspirantes deberán presentar en la oficialía de partes del IEEN"
+      },
+      {
+        "articulo": "35",
+        "pagina_pdf": 10,
+        "texto": "Artículo 35. Para el caso de régimen de excepción y para los efectos del porcentaje"
+      },
+      {
+        "articulo": "36",
+        "pagina_pdf": 10,
+        "texto": "Artículo 36. La Secretaría General en coordinación con la Comisión, procederá a identificar"
+      },
+      {
+        "articulo": "37",
+        "pagina_pdf": 10,
+        "texto": "Artículo 37. En todo momento, las y los aspirantes tendrán acceso al Portal web de la APP"
+      },
+      {
+        "articulo": "38",
+        "pagina_pdf": 11,
+        "texto": "Artículo 38. La persona aspirante, en conjunto con personal del IEEN, podrán revisar los"
+      },
+      {
+        "articulo": "39",
+        "pagina_pdf": 11,
+        "texto": "Artículo 39. El IEEN deberá notificar con 48 horas de anticipación a la DERFE los derechos"
+      },
+      {
+        "articulo": "40",
+        "pagina_pdf": 11,
+        "texto": "Artículo 40. Una vez recibida la notificación de la diligencia del derecho de audiencia, la"
+      },
+      {
+        "articulo": "41",
+        "pagina_pdf": 11,
+        "texto": "Artículo 41. Para la entrega de información de los apoyos ciudadanos el IEEN generará"
+      },
+      {
+        "articulo": "42",
+        "pagina_pdf": 11,
+        "texto": "Artículo 42. Durante el periodo que transcurra entre la conclusión del periodo para recabar"
+      },
+      {
+        "articulo": "43",
+        "pagina_pdf": 12,
+        "texto": "Artículo 43. Las y los aspirantes a la candidatura independientes deberán presentar sus"
+      },
+      {
+        "articulo": "44",
+        "pagina_pdf": 12,
+        "texto": "Artículo 44. Las personas aspirantes a la candidatura independiente, junto a la solicitud de"
+      },
+      {
+        "articulo": "45",
+        "pagina_pdf": 14,
+        "texto": "Artículo 45. Los requisitos de elegibilidad son calidades circunstancias, condiciones,"
+      },
+      {
+        "articulo": "46",
+        "pagina_pdf": 14,
+        "texto": "Artículo 46. Quien aspire a participar en una candidatura independiente para el cargo de"
+      },
+      {
+        "articulo": "47",
+        "pagina_pdf": 15,
+        "texto": "Artículo 47. Quien aspire a participar en una candidatura independiente para el cargo de"
+      },
+      {
+        "articulo": "48",
+        "pagina_pdf": 15,
+        "texto": "Artículo 48. En adición a lo anterior, la LEEN en su artículo 14 dispone como requisito de"
+      },
+      {
+        "articulo": "49",
+        "pagina_pdf": 15,
+        "texto": "Artículo 49. Al momento de la presentación de la solicitud de registro para una candidatura"
+      },
+      {
+        "articulo": "50",
+        "pagina_pdf": 15,
+        "texto": "Artículo 50. El emblema se deberá elaborar y presentar impreso y digital cumpliendo los"
+      },
+      {
+        "articulo": "51",
+        "pagina_pdf": 16,
+        "texto": "Artículo 51. En caso de que exista similitud en colores, pantone o diseño en dos o más"
+      },
+      {
+        "articulo": "52",
+        "pagina_pdf": 16,
+        "texto": "Artículo 52. Una vez presentada la solicitud de registro y documentos correspondientes"
+      },
+      {
+        "articulo": "53",
+        "pagina_pdf": 16,
+        "texto": "Artículo 53. En caso de advertir la omisión o error en el cumplimiento de alguno de los"
+      },
+      {
+        "articulo": "54",
+        "pagina_pdf": 16,
+        "texto": "Artículo 54. El registro de las Candidaturas Independientes se realiza a través de sesión"
+      },
+      {
+        "articulo": "55",
+        "pagina_pdf": 16,
+        "texto": "Artículo 55. Las personas que obtengan su registro a una candidatura independiente ante"
+      },
+      {
+        "articulo": "56",
+        "pagina_pdf": 17,
+        "texto": "Artículo 56. Tratándose de las fórmulas de diputaciones y regidurías, por el principio de"
+      },
+      {
+        "articulo": "57",
+        "pagina_pdf": 17,
+        "texto": "Artículo 57. En el caso de las planillas de candidaturas independientes a los cargos de"
+      },
+      {
+        "articulo": "58",
+        "pagina_pdf": 17,
+        "texto": "Artículo 58. Una vez obtenido el registro de la candidatura independiente, adquieren"
+      },
+      {
+        "articulo": "59",
+        "pagina_pdf": 17,
+        "texto": "Artículo 59. Las personas aspirantes y Candidatas independientes, de conformidad con lo"
+      },
+      {
+        "articulo": "60",
+        "pagina_pdf": 17,
+        "texto": "Artículo 60. La acreditación de las representaciones se realizará una vez obtenida la"
+      },
+      {
+        "articulo": "61",
+        "pagina_pdf": 18,
+        "texto": "Artículo 61. Las candidatas y candidatos independientes podrán sustituir en todo tiempo a"
+      },
+      {
+        "articulo": "62",
+        "pagina_pdf": 18,
+        "texto": "Artículo 62. La ejecución de los siguientes actos trae aparejado en perjuicio de las"
+      }
+    ],
+    "metodo": "Rótulos numéricos al inicio de línea del original Poppler, cotejados por número y página contra índice; revisión explícita de remisiones."
+  },
+  "seleccion_version_catalogo": {
+    "acuerdo": "IEEN-CLE-100/2023",
+    "fecha": "2023-10-18",
+    "url": "https://ieenayarit.org/PDF/2023/Acuerdos/IEEN-CLE-100-2023-A1.pdf",
+    "fecha_maxima": "2023-10-18",
+    "criterio": "Mayor fecha ISO entre vigente y reformas, nunca posición."
+  }
+}

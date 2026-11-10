@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 """Verifica el lote IEEN guardado y sus índices, sin red ni cambios al acervo."""
-import collections,hashlib,json,re,sys
+import argparse,collections,hashlib,json,re,sys
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[2]
 sys.path.insert(0,str(ROOT/'bin/ieen'));import convertir as c
 sys.path.insert(0,str(ROOT/'bin'));import indices
 catalog=json.loads((ROOT/'IEEN/catalogo/normatividad.json').read_text())['documentos']
-rows=json.loads((ROOT/'IEEN/reportes/lote-1.json').read_text())
+parser=argparse.ArgumentParser();parser.add_argument('--lote',type=int,default=1);args=parser.parse_args()
+rows=json.loads((ROOT/f'IEEN/reportes/lote-{args.lote}.json').read_text())
 routes=json.loads((ROOT/'IEEN/indices/rutas.json').read_text())['ordenamientos']
 for r in rows:
  i=r['id'];folder=ROOT/f'IEEN/ordenamientos/{i}';ptr=json.loads((folder/'actual.json').read_text());version=ptr['version'];p=folder/'versiones'/version
@@ -29,4 +30,9 @@ for r in rows:
   assert '/actual/' not in route[k] and (ROOT/route[k]).exists()
  assert version in route['texto']
  assert not v['auditoria_encabezados']['rotulos_no_reconocidos']
-print('13 versiones y originales SHA-256; 266 páginas conservadas; metadata de catálogo; rangos y rutas: OK')
+ if 'rotulos_por_pagina' in v['auditoria_encabezados']:
+  labels=v['auditoria_encabezados']['rotulos_por_pagina']
+  assert collections.Counter((a['articulo'],a['pagina_pdf']) for a in labels)==collections.Counter((a['articulo'].lower().replace(' ',''),a['pagina_pdf']) for a in idx['articulos'] if a['tipo']=='cuerpo')
+  for label in labels:assert label['texto'] in raw[label['pagina_pdf']-1]
+ assert row['vigente']['fecha']==max(x['fecha'] for x in [row['vigente']]+row['reformas'])
+print(f"{len(rows)} versiones y originales SHA-256; {sum(r['paginas'] for r in rows)} páginas conservadas; metadata de catálogo; rangos y rutas: OK")

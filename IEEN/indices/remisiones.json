@@ -1,8 +1,72 @@
 {
- "generado": "2026-11-09T20:06:21.558029+00:00",
- "aristas": 3,
+ "generado": "2026-11-10T05:15:59.959152+00:00",
+ "aristas": 5,
  "nota": "Mencion nominal de un ordenamiento de la biblioteca dentro del texto de otro. Es deteccion lexica: no distingue remision normativa de cita incidental.",
  "remisiones": [
+  {
+   "origen": 32,
+   "origen_nombre": "Procedimiento para la obtención del apoyo de la ciudadanía.",
+   "destino": 31,
+   "destino_nombre": "Lineamientos para el registro de la ciudadanía que aspira a contender a través de una candidatura independiente a los distintos cargos de elección popular para el proceso electoral local 2024.",
+   "menciones": 14,
+   "articulos": [
+    {
+     "articulo": "6",
+     "tipo": "cuerpo",
+     "pagina_pdf": 1
+    },
+    {
+     "articulo": "13",
+     "tipo": "cuerpo",
+     "pagina_pdf": 2
+    },
+    {
+     "articulo": "19",
+     "tipo": "cuerpo",
+     "pagina_pdf": 3
+    },
+    {
+     "articulo": "26",
+     "tipo": "cuerpo",
+     "pagina_pdf": 4
+    },
+    {
+     "articulo": "35",
+     "tipo": "cuerpo",
+     "pagina_pdf": 5
+    },
+    {
+     "articulo": "41",
+     "tipo": "cuerpo",
+     "pagina_pdf": 6
+    },
+    {
+     "articulo": "43",
+     "tipo": "cuerpo",
+     "pagina_pdf": 8
+    },
+    {
+     "articulo": "45",
+     "tipo": "cuerpo",
+     "pagina_pdf": 10
+    },
+    {
+     "articulo": "47",
+     "tipo": "cuerpo",
+     "pagina_pdf": 11
+    },
+    {
+     "articulo": "51",
+     "tipo": "cuerpo",
+     "pagina_pdf": 12
+    },
+    {
+     "articulo": "53",
+     "tipo": "cuerpo",
+     "pagina_pdf": 13
+    }
+   ]
+  },
   {
    "origen": 11,
    "origen_nombre": "Reglamento de Comisiones del Consejo Local Electoral.",
@@ -52,6 +116,20 @@
      "articulo": "3",
      "tipo": "cuerpo",
      "pagina_pdf": 4
+    }
+   ]
+  },
+  {
+   "origen": 33,
+   "origen_nombre": "Lineamientos que regulan la propaganda electoral durante la etapa de obtención de apoyo de la ciudadanía, precampañas y campañas electorales en los procesos electorales locales.",
+   "destino": 14,
+   "destino_nombre": "REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT",
+   "menciones": 1,
+   "articulos": [
+    {
+     "articulo": "1",
+     "tipo": "cuerpo",
+     "pagina_pdf": 1
     }
    ]
   }
