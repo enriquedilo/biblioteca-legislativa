@@ -175,3 +175,8 @@ El piloto se reporta antes de iniciar los lotes. No se ha autorizado ni aplicado
 ## Actualización 2026-11-09
 
 Actualizados IDs 5, 24, 48 y 130 desde enlaces vigentes del catálogo capturado 2026-11-09. Versiones anteriores preservadas. ID 139 sin cambios.
+
+
+## Conversión semanal 2026-11-10 — pendiente cotejo
+
+IDs 48 y 98: nuevas versiones de la enmienda impresa del 26 de octubre de 2026; 112 páginas, conservación verificada, sin OCR. Versiones anteriores intactas. Justicia Alternativa (78): enlaces 404 según vigilancia, sin conversión. Informe: `../vigilancia/conversiones/2026-11-10/reporte.md`. Incorporación sujeta al merge del usuario.
