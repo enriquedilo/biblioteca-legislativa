@@ -314,6 +314,9 @@ def articulos_de(texto):
         if extra:
             marcas = sorted(marcas + extra, key=lambda x: x[0])
 
+    if not marcas:
+        marcas = _marcas_sin_articulado(lineas)
+
     arts = []
     for k, (i, num, tipo, pag) in enumerate(marcas):
         fin = marcas[k + 1][0] if k + 1 < len(marcas) else len(lineas)
@@ -327,6 +330,42 @@ def articulos_de(texto):
             "_texto": limpio,
         })
     return arts
+
+
+RE_ENCABEZADO = re.compile(r"^(#{1,4})\s+(.+?)\s*$")
+
+
+def _marcas_sin_articulado(lineas):
+    """Divide un documento que no se numera por artículos.
+
+    Lineamientos, manuales y protocolos del IEEN se ordenan por capítulos o
+    por numerales, no por artículos. Sin esto quedaban con cero entradas, y
+    como la base de búsqueda se arma una fila por entrada, su texto completo
+    era invisible: el documento estaba cargado y no aparecía en ninguna
+    búsqueda. Se segmenta por sus propias divisiones y se etiqueta `seccion`,
+    nunca `cuerpo`: así una cita dice «sección CAPÍTULO II, página 4» y jamás
+    inventa un número de artículo que el documento no tiene.
+
+    Si tampoco trae encabezados, se cae a la página, que siempre existe."""
+    pagina, marcas = None, []
+    for i, ln in enumerate(lineas):
+        mp = RE_PAGINA.search(ln)
+        if mp:
+            pagina = int(mp.group(1))
+            continue
+        me = RE_ENCABEZADO.match(ln.strip())
+        if me and len(me.group(2)) <= 120:
+            marcas.append((i, " ".join(me.group(2).split()), "seccion", pagina))
+    if len(marcas) > 1:
+        return marcas
+    # Sin divisiones utilizables: una entrada por página.
+    marcas, pagina = [], None
+    for i, ln in enumerate(lineas):
+        mp = RE_PAGINA.search(ln)
+        if mp:
+            pagina = int(mp.group(1))
+            marcas.append((i, "Página %d" % pagina, "seccion", pagina))
+    return marcas
 
 
 def ids():
@@ -357,6 +396,7 @@ def gen_articulos():
             "ruta_texto": f"{ENTIDAD}/ordenamientos/{idl}/actual/texto.md",
             "generado": datetime.now(timezone.utc).isoformat(),
             "conteo": {"cuerpo": len(cuerpo), "transitorios": len(trans),
+                       "secciones": len([a for a in arts if a["tipo"] == "seccion"]),
                        "notas_de_reforma": notas},
             "articulos": [{k: v for k, v in a.items() if k != "_texto"} for a in arts],
         }
