@@ -120,6 +120,28 @@ dos momentos:
    reglamentos —que se conoce con el lote 1— y la receta de consulta
    electoral cruzando Nayarit, Federal e IEEN en bloques rotulados.
 
+### Regla que debe quedar escrita en la skill: texto anulado que no se ve
+
+**El acervo guarda texto plano; el tachado es formato del PDF y no sobrevive
+a la conversión.** Cuando una compilación marca con tachado el texto que una
+sentencia dejó sin efectos, en el `texto.md` ese pasaje **se lee igual que el
+vigente**, sin ninguna marca, y la nota que lo explica suele estar al final
+del documento y no dice qué pasaje es. Citar de ahí es citar como vigente algo
+anulado.
+
+Caso conocido: **IEEN 27**, Lineamientos dirigidos a los partidos políticos,
+página 14: «El texto tachado se dejó sin efectos por sentencia del Tribunal
+Estatal Electoral de Nayarit, recurso de apelación TEE-AP-09/2019, notificada
+el 25 de mayo de 2020». Queda registrado en su `validacion.json`.
+
+La regla para la skill: si el `texto.md` o el `validacion.json` del documento
+consultado mencionan texto tachado, sin efectos, invalidez o sentencia,
+**advertirlo antes de citar y mandar al PDF original**, explicando por qué —no
+como cautela genérica, sino porque el tachado se perdió en la conversión y el
+texto plano no distingue lo anulado de lo vigente—. No es una advertencia de
+vigencia de las que el usuario pidió quitar: ahí el riesgo es concreto y está
+dentro del pasaje que se va a citar.
+
 La skill instalada se actualiza con una tarjeta de revisión, no editando
 archivos. La copia de `skill/biblioteca-legislativa/SKILL.md` está
 desincronizada: hoy tiene una estructura vieja, de tres entidades, sin la
