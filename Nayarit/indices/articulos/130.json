@@ -2,13 +2,13 @@
  "id": 130,
  "nombre": "Ley Orgánica del Poder Judicial del Estado de Nayarit",
  "nombre_oficial": "LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE NAYARIT",
- "version": "200690360d467a68b1e3347fd52c06db5ff55bd7d163e4e9fbb4d2d98ec2191f",
+ "version": "1b1145909b73369db51d16b87dae07f5f6a2212c925ddc7f2b752b2e45981edc",
  "ruta_texto": "Nayarit/ordenamientos/130/actual/texto.md",
- "generado": "2026-10-27T19:56:58.979020+00:00",
+ "generado": "2026-11-09T23:49:18.658681+00:00",
  "conteo": {
-  "cuerpo": 211,
-  "transitorios": 21,
-  "notas_de_reforma": 22
+  "cuerpo": 213,
+  "transitorios": 22,
+  "notas_de_reforma": 24
  },
  "articulos": [
   {
@@ -1742,25 +1742,33 @@
    "tipo": "cuerpo",
    "pagina_pdf": 111,
    "linea_inicio": 2919,
-   "linea_fin": 2922,
-   "caracteres": 222,
-   "reformas": []
+   "linea_fin": 2924,
+   "caracteres": 261,
+   "reformas": [
+    {
+     "tipo": "reforma",
+     "decreto": null,
+     "po_numero": null,
+     "fecha": "2026-03-31",
+     "nota": "REFORMADO, P.O. 31 DE MARZO DE 2026"
+    }
+   ]
   },
   {
    "articulo": "185",
    "tipo": "cuerpo",
    "pagina_pdf": 111,
-   "linea_inicio": 2923,
-   "linea_fin": 2928,
-   "caracteres": 620,
+   "linea_inicio": 2925,
+   "linea_fin": 2930,
+   "caracteres": 723,
    "reformas": []
   },
   {
    "articulo": "186",
    "tipo": "cuerpo",
    "pagina_pdf": 111,
-   "linea_inicio": 2929,
-   "linea_fin": 2932,
+   "linea_inicio": 2931,
+   "linea_fin": 2934,
    "caracteres": 284,
    "reformas": []
   },
@@ -1768,8 +1776,8 @@
    "articulo": "187",
    "tipo": "cuerpo",
    "pagina_pdf": 111,
-   "linea_inicio": 2933,
-   "linea_fin": 2944,
+   "linea_inicio": 2935,
+   "linea_fin": 2946,
    "caracteres": 701,
    "reformas": []
   },
@@ -1777,8 +1785,8 @@
    "articulo": "188",
    "tipo": "cuerpo",
    "pagina_pdf": 112,
-   "linea_inicio": 2945,
-   "linea_fin": 2960,
+   "linea_inicio": 2947,
+   "linea_fin": 2962,
    "caracteres": 877,
    "reformas": [
     {
@@ -1794,9 +1802,9 @@
    "articulo": "189",
    "tipo": "cuerpo",
    "pagina_pdf": 112,
-   "linea_inicio": 2961,
+   "linea_inicio": 2963,
    "linea_fin": 2984,
-   "caracteres": 1074,
+   "caracteres": 1073,
    "reformas": [
     {
      "tipo": "reforma",
@@ -1819,8 +1827,8 @@
    "tipo": "cuerpo",
    "pagina_pdf": 113,
    "linea_inicio": 2985,
-   "linea_fin": 2996,
-   "caracteres": 708,
+   "linea_fin": 3002,
+   "caracteres": 825,
    "reformas": [
     {
      "tipo": "adicion",
@@ -1834,10 +1842,10 @@
   {
    "articulo": "189 TER",
    "tipo": "cuerpo",
-   "pagina_pdf": 113,
-   "linea_inicio": 2997,
+   "pagina_pdf": 114,
+   "linea_inicio": 3003,
    "linea_fin": 3014,
-   "caracteres": 1004,
+   "caracteres": 887,
    "reformas": [
     {
      "tipo": "adicion",
@@ -1853,8 +1861,8 @@
    "tipo": "cuerpo",
    "pagina_pdf": 114,
    "linea_inicio": 3015,
-   "linea_fin": 3048,
-   "caracteres": 2882,
+   "linea_fin": 3036,
+   "caracteres": 1514,
    "reformas": [
     {
      "tipo": "adicion",
@@ -1866,11 +1874,37 @@
    ]
   },
   {
+   "articulo": "189 QUINQUIES",
+   "tipo": "cuerpo",
+   "pagina_pdf": 115,
+   "linea_inicio": 3037,
+   "linea_fin": 3044,
+   "caracteres": 705,
+   "reformas": [
+    {
+     "tipo": "adicion",
+     "decreto": null,
+     "po_numero": null,
+     "fecha": "2025-10-30",
+     "nota": "ADICIONADO, P.O. 30 DE OCTUBRE DE 2025"
+    }
+   ]
+  },
+  {
+   "articulo": "189 SEXIES",
+   "tipo": "cuerpo",
+   "pagina_pdf": 115,
+   "linea_inicio": 3045,
+   "linea_fin": 3056,
+   "caracteres": 671,
+   "reformas": []
+  },
+  {
    "articulo": "190",
    "tipo": "cuerpo",
    "pagina_pdf": 116,
-   "linea_inicio": 3049,
-   "linea_fin": 3060,
+   "linea_inicio": 3057,
+   "linea_fin": 3068,
    "caracteres": 591,
    "reformas": [
     {
@@ -1893,8 +1927,8 @@
    "articulo": "191",
    "tipo": "cuerpo",
    "pagina_pdf": 116,
-   "linea_inicio": 3061,
-   "linea_fin": 3064,
+   "linea_inicio": 3069,
+   "linea_fin": 3072,
    "caracteres": 278,
    "reformas": []
   },
@@ -1902,8 +1936,8 @@
    "articulo": "192",
    "tipo": "cuerpo",
    "pagina_pdf": 116,
-   "linea_inicio": 3065,
-   "linea_fin": 3068,
+   "linea_inicio": 3073,
+   "linea_fin": 3076,
    "caracteres": 329,
    "reformas": []
   },
@@ -1911,8 +1945,8 @@
    "articulo": "193",
    "tipo": "cuerpo",
    "pagina_pdf": 116,
-   "linea_inicio": 3069,
-   "linea_fin": 3072,
+   "linea_inicio": 3077,
+   "linea_fin": 3080,
    "caracteres": 180,
    "reformas": []
   },
@@ -1920,8 +1954,8 @@
    "articulo": "194",
    "tipo": "cuerpo",
    "pagina_pdf": 116,
-   "linea_inicio": 3073,
-   "linea_fin": 3084,
+   "linea_inicio": 3081,
+   "linea_fin": 3092,
    "caracteres": 321,
    "reformas": [
     {
@@ -1937,8 +1971,8 @@
    "articulo": "195",
    "tipo": "cuerpo",
    "pagina_pdf": 117,
-   "linea_inicio": 3085,
-   "linea_fin": 3098,
+   "linea_inicio": 3093,
+   "linea_fin": 3106,
    "caracteres": 954,
    "reformas": [
     {
@@ -1954,8 +1988,8 @@
    "articulo": "196",
    "tipo": "cuerpo",
    "pagina_pdf": 117,
-   "linea_inicio": 3099,
-   "linea_fin": 3110,
+   "linea_inicio": 3107,
+   "linea_fin": 3118,
    "caracteres": 596,
    "reformas": []
   },
@@ -1963,8 +1997,8 @@
    "articulo": "197",
    "tipo": "cuerpo",
    "pagina_pdf": 118,
-   "linea_inicio": 3111,
-   "linea_fin": 3116,
+   "linea_inicio": 3119,
+   "linea_fin": 3124,
    "caracteres": 367,
    "reformas": [
     {
@@ -1980,8 +2014,8 @@
    "articulo": "198",
    "tipo": "cuerpo",
    "pagina_pdf": 118,
-   "linea_inicio": 3117,
-   "linea_fin": 3122,
+   "linea_inicio": 3125,
+   "linea_fin": 3130,
    "caracteres": 434,
    "reformas": []
   },
@@ -1989,8 +2023,8 @@
    "articulo": "199",
    "tipo": "cuerpo",
    "pagina_pdf": 118,
-   "linea_inicio": 3123,
-   "linea_fin": 3144,
+   "linea_inicio": 3131,
+   "linea_fin": 3152,
    "caracteres": 2033,
    "reformas": [
     {
@@ -2006,8 +2040,8 @@
    "articulo": "199 BIS",
    "tipo": "cuerpo",
    "pagina_pdf": 119,
-   "linea_inicio": 3145,
-   "linea_fin": 3162,
+   "linea_inicio": 3153,
+   "linea_fin": 3170,
    "caracteres": 678,
    "reformas": []
   },
@@ -2015,8 +2049,8 @@
    "articulo": "200",
    "tipo": "cuerpo",
    "pagina_pdf": 120,
-   "linea_inicio": 3163,
-   "linea_fin": 3166,
+   "linea_inicio": 3171,
+   "linea_fin": 3174,
    "caracteres": 201,
    "reformas": []
   },
@@ -2024,8 +2058,8 @@
    "articulo": "201",
    "tipo": "cuerpo",
    "pagina_pdf": 120,
-   "linea_inicio": 3167,
-   "linea_fin": 3196,
+   "linea_inicio": 3175,
+   "linea_fin": 3204,
    "caracteres": 2226,
    "reformas": []
   },
@@ -2033,8 +2067,8 @@
    "articulo": "202",
    "tipo": "cuerpo",
    "pagina_pdf": 121,
-   "linea_inicio": 3197,
-   "linea_fin": 3208,
+   "linea_inicio": 3205,
+   "linea_fin": 3216,
    "caracteres": 720,
    "reformas": []
   },
@@ -2042,8 +2076,8 @@
    "articulo": "203",
    "tipo": "cuerpo",
    "pagina_pdf": 122,
-   "linea_inicio": 3209,
-   "linea_fin": 3220,
+   "linea_inicio": 3217,
+   "linea_fin": 3228,
    "caracteres": 1150,
    "reformas": []
   },
@@ -2051,8 +2085,8 @@
    "articulo": "204",
    "tipo": "cuerpo",
    "pagina_pdf": 122,
-   "linea_inicio": 3221,
-   "linea_fin": 3232,
+   "linea_inicio": 3229,
+   "linea_fin": 3240,
    "caracteres": 605,
    "reformas": []
   },
@@ -2060,8 +2094,8 @@
    "articulo": "205",
    "tipo": "cuerpo",
    "pagina_pdf": 123,
-   "linea_inicio": 3233,
-   "linea_fin": 3246,
+   "linea_inicio": 3241,
+   "linea_fin": 3254,
    "caracteres": 639,
    "reformas": []
   },
@@ -2069,8 +2103,8 @@
    "articulo": "206",
    "tipo": "cuerpo",
    "pagina_pdf": 123,
-   "linea_inicio": 3247,
-   "linea_fin": 3250,
+   "linea_inicio": 3255,
+   "linea_fin": 3258,
    "caracteres": 202,
    "reformas": []
   },
@@ -2078,8 +2112,8 @@
    "articulo": "207",
    "tipo": "cuerpo",
    "pagina_pdf": 123,
-   "linea_inicio": 3251,
-   "linea_fin": 3262,
+   "linea_inicio": 3259,
+   "linea_fin": 3270,
    "caracteres": 380,
    "reformas": []
   },
@@ -2087,8 +2121,8 @@
    "articulo": "PRIMERO",
    "tipo": "transitorio",
    "pagina_pdf": 124,
-   "linea_inicio": 3263,
-   "linea_fin": 3264,
+   "linea_inicio": 3271,
+   "linea_fin": 3272,
    "caracteres": 197,
    "reformas": []
   },
@@ -2096,8 +2130,8 @@
    "articulo": "SEGUNDO",
    "tipo": "transitorio",
    "pagina_pdf": 124,
-   "linea_inicio": 3265,
-   "linea_fin": 3266,
+   "linea_inicio": 3273,
+   "linea_fin": 3274,
    "caracteres": 182,
    "reformas": []
   },
@@ -2105,8 +2139,8 @@
    "articulo": "TERCERO",
    "tipo": "transitorio",
    "pagina_pdf": 124,
-   "linea_inicio": 3267,
-   "linea_fin": 3268,
+   "linea_inicio": 3275,
+   "linea_fin": 3276,
    "caracteres": 390,
    "reformas": []
   },
@@ -2114,8 +2148,8 @@
    "articulo": "CUARTO",
    "tipo": "transitorio",
    "pagina_pdf": 124,
-   "linea_inicio": 3269,
-   "linea_fin": 3270,
+   "linea_inicio": 3277,
+   "linea_fin": 3278,
    "caracteres": 301,
    "reformas": []
   },
@@ -2123,8 +2157,8 @@
    "articulo": "QUINTO",
    "tipo": "transitorio",
    "pagina_pdf": 124,
-   "linea_inicio": 3271,
-   "linea_fin": 3282,
+   "linea_inicio": 3279,
+   "linea_fin": 3290,
    "caracteres": 957,
    "reformas": []
   },
@@ -2132,8 +2166,8 @@
    "articulo": "SEXTO",
    "tipo": "transitorio",
    "pagina_pdf": 125,
-   "linea_inicio": 3283,
-   "linea_fin": 3286,
+   "linea_inicio": 3291,
+   "linea_fin": 3294,
    "caracteres": 990,
    "reformas": []
   },
@@ -2141,8 +2175,8 @@
    "articulo": "SÉPTIMO",
    "tipo": "transitorio",
    "pagina_pdf": 125,
-   "linea_inicio": 3287,
-   "linea_fin": 3290,
+   "linea_inicio": 3295,
+   "linea_fin": 3298,
    "caracteres": 505,
    "reformas": []
   },
@@ -2150,8 +2184,8 @@
    "articulo": "OCTAVO",
    "tipo": "transitorio",
    "pagina_pdf": 125,
-   "linea_inicio": 3291,
-   "linea_fin": 3300,
+   "linea_inicio": 3299,
+   "linea_fin": 3308,
    "caracteres": 398,
    "reformas": []
   },
@@ -2159,8 +2193,8 @@
    "articulo": "NOVENO",
    "tipo": "transitorio",
    "pagina_pdf": 126,
-   "linea_inicio": 3301,
-   "linea_fin": 3304,
+   "linea_inicio": 3309,
+   "linea_fin": 3312,
    "caracteres": 525,
    "reformas": []
   },
@@ -2168,8 +2202,8 @@
    "articulo": "DÉCIMO",
    "tipo": "transitorio",
    "pagina_pdf": 126,
-   "linea_inicio": 3305,
-   "linea_fin": 3306,
+   "linea_inicio": 3313,
+   "linea_fin": 3314,
    "caracteres": 399,
    "reformas": []
   },
@@ -2177,8 +2211,8 @@
    "articulo": "DÉCIMO PRIMERO",
    "tipo": "transitorio",
    "pagina_pdf": 126,
-   "linea_inicio": 3307,
-   "linea_fin": 3316,
+   "linea_inicio": 3315,
+   "linea_fin": 3324,
    "caracteres": 986,
    "reformas": []
   },
@@ -2186,8 +2220,8 @@
    "articulo": "DÉCIMO SEGUNDO",
    "tipo": "transitorio",
    "pagina_pdf": 127,
-   "linea_inicio": 3317,
-   "linea_fin": 3318,
+   "linea_inicio": 3325,
+   "linea_fin": 3326,
    "caracteres": 270,
    "reformas": []
   },
@@ -2195,8 +2229,8 @@
    "articulo": "DÉCIMO TERCERO",
    "tipo": "transitorio",
    "pagina_pdf": 127,
-   "linea_inicio": 3319,
-   "linea_fin": 3320,
+   "linea_inicio": 3327,
+   "linea_fin": 3328,
    "caracteres": 373,
    "reformas": []
   },
@@ -2204,8 +2238,8 @@
    "articulo": "DÉCIMO CUARTO",
    "tipo": "transitorio",
    "pagina_pdf": 127,
-   "linea_inicio": 3321,
-   "linea_fin": 3322,
+   "linea_inicio": 3329,
+   "linea_fin": 3330,
    "caracteres": 219,
    "reformas": []
   },
@@ -2213,8 +2247,8 @@
    "articulo": "DÉCIMO QUINTO",
    "tipo": "transitorio",
    "pagina_pdf": 127,
-   "linea_inicio": 3323,
-   "linea_fin": 3334,
+   "linea_inicio": 3331,
+   "linea_fin": 3342,
    "caracteres": 798,
    "reformas": []
   },
@@ -2222,8 +2256,8 @@
    "articulo": "DÉCIMO SEXTO",
    "tipo": "transitorio",
    "pagina_pdf": 128,
-   "linea_inicio": 3335,
-   "linea_fin": 3336,
+   "linea_inicio": 3343,
+   "linea_fin": 3344,
    "caracteres": 298,
    "reformas": []
   },
@@ -2231,8 +2265,8 @@
    "articulo": "DÉCIMO SÉPTIMO",
    "tipo": "transitorio",
    "pagina_pdf": 128,
-   "linea_inicio": 3337,
-   "linea_fin": 3338,
+   "linea_inicio": 3345,
+   "linea_fin": 3346,
    "caracteres": 346,
    "reformas": []
   },
@@ -2240,8 +2274,8 @@
    "articulo": "DÉCIMO OCTAVO",
    "tipo": "transitorio",
    "pagina_pdf": 128,
-   "linea_inicio": 3339,
-   "linea_fin": 3340,
+   "linea_inicio": 3347,
+   "linea_fin": 3348,
    "caracteres": 245,
    "reformas": []
   },
@@ -2249,8 +2283,8 @@
    "articulo": "DÉCIMO NOVENO",
    "tipo": "transitorio",
    "pagina_pdf": 128,
-   "linea_inicio": 3341,
-   "linea_fin": 3342,
+   "linea_inicio": 3349,
+   "linea_fin": 3350,
    "caracteres": 156,
    "reformas": []
   },
@@ -2258,18 +2292,27 @@
    "articulo": "VIGÉSIMO",
    "tipo": "transitorio",
    "pagina_pdf": 128,
-   "linea_inicio": 3343,
-   "linea_fin": 3378,
-   "caracteres": 2559,
+   "linea_inicio": 3351,
+   "linea_fin": 3386,
+   "caracteres": 2558,
    "reformas": []
   },
   {
    "articulo": "ÚNICO",
    "tipo": "transitorio",
    "pagina_pdf": 130,
-   "linea_inicio": 3379,
-   "linea_fin": 3634,
-   "caracteres": 19137,
+   "linea_inicio": 3387,
+   "linea_fin": 3390,
+   "caracteres": 162,
+   "reformas": []
+  },
+  {
+   "articulo": "ÚNICO",
+   "tipo": "transitorio",
+   "pagina_pdf": 130,
+   "linea_inicio": 3391,
+   "linea_fin": 3640,
+   "caracteres": 16886,
    "reformas": []
   }
  ]

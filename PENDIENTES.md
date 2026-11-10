@@ -59,30 +59,52 @@ Electoral, que ya están aquí. Alcance acordado:
 - Las URL del INE no pudieron verificarse desde el entorno de trabajo porque
   el proxy bloquea `sidj.ine.mx`. Se verifican al llegar al paso 4.
 
-## Cuatro ordenamientos de Nayarit congelados
+## Vigilancia del catálogo de Sinaloa
 
-Detectado el 9 de noviembre de 2026. El Congreso de Nayarit no sobreescribe
-el archivo cuando publica una reforma: **sube otro con el nombre terminado en
-«-1» y cambia el enlace del catálogo**. La URL vieja sigue respondiendo, con
-el mismo contenido, así que la revisión por SHA no ve nada. Lo que cambió fue
-a dónde apunta el catálogo.
+Sinaloa sigue sin protección frente al cambio de enlaces: su catálogo se arma con JavaScript desde otro host y su lista no es observable desde el HTML servido. La corrección de enlaces congelados de Nayarit queda documentada en `Nayarit/reportes/actualizacion-enlaces-2026-11-09.md`.
 
-| ID | Ordenamiento | Lo nuestro | Lo publicado |
-|---:|---|---|---|
-| 5 | Constitución Política del Estado | 22-jul-2026, 181 págs. | 22-sep-2026, 187 págs., enmienda del 3-sep |
-| 24 | Ley para la Competitividad y el Empleo | 22-sep-2025 | 23-sep-2026 |
-| 48 | Ley de Desarrollo Forestal Sustentable | 18-abr-2024 | 15-sep-2026 |
-| 130 | Ley Orgánica del Poder Judicial | 20-nov-2025 | 15-sep-2026 |
+## Auditoría integral — pendiente mayor
 
-Falta reconvertirlos desde la URL nueva y actualizar `urls` en su
-`metadata.json`. La Ley Municipal (ID 139) también tiene un archivo «-1»,
-pero es idéntico al que ya usamos: no requiere nada.
+**La biblioteca se ha venido corrigiendo a parches, cada uno a raíz del error
+que lo destapó.** Han funcionado, pero ninguno nació de una revisión
+sistemática: el índice que se detenía en DUODÉCIMO llevaba meses perdiendo
+2,651 transitorios, las remisiones salían distintas en cada corrida sin que
+nadie lo notara, y cuatro ordenamientos de Nayarit quedaron congelados dos
+meses mientras la alerta semanal decía «algo cambió» sin decir qué. Los tres
+se descubrieron de casualidad, no por buscarlos.
 
-La causa de fondo quedó corregida en `bin/vigilancia.py`, que ahora guarda la
-lista de enlaces del catálogo y reporta altas y bajas por nombre, y avisa
-cuando la URL archivada de un ordenamiento deja de estar enlazada. **Sinaloa
-sigue sin esa protección**: su catálogo se arma con JavaScript desde otro
-host y su lista no es observable desde el HTML servido.
+Hace falta una pasada completa y de una sola vez, antes de que el acervo
+crezca más. Lo que debe cubrir, con lo que hoy sabemos:
+
+**Integridad de los punteros.** Cada URL archivada contra el catálogo vigente,
+en los cuatro acervos. Incluye resolver la observabilidad del catálogo de
+Sinaloa, hoy el único sin protección contra el enlace congelado.
+
+**Vigencia real.** Fecha de última reforma archivada contra la que publica
+cada fuente, ordenamiento por ordenamiento. No solo los que cambiaron de
+enlace: también los que la fuente actualizó sin que lo notáramos.
+
+**Altas que nunca entraron.** Ordenamientos publicados por los congresos
+después de la carga inicial y que no están en el acervo. Hoy no hay ningún
+control que los busque.
+
+**Consistencia estructural.** Que `version` sea el SHA-256 del original, que
+`actual` resuelva a un directorio existente, que no queden versiones huérfanas
+ni `metadata.json` apuntando a un texto que no es el suyo.
+
+**Calidad del articulado.** Los 398 números de artículo duplicados dentro de
+un mismo ordenamiento; aperturas de artículo sin marcar; transitorios que
+absorben el resto del documento —el último de Nayarit 139 carga 18,665
+caracteres—; las notas del DOF, las declaratorias de invalidez de la SCJN y la
+tabla de la LIGIE, todas sin anclar.
+
+**Reproducibilidad.** Que regenerar los índices dos veces produzca exactamente
+lo mismo. Se corrigió en `remisiones.json`; falta comprobar el resto de la
+capa.
+
+**El proceso, no solo el dato.** Por qué una alerta se cerró dos veces como
+ruido. Una alerta que no se puede accionar enseña a ignorar la alarma, y ese
+es el fallo más caro de todos.
 
 ## Skill
 

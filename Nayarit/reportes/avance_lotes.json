@@ -1,9 +1,9 @@
 {
   "creado": "2026-09-14T12:17:03.345124+00:00",
-  "actualizado": "2026-09-15T18:51:57.681022+00:00",
+  "actualizado": "2026-11-09T21:10:19.183087+00:00",
   "tamano_lote": 10,
   "catalogo_origen": "catalogo/leyes-estatales.json",
-  "catalogo_sha256": "9ca77acc7cd2ce371886dbb9adf820572108fc827d55aa6f1c258a1c884b1ec7",
+  "catalogo_sha256": "365f9af6f2af78474d4b7e04241c881850427edb3f666e4d2f82da3429266986",
   "nota": "IDs propios persistidos; URLs no identifican ordenamientos. El catálogo queda congelado durante estos lotes.",
   "items": [
     {
@@ -582,42 +582,12 @@
       "id": 5,
       "nombre": "Constitución Política del Estado Libre y Soberano de Nayarit",
       "lote": 0,
-      "estado": "piloto_revisado",
+      "estado": "procesado_con_incidencias",
       "detalle": {
         "id": 5,
-        "nombre": "Constitución Política del Estado Libre y Soberano de Nayarit",
-        "paginas": 181,
-        "remisiones_corregidas": [
-          {
-            "linea": 10,
-            "texto": "Artículo 131 de la Constitución Política del Estado, suscríbase la Minuta Proyecto",
-            "anterior": "ARTICULO PRIMERO.- Para cumplir las condiciones y efectos a que se refiere el",
-            "siguiente": "de Decreto por los Ciudadanos Diputados integrantes de esta Honorable",
-            "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
-            "pagina": 128
-          },
-          {
-            "linea": 49,
-            "texto": "Artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, a",
-            "anterior": "Ayuntamientos Constitucionales del Estado, para los efectos a que alude el",
-            "siguiente": "cuyo término deberán computarse los resultados y tramitarse el Decreto",
-            "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
-            "pagina": 133
-          },
-          {
-            "linea": 24,
-            "texto": "Artículo 105 de la Constitución Política del Estado Libre y Soberano de Nayarit.",
-            "anterior": "Decreto que tiene por objeto reformar el Artículo 104 y el Segundo Párrafo del",
-            "siguiente": "",
-            "motivo": "renglón anterior sin punto final",
-            "pagina": 163
-          }
-        ],
-        "version": "3d18b8c6b961310ca90b51e9951b4b6f032cfe0d31e12190206874bf5a677ee7",
-        "hash_sha256": {
-          "pdf": "b437858954f1c10eab8a69368d1b44893c782d0ab0a82890a79d9c4e54e24fe5",
-          "word": "d84cc4f24c363dbbfacb97453f02015a7c86661179d1174c9e0b9028ff7d4faa"
-        },
+        "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
+        "paginas": 187,
+        "version": "f936be91df703cfdf8119347aa240ff4f1a3cd8523c8c87c56dca0aa9269ab54",
         "campos_incompletos": [
           "abroga",
           "decreto_numero",
@@ -631,8 +601,10 @@
           "ultima_reforma.edicion",
           "ultima_reforma.numero"
         ],
-        "resultado": "Piloto corregido v2: conservación verificada; cotejo Word/PDF con incidencias",
-        "paginas_sin_texto": []
+        "paginas_sin_texto": [],
+        "incidencias_descarga": [],
+        "paginas_cifras_discrepantes": [],
+        "remisiones_en_cuerpo": 16
       },
       "catalogo": {
         "id": 5,
@@ -643,8 +615,8 @@
         "word": true,
         "nb_extword": "doc",
         "fecha": null,
-        "url_pdf": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/constitucion/Constitucion_Politica_del_Estado_Libre_y_Soberano_de_Nayarit.pdf",
-        "url_word": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/constitucion/Constitucion_Politica_del_Estado_Libre_y_Soberano_de_Nayarit.doc",
+        "url_pdf": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/constitucion/Constitucion_Politica_del_Estado_Libre_y_Soberano_de_Nayarit-1.pdf",
+        "url_word": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/constitucion/Constitucion_Politica_del_Estado_Libre_y_Soberano_de_Nayarit-1.doc",
         "seccion_sitio": "Constitución Política",
         "secciones_sitio": [
           "Constitución Política"
@@ -1616,8 +1588,8 @@
       "detalle": {
         "id": 24,
         "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
-        "paginas": 29,
-        "version": "62acb5260436c684d3e59649278061a4c0979f7c81e89a11f87e4cbd05fb85de",
+        "paginas": 30,
+        "version": "d7d2bd71358b46fc80896973e141644f58004a014bd9fcb23bf2ea133d6be04b",
         "campos_incompletos": [
           "abroga",
           "abroga[].decreto",
@@ -1663,9 +1635,10 @@
           26,
           27,
           28,
-          29
+          29,
+          30
         ],
-        "remisiones_en_cuerpo": 0
+        "remisiones_en_cuerpo": 1
       },
       "catalogo": {
         "id": 24,
@@ -1676,8 +1649,8 @@
         "word": true,
         "nb_extword": "doc",
         "fecha": null,
-        "url_pdf": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes/competitividad_y_el_empleo_del_estado_de_nayarit_ley_para_la.pdf",
-        "url_word": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes/competitividad_y_el_empleo_del_estado_de_nayarit_ley_para_la.doc",
+        "url_pdf": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes/competitividad_y_el_empleo_del_estado_de_nayarit_ley_para_la-1.pdf",
+        "url_word": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes/competitividad_y_el_empleo_del_estado_de_nayarit_ley_para_la-1.doc",
         "seccion_sitio": "Leyes",
         "secciones_sitio": [
           "Leyes"
@@ -3163,8 +3136,8 @@
       "detalle": {
         "id": 48,
         "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
-        "paginas": 76,
-        "version": "c91908b83f9d9d73134d434f7a7e714dbb94d51bb4a7c82407874019d75f6130",
+        "paginas": 80,
+        "version": "d9c894fce028b6dee0c8a34759389f14a18532ba0fbd9b4cb9415b9eaa61e243",
         "campos_incompletos": [
           "abroga",
           "abroga[].decreto",
@@ -3176,15 +3149,15 @@
           "po_publicacion.fecha",
           "po_publicacion.numero",
           "po_publicacion.seccion",
-          "reformas",
+          "reformas[].decreto",
+          "reformas[].po_numero",
           "ultima_reforma.edicion",
-          "ultima_reforma.fecha",
           "ultima_reforma.numero"
         ],
         "paginas_sin_texto": [],
         "incidencias_descarga": [],
         "paginas_cifras_discrepantes": [],
-        "remisiones_en_cuerpo": 0
+        "remisiones_en_cuerpo": 1
       },
       "catalogo": {
         "id": 48,
@@ -3195,8 +3168,8 @@
         "word": true,
         "nb_extword": "docx",
         "fecha": null,
-        "url_pdf": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes/desarrollo_forestal_sustentable_para_el_estado_de_nayarit_ley_de.pdf",
-        "url_word": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes/desarrollo_forestal_sustentable_para_el_estado_de_nayarit_ley_de.docx",
+        "url_pdf": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes/desarrollo_forestal_sustentable_para_el_estado_de_nayarit_ley_de-1.pdf",
+        "url_word": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes/desarrollo_forestal_sustentable_para_el_estado_de_nayarit_ley_de-1.docx",
         "seccion_sitio": "Leyes",
         "secciones_sitio": [
           "Leyes"
@@ -7974,8 +7947,8 @@
       "detalle": {
         "id": 130,
         "resultado": "Conversión conservada; cotejo Word/PDF con incidencias",
-        "paginas": 134,
-        "version": "200690360d467a68b1e3347fd52c06db5ff55bd7d163e4e9fbb4d2d98ec2191f",
+        "paginas": 133,
+        "version": "1b1145909b73369db51d16b87dae07f5f6a2212c925ddc7f2b752b2e45981edc",
         "campos_incompletos": [
           "abroga",
           "abroga[].decreto",
@@ -7995,7 +7968,7 @@
         "paginas_sin_texto": [],
         "incidencias_descarga": [],
         "paginas_cifras_discrepantes": [],
-        "remisiones_en_cuerpo": 2
+        "remisiones_en_cuerpo": 3
       },
       "catalogo": {
         "id": 130,
@@ -8006,8 +7979,8 @@
         "word": true,
         "nb_extword": "docx",
         "fecha": null,
-        "url_pdf": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes_organicas/poder_judicial_del_estado_de_nayarit_ley_organica_del.pdf",
-        "url_word": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes_organicas/poder_judicial_del_estado_de_nayarit_ley_organica_del.docx",
+        "url_pdf": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes_organicas/poder_judicial_del_estado_de_nayarit_ley_organica_del-1.pdf",
+        "url_word": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes_organicas/poder_judicial_del_estado_de_nayarit_ley_organica_del-1.docx",
         "seccion_sitio": "Leyes Orgánicas",
         "secciones_sitio": [
           "Leyes Orgánicas"
@@ -8441,5 +8414,5 @@
       }
     }
   ],
-  "ultimo_evento": "Lote 14 cerrado; archivos disponibles verificados. Catálogo agotado: no existe lote 15. ID 133 pendiente de originales; consultar incidencias."
+  "ultimo_evento": "Actualizados IDs 5, 24, 48 y 130 desde enlaces vigentes del catálogo capturado 2026-11-09. Versiones anteriores preservadas. ID 139 sin cambios."
 }
