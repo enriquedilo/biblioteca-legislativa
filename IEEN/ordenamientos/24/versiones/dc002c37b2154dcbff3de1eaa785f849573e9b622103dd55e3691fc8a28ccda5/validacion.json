@@ -1,0 +1,227 @@
+{
+  "id": 24,
+  "fecha_revision": "2026-11-10T05:13:09.063251+00:00",
+  "resultado": "Conversión conservada; muestra visual y auditoría de índices verificadas",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 5,
+  "paginas_sin_texto": [],
+  "texto_conservado": true,
+  "transitorios_y_notas_completos_incluidos": true,
+  "ocr_ejecutado": false,
+  "paginas_cotejadas_visualmente": [
+    1,
+    5
+  ],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 1992,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 18,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 50,
+          "texto": "1"
+        }
+      ]
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 2243,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 8,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 51,
+          "texto": "2"
+        }
+      ]
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 2163,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 14,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 50,
+          "texto": "3"
+        }
+      ]
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 2479,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 12,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 49,
+          "texto": "4"
+        }
+      ]
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 1488,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 6,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 34,
+          "texto": "5"
+        }
+      ]
+    }
+  ],
+  "promociones_encabezado_evitadas": [
+    {
+      "linea": 12,
+      "texto": "artículos 66, 67 y 68 de la Ley Electoral del Estado de Nayarit.",
+      "anterior": "para participar en elecciones locales por medio de candidaturas comunes, en términos de los",
+      "siguiente": "",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 1
+    }
+  ],
+  "incidencias_metadata": [
+    {
+      "campo": "decreto_numero",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "po_publicacion",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "ultima_reforma",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "abroga",
+      "motivo": "Sin cláusula inequívoca localizada; arreglo vacío no afirma ausencia normativa."
+    }
+  ],
+  "comparacion_word_pdf": null,
+  "diferencias_de_fuente": [
+    "No hay Word en el catálogo; sin comparación Word/PDF."
+  ],
+  "alcance": "Conservación por página de todos los caracteres no blancos, signos, cifras y comienzos de listas respecto de Poppler; doble lector numérico informativo, discrepancias no reparadas. No equivale a cotejo visual integral. Acuerdo y reformas proceden del catálogo por instrucción expresa.",
+  "evidencia_metadata": {
+    "nombre_oficial": {
+      "pagina_pdf": 1,
+      "texto": "LINEAMIENTOS PARA EL REGISTRO DE CANDIDATURAS COMUNES DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT"
+    },
+    "fecha_catalogo": "No se usa como fecha de publicación ni última reforma impresa."
+  },
+  "auditoria_encabezados": {
+    "rotulos_propios": 15,
+    "rotulos_no_reconocidos": [],
+    "remisiones_no_promovidas": [],
+    "rotulos_por_pagina": [
+      {
+        "articulo": "1",
+        "pagina_pdf": 1,
+        "texto": "Artículo 1."
+      },
+      {
+        "articulo": "2",
+        "pagina_pdf": 1,
+        "texto": "Artículo 2."
+      },
+      {
+        "articulo": "3",
+        "pagina_pdf": 2,
+        "texto": "Artículo 3."
+      },
+      {
+        "articulo": "4",
+        "pagina_pdf": 2,
+        "texto": "Artículo 4."
+      },
+      {
+        "articulo": "5",
+        "pagina_pdf": 2,
+        "texto": "Artículo 5."
+      },
+      {
+        "articulo": "6",
+        "pagina_pdf": 3,
+        "texto": "Artículo 6."
+      },
+      {
+        "articulo": "7",
+        "pagina_pdf": 3,
+        "texto": "Artículo 7."
+      },
+      {
+        "articulo": "8",
+        "pagina_pdf": 3,
+        "texto": "Artículo 8."
+      },
+      {
+        "articulo": "9",
+        "pagina_pdf": 3,
+        "texto": "Artículo 9."
+      },
+      {
+        "articulo": "10",
+        "pagina_pdf": 3,
+        "texto": "Artículo 10."
+      },
+      {
+        "articulo": "11",
+        "pagina_pdf": 4,
+        "texto": "Artículo 11."
+      },
+      {
+        "articulo": "12",
+        "pagina_pdf": 4,
+        "texto": "Artículo 12."
+      },
+      {
+        "articulo": "13",
+        "pagina_pdf": 4,
+        "texto": "Artículo 13."
+      },
+      {
+        "articulo": "14",
+        "pagina_pdf": 5,
+        "texto": "Artículo 14."
+      },
+      {
+        "articulo": "15",
+        "pagina_pdf": 5,
+        "texto": "Artículo 15."
+      }
+    ],
+    "metodo": "Rótulos numéricos al inicio de línea del original Poppler, cotejados por número y página contra índice; revisión explícita de remisiones."
+  },
+  "seleccion_version_catalogo": {
+    "acuerdo": "IEEN-CLE-067/2024",
+    "fecha": "2024-03-15",
+    "url": "https://ieenayarit.org/PDF/2024/Acuerdos/IEEN-CLE-067-2024-A1.pdf",
+    "fecha_maxima": "2024-03-15",
+    "criterio": "Mayor fecha ISO entre vigente y reformas, nunca posición."
+  }
+}

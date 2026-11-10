@@ -1,0 +1,255 @@
+{
+  "id": 23,
+  "fecha_revision": "2026-11-10T05:13:08.976084+00:00",
+  "resultado": "Conversión conservada; muestra visual y auditoría de índices verificadas",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 7,
+  "paginas_sin_texto": [],
+  "texto_conservado": true,
+  "transitorios_y_notas_completos_incluidos": true,
+  "ocr_ejecutado": false,
+  "paginas_cotejadas_visualmente": [
+    1,
+    7
+  ],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 1880,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 6,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 57,
+          "texto": "1"
+        }
+      ]
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 1955,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 57,
+          "texto": "2"
+        }
+      ]
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 1466,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 55,
+          "texto": "3"
+        }
+      ]
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 2126,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 10,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 56,
+          "texto": "4"
+        }
+      ]
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 2393,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 12,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 56,
+          "texto": "5"
+        }
+      ]
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 2396,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 13,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 54,
+          "texto": "6"
+        }
+      ]
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 251,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 15,
+          "texto": "7"
+        }
+      ]
+    }
+  ],
+  "promociones_encabezado_evitadas": [],
+  "incidencias_metadata": [
+    {
+      "campo": "decreto_numero",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "po_publicacion",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "ultima_reforma",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "abroga",
+      "motivo": "Sin cláusula inequívoca localizada; arreglo vacío no afirma ausencia normativa."
+    }
+  ],
+  "comparacion_word_pdf": null,
+  "diferencias_de_fuente": [
+    "No hay Word en el catálogo; sin comparación Word/PDF."
+  ],
+  "alcance": "Conservación por página de todos los caracteres no blancos, signos, cifras y comienzos de listas respecto de Poppler; doble lector numérico informativo, discrepancias no reparadas. No equivale a cotejo visual integral. Acuerdo y reformas proceden del catálogo por instrucción expresa.",
+  "evidencia_metadata": {
+    "nombre_oficial": {
+      "pagina_pdf": 1,
+      "texto": "LINEAMIENTOS DE SEGURIDAD SANITARIA EN LAS ETAPAS DE APOYO CIUDADANO, PRECAMPAÑAS Y CAMPAÑAS ELECTORALES EN EL MARCO DEL PROCESO ELECTORAL LOCAL ORDINARIO 2021, ANTE LA PANDEMIA PROVOCADA POR EL VIRUS SARS-COV2 (COVID-19)."
+    },
+    "fecha_catalogo": "No se usa como fecha de publicación ni última reforma impresa."
+  },
+  "auditoria_encabezados": {
+    "rotulos_propios": 16,
+    "rotulos_no_reconocidos": [],
+    "remisiones_no_promovidas": [],
+    "rotulos_por_pagina": [
+      {
+        "articulo": "1",
+        "pagina_pdf": 1,
+        "texto": "Artículo 1.- Los presentes Lineamientos son de observancia obligatoria para toda"
+      },
+      {
+        "articulo": "2",
+        "pagina_pdf": 1,
+        "texto": "Artículo 2.- Para efectos de los presentes Lineamientos, se entenderán por:"
+      },
+      {
+        "articulo": "3",
+        "pagina_pdf": 1,
+        "texto": "Artículo 3.- Se entienden por actos tendentes a recabar el apoyo ciudadano, el conjunto"
+      },
+      {
+        "articulo": "4",
+        "pagina_pdf": 1,
+        "texto": "Artículo 4.- Se entienden por actos de precampaña, a las reuniones públicas, asambleas,"
+      },
+      {
+        "articulo": "5",
+        "pagina_pdf": 2,
+        "texto": "Artículo 5.- Se entienden por actos de campaña a las reuniones públicas, asambleas,"
+      },
+      {
+        "articulo": "6",
+        "pagina_pdf": 2,
+        "texto": "Artículo 6.- Para el desarrollo de los actos tendentes a recabar el apoyo ciudadano, los"
+      },
+      {
+        "articulo": "7",
+        "pagina_pdf": 2,
+        "texto": "Artículo 7.- Los partidos políticos acreditados ante el Instituto, así como las candidaturas"
+      },
+      {
+        "articulo": "8",
+        "pagina_pdf": 3,
+        "texto": "Artículo 8.- En aplicación analógica a los ejemplos de las actividades específicas que se"
+      },
+      {
+        "articulo": "9",
+        "pagina_pdf": 3,
+        "texto": "Artículo 9.- Los actos tendentes a recabar el apoyo ciudadano, los actos de precampaña"
+      },
+      {
+        "articulo": "10",
+        "pagina_pdf": 3,
+        "texto": "Artículo 10.- Para el desarrollo de los actos tendentes a recabar el apoyo ciudadano, los"
+      },
+      {
+        "articulo": "11",
+        "pagina_pdf": 3,
+        "texto": "Artículo 11.- Los actos tendentes a recabar el apoyo ciudadano, los actos de"
+      },
+      {
+        "articulo": "12",
+        "pagina_pdf": 4,
+        "texto": "Artículo 12.- Los actos tendentes a recabar el apoyo ciudadano, los actos de"
+      },
+      {
+        "articulo": "13",
+        "pagina_pdf": 5,
+        "texto": "Artículo 13.- Los actos tendentes a recabar el apoyo ciudadano, los actos de"
+      },
+      {
+        "articulo": "14",
+        "pagina_pdf": 6,
+        "texto": "Artículo 14.- El presente instrumento contiene las reglas que, a partir de su emisión y"
+      },
+      {
+        "articulo": "15",
+        "pagina_pdf": 6,
+        "texto": "Artículo 15.- En caso de incumplimiento por parte de los sujetos obligados a los"
+      },
+      {
+        "articulo": "16",
+        "pagina_pdf": 7,
+        "texto": "Artículo 16.- En caso de presentarse circunstancias extraordinarias a lo dispuesto en los"
+      }
+    ],
+    "metodo": "Rótulos numéricos al inicio de línea del original Poppler, cotejados por número y página contra índice; revisión explícita de remisiones."
+  },
+  "seleccion_version_catalogo": {
+    "acuerdo": "IEEN-CLE-005/2021",
+    "fecha": "2021-01-06",
+    "url": "https://ieenayarit.org/PDF/2021/Acuerdos/IEEN-CLE-005-2021-A1.pdf",
+    "fecha_maxima": "2021-01-06",
+    "criterio": "Mayor fecha ISO entre vigente y reformas, nunca posición."
+  }
+}
