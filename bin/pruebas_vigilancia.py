@@ -17,6 +17,7 @@ RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(RAIZ, "bin"))
 os.chdir(RAIZ)
 import vigilancia as V
+ETIQ = V.ETIQUETAS["enlace_fuera_del_catalogo"]
 
 # inventario real de cada entidad, leido del acervo
 for ent in ("Sinaloa", "Nayarit", "Federal"):
@@ -80,5 +81,46 @@ assert "Constitucion_Politica_del_Estado_Libre_y_Soberano_de_Nayarit-1.pdf" in d
 assert "alta (1)" in d and "baja (1)" in d
 print("el aviso nombra el archivo que entro y el que salio  OK")
 
+# --- la caja de la URL: el fallo que dejo el control muerto ----------------
+# Las rutas del Congreso traen tramos en mayusculas y el HTML no siempre
+# conserva la caja. La prueba anterior usaba la misma caja de los dos lados y
+# por eso pasaba con el control roto: la cobertura salia 0% y _huerfanos se
+# abstenia en silencio, sin reportar nada, en todas las corridas.
+MAYUS = (P + "constitucion/Constitucion_Politica_del_Estado_Libre_y_Soberano_"
+         "de_Nayarit.pdf")
+inv_real = [{"id": 5, "nombre": "Constitucion", "url_pdf": MAYUS}] + resto
+catalogo_min = {u.lower() for u in ({NUEVA} | {it["url_pdf"] for it in resto})}
+
+obs = {}
+h = V._huerfanos("Nayarit", inv_real, catalogo_min, obs)
+assert obs.get("huerfanos_no_evaluables") is not True, "se abstuvo por la caja"
+assert obs["cobertura"] > 0.9, obs
+assert len(h) == 1 and h[0]["id"] == 5, h
+print("huerfano detectado aunque el catalogo venga en minusculas  OK")
+
+# y al reves: lo archivado en minusculas contra un catalogo en mayusculas
+inv_min = [{"id": 5, "nombre": "Constitucion", "url_pdf": MAYUS.lower()}] + resto
+assert V._huerfanos("Nayarit", inv_min, {MAYUS} | {it["url_pdf"] for it in resto}, {}) == []
+print("sin falsos huerfanos por diferencia de caja  OK")
+
+# --- el reporte no puede omitir una categoria ------------------------------
+import tempfile, os as _os
+V.VIG = tempfile.mkdtemp()
+V.escribir_reporte([{"tipo": "enlace_fuera_del_catalogo", "entidad": "Nayarit",
+                     "id": 5, "nombre": "Constitucion", "url": MAYUS,
+                     "detalle": "el catalogo ya no enlaza este archivo"}],
+                   736, 10, [])
+txt = open(_os.path.join(V.VIG, "reporte.md"), encoding="utf-8").read()
+assert "Constitucion" in txt and ETIQ in txt, txt[:400]
+print("el reporte imprime la categoria de enlace huerfano  OK")
+
+# una categoria imprevista tampoco desaparece
+V.escribir_reporte([{"tipo": "categoria_que_no_existia", "entidad": "Nayarit",
+                     "id": 1, "nombre": "X", "detalle": "y"}], 1, 1, [])
+assert "categoria_que_no_existia" in open(_os.path.join(V.VIG, "reporte.md"),
+                                          encoding="utf-8").read()
+print("una categoria nueva no se pierde por no estar en la lista  OK")
+
 print("\nTodas las pruebas pasaron.")
+
 

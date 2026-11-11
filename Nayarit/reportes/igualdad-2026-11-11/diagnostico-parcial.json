@@ -1,0 +1,44 @@
+{
+  "url_id75_antes": {
+    "entidad": "Nayarit",
+    "id": 75,
+    "nombre": "Ley de Igualdad entre Mujeres y Hombres",
+    "url_pdf": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes/igualdad_entre_mujeres_y_hombres_ley_de.pdf",
+    "url_word": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes/igualdad_entre_mujeres_y_hombres_ley_de.doc",
+    "sha_pdf": "cf4e8c4b4beb9c4ec1ecb3a9c8789cf6bbcb0f7c44fe7bce6ae4f1f0aae74e16",
+    "sha_word": "9fb56a4c876fcfb1044e3f4bb0e1e0cd1a44f9896477f342877fabf8e6898825"
+  },
+  "control_actual": {
+    "cobertura": 0.0,
+    "huerfanos_no_evaluables": true
+  },
+  "hallazgos_actuales": [],
+  "experimento_sin_minusculizar_ruta": {
+    "cobertura": 0.986
+  },
+  "hallazgos_experimento": [
+    {
+      "tipo": "enlace_fuera_del_catalogo",
+      "entidad": "Nayarit",
+      "id": 75,
+      "nombre": "Ley de Igualdad entre Mujeres y Hombres",
+      "url": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes/igualdad_entre_mujeres_y_hombres_ley_de.pdf",
+      "detalle": "el catálogo ya no enlaza este archivo: el sitio publicó otro y la URL archivada quedó congelada"
+    },
+    {
+      "tipo": "enlace_fuera_del_catalogo",
+      "entidad": "Nayarit",
+      "id": 139,
+      "nombre": "Ley Municipal para el Estado de Nayarit",
+      "url": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/marco_juridico_municipal/municipal_para_el_estado_de_nayarit_ley.pdf",
+      "detalle": "el catálogo ya no enlaza este archivo: el sitio publicó otro y la URL archivada quedó congelada"
+    }
+  ],
+  "codigo_sha256": "4c5021c8fe95f73a41e5e57aeaf53632c047766e1e4eca388395e698ec13a2ee",
+  "experimento_reporte_con_hallazgo75": {
+    "entrada": "enlace_fuera_del_catalogo, ID 75",
+    "contiene_nombre": false,
+    "contiene_seccion_tipo": false,
+    "resultado": "El hallazgo existe pero su sección no se imprime; solo se muestra Atención requerida."
+  }
+}
