@@ -51,7 +51,15 @@
       1,
       15,
       18
-    ]
+    ],
+    "paginas_sin_texto": {
+      "15": {
+        "pagina_pdf": 15,
+        "caso": "grafica",
+        "cotejo_visual": true,
+        "evidencia": "Página 15 cotejada: logotipo y composición de diseño. Las reglas gráficas de esta página no están en el texto; consultar el PDF."
+      }
+    }
   },
   "104": {
     "pdf_sha256": "0d893de8b389ab12168fc54667d79077f475de63ca2d15e4d988aa06c615f2a9",
@@ -68,7 +76,51 @@
     "paginas_cotejadas_visualmente": [
       1,
       7
-    ]
+    ],
+    "paginas_sin_texto": {
+      "1": {
+        "pagina_pdf": 1,
+        "caso": "texto_normativo_imagen",
+        "cotejo_visual": true,
+        "evidencia": "Escaneo completo del acuerdo; la única capa extraíble es la marca de agua Copia de Internet. Cotejo previo de páginas 1 y 7 y extracción de las siete páginas; clasificación conservadora del escaneo completo."
+      },
+      "2": {
+        "pagina_pdf": 2,
+        "caso": "texto_normativo_imagen",
+        "cotejo_visual": false,
+        "evidencia": "Escaneo completo del acuerdo; la única capa extraíble es la marca de agua Copia de Internet. Cotejo previo de páginas 1 y 7 y extracción de las siete páginas; clasificación conservadora del escaneo completo."
+      },
+      "3": {
+        "pagina_pdf": 3,
+        "caso": "texto_normativo_imagen",
+        "cotejo_visual": false,
+        "evidencia": "Escaneo completo del acuerdo; la única capa extraíble es la marca de agua Copia de Internet. Cotejo previo de páginas 1 y 7 y extracción de las siete páginas; clasificación conservadora del escaneo completo."
+      },
+      "4": {
+        "pagina_pdf": 4,
+        "caso": "texto_normativo_imagen",
+        "cotejo_visual": false,
+        "evidencia": "Escaneo completo del acuerdo; la única capa extraíble es la marca de agua Copia de Internet. Cotejo previo de páginas 1 y 7 y extracción de las siete páginas; clasificación conservadora del escaneo completo."
+      },
+      "5": {
+        "pagina_pdf": 5,
+        "caso": "texto_normativo_imagen",
+        "cotejo_visual": false,
+        "evidencia": "Escaneo completo del acuerdo; la única capa extraíble es la marca de agua Copia de Internet. Cotejo previo de páginas 1 y 7 y extracción de las siete páginas; clasificación conservadora del escaneo completo."
+      },
+      "6": {
+        "pagina_pdf": 6,
+        "caso": "texto_normativo_imagen",
+        "cotejo_visual": false,
+        "evidencia": "Escaneo completo del acuerdo; la única capa extraíble es la marca de agua Copia de Internet. Cotejo previo de páginas 1 y 7 y extracción de las siete páginas; clasificación conservadora del escaneo completo."
+      },
+      "7": {
+        "pagina_pdf": 7,
+        "caso": "texto_normativo_imagen",
+        "cotejo_visual": true,
+        "evidencia": "Escaneo completo del acuerdo; la única capa extraíble es la marca de agua Copia de Internet. Cotejo previo de páginas 1 y 7 y extracción de las siete páginas; clasificación conservadora del escaneo completo."
+      }
+    }
   },
   "105": {
     "pdf_sha256": "4f11803c0160c1165e469b71a4b87525aa51ea444d06761fc9f3062ce9a0f447",
@@ -85,7 +137,15 @@
     "paginas_cotejadas_visualmente": [
       1,
       16
-    ]
+    ],
+    "paginas_sin_texto": {
+      "16": {
+        "pagina_pdf": 16,
+        "caso": "blanca",
+        "cotejo_visual": true,
+        "evidencia": "Página final 16 cotejada en blanco, con ruido marginal de escaneo; no hay contenido que extraer."
+      }
+    }
   },
   "106": {
     "pdf_sha256": "4676ea2a8fa4537a5c2310eb69992457483b3d8b742f98e27d73f4420e656999",
@@ -115,7 +175,94 @@
       1075,
       1077,
       1091
-    ]
+    ],
+    "paginas_sin_texto": {
+      "1": {
+        "pagina_pdf": 1,
+        "caso": "portada",
+        "cotejo_visual": true,
+        "evidencia": "Portada con título Manual de Contabilidad Gubernamental y membrete, sin contenido normativo.",
+        "contiene_texto_normativo": false
+      },
+      "117": {
+        "pagina_pdf": 117,
+        "caso": "texto_normativo_imagen",
+        "cotejo_visual": true,
+        "evidencia": "Instrucciones o tablas con texto visible en imagen, sin capa extraíble; cotejo visual previo."
+      },
+      "529": {
+        "pagina_pdf": 529,
+        "caso": "grafica",
+        "cotejo_visual": true,
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      "755": {
+        "pagina_pdf": 755,
+        "caso": "grafica",
+        "cotejo_visual": true,
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      "793": {
+        "pagina_pdf": 793,
+        "caso": "grafica",
+        "cotejo_visual": true,
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      "809": {
+        "pagina_pdf": 809,
+        "caso": "grafica",
+        "cotejo_visual": true,
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      "831": {
+        "pagina_pdf": 831,
+        "caso": "grafica",
+        "cotejo_visual": true,
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      "833": {
+        "pagina_pdf": 833,
+        "caso": "grafica",
+        "cotejo_visual": true,
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      "987": {
+        "pagina_pdf": 987,
+        "caso": "grafica",
+        "cotejo_visual": true,
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      "1005": {
+        "pagina_pdf": 1005,
+        "caso": "grafica",
+        "cotejo_visual": true,
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      "1007": {
+        "pagina_pdf": 1007,
+        "caso": "grafica",
+        "cotejo_visual": true,
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      "1073": {
+        "pagina_pdf": 1073,
+        "caso": "texto_normativo_imagen",
+        "cotejo_visual": true,
+        "evidencia": "Instrucciones o tablas con texto visible en imagen, sin capa extraíble; cotejo visual previo."
+      },
+      "1075": {
+        "pagina_pdf": 1075,
+        "caso": "texto_normativo_imagen",
+        "cotejo_visual": true,
+        "evidencia": "Instrucciones o tablas con texto visible en imagen, sin capa extraíble; cotejo visual previo."
+      },
+      "1077": {
+        "pagina_pdf": 1077,
+        "caso": "texto_normativo_imagen",
+        "cotejo_visual": true,
+        "evidencia": "Instrucciones o tablas con texto visible en imagen, sin capa extraíble; cotejo visual previo."
+      }
+    }
   },
   "107": {
     "pdf_sha256": "7f990c62419e7957e0a0f85a3eda392c6925254db644893c6b7144ef8f1e4044",

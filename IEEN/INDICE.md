@@ -64,8 +64,11 @@ Lotes 1–4. [Cierre del acervo y reporte del lote 4](reportes/LOTE_4.md). [Repo
 | 120 | PROTOCOLO PARA LA ATENCIÓN DE PERSONAS CON DISCAPACIDAD | [texto](ordenamientos/120/versiones/a16627ec4ab4c48a83f5ed34d5d36f9502b69b9417a6ad966b227b4c09ad31ac/texto.md) |
 | 121 | CÓMO DENUNCIAR LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO EN EL INSTITUTO ESTATAL ELECTORAL DE NAYARIT | [texto](ordenamientos/121/versiones/b607b898c578c5bc0d7da293545b1bcbbc50beeba4227437bdb923a76c89211b/texto.md) |
 
+| 103 | Manual de Identidad Gráfica | [texto](ordenamientos/103/versiones/4a453cfe1374a85af7c63962c96b82605b96067a3db0fea339690248ab773b7c/texto.md) |
+| 105 | Manual de integración y funcionamiento del Comité de Adquisiciones, Arrendamientos, Bienes y Servicios del Instituto Estatal Electoral de Nayarit | [texto](ordenamientos/105/versiones/4f11803c0160c1165e469b71a4b87525aa51ea444d06761fc9f3062ce9a0f447/texto.md) |
+
 ## Pendientes sin promover
 
 45: sin capa de texto en ninguna página. 48: texto ausente en interiores 7, 18 y 20. Sin OCR; véase [lote 3](reportes/LOTE_3.md).
 
-Lote 4: 103 (manual gráfico, página 15), 104 (solo marca de agua extraíble), 105 (página final 16 en blanco, no exceptuada por la regla de portada) y 106 (texto interior en imagen, incluidas tablas). Sin promover ni OCR. Véase [reporte](reportes/LOTE_4.md).
+Lote 4: 104 (acuerdo escaneado, solo marca de agua extraíble) y 106 (texto normativo interior en imagen, incluidas tablas). Sin promover ni OCR. 103 y 105 promovidos con incidencia gráfica y página blanca, respectivamente. Véase [reporte](reportes/LOTE_4.md).

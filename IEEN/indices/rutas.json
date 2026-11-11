@@ -1,6 +1,6 @@
 {
  "entidad": "IEEN",
- "generado": "2026-11-11T06:06:08.218007+00:00",
+ "generado": "2026-11-11T16:43:33.256725+00:00",
  "base_raw": "https://raw.githubusercontent.com/enriquedilo/biblioteca-legislativa/main/",
  "nota": "Rutas relativas a la raiz del repositorio, con la version vigente ya resuelta. Antepon base_raw para leer por HTTP. No uses el enlace actual/ por HTTP: es un symlink.",
  "ordenamientos": [
@@ -433,6 +433,26 @@
    "metadata": "IEEN/ordenamientos/102/versiones/14d170373b4a6ddb90a866334c93a4b4a860535c66cc9049c11f45142f635fe0/metadata.json",
    "validacion": "IEEN/ordenamientos/102/versiones/14d170373b4a6ddb90a866334c93a4b4a860535c66cc9049c11f45142f635fe0/validacion.json",
    "articulado": "IEEN/indices/articulos/102.json"
+  },
+  {
+   "id": 103,
+   "nombre": "Manual de Identidad Gráfica del Instituto Estatal Electoral de Nayarit.",
+   "nombre_oficial": "Manual de Identidad Gráfica",
+   "tipo": "manual",
+   "texto": "IEEN/ordenamientos/103/versiones/4a453cfe1374a85af7c63962c96b82605b96067a3db0fea339690248ab773b7c/texto.md",
+   "metadata": "IEEN/ordenamientos/103/versiones/4a453cfe1374a85af7c63962c96b82605b96067a3db0fea339690248ab773b7c/metadata.json",
+   "validacion": "IEEN/ordenamientos/103/versiones/4a453cfe1374a85af7c63962c96b82605b96067a3db0fea339690248ab773b7c/validacion.json",
+   "articulado": "IEEN/indices/articulos/103.json"
+  },
+  {
+   "id": 105,
+   "nombre": "Manual de integración y funcionamiento del Comité de Adquisiciones, Arrendamientos, Bienes y Servicios del Instituto Estatal Electoral de Nayarit.",
+   "nombre_oficial": "Manual de integración y funcionamiento del Comité de Adquisiciones, Arrendamientos, Bienes y Servicios del Instituto Estatal Electoral de Nayarit",
+   "tipo": "manual",
+   "texto": "IEEN/ordenamientos/105/versiones/4f11803c0160c1165e469b71a4b87525aa51ea444d06761fc9f3062ce9a0f447/texto.md",
+   "metadata": "IEEN/ordenamientos/105/versiones/4f11803c0160c1165e469b71a4b87525aa51ea444d06761fc9f3062ce9a0f447/metadata.json",
+   "validacion": "IEEN/ordenamientos/105/versiones/4f11803c0160c1165e469b71a4b87525aa51ea444d06761fc9f3062ce9a0f447/validacion.json",
+   "articulado": "IEEN/indices/articulos/105.json"
   },
   {
    "id": 107,

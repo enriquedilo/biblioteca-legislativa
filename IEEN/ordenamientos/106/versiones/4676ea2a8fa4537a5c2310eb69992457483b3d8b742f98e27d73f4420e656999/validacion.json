@@ -1,7 +1,7 @@
 {
   "id": 106,
   "fecha_revision": "2026-11-11T01:22:40.134600+00:00",
-  "resultado": "Pendiente: Capa de texto parcial. Página 117 con instrucciones y cuadros en imagen y páginas 1073, 1075 y 1077 con tablas en imagen sin texto extraíble. Otras páginas señaladas contienen celdas vacías o membrete. Se conserva la extracción disponible; no se reconstruyen tablas. Sin OCR; no promovido.",
+  "resultado": "Pendiente: Texto normativo como imagen; sin OCR",
   "originales_sha256_verificados": true,
   "paginas_pdf": 1091,
   "paginas_sin_texto": [
@@ -12083,8 +12083,9 @@
   "diferencias_de_fuente": [
     "No hay Word en el catálogo; sin comparación Word/PDF."
   ],
-  "alcance": "Conservación por página de todos los caracteres no blancos, signos, cifras y comienzos de listas respecto de Poppler; doble lector numérico informativo, discrepancias no reparadas. No equivale a cotejo visual integral. Acuerdo y reformas proceden del catálogo por instrucción expresa. El control de conservación se refiere solo a la extracción disponible; no certifica integridad del contenido visible del PDF.",
+  "alcance": "Conservación de la extracción Poppler por página, sin OCR. Clasificación de páginas sin texto según IEEN/LEEME.md. Las páginas gráficas no se reproducen en texto y requieren consulta del PDF; no se afirma cotejo visual integral.",
   "control_capa_texto": {
+    "criterio_version": 2,
     "promover": false,
     "paginas_interiores_sin_texto": [
       117,
@@ -12101,8 +12102,87 @@
       1075,
       1077
     ],
-    "excepcion_portada": false,
-    "motivo": "Falta texto en páginas interiores"
+    "excepcion_portada": true,
+    "clasificacion_paginas": [
+      {
+        "pagina_pdf": 1,
+        "caso": "portada",
+        "evidencia": "Portada con título Manual de Contabilidad Gubernamental y membrete, sin contenido normativo."
+      },
+      {
+        "pagina_pdf": 117,
+        "caso": "texto_normativo_imagen",
+        "evidencia": "Instrucciones o tablas con texto visible en imagen, sin capa extraíble; cotejo visual previo."
+      },
+      {
+        "pagina_pdf": 529,
+        "caso": "grafica",
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      {
+        "pagina_pdf": 755,
+        "caso": "grafica",
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      {
+        "pagina_pdf": 793,
+        "caso": "grafica",
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      {
+        "pagina_pdf": 809,
+        "caso": "grafica",
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      {
+        "pagina_pdf": 831,
+        "caso": "grafica",
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      {
+        "pagina_pdf": 833,
+        "caso": "grafica",
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      {
+        "pagina_pdf": 987,
+        "caso": "grafica",
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      {
+        "pagina_pdf": 1005,
+        "caso": "grafica",
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      {
+        "pagina_pdf": 1007,
+        "caso": "grafica",
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      {
+        "pagina_pdf": 1073,
+        "caso": "texto_normativo_imagen",
+        "evidencia": "Instrucciones o tablas con texto visible en imagen, sin capa extraíble; cotejo visual previo."
+      },
+      {
+        "pagina_pdf": 1075,
+        "caso": "texto_normativo_imagen",
+        "evidencia": "Instrucciones o tablas con texto visible en imagen, sin capa extraíble; cotejo visual previo."
+      },
+      {
+        "pagina_pdf": 1077,
+        "caso": "texto_normativo_imagen",
+        "evidencia": "Instrucciones o tablas con texto visible en imagen, sin capa extraíble; cotejo visual previo."
+      }
+    ],
+    "paginas_texto_normativo_imagen": [
+      117,
+      1073,
+      1075,
+      1077
+    ],
+    "paginas_por_revisar": [],
+    "motivo": "Texto normativo como imagen"
   },
   "promovido": false,
   "evidencia_metadata": {
@@ -12129,8 +12209,80 @@
       1075,
       1077
     ],
-    "descripcion": "Capa de texto parcial. Página 117 con instrucciones y cuadros en imagen y páginas 1073, 1075 y 1077 con tablas en imagen sin texto extraíble. Otras páginas señaladas contienen celdas vacías o membrete. Se conserva la extracción disponible; no se reconstruyen tablas.",
-    "accion": "Conservar PDF y extracción diagnóstica; sin actual, fuera de índices; sin OCR."
+    "clasificaciones": [
+      {
+        "pagina_pdf": 1,
+        "caso": "portada",
+        "evidencia": "Portada con título Manual de Contabilidad Gubernamental y membrete, sin contenido normativo."
+      },
+      {
+        "pagina_pdf": 117,
+        "caso": "texto_normativo_imagen",
+        "evidencia": "Instrucciones o tablas con texto visible en imagen, sin capa extraíble; cotejo visual previo."
+      },
+      {
+        "pagina_pdf": 529,
+        "caso": "grafica",
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      {
+        "pagina_pdf": 755,
+        "caso": "grafica",
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      {
+        "pagina_pdf": 793,
+        "caso": "grafica",
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      {
+        "pagina_pdf": 809,
+        "caso": "grafica",
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      {
+        "pagina_pdf": 831,
+        "caso": "grafica",
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      {
+        "pagina_pdf": 833,
+        "caso": "grafica",
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      {
+        "pagina_pdf": 987,
+        "caso": "grafica",
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      {
+        "pagina_pdf": 1005,
+        "caso": "grafica",
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      {
+        "pagina_pdf": 1007,
+        "caso": "grafica",
+        "evidencia": "Cotejo visual previo: celdas vacías, fragmentos de tabla sin texto o membrete gráfico. El diseño permanece solo en el PDF."
+      },
+      {
+        "pagina_pdf": 1073,
+        "caso": "texto_normativo_imagen",
+        "evidencia": "Instrucciones o tablas con texto visible en imagen, sin capa extraíble; cotejo visual previo."
+      },
+      {
+        "pagina_pdf": 1075,
+        "caso": "texto_normativo_imagen",
+        "evidencia": "Instrucciones o tablas con texto visible en imagen, sin capa extraíble; cotejo visual previo."
+      },
+      {
+        "pagina_pdf": 1077,
+        "caso": "texto_normativo_imagen",
+        "evidencia": "Instrucciones o tablas con texto visible en imagen, sin capa extraíble; cotejo visual previo."
+      }
+    ],
+    "descripcion": "Texto normativo como imagen",
+    "accion": "Conservar extracción diagnóstica; sin actual ni índices; sin OCR."
   },
   "auditoria_encabezados": {
     "rotulos_no_reconocidos": null,
@@ -12153,5 +12305,147 @@
     "fecha_maxima": "2026-02-26",
     "reformas_en_catalogo": 0,
     "criterio": "Mayor fecha entre vigente y cadena, no posición. Archivo descargado desde esa URL individual; recibo y SHA-256 conservados."
+  },
+  "deteccion_paginas_blancas": {
+    "1": {
+      "pagina_pdf": 1,
+      "caso": "revision_pendiente",
+      "metodo": "Render Poppler 150 dpi, gris; solo blanco uniforme (255) se acepta automáticamente.",
+      "extremos_gris": [
+        48,
+        255
+      ]
+    },
+    "117": {
+      "pagina_pdf": 117,
+      "caso": "revision_pendiente",
+      "metodo": "Render Poppler 150 dpi, gris; solo blanco uniforme (255) se acepta automáticamente.",
+      "extremos_gris": [
+        0,
+        255
+      ]
+    },
+    "529": {
+      "pagina_pdf": 529,
+      "caso": "revision_pendiente",
+      "metodo": "Render Poppler 150 dpi, gris; solo blanco uniforme (255) se acepta automáticamente.",
+      "extremos_gris": [
+        37,
+        255
+      ]
+    },
+    "755": {
+      "pagina_pdf": 755,
+      "caso": "revision_pendiente",
+      "metodo": "Render Poppler 150 dpi, gris; solo blanco uniforme (255) se acepta automáticamente.",
+      "extremos_gris": [
+        0,
+        255
+      ]
+    },
+    "793": {
+      "pagina_pdf": 793,
+      "caso": "revision_pendiente",
+      "metodo": "Render Poppler 150 dpi, gris; solo blanco uniforme (255) se acepta automáticamente.",
+      "extremos_gris": [
+        0,
+        255
+      ]
+    },
+    "809": {
+      "pagina_pdf": 809,
+      "caso": "revision_pendiente",
+      "metodo": "Render Poppler 150 dpi, gris; solo blanco uniforme (255) se acepta automáticamente.",
+      "extremos_gris": [
+        0,
+        255
+      ]
+    },
+    "831": {
+      "pagina_pdf": 831,
+      "caso": "revision_pendiente",
+      "metodo": "Render Poppler 150 dpi, gris; solo blanco uniforme (255) se acepta automáticamente.",
+      "extremos_gris": [
+        0,
+        255
+      ]
+    },
+    "833": {
+      "pagina_pdf": 833,
+      "caso": "revision_pendiente",
+      "metodo": "Render Poppler 150 dpi, gris; solo blanco uniforme (255) se acepta automáticamente.",
+      "extremos_gris": [
+        0,
+        255
+      ]
+    },
+    "987": {
+      "pagina_pdf": 987,
+      "caso": "revision_pendiente",
+      "metodo": "Render Poppler 150 dpi, gris; solo blanco uniforme (255) se acepta automáticamente.",
+      "extremos_gris": [
+        0,
+        255
+      ]
+    },
+    "1005": {
+      "pagina_pdf": 1005,
+      "caso": "revision_pendiente",
+      "metodo": "Render Poppler 150 dpi, gris; solo blanco uniforme (255) se acepta automáticamente.",
+      "extremos_gris": [
+        0,
+        255
+      ]
+    },
+    "1007": {
+      "pagina_pdf": 1007,
+      "caso": "revision_pendiente",
+      "metodo": "Render Poppler 150 dpi, gris; solo blanco uniforme (255) se acepta automáticamente.",
+      "extremos_gris": [
+        0,
+        255
+      ]
+    },
+    "1073": {
+      "pagina_pdf": 1073,
+      "caso": "revision_pendiente",
+      "metodo": "Render Poppler 150 dpi, gris; solo blanco uniforme (255) se acepta automáticamente.",
+      "extremos_gris": [
+        0,
+        255
+      ]
+    },
+    "1075": {
+      "pagina_pdf": 1075,
+      "caso": "revision_pendiente",
+      "metodo": "Render Poppler 150 dpi, gris; solo blanco uniforme (255) se acepta automáticamente.",
+      "extremos_gris": [
+        0,
+        255
+      ]
+    },
+    "1077": {
+      "pagina_pdf": 1077,
+      "caso": "revision_pendiente",
+      "metodo": "Render Poppler 150 dpi, gris; solo blanco uniforme (255) se acepta automáticamente.",
+      "extremos_gris": [
+        0,
+        255
+      ]
+    }
+  },
+  "reglas_graficas_no_representadas_en_texto": {
+    "paginas": [
+      529,
+      755,
+      793,
+      809,
+      831,
+      833,
+      987,
+      1005,
+      1007
+    ],
+    "descripcion": "Las composiciones, logotipos y reglas gráficas de estas páginas no están en texto.md; consultar el PDF original."
   }
 }

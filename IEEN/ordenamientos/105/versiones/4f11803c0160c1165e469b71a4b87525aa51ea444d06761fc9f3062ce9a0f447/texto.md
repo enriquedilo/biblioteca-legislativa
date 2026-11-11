@@ -1,6 +1,6 @@
 # Manual de integración y funcionamiento del Comité de Adquisiciones, Arrendamientos, Bienes y Servicios del Instituto Estatal Electoral de Nayarit.
 
-> EXTRACCIÓN DIAGNÓSTICA INCOMPLETA. Versión no promovida; sin OCR. Véanse metadata.json y validacion.json.
+> Transcripción del texto extraíble del PDF. Páginas sin texto clasificadas en validacion.json; los gráficos solo están en el original. Sin OCR.
 
 <!-- PAGINA_PDF: 1 -->
 
