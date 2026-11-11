@@ -254,7 +254,7 @@ def revisar_catalogo(entidad, previo, inventario_ent=()):
             continue
         # Comparar la lista de documentos enlazados, no el HTML entero: una
         # fecha o un banner en la portada no son un alta ni una baja.
-        brutos = sorted(set(m.group(1).decode("utf-8", "replace").lower()
+        brutos = sorted(set(m.group(1).decode("utf-8", "replace")
                             for m in RE_ENLACE.finditer(cuerpo)))
         crudos += len(brutos)
         enlaces += [urllib.parse.urljoin(u, e)
@@ -269,7 +269,10 @@ def revisar_catalogo(entidad, previo, inventario_ent=()):
         # documento. Las altas de Sinaloa se detectan por otra vía.
         return ({"lista_no_observable": True, "enlaces_crudos": crudos}, fallos)
     absolutos = enlaces
-    sha = hashlib.sha256("\n".join(enlaces).encode("utf-8")).hexdigest()
+    # La huella se calcula sobre la forma normalizada: que el sitio cambie una
+    # ruta de mayúsculas a minúsculas no es un alta ni una baja.
+    sha = hashlib.sha256("\n".join(_clave(e) for e in enlaces)
+                         .encode("utf-8")).hexdigest()
     # Se guarda la lista, no solo su huella: decir «algo cambió» sin decir qué
     # dejó pasar dos meses una reforma de la Constitución de Nayarit.
     obs = {"sha256_enlaces": sha, "enlaces": len(enlaces), "lista": absolutos}
@@ -277,8 +280,10 @@ def revisar_catalogo(entidad, previo, inventario_ent=()):
     antes = set((previo or {}).get("lista") or [])
     ant_sha = (previo or {}).get("sha256_enlaces")
     if antes:
-        altas = sorted(set(absolutos) - antes)
-        bajas = sorted(antes - set(absolutos))
+        ahora_k = {_clave(e): e for e in absolutos}
+        antes_k = {_clave(e): e for e in antes}
+        altas = sorted(ahora_k[k] for k in set(ahora_k) - set(antes_k))
+        bajas = sorted(antes_k[k] for k in set(antes_k) - set(ahora_k))
         if altas or bajas:
             hallazgos.append({
                 "tipo": "catalogo_movido", "entidad": entidad, "url": url,
@@ -292,6 +297,15 @@ def revisar_catalogo(entidad, previo, inventario_ent=()):
                                      % len(enlaces)})
     hallazgos += _huerfanos(entidad, inventario_ent, set(absolutos), obs)
     return obs, hallazgos
+
+
+def _clave(u):
+    """Forma comparable de una URL. Las rutas del Congreso de Nayarit traen
+    tramos en mayúsculas -QUE_HACEMOS/LEGISLACION_ESTATAL- y los enlaces del
+    HTML no siempre conservan la caja. Comparar en crudo hacía que ninguna URL
+    archivada coincidiera con el catálogo: la cobertura salía 0% y el control
+    de huérfanos se abstenía siempre, sin reportarlo. Nunca llegó a correr."""
+    return (u or "").strip().lower()
 
 
 def _nombre_archivo(u):
@@ -323,13 +337,14 @@ def _huerfanos(entidad, inventario_ent, enlaces, obs):
     con_url = [it for it in inventario_ent if it.get("url_pdf")]
     if not con_url:
         return []
-    dentro = [it for it in con_url if it["url_pdf"] in enlaces]
+    claves = {_clave(e) for e in enlaces}
+    dentro = [it for it in con_url if _clave(it["url_pdf"]) in claves]
     cobertura = len(dentro) / len(con_url)
     obs["cobertura"] = round(cobertura, 3)
     if cobertura < 0.9:
         obs["huerfanos_no_evaluables"] = True
         return []
-    fuera = [it for it in con_url if it["url_pdf"] not in enlaces]
+    fuera = [it for it in con_url if _clave(it["url_pdf"]) not in claves]
     return [{"tipo": "enlace_fuera_del_catalogo", "entidad": entidad,
              "id": it["id"], "nombre": it["nombre"], "url": it["url_pdf"],
              "detalle": "el catálogo ya no enlaza este archivo: el sitio "
@@ -373,12 +388,17 @@ def escribir_reporte(hallazgos, revisados, segundos, notas):
             L.append("**Atención requerida**, pero ningún cambio de contenido "
                      "confirmado.")
         L.append("")
-        for tipo in ("modificado", "pendiente_de_actualizar",
-                     "posible_modificacion", "no_encontrado",
-                     "catalogo_movido", "inaccesible", "catalogo_inaccesible"):
+        # El orden es el de lectura; lo que no esté previsto va al final en
+        # vez de desaparecer. Una categoría nueva que no se imprime equivale a
+        # no detectarla: `enlace_fuera_del_catalogo` se perdió así.
+        orden = ("modificado", "pendiente_de_actualizar",
+                 "posible_modificacion", "enlace_fuera_del_catalogo",
+                 "no_encontrado", "catalogo_movido", "inaccesible",
+                 "catalogo_inaccesible")
+        for tipo in orden + tuple(sorted(set(por_tipo) - set(orden))):
             if tipo not in por_tipo:
                 continue
-            L += ["## " + ETIQUETAS[tipo], "",
+            L += ["## " + ETIQUETAS.get(tipo, tipo), "",
                   "| Entidad | ID | Ordenamiento | Archivo | Detalle |",
                   "|---|---:|---|---|---|"]
             for x in por_tipo[tipo]:
