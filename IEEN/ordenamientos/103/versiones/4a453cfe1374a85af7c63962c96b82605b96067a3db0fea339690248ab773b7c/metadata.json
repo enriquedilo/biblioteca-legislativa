@@ -1,0 +1,41 @@
+{
+  "id": 103,
+  "nombre_catalogo": "Manual de Identidad Gráfica del Instituto Estatal Electoral de Nayarit.",
+  "nombre_oficial": "Manual de Identidad Gráfica",
+  "nombre_catalogo_sitio": "Manual de Identidad Gráfica del Instituto Estatal Electoral de Nayarit.",
+  "fuente": "https://ieenayarit.org/normatividad/Interna",
+  "urls": {
+    "pdf": "https://ieenayarit.org/PDF/2023/Acuerdos/IEEN-CLE-029-2023-A1.pdf",
+    "word": null
+  },
+  "url_pdf": "https://ieenayarit.org/PDF/2023/Acuerdos/IEEN-CLE-029-2023-A1.pdf",
+  "url_word": null,
+  "fecha_descarga": "2026-11-11T01:22:15.451055+00:00",
+  "hash_sha256": {
+    "pdf": "4a453cfe1374a85af7c63962c96b82605b96067a3db0fea339690248ab773b7c"
+  },
+  "version": "4a453cfe1374a85af7c63962c96b82605b96067a3db0fea339690248ab773b7c",
+  "validacion": "Pendiente: Página interior 15 sin texto: diseño gráfico con logotipo. Manual de identidad; no se fuerza su conversión normativa. Sin OCR; no promovido.",
+  "tipo": "manual",
+  "seccion": "interna",
+  "seccion_sitio": "interna",
+  "secciones_sitio": [
+    "interna"
+  ],
+  "acuerdo": "IEEN-CLE-029/2023",
+  "reformas": [],
+  "fecha_catalogo_sin_interpretar": "2023-02-10",
+  "decreto_numero": null,
+  "po_publicacion": null,
+  "ultima_reforma": null,
+  "abroga": [],
+  "slug": "manual-de-identidad-grafica-del-instituto-estatal-electoral-de-nayarit",
+  "fecha_revision_conversion": "2026-11-11T01:22:39.598736+00:00",
+  "conversor": "bin/ieen/convertir.py; Poppler layout y controles conservadores Nayarit",
+  "origen_markdown": "PDF original; sin OCR; erratas conservadas",
+  "procedencia_metadata": {
+    "acuerdo": "catálogo IEEN, versión vigente",
+    "reformas": "cadena íntegra del catálogo IEEN, no convertida",
+    "nombre_oficial": "Transcripción por cotejo visual de página PDF 1; sin OCR."
+  }
+}

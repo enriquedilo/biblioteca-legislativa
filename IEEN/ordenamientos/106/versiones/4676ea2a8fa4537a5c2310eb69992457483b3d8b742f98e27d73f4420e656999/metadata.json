@@ -1,0 +1,41 @@
+{
+  "id": 106,
+  "nombre_catalogo": "Manual de contabilidad gubernamental para la administración del Instituto Estatal Electoral de Nayarit.",
+  "nombre_oficial": "MANUAL DE CONTABILIDAD GUBERNAMENTAL",
+  "nombre_catalogo_sitio": "Manual de contabilidad gubernamental para la administración del Instituto Estatal Electoral de Nayarit.",
+  "fuente": "https://ieenayarit.org/normatividad/Interna",
+  "urls": {
+    "pdf": "https://ieenayarit.org/PDF/2026/Acuerdos/JEE/IEEN-JEE-013-2026-A1.pdf",
+    "word": null
+  },
+  "url_pdf": "https://ieenayarit.org/PDF/2026/Acuerdos/JEE/IEEN-JEE-013-2026-A1.pdf",
+  "url_word": null,
+  "fecha_descarga": "2026-11-11T01:22:17.182838+00:00",
+  "hash_sha256": {
+    "pdf": "4676ea2a8fa4537a5c2310eb69992457483b3d8b742f98e27d73f4420e656999"
+  },
+  "version": "4676ea2a8fa4537a5c2310eb69992457483b3d8b742f98e27d73f4420e656999",
+  "validacion": "Pendiente: Capa de texto parcial. Página 117 con instrucciones y cuadros en imagen y páginas 1073, 1075 y 1077 con tablas en imagen sin texto extraíble. Otras páginas señaladas contienen celdas vacías o membrete. Se conserva la extracción disponible; no se reconstruyen tablas. Sin OCR; no promovido.",
+  "tipo": "manual",
+  "seccion": "interna",
+  "seccion_sitio": "interna",
+  "secciones_sitio": [
+    "interna"
+  ],
+  "acuerdo": "IEEN-JEE-013/2026",
+  "reformas": [],
+  "fecha_catalogo_sin_interpretar": "2026-02-26",
+  "decreto_numero": null,
+  "po_publicacion": null,
+  "ultima_reforma": null,
+  "abroga": [],
+  "slug": "manual-de-contabilidad-gubernamental-para-la-administracion-del-instituto-estatal-electoral-de-nayarit",
+  "fecha_revision_conversion": "2026-11-11T01:22:40.134600+00:00",
+  "conversor": "bin/ieen/convertir.py; Poppler layout y controles conservadores Nayarit",
+  "origen_markdown": "PDF original; sin OCR; erratas conservadas",
+  "procedencia_metadata": {
+    "acuerdo": "catálogo IEEN, versión vigente",
+    "reformas": "cadena íntegra del catálogo IEEN, no convertida",
+    "nombre_oficial": "Transcripción por cotejo visual de página PDF 1; sin OCR."
+  }
+}

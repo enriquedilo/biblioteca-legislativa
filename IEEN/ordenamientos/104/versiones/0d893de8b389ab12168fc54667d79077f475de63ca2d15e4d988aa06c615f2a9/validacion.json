@@ -1,0 +1,172 @@
+{
+  "id": 104,
+  "fecha_revision": "2026-11-11T01:22:39.763210+00:00",
+  "resultado": "Pendiente: Las siete páginas solo extraen la marca de agua Copia de Internet; el acuerdo visible está escaneado. La URL del catálogo entrega el acuerdo IEEN-JEE-007/2017, no un manual independiente. Sin OCR; no promovido.",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 7,
+  "paginas_sin_texto": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "texto_conservado": true,
+  "transitorios_y_notas_completos_incluidos": false,
+  "ocr_ejecutado": false,
+  "paginas_cotejadas_visualmente": [
+    1,
+    7
+  ],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 15,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 15,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 15,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 15,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 15,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 15,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 15,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    }
+  ],
+  "promociones_encabezado_evitadas": [],
+  "incidencias_metadata": [
+    {
+      "campo": "decreto_numero",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "po_publicacion",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "ultima_reforma",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "abroga",
+      "motivo": "Sin cláusula inequívoca localizada; arreglo vacío no afirma ausencia normativa."
+    }
+  ],
+  "comparacion_word_pdf": null,
+  "diferencias_de_fuente": [
+    "No hay Word en el catálogo; sin comparación Word/PDF."
+  ],
+  "alcance": "Conservación por página de todos los caracteres no blancos, signos, cifras y comienzos de listas respecto de Poppler; doble lector numérico informativo, discrepancias no reparadas. No equivale a cotejo visual integral. Acuerdo y reformas proceden del catálogo por instrucción expresa. El control de conservación se refiere solo a la extracción disponible; no certifica integridad del contenido visible del PDF.",
+  "control_capa_texto": {
+    "promover": false,
+    "paginas_interiores_sin_texto": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "excepcion_portada": false,
+    "motivo": "Falta texto en páginas interiores"
+  },
+  "promovido": false,
+  "evidencia_metadata": {
+    "nombre_oficial": {
+      "pagina_pdf": 1,
+      "texto": "ACUERDO DE LA JUNTA ESTATAL EJECUTIVA DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT, POR EL QUE SE APRUEBA LA CREACIÓN, EL MANUAL DE OPERACIÓN Y LA PLANTILLA DE PERSONAL PARA EL FUNCIONAMIENTO DE LA OFICIALÍA DE PARTES."
+    }
+  },
+  "integridad_cuerpo_verificada": false,
+  "incidencia_capa_texto": {
+    "paginas": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "descripcion": "Las siete páginas solo extraen la marca de agua Copia de Internet; el acuerdo visible está escaneado. La URL del catálogo entrega el acuerdo IEEN-JEE-007/2017, no un manual independiente.",
+    "accion": "Conservar PDF y extracción diagnóstica; sin actual, fuera de índices; sin OCR."
+  },
+  "auditoria_encabezados": {
+    "rotulos_no_reconocidos": null,
+    "estado": "No certificada: versión no promovida."
+  },
+  "seleccion_version_catalogo": {
+    "acuerdo": "IEEN-JEE-007/2017",
+    "fecha": "2017-01-25",
+    "url": "https://ieenayarit.org/PDF/2017/Acuerdos/JEE/ACU-JEE-007-2017.pdf",
+    "fecha_maxima": "2017-01-25",
+    "reformas_en_catalogo": 0,
+    "criterio": "Mayor fecha entre vigente y cadena, no posición. Archivo descargado desde esa URL individual; recibo y SHA-256 conservados."
+  }
+}

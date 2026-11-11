@@ -1,0 +1,908 @@
+{
+  "id": 102,
+  "fecha_revision": "2026-11-11T01:22:38.792542+00:00",
+  "resultado": "Conversión conservada; muestra visual y auditoría de índices verificadas",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 73,
+  "paginas_sin_texto": [],
+  "texto_conservado": true,
+  "transitorios_y_notas_completos_incluidos": true,
+  "ocr_ejecutado": false,
+  "paginas_cotejadas_visualmente": [
+    1,
+    73,
+    2
+  ],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 54,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 3502,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 6,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 3328,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 1722,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 1636,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 1,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 846,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 1,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 1530,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 1,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 1713,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 1324,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 8,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 560,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 8,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 11,
+      "caracteres_no_blancos": 559,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 1,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 12,
+      "caracteres_no_blancos": 1222,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 5,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 13,
+      "caracteres_no_blancos": 886,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 3,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 14,
+      "caracteres_no_blancos": 829,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 3,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 15,
+      "caracteres_no_blancos": 584,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 3,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 16,
+      "caracteres_no_blancos": 1536,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 3,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 17,
+      "caracteres_no_blancos": 1494,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 18,
+      "caracteres_no_blancos": 1070,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 19,
+      "caracteres_no_blancos": 1339,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 20,
+      "caracteres_no_blancos": 1147,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 3,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 21,
+      "caracteres_no_blancos": 1035,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 22,
+      "caracteres_no_blancos": 1214,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 3,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 23,
+      "caracteres_no_blancos": 1711,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 1,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 24,
+      "caracteres_no_blancos": 1753,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 25,
+      "caracteres_no_blancos": 1650,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 26,
+      "caracteres_no_blancos": 1514,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 27,
+      "caracteres_no_blancos": 1353,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 28,
+      "caracteres_no_blancos": 1001,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 29,
+      "caracteres_no_blancos": 1113,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 30,
+      "caracteres_no_blancos": 1202,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 3,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 31,
+      "caracteres_no_blancos": 645,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 32,
+      "caracteres_no_blancos": 1790,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 33,
+      "caracteres_no_blancos": 1489,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 1,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 34,
+      "caracteres_no_blancos": 1645,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 1,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 35,
+      "caracteres_no_blancos": 1433,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 36,
+      "caracteres_no_blancos": 1788,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 37,
+      "caracteres_no_blancos": 1361,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 38,
+      "caracteres_no_blancos": 1358,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 39,
+      "caracteres_no_blancos": 764,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 40,
+      "caracteres_no_blancos": 1191,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 3,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 41,
+      "caracteres_no_blancos": 1229,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 1,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 42,
+      "caracteres_no_blancos": 1832,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 1,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 43,
+      "caracteres_no_blancos": 814,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 3,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 44,
+      "caracteres_no_blancos": 1622,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 45,
+      "caracteres_no_blancos": 1639,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 1,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 46,
+      "caracteres_no_blancos": 1671,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 1,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 47,
+      "caracteres_no_blancos": 1450,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 48,
+      "caracteres_no_blancos": 1528,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 49,
+      "caracteres_no_blancos": 1597,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 50,
+      "caracteres_no_blancos": 1602,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 51,
+      "caracteres_no_blancos": 1518,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 52,
+      "caracteres_no_blancos": 1566,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 53,
+      "caracteres_no_blancos": 1643,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 54,
+      "caracteres_no_blancos": 1592,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 1,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 55,
+      "caracteres_no_blancos": 813,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 1,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 56,
+      "caracteres_no_blancos": 994,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 3,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 57,
+      "caracteres_no_blancos": 1773,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 58,
+      "caracteres_no_blancos": 1603,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 59,
+      "caracteres_no_blancos": 1387,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 60,
+      "caracteres_no_blancos": 1421,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 61,
+      "caracteres_no_blancos": 1028,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 3,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 62,
+      "caracteres_no_blancos": 1771,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 63,
+      "caracteres_no_blancos": 1414,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 64,
+      "caracteres_no_blancos": 1714,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 65,
+      "caracteres_no_blancos": 1460,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 66,
+      "caracteres_no_blancos": 1481,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 67,
+      "caracteres_no_blancos": 1130,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 68,
+      "caracteres_no_blancos": 1639,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 69,
+      "caracteres_no_blancos": 1316,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 70,
+      "caracteres_no_blancos": 1453,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 71,
+      "caracteres_no_blancos": 1314,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 72,
+      "caracteres_no_blancos": 1182,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 4,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 73,
+      "caracteres_no_blancos": 517,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    }
+  ],
+  "promociones_encabezado_evitadas": [
+    {
+      "linea": 12,
+      "texto": "artículos 29, inciso h) y 41, numeral 2, inciso k) del Reglamento Interior del IEEN, y en",
+      "anterior": "fracción III, inciso f) de la Ley Electoral del Estado de Nayarit, así como por los",
+      "siguiente": "coordinación con las direcciones y unidades que lo integran, elabora y presenta el",
+      "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+      "pagina": 5
+    },
+    {
+      "linea": 48,
+      "texto": "artículo 89 bis de la Ley Electoral del estado de Nayarit y 23 del Reglamento",
+      "anterior": "Corresponde a las Consejerías Electorales, en términos de lo dispuesto por el",
+      "siguiente": "Interior.",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 12
+    }
+  ],
+  "incidencias_metadata": [
+    {
+      "campo": "decreto_numero",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "po_publicacion",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "ultima_reforma",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "abroga",
+      "motivo": "Sin cláusula inequívoca localizada; arreglo vacío no afirma ausencia normativa."
+    },
+    {
+      "campo": "ultima_reforma",
+      "pagina_pdf": 2,
+      "motivo": "El documento imprime VERSIÓN: 2.0, FECHA: 01/12/2025; se conserva como fecha documental, no se sustituye la fecha de aprobación del catálogo 2025-12-03 ni se infiere una última reforma."
+    }
+  ],
+  "comparacion_word_pdf": null,
+  "diferencias_de_fuente": [
+    "No hay Word en el catálogo; sin comparación Word/PDF."
+  ],
+  "alcance": "Conservación por página de todos los caracteres no blancos, signos, cifras y comienzos de listas respecto de Poppler; doble lector numérico informativo, discrepancias no reparadas. No equivale a cotejo visual integral. Acuerdo y reformas proceden del catálogo por instrucción expresa.",
+  "control_capa_texto": {
+    "promover": true,
+    "paginas_interiores_sin_texto": [],
+    "excepcion_portada": false,
+    "motivo": "Todas las páginas tienen texto extraíble"
+  },
+  "promovido": true,
+  "evidencia_metadata": {
+    "nombre_oficial": {
+      "pagina_pdf": 1,
+      "texto": "MANUAL DE ORGANIZACIÓN DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT"
+    }
+  },
+  "integridad_cuerpo_verificada": true,
+  "auditoria_encabezados": {
+    "rotulos_propios": 0,
+    "rotulos_por_pagina": [],
+    "rotulos_no_reconocidos": [],
+    "remisiones_no_promovidas": [
+      {
+        "articulo": "89bis",
+        "pagina_pdf": 12,
+        "texto": "artículo 89 bis de la Ley Electoral del estado de Nayarit y 23 del Reglamento"
+      }
+    ],
+    "entradas_indice_impreso_no_promovidas": [],
+    "estado": "verificada"
+  },
+  "estructura_no_articulada": {
+    "descripcion": "Cuerpo organizado por numerales, apartados, tablas o capítulos; sin artículos propios. Se indexa por página con tipo seccion, sin convertir numerales en artículos.",
+    "secciones": 73,
+    "transitorios": 0
+  },
+  "seleccion_version_catalogo": {
+    "acuerdo": "IEEN-JEE-080/2025",
+    "fecha": "2025-12-03",
+    "url": "https://ieenayarit.org/PDF/2025/Acuerdos/JEE/IEEN-JEE-080-2025-A1.pdf",
+    "fecha_maxima": "2025-12-03",
+    "reformas_en_catalogo": 2,
+    "criterio": "Mayor fecha entre vigente y cadena, no posición. Archivo descargado desde esa URL individual; recibo y SHA-256 conservados."
+  }
+}

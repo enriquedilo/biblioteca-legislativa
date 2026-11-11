@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-11T00:44:20.254401+00:00",
- "aristas": 7,
+ "generado": "2026-11-11T06:06:08.196910+00:00",
+ "aristas": 24,
  "nota": "Mencion nominal de un ordenamiento de la biblioteca dentro del texto de otro. Es deteccion lexica: no distingue remision normativa de cita incidental.",
  "remisiones": [
   {
@@ -125,6 +125,70 @@
    ]
   },
   {
+   "origen": 108,
+   "origen_nombre": "Reglamento Interior del Instituto Estatal Electoral de Nayarit.",
+   "destino": 20,
+   "destino_nombre": "REGLAMENTO DEL CENTRO DE CAPACITACIÓN DEL INSTITUTO ESTATAL ELECTORAL",
+   "menciones": 2,
+   "articulos": [
+    {
+     "articulo": "48",
+     "tipo": "cuerpo",
+     "pagina_pdf": 19
+    }
+   ]
+  },
+  {
+   "origen": 114,
+   "origen_nombre": "Lineamientos Administrativos para el Ejercicio y Control del Gasto del Instituto Estatal Electoral de Nayarit.",
+   "destino": 108,
+   "destino_nombre": "Reglamento Interior del Instituto Estatal Electoral de Nayarit.",
+   "menciones": 2,
+   "articulos": []
+  },
+  {
+   "origen": 121,
+   "origen_nombre": "Cómo denunciar la violencia política contra las mujeres en razón de género en el Instituto Estatal Electoral de Nayarit",
+   "destino": 14,
+   "destino_nombre": "REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT",
+   "menciones": 2,
+   "articulos": [
+    {
+     "articulo": "Página 7",
+     "tipo": "seccion",
+     "pagina_pdf": 7
+    }
+   ]
+  },
+  {
+   "origen": 9,
+   "origen_nombre": "Reglamento de Sesiones del Consejo Local Electoral.",
+   "destino": 108,
+   "destino_nombre": "Reglamento Interior del Instituto Estatal Electoral de Nayarit.",
+   "menciones": 1,
+   "articulos": [
+    {
+     "articulo": "2",
+     "tipo": "cuerpo",
+     "pagina_pdf": 1
+    }
+   ]
+  },
+  {
+   "origen": 11,
+   "origen_nombre": "Reglamento de Comisiones del Consejo Local Electoral.",
+   "destino": 108,
+   "destino_nombre": "REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT",
+   "menciones": 1,
+   "articulos": [
+    {
+     "articulo": "3",
+     "tipo": "cuerpo",
+     "pagina_pdf": 1
+    }
+   ]
+  },
+  {
    "origen": 21,
    "origen_nombre": "Reglamento de Quejas y Denuncias en Materia de Violencia Política contra las Mujeres en Razón de Género del Instituto Estatal Electoral de Nayarit",
    "destino": 14,
@@ -135,6 +199,20 @@
      "articulo": "3",
      "tipo": "cuerpo",
      "pagina_pdf": 4
+    }
+   ]
+  },
+  {
+   "origen": 29,
+   "origen_nombre": "Lineamientos para el registro de la ciudadanía aspirantes a candidaturas independientes.",
+   "destino": 108,
+   "destino_nombre": "Reglamento Interior del Instituto Estatal Electoral de Nayarit.",
+   "menciones": 1,
+   "articulos": [
+    {
+     "articulo": "Lineamientos para el registro de la ciudadanía aspirantes a candidaturas independientes.",
+     "tipo": "seccion",
+     "pagina_pdf": null
     }
    ]
   },
@@ -163,6 +241,142 @@
      "articulo": "2",
      "tipo": "cuerpo",
      "pagina_pdf": 1
+    }
+   ]
+  },
+  {
+   "origen": 101,
+   "origen_nombre": "Estatuto de las Relaciones de Trabajo del Instituto Estatal Electoral de Nayarit con su personal.",
+   "destino": 108,
+   "destino_nombre": "Reglamento Interior del Instituto Estatal Electoral de Nayarit.",
+   "menciones": 1,
+   "articulos": [
+    {
+     "articulo": "3",
+     "tipo": "cuerpo",
+     "pagina_pdf": 10
+    }
+   ]
+  },
+  {
+   "origen": 107,
+   "origen_nombre": "Política de igualdad laboral y no discriminación del Instituto Estatal Electoral de Nayarit (Política IDI).",
+   "destino": 101,
+   "destino_nombre": "ESTATUTO DE LAS RELACIONES DE TRABAJO DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT CON SU PERSONAL",
+   "menciones": 1,
+   "articulos": [
+    {
+     "articulo": "Página 2",
+     "tipo": "seccion",
+     "pagina_pdf": 2
+    }
+   ]
+  },
+  {
+   "origen": 107,
+   "origen_nombre": "Política de igualdad laboral y no discriminación del Instituto Estatal Electoral de Nayarit (Política IDI).",
+   "destino": 108,
+   "destino_nombre": "REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT",
+   "menciones": 1,
+   "articulos": [
+    {
+     "articulo": "Página 2",
+     "tipo": "seccion",
+     "pagina_pdf": 2
+    }
+   ]
+  },
+  {
+   "origen": 108,
+   "origen_nombre": "Reglamento Interior del Instituto Estatal Electoral de Nayarit.",
+   "destino": 11,
+   "destino_nombre": "REGLAMENTO DE COMISIONES DEL CONSEJO LOCAL ELECTORAL DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT",
+   "menciones": 1,
+   "articulos": [
+    {
+     "articulo": "4",
+     "tipo": "cuerpo",
+     "pagina_pdf": 1
+    }
+   ]
+  },
+  {
+   "origen": 111,
+   "origen_nombre": "Lineamientos para la tramitación de préstamos para las personas servidoras públicas del Instituto Estatal Electoral de Nayarit.",
+   "destino": 101,
+   "destino_nombre": "Estatuto de las Relaciones de Trabajo del Instituto Estatal Electoral de Nayarit con su personal.",
+   "menciones": 1,
+   "articulos": []
+  },
+  {
+   "origen": 111,
+   "origen_nombre": "Lineamientos para la tramitación de préstamos para las personas servidoras públicas del Instituto Estatal Electoral de Nayarit.",
+   "destino": 108,
+   "destino_nombre": "Reglamento Interior del Instituto Estatal Electoral de Nayarit.",
+   "menciones": 1,
+   "articulos": []
+  },
+  {
+   "origen": 114,
+   "origen_nombre": "Lineamientos Administrativos para el Ejercicio y Control del Gasto del Instituto Estatal Electoral de Nayarit.",
+   "destino": 101,
+   "destino_nombre": "Estatuto de las Relaciones de Trabajo del Instituto Estatal Electoral de Nayarit con su personal.",
+   "menciones": 1,
+   "articulos": []
+  },
+  {
+   "origen": 118,
+   "origen_nombre": "Procedimiento administrativo de requisición de compra de bienes y contratación de servicios del Instituto Estatal Electoral de Nayarit.",
+   "destino": 112,
+   "destino_nombre": "Lineamientos para el control y administración de bienes muebles y servicios generales del Instituto Estatal Electoral de Nayarit.",
+   "menciones": 1,
+   "articulos": [
+    {
+     "articulo": "Página 3",
+     "tipo": "seccion",
+     "pagina_pdf": 3
+    }
+   ]
+  },
+  {
+   "origen": 118,
+   "origen_nombre": "Procedimiento administrativo de requisición de compra de bienes y contratación de servicios del Instituto Estatal Electoral de Nayarit.",
+   "destino": 110,
+   "destino_nombre": "LINEAMIENTOS DE AUSTERIDAD Y RACIONALIDAD DEL GASTO PARA FOMENTAR EL AHORRO",
+   "menciones": 1,
+   "articulos": [
+    {
+     "articulo": "Página 3",
+     "tipo": "seccion",
+     "pagina_pdf": 3
+    }
+   ]
+  },
+  {
+   "origen": 119,
+   "origen_nombre": "Procedimiento administrativo de comisión, viáticos y gastos de viaje del Instituto Estatal Electoral de Nayarit.",
+   "destino": 114,
+   "destino_nombre": "Lineamientos Administrativos para el Ejercicio y Control del Gasto del Instituto Estatal Electoral de Nayarit.",
+   "menciones": 1,
+   "articulos": [
+    {
+     "articulo": "Página 2",
+     "tipo": "seccion",
+     "pagina_pdf": 2
+    }
+   ]
+  },
+  {
+   "origen": 119,
+   "origen_nombre": "Procedimiento administrativo de comisión, viáticos y gastos de viaje del Instituto Estatal Electoral de Nayarit.",
+   "destino": 110,
+   "destino_nombre": "LINEAMIENTOS DE AUSTERIDAD Y RACIONALIDAD DEL GASTO PARA FOMENTAR EL AHORRO",
+   "menciones": 1,
+   "articulos": [
+    {
+     "articulo": "Página 2",
+     "tipo": "seccion",
+     "pagina_pdf": 2
     }
    ]
   }

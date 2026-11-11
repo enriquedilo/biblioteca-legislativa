@@ -1,0 +1,186 @@
+{
+  "id": 117,
+  "fecha_revision": "2026-11-11T01:23:01.483956+00:00",
+  "resultado": "Conversión conservada; muestra visual y auditoría de índices verificadas",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 10,
+  "paginas_sin_texto": [],
+  "texto_conservado": true,
+  "transitorios_y_notas_completos_incluidos": true,
+  "ocr_ejecutado": false,
+  "paginas_cotejadas_visualmente": [
+    1,
+    10
+  ],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 72,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 1861,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 7,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 2024,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 6,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 1973,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 4,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 1277,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 18,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 1616,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 15,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 1710,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 15,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 1547,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 11,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 2022,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 4,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 1546,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 3,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    }
+  ],
+  "promociones_encabezado_evitadas": [],
+  "incidencias_metadata": [
+    {
+      "campo": "decreto_numero",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "po_publicacion",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "ultima_reforma",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "abroga",
+      "motivo": "Sin cláusula inequívoca localizada; arreglo vacío no afirma ausencia normativa."
+    }
+  ],
+  "comparacion_word_pdf": null,
+  "diferencias_de_fuente": [
+    "No hay Word en el catálogo; sin comparación Word/PDF."
+  ],
+  "alcance": "Conservación por página de todos los caracteres no blancos, signos, cifras y comienzos de listas respecto de Poppler; doble lector numérico informativo, discrepancias no reparadas. No equivale a cotejo visual integral. Acuerdo y reformas proceden del catálogo por instrucción expresa.",
+  "control_capa_texto": {
+    "promover": true,
+    "paginas_interiores_sin_texto": [],
+    "excepcion_portada": false,
+    "motivo": "Todas las páginas tienen texto extraíble"
+  },
+  "promovido": true,
+  "evidencia_metadata": {
+    "nombre_oficial": {
+      "pagina_pdf": 1,
+      "texto": "LINEAMIENTOS PARA LA CONTRATACIÓN DE PERSONAL POR HONORARIOS ASIMILADOS A SALARIOS"
+    }
+  },
+  "integridad_cuerpo_verificada": true,
+  "auditoria_encabezados": {
+    "rotulos_propios": 0,
+    "rotulos_por_pagina": [],
+    "rotulos_no_reconocidos": [],
+    "remisiones_no_promovidas": [],
+    "entradas_indice_impreso_no_promovidas": [],
+    "estado": "verificada"
+  },
+  "estructura_no_articulada": {
+    "descripcion": "Cuerpo organizado por numerales, apartados, tablas o capítulos; sin artículos propios. Se indexa por página con tipo seccion, sin convertir numerales en artículos.",
+    "secciones": 10,
+    "transitorios": 0
+  },
+  "seleccion_version_catalogo": {
+    "acuerdo": "IEEN-CLE-028/2026",
+    "fecha": "2026-03-09",
+    "url": "https://ieenayarit.org/PDF/2026/Acuerdos/IEEN-CLE-028-2026-A1.pdf",
+    "fecha_maxima": "2026-03-09",
+    "reformas_en_catalogo": 0,
+    "criterio": "Mayor fecha entre vigente y cadena, no posición. Archivo descargado desde esa URL individual; recibo y SHA-256 conservados."
+  }
+}

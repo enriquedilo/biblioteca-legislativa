@@ -42,7 +42,7 @@ MESES["setiembre"] = 9
 RE_PAGINA = re.compile(r"<!--\s*PAGINA_PDF:\s*(\d+)\s*-->")
 # Encabezados de articulo: "### Artículo 47." / "### ARTÍCULO 1o." / "### Artículo 12 Bis."
 RE_ART = re.compile(
-    r"^#{1,4}\s*[.,;:]?\s*(?:ART[IÍ]CULOS?\.?|ART[O]?\.)\s*([0-9][0-9,]*)\s*(?:(?:o|º|°)(?![A-ZÁÉÍÓÚa-záéíóú]))?\s*[.\-–]*\s*"
+    r"^#{1,4}\s*[.,;:]?\s*(?:ART[IÍ]CULOS?\.?|ART[O]?\.)\s*([0-9][0-9,]*)\s*(?:(?:o|º|°)(?![A-ZÁÉÍÓÚa-záéíóú]))?\s*[.\-–:]*\s*"
     r"((?:[-–A-ZÁÉÍÓÚa-záéíóú][-–A-ZÁÉÍÓÚa-záéíóú.\s0-9]{0,25})?)$",
     re.IGNORECASE)
 # Encabezado cortado por salto de pagina: "### ARTÍCULO 29-" y el sufijo abajo.
@@ -316,6 +316,12 @@ def articulos_de(texto):
 
     if not marcas:
         marcas = _marcas_sin_articulado(lineas)
+    elif not any(t == "cuerpo" for _, _, t, _ in marcas):
+        # Un protocolo puede tener cuerpo por secciones y solo artículos
+        # transitorios. No dejar fuera de búsqueda todo lo anterior a éstos.
+        corte = next((i for i, ln in enumerate(lineas)
+                      if RE_TRANS_TIT.match(ln.strip())), marcas[0][0])
+        marcas = _marcas_sin_articulado(lineas[:corte]) + marcas
 
     arts = []
     for k, (i, num, tipo, pag) in enumerate(marcas):

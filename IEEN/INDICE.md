@@ -1,6 +1,6 @@
 # Biblioteca IEEN
 
-Lotes 1–3. [Reporte del lote 3 y pendientes](reportes/LOTE_3.md). Véase [reporte del lote 2](reportes/LOTE_2.md) y [reporte de controles e incidencias](reportes/LOTE_1.md).
+Lotes 1–4. [Cierre del acervo y reporte del lote 4](reportes/LOTE_4.md). [Reporte del lote 3 y pendientes](reportes/LOTE_3.md). Véase [reporte del lote 2](reportes/LOTE_2.md) y [reporte de controles e incidencias](reportes/LOTE_1.md).
 
 | ID | Ordenamiento | Texto versionado |
 |---|---|---|
@@ -46,6 +46,26 @@ Lotes 1–3. [Reporte del lote 3 y pendientes](reportes/LOTE_3.md). Véase [repo
 | 42 | LINEAMIENTOS PARA EL FUNCIONAMIENTO Y LA INTEGRACIÓN DE LAS JUNTAS AUXILIARES OPERATIVAS DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT PARA EL PROCESO ELECTORAL EXTRAORDINARIO 2025 | [texto](ordenamientos/42/versiones/4d56f9dc49cdeec3911ab7cfef3a9bd305c6eda5de56b5654d653c64334fe7f4/texto.md) |
 | 47 | LINEAMIENTOS PARA EL DESARROLLO DE LOS CÓMPUTOS PARCIALES Y ESTATAL DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT. PROCESO ELECTORAL EXTRAORDINARIO DEL PODER JUDICIAL LOCAL 2025 | [texto](ordenamientos/47/versiones/2064175483572cfea798592619139ff8e6ed0600c98267220c79ce9929c5df48/texto.md) |
 
+| 101 | ESTATUTO DE LAS RELACIONES DE TRABAJO DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT CON SU PERSONAL | [texto](ordenamientos/101/versiones/2ede9a291ab473459d15c4391985c04f84b79170a12c8226bded732d70e5befa/texto.md) |
+| 102 | MANUAL DE ORGANIZACIÓN DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT | [texto](ordenamientos/102/versiones/14d170373b4a6ddb90a866334c93a4b4a860535c66cc9049c11f45142f635fe0/texto.md) |
+| 107 | POLÍTICA DE IGUALDAD LABORAL Y NO DISCRIMINACIÓN DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT (POLÍTICA IDI). | [texto](ordenamientos/107/versiones/7f990c62419e7957e0a0f85a3eda392c6925254db644893c6b7144ef8f1e4044/texto.md) |
+| 108 | REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT | [texto](ordenamientos/108/versiones/2ad06916c58eda45567e62f54b2e3cf2e59503385eb45a7326e4be8c4af8e790/texto.md) |
+| 109 | REGLAMENTO DE ARCHIVOS DEL INSTITUTO ESTATAL ELECTORAL | [texto](ordenamientos/109/versiones/ac17d92006563aee83c025d22e497de7c73e68c51c78746870e0eba32cfa5172/texto.md) |
+| 110 | LINEAMIENTOS DE AUSTERIDAD Y RACIONALIDAD DEL GASTO PARA FOMENTAR EL AHORRO | [texto](ordenamientos/110/versiones/e72a0b653df1311636e39667b605f02eca125ce26896734b759813a1ac3180c7/texto.md) |
+| 111 | Lineamientos para la tramitación de préstamos para las personas servidoras públicas del Instituto Estatal Electoral de Nayarit | [texto](ordenamientos/111/versiones/425518ed62d38c06413629b25ae58159ecc64a6385c6286306031b7051d88fb9/texto.md) |
+| 112 | Lineamientos para el control y administración de bienes muebles y servicios generales del Instituto Estatal Electoral de Nayarit. | [texto](ordenamientos/112/versiones/4258062e3f55a9492c887c1ad6cfb64ac5a90d7e41d36229d7aa1ed1982c3edd/texto.md) |
+| 113 | LINEAMIENTOS PARA EL ALTA, MODIFICACIÓN, BAJA Y DESTRUCCIÓN DE LOS SELLOS DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT. | [texto](ordenamientos/113/versiones/8b7e4c50bcddf0c06b4918b8d676bf533fb78cdf3cec1b34db487b4194a79ce3/texto.md) |
+| 114 | Lineamientos Administrativos para el Ejercicio y Control del Gasto del Instituto Estatal Electoral de Nayarit | [texto](ordenamientos/114/versiones/cb3b24e32c43af477f06bcde715d82590d896984e4615352b0f8a503886063e1/texto.md) |
+| 115 | Lineamientos para regular el procedimiento de hostigamiento y/o acoso laboral y sexual; procedimiento laboral disciplinario y recurso de inconformidad del Instituto Estatal Electoral de Nayarit. | [texto](ordenamientos/115/versiones/bd928a05739dda29d1a5f553a238e789b950903a094d54a3b14a03b44dd535dc/texto.md) |
+| 116 | LINEAMIENTOS PARA LA DESINCORPORACIÓN Y BAJA DEFINITIVA DE VEHÍCULOS DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT. | [texto](ordenamientos/116/versiones/76bf56046a7cc18b40124ed368b524f336e30d8f268d1ca971fa3f7bd3c0449e/texto.md) |
+| 117 | LINEAMIENTOS PARA LA CONTRATACIÓN DE PERSONAL POR HONORARIOS ASIMILADOS A SALARIOS | [texto](ordenamientos/117/versiones/832dbb6c5b306f4df00255946ade8cf06596b3fd214f3b135cd24478c68c6a77/texto.md) |
+| 118 | PROCEDIMIENTO ADMINISTRATIVO PARA LA REQUISICIÓN DE COMPRA DE BIENES Y CONTRATACIÓN DE SERVICIOS | [texto](ordenamientos/118/versiones/b9d5a249cb817322cb932e654a3f7905ef0f27f0cb1fdbf0efed55ff639f840a/texto.md) |
+| 119 | PROCEDIMIENTO ADMINISTRATIVO DE COMISIÓN, VIÁTICOS Y GASTOS DE VIAJE | [texto](ordenamientos/119/versiones/63bafb2b0255f5c91635e615b42ff6b803ef6a889631c58fa2c398b9daa28247/texto.md) |
+| 120 | PROTOCOLO PARA LA ATENCIÓN DE PERSONAS CON DISCAPACIDAD | [texto](ordenamientos/120/versiones/a16627ec4ab4c48a83f5ed34d5d36f9502b69b9417a6ad966b227b4c09ad31ac/texto.md) |
+| 121 | CÓMO DENUNCIAR LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO EN EL INSTITUTO ESTATAL ELECTORAL DE NAYARIT | [texto](ordenamientos/121/versiones/b607b898c578c5bc0d7da293545b1bcbbc50beeba4227437bdb923a76c89211b/texto.md) |
+
 ## Pendientes sin promover
 
 45: sin capa de texto en ninguna página. 48: texto ausente en interiores 7, 18 y 20. Sin OCR; véase [lote 3](reportes/LOTE_3.md).
+
+Lote 4: 103 (manual gráfico, página 15), 104 (solo marca de agua extraíble), 105 (página final 16 en blanco, no exceptuada por la regla de portada) y 106 (texto interior en imagen, incluidas tablas). Sin promover ni OCR. Véase [reporte](reportes/LOTE_4.md).
