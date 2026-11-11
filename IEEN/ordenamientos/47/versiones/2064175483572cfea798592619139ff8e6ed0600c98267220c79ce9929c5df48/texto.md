@@ -1,6 +1,6 @@
 # Lineamientos de cómputos parciales y estatal, así como los criterios orientadores para determinar la validez o nulidad del voto.
 
-> EXTRACCIÓN DIAGNÓSTICA INCOMPLETA. Versión no promovida: hay contenido visible del PDF sin capa de texto. Sin OCR. Véanse metadata.json y validacion.json.
+> Transcripción del cuerpo del PDF. Portada en imagen sin texto normativo; título cotejado visualmente en metadata.json. Sin OCR. Véase validacion.json.
 
 <!-- PAGINA_PDF: 1 -->
 

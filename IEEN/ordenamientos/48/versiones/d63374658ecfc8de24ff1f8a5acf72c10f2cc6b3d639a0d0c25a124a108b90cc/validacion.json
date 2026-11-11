@@ -1,7 +1,7 @@
 {
   "id": 48,
   "fecha_revision": "2026-11-10T18:27:25.069257+00:00",
-  "resultado": "Pendiente: capa de texto parcial; sin OCR; no promovido",
+  "resultado": "Pendiente: Falta texto en páginas interiores; sin OCR; no promovido",
   "originales_sha256_verificados": true,
   "paginas_pdf": 27,
   "paginas_sin_texto": [
@@ -373,5 +373,15 @@
     "remisiones_no_promovidas": [],
     "entradas_indice_impreso_no_promovidas": [],
     "estado": "No certificada; documento no promovido por capa de texto incompleta."
+  },
+  "control_capa_texto": {
+    "promover": false,
+    "paginas_interiores_sin_texto": [
+      7,
+      18,
+      20
+    ],
+    "excepcion_portada": false,
+    "motivo": "Falta texto en páginas interiores"
   }
 }

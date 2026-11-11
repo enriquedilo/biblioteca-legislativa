@@ -27,6 +27,10 @@ for r in rows:
  assert len(raw)==v['paginas_pdf']==len(parts[1::2])
  for n,(page,md) in enumerate(zip(raw,parts[2::2]),1):
   clean,_=c.conv.strip_pagination(page,n);assert c.compact(clean)==c.compact(c.conv.unformat(md));assert re.sub(r'\D','',clean)==re.sub(r'\D','',c.conv.unformat(md))
+ if 'control_capa_texto' in v:
+  reviews=json.loads((ROOT/f'IEEN/catalogo/revision_lote{args.lote}.json').read_text())
+  decision=c.evaluar_capa_texto(v['paginas_sin_texto'],reviews.get(str(i)),version)
+  assert decision==v['control_capa_texto'] and decision['promover']==promovido
  if not promovido:
   assert v['paginas_sin_texto'] and v['promovido'] is False and v['ocr_ejecutado'] is False
   continue

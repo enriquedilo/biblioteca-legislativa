@@ -1,14 +1,14 @@
 {
   "id": 40,
   "fecha_revision": "2026-11-10T18:27:23.923284+00:00",
-  "resultado": "Pendiente: capa de texto parcial; sin OCR; no promovido",
+  "resultado": "Promovido: cuerpo conservado; portada sin texto normativo cotejada visualmente; sin OCR",
   "originales_sha256_verificados": true,
   "paginas_pdf": 14,
   "paginas_sin_texto": [
     1
   ],
   "texto_conservado": true,
-  "transitorios_y_notas_completos_incluidos": false,
+  "transitorios_y_notas_completos_incluidos": true,
   "ocr_ejecutado": false,
   "paginas_cotejadas_visualmente": [
     1,
@@ -262,21 +262,21 @@
   "diferencias_de_fuente": [
     "No hay Word en el catálogo; sin comparación Word/PDF."
   ],
-  "alcance": "Conservación por página de todos los caracteres no blancos, signos, cifras y comienzos de listas respecto de Poppler; doble lector numérico informativo, discrepancias no reparadas. No equivale a cotejo visual integral. Acuerdo y reformas proceden del catálogo por instrucción expresa. El control de conservación se refiere solo a la extracción disponible: no certifica integridad del contenido visible del PDF. Esta versión queda fuera de actual e índices.",
+  "alcance": "Conservación por página de la extracción Poppler; portada sin texto normativo cotejada visualmente y título transcrito solo en metadata. Se admite la portada por IEEN/LEEME.md. Sin OCR; no es cotejo visual integral.",
   "evidencia_metadata": {
     "nombre_oficial": {
       "pagina_pdf": 1,
       "texto": "LINEAMIENTOS PARA LA RECOPILACIÓN DE FIRMAS Y ACTIVIDADES RELACIONADAS CON EL PROCESO DE SOLICITUD DE REVOCACIÓN DE MANDATO"
     }
   },
-  "promovido": false,
+  "promovido": true,
   "integridad_texto_pdf_verificada": false,
   "incidencia_capa_texto": {
     "paginas": [
       1
     ],
-    "descripcion": "Portada con texto visible en imagen, ausente de la extracción.",
-    "accion": "Conservar originales y extracción diagnóstica; no promover; sin OCR."
+    "descripcion": "Portada con membrete y título en imagen, sin texto normativo; cuerpo extraíble completo.",
+    "accion": "Promoción por excepción de portada, título visual en metadata, sin OCR."
   },
   "seleccion_version_catalogo": {
     "acuerdo": "IEEN-CLE-152/2024",
@@ -445,7 +445,7 @@
         "texto": "Artículo 31. La violación a la confidencialidad de los datos personales será sancionada en los"
       }
     ],
-    "rotulos_no_reconocidos": null,
+    "rotulos_no_reconocidos": [],
     "remisiones_no_promovidas": [
       {
         "articulo": "17",
@@ -454,6 +454,19 @@
       }
     ],
     "entradas_indice_impreso_no_promovidas": [],
-    "estado": "No certificada; documento no promovido por capa de texto incompleta."
-  }
+    "estado": "verificada"
+  },
+  "control_capa_texto": {
+    "promover": true,
+    "paginas_interiores_sin_texto": [],
+    "excepcion_portada": true,
+    "motivo": "Portada sin contenido normativo cotejada visualmente"
+  },
+  "cotejo_portada": {
+    "pagina_pdf": 1,
+    "cotejo_visual": true,
+    "contiene_texto_normativo": false,
+    "evidencia": "Solo membrete, logotipos y título del documento; no hay artículos, disposiciones ni otro texto normativo. Cotejo visual directo de página 1 del PDF original."
+  },
+  "integridad_cuerpo_verificada": true
 }

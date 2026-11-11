@@ -173,11 +173,10 @@ fuente.
 
 ## IEEN: pendientes del lote 3
 
-IDs 40, 42 y 47: portada con texto visible en imagen pero sin texto extraíble.
-ID 45: cinco páginas sin capa de texto. ID 48: capa parcial, páginas 1, 7, 18 y 20
-sin texto extraíble y ejemplos de boletas en imágenes. Versiones diagnósticas
-conservadas, sin `actual` ni índices; no aplicar OCR. Véase
-[reporte del lote 3](IEEN/reportes/LOTE_3.md).
+45: sin texto en ninguna de sus cinco páginas. 48: capa parcial, con falta de
+texto interior en 7, 18 y 20. No aplica excepción de portada; sin `actual`, sin
+índices y sin OCR. Los IDs 40, 42 y 47 ya se promovieron tras cotejar sus
+portadas sin texto normativo. Véase [lote 3](IEEN/reportes/LOTE_3.md).
 
 Al incorporar INE, cotejar IEEN/38 antes de duplicar: metadata contiene `emisor`
 y `deduplicacion` con clave `INE/CG517/2020:A1` y referencia IEEN/38.

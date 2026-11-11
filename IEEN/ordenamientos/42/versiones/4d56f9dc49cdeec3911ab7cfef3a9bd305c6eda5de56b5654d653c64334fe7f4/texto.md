@@ -1,6 +1,6 @@
 # Lineamientos para el funcionamiento y la integración de las juntas auxiliares operativas del Instituto Estatal Electoral de Nayarit para el proceso electoral extraordinario 2025.
 
-> EXTRACCIÓN DIAGNÓSTICA INCOMPLETA. Versión no promovida: hay contenido visible del PDF sin capa de texto. Sin OCR. Véanse metadata.json y validacion.json.
+> Transcripción del cuerpo del PDF. Portada en imagen sin texto normativo; título cotejado visualmente en metadata.json. Sin OCR. Véase validacion.json.
 
 <!-- PAGINA_PDF: 1 -->
 

@@ -42,7 +42,10 @@ Lotes 1–3. [Reporte del lote 3 y pendientes](reportes/LOTE_3.md). Véase [repo
 | 49 | Lineamientos que regulan la propaganda electoral, para garantizar la imparcialidad y equidad en el Proceso Electoral Extraordinario 2025. | [texto](ordenamientos/49/versiones/7ea0adc0bcac311382df839ef86eb44849a96b2b8166f1049ce84ef20537455c/texto.md) |
 | 50 | LINEAMIENTOS PARA LA DESTRUCCIÓN DE LA DOCUMENTACIÓN ELECTORAL UTILIZADA EN EL PROCESO ELECTORAL EXTRAORDINARIO 2025 DEL PODER JUDICIAL DEL ESTADO DE NAYARIT | [texto](ordenamientos/50/versiones/5702f2fa46eaa8c7389c99001f965aba33a35f778fa80c16b9c3ba3554535f3c/texto.md) |
 | 51 | LINEAMIENTOS PARA EL REGISTRO DE LA CIUDADANÍA QUE ASPIRA A CONTENDER A TRAVÉS DE UNA CANDIDATURA INDEPENDIENTE A LOS DISTINTOS CARGOS DE ELECCIÓN POPULAR PARA EL PROCESO ELECTORAL LOCAL 2027 | [texto](ordenamientos/51/versiones/af7cb6922258c69087f220977b897c99496e9d4b3dca126ada7a3f1416158af9/texto.md) |
+| 40 | LINEAMIENTOS PARA LA RECOPILACIÓN DE FIRMAS Y ACTIVIDADES RELACIONADAS CON EL PROCESO DE SOLICITUD DE REVOCACIÓN DE MANDATO | [texto](ordenamientos/40/versiones/3f8050307d89b6e928a99f91d72d2198445732d775630acc952e753f697fb159/texto.md) |
+| 42 | LINEAMIENTOS PARA EL FUNCIONAMIENTO Y LA INTEGRACIÓN DE LAS JUNTAS AUXILIARES OPERATIVAS DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT PARA EL PROCESO ELECTORAL EXTRAORDINARIO 2025 | [texto](ordenamientos/42/versiones/4d56f9dc49cdeec3911ab7cfef3a9bd305c6eda5de56b5654d653c64334fe7f4/texto.md) |
+| 47 | LINEAMIENTOS PARA EL DESARROLLO DE LOS CÓMPUTOS PARCIALES Y ESTATAL DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT. PROCESO ELECTORAL EXTRAORDINARIO DEL PODER JUDICIAL LOCAL 2025 | [texto](ordenamientos/47/versiones/2064175483572cfea798592619139ff8e6ed0600c98267220c79ce9929c5df48/texto.md) |
 
 ## Pendientes sin promover
 
-IDs 40, 42, 45, 47 y 48: originales y extracción diagnóstica conservados, sin OCR; no están en `actual` ni en índices. Véase [lote 3](reportes/LOTE_3.md).
+45: sin capa de texto en ninguna página. 48: texto ausente en interiores 7, 18 y 20. Sin OCR; véase [lote 3](reportes/LOTE_3.md).
