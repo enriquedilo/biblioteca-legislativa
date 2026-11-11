@@ -6,7 +6,7 @@ Tres acervos independientes, con la misma estructura:
 |---|---|---:|
 | Federal | [Federal/INDICE.md](Federal/INDICE.md) | 447 |
 | Sinaloa | [Sinaloa/INDICE.md](Sinaloa/INDICE.md) | 151 |
-| Nayarit | [Nayarit/INDICE.md](Nayarit/INDICE.md) | 138 |
+| Nayarit | [Nayarit/INDICE.md](Nayarit/INDICE.md) | 139 |
 
 ## Cómo consultar
 

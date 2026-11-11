@@ -186,3 +186,9 @@ y `deduplicacion` con clave `INE/CG517/2020:A1` y referencia IEEN/38.
 104: acuerdo escaneado, solo marca de agua extraíble. 106: texto normativo y tablas en imagen en páginas interiores (evidencia: 117, 1073, 1075 y 1077). Ambos fuera por texto normativo como imagen conforme a los cuatro casos de IEEN/LEEME.md; sin OCR ni reconstrucción de tablas, sin `actual` y fuera de índices.
 
 103 y 105 ya promovidos con incidencias de página gráfica (15) y blanca (16), respectivamente. Las reglas gráficas del 103 se consultan en el PDF, no están en el texto. Los 64 candidatos IEEN están procesados: 60 promovidos y cuatro pendientes (45, 48, 104, 106). Véase [reporte del lote 4](IEEN/reportes/LOTE_4.md).
+
+## Nayarit: actualización del ID 75
+
+La Ley de Igualdad entre Mujeres y Hombres ya está cargada, pero su PDF del catálogo cambió a `igualdad_entre_mujeres_y_hombres_ley_de-.pdf`. El nuevo encabezado declara enmienda de 18 de septiembre de 2026; el archivo vigente del acervo declara 29 de abril de 2024. Pendiente descargar ambos formatos desde los enlaces actuales, convertir, comparar y promover por contenido. No se modificó en la tarea de Justicia Alternativa. Véase [cotejo del 11 de noviembre](Nayarit/reportes/JUSTICIA_ALTERNATIVA_2026-11-11.md).
+
+El ID 133 sigue sin PDF ni Word enlazados. Los 25 PDF fiscales de la sección 4 permanecen fuera por la exclusión inicial, detallada en el mismo reporte.

@@ -666,5 +666,34 @@
         ]
       }
     }
+  },
+  "actualizacion_vigencia": {
+    "fecha_revision": "2026-11-11",
+    "estado": "abrogada",
+    "evidencia": {
+      "entidad": "Nayarit",
+      "id": 140,
+      "version": "6a86867c95544d3d84f4205c1a8673d0cca81f1379f3974b8529660c6ee4961e",
+      "url_pdf": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes/mecanismos_alternativos_de_solucion_de_controversias_del_estado_de_nayarit_ley_de.pdf",
+      "pagina_pdf": 85,
+      "texto": "Segundo.- Se abroga la Ley de Justicia Alternativa para el Estado de Nayarit, publicada en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el veintitrés de abril del año dos mil once."
+    },
+    "cotejo_visual_fuente": [
+      1,
+      85,
+      86
+    ],
+    "urls_actualizadas_sin_cambio_de_contenido": true,
+    "pdf_y_word_sha256_identicos": true,
+    "incidencias": [
+      {
+        "campo": "abrogacion.fecha",
+        "motivo": "No se imprime fecha calendario de efectos: el primer transitorio fija día siguiente a publicación. Se conserva regla literal y fecha de publicación; no se inventa dato impreso."
+      },
+      {
+        "campo": "abrogada_por.decreto_numero",
+        "motivo": "La nueva ley no imprime número de decreto identificable."
+      }
+    ]
   }
 }

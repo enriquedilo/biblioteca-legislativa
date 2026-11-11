@@ -9,3 +9,7 @@ Los IDs y slugs nunca se recalculan al cambiar un nombre o URL. `actual.json` se
 La conversión v2 evita promover remisiones en continuación de párrafo: el contexto anterior sin punto o el siguiente en minúscula se registra, y las referencias sin delimitador impreso permanecen en cuerpo. Las etiquetas explícitas completas (`Artículo 24 C.-`, por ejemplo) siguen siendo encabezados. Se verifica conservación sin espacios y con signos y cifras. Las correcciones de formato se archivan y registran; no se corrigen erratas del original ni se aplica OCR.
 
 [Verificación v2](PILOTO_CORREGIDO_V2.json). La verificación inicial se conserva como antecedente, no como definición vigente.
+
+## Estado documentado y sustitución normativa (2026-11-11)
+
+Los IDs 78 y 140 agregan `estado_vigencia` documentado, sin inferirlo de `actual`. El 78 conserva la versión histórica y usa `abrogada`, `abrogada_por` y `abrogacion`; el 140 relaciona el 78 dentro de `abroga` mediante entidad, ID, versión y evidencia. Las fechas no impresas quedan null; la regla del primero transitorio y el régimen del tercero se conservan literalmente. `procedencia_urls` registra el traslado de los originales idénticos del 78 a la carpeta de abrogados. `rutas.json` expone estos estados y relaciones solo cuando constan expresamente en metadata.

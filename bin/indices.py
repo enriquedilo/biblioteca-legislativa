@@ -586,6 +586,14 @@ def gen_rutas():
             "validacion": f"{base}/validacion.json",
             "articulado": f"{ENTIDAD}/indices/articulos/{idl}.json",
         })
+        # Solo se expone un estado cuando fue documentado expresamente en metadata.
+        # La versión seleccionada por actual no implica vigencia jurídica.
+        if meta.get("estado_vigencia"):
+            reg[-1]["estado_vigencia"] = meta["estado_vigencia"]
+            if meta.get("abrogada_por"):
+                reg[-1]["abrogada_por"] = meta["abrogada_por"]
+            if meta.get("abroga"):
+                reg[-1]["abroga"] = meta["abroga"]
     doc = {
         "entidad": ENTIDAD,
         "generado": datetime.now(timezone.utc).isoformat(),
