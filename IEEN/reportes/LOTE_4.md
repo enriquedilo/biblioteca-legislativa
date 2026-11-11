@@ -1,8 +1,8 @@
 # IEEN — lote 4: sección interna
 
-Cierre de los 21 documentos `interna-1` a `interna-21`, IDs **101–121**, con `seccion: "interna"`. Fuente: `IEEN/catalogo/normatividad.json`; descarga individual de la URL vigente elegida por fecha. **17 promovidos y 4 pendientes**, sin OCR.
+Cierre de los 21 documentos `interna-1` a `interna-21`, IDs **101–121**, con `seccion: "interna"`. Fuente: `IEEN/catalogo/normatividad.json`; descarga individual de la URL vigente elegida por fecha. **19 promovidos y 2 pendientes**, sin OCR.
 
-**9 con artículos de cuerpo y 8 con cuerpo por secciones**. Los promovidos aportan **634 artículos de cuerpo, 30 transitorios y 175 secciones**, en 362 páginas. El ID 120 combina 24 secciones y 3 transitorios; se cuenta entre los ocho por secciones.
+**9 con artículos de cuerpo y 10 con cuerpo por secciones**. Los promovidos aportan **634 artículos de cuerpo, 30 transitorios y 209 secciones**, en 396 páginas. El ID 120 combina 24 secciones y 3 transitorios; se cuenta entre los diez por secciones.
 
 ## Conteos por ordenamiento
 
@@ -10,9 +10,9 @@ Cierre de los 21 documentos `interna-1` a `interna-21`, IDs **101–121**, con `
 |---|---|---:|---:|---:|---:|---|
 | 101 | ESTATUTO DE LAS RELACIONES DE TRABAJO DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT CON SU PERSONAL | 56 | 206 | 4 | 0 | Promovido |
 | 102 | MANUAL DE ORGANIZACIÓN DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT | 73 | 0 | 0 | 73 | Promovido |
-| 103 | Manual de Identidad Gráfica | 18 | — | — | — | Pendiente |
+| 103 | Manual de Identidad Gráfica | 18 | 0 | 0 | 18 | Promovido |
 | 104 | ACUERDO DE LA JUNTA ESTATAL EJECUTIVA DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT, POR EL QUE SE APRUEBA LA CREACIÓN, EL MANUAL DE OPERACIÓN Y LA PLANTILLA DE PERSONAL PARA EL FUNCIONAMIENTO DE LA OFICIALÍA DE PARTES. | 7 | — | — | — | Pendiente |
-| 105 | Manual de integración y funcionamiento del Comité de Adquisiciones, Arrendamientos, Bienes y Servicios del Instituto Estatal Electoral de Nayarit | 16 | — | — | — | Pendiente |
+| 105 | Manual de integración y funcionamiento del Comité de Adquisiciones, Arrendamientos, Bienes y Servicios del Instituto Estatal Electoral de Nayarit | 16 | 0 | 0 | 16 | Promovido |
 | 106 | MANUAL DE CONTABILIDAD GUBERNAMENTAL | 1091 | — | — | — | Pendiente |
 | 107 | POLÍTICA DE IGUALDAD LABORAL Y NO DISCRIMINACIÓN DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT (POLÍTICA IDI). | 6 | 0 | 0 | 6 | Promovido |
 | 108 | REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT | 20 | 50 | 5 | 0 | Promovido |
@@ -30,20 +30,19 @@ Cierre de los 21 documentos `interna-1` a `interna-21`, IDs **101–121**, con `
 | 120 | PROTOCOLO PARA LA ATENCIÓN DE PERSONAS CON DISCAPACIDAD | 25 | 0 | 3 | 24 | Promovido |
 | 121 | CÓMO DENUNCIAR LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO EN EL INSTITUTO ESTATAL ELECTORAL DE NAYARIT | 16 | 0 | 0 | 16 | Promovido |
 
-## Pendientes y alcance de las imágenes
+## Clasificación de las páginas sin texto
 
-- **103**: Pendiente: Página interior 15 sin texto: diseño gráfico con logotipo. Manual de identidad; no se fuerza su conversión normativa. Sin OCR; no promovido. Páginas sin texto sustantivo: 15.
-- **104**: Pendiente: Las siete páginas solo extraen la marca de agua Copia de Internet; el acuerdo visible está escaneado. La URL del catálogo entrega el acuerdo IEEN-JEE-007/2017, no un manual independiente. Sin OCR; no promovido. Páginas sin texto sustantivo: 1, 2, 3, 4, 5, 6, 7.
-- **105**: Pendiente: Página final 16 sin texto, cotejada visualmente en blanco. Se mantiene pendiente por el control conservador vigente, que solo exceptúa la portada; no se afirma pérdida normativa en esa página. Sin OCR; no promovido. Páginas sin texto sustantivo: 16.
-- **106**: Pendiente: Capa de texto parcial. Página 117 con instrucciones y cuadros en imagen y páginas 1073, 1075 y 1077 con tablas en imagen sin texto extraíble. Otras páginas señaladas contienen celdas vacías o membrete. Se conserva la extracción disponible; no se reconstruyen tablas. Sin OCR; no promovido. Páginas sin texto sustantivo: 1, 117, 529, 755, 793, 809, 831, 833, 987, 1005, 1007, 1073, 1075, 1077.
+Actualizado conforme al criterio de cuatro casos de `IEEN/LEEME.md` (db5ade9). Solo el texto normativo en imagen impide promover; una clasificación aún desconocida espera cotejo visual. Nunca OCR.
 
-El ID 103 es un manual de diseño; la página 15 contiene el logotipo y la composición gráfica. No se interpreta esta limitación como pérdida normativa. En el ID 105, la página final 16 está en blanco: la regla vigente solo exceptúa portadas y se conserva pendiente sin afirmar que falten disposiciones.
+- **103, promovido:** página 15 gráfica, cotejada: logotipo y composición de diseño. Las reglas gráficas de esa página **no están en texto.md**; se consultan en el PDF. Aporta **18 entradas tipo seccion**, ninguna de cuerpo ni transitorio. «Artículos Institucionales» es el título de aplicaciones de identidad, no articulado jurídico.
+- **105, promovido:** página final 16 en blanco, ya cotejada; no hay contenido que perder. Aporta **16 entradas tipo seccion**, ninguna de cuerpo ni transitorio.
+- **104, sin promover:** acuerdo escaneado; la única capa extraíble es la marca de agua «Copia de Internet». El cotejo de las páginas 1 y 7 prueba texto normativo en imagen y basta para bloquear. Las otras páginas permanecen marcadas para revisión, no se presentan como cotejadas. La URL del catálogo entrega el acuerdo de aprobación, no un manual autónomo.
+- **106, sin promover:** texto normativo como imagen en interiores, con evidencia visual de instrucciones y cuadros en la 117 y tablas en 1073, 1075 y 1077. La portada y las páginas con celdas vacías o membrete no son la causa del bloqueo. Se conserva la extracción disponible; no se reconstruyen tablas. El PDF pesa 15,669,435 bytes y tiene 1,091 páginas.
+- **120, ya promovido:** portada cotejada sin texto normativo; se conserva la promoción y todas sus entradas sin cambios.
 
-El ID 106 pesa 15,669,435 bytes y tiene 1,091 páginas. Se cotejaron todas las páginas que dispararon el control: la 117 tiene instrucciones y cuadros en imagen; las 1073, 1075 y 1077 contienen tablas con texto visible no extraíble. Las restantes señaladas contienen celdas vacías o membretes. El texto disponible permanece íntegro en la extracción diagnóstica, sin reconstrucción de tablas. Esta muestra no certifica todas las tablas del manual.
+El detector automático renderiza las páginas señaladas con Poppler, sin OCR. Solo un render uniformemente blanco se clasifica automáticamente como blanco. Los trazos, imágenes y el ruido de un escaneo exigen revisión; la página 16 del 105 se acepta por el cotejo visual previo. Nunca se decide automáticamente que una imagen es gráfica en lugar de texto normativo. La clasificación visual queda vinculada al SHA-256 del PDF.
 
-El ID 104 no pasa por tener una marca de agua extraíble: se verificó visualmente que el cuerpo del acuerdo está escaneado. El detector reconoce esta situación sin borrar la marca de agua del texto archivado. La URL del catálogo corresponde al acuerdo de aprobación, no a un manual autónomo; no se inventó otra URL.
-
-El **ID 120 sí se promueve**: su página 1 es portada con título, ilustración y membrete, sin texto normativo. El título se transcribió por cotejo visual en metadata y se documentó la excepción en validacion.json.
+Las 34 nuevas entradas incluyen una por cada página: las páginas gráfica y blanca conservan su localización en el índice, sin inventar contenido.
 
 ## Selección de las cinco cadenas por fecha
 
@@ -67,10 +66,14 @@ En los cinco, la fecha seleccionada es el máximo de `vigente` y todos los antec
 - Originales SHA-256, contenido no blanco, signos, cifras, inicios de listas y marcadores de las **1,494 páginas** verificados contra la extracción Poppler, incluidos los diagnósticos pendientes. El doble lector es informativo; no se reparan discrepancias de pypdf.
 - Cotejo visual de primera y última página de los 21 documentos, títulos del cuerpo cuando precede un índice impreso y páginas de incidencias. No se afirma cotejo visual integral de las 1,494 páginas.
 - Índices regenerados únicamente para IEEN. Comparación de todas las entradas completas de los **41 promovidos anteriores: 1,661 idénticas**, incluidas las de secciones. Evidencia: [regresión](regresion-lote-4.json).
-- Verificador del lote y seis pruebas de portada, marca de agua, tabla numérica y segmentación aprobados. Rutas versionadas y ausencia de pendientes en índices verificadas.
+- Verificador del lote, cinco pruebas de clasificación/detección de blanco y tres de segmentación aprobados. Rutas versionadas y ausencia de pendientes en índices verificadas.
 
 ## Cierre del acervo
 
-Los 64 candidatos de ambos apartados están procesados: **58 promovidos y 6 pendientes** (45, 48, 103, 104, 105, 106). Los índices reúnen **2,182 artículos de cuerpo, 88 transitorios y 230 secciones: 2,500 entradas**. Los documentos promovidos suman 1,053 páginas.
+Los 64 candidatos de ambos apartados están procesados: **60 promovidos y 4 pendientes** (45, 48, 104, 106). Los índices reúnen **2,182 artículos de cuerpo, 88 transitorios y 264 secciones: 2,534 entradas**. Los documentos promovidos suman 1,087 páginas.
 
 Se conservan originales y extracciones en cada carpeta versionada y en el respaldo local del lote. Conforme a la política del repositorio, los binarios y extraccion.txt no se suben a Git; Git contiene Markdown, metadata, validación, índices y reportes. Los pendientes no tienen `actual` ni entran en búsqueda. Publicación en rama `ieen-lote-4`, con PR en borrador y sin merge.
+
+## Regresión de esta actualización
+
+Las **2,500 entradas completas de los 58 documentos previamente promovidos permanecen idénticas** frente a db5ade9. No se modificó su texto, metadata ni validación. Evidencia: [regresión de cuatro casos](regresion-cuatro-casos-lote-4.json). El incremento es exclusivamente de 34 secciones (103: 18; 105: 16).

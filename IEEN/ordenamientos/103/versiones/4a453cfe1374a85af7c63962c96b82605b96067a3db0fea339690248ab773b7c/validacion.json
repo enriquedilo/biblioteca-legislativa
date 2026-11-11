@@ -1,14 +1,14 @@
 {
   "id": 103,
   "fecha_revision": "2026-11-11T01:22:39.598736+00:00",
-  "resultado": "Pendiente: Página interior 15 sin texto: diseño gráfico con logotipo. Manual de identidad; no se fuerza su conversión normativa. Sin OCR; no promovido.",
+  "resultado": "Promovido: Páginas sin texto clasificadas: portada, blanca o gráfica; no bloquean promoción; sin OCR",
   "originales_sha256_verificados": true,
   "paginas_pdf": 18,
   "paginas_sin_texto": [
     15
   ],
   "texto_conservado": true,
-  "transitorios_y_notas_completos_incluidos": false,
+  "transitorios_y_notas_completos_incluidos": true,
   "ocr_ejecutado": false,
   "paginas_cotejadas_visualmente": [
     1,
@@ -238,33 +238,53 @@
   "diferencias_de_fuente": [
     "No hay Word en el catálogo; sin comparación Word/PDF."
   ],
-  "alcance": "Conservación por página de todos los caracteres no blancos, signos, cifras y comienzos de listas respecto de Poppler; doble lector numérico informativo, discrepancias no reparadas. No equivale a cotejo visual integral. Acuerdo y reformas proceden del catálogo por instrucción expresa. El control de conservación se refiere solo a la extracción disponible; no certifica integridad del contenido visible del PDF.",
+  "alcance": "Conservación de la extracción Poppler por página, sin OCR. Clasificación de páginas sin texto según IEEN/LEEME.md. Las páginas gráficas no se reproducen en texto y requieren consulta del PDF; no se afirma cotejo visual integral.",
   "control_capa_texto": {
-    "promover": false,
+    "criterio_version": 2,
+    "promover": true,
     "paginas_interiores_sin_texto": [
       15
     ],
     "excepcion_portada": false,
-    "motivo": "Falta texto en páginas interiores"
+    "clasificacion_paginas": [
+      {
+        "pagina_pdf": 15,
+        "caso": "grafica",
+        "evidencia": "Página 15 cotejada: logotipo y composición de diseño. Las reglas gráficas de esta página no están en el texto; consultar el PDF."
+      }
+    ],
+    "paginas_texto_normativo_imagen": [],
+    "paginas_por_revisar": [],
+    "motivo": "Páginas sin texto clasificadas: portada, blanca o gráfica; no bloquean promoción"
   },
-  "promovido": false,
+  "promovido": true,
   "evidencia_metadata": {
     "nombre_oficial": {
       "pagina_pdf": 1,
       "texto": "Manual de Identidad Gráfica"
     }
   },
-  "integridad_cuerpo_verificada": false,
+  "integridad_cuerpo_verificada": true,
   "incidencia_capa_texto": {
     "paginas": [
       15
     ],
-    "descripcion": "Página interior 15 sin texto: diseño gráfico con logotipo. Manual de identidad; no se fuerza su conversión normativa.",
-    "accion": "Conservar PDF y extracción diagnóstica; sin actual, fuera de índices; sin OCR."
+    "clasificaciones": [
+      {
+        "pagina_pdf": 15,
+        "caso": "grafica",
+        "evidencia": "Página 15 cotejada: logotipo y composición de diseño. Las reglas gráficas de esta página no están en el texto; consultar el PDF."
+      }
+    ],
+    "descripcion": "Páginas sin texto clasificadas: portada, blanca o gráfica; no bloquean promoción",
+    "accion": "Promover con incidencia; sin OCR."
   },
   "auditoria_encabezados": {
-    "rotulos_no_reconocidos": null,
-    "estado": "No certificada: versión no promovida."
+    "rotulos_propios": 0,
+    "rotulos_por_pagina": [],
+    "rotulos_no_reconocidos": [],
+    "estado": "verificada",
+    "descripcion": "Sin rótulos de artículos normativos propios. En 103, Artículos Institucionales designa aplicaciones del logotipo, no articulado jurídico."
   },
   "seleccion_version_catalogo": {
     "acuerdo": "IEEN-CLE-029/2023",
@@ -273,5 +293,26 @@
     "fecha_maxima": "2023-02-10",
     "reformas_en_catalogo": 0,
     "criterio": "Mayor fecha entre vigente y cadena, no posición. Archivo descargado desde esa URL individual; recibo y SHA-256 conservados."
+  },
+  "deteccion_paginas_blancas": {
+    "15": {
+      "pagina_pdf": 15,
+      "caso": "revision_pendiente",
+      "metodo": "Render Poppler 150 dpi, gris; solo blanco uniforme (255) se acepta automáticamente.",
+      "extremos_gris": [
+        6,
+        255
+      ]
+    }
+  },
+  "reglas_graficas_no_representadas_en_texto": {
+    "paginas": [
+      15
+    ],
+    "descripcion": "Las composiciones, logotipos y reglas gráficas de estas páginas no están en texto.md; consultar el PDF original."
+  },
+  "estructura_no_articulada": {
+    "secciones": 18,
+    "descripcion": "Segmentación por página, sin inventar artículos. La entrada de página sin texto conserva su ubicación, no transcribe gráficos ni rellena blancos."
   }
 }

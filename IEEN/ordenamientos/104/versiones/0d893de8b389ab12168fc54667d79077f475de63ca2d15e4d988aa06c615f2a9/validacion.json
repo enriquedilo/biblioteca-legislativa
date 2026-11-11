@@ -1,7 +1,7 @@
 {
   "id": 104,
   "fecha_revision": "2026-11-11T01:22:39.763210+00:00",
-  "resultado": "Pendiente: Las siete páginas solo extraen la marca de agua Copia de Internet; el acuerdo visible está escaneado. La URL del catálogo entrega el acuerdo IEEN-JEE-007/2017, no un manual independiente. Sin OCR; no promovido.",
+  "resultado": "Pendiente: Texto normativo como imagen; sin OCR",
   "originales_sha256_verificados": true,
   "paginas_pdf": 7,
   "paginas_sin_texto": [
@@ -122,8 +122,9 @@
   "diferencias_de_fuente": [
     "No hay Word en el catálogo; sin comparación Word/PDF."
   ],
-  "alcance": "Conservación por página de todos los caracteres no blancos, signos, cifras y comienzos de listas respecto de Poppler; doble lector numérico informativo, discrepancias no reparadas. No equivale a cotejo visual integral. Acuerdo y reformas proceden del catálogo por instrucción expresa. El control de conservación se refiere solo a la extracción disponible; no certifica integridad del contenido visible del PDF.",
+  "alcance": "Conservación de la extracción Poppler por página, sin OCR. Clasificación de páginas sin texto según IEEN/LEEME.md. Las páginas gráficas no se reproducen en texto y requieren consulta del PDF; no se afirma cotejo visual integral.",
   "control_capa_texto": {
+    "criterio_version": 2,
     "promover": false,
     "paginas_interiores_sin_texto": [
       2,
@@ -134,7 +135,55 @@
       7
     ],
     "excepcion_portada": false,
-    "motivo": "Falta texto en páginas interiores"
+    "clasificacion_paginas": [
+      {
+        "pagina_pdf": 1,
+        "caso": "texto_normativo_imagen",
+        "evidencia": "Escaneo completo del acuerdo; la única capa extraíble es la marca de agua Copia de Internet. Cotejo previo de páginas 1 y 7 y extracción de las siete páginas; clasificación conservadora del escaneo completo."
+      },
+      {
+        "pagina_pdf": 2,
+        "caso": "revision_pendiente",
+        "evidencia": "Requiere cotejo visual; no se infiere gráfica de la ausencia de texto."
+      },
+      {
+        "pagina_pdf": 3,
+        "caso": "revision_pendiente",
+        "evidencia": "Requiere cotejo visual; no se infiere gráfica de la ausencia de texto."
+      },
+      {
+        "pagina_pdf": 4,
+        "caso": "revision_pendiente",
+        "evidencia": "Requiere cotejo visual; no se infiere gráfica de la ausencia de texto."
+      },
+      {
+        "pagina_pdf": 5,
+        "caso": "revision_pendiente",
+        "evidencia": "Requiere cotejo visual; no se infiere gráfica de la ausencia de texto."
+      },
+      {
+        "pagina_pdf": 6,
+        "caso": "revision_pendiente",
+        "evidencia": "Requiere cotejo visual; no se infiere gráfica de la ausencia de texto."
+      },
+      {
+        "pagina_pdf": 7,
+        "caso": "texto_normativo_imagen",
+        "evidencia": "Escaneo completo del acuerdo; la única capa extraíble es la marca de agua Copia de Internet. Cotejo previo de páginas 1 y 7 y extracción de las siete páginas; clasificación conservadora del escaneo completo."
+      }
+    ],
+    "paginas_texto_normativo_imagen": [
+      1,
+      7
+    ],
+    "paginas_por_revisar": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "motivo": "Texto normativo como imagen"
   },
   "promovido": false,
   "evidencia_metadata": {
@@ -154,8 +203,45 @@
       6,
       7
     ],
-    "descripcion": "Las siete páginas solo extraen la marca de agua Copia de Internet; el acuerdo visible está escaneado. La URL del catálogo entrega el acuerdo IEEN-JEE-007/2017, no un manual independiente.",
-    "accion": "Conservar PDF y extracción diagnóstica; sin actual, fuera de índices; sin OCR."
+    "clasificaciones": [
+      {
+        "pagina_pdf": 1,
+        "caso": "texto_normativo_imagen",
+        "evidencia": "Escaneo completo del acuerdo; la única capa extraíble es la marca de agua Copia de Internet. Cotejo previo de páginas 1 y 7 y extracción de las siete páginas; clasificación conservadora del escaneo completo."
+      },
+      {
+        "pagina_pdf": 2,
+        "caso": "revision_pendiente",
+        "evidencia": "Requiere cotejo visual; no se infiere gráfica de la ausencia de texto."
+      },
+      {
+        "pagina_pdf": 3,
+        "caso": "revision_pendiente",
+        "evidencia": "Requiere cotejo visual; no se infiere gráfica de la ausencia de texto."
+      },
+      {
+        "pagina_pdf": 4,
+        "caso": "revision_pendiente",
+        "evidencia": "Requiere cotejo visual; no se infiere gráfica de la ausencia de texto."
+      },
+      {
+        "pagina_pdf": 5,
+        "caso": "revision_pendiente",
+        "evidencia": "Requiere cotejo visual; no se infiere gráfica de la ausencia de texto."
+      },
+      {
+        "pagina_pdf": 6,
+        "caso": "revision_pendiente",
+        "evidencia": "Requiere cotejo visual; no se infiere gráfica de la ausencia de texto."
+      },
+      {
+        "pagina_pdf": 7,
+        "caso": "texto_normativo_imagen",
+        "evidencia": "Escaneo completo del acuerdo; la única capa extraíble es la marca de agua Copia de Internet. Cotejo previo de páginas 1 y 7 y extracción de las siete páginas; clasificación conservadora del escaneo completo."
+      }
+    ],
+    "descripcion": "Texto normativo como imagen",
+    "accion": "Conservar extracción diagnóstica; sin actual ni índices; sin OCR."
   },
   "auditoria_encabezados": {
     "rotulos_no_reconocidos": null,
@@ -168,5 +254,71 @@
     "fecha_maxima": "2017-01-25",
     "reformas_en_catalogo": 0,
     "criterio": "Mayor fecha entre vigente y cadena, no posición. Archivo descargado desde esa URL individual; recibo y SHA-256 conservados."
-  }
+  },
+  "deteccion_paginas_blancas": {
+    "1": {
+      "pagina_pdf": 1,
+      "caso": "revision_pendiente",
+      "metodo": "Render Poppler 150 dpi, gris; solo blanco uniforme (255) se acepta automáticamente.",
+      "extremos_gris": [
+        0,
+        255
+      ]
+    },
+    "2": {
+      "pagina_pdf": 2,
+      "caso": "revision_pendiente",
+      "metodo": "Render Poppler 150 dpi, gris; solo blanco uniforme (255) se acepta automáticamente.",
+      "extremos_gris": [
+        0,
+        255
+      ]
+    },
+    "3": {
+      "pagina_pdf": 3,
+      "caso": "revision_pendiente",
+      "metodo": "Render Poppler 150 dpi, gris; solo blanco uniforme (255) se acepta automáticamente.",
+      "extremos_gris": [
+        0,
+        255
+      ]
+    },
+    "4": {
+      "pagina_pdf": 4,
+      "caso": "revision_pendiente",
+      "metodo": "Render Poppler 150 dpi, gris; solo blanco uniforme (255) se acepta automáticamente.",
+      "extremos_gris": [
+        0,
+        255
+      ]
+    },
+    "5": {
+      "pagina_pdf": 5,
+      "caso": "revision_pendiente",
+      "metodo": "Render Poppler 150 dpi, gris; solo blanco uniforme (255) se acepta automáticamente.",
+      "extremos_gris": [
+        0,
+        255
+      ]
+    },
+    "6": {
+      "pagina_pdf": 6,
+      "caso": "revision_pendiente",
+      "metodo": "Render Poppler 150 dpi, gris; solo blanco uniforme (255) se acepta automáticamente.",
+      "extremos_gris": [
+        0,
+        255
+      ]
+    },
+    "7": {
+      "pagina_pdf": 7,
+      "caso": "revision_pendiente",
+      "metodo": "Render Poppler 150 dpi, gris; solo blanco uniforme (255) se acepta automáticamente.",
+      "extremos_gris": [
+        0,
+        255
+      ]
+    }
+  },
+  "reglas_graficas_no_representadas_en_texto": null
 }

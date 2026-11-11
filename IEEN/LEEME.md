@@ -60,29 +60,37 @@ Además de los campos que ya usan los otros acervos —`id`, `nombre_catalogo`,
   uno con su fecha y su URL. **No se convierten**: quedan anotados para poder
   promover una versión anterior el día que haga falta, sin rehacer nada.
 
-## Páginas sin capa de texto: portada e interior no pesan igual
+## Páginas sin capa de texto: cuatro casos, uno solo impide cargar
 
-Varios documentos del Instituto traen la **portada como imagen** —membrete,
-escudo y título— aunque el cuerpo esté perfectamente extraíble. Frenar la
-carga por eso dejaba fuera normatividad vigente y completa, así que el
-control distingue:
+«Página sin texto extraíble» significa cosas muy distintas, y tratarlas igual
+dejaba fuera documentos completos. El control las clasifica:
 
-- **Si lo único sin texto extraíble es la portada**, el documento **se
-  promueve**. La incidencia se registra en `validacion.json` y el título se
-  transcribe por cotejo visual a `metadata.json`, marcado como tal. Debe
-  comprobarse en el cotejo visual de esa página que no lleva texto normativo:
-  si la portada arranca el articulado, no aplica esta excepción.
-- **Si falta texto en cualquier página interior**, el documento **no se
-  promueve**: ahí sí se pierde contenido normativo. Queda con su PDF, su
-  extracción diagnóstica y su metadata, sin enlace `actual`, fuera de los
-  índices y de la búsqueda.
-- **Nunca se aplica OCR.** La biblioteca no mezcla texto de la fuente con
-  texto generado por máquina. Un documento que no se puede leer se declara
-  ilegible y se cita su PDF.
+| Caso | Qué es | Qué se hace |
+|---|---|---|
+| **Portada** | Membrete, escudo y título como imagen | Se promueve. El título se transcribe por cotejo visual a `metadata.json`, marcado como tal |
+| **Página en blanco** | No hay nada que extraer | Se promueve. No hay contenido que perder |
+| **Página gráfica** | El contenido *es* la imagen: un logotipo, una composición de diseño | Se promueve. El gráfico se pierde en cualquier conversión a texto; retener el documento entero no lo rescata y además pierde el texto de las demás páginas |
+| **Texto normativo como imagen** | Articulado, tablas o instrucciones legibles a la vista pero no extraíbles | **No se promueve.** Aquí sí se pierde contenido |
 
-Casos del lote 3: los ids 40, 42 y 47 entran por la primera regla; el 45
-—escaneo sin texto en ninguna de sus cinco páginas— y el 48 —sin texto en las
-páginas 7, 18 y 20, que sí llevan contenido— quedan fuera por la segunda.
+Las tres primeras se registran como incidencia en `validacion.json`, con el
+número de página y el motivo. El documento entra al acervo y a la búsqueda.
+
+La cuarta deja el documento con su PDF, su extracción diagnóstica y su
+metadata, **sin enlace `actual`**, fuera de los índices y de la búsqueda. Si
+una consulta lo toca, se dice que su texto no está en la biblioteca y se cita
+su PDF.
+
+La clasificación exige cotejo visual de la página que disparó el control: no
+se deduce del conteo de caracteres. En la duda entre «gráfica» y «texto
+normativo como imagen», manda la segunda.
+
+**Nunca se aplica OCR.** La biblioteca no mezcla texto de la fuente con texto
+generado por máquina. Un documento que no se puede leer se declara ilegible.
+
+Casos resueltos con esta regla: entran los ids 40, 42 y 47 (portada), 105
+(página final en blanco) y 103 (página de diseño en un manual de identidad
+gráfica). Quedan fuera el 45 y el 104, escaneos sin texto en ninguna página,
+y el 48 y el 106, que pierden texto normativo en páginas interiores.
 
 ## Lo que no está aquí
 

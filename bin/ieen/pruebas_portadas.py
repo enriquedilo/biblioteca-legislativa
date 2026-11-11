@@ -1,4 +1,4 @@
-"""Regresión de la excepción de portada: nunca exime páginas interiores."""
+"""Regresión de las cuatro clases de páginas sin texto; nunca OCR."""
 import unittest
 from convertir import evaluar_capa_texto, sin_texto_sustantivo
 
@@ -19,5 +19,30 @@ class CapaTexto(unittest.TestCase):
   self.assertFalse(sin_texto_sustantivo('Copia de Internet\nArtículo 1. El Instituto tendrá las siguientes atribuciones.'))
  def test_tabla_numerica_no_se_descarta(self):
   self.assertFalse(sin_texto_sustantivo('1000 2000 3000 4000 5000 6000'))
+
+
+
+class CuatroCasos(unittest.TestCase):
+ def revision(self,caso,visual=True):
+  return {'pdf_sha256':'abc','nombre_oficial':'Título','paginas_sin_texto':{'2':{'pagina_pdf':2,'caso':caso,'cotejo_visual':visual,'evidencia':'Cotejo de prueba'}}}
+ def test_clasificacion(self):
+  for caso,ok in [('blanca',True),('grafica',True),('texto_normativo_imagen',False),('revision_pendiente',False)]:
+   with self.subTest(caso=caso):self.assertEqual(evaluar_capa_texto([2],self.revision(caso),'abc')['promover'],ok)
+  self.assertFalse(evaluar_capa_texto([2],self.revision('grafica',False),'abc')['promover'])
+  self.assertFalse(evaluar_capa_texto([2],self.revision('grafica'),'otro')['promover'])
+ def test_render_blanco_y_trazos(self):
+  import tempfile
+  from pathlib import Path
+  from pypdf import PdfWriter
+  from pypdf.generic import DecodedStreamObject,NameObject
+  from convertir import detectar_blancas
+  with tempfile.TemporaryDirectory() as tmp:
+   p=Path(tmp)/'prueba.pdf';w=PdfWriter();w.add_blank_page(width=72,height=72)
+   page=w.add_blank_page(width=72,height=72);stream=DecodedStreamObject();stream.set_data(b'0 g 10 10 1 1 re f');page[NameObject('/Contents')]=w._add_object(stream)
+   with p.open('wb') as f:w.write(f)
+   auto=detectar_blancas(p,[1,2])
+   self.assertEqual(auto['1']['caso'],'blanca');self.assertEqual(auto['2']['caso'],'revision_pendiente')
+   self.assertTrue(evaluar_capa_texto([1],None,'abc',auto)['promover'])
+   self.assertFalse(evaluar_capa_texto([2],None,'abc',auto)['promover'])
 
 if __name__=='__main__':unittest.main()

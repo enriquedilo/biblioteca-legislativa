@@ -30,55 +30,88 @@ def sin_texto_sustantivo(pagina):
  letras=re.sub(r'[^a-z]', '', unicodedata.normalize('NFKD',pagina).encode('ascii','ignore').decode().lower())
  return len(pagina.strip())<20 or letras == 'copiadeinternet'
 
-def evaluar_capa_texto(paginas_sin_texto, revision, sha):
- """Una portada vacía requiere cotejo visual vinculado al mismo PDF; interior bloquea."""
- interiores=[n for n in paginas_sin_texto if n != 1]
- portada=(revision or {}).get('portada',{})
- cotejada=bool(revision and revision.get('pdf_sha256')==sha
-               and revision.get('nombre_oficial') and portada.get('pagina_pdf')==1
-               and portada.get('cotejo_visual') is True
-               and portada.get('contiene_texto_normativo') is False)
- excepcion=paginas_sin_texto==[1] and cotejada
- return {'promover':not paginas_sin_texto or excepcion,
-         'paginas_interiores_sin_texto':interiores,
-         'excepcion_portada':excepcion,
-         'motivo':('Falta texto en páginas interiores' if interiores else
-                   'Portada sin contenido normativo cotejada visualmente' if excepcion else
-                   'Falta cotejo visual de portada sin contenido normativo' if paginas_sin_texto else
+def detectar_blancas(pdf, paginas):
+ """Solo blanco uniforme en el render es concluyente; ruido o imagen exige revisión.
+ No se ejecuta OCR ni se deduce ausencia de contenido del texto extraído.
+ """
+ import subprocess,tempfile
+ from PIL import Image
+ resultado={}
+ with tempfile.TemporaryDirectory(prefix='ieen-blancas-') as tmp:
+  for n in paginas:
+   destino=Path(tmp)/str(n)
+   subprocess.run(['pdftoppm','-f',str(n),'-l',str(n),'-r','150','-singlefile','-gray','-png',str(pdf),str(destino)],check=True,stdout=subprocess.DEVNULL,stderr=subprocess.PIPE)
+   with Image.open(str(destino)+'.png') as im:
+    minimo,maximo=im.convert('L').getextrema()
+   resultado[str(n)]={'pagina_pdf':n,'caso':'blanca' if minimo==maximo==255 else 'revision_pendiente',
+    'metodo':'Render Poppler 150 dpi, gris; solo blanco uniforme (255) se acepta automáticamente.',
+    'extremos_gris':[minimo,maximo]}
+ return resultado
+
+def evaluar_capa_texto(paginas_sin_texto, revision, sha, automaticas=None):
+ """Cuatro casos: solo texto normativo en imagen impide promover definitivamente.
+ Una clasificación desconocida queda pendiente de revisión; nunca se supone gráfica.
+ """
+ revision=revision or {}; vinculada=revision.get('pdf_sha256')==sha
+ clasificaciones=[]
+ for n in paginas_sin_texto:
+  r=revision.get('paginas_sin_texto',{}).get(str(n),{}) if vinculada else {}
+  caso='revision_pendiente';evidencia='Requiere cotejo visual; no se infiere gráfica de la ausencia de texto.'
+  if r.get('cotejo_visual') is True and r.get('pagina_pdf')==n and r.get('caso') in ('portada','blanca','grafica','texto_normativo_imagen'):
+   caso=r['caso'];evidencia=r.get('evidencia')
+   if caso=='portada' and (n!=1 or not revision.get('nombre_oficial') or r.get('contiene_texto_normativo') is not False):caso='revision_pendiente'
+  elif vinculada and n==1:
+   portada=revision.get('portada',{})
+   if revision.get('nombre_oficial') and portada.get('pagina_pdf')==1 and portada.get('cotejo_visual') is True and portada.get('contiene_texto_normativo') is False:
+    caso='portada';evidencia=portada.get('evidencia','Portada cotejada, sin texto normativo.')
+  auto=(automaticas or {}).get(str(n),{})
+  if caso=='revision_pendiente' and auto.get('caso')=='blanca':caso='blanca';evidencia=auto['metodo']
+  clasificaciones.append({'pagina_pdf':n,'caso':caso,'evidencia':evidencia})
+ bloqueadas=[r['pagina_pdf'] for r in clasificaciones if r['caso']=='texto_normativo_imagen']
+ pendientes=[r['pagina_pdf'] for r in clasificaciones if r['caso']=='revision_pendiente']
+ return {'criterio_version':2,'promover':not bloqueadas and not pendientes,
+         'paginas_interiores_sin_texto':[n for n in paginas_sin_texto if n!=1],
+         'excepcion_portada':any(r['caso']=='portada' for r in clasificaciones),
+         'clasificacion_paginas':clasificaciones,'paginas_texto_normativo_imagen':bloqueadas,'paginas_por_revisar':pendientes,
+         'motivo':('Texto normativo como imagen' if bloqueadas else 'Clasificación visual pendiente' if pendientes else
+                   'Páginas sin texto clasificadas: portada, blanca o gráfica; no bloquean promoción' if clasificaciones else
                    'Todas las páginas tienen texto extraíble')}
 
 def aplicar_criterio_portada(dest, revision):
- meta=json.loads((dest/'metadata.json').read_text())
- val=json.loads((dest/'validacion.json').read_text())
+ # Nombre conservado para compatibilidad con las corridas de lotes anteriores.
+ meta=json.loads((dest/'metadata.json').read_text());val=json.loads((dest/'validacion.json').read_text())
  assert hashlib.sha256((dest/'original.pdf').read_bytes()).hexdigest()==meta['hash_sha256']['pdf']==meta['version']
  assert val['texto_conservado'] and all(x['contenido_y_signos_conservados'] and x['cifras_pdf_markdown_conservadas'] and x['inicios_lista_conservados'] for x in val['controles_por_pagina'])
- decision=evaluar_capa_texto(val['paginas_sin_texto'],revision,meta['hash_sha256']['pdf'])
- val['control_capa_texto']=decision
- val['promovido']=decision['promover']
+ automaticas=detectar_blancas(dest/'original.pdf',val['paginas_sin_texto'])
+ decision=evaluar_capa_texto(val['paginas_sin_texto'],revision,meta['version'],automaticas)
+ val['deteccion_paginas_blancas']=automaticas;val['control_capa_texto']=decision;val['promovido']=decision['promover']
  if decision['excepcion_portada']:
   meta['nombre_oficial']=revision['nombre_oficial']
   meta['procedencia_metadata']['nombre_oficial']='Transcripción por cotejo visual de portada (página 1), sin texto normativo; sin OCR.'
-  val['cotejo_portada']=revision['portada']
-  val['incidencia_capa_texto']={'paginas':[1],'descripcion':'Portada con membrete y título en imagen, sin texto normativo; cuerpo extraíble completo.', 'accion':'Promoción por excepción de portada, título visual en metadata, sin OCR.'}
-  val['integridad_cuerpo_verificada']=True
-  val['transitorios_y_notas_completos_incluidos']=True
-  val['alcance']='Conservación por página de la extracción Poppler; portada sin texto normativo cotejada visualmente y título transcrito solo en metadata. Se admite la portada por IEEN/LEEME.md. Sin OCR; no es cotejo visual integral.'
-  status='Promovido: cuerpo conservado; portada sin texto normativo cotejada visualmente; sin OCR'
-  text=(dest/'texto.md').read_text()
-  text=text.replace('> EXTRACCIÓN DIAGNÓSTICA INCOMPLETA. Versión no promovida: hay contenido visible del PDF sin capa de texto. Sin OCR. Véanse metadata.json y validacion.json.', '> Transcripción del cuerpo del PDF. Portada en imagen sin texto normativo; título cotejado visualmente en metadata.json. Sin OCR. Véase validacion.json.')
-  (dest/'texto.md').write_text(text)
- elif not decision['promover']:
-  status='Pendiente: '+decision['motivo']+'; sin OCR; no promovido'
- else:
-  status=meta['validacion']
+ if val['paginas_sin_texto']:
+  val['incidencia_capa_texto']={'paginas':val['paginas_sin_texto'],'clasificaciones':decision['clasificacion_paginas'],
+   'descripcion':decision['motivo'],'accion':'Promover con incidencia; sin OCR.' if decision['promover'] else 'Conservar extracción diagnóstica; sin actual ni índices; sin OCR.'}
+  graficas=[r['pagina_pdf'] for r in decision['clasificacion_paginas'] if r['caso']=='grafica']
+  val['reglas_graficas_no_representadas_en_texto']={'paginas':graficas,'descripcion':'Las composiciones, logotipos y reglas gráficas de estas páginas no están en texto.md; consultar el PDF original.'} if graficas else None
+  val['integridad_cuerpo_verificada']=decision['promover'];val['transitorios_y_notas_completos_incluidos']=decision['promover']
+  val['alcance']='Conservación de la extracción Poppler por página, sin OCR. Clasificación de páginas sin texto según IEEN/LEEME.md. Las páginas gráficas no se reproducen en texto y requieren consulta del PDF; no se afirma cotejo visual integral.'
+  status=('Promovido: ' if decision['promover'] else 'Pendiente: ')+decision['motivo']+'; sin OCR'
+  if decision['promover']:
+   text=(dest/'texto.md').read_text()
+   text=re.sub(r'^> EXTRACCIÓN DIAGNÓSTICA INCOMPLETA.*$', '> Transcripción del texto extraíble del PDF. Páginas sin texto clasificadas en validacion.json; los gráficos solo están en el original. Sin OCR.',text,flags=re.M)
+   (dest/'texto.md').write_text(text)
+ else:status=meta['validacion']
  meta['validacion']=status;val['resultado']=status
  save(dest/'metadata.json',meta);save(dest/'validacion.json',val)
+ folder=dest.parents[1];link=folder/'actual'
  if decision['promover']:
-  folder=dest.parents[1];link=folder/'actual'
-  if link.exists() or link.is_symlink():
-   assert link.resolve()==dest.resolve(), 'No se sustituye una versión distinta al revisar la promoción'
+  if link.exists() or link.is_symlink():assert link.resolve()==dest.resolve(), 'No se sustituye una versión distinta al revisar la promoción'
   else:link.symlink_to('versiones/'+meta['version'],target_is_directory=True)
-  save(folder/'actual.json',{'version':meta['version'],'nombre':meta['nombre_oficial'] or meta['nombre_catalogo'],'validacion':status,'conversor':'ieen-4'})
+  save(folder/'actual.json',{'version':meta['version'],'nombre':meta['nombre_oficial'] or meta['nombre_catalogo'],'validacion':status,'conversor':'ieen-5'})
+ else:
+  # Una revisión negativa solo retira el puntero a esta misma versión.
+  if link.is_symlink() and link.resolve()==dest.resolve():
+   link.unlink();(folder/'actual.json').unlink(missing_ok=True)
  return decision
 
 TIPOS={'Reglamentos':'reglamento','Reglamento':'reglamento','Lineamientos':'lineamientos','Lineamiento':'lineamientos','Estatuto':'estatuto','Manual':'manual','Política':'politica','Procedimientos':'procedimiento','Protocolo':'protocolo','Guía':'guia'}
