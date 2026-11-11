@@ -187,8 +187,10 @@ y `deduplicacion` con clave `INE/CG517/2020:A1` y referencia IEEN/38.
 
 103 y 105 ya promovidos con incidencias de página gráfica (15) y blanca (16), respectivamente. Las reglas gráficas del 103 se consultan en el PDF, no están en el texto. Los 64 candidatos IEEN están procesados: 60 promovidos y cuatro pendientes (45, 48, 104, 106). Véase [reporte del lote 4](IEEN/reportes/LOTE_4.md).
 
-## Nayarit: actualización del ID 75
+## Nayarit: control de enlaces huérfanos
 
-La Ley de Igualdad entre Mujeres y Hombres ya está cargada, pero su PDF del catálogo cambió a `igualdad_entre_mujeres_y_hombres_ley_de-.pdf`. El nuevo encabezado declara enmienda de 18 de septiembre de 2026; el archivo vigente del acervo declara 29 de abril de 2024. Pendiente descargar ambos formatos desde los enlaces actuales, convertir, comparar y promover por contenido. No se modificó en la tarea de Justicia Alternativa. Véase [cotejo del 11 de noviembre](Nayarit/reportes/JUSTICIA_ALTERNATIVA_2026-11-11.md).
+ID 75 actualizado el 11 de noviembre de 2026 a la enmienda del 18 de septiembre de 2026; anterior conservada e índices regenerados.
+
+Pendiente corregir vigilancia, solo diagnosticada por instrucción del usuario: `observar_catalogo` convierte a minúsculas la ruta completa de las URL y `_huerfanos` compara contra rutas con mayúsculas del inventario. La cobertura resulta 0 y se desactiva el control. Además, `escribir_reporte` omite `enlace_fuera_del_catalogo` en sus categorías. La captura del 9 de noviembre ya contenía el enlace nuevo del ID 75; no fue un cambio posterior. Véase [diagnóstico y actualización](Nayarit/reportes/IGUALDAD_2026-11-11.md).
 
 El ID 133 sigue sin PDF ni Word enlazados. Los 25 PDF fiscales de la sección 4 permanecen fuera por la exclusión inicial, detallada en el mismo reporte.

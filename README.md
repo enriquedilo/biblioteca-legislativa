@@ -8,7 +8,7 @@ trazabilidad de página, validada e indexada a nivel de artículo.
 |---|---:|---:|---:|---:|
 | Federal | 447 | 58,794 | 15,698 | 35,344 |
 | Sinaloa | 151 | 18,911 | 3,036 | 4,733 |
-| Nayarit | 139 | 16,956 | 2,504 | 5,449 |
+| Nayarit | 139 | 16,956 | 2,506 | 5,457 |
 | **Total** | **737** | **94,661** | **21,238** | **45,526** |
 
 - **Federal**: compilación de leyes federales vigentes de la Cámara de
