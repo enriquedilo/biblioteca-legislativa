@@ -64,3 +64,13 @@ Además de los campos que ya usan los otros acervos —`id`, `nombre_catalogo`,
 
 Los acuerdos del Consejo Local Electoral. Son cientos por año y son materia
 de consulta puntual, no de acervo.
+
+## Documentos de otro emisor
+
+El ID 38 pertenece al INE y se carga por el catálogo IEEN. Su metadata conserva
+`emisor: "INE"` y `deduplicacion` con clave de procedencia `INE/CG517/2020:A1`,
+`evitar_duplicado: true` y referencia existente IEEN/38. Al incorporar el acervo
+INE, cotejar nombre, clave y hash y reutilizar/enlazar esa versión si coincide;
+una versión diferente se conserva por contenido. `id_destino` queda null hasta
+comprobar la correspondencia. La clave de archivo no sustituye un acuerdo no
+impreso ni la fuente de descarga.

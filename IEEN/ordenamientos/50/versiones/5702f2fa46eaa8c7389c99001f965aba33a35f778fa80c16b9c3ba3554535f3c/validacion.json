@@ -1,0 +1,180 @@
+{
+  "id": 50,
+  "fecha_revision": "2026-11-10T18:27:25.277729+00:00",
+  "resultado": "Conversión conservada; muestra visual y auditoría de índices verificadas",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 10,
+  "paginas_sin_texto": [],
+  "texto_conservado": true,
+  "transitorios_y_notas_completos_incluidos": true,
+  "ocr_ejecutado": false,
+  "paginas_cotejadas_visualmente": [
+    1,
+    10
+  ],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 176,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 1823,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 1805,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 1585,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 1920,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 11,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 1880,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 9,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 1859,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 7,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 1714,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 7,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 1914,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 1557,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 1,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    }
+  ],
+  "promociones_encabezado_evitadas": [],
+  "incidencias_metadata": [
+    {
+      "campo": "decreto_numero",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "po_publicacion",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "ultima_reforma",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "abroga",
+      "motivo": "Sin cláusula inequívoca localizada; arreglo vacío no afirma ausencia normativa."
+    }
+  ],
+  "comparacion_word_pdf": null,
+  "diferencias_de_fuente": [
+    "No hay Word en el catálogo; sin comparación Word/PDF.",
+    "PDF escaneado con capa de texto ya presente en el original. Se utiliza esa capa, sin ejecutar OCR ni corregir sus grafías (por ejemplo, membrete de página 1). Tablas y firmas requieren cotejo visual; no se declara reproducción del diseño."
+  ],
+  "alcance": "Conservación por página de todos los caracteres no blancos, signos, cifras y comienzos de listas respecto de Poppler; doble lector numérico informativo, discrepancias no reparadas. No equivale a cotejo visual integral. Acuerdo y reformas proceden del catálogo por instrucción expresa.",
+  "evidencia_metadata": {
+    "nombre_oficial": {
+      "pagina_pdf": 1,
+      "texto": "LINEAMIENTOS PARA LA DESTRUCCIÓN DE LA DOCUMENTACIÓN ELECTORAL UTILIZADA EN EL PROCESO ELECTORAL EXTRAORDINARIO 2025 DEL PODER JUDICIAL DEL ESTADO DE NAYARIT"
+    }
+  },
+  "promovido": true,
+  "integridad_texto_pdf_verificada": true,
+  "seleccion_version_catalogo": {
+    "acuerdo": "IEEN-CLE-PEEPJN-059/2025",
+    "fecha": "2025-08-26",
+    "url": "https://ieenayarit.org/PDF/2025/Acuerdos/PJ/IEEN-CLE-PEEPJN-059-2025-A1.pdf",
+    "fecha_maxima": "2025-08-26",
+    "reformas_en_catalogo": 0,
+    "criterio": "Mayor fecha entre vigente y cadena; no posición. Recibo y SHA-256 verifican el archivo de la URL seleccionada."
+  },
+  "auditoria_encabezados": {
+    "rotulos_propios": 0,
+    "rotulos_por_pagina": [],
+    "rotulos_no_reconocidos": [],
+    "remisiones_no_promovidas": [],
+    "entradas_indice_impreso_no_promovidas": [],
+    "estado": "verificada"
+  },
+  "estructura_no_articulada": {
+    "descripcion": "Capítulos sin artículos propios. El conversor conserva encabezados como texto y el generador aplica fallback por página: 10 entradas tipo seccion.",
+    "tratamiento": "Sin inventar artículos; entradas incluidas en FTS."
+  }
+}

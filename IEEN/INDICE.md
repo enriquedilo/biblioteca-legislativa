@@ -1,6 +1,6 @@
 # Biblioteca IEEN
 
-Lotes 1 y 2. Véase [reporte del lote 2](reportes/LOTE_2.md) y [reporte de controles e incidencias](reportes/LOTE_1.md).
+Lotes 1–3. [Reporte del lote 3 y pendientes](reportes/LOTE_3.md). Véase [reporte del lote 2](reportes/LOTE_2.md) y [reporte de controles e incidencias](reportes/LOTE_1.md).
 
 | ID | Ordenamiento | Texto versionado |
 |---|---|---|
@@ -32,3 +32,17 @@ Lotes 1 y 2. Véase [reporte del lote 2](reportes/LOTE_2.md) y [reporte de contr
 | 34 | LINEAMIENTOS GENERALES SOBRE RECOMENDACIONES A LOS MEDIOS DE COMUNICACIÓN RESPECTO DE LA INFORMACIÓN Y DIFUSIÓN DE LAS ACTIVIDADES DE PRECAMPAÑA Y CAMPAÑA QUE REALICEN LOS PARTIDOS POLÍTICOS, COALICIONES ASÍ COMO LAS Y LOS CANDIDATOS INDEPENDIENTES, DURANTE EL PROCESO ELECTORAL LOCAL 2021. | [texto](ordenamientos/34/versiones/ced8c92444a033dc8510fad0d32af4c10676bc5d72246a61d1d6cfe41cdde4ad/texto.md) |
 | 35 | LINEAMIENTOS PARA EL REGISTRO DE PLATAFORMAS Y CANDIDATURAS A LOS DISTINTOS CARGOS DE ELECCIÓN POPULAR, QUE REALICEN LOS PARTIDOS POLÍTICOS Y COALICIONES ANTE EL INSTITUTO ESTATAL ELECTORAL DE NAYARIT, PARA EL PROCESO ELECTORAL LOCAL 2021 | [texto](ordenamientos/35/versiones/1b97adabe19f02b10f49eac244ff81d480330045f664009a78a29103318440f0/texto.md) |
 | 36 | LINEAMIENTOS EN MATERIA DE PARIDAD DE GÉNERO, VIOLENCIA POLÍTICA POR RAZÓN DE GÉNERO E INTEGRACIÓN PARITARIA DEL CONGRESO DEL ESTADO Y AYUNTAMIENTOS, QUE DEBERÁN OBSERVAR ANTE EL INSTITUTO ESTATAL ELECTORAL DE NAYARIT LOS PARTIDOS POLÍTICOS, COALICIONES Y CANDIDATURAS COMUNES EN EL REGISTRO DE CANDIDATAS Y CANDIDATOS A LOS DISTINTOS CARGOS DE ELECCIÓN POPULAR DEL PROCESO ELECTORAL LOCAL ORDINARIO 2021. | [texto](ordenamientos/36/versiones/e4ebdc3f0b97cd2632641007bfe00d2c26a3060f3e87116fb63b7fa5e7305d1b/texto.md) |
+| 37 | Lineamientos para garantizar el cumplimiento del principio de paridad de género y no discriminación en la postulación de candidaturas, así como en la integración del Congreso del Estado y Ayuntamientos en el proceso electoral local ordinario 2024. | [texto](ordenamientos/37/versiones/12efad19f3fc4ab741125cf61bcc6e94ad23555783c3b15eaf2175a6416260fd/texto.md) |
+| 38 | LINEAMIENTOS PARA QUE LOS PARTIDOS POLÍTICOS NACIONALES Y, EN SU CASO, LOS PARTIDOS POLÍTICOS LOCALES, PREVENGAN, ATIENDAN, SANCIONEN, REPAREN Y ERRADIQUEN LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO | [texto](ordenamientos/38/versiones/daa44b3ffc58eb7a7c11b4cbd3c603128c337b09dabf52490d140d4d012fbb61/texto.md) |
+| 39 | LINEAMIENTOS DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT, PARA QUE LOS PARTIDOS POLÍTICOS LOCALES PREVENGAN, ATIENDAN, SANCIONEN, REPAREN Y ERRADIQUEN LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO. | [texto](ordenamientos/39/versiones/c4e883638a922f2c6af545068f8a1ec6a97238e41fbbed80a6f407e8f3c04d6d/texto.md) |
+| 41 | LINEAMIENTOS QUE ESTABLECEN LAS REGLAS Y CRITERIOS QUE LAS PERSONAS FÍSICAS O MORALES DEBERÁN ADOPTAR PARA REALIZAR ENCUESTAS O SONDEOS DE OPINIÓN EN EL MARCO DEL PROCESO ELECTORAL EXTRAORDINARIO 2025. | [texto](ordenamientos/41/versiones/e6f40f0d3e7b2d844f7e1aca15f9c325e628f753a67da996d7fd52a04b7fe54a/texto.md) |
+| 43 | LINEAMIENTOS DEL SISTEMA CONÓCELES PARA LA ELECCIÓN DE INTEGRANTES DEL PODER JUDICIAL DEL ESTADO DE NAYARIT. | [texto](ordenamientos/43/versiones/c8245c2e9af02f1483e354a193551caf5145a69e1203099a0318d01edb88feb0/texto.md) |
+| 44 | Lineamientos para garantizar el principio constitucional de paridad de género en el Proceso Electoral Extraordinario 2025. | [texto](ordenamientos/44/versiones/c347b250ad8ba18e196c4a7c105e78b5a288206fd316c6c147470413d31d4dc6/texto.md) |
+| 46 | LINEAMIENTO PARA EL DESARROLLO DE LOS FOROS DE DEBATE | [texto](ordenamientos/46/versiones/62215101d36c4f3402995a8d329873b134930e29b3756c82c428ef99d79d307b/texto.md) |
+| 49 | Lineamientos que regulan la propaganda electoral, para garantizar la imparcialidad y equidad en el Proceso Electoral Extraordinario 2025. | [texto](ordenamientos/49/versiones/7ea0adc0bcac311382df839ef86eb44849a96b2b8166f1049ce84ef20537455c/texto.md) |
+| 50 | LINEAMIENTOS PARA LA DESTRUCCIÓN DE LA DOCUMENTACIÓN ELECTORAL UTILIZADA EN EL PROCESO ELECTORAL EXTRAORDINARIO 2025 DEL PODER JUDICIAL DEL ESTADO DE NAYARIT | [texto](ordenamientos/50/versiones/5702f2fa46eaa8c7389c99001f965aba33a35f778fa80c16b9c3ba3554535f3c/texto.md) |
+| 51 | LINEAMIENTOS PARA EL REGISTRO DE LA CIUDADANÍA QUE ASPIRA A CONTENDER A TRAVÉS DE UNA CANDIDATURA INDEPENDIENTE A LOS DISTINTOS CARGOS DE ELECCIÓN POPULAR PARA EL PROCESO ELECTORAL LOCAL 2027 | [texto](ordenamientos/51/versiones/af7cb6922258c69087f220977b897c99496e9d4b3dca126ada7a3f1416158af9/texto.md) |
+
+## Pendientes sin promover
+
+IDs 40, 42, 45, 47 y 48: originales y extracción diagnóstica conservados, sin OCR; no están en `actual` ni en índices. Véase [lote 3](reportes/LOTE_3.md).

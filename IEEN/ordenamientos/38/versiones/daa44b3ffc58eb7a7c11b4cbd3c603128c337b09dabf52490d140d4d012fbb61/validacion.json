@@ -1,0 +1,631 @@
+{
+  "id": 38,
+  "fecha_revision": "2026-11-10T18:27:23.412881+00:00",
+  "resultado": "Conversión conservada; muestra visual y auditoría de índices verificadas",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 24,
+  "paginas_sin_texto": [],
+  "texto_conservado": true,
+  "transitorios_y_notas_completos_incluidos": true,
+  "ocr_ejecutado": false,
+  "paginas_cotejadas_visualmente": [
+    1,
+    24
+  ],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 1772,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 3,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "1"
+        }
+      ]
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 1976,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 12,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "2"
+        }
+      ]
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 1955,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 10,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "3"
+        }
+      ]
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 1907,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 4,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "4"
+        }
+      ]
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 1816,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 6,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 39,
+          "texto": "5"
+        }
+      ]
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 1912,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 9,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "6"
+        }
+      ]
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 1778,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 7,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 38,
+          "texto": "7"
+        }
+      ]
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 1559,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 6,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "8"
+        }
+      ]
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 1578,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 5,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "9"
+        }
+      ]
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 1921,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 4,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "10"
+        }
+      ]
+    },
+    {
+      "pagina": 11,
+      "caracteres_no_blancos": 1875,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 1,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "11"
+        }
+      ]
+    },
+    {
+      "pagina": 12,
+      "caracteres_no_blancos": 1844,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 5,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "12"
+        }
+      ]
+    },
+    {
+      "pagina": 13,
+      "caracteres_no_blancos": 2048,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 9,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "13"
+        }
+      ]
+    },
+    {
+      "pagina": 14,
+      "caracteres_no_blancos": 1996,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 4,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "14"
+        }
+      ]
+    },
+    {
+      "pagina": 15,
+      "caracteres_no_blancos": 1835,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 39,
+          "texto": "15"
+        }
+      ]
+    },
+    {
+      "pagina": 16,
+      "caracteres_no_blancos": 1672,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 39,
+          "texto": "16"
+        }
+      ]
+    },
+    {
+      "pagina": 17,
+      "caracteres_no_blancos": 1993,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 5,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "17"
+        }
+      ]
+    },
+    {
+      "pagina": 18,
+      "caracteres_no_blancos": 1883,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 6,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "18"
+        }
+      ]
+    },
+    {
+      "pagina": 19,
+      "caracteres_no_blancos": 1738,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 9,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 39,
+          "texto": "19"
+        }
+      ]
+    },
+    {
+      "pagina": 20,
+      "caracteres_no_blancos": 1726,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 8,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "20"
+        }
+      ]
+    },
+    {
+      "pagina": 21,
+      "caracteres_no_blancos": 1817,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 7,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "21"
+        }
+      ]
+    },
+    {
+      "pagina": 22,
+      "caracteres_no_blancos": 1761,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 14,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 40,
+          "texto": "22"
+        }
+      ]
+    },
+    {
+      "pagina": 23,
+      "caracteres_no_blancos": 1647,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 5,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 38,
+          "texto": "23"
+        }
+      ]
+    },
+    {
+      "pagina": 24,
+      "caracteres_no_blancos": 1181,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 31,
+          "texto": "24"
+        }
+      ]
+    }
+  ],
+  "promociones_encabezado_evitadas": [
+    {
+      "linea": 19,
+      "texto": "artículos 1º y 14, último párrafo, de la Constitución y de conformidad con los",
+      "anterior": "criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en los",
+      "siguiente": "derechos humanos reconocidos por la misma y los tratados internacionales de los",
+      "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+      "pagina": 4
+    },
+    {
+      "linea": 18,
+      "texto": "artículo 1º de la Constitución Política de los Estados Unidos Mexicanos de",
+      "anterior": "Artículo 32. En concordancia y corresponsabilidad con la obligación señalada en el",
+      "siguiente": "promover, respetar, proteger, y garantizar los derechos humanos de las mujeres, y",
+      "motivo": "renglón anterior sin punto final; renglón siguiente empieza en minúscula",
+      "pagina": 23
+    }
+  ],
+  "incidencias_metadata": [
+    {
+      "campo": "decreto_numero",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "po_publicacion",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "ultima_reforma",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "abroga",
+      "motivo": "Sin cláusula inequívoca localizada; arreglo vacío no afirma ausencia normativa."
+    },
+    {
+      "campo": "acuerdo",
+      "motivo": "El catálogo tiene null. Se conserva null; INE/CG517/2020:A1 se usa solo como clave de procedencia para deduplicación, tomada del nombre de archivo."
+    }
+  ],
+  "comparacion_word_pdf": null,
+  "diferencias_de_fuente": [
+    "No hay Word en el catálogo; sin comparación Word/PDF."
+  ],
+  "alcance": "Conservación por página de todos los caracteres no blancos, signos, cifras y comienzos de listas respecto de Poppler; doble lector numérico informativo, discrepancias no reparadas. No equivale a cotejo visual integral. Acuerdo y reformas proceden del catálogo por instrucción expresa.",
+  "evidencia_metadata": {
+    "nombre_oficial": {
+      "pagina_pdf": 1,
+      "texto": "LINEAMIENTOS PARA QUE LOS PARTIDOS POLÍTICOS NACIONALES Y, EN SU CASO, LOS PARTIDOS POLÍTICOS LOCALES, PREVENGAN, ATIENDAN, SANCIONEN, REPAREN Y ERRADIQUEN LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO"
+    }
+  },
+  "promovido": true,
+  "integridad_texto_pdf_verificada": true,
+  "seleccion_version_catalogo": {
+    "acuerdo": null,
+    "fecha": "2023",
+    "url": "https://ieenayarit.org/PDF/2023/INE-CG517-2020-A1.pdf",
+    "fecha_maxima": "2023",
+    "reformas_en_catalogo": 0,
+    "criterio": "Mayor fecha entre vigente y cadena; no posición. Recibo y SHA-256 verifican el archivo de la URL seleccionada."
+  },
+  "auditoria_encabezados": {
+    "rotulos_propios": 32,
+    "rotulos_por_pagina": [
+      {
+        "articulo": "1",
+        "pagina_pdf": 1,
+        "texto": "Artículo 1. Las presentes disposiciones son de interés público y observancia"
+      },
+      {
+        "articulo": "2",
+        "pagina_pdf": 1,
+        "texto": "Artículo 2. Para efectos de los presentes Lineamientos, se entenderá por:"
+      },
+      {
+        "articulo": "3",
+        "pagina_pdf": 4,
+        "texto": "Artículo 3. Para la aplicación de los presentes Lineamientos los partidos políticos"
+      },
+      {
+        "articulo": "4",
+        "pagina_pdf": 4,
+        "texto": "Artículo 4. La interpretación de estos Lineamientos se realizará conforme a los"
+      },
+      {
+        "articulo": "5",
+        "pagina_pdf": 4,
+        "texto": "Artículo 5. La violencia política contra las mujeres en razón de género es toda"
+      },
+      {
+        "articulo": "6",
+        "pagina_pdf": 5,
+        "texto": "Artículo 6. De conformidad con la Ley de Acceso, la violencia política contra las"
+      },
+      {
+        "articulo": "7",
+        "pagina_pdf": 7,
+        "texto": "Artículo 7. La violencia política contra las mujeres en razón de género se puede"
+      },
+      {
+        "articulo": "8",
+        "pagina_pdf": 7,
+        "texto": "Artículo 8. Los partidos políticos deberán conocer, investigar, sancionar, reparar y"
+      },
+      {
+        "articulo": "9",
+        "pagina_pdf": 8,
+        "texto": "Artículo 9. En la atención de víctimas de violencia política contra las mujeres en"
+      },
+      {
+        "articulo": "10",
+        "pagina_pdf": 11,
+        "texto": "Artículo 10. La declaración de principios de los partidos políticos deberá establecer"
+      },
+      {
+        "articulo": "11",
+        "pagina_pdf": 11,
+        "texto": "Artículo 11. El programa de acción de los partidos deberá contar con planes de"
+      },
+      {
+        "articulo": "12",
+        "pagina_pdf": 11,
+        "texto": "Artículo 12. Los partidos políticos deberán establecer en sus Estatutos los"
+      },
+      {
+        "articulo": "13",
+        "pagina_pdf": 12,
+        "texto": "Artículo 13. Los órganos de justicia intrapartidaria deberán integrarse de manera"
+      },
+      {
+        "articulo": "14",
+        "pagina_pdf": 12,
+        "texto": "Artículo 14. Los partidos políticos y las coaliciones deberán implementar, de forma"
+      },
+      {
+        "articulo": "15",
+        "pagina_pdf": 14,
+        "texto": "Artículo 15. El programa anual de trabajo que elaboren los partidos políticos, en"
+      },
+      {
+        "articulo": "16",
+        "pagina_pdf": 15,
+        "texto": "Artículo 16. A más tardar el último día hábil de enero de cada año, los partidos"
+      },
+      {
+        "articulo": "17",
+        "pagina_pdf": 16,
+        "texto": "Artículo 17. Los partidos políticos establecerán los procedimientos internos para"
+      },
+      {
+        "articulo": "18",
+        "pagina_pdf": 16,
+        "texto": "Artículo 18. Los partidos políticos facilitarán la presentación y recepción de quejas"
+      },
+      {
+        "articulo": "19",
+        "pagina_pdf": 17,
+        "texto": "Artículo 19. Los partidos políticos determinarán al órgano encargado de"
+      },
+      {
+        "articulo": "20",
+        "pagina_pdf": 17,
+        "texto": "Artículo 20. Para garantizar el acceso a las mujeres víctimas de violencia a una"
+      },
+      {
+        "articulo": "21",
+        "pagina_pdf": 18,
+        "texto": "Artículo 21. A fin de homologar los procedimientos para la atención de quejas y"
+      },
+      {
+        "articulo": "22",
+        "pagina_pdf": 20,
+        "texto": "Artículo 22. Las instancias encargadas de conocer, investigar y resolver las quejas"
+      },
+      {
+        "articulo": "23",
+        "pagina_pdf": 20,
+        "texto": "Artículo 23. Los procedimientos internos deberán prever las medidas cautelares y"
+      },
+      {
+        "articulo": "24",
+        "pagina_pdf": 20,
+        "texto": "Artículo 24. Las víctimas tendrán los siguientes derechos:"
+      },
+      {
+        "articulo": "25",
+        "pagina_pdf": 21,
+        "texto": "Artículo 25. Los partidos políticos deberán iniciar de oficio el procedimiento cuando"
+      },
+      {
+        "articulo": "26",
+        "pagina_pdf": 21,
+        "texto": "Artículo 26. En ningún caso de violencia política contra las mujeres en razón de"
+      },
+      {
+        "articulo": "27",
+        "pagina_pdf": 21,
+        "texto": "Artículo 27. Los partidos políticos sancionarán en términos de sus Estatutos y/o"
+      },
+      {
+        "articulo": "28",
+        "pagina_pdf": 21,
+        "texto": "Artículo 28. Con independencia de la sanción que corresponda conforme a los"
+      },
+      {
+        "articulo": "29",
+        "pagina_pdf": 22,
+        "texto": "Artículo 29. Las medidas cautelares tienen como finalidad el cese inmediato de"
+      },
+      {
+        "articulo": "30",
+        "pagina_pdf": 22,
+        "texto": "Artículo 30. Las medidas de protección son actos de urgente aplicación en función"
+      },
+      {
+        "articulo": "31",
+        "pagina_pdf": 23,
+        "texto": "Artículo 31. Los partidos políticos, en el establecimiento de los procedimientos para"
+      },
+      {
+        "articulo": "32",
+        "pagina_pdf": 23,
+        "texto": "Artículo 32. En concordancia y corresponsabilidad con la obligación señalada en el"
+      }
+    ],
+    "rotulos_no_reconocidos": [],
+    "remisiones_no_promovidas": [],
+    "entradas_indice_impreso_no_promovidas": [],
+    "estado": "verificada"
+  }
+}

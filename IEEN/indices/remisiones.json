@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-10T05:15:59.959152+00:00",
- "aristas": 5,
+ "generado": "2026-11-10T18:30:07.552780+00:00",
+ "aristas": 7,
  "nota": "Mencion nominal de un ordenamiento de la biblioteca dentro del texto de otro. Es deteccion lexica: no distingue remision normativa de cita incidental.",
  "remisiones": [
   {
@@ -106,6 +106,25 @@
    ]
   },
   {
+   "origen": 39,
+   "origen_nombre": "Lineamientos del Instituto Estatal Electoral de Nayarit, para que los partidos políticos locales prevengan, atiendan, sancionen, reparen y erradiquen la violencia política contra las mujeres en razón de género.",
+   "destino": 38,
+   "destino_nombre": "LINEAMIENTOS PARA QUE LOS PARTIDOS POLÍTICOS NACIONALES Y, EN SU CASO, LOS PARTIDOS POLÍTICOS LOCALES, PREVENGAN, ATIENDAN, SANCIONEN, REPAREN Y ERRADIQUEN LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO",
+   "menciones": 2,
+   "articulos": [
+    {
+     "articulo": "2",
+     "tipo": "cuerpo",
+     "pagina_pdf": 1
+    },
+    {
+     "articulo": "TERCERO",
+     "tipo": "transitorio",
+     "pagina_pdf": 25
+    }
+   ]
+  },
+  {
    "origen": 21,
    "origen_nombre": "Reglamento de Quejas y Denuncias en Materia de Violencia Política contra las Mujeres en Razón de Género del Instituto Estatal Electoral de Nayarit",
    "destino": 14,
@@ -128,6 +147,20 @@
    "articulos": [
     {
      "articulo": "1",
+     "tipo": "cuerpo",
+     "pagina_pdf": 1
+    }
+   ]
+  },
+  {
+   "origen": 39,
+   "origen_nombre": "Lineamientos del Instituto Estatal Electoral de Nayarit, para que los partidos políticos locales prevengan, atiendan, sancionen, reparen y erradiquen la violencia política contra las mujeres en razón de género.",
+   "destino": 14,
+   "destino_nombre": "REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT",
+   "menciones": 1,
+   "articulos": [
+    {
+     "articulo": "2",
      "tipo": "cuerpo",
      "pagina_pdf": 1
     }

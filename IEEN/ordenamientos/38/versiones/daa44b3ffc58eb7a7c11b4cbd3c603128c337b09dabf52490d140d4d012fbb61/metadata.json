@@ -1,0 +1,55 @@
+{
+  "id": 38,
+  "nombre_catalogo": "Lineamientos para que los partidos políticos nacionales y, en su caso, los partidos políticos locales, prevengan, atiendan, sancionen, reparen y erradiquen la violencia política contra las mujeres en razón de género. (INE)",
+  "nombre_oficial": "LINEAMIENTOS PARA QUE LOS PARTIDOS POLÍTICOS NACIONALES Y, EN SU CASO, LOS PARTIDOS POLÍTICOS LOCALES, PREVENGAN, ATIENDAN, SANCIONEN, REPAREN Y ERRADIQUEN LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO",
+  "nombre_catalogo_sitio": "Lineamientos para que los partidos políticos nacionales y, en su caso, los partidos políticos locales, prevengan, atiendan, sancionen, reparen y erradiquen la violencia política contra las mujeres en razón de género. (INE)",
+  "fuente": "https://ieenayarit.org/normatividad/IEEN",
+  "urls": {
+    "pdf": "https://ieenayarit.org/PDF/2023/INE-CG517-2020-A1.pdf",
+    "word": null
+  },
+  "url_pdf": "https://ieenayarit.org/PDF/2023/INE-CG517-2020-A1.pdf",
+  "url_word": null,
+  "fecha_descarga": "2026-11-10T18:27:06.858198+00:00",
+  "hash_sha256": {
+    "pdf": "daa44b3ffc58eb7a7c11b4cbd3c603128c337b09dabf52490d140d4d012fbb61"
+  },
+  "version": "daa44b3ffc58eb7a7c11b4cbd3c603128c337b09dabf52490d140d4d012fbb61",
+  "validacion": "Conversión conservada; muestra visual y auditoría de índices verificadas",
+  "tipo": "lineamientos",
+  "seccion": "electoral",
+  "seccion_sitio": "normatividad",
+  "secciones_sitio": [
+    "normatividad"
+  ],
+  "acuerdo": null,
+  "reformas": [],
+  "fecha_catalogo_sin_interpretar": "2023",
+  "decreto_numero": null,
+  "po_publicacion": null,
+  "ultima_reforma": null,
+  "abroga": [],
+  "slug": "lineamientos-para-que-los-partidos-politicos-nacionales-y-en-su-caso-los-partidos-politicos-locales-prevengan-atiendan-sancionen-reparen-y-erradiquen-la-violencia-politica-contra-las-mujeres-en-razon-de-genero-ine",
+  "fecha_revision_conversion": "2026-11-10T18:27:23.412881+00:00",
+  "conversor": "bin/ieen/convertir.py; Poppler layout y controles conservadores Nayarit",
+  "origen_markdown": "PDF original; sin OCR; erratas conservadas",
+  "procedencia_metadata": {
+    "acuerdo": "catálogo IEEN, versión vigente",
+    "reformas": "cadena íntegra del catálogo IEEN, no convertida",
+    "nombre_oficial": "Título de la página PDF 1, cotejo visual directo. En portadas sin capa de texto se transcribe solo este campo; no se altera el Markdown ni se ejecuta OCR.",
+    "emisor": "Catálogo IEEN (INE), instrucción del usuario y referencias del PDF al Consejo General del Instituto Nacional Electoral."
+  },
+  "emisor": "INE",
+  "deduplicacion": {
+    "entidad_origen": "INE",
+    "clave_origen": "INE/CG517/2020:A1",
+    "id_destino": null,
+    "evitar_duplicado": true,
+    "referencia_existente": {
+      "entidad": "IEEN",
+      "id": 38
+    },
+    "criterio": "Al incorporar INE, cotejar nombre oficial, acuerdo/anexo y hash; reutilizar o enlazar este documento si coincide, sin duplicar el texto. Si la versión INE difiere, conservar su trazabilidad como versión distinta.",
+    "procedencia_clave": "Nombre del archivo en URL de catálogo IEEN: INE-CG517-2020-A1.pdf; no se atribuye al texto como acuerdo impreso."
+  }
+}

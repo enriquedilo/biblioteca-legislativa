@@ -13,7 +13,10 @@ from pypdf import PdfReader
 NUM=re.compile(r'^(?:ART[ÍI]CULO\.?|ART\.)\s*\d+(?:[oº°])?(?:\s+(?:Bis|Ter|Qu[áa]ter)(?:\s+[A-Z])?)?\s*[.\-–:]+',re.I)
 old_decision=conv.heading_decision
 def decision(lines,index):
- line=re.sub(r'[ \t]+',' ',lines[index].strip());m=NUM.match(line)
+ line=re.sub(r'[ \t]+',' ',lines[index].strip())
+ # Las entradas del índice impreso con puntos guía no son artículos del cuerpo.
+ if re.match(r'^(?:ART[ÍI]CULO\.?|ART\.)\s*\d+.*\.{3,}\s*\d+\s*$',line,re.I):return None,None
+ m=NUM.match(line)
  if m and line[0].isupper():return m,None
  return old_decision(lines,index)
 conv.heading_decision=decision
