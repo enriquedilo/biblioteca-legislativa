@@ -5,8 +5,8 @@
   "nombre_oficial_pendiente_de_cotejo": false,
   "fuente": "https://congresonayarit.gob.mx/legislacion-estatal/",
   "urls": {
-    "pdf": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes/justicia_alternativa_para_el_estado_de_nayarit_ley_de.pdf",
-    "word": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes/justicia_alternativa_para_el_estado_de_nayarit_ley_de.doc"
+    "pdf": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/ordenamientos_abrogados/justicia_alternativa_para_el_estado_de_nayarit_ley_de.pdf",
+    "word": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/ordenamientos_abrogados/justicia_alternativa_para_el_estado_de_nayarit_ley_de.doc"
   },
   "fecha_descarga": "2026-09-15T10:48:53.681640+00:00",
   "fecha_catalogo_sin_interpretar": null,
@@ -25,7 +25,7 @@
   },
   "version": "60926a2a59a2be3de4d7994e3ebee49c1fc31837c726b3a1c3158c0525dba3ba",
   "origen_markdown": "PDF original; conserva texto, numeración impresa, fracciones, transitorios y notas",
-  "estatus": "Incluido en catálogo de Nayarit; vigencia jurídica no verificada",
+  "estatus": "Abrogada por el segundo transitorio de la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Nayarit (ID 140). Texto histórico conservado; véase régimen transitorio.",
   "validacion": "Conversión conservada; cotejo Word/PDF con incidencias",
   "fecha_revision_conversion": "2026-09-15T10:48:53.681640+00:00",
   "conversor": "Poppler pdftotext -layout / controles de Sinaloa adaptados a Nayarit v2",
@@ -118,14 +118,58 @@
   ],
   "abroga": [],
   "slug": "ley-de-justicia-alternativa-para-el-estado-de-nayarit",
-  "url_pdf": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes/justicia_alternativa_para_el_estado_de_nayarit_ley_de.pdf",
-  "url_word": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes/justicia_alternativa_para_el_estado_de_nayarit_ley_de.doc",
-  "seccion_sitio": "Leyes",
+  "url_pdf": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/ordenamientos_abrogados/justicia_alternativa_para_el_estado_de_nayarit_ley_de.pdf",
+  "url_word": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/ordenamientos_abrogados/justicia_alternativa_para_el_estado_de_nayarit_ley_de.doc",
+  "seccion_sitio": "Ordenamientos Abrogados",
   "secciones_sitio": [
-    "Leyes"
+    "Ordenamientos Abrogados"
   ],
-  "nombre_catalogo_sitio": "73. Justicia Alternativa para el Estado de Nayarit (Ley de).",
+  "nombre_catalogo_sitio": "16. Justicia Alternativa para el Estado de Nayarit (Ley de). Abrogada",
   "orden": "estatal",
   "regimen": "general",
-  "tipo": "ley"
+  "tipo": "ley",
+  "procedencia_urls": {
+    "urls_anteriores": {
+      "pdf": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes/justicia_alternativa_para_el_estado_de_nayarit_ley_de.pdf",
+      "word": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes/justicia_alternativa_para_el_estado_de_nayarit_ley_de.doc"
+    },
+    "fecha_verificacion": "2026-11-11",
+    "catalogo": "Nayarit/catalogo/catalogo-2026-11-11.html",
+    "motivo": "Traslado a Ordenamientos Abrogados; PDF y Word idénticos por SHA-256. Se conserva fecha de descarga y versión de contenido."
+  },
+  "estado_vigencia": "abrogada",
+  "abrogada": true,
+  "abrogada_por": {
+    "entidad": "Nayarit",
+    "id": 140,
+    "nombre": "LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS DEL ESTADO DE NAYARIT",
+    "version": "6a86867c95544d3d84f4205c1a8673d0cca81f1379f3974b8529660c6ee4961e",
+    "fecha_publicacion": "2026-10-22",
+    "decreto_numero": null,
+    "evidencia": {
+      "entidad": "Nayarit",
+      "id": 140,
+      "version": "6a86867c95544d3d84f4205c1a8673d0cca81f1379f3974b8529660c6ee4961e",
+      "url_pdf": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes/mecanismos_alternativos_de_solucion_de_controversias_del_estado_de_nayarit_ley_de.pdf",
+      "pagina_pdf": 85,
+      "texto": "Segundo.- Se abroga la Ley de Justicia Alternativa para el Estado de Nayarit, publicada en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el veintitrés de abril del año dos mil once."
+    }
+  },
+  "abrogacion": {
+    "fecha": null,
+    "regla_entrada_en_vigor": "Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.",
+    "fecha_publicacion_norma_abrogatoria": "2026-10-22",
+    "evidencia": {
+      "entidad": "Nayarit",
+      "id": 140,
+      "version": "6a86867c95544d3d84f4205c1a8673d0cca81f1379f3974b8529660c6ee4961e",
+      "url_pdf": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes/mecanismos_alternativos_de_solucion_de_controversias_del_estado_de_nayarit_ley_de.pdf",
+      "pagina_pdf": 85,
+      "texto": "Segundo.- Se abroga la Ley de Justicia Alternativa para el Estado de Nayarit, publicada en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el veintitrés de abril del año dos mil once."
+    },
+    "regimen_transitorio": {
+      "pagina_pdf": 85,
+      "texto": "Tercero.- Los procedimientos iniciados en el Centro Estatal de Justicia Alternativa con anterioridad a la entrada en vigor de la presente Ley continuarán su tramitación de conformidad con las disposiciones vigentes al momento de su inicio y hasta su conclusión."
+    }
+  }
 }

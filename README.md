@@ -8,8 +8,8 @@ trazabilidad de página, validada e indexada a nivel de artículo.
 |---|---:|---:|---:|---:|
 | Federal | 447 | 58,794 | 15,698 | 35,344 |
 | Sinaloa | 151 | 18,911 | 3,036 | 4,733 |
-| Nayarit | 138 | 16,793 | 2,334 | 5,360 |
-| **Total** | **736** | **94,498** | **21,068** | **45,437** |
+| Nayarit | 139 | 16,956 | 2,504 | 5,449 |
+| **Total** | **737** | **94,661** | **21,238** | **45,526** |
 
 - **Federal**: compilación de leyes federales vigentes de la Cámara de
   Diputados. 447 de los 453 ordenamientos catalogados: la Constitución, 9
@@ -17,9 +17,9 @@ trazabilidad de página, validada e indexada a nivel de artículo.
   ordenanza.
 - **Sinaloa**: los 151 ordenamientos de la categoría «Leyes Estatales» del
   Congreso del Estado. La categoría «Leyes de Ingreso» no está incluida.
-- **Nayarit**: 138 ordenamientos del Congreso del Estado (Códigos,
+- **Nayarit**: 139 ordenamientos del Congreso del Estado (Códigos,
   Constitución, Leyes, Leyes Orgánicas, Marco Jurídico del Congreso y Marco
-  Jurídico Municipal).
+  Jurídico Municipal). Incluye el ID 78 abrogado para trabajo histórico; el ID 140 contiene la ley sustituta y ambas metadata están relacionadas.
 
 ## Lo que no está, y por qué
 

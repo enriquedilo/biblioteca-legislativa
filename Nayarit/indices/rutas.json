@@ -1,6 +1,6 @@
 {
  "entidad": "Nayarit",
- "generado": "2026-11-10T16:07:02.495329+00:00",
+ "generado": "2026-11-11T17:08:31.704533+00:00",
  "base_raw": "https://raw.githubusercontent.com/enriquedilo/biblioteca-legislativa/main/",
  "nota": "Rutas relativas a la raiz del repositorio, con la version vigente ya resuelta. Antepon base_raw para leer por HTTP. No uses el enlace actual/ por HTTP: es un symlink.",
  "ordenamientos": [
@@ -782,7 +782,24 @@
    "texto": "Nayarit/ordenamientos/78/versiones/60926a2a59a2be3de4d7994e3ebee49c1fc31837c726b3a1c3158c0525dba3ba/texto.md",
    "metadata": "Nayarit/ordenamientos/78/versiones/60926a2a59a2be3de4d7994e3ebee49c1fc31837c726b3a1c3158c0525dba3ba/metadata.json",
    "validacion": "Nayarit/ordenamientos/78/versiones/60926a2a59a2be3de4d7994e3ebee49c1fc31837c726b3a1c3158c0525dba3ba/validacion.json",
-   "articulado": "Nayarit/indices/articulos/78.json"
+   "articulado": "Nayarit/indices/articulos/78.json",
+   "estado_vigencia": "abrogada",
+   "abrogada_por": {
+    "entidad": "Nayarit",
+    "id": 140,
+    "nombre": "LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS DEL ESTADO DE NAYARIT",
+    "version": "6a86867c95544d3d84f4205c1a8673d0cca81f1379f3974b8529660c6ee4961e",
+    "fecha_publicacion": "2026-10-22",
+    "decreto_numero": null,
+    "evidencia": {
+     "entidad": "Nayarit",
+     "id": 140,
+     "version": "6a86867c95544d3d84f4205c1a8673d0cca81f1379f3974b8529660c6ee4961e",
+     "url_pdf": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes/mecanismos_alternativos_de_solucion_de_controversias_del_estado_de_nayarit_ley_de.pdf",
+     "pagina_pdf": 85,
+     "texto": "Segundo.- Se abroga la Ley de Justicia Alternativa para el Estado de Nayarit, publicada en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el veintitrés de abril del año dos mil once."
+    }
+   }
   },
   {
    "id": 79,
@@ -1383,6 +1400,37 @@
    "metadata": "Nayarit/ordenamientos/139/versiones/c5151f56ebf11e11d06792298cddeedc3fc353100278e26596926b6c275c7c66/metadata.json",
    "validacion": "Nayarit/ordenamientos/139/versiones/c5151f56ebf11e11d06792298cddeedc3fc353100278e26596926b6c275c7c66/validacion.json",
    "articulado": "Nayarit/indices/articulos/139.json"
+  },
+  {
+   "id": 140,
+   "nombre": "Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Nayarit",
+   "nombre_oficial": "LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS DEL ESTADO DE NAYARIT",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/140/versiones/6a86867c95544d3d84f4205c1a8673d0cca81f1379f3974b8529660c6ee4961e/texto.md",
+   "metadata": "Nayarit/ordenamientos/140/versiones/6a86867c95544d3d84f4205c1a8673d0cca81f1379f3974b8529660c6ee4961e/metadata.json",
+   "validacion": "Nayarit/ordenamientos/140/versiones/6a86867c95544d3d84f4205c1a8673d0cca81f1379f3974b8529660c6ee4961e/validacion.json",
+   "articulado": "Nayarit/indices/articulos/140.json",
+   "estado_vigencia": "vigente",
+   "abroga": [
+    {
+     "nombre": "LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE NAYARIT",
+     "po_numero": null,
+     "fecha": "2011-04-23",
+     "decreto": null,
+     "entidad": "Nayarit",
+     "id": 78,
+     "version": "60926a2a59a2be3de4d7994e3ebee49c1fc31837c726b3a1c3158c0525dba3ba",
+     "url_pdf": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/ordenamientos_abrogados/justicia_alternativa_para_el_estado_de_nayarit_ley_de.pdf",
+     "evidencia": {
+      "entidad": "Nayarit",
+      "id": 140,
+      "version": "6a86867c95544d3d84f4205c1a8673d0cca81f1379f3974b8529660c6ee4961e",
+      "url_pdf": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes/mecanismos_alternativos_de_solucion_de_controversias_del_estado_de_nayarit_ley_de.pdf",
+      "pagina_pdf": 85,
+      "texto": "Segundo.- Se abroga la Ley de Justicia Alternativa para el Estado de Nayarit, publicada en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el veintitrés de abril del año dos mil once."
+     }
+    }
+   ]
   }
  ]
 }

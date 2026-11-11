@@ -1,6 +1,6 @@
 # Biblioteca Legislativa de Nayarit
 
-Catálogo local: 139 identidades propias. Piloto: cuatro ordenamientos.
+Catálogo local: 140 identidades propias; 139 con versión disponible, incluido el ID 78 abrogado para consulta histórica. Piloto: cuatro ordenamientos.
 
 Versiones descargadas del Congreso; no certifican vigencia jurídica. Los números son IDs locales estables, no números de decreto.
 
@@ -85,7 +85,7 @@ Versiones descargadas del Congreso; no certifican vigencia jurídica. Los númer
 | 75 | Ley de Igualdad entre Mujeres y Hombres | [Markdown](ordenamientos/75/actual/texto.md) | [PDF](ordenamientos/75/actual/original.pdf) · [Word](ordenamientos/75/actual/original.doc) | Conversión conservada; cotejo Word/PDF con incidencias |
 | 76 | Ley de Imagen Institucional para el Estado de Nayarit | [Markdown](ordenamientos/76/actual/texto.md) | [PDF](ordenamientos/76/actual/original.pdf) · [Word](ordenamientos/76/actual/original.docx) | Conversión conservada; cotejo Word/PDF con incidencias |
 | 77 | Ley de Inversión Pública para el Estado de Nayarit | [Markdown](ordenamientos/77/actual/texto.md) | [PDF](ordenamientos/77/actual/original.pdf) · [Word](ordenamientos/77/actual/original.doc) | Conversión conservada; cotejo Word/PDF con incidencias |
-| 78 | Ley de Justicia Alternativa para el Estado de Nayarit | [Markdown](ordenamientos/78/actual/texto.md) | [PDF](ordenamientos/78/actual/original.pdf) · [Word](ordenamientos/78/actual/original.doc) | Conversión conservada; cotejo Word/PDF con incidencias |
+| 78 | **ABROGADA — Ley de Justicia Alternativa para el Estado de Nayarit** (sustituida por ID 140; consultar régimen transitorio) | [Markdown](ordenamientos/78/actual/texto.md) | [PDF](ordenamientos/78/actual/original.pdf) · [Word](ordenamientos/78/actual/original.doc) | Conversión conservada; cotejo Word/PDF con incidencias |
 | 79 | Ley de Justicia Electoral para el Estado de Nayarit | [Markdown](ordenamientos/79/actual/texto.md) | [PDF](ordenamientos/79/actual/original.pdf) · [Word](ordenamientos/79/actual/original.docx) | Conversión conservada; cotejo Word/PDF con incidencias |
 | 80 | Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit | [Markdown](ordenamientos/80/actual/texto.md) | [PDF](ordenamientos/80/actual/original.pdf) · [Word](ordenamientos/80/actual/original.docx) | Conversión conservada; cotejo Word/PDF con incidencias |
 | 81 | Ley para la Juventud del Estado de Nayarit | [Markdown](ordenamientos/81/actual/texto.md) | [PDF](ordenamientos/81/actual/original.pdf) · [Word](ordenamientos/81/actual/original.doc) | Conversión conservada; cotejo Word/PDF con incidencias |
@@ -147,3 +147,6 @@ Versiones descargadas del Congreso; no certifican vigencia jurídica. Los númer
 | 137 | Ley Orgánica del Poder Legislativo del Estado de Nayarit | [Markdown](ordenamientos/137/actual/texto.md) | [PDF](ordenamientos/137/actual/original.pdf) · [Word](ordenamientos/137/actual/original.doc) | Conversión conservada; cotejo Word/PDF con incidencias |
 | 138 | Ley de Hacienda Municipal del Estado de Nayarit | [Markdown](ordenamientos/138/actual/texto.md) | [PDF](ordenamientos/138/actual/original.pdf) · [Word](ordenamientos/138/actual/original.doc) | Conversión conservada; cotejo Word/PDF con incidencias |
 | 139 | Ley Municipal para el Estado de Nayarit | [Markdown](ordenamientos/139/actual/texto.md) | [PDF](ordenamientos/139/actual/original.pdf) · [Word](ordenamientos/139/actual/original.doc) | Piloto corregido v2: conservación verificada; cotejo Word/PDF con incidencias |
+| 140 | Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Nayarit | [Markdown](ordenamientos/140/actual/texto.md) | [PDF](ordenamientos/140/actual/original.pdf) · [Word](ordenamientos/140/actual/original.docx) | 153 artículos y 12 transitorios verificados; abroga ID 78 |
+
+[Cotejo de catálogo y relación 78–140](reportes/JUSTICIA_ALTERNATIVA_2026-11-11.md).

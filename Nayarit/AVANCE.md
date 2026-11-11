@@ -1,8 +1,8 @@
 # Avance de la Biblioteca Legislativa de Nayarit
 
-Actualizado: 2026-09-15T18:51:57.681022+00:00
+Actualizado: 11 de noviembre de 2026
 
-**Procesados: 138 de 139.**
+**Con versión: 139 de 140 identidades.** Incluye ID 78 histórico abrogado.
 
 Lote 14 cerrado; archivos disponibles verificados. Catálogo agotado: no existe lote 15. ID 133 pendiente de originales; consultar incidencias.
 
@@ -180,3 +180,5 @@ Actualizados IDs 5, 24, 48 y 130 desde enlaces vigentes del catálogo capturado 
 ## Conversión semanal 2026-11-10 — pendiente cotejo
 
 IDs 48 y 98: nuevas versiones de la enmienda impresa del 26 de octubre de 2026; 112 páginas, conservación verificada, sin OCR. Versiones anteriores intactas. Justicia Alternativa (78): enlaces 404 según vigilancia, sin conversión. Informe: `../vigilancia/conversiones/2026-11-10/reporte.md`. Incorporación sujeta al merge del usuario.
+
+Actualización 2026-11-11: ID 140 cargado; ID 78 conservado y marcado abrogado, con URLs trasladadas verificadas. 153 artículos y 12 transitorios nuevos. Cotejo de 163 enlaces vigentes: un nuevo faltante fuera de exclusiones fiscales (ya cargado) y actualización pendiente del ID 75. [Informe](reportes/JUSTICIA_ALTERNATIVA_2026-11-11.md).
