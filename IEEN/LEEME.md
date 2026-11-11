@@ -60,7 +60,41 @@ Además de los campos que ya usan los otros acervos —`id`, `nombre_catalogo`,
   uno con su fecha y su URL. **No se convierten**: quedan anotados para poder
   promover una versión anterior el día que haga falta, sin rehacer nada.
 
+## Páginas sin capa de texto: portada e interior no pesan igual
+
+Varios documentos del Instituto traen la **portada como imagen** —membrete,
+escudo y título— aunque el cuerpo esté perfectamente extraíble. Frenar la
+carga por eso dejaba fuera normatividad vigente y completa, así que el
+control distingue:
+
+- **Si lo único sin texto extraíble es la portada**, el documento **se
+  promueve**. La incidencia se registra en `validacion.json` y el título se
+  transcribe por cotejo visual a `metadata.json`, marcado como tal. Debe
+  comprobarse en el cotejo visual de esa página que no lleva texto normativo:
+  si la portada arranca el articulado, no aplica esta excepción.
+- **Si falta texto en cualquier página interior**, el documento **no se
+  promueve**: ahí sí se pierde contenido normativo. Queda con su PDF, su
+  extracción diagnóstica y su metadata, sin enlace `actual`, fuera de los
+  índices y de la búsqueda.
+- **Nunca se aplica OCR.** La biblioteca no mezcla texto de la fuente con
+  texto generado por máquina. Un documento que no se puede leer se declara
+  ilegible y se cita su PDF.
+
+Casos del lote 3: los ids 40, 42 y 47 entran por la primera regla; el 45
+—escaneo sin texto en ninguna de sus cinco páginas— y el 48 —sin texto en las
+páginas 7, 18 y 20, que sí llevan contenido— quedan fuera por la segunda.
+
 ## Lo que no está aquí
 
 Los acuerdos del Consejo Local Electoral. Son cientos por año y son materia
 de consulta puntual, no de acervo.
+
+## Documentos de otro emisor
+
+El ID 38 pertenece al INE y se carga por el catálogo IEEN. Su metadata conserva
+`emisor: "INE"` y `deduplicacion` con clave de procedencia `INE/CG517/2020:A1`,
+`evitar_duplicado: true` y referencia existente IEEN/38. Al incorporar el acervo
+INE, cotejar nombre, clave y hash y reutilizar/enlazar esa versión si coincide;
+una versión diferente se conserva por contenido. `id_destino` queda null hasta
+comprobar la correspondencia. La clave de archivo no sustituye un acuerdo no
+impreso ni la fuente de descarga.

@@ -1,0 +1,148 @@
+{
+  "id": 45,
+  "fecha_revision": "2026-11-10T18:27:24.538640+00:00",
+  "resultado": "Pendiente: Falta texto en páginas interiores; sin OCR; no promovido",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 5,
+  "paginas_sin_texto": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "texto_conservado": true,
+  "transitorios_y_notas_completos_incluidos": false,
+  "ocr_ejecutado": false,
+  "paginas_cotejadas_visualmente": [
+    1,
+    5
+  ],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 0,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 0,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 0,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 0,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 0,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    }
+  ],
+  "promociones_encabezado_evitadas": [],
+  "incidencias_metadata": [
+    {
+      "campo": "decreto_numero",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "po_publicacion",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "ultima_reforma",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "abroga",
+      "motivo": "Sin cláusula inequívoca localizada; arreglo vacío no afirma ausencia normativa."
+    }
+  ],
+  "comparacion_word_pdf": null,
+  "diferencias_de_fuente": [
+    "No hay Word en el catálogo; sin comparación Word/PDF."
+  ],
+  "alcance": "Conservación por página de todos los caracteres no blancos, signos, cifras y comienzos de listas respecto de Poppler; doble lector numérico informativo, discrepancias no reparadas. No equivale a cotejo visual integral. Acuerdo y reformas proceden del catálogo por instrucción expresa. El control de conservación se refiere solo a la extracción disponible: no certifica integridad del contenido visible del PDF. Esta versión queda fuera de actual e índices.",
+  "evidencia_metadata": {
+    "nombre_oficial": {
+      "pagina_pdf": 1,
+      "texto": "Lineamientos que establecen las reglas procesales en el trámite de procedimientos sancionadores a cargo de la Dirección Jurídica del Instituto Estatal Electoral de Nayarit, así como el Catálogo de Infracciones para el proceso electoral extraordinario del Poder Judicial del estado de Nayarit 2025."
+    }
+  },
+  "promovido": false,
+  "integridad_texto_pdf_verificada": false,
+  "incidencia_capa_texto": {
+    "paginas": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "descripcion": "Las cinco páginas son imágenes sin texto extraíble.",
+    "accion": "Conservar originales y extracción diagnóstica; no promover; sin OCR."
+  },
+  "seleccion_version_catalogo": {
+    "acuerdo": "IEEN-CLE-PEEPJN-025/2025",
+    "fecha": "2025-03-24",
+    "url": "https://ieenayarit.org/PDF/2025/Acuerdos/PJ/IEEN-CLE-PEEPJN-025-2025-A1.pdf",
+    "fecha_maxima": "2025-03-24",
+    "reformas_en_catalogo": 0,
+    "criterio": "Mayor fecha entre vigente y cadena; no posición. Recibo y SHA-256 verifican el archivo de la URL seleccionada."
+  },
+  "auditoria_encabezados": {
+    "rotulos_propios": 0,
+    "rotulos_por_pagina": [],
+    "rotulos_no_reconocidos": null,
+    "remisiones_no_promovidas": [],
+    "entradas_indice_impreso_no_promovidas": [],
+    "estado": "No certificada; documento no promovido por capa de texto incompleta."
+  },
+  "control_capa_texto": {
+    "promover": false,
+    "paginas_interiores_sin_texto": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "excepcion_portada": false,
+    "motivo": "Falta texto en páginas interiores"
+  }
+}

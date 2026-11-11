@@ -3,7 +3,7 @@
 Lista corta de lo que falta en la biblioteca, para no depender de la memoria
 de una conversación. Quien cierre un punto lo borra de aquí.
 
-Última revisión: 9 de noviembre de 2026.
+Última revisión: 10 de noviembre de 2026.
 
 ## Acervo electoral: en construcción
 
@@ -48,8 +48,9 @@ Electoral, que ya están aquí. Alcance acordado:
 - **Los anexos no vienen en orden constante**: unos van del más viejo al más
   nuevo y otros al revés. La versión vigente se elige por fecha, nunca por
   posición en la lista.
-- Los PDF son texto generado desde Word, no escaneos, de 11 a 24 páginas. Los
-  anexos «A1/A2» son el texto consolidado completo, no la hoja del acuerdo.
+- El lote 3 confirmó excepciones a la muestra inicial de PDF de texto: ID 45
+  es un escaneo sin capa; ID 48 tiene capa parcial; ID 50 es un escaneo con
+  texto ya incorporado por la fuente. No se aplicó OCR.
 - Dos ordenamientos del IEEN apuntan a PDF alojados en el sitio del Congreso
   de Nayarit, y uno pesa 207 MB: los tres quedan resueltos por las reglas de
   arriba.
@@ -169,3 +170,13 @@ fuente.
 - El cron de la vigilancia está puesto los lunes a las 14:17 UTC, pero las
   corridas caen entre cinco y ocho horas después. Es la cola de GitHub para
   tareas programadas, no una falla del flujo.
+
+## IEEN: pendientes del lote 3
+
+45: sin texto en ninguna de sus cinco páginas. 48: capa parcial, con falta de
+texto interior en 7, 18 y 20. No aplica excepción de portada; sin `actual`, sin
+índices y sin OCR. Los IDs 40, 42 y 47 ya se promovieron tras cotejar sus
+portadas sin texto normativo. Véase [lote 3](IEEN/reportes/LOTE_3.md).
+
+Al incorporar INE, cotejar IEEN/38 antes de duplicar: metadata contiene `emisor`
+y `deduplicacion` con clave `INE/CG517/2020:A1` y referencia IEEN/38.
