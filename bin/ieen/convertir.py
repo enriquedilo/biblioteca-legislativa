@@ -14,8 +14,8 @@ NUM=re.compile(r'^(?:ART[ÍI]CULO\.?|ART\.)\s*\d+(?:[oº°])?(?:\s+(?:Bis|Ter|Qu
 old_decision=conv.heading_decision
 def decision(lines,index):
  line=re.sub(r'[ \t]+',' ',lines[index].strip())
- # Las entradas del índice impreso con puntos guía no son artículos del cuerpo.
- if re.match(r'^(?:ART[ÍI]CULO\.?|ART\.)\s*\d+.*\.{3,}\s*\d+\s*$',line,re.I):return None,None
+ # Las entradas del índice impreso con puntos o guiones guía no son artículos del cuerpo.
+ if re.match(r'^(?:ART[ÍI]CULO\.?|ART\.)\s*\d+.*[.\-–—]{3,}\s*\d+\s*$',line,re.I):return None,None
  m=NUM.match(line)
  if m and line[0].isupper():return m,None
  return old_decision(lines,index)
@@ -24,6 +24,12 @@ conv.heading_decision=decision
 conv.normalizar_millares=lambda s:s
 compact=lambda s:re.sub(r'\s+','',s)
 def save(p,obj):p.parent.mkdir(parents=True,exist_ok=True);p.write_text(json.dumps(obj,ensure_ascii=False,indent=2)+'\n')
+def sin_texto_sustantivo(pagina):
+ # Algunas digitalizaciones solo permiten extraer la marca de agua.
+ # Se ignora únicamente para el control: la extracción archivada no se altera.
+ letras=re.sub(r'[^a-z]', '', unicodedata.normalize('NFKD',pagina).encode('ascii','ignore').decode().lower())
+ return len(pagina.strip())<20 or letras == 'copiadeinternet'
+
 def evaluar_capa_texto(paginas_sin_texto, revision, sha):
  """Una portada vacía requiere cotejo visual vinculado al mismo PDF; interior bloquea."""
  interiores=[n for n in paginas_sin_texto if n != 1]
@@ -75,9 +81,13 @@ def aplicar_criterio_portada(dest, revision):
   save(folder/'actual.json',{'version':meta['version'],'nombre':meta['nombre_oficial'] or meta['nombre_catalogo'],'validacion':status,'conversor':'ieen-4'})
  return decision
 
+TIPOS={'Reglamentos':'reglamento','Reglamento':'reglamento','Lineamientos':'lineamientos','Lineamiento':'lineamientos','Estatuto':'estatuto','Manual':'manual','Política':'politica','Procedimientos':'procedimiento','Protocolo':'protocolo','Guía':'guia'}
+def id_catalogo(row):
+ return row['numero']+(100 if row['seccion']=='interna' else 0)
+
 def process(row,backup,lote=1):
  assert row['vigente']['fecha']==max(x['fecha'] for x in [row['vigente']]+row['reformas']), 'La versión del catálogo no es la más reciente por fecha'
- ident=row['numero'];src=backup/str(ident);pdf=src/'original.pdf';data=pdf.read_bytes();sha=hashlib.sha256(data).hexdigest();receipt=json.loads((src/'descarga.json').read_text());assert receipt['sha256']==sha
+ ident=id_catalogo(row);src=backup/str(ident);pdf=src/'original.pdf';data=pdf.read_bytes();sha=hashlib.sha256(data).hexdigest();receipt=json.loads((src/'descarga.json').read_text());assert receipt['sha256']==sha
  dest=ROOT/'IEEN/ordenamientos'/str(ident)/'versiones'/sha
  if dest.exists():raise ValueError('Versión ya existente: no se sobrescribe; revisar antes de reanudar')
  dest.mkdir(parents=True);shutil.copy2(pdf,dest/'original.pdf');raw=(src/'extraccion.txt').read_text();(dest/'extraccion.txt').write_text(raw)
@@ -97,7 +107,7 @@ def process(row,backup,lote=1):
  (dest/'texto.md').write_text(text)
  saved=re.split(r'<!-- PAGINA_PDF: \d+ -->\s*', (dest/'texto.md').read_text())[1:];assert len(saved)==len(pages)
  for n,(pg,md) in enumerate(zip(pages,saved),1):assert compact(conv.strip_pagination(pg,n)[0])==compact(conv.unformat(md))
- empty=[n for n,p in enumerate(pages,1) if len(p.strip())<20]
+ empty=[n for n,p in enumerate(pages,1) if sin_texto_sustantivo(p)]
  title=' '.join(re.split(r'\n\s*\n',pages[0].strip())[0].split())
  official=title if title.lower().startswith(('reglamento','lineamientos','procedimiento')) else None
  incidents=[{'campo':f,'motivo':'No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo.'} for f in ['decreto_numero','po_publicacion','ultima_reforma']]
@@ -108,7 +118,7 @@ def process(row,backup,lote=1):
    if re.search(r'\b(?:se abroga[n]?|quedan? abrogad[oa]s?)\b',para,re.I):abroga.append({'nombre':None,'fecha':None,'po_numero':None,'nota':' '.join(para.split()),'pagina_pdf':n})
  if not abroga:incidents.append({'campo':'abroga','motivo':'Sin cláusula inequívoca localizada; arreglo vacío no afirma ausencia normativa.'})
  status='pendiente sin texto extraíble; sin OCR' if empty else 'Conversión conservada; cotejo visual e indexación por revisar'
- meta={'id':ident,'nombre_catalogo':row['nombre'],'nombre_oficial':official,'nombre_catalogo_sitio':row['nombre'],'fuente':row['fuente'],'urls':{'pdf':row['vigente']['url'],'word':None},'url_pdf':row['vigente']['url'],'url_word':None,'fecha_descarga':receipt['fecha_descarga'],'hash_sha256':{'pdf':sha},'version':sha,'validacion':status,'tipo':{'Reglamentos':'reglamento','Lineamientos':'lineamientos'}[row['tipo']],'seccion':'electoral','seccion_sitio':row['seccion'],'secciones_sitio':[row['seccion']],'acuerdo':row['vigente']['acuerdo'],'reformas':row['reformas'],'fecha_catalogo_sin_interpretar':row['vigente']['fecha'],'decreto_numero':None,'po_publicacion':None,'ultima_reforma':None,'abroga':abroga,'slug':re.sub(r'[^a-z0-9]+','-',unicodedata.normalize('NFKD',row['nombre']).encode('ascii','ignore').decode().lower()).strip('-'),'fecha_revision_conversion':stamp,'conversor':'bin/ieen/convertir.py; Poppler layout y controles conservadores Nayarit','origen_markdown':'PDF original; sin OCR; erratas conservadas','procedencia_metadata':{'acuerdo':'catálogo IEEN, versión vigente','reformas':'cadena íntegra del catálogo IEEN, no convertida','nombre_oficial':'primer bloque de portada, pendiente cotejo visual' if official else None}}
+ meta={'id':ident,'nombre_catalogo':row['nombre'],'nombre_oficial':official,'nombre_catalogo_sitio':row['nombre'],'fuente':row['fuente'],'urls':{'pdf':row['vigente']['url'],'word':None},'url_pdf':row['vigente']['url'],'url_word':None,'fecha_descarga':receipt['fecha_descarga'],'hash_sha256':{'pdf':sha},'version':sha,'validacion':status,'tipo':TIPOS[row['tipo']],'seccion':'interna' if row['seccion']=='interna' else 'electoral','seccion_sitio':row['seccion'],'secciones_sitio':[row['seccion']],'acuerdo':row['vigente']['acuerdo'],'reformas':row['reformas'],'fecha_catalogo_sin_interpretar':row['vigente']['fecha'],'decreto_numero':None,'po_publicacion':None,'ultima_reforma':None,'abroga':abroga,'slug':re.sub(r'[^a-z0-9]+','-',unicodedata.normalize('NFKD',row['nombre']).encode('ascii','ignore').decode().lower()).strip('-'),'fecha_revision_conversion':stamp,'conversor':'bin/ieen/convertir.py; Poppler layout y controles conservadores Nayarit','origen_markdown':'PDF original; sin OCR; erratas conservadas','procedencia_metadata':{'acuerdo':'catálogo IEEN, versión vigente','reformas':'cadena íntegra del catálogo IEEN, no convertida','nombre_oficial':'primer bloque de portada, pendiente cotejo visual' if official else None}}
  val={'id':ident,'fecha_revision':stamp,'resultado':status,'originales_sha256_verificados':True,'paginas_pdf':len(pages),'paginas_sin_texto':empty,'texto_conservado':True,'transitorios_y_notas_completos_incluidos':True,'ocr_ejecutado':False,'paginas_cotejadas_visualmente':[],'controles_por_pagina':checks,'promociones_encabezado_evitadas':blocked,'incidencias_metadata':incidents,'comparacion_word_pdf':None,'diferencias_de_fuente':['No hay Word en el catálogo; sin comparación Word/PDF.'],'alcance':'Conservación por página de todos los caracteres no blancos, signos, cifras y comienzos de listas respecto de Poppler; doble lector numérico informativo, discrepancias no reparadas. No equivale a cotejo visual integral. Acuerdo y reformas proceden del catálogo por instrucción expresa.'}
  reviewed=None
  reviewfile=ROOT/f'IEEN/catalogo/revision_lote{lote}.json'
@@ -124,7 +134,7 @@ def process(row,backup,lote=1):
 def main():
  p=argparse.ArgumentParser();p.add_argument('--originales',type=Path);p.add_argument('--ids',type=int,nargs='+',required=True);p.add_argument('--lote',type=int,default=1);p.add_argument('--revisar-promocion',action='store_true');a=p.parse_args();rows=json.loads((ROOT/'IEEN/catalogo/normatividad.json').read_text())['documentos'];out=[]
  for i in a.ids:
-  row=next(r for r in rows if r['seccion']=='normatividad' and r['numero']==i);assert row['tipo'] in ('Reglamentos','Lineamientos')
+  row=next(r for r in rows if id_catalogo(r)==i);assert row['tipo'] in TIPOS
   try:
    if a.revisar_promocion:
     reviews=json.loads((ROOT/f'IEEN/catalogo/revision_lote{a.lote}.json').read_text());review=reviews[str(i)]

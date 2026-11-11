@@ -1,0 +1,52 @@
+{
+  "id": 102,
+  "nombre_catalogo": "Manual de Organización del Instituto Estatal Electoral de Nayarit.",
+  "nombre_oficial": "MANUAL DE ORGANIZACIÓN DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT",
+  "nombre_catalogo_sitio": "Manual de Organización del Instituto Estatal Electoral de Nayarit.",
+  "fuente": "https://ieenayarit.org/normatividad/Interna",
+  "urls": {
+    "pdf": "https://ieenayarit.org/PDF/2025/Acuerdos/JEE/IEEN-JEE-080-2025-A1.pdf",
+    "word": null
+  },
+  "url_pdf": "https://ieenayarit.org/PDF/2025/Acuerdos/JEE/IEEN-JEE-080-2025-A1.pdf",
+  "url_word": null,
+  "fecha_descarga": "2026-11-11T01:22:14.848783+00:00",
+  "hash_sha256": {
+    "pdf": "14d170373b4a6ddb90a866334c93a4b4a860535c66cc9049c11f45142f635fe0"
+  },
+  "version": "14d170373b4a6ddb90a866334c93a4b4a860535c66cc9049c11f45142f635fe0",
+  "validacion": "Conversión conservada; muestra visual y auditoría de índices verificadas",
+  "tipo": "manual",
+  "seccion": "interna",
+  "seccion_sitio": "interna",
+  "secciones_sitio": [
+    "interna"
+  ],
+  "acuerdo": "IEEN-JEE-080/2025",
+  "reformas": [
+    {
+      "acuerdo": "IEEN-JEE-065/2023",
+      "fecha": "2023-03-30",
+      "url": "https://ieenayarit.org/PDF/2023/Acuerdos/JEE/IEEN-JEE-065-2023-A1.pdf"
+    },
+    {
+      "acuerdo": "IEEN-JEE-080/2025",
+      "fecha": "2025-12-03",
+      "url": "https://ieenayarit.org/PDF/2025/Acuerdos/JEE/IEEN-JEE-080-2025-A1.pdf"
+    }
+  ],
+  "fecha_catalogo_sin_interpretar": "2025-12-03",
+  "decreto_numero": null,
+  "po_publicacion": null,
+  "ultima_reforma": null,
+  "abroga": [],
+  "slug": "manual-de-organizacion-del-instituto-estatal-electoral-de-nayarit",
+  "fecha_revision_conversion": "2026-11-11T01:22:38.792542+00:00",
+  "conversor": "bin/ieen/convertir.py; Poppler layout y controles conservadores Nayarit",
+  "origen_markdown": "PDF original; sin OCR; erratas conservadas",
+  "procedencia_metadata": {
+    "acuerdo": "catálogo IEEN, versión vigente",
+    "reformas": "cadena íntegra del catálogo IEEN, no convertida",
+    "nombre_oficial": "Transcripción por cotejo visual de página PDF 1; sin OCR."
+  }
+}

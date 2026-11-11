@@ -1,0 +1,779 @@
+{
+  "id": 112,
+  "fecha_revision": "2026-11-11T01:23:00.401252+00:00",
+  "resultado": "Conversión conservada; muestra visual y auditoría de índices verificadas",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 17,
+  "paginas_sin_texto": [],
+  "texto_conservado": true,
+  "transitorios_y_notas_completos_incluidos": true,
+  "ocr_ejecutado": false,
+  "paginas_cotejadas_visualmente": [
+    1,
+    17
+  ],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 2194,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 9,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 48,
+          "texto": "1"
+        }
+      ]
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 1990,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 13,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 47,
+          "texto": "2"
+        }
+      ]
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 2003,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 4,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 48,
+          "texto": "3"
+        }
+      ]
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 1976,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 5,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 48,
+          "texto": "4"
+        }
+      ]
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 2220,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 48,
+          "texto": "5"
+        }
+      ]
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 2230,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 3,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 47,
+          "texto": "6"
+        }
+      ]
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 1809,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 8,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 46,
+          "texto": "7"
+        }
+      ]
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 1903,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 47,
+          "texto": "8"
+        }
+      ]
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 1876,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 6,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 49,
+          "texto": "9"
+        }
+      ]
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 2136,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 48,
+          "texto": "10"
+        }
+      ]
+    },
+    {
+      "pagina": 11,
+      "caracteres_no_blancos": 1921,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 6,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 47,
+          "texto": "11"
+        }
+      ]
+    },
+    {
+      "pagina": 12,
+      "caracteres_no_blancos": 1939,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 12,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 47,
+          "texto": "12"
+        }
+      ]
+    },
+    {
+      "pagina": 13,
+      "caracteres_no_blancos": 2415,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 11,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 47,
+          "texto": "13"
+        }
+      ]
+    },
+    {
+      "pagina": 14,
+      "caracteres_no_blancos": 2013,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 46,
+          "texto": "14"
+        }
+      ]
+    },
+    {
+      "pagina": 15,
+      "caracteres_no_blancos": 2464,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 48,
+          "texto": "15"
+        }
+      ]
+    },
+    {
+      "pagina": 16,
+      "caracteres_no_blancos": 1871,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 46,
+          "texto": "16"
+        }
+      ]
+    },
+    {
+      "pagina": 17,
+      "caracteres_no_blancos": 748,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 26,
+          "texto": "17"
+        }
+      ]
+    }
+  ],
+  "promociones_encabezado_evitadas": [],
+  "incidencias_metadata": [
+    {
+      "campo": "decreto_numero",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "po_publicacion",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "ultima_reforma",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "abroga",
+      "motivo": "Sin cláusula inequívoca localizada; arreglo vacío no afirma ausencia normativa."
+    }
+  ],
+  "comparacion_word_pdf": null,
+  "diferencias_de_fuente": [
+    "No hay Word en el catálogo; sin comparación Word/PDF."
+  ],
+  "alcance": "Conservación por página de todos los caracteres no blancos, signos, cifras y comienzos de listas respecto de Poppler; doble lector numérico informativo, discrepancias no reparadas. No equivale a cotejo visual integral. Acuerdo y reformas proceden del catálogo por instrucción expresa.",
+  "control_capa_texto": {
+    "promover": true,
+    "paginas_interiores_sin_texto": [],
+    "excepcion_portada": false,
+    "motivo": "Todas las páginas tienen texto extraíble"
+  },
+  "promovido": true,
+  "evidencia_metadata": {
+    "nombre_oficial": {
+      "pagina_pdf": 1,
+      "texto": "Lineamientos para el control y administración de bienes muebles y servicios generales del Instituto Estatal Electoral de Nayarit."
+    }
+  },
+  "integridad_cuerpo_verificada": true,
+  "auditoria_encabezados": {
+    "rotulos_propios": 87,
+    "rotulos_por_pagina": [
+      {
+        "articulo": "1",
+        "pagina_pdf": 1,
+        "texto": "Artículo 1. Los presentes Lineamientos tienen como objetivo establecer los criterios que deben"
+      },
+      {
+        "articulo": "2",
+        "pagina_pdf": 1,
+        "texto": "Artículo 2. El patrimonio del Instituto Estatal Electoral de Nayarit se integra con los bienes"
+      },
+      {
+        "articulo": "3",
+        "pagina_pdf": 1,
+        "texto": "Artículo 3. Para efectos de este Lineamiento se entenderá por:"
+      },
+      {
+        "articulo": "4",
+        "pagina_pdf": 2,
+        "texto": "Artículo 4. La Dirección de Administración, integrará, operará y actualizará un catálogo de"
+      },
+      {
+        "articulo": "5",
+        "pagina_pdf": 2,
+        "texto": "Artículo 5. La Dirección de Administración llevará a cabo los procedimientos adquisitivos,"
+      },
+      {
+        "articulo": "6",
+        "pagina_pdf": 2,
+        "texto": "Artículo 6. Previo a los procedimientos adquisitivos, las áreas del IEEN que soliciten alguna"
+      },
+      {
+        "articulo": "7",
+        "pagina_pdf": 2,
+        "texto": "Artículo 7. Todo ingreso de bienes por adquisición, comodato o donación deberá de hacerse"
+      },
+      {
+        "articulo": "8",
+        "pagina_pdf": 3,
+        "texto": "Artículo 8. Para que los bienes sean recibidos por la Dirección de Administración, se presentará"
+      },
+      {
+        "articulo": "9",
+        "pagina_pdf": 3,
+        "texto": "Artículo 9. Para el registro de los bienes muebles, la Dirección de Administración atenderá lo"
+      },
+      {
+        "articulo": "10",
+        "pagina_pdf": 3,
+        "texto": "Artículo 10. Los bienes muebles del IEEN deberán de utilizarse exclusivamente para atender"
+      },
+      {
+        "articulo": "11",
+        "pagina_pdf": 3,
+        "texto": "Artículo 11. Los resguardantes involucrados en el uso y control de los bienes muebles"
+      },
+      {
+        "articulo": "12",
+        "pagina_pdf": 3,
+        "texto": "Artículo 12. La asignación de los bienes muebles se determinará atendiendo a las necesidades"
+      },
+      {
+        "articulo": "13",
+        "pagina_pdf": 4,
+        "texto": "Artículo 13. Los bienes muebles deberán utilizarse exclusivamente para el servicio y"
+      },
+      {
+        "articulo": "14",
+        "pagina_pdf": 4,
+        "texto": "Artículo 14. Los bienes muebles que requieran las áreas del IEEN, se asignarán a través de la"
+      },
+      {
+        "articulo": "15",
+        "pagina_pdf": 4,
+        "texto": "Artículo 15. Los bienes muebles contarán con un resguardo firmado por el personal usuario o"
+      },
+      {
+        "articulo": "16",
+        "pagina_pdf": 4,
+        "texto": "Artículo 16. Posterior al proceso electoral, los bienes muebles que no queden asignados al"
+      },
+      {
+        "articulo": "17",
+        "pagina_pdf": 4,
+        "texto": "Artículo 17. La UTIE será la responsable del resguardo y asignación del equipo de cómputo del"
+      },
+      {
+        "articulo": "18",
+        "pagina_pdf": 4,
+        "texto": "Artículo 18. Es responsabilidad del personal el uso adecuado de los bienes muebles, en"
+      },
+      {
+        "articulo": "19",
+        "pagina_pdf": 5,
+        "texto": "Artículo 19. Es responsabilidad de las y los titulares de las áreas informar a la Dirección de"
+      },
+      {
+        "articulo": "20",
+        "pagina_pdf": 5,
+        "texto": "Artículo 20. Las y los resguardantes que por cualquier motivo se separen de manera definitiva"
+      },
+      {
+        "articulo": "21",
+        "pagina_pdf": 5,
+        "texto": "Artículo 21. Cuando por requerimientos o actividades institucionales sea necesario trasladar"
+      },
+      {
+        "articulo": "22",
+        "pagina_pdf": 5,
+        "texto": "Artículo 22. Las personas resguardantes del IEEN, que tengan bajo su resguardo bienes"
+      },
+      {
+        "articulo": "23",
+        "pagina_pdf": 5,
+        "texto": "Artículo 23. Para el levantamiento y/o verificación de inventario de bienes muebles, la Dirección"
+      },
+      {
+        "articulo": "24",
+        "pagina_pdf": 6,
+        "texto": "Artículo 24. Es obligación de los resguardantes de bienes muebles propiedad del IEEN,"
+      },
+      {
+        "articulo": "25",
+        "pagina_pdf": 6,
+        "texto": "Artículo 25. Los bienes que no sean localizados en la verificación física del inventario, darán"
+      },
+      {
+        "articulo": "26",
+        "pagina_pdf": 6,
+        "texto": "Artículo 26. Durante el proceso electoral únicamente se realizarán inventarios físicos en las"
+      },
+      {
+        "articulo": "27",
+        "pagina_pdf": 6,
+        "texto": "Artículo 27. En los casos de robo o siniestro de bienes, las y los servidores públicos"
+      },
+      {
+        "articulo": "28",
+        "pagina_pdf": 6,
+        "texto": "Artículo 28. De comprobar como resultado de las investigaciones que el resguardante es el"
+      },
+      {
+        "articulo": "29",
+        "pagina_pdf": 7,
+        "texto": "Artículo 29. La Dirección de Administración deberá establecer las medidas necesarias para"
+      },
+      {
+        "articulo": "30",
+        "pagina_pdf": 7,
+        "texto": "Artículo 30. Los bienes no útiles son aquellos:"
+      },
+      {
+        "articulo": "31",
+        "pagina_pdf": 7,
+        "texto": "Artículo 31. El registro de algún bien inscrito en el inventario sólo podrá ser suprimido cuando,"
+      },
+      {
+        "articulo": "32",
+        "pagina_pdf": 7,
+        "texto": "Artículo 32. El IEEN, procederá a la destrucción de sus bienes, sólo cuando hayan dejado de"
+      },
+      {
+        "articulo": "33",
+        "pagina_pdf": 7,
+        "texto": "Artículo 33. La baja de los bienes muebles le corresponde a la Dirección de Administración,"
+      },
+      {
+        "articulo": "34",
+        "pagina_pdf": 8,
+        "texto": "Artículo 34. Las bajas de bienes muebles por siniestro, extravío o robo deberán acompañarse"
+      },
+      {
+        "articulo": "35",
+        "pagina_pdf": 8,
+        "texto": "Artículo 35. Las donaciones y/o comodatos de bienes muebles se atenderá conforme las"
+      },
+      {
+        "articulo": "36",
+        "pagina_pdf": 8,
+        "texto": "Artículo 36. Una vez formalizado el contrato respectivo, se procederá al registro contable"
+      },
+      {
+        "articulo": "37",
+        "pagina_pdf": 8,
+        "texto": "Artículo 37. La baja de los bienes muebles se deberá hacer en presencia del personal del OIC."
+      },
+      {
+        "articulo": "38",
+        "pagina_pdf": 8,
+        "texto": "Artículo 38. La Dirección de Administración, programará, dirigirá y efectuará las actividades de"
+      },
+      {
+        "articulo": "39",
+        "pagina_pdf": 8,
+        "texto": "Artículo 39. Para el resguardo, protección y la conservación de los bienes consumibles, la"
+      },
+      {
+        "articulo": "40",
+        "pagina_pdf": 8,
+        "texto": "Artículo 40. La programación para la adquisición de bienes consumibles de uso común, será"
+      },
+      {
+        "articulo": "41",
+        "pagina_pdf": 8,
+        "texto": "Artículo 41. Se deberán mantener actualizados los registros del control de consumibles que se"
+      },
+      {
+        "articulo": "42",
+        "pagina_pdf": 9,
+        "texto": "Artículo 42. Todos los artículos consumibles que se adquieran y que sean susceptibles de"
+      },
+      {
+        "articulo": "43",
+        "pagina_pdf": 9,
+        "texto": "Artículo 43. A efecto de controlar la recepción de los bienes, el área del IEEN solicitante en"
+      },
+      {
+        "articulo": "44",
+        "pagina_pdf": 9,
+        "texto": "Artículo 44. Las áreas del IEEN solicitantes, en coordinación con la Dirección de Administración"
+      },
+      {
+        "articulo": "45",
+        "pagina_pdf": 9,
+        "texto": "Artículo 45. El control del almacén se llevará mediante un sistema automatizado que para el"
+      },
+      {
+        "articulo": "46",
+        "pagina_pdf": 9,
+        "texto": "Artículo 46. La solicitud de consumibles se hará mediante requisición debidamente avalada en"
+      },
+      {
+        "articulo": "47",
+        "pagina_pdf": 9,
+        "texto": "Artículo 47. A las áreas del IEEN, se les dotará de bienes consumibles una vez por semana;"
+      },
+      {
+        "articulo": "48",
+        "pagina_pdf": 10,
+        "texto": "Artículo 48. Las áreas del IEEN deberán devolver a la Dirección de Administración los bienes"
+      },
+      {
+        "articulo": "49",
+        "pagina_pdf": 10,
+        "texto": "Artículo 49. La Dirección de Administración, en presencia de personal del OIC, realizará una"
+      },
+      {
+        "articulo": "50",
+        "pagina_pdf": 10,
+        "texto": "Artículo 50. No se surtirán solicitudes durante el levantamiento del inventario, debiéndose"
+      },
+      {
+        "articulo": "51",
+        "pagina_pdf": 10,
+        "texto": "Artículo 51. Para el caso de la eventual caducidad o deterioro por caso fortuito de consumibles,"
+      },
+      {
+        "articulo": "52",
+        "pagina_pdf": 10,
+        "texto": "Artículo 52. La adquisición de vehículos sólo puede llevarse a cabo cuando exista disponibilidad"
+      },
+      {
+        "articulo": "53",
+        "pagina_pdf": 10,
+        "texto": "Artículo 53. Los vehículos oficiales únicamente podrán utilizarse para el desempeño de las"
+      },
+      {
+        "articulo": "54",
+        "pagina_pdf": 11,
+        "texto": "Artículo 54. Queda estrictamente prohibido colocar en los vehículos oficiales propaganda"
+      },
+      {
+        "articulo": "55",
+        "pagina_pdf": 11,
+        "texto": "Artículo 55. Como apoyo a las funciones encomendadas y atendiendo al nivel de"
+      },
+      {
+        "articulo": "56",
+        "pagina_pdf": 11,
+        "texto": "Artículo 56. La asignación permanente de los vehículos, será de un vehículo por área, salvo en"
+      },
+      {
+        "articulo": "57",
+        "pagina_pdf": 11,
+        "texto": "Artículo 57. El uso de la unidad se restringirá al periodo de la actividad a desarrollar, debiendo"
+      },
+      {
+        "articulo": "58",
+        "pagina_pdf": 11,
+        "texto": "Artículo 58. La asignación permanente o temporal de vehículos oficiales, deberá soportarse"
+      },
+      {
+        "articulo": "59",
+        "pagina_pdf": 12,
+        "texto": "Artículo 59. La Dirección de Administración tendrá bajo su responsabilidad el resguardo y"
+      },
+      {
+        "articulo": "60",
+        "pagina_pdf": 12,
+        "texto": "Artículo 60. La Dirección de Administración, integrará, actualizará y resguardará de manera"
+      },
+      {
+        "articulo": "61",
+        "pagina_pdf": 12,
+        "texto": "Artículo 61. La Dirección de Administración efectuará por lo menos una vez al año, una"
+      },
+      {
+        "articulo": "62",
+        "pagina_pdf": 13,
+        "texto": "Artículo 62. La plantilla vehicular deberá permanecer en las instalaciones oficiales del IEEN,"
+      },
+      {
+        "articulo": "63",
+        "pagina_pdf": 13,
+        "texto": "Artículo 63. La Dirección de Administración llevará a cabo los trámites relacionados con el pago"
+      },
+      {
+        "articulo": "64",
+        "pagina_pdf": 13,
+        "texto": "Artículo 64. Son responsabilidades y obligaciones del resguardante:"
+      },
+      {
+        "articulo": "65",
+        "pagina_pdf": 13,
+        "texto": "Artículo 65. Las y los resguardantes, por ningún motivo, podrán sustituir las autopartes o"
+      },
+      {
+        "articulo": "66",
+        "pagina_pdf": 14,
+        "texto": "Artículo 66. Con la finalidad de mantener en óptimas condiciones de funcionamiento y"
+      },
+      {
+        "articulo": "67",
+        "pagina_pdf": 14,
+        "texto": "Artículo 67. Para garantizar el uso adecuado de la plantilla vehicular, la Dirección de"
+      },
+      {
+        "articulo": "68",
+        "pagina_pdf": 14,
+        "texto": "Artículo 68. Los vehículos que conformen la plantilla vehicular del IEEN recibirán el"
+      },
+      {
+        "articulo": "69",
+        "pagina_pdf": 14,
+        "texto": "Artículo 69. En caso de que algún vehículo requiera reparaciones mayores, el resguardante, a"
+      },
+      {
+        "articulo": "70",
+        "pagina_pdf": 14,
+        "texto": "Artículo 70. Podrán ser susceptibles de enajenar las unidades automotrices cuyo costo de"
+      },
+      {
+        "articulo": "71",
+        "pagina_pdf": 15,
+        "texto": "Artículo 71. Con la finalidad de salvaguardar el patrimonio institucional, las unidades de la"
+      },
+      {
+        "articulo": "72",
+        "pagina_pdf": 15,
+        "texto": "Artículo 72. En caso de siniestros El IEEN cubrirá el deducible, a excepción de aquellos"
+      },
+      {
+        "articulo": "73",
+        "pagina_pdf": 15,
+        "texto": "Artículo 73. En aquellos casos de siniestro donde quede a cargo del IEEN el pago de la"
+      },
+      {
+        "articulo": "74",
+        "pagina_pdf": 15,
+        "texto": "Artículo 74. La Dirección de Administración, enviará al OIC, los antecedentes documentales"
+      },
+      {
+        "articulo": "75",
+        "pagina_pdf": 15,
+        "texto": "Artículo 75. Los trámites a que haya lugar por cualquier siniestro, así como aquellas pérdidas"
+      },
+      {
+        "articulo": "76",
+        "pagina_pdf": 15,
+        "texto": "Artículo 76. Cuando el vehículo sea declarado como pérdida total como resultado de un"
+      },
+      {
+        "articulo": "77",
+        "pagina_pdf": 16,
+        "texto": "Artículo 77. A la Dirección de Administración le corresponde garantizar las condiciones óptimas"
+      },
+      {
+        "articulo": "78",
+        "pagina_pdf": 16,
+        "texto": "Artículo 78. Los servicios generales son aquellos que, de una manera regular, continua y"
+      },
+      {
+        "articulo": "79",
+        "pagina_pdf": 16,
+        "texto": "Artículo 79. La contratación de servicios generales se sujetará a lo previsto en la legislación"
+      },
+      {
+        "articulo": "80",
+        "pagina_pdf": 16,
+        "texto": "Artículo 80. La Dirección de Administración establecerá controles y medidas administrativas"
+      },
+      {
+        "articulo": "81",
+        "pagina_pdf": 16,
+        "texto": "Artículo 81. El servicio de energía eléctrica se utilizará para atender las actividades del IEEN,"
+      },
+      {
+        "articulo": "82",
+        "pagina_pdf": 16,
+        "texto": "Artículo 82. Los servicios logísticos para la celebración de los actos y eventos oficiales del"
+      },
+      {
+        "articulo": "83",
+        "pagina_pdf": 16,
+        "texto": "Artículo 83. Los servicios de correo y mensajería serán proporcionados por la Dirección de"
+      },
+      {
+        "articulo": "84",
+        "pagina_pdf": 16,
+        "texto": "Artículo 84. La Dirección de Administración elaborará para cada ejercicio fiscal un programa"
+      },
+      {
+        "articulo": "85",
+        "pagina_pdf": 17,
+        "texto": "Artículo 85. En caso de instalaciones especiales, las áreas del IEEN deberán solicitarlas a la"
+      },
+      {
+        "articulo": "86",
+        "pagina_pdf": 17,
+        "texto": "Artículo 86. Lo no previsto en los presentes Lineamientos, será resuelto por la Dirección de"
+      },
+      {
+        "articulo": "87",
+        "pagina_pdf": 17,
+        "texto": "Artículo 87. La Junta Estatal Ejecutiva podrá modificar los presentes Lineamientos cuando así"
+      }
+    ],
+    "rotulos_no_reconocidos": [],
+    "remisiones_no_promovidas": [],
+    "entradas_indice_impreso_no_promovidas": [],
+    "estado": "verificada"
+  },
+  "seleccion_version_catalogo": {
+    "acuerdo": "IEEN-JEE-020/2022",
+    "fecha": "2022-07-26",
+    "url": "https://ieenayarit.org/PDF/2022/Acuerdos/JEE/IEEN-JEE-020-2022-A1.pdf",
+    "fecha_maxima": "2022-07-26",
+    "reformas_en_catalogo": 0,
+    "criterio": "Mayor fecha entre vigente y cadena, no posición. Archivo descargado desde esa URL individual; recibo y SHA-256 conservados."
+  }
+}

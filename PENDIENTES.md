@@ -180,3 +180,9 @@ portadas sin texto normativo. Véase [lote 3](IEEN/reportes/LOTE_3.md).
 
 Al incorporar INE, cotejar IEEN/38 antes de duplicar: metadata contiene `emisor`
 y `deduplicacion` con clave `INE/CG517/2020:A1` y referencia IEEN/38.
+
+## IEEN: pendientes del lote 4
+
+103: Manual de Identidad Gráfica, página interior 15 gráfica sin texto. 104: acuerdo escaneado, solo marca de agua extraíble en sus siete páginas. 105: página final 16 en blanco; se mantiene fuera por el control vigente, que solo exceptúa la portada, sin afirmar pérdida normativa. 106: Manual de contabilidad, texto y tablas en imagen en páginas interiores (evidencia: 117, 1073, 1075 y 1077). Sin OCR ni reconstrucción de tablas, sin `actual` y fuera de índices.
+
+El ID 120 se promovió tras cotejar su portada sin texto normativo. Los 64 candidatos IEEN están procesados; permanecen estos cuatro pendientes y los dos del lote 3. Véase [reporte del lote 4](IEEN/reportes/LOTE_4.md).

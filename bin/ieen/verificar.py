@@ -21,8 +21,8 @@ for r in rows:
  p=folder/'versiones'/version
  m=json.loads((p/'metadata.json').read_text());v=json.loads((p/'validacion.json').read_text())
  assert version==m['version']==m['hash_sha256']['pdf']==hashlib.sha256((p/'original.pdf').read_bytes()).hexdigest()
- row=next(x for x in catalog if x['seccion']=='normatividad' and x['numero']==i)
- assert m['reformas']==row['reformas'] and m['acuerdo']==row['vigente']['acuerdo'] and m['seccion']=='electoral'
+ row=next(x for x in catalog if c.id_catalogo(x)==i)
+ assert m['reformas']==row['reformas'] and m['acuerdo']==row['vigente']['acuerdo'] and m['seccion']==('interna' if row['seccion']=='interna' else 'electoral')
  s=(p/'texto.md').read_text();parts=re.split(r'<!-- PAGINA_PDF: (\d+) -->\s*',s);raw=(p/'extraccion.txt').read_text().split('\f')[:-1]
  assert len(raw)==v['paginas_pdf']==len(parts[1::2])
  for n,(page,md) in enumerate(zip(raw,parts[2::2]),1):

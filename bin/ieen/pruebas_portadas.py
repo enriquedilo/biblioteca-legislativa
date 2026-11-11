@@ -1,6 +1,6 @@
 """Regresión de la excepción de portada: nunca exime páginas interiores."""
 import unittest
-from convertir import evaluar_capa_texto
+from convertir import evaluar_capa_texto, sin_texto_sustantivo
 
 class Portadas(unittest.TestCase):
  def test_criterio(self):
@@ -12,5 +12,12 @@ class Portadas(unittest.TestCase):
    changed={**review,'portada':{**review['portada'],field:value}}
    with self.subTest(field=field,value=value):self.assertFalse(evaluar_capa_texto([1],changed,'abc')['promover'])
   self.assertFalse(evaluar_capa_texto([1],{**review,'nombre_oficial':None},'abc')['promover'])
+
+class CapaTexto(unittest.TestCase):
+ def test_marca_de_agua_no_es_cuerpo(self):
+  self.assertTrue(sin_texto_sustantivo('Cop     ia de I    nter     net'))
+  self.assertFalse(sin_texto_sustantivo('Copia de Internet\nArtículo 1. El Instituto tendrá las siguientes atribuciones.'))
+ def test_tabla_numerica_no_se_descarta(self):
+  self.assertFalse(sin_texto_sustantivo('1000 2000 3000 4000 5000 6000'))
 
 if __name__=='__main__':unittest.main()

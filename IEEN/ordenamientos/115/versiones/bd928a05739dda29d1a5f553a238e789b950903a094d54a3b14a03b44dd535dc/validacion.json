@@ -1,0 +1,859 @@
+{
+  "id": 115,
+  "fecha_revision": "2026-11-11T01:23:00.875659+00:00",
+  "resultado": "Conversión conservada; muestra visual y auditoría de índices verificadas",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 27,
+  "paginas_sin_texto": [],
+  "texto_conservado": true,
+  "transitorios_y_notas_completos_incluidos": true,
+  "ocr_ejecutado": false,
+  "paginas_cotejadas_visualmente": [
+    1,
+    27
+  ],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 2602,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 1,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 57,
+          "texto": "1"
+        }
+      ]
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 2843,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 5,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 55,
+          "texto": "2"
+        }
+      ]
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 3475,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 20,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 56,
+          "texto": "3"
+        }
+      ]
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 3103,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 8,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 56,
+          "texto": "4"
+        }
+      ]
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 2824,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 11,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 56,
+          "texto": "5"
+        }
+      ]
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 2614,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 9,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 56,
+          "texto": "6"
+        }
+      ]
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 1950,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 21,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 56,
+          "texto": "7"
+        }
+      ]
+    },
+    {
+      "pagina": 8,
+      "caracteres_no_blancos": 2305,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 10,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 56,
+          "texto": "8"
+        }
+      ]
+    },
+    {
+      "pagina": 9,
+      "caracteres_no_blancos": 2750,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 3,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 55,
+          "texto": "9"
+        }
+      ]
+    },
+    {
+      "pagina": 10,
+      "caracteres_no_blancos": 2703,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 11,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 56,
+          "texto": "10"
+        }
+      ]
+    },
+    {
+      "pagina": 11,
+      "caracteres_no_blancos": 2557,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 9,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 56,
+          "texto": "11"
+        }
+      ]
+    },
+    {
+      "pagina": 12,
+      "caracteres_no_blancos": 2564,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 13,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 56,
+          "texto": "12"
+        }
+      ]
+    },
+    {
+      "pagina": 13,
+      "caracteres_no_blancos": 3005,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 14,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 56,
+          "texto": "13"
+        }
+      ]
+    },
+    {
+      "pagina": 14,
+      "caracteres_no_blancos": 2681,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 55,
+          "texto": "14"
+        }
+      ]
+    },
+    {
+      "pagina": 15,
+      "caracteres_no_blancos": 2506,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 4,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 56,
+          "texto": "15"
+        }
+      ]
+    },
+    {
+      "pagina": 16,
+      "caracteres_no_blancos": 2837,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 56,
+          "texto": "16"
+        }
+      ]
+    },
+    {
+      "pagina": 17,
+      "caracteres_no_blancos": 3017,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 5,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 56,
+          "texto": "17"
+        }
+      ]
+    },
+    {
+      "pagina": 18,
+      "caracteres_no_blancos": 3136,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 1,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 56,
+          "texto": "18"
+        }
+      ]
+    },
+    {
+      "pagina": 19,
+      "caracteres_no_blancos": 2967,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 8,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 56,
+          "texto": "19"
+        }
+      ]
+    },
+    {
+      "pagina": 20,
+      "caracteres_no_blancos": 2748,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 3,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 56,
+          "texto": "20"
+        }
+      ]
+    },
+    {
+      "pagina": 21,
+      "caracteres_no_blancos": 2967,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 19,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 56,
+          "texto": "21"
+        }
+      ]
+    },
+    {
+      "pagina": 22,
+      "caracteres_no_blancos": 3046,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 2,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 56,
+          "texto": "22"
+        }
+      ]
+    },
+    {
+      "pagina": 23,
+      "caracteres_no_blancos": 2447,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 7,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 55,
+          "texto": "23"
+        }
+      ]
+    },
+    {
+      "pagina": 24,
+      "caracteres_no_blancos": 2687,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 56,
+          "texto": "24"
+        }
+      ]
+    },
+    {
+      "pagina": 25,
+      "caracteres_no_blancos": 2577,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 56,
+          "texto": "25"
+        }
+      ]
+    },
+    {
+      "pagina": 26,
+      "caracteres_no_blancos": 2338,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 56,
+          "texto": "26"
+        }
+      ]
+    },
+    {
+      "pagina": 27,
+      "caracteres_no_blancos": 497,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 16,
+          "texto": "27"
+        }
+      ]
+    }
+  ],
+  "promociones_encabezado_evitadas": [
+    {
+      "linea": 38,
+      "texto": "artículo 305 del Estatuto.",
+      "anterior": "competente en días y horas hábiles. La solicitud deberá contener los requisitos establecidos en el",
+      "siguiente": "",
+      "motivo": "renglón anterior sin punto final",
+      "pagina": 13
+    }
+  ],
+  "incidencias_metadata": [
+    {
+      "campo": "decreto_numero",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "po_publicacion",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "ultima_reforma",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    }
+  ],
+  "comparacion_word_pdf": null,
+  "diferencias_de_fuente": [
+    "No hay Word en el catálogo; sin comparación Word/PDF."
+  ],
+  "alcance": "Conservación por página de todos los caracteres no blancos, signos, cifras y comienzos de listas respecto de Poppler; doble lector numérico informativo, discrepancias no reparadas. No equivale a cotejo visual integral. Acuerdo y reformas proceden del catálogo por instrucción expresa.",
+  "control_capa_texto": {
+    "promover": true,
+    "paginas_interiores_sin_texto": [],
+    "excepcion_portada": false,
+    "motivo": "Todas las páginas tienen texto extraíble"
+  },
+  "promovido": true,
+  "evidencia_metadata": {
+    "nombre_oficial": {
+      "pagina_pdf": 1,
+      "texto": "Lineamientos para regular el procedimiento de hostigamiento y/o acoso laboral y sexual; procedimiento laboral disciplinario y recurso de inconformidad del Instituto Estatal Electoral de Nayarit."
+    },
+    "abroga": [
+      {
+        "nombre": "Protocolo para Prevenir, Investigar, Atender y Sancionar Conductas Tendentes al Hostigamiento, Discriminación y Acoso Sexual o Laboral, para el Instituto Estatal Electoral de Nayarit",
+        "fecha": null,
+        "po_numero": null,
+        "nota": "TERCERO. Se abroga el Protocolo para Prevenir, Investigar, Atender y Sancionar Conductas Tendentes al Hostigamiento, Discriminación y Acoso Sexual o Laboral, para el Instituto Estatal Electoral de Nayarit.",
+        "pagina_pdf": 27
+      }
+    ]
+  },
+  "integridad_cuerpo_verificada": true,
+  "auditoria_encabezados": {
+    "rotulos_propios": 67,
+    "rotulos_por_pagina": [
+      {
+        "articulo": "1",
+        "pagina_pdf": 1,
+        "texto": "Artículo 1. Los presentes lineamientos tienen por objeto establecer los parámetros de actuación"
+      },
+      {
+        "articulo": "2",
+        "pagina_pdf": 1,
+        "texto": "Artículo 2. Con independencia de lo previsto en el Estatuto del Servicio Profesional Electoral"
+      },
+      {
+        "articulo": "3",
+        "pagina_pdf": 1,
+        "texto": "Artículo 3. Para los efectos de los presentes lineamientos, sin perjuicio de lo previsto en el"
+      },
+      {
+        "articulo": "4",
+        "pagina_pdf": 4,
+        "texto": "Artículo 4. Todas las actuaciones previstas en los presentes Lineamientos se regirán por los"
+      },
+      {
+        "articulo": "5",
+        "pagina_pdf": 4,
+        "texto": "Artículo 5. Las actuaciones que ordenen las autoridades se deberán practicar entre las ocho y las"
+      },
+      {
+        "articulo": "6",
+        "pagina_pdf": 4,
+        "texto": "Artículo 6. Las notificaciones de acuerdos y resoluciones que no tengan prevista una forma especial en"
+      },
+      {
+        "articulo": "7",
+        "pagina_pdf": 5,
+        "texto": "Artículo 7. Las notificaciones personales se harán a la persona interesada de manera directa o por"
+      },
+      {
+        "articulo": "8",
+        "pagina_pdf": 5,
+        "texto": "Artículo 8. Las cédulas de notificación personal deberán contener cuando menos:"
+      },
+      {
+        "articulo": "9",
+        "pagina_pdf": 5,
+        "texto": "Artículo 9. Las notificaciones por estrados se practicarán a través del sistema electrónico y conforme al"
+      },
+      {
+        "articulo": "10",
+        "pagina_pdf": 5,
+        "texto": "Artículo 10. Las notificaciones que sean ordenadas a las áreas del IEEN, y autoridades, se realizarán"
+      },
+      {
+        "articulo": "11",
+        "pagina_pdf": 6,
+        "texto": "Artículo 11. Las notificaciones que se realicen por correo electrónico (previa aceptación de las partes)"
+      },
+      {
+        "articulo": "12",
+        "pagina_pdf": 6,
+        "texto": "Artículo 12. Las autoridades de primer contacto, conciliadora, instructora y resolutora, según"
+      },
+      {
+        "articulo": "13",
+        "pagina_pdf": 6,
+        "texto": "Artículo 13. Los expedientes de los procedimientos sancionadores y del recurso de inconformidad,"
+      },
+      {
+        "articulo": "14",
+        "pagina_pdf": 6,
+        "texto": "Artículo 14. Para la resolución pronta y expedita de los procedimientos sancionadores y recursos de"
+      },
+      {
+        "articulo": "15",
+        "pagina_pdf": 7,
+        "texto": "Artículo 15. La estructura que regulan los presentes lineamientos estará compuesta por los apartados"
+      },
+      {
+        "articulo": "16",
+        "pagina_pdf": 8,
+        "texto": "Artículo 16. En el desarrollo de la fase preliminar se deberán garantizar las condiciones de acceso"
+      },
+      {
+        "articulo": "17",
+        "pagina_pdf": 8,
+        "texto": "Artículo 17. Las etapas que integran la fase preliminar se podrán llevar a cabo, incluso, mediante"
+      },
+      {
+        "articulo": "18",
+        "pagina_pdf": 8,
+        "texto": "Artículo 18. Esta etapa tiene por objeto establecer la comunicación inicial entre la autoridad de"
+      },
+      {
+        "articulo": "19",
+        "pagina_pdf": 9,
+        "texto": "Artículo 19. Esta etapa tiene por objeto brindar la orientación necesaria a la parte presuntamente"
+      },
+      {
+        "articulo": "20",
+        "pagina_pdf": 9,
+        "texto": "Artículo 20. Esta etapa tiene por objeto realizar una reunión con las personas involucradas"
+      },
+      {
+        "articulo": "20bis",
+        "pagina_pdf": 10,
+        "texto": "Artículo 20 bis. Para efectos de contar con personal especializado, encargado de atender a las"
+      },
+      {
+        "articulo": "21",
+        "pagina_pdf": 10,
+        "texto": "Artículo 21. Concluida la etapa de entrevista, además de lo previsto en el artículo 293 del Estatuto,"
+      },
+      {
+        "articulo": "22",
+        "pagina_pdf": 10,
+        "texto": "Artículo 22. El expediente único es el instrumento a través del cual la autoridad de primer contacto"
+      },
+      {
+        "articulo": "23",
+        "pagina_pdf": 11,
+        "texto": "Artículo 23. El procedimiento de conciliación es aplicable en cualquier tipo de conflicto laboral,"
+      },
+      {
+        "articulo": "24",
+        "pagina_pdf": 11,
+        "texto": "Artículo 24. En concordancia con los principios previstos en el artículo 4 de los presentes"
+      },
+      {
+        "articulo": "25",
+        "pagina_pdf": 11,
+        "texto": "Artículo 25. No serán objeto del procedimiento de conciliación los conflictos que:"
+      },
+      {
+        "articulo": "26",
+        "pagina_pdf": 12,
+        "texto": "Artículo 26. Para determinar la viabilidad de la implementación del procedimiento de conciliación"
+      },
+      {
+        "articulo": "27",
+        "pagina_pdf": 12,
+        "texto": "Artículo 27. Son partes en el procedimiento de conciliación, las personas involucradas en el"
+      },
+      {
+        "articulo": "28",
+        "pagina_pdf": 12,
+        "texto": "Artículo 28. Corresponde a la autoridad conciliadora, dentro del ámbito de su competencia:"
+      },
+      {
+        "articulo": "29",
+        "pagina_pdf": 12,
+        "texto": "Artículo 29. Son obligaciones de la persona conciliadora:"
+      },
+      {
+        "articulo": "30",
+        "pagina_pdf": 13,
+        "texto": "Artículo 30. En el procedimiento de conciliación son derechos de las partes:"
+      },
+      {
+        "articulo": "31",
+        "pagina_pdf": 13,
+        "texto": "Artículo 31. Para dar inicio al procedimiento de conciliación bastará con que así lo soliciten las"
+      },
+      {
+        "articulo": "32",
+        "pagina_pdf": 14,
+        "texto": "Artículo 32. La reunión de conciliación, se realizará en los términos previstos en el artículo 306 del"
+      },
+      {
+        "articulo": "33",
+        "pagina_pdf": 14,
+        "texto": "Artículo 33. En caso que las partes lleguen a un acuerdo, la persona conciliadora lo hará constar"
+      },
+      {
+        "articulo": "34",
+        "pagina_pdf": 14,
+        "texto": "Artículo 34. Las partes deberán informar a la autoridad conciliadora, por escrito, si existe"
+      },
+      {
+        "articulo": "35",
+        "pagina_pdf": 15,
+        "texto": "Artículo 35. El procedimiento laboral sancionador es aplicable al personal del Instituto que"
+      },
+      {
+        "articulo": "36",
+        "pagina_pdf": 15,
+        "texto": "Artículo 36. Las actuaciones previas al procedimiento laboral sancionador se iniciarán, a juicio de"
+      },
+      {
+        "articulo": "37",
+        "pagina_pdf": 15,
+        "texto": "Artículo 37. La autoridad instructora, sin prejuzgar sobre la procedencia de la queja o denuncia o"
+      },
+      {
+        "articulo": "38",
+        "pagina_pdf": 16,
+        "texto": "Artículo 38. La autoridad instructora podrá solicitar informes y documentación en términos de lo"
+      },
+      {
+        "articulo": "39",
+        "pagina_pdf": 16,
+        "texto": "Artículo 39. Las medidas cautelares tienen por finalidad conservar de manera provisional, la"
+      },
+      {
+        "articulo": "40",
+        "pagina_pdf": 16,
+        "texto": "Artículo 40. En la atención de las quejas o denuncias, la autoridad instructora, bajo su más estricta"
+      },
+      {
+        "articulo": "41",
+        "pagina_pdf": 17,
+        "texto": "Artículo 41. Para la determinación de cualquiera de las medidas cautelares se deberá seguir el"
+      },
+      {
+        "articulo": "42",
+        "pagina_pdf": 17,
+        "texto": "Artículo 42. Durante la vigencia de las medidas cautelares, el personal del Instituto y/o los"
+      },
+      {
+        "articulo": "43",
+        "pagina_pdf": 17,
+        "texto": "Artículo 43. Con independencia de las medidas cautelares a que se refiere el artículo 315 del"
+      },
+      {
+        "articulo": "44",
+        "pagina_pdf": 17,
+        "texto": "Artículo 44. El auto de inicio es la primera actuación con la que formalmente comienza el"
+      },
+      {
+        "articulo": "45",
+        "pagina_pdf": 18,
+        "texto": "Artículo 45. Una vez iniciado el procedimiento laboral sancionador, la autoridad instructora deberá"
+      },
+      {
+        "articulo": "46",
+        "pagina_pdf": 18,
+        "texto": "Artículo 46. En el procedimiento laboral sancionador podrán ser ofrecidas y admitidas las pruebas"
+      },
+      {
+        "articulo": "47",
+        "pagina_pdf": 20,
+        "texto": "Artículo 47. En caso de ser ofrecidas pruebas supervenientes, la parte oferente deberá justificar la"
+      },
+      {
+        "articulo": "48",
+        "pagina_pdf": 20,
+        "texto": "Artículo 48. La autoridad instructora deberá realizar las diligencias necesarias para el desahogo"
+      },
+      {
+        "articulo": "49",
+        "pagina_pdf": 22,
+        "texto": "Artículo 49. Concluida la audiencia de desahogo de pruebas, comparezcan o no las partes, la"
+      },
+      {
+        "articulo": "50",
+        "pagina_pdf": 22,
+        "texto": "Artículo 50. Si de las constancias que obran en el expediente resultara la acreditación de nuevas"
+      },
+      {
+        "articulo": "51",
+        "pagina_pdf": 22,
+        "texto": "Artículo 51. Concluida la sustanciación del expediente, la autoridad instructora emitirá auto que"
+      },
+      {
+        "articulo": "52",
+        "pagina_pdf": 22,
+        "texto": "Artículo 52. En caso de que la autoridad resolutora considere que faltan elementos para resolver,"
+      },
+      {
+        "articulo": "53",
+        "pagina_pdf": 22,
+        "texto": "Artículo 53. La resolución del procedimiento laboral sancionador deberá contener al menos:"
+      },
+      {
+        "articulo": "54",
+        "pagina_pdf": 23,
+        "texto": "Artículo 54. El Instituto, podrá aplicar a su personal las sanciones de amonestación, suspensión,"
+      },
+      {
+        "articulo": "55",
+        "pagina_pdf": 23,
+        "texto": "Artículo 55. Calificadas las faltas, las sanciones se impondrán entre los grados de mínimo, medio"
+      },
+      {
+        "articulo": "56",
+        "pagina_pdf": 23,
+        "texto": "Artículo 56. El cumplimiento o ejecución de las sanciones que se impongan en la resolución del"
+      },
+      {
+        "articulo": "57",
+        "pagina_pdf": 24,
+        "texto": "Artículo 57. La autoridad instructora determinará no iniciar el procedimiento laboral sancionador en"
+      },
+      {
+        "articulo": "58",
+        "pagina_pdf": 24,
+        "texto": "Artículo 58. El auto por el que se determine no iniciar el procedimiento deberá contener los"
+      },
+      {
+        "articulo": "59",
+        "pagina_pdf": 25,
+        "texto": "Artículo 59. Son competentes para conocer del recurso de inconformidad:"
+      },
+      {
+        "articulo": "60",
+        "pagina_pdf": 25,
+        "texto": "Artículo 60. El recurso de inconformidad podrá interponerse ante la Oficialía de partes del"
+      },
+      {
+        "articulo": "61",
+        "pagina_pdf": 25,
+        "texto": "Artículo 61. En los casos de competencia de la Junta y en atención a lo previsto en el artículo 362"
+      },
+      {
+        "articulo": "62",
+        "pagina_pdf": 26,
+        "texto": "Artículo 62. La persona secretaria del Consejo Local tramitará y sustanciará el recurso de"
+      },
+      {
+        "articulo": "63",
+        "pagina_pdf": 26,
+        "texto": "Artículo 63. El recurso de inconformidad podrá ser desechado, en su caso, por la Junta o la o el"
+      },
+      {
+        "articulo": "64",
+        "pagina_pdf": 26,
+        "texto": "Artículo 64. El escrito mediante el cual se interponga el recurso de inconformidad deberá contener"
+      },
+      {
+        "articulo": "65",
+        "pagina_pdf": 26,
+        "texto": "Artículo 65. El recurso será sobreseído cuando, una vez admitido:"
+      },
+      {
+        "articulo": "66",
+        "pagina_pdf": 26,
+        "texto": "Artículo 66. La autoridad competente deberá resolver el recurso dentro del plazo de veinticinco"
+      }
+    ],
+    "rotulos_no_reconocidos": [],
+    "remisiones_no_promovidas": [
+      {
+        "articulo": "305",
+        "pagina_pdf": 13,
+        "texto": "artículo 305 del Estatuto."
+      }
+    ],
+    "entradas_indice_impreso_no_promovidas": [],
+    "estado": "verificada"
+  },
+  "seleccion_version_catalogo": {
+    "acuerdo": "IEEN-CLE-064/2022",
+    "fecha": "2022-07-18",
+    "url": "https://ieenayarit.org/PDF/2022/Acuerdos/IEEN-CLE-064-2022-A1.pdf",
+    "fecha_maxima": "2022-07-18",
+    "reformas_en_catalogo": 0,
+    "criterio": "Mayor fecha entre vigente y cadena, no posición. Archivo descargado desde esa URL individual; recibo y SHA-256 conservados."
+  }
+}

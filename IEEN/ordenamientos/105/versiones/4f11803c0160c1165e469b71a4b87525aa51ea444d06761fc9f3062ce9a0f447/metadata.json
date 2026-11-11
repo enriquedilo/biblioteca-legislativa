@@ -1,0 +1,41 @@
+{
+  "id": 105,
+  "nombre_catalogo": "Manual de integración y funcionamiento del Comité de Adquisiciones, Arrendamientos, Bienes y Servicios del Instituto Estatal Electoral de Nayarit.",
+  "nombre_oficial": "Manual de integración y funcionamiento del Comité de Adquisiciones, Arrendamientos, Bienes y Servicios del Instituto Estatal Electoral de Nayarit",
+  "nombre_catalogo_sitio": "Manual de integración y funcionamiento del Comité de Adquisiciones, Arrendamientos, Bienes y Servicios del Instituto Estatal Electoral de Nayarit.",
+  "fuente": "https://ieenayarit.org/normatividad/Interna",
+  "urls": {
+    "pdf": "https://ieenayarit.org/PDF/2020/Manual_integraci%C3%B3n_funcionamiento_CA.pdf",
+    "word": null
+  },
+  "url_pdf": "https://ieenayarit.org/PDF/2020/Manual_integraci%C3%B3n_funcionamiento_CA.pdf",
+  "url_word": null,
+  "fecha_descarga": "2026-11-11T01:22:16.473142+00:00",
+  "hash_sha256": {
+    "pdf": "4f11803c0160c1165e469b71a4b87525aa51ea444d06761fc9f3062ce9a0f447"
+  },
+  "version": "4f11803c0160c1165e469b71a4b87525aa51ea444d06761fc9f3062ce9a0f447",
+  "validacion": "Pendiente: Página final 16 sin texto, cotejada visualmente en blanco. Se mantiene pendiente por el control conservador vigente, que solo exceptúa la portada; no se afirma pérdida normativa en esa página. Sin OCR; no promovido.",
+  "tipo": "manual",
+  "seccion": "interna",
+  "seccion_sitio": "interna",
+  "secciones_sitio": [
+    "interna"
+  ],
+  "acuerdo": "-",
+  "reformas": [],
+  "fecha_catalogo_sin_interpretar": "2020",
+  "decreto_numero": null,
+  "po_publicacion": null,
+  "ultima_reforma": null,
+  "abroga": [],
+  "slug": "manual-de-integracion-y-funcionamiento-del-comite-de-adquisiciones-arrendamientos-bienes-y-servicios-del-instituto-estatal-electoral-de-nayarit",
+  "fecha_revision_conversion": "2026-11-11T01:22:39.773579+00:00",
+  "conversor": "bin/ieen/convertir.py; Poppler layout y controles conservadores Nayarit",
+  "origen_markdown": "PDF original; sin OCR; erratas conservadas",
+  "procedencia_metadata": {
+    "acuerdo": "catálogo IEEN, versión vigente",
+    "reformas": "cadena íntegra del catálogo IEEN, no convertida",
+    "nombre_oficial": "Transcripción por cotejo visual de página PDF 1; sin OCR."
+  }
+}

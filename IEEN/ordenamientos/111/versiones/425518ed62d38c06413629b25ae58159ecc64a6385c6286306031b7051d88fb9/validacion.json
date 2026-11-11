@@ -1,0 +1,289 @@
+{
+  "id": 111,
+  "fecha_revision": "2026-11-11T01:23:00.319098+00:00",
+  "resultado": "Conversión conservada; muestra visual y auditoría de índices verificadas",
+  "originales_sha256_verificados": true,
+  "paginas_pdf": 7,
+  "paginas_sin_texto": [],
+  "texto_conservado": true,
+  "transitorios_y_notas_completos_incluidos": true,
+  "ocr_ejecutado": false,
+  "paginas_cotejadas_visualmente": [
+    1,
+    7
+  ],
+  "controles_por_pagina": [
+    {
+      "pagina": 1,
+      "caracteres_no_blancos": 110,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": true,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": []
+    },
+    {
+      "pagina": 2,
+      "caracteres_no_blancos": 304,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 3,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 28,
+          "texto": "2"
+        }
+      ]
+    },
+    {
+      "pagina": 3,
+      "caracteres_no_blancos": 1098,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 12,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 36,
+          "texto": "3"
+        }
+      ]
+    },
+    {
+      "pagina": 4,
+      "caracteres_no_blancos": 1868,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 4,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 50,
+          "texto": "4"
+        }
+      ]
+    },
+    {
+      "pagina": 5,
+      "caracteres_no_blancos": 2101,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 9,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 50,
+          "texto": "5"
+        }
+      ]
+    },
+    {
+      "pagina": 6,
+      "caracteres_no_blancos": 1727,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 12,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 49,
+          "texto": "6"
+        }
+      ]
+    },
+    {
+      "pagina": 7,
+      "caracteres_no_blancos": 1476,
+      "contenido_y_signos_conservados": true,
+      "cifras_pdf_markdown_conservadas": true,
+      "inicios_lista": 0,
+      "inicios_lista_conservados": true,
+      "secuencia_cifras_dos_lectores_pdf": false,
+      "frecuencias_digitos_dos_lectores_pdf": true,
+      "paginacion_retirada": [
+        {
+          "linea": 43,
+          "texto": "7"
+        }
+      ]
+    }
+  ],
+  "promociones_encabezado_evitadas": [],
+  "incidencias_metadata": [
+    {
+      "campo": "decreto_numero",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "po_publicacion",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "ultima_reforma",
+      "motivo": "No localizado inequívocamente en la extracción; pendiente de cotejo normativo, no se infiere del catálogo."
+    },
+    {
+      "campo": "abroga",
+      "motivo": "Sin cláusula inequívoca localizada; arreglo vacío no afirma ausencia normativa."
+    }
+  ],
+  "comparacion_word_pdf": null,
+  "diferencias_de_fuente": [
+    "No hay Word en el catálogo; sin comparación Word/PDF."
+  ],
+  "alcance": "Conservación por página de todos los caracteres no blancos, signos, cifras y comienzos de listas respecto de Poppler; doble lector numérico informativo, discrepancias no reparadas. No equivale a cotejo visual integral. Acuerdo y reformas proceden del catálogo por instrucción expresa.",
+  "control_capa_texto": {
+    "promover": true,
+    "paginas_interiores_sin_texto": [],
+    "excepcion_portada": false,
+    "motivo": "Todas las páginas tienen texto extraíble"
+  },
+  "promovido": true,
+  "evidencia_metadata": {
+    "nombre_oficial": {
+      "pagina_pdf": 1,
+      "texto": "Lineamientos para la tramitación de préstamos para las personas servidoras públicas del Instituto Estatal Electoral de Nayarit"
+    }
+  },
+  "integridad_cuerpo_verificada": true,
+  "auditoria_encabezados": {
+    "rotulos_propios": 22,
+    "rotulos_por_pagina": [
+      {
+        "articulo": "1",
+        "pagina_pdf": 4,
+        "texto": "Artículo 1. Los presentes lineamientos tienen por objeto definir y establecer los"
+      },
+      {
+        "articulo": "2",
+        "pagina_pdf": 4,
+        "texto": "Artículo 2. Solo serán otorgados préstamos a las personas servidoras públicas del Instituto"
+      },
+      {
+        "articulo": "3",
+        "pagina_pdf": 4,
+        "texto": "Artículo 3. Los préstamos se otorgarán preferentemente a quienes tengan menores"
+      },
+      {
+        "articulo": "4",
+        "pagina_pdf": 4,
+        "texto": "Artículo 4. La Presidencia en conjunto con la Dirección de Administración son las áreas"
+      },
+      {
+        "articulo": "5",
+        "pagina_pdf": 4,
+        "texto": "Artículo 5. El importe del préstamo será autorizado con base en la disponibilidad financiera"
+      },
+      {
+        "articulo": "6",
+        "pagina_pdf": 4,
+        "texto": "Artículo 6. El derecho para solicitar un préstamo rige del primer día hábil de enero al 30"
+      },
+      {
+        "articulo": "7",
+        "pagina_pdf": 4,
+        "texto": "Artículo 7. Cualquier aspecto no previsto, lo resolverá la Dirección de Administración en el"
+      },
+      {
+        "articulo": "8",
+        "pagina_pdf": 4,
+        "texto": "Artículo 8. El Órgano Interno de Control, en el ámbito de su competencia, podrá verificar"
+      },
+      {
+        "articulo": "9",
+        "pagina_pdf": 4,
+        "texto": "Artículo 9. Para efectos de los presentes Lineamientos, se entenderá por:"
+      },
+      {
+        "articulo": "10",
+        "pagina_pdf": 5,
+        "texto": "Artículo 10. El trámite de la solicitud del préstamo deberá realizarse mediante solicitud"
+      },
+      {
+        "articulo": "11",
+        "pagina_pdf": 5,
+        "texto": "Artículo 11. La solicitud presentada, deberá contener;"
+      },
+      {
+        "articulo": "12",
+        "pagina_pdf": 5,
+        "texto": "Artículo 12. A la entrega de la solicitud, la Dirección de Administración verificará que exista"
+      },
+      {
+        "articulo": "13",
+        "pagina_pdf": 5,
+        "texto": "Artículo 13. La Dirección de Administración contará con un plazo de 5 (cinco) días hábiles"
+      },
+      {
+        "articulo": "14",
+        "pagina_pdf": 5,
+        "texto": "Artículo 14. La Dirección de Administración no otorgará préstamos en los siguientes casos:"
+      },
+      {
+        "articulo": "15",
+        "pagina_pdf": 6,
+        "texto": "Artículo 15. Una vez verificada la suficiencia presupuestal, la Dirección de Administración,"
+      },
+      {
+        "articulo": "16",
+        "pagina_pdf": 6,
+        "texto": "Artículo 16. El monto del préstamo deberá ser pagado en su totalidad en un plazo no"
+      },
+      {
+        "articulo": "17",
+        "pagina_pdf": 6,
+        "texto": "Artículo 17. La persona servidora pública que hubiere recibido un préstamo, podrá optar"
+      },
+      {
+        "articulo": "18",
+        "pagina_pdf": 7,
+        "texto": "Artículo 18. El monto del préstamo será pagado por la persona servidora pública a través"
+      },
+      {
+        "articulo": "19",
+        "pagina_pdf": 7,
+        "texto": "Artículo 19. Cuando la persona servidora pública a la que se le haya otorgado un"
+      },
+      {
+        "articulo": "20",
+        "pagina_pdf": 7,
+        "texto": "Artículo 20. En caso de que la o el servidor público cause baja como trabajadora o"
+      },
+      {
+        "articulo": "21",
+        "pagina_pdf": 7,
+        "texto": "Artículo 21. La Dirección de Administración deberá observar que en todos los casos se"
+      },
+      {
+        "articulo": "22",
+        "pagina_pdf": 7,
+        "texto": "Artículo. 22. Previo al pago de cualquier liquidación por concepto de terminación de la"
+      }
+    ],
+    "rotulos_no_reconocidos": [],
+    "remisiones_no_promovidas": [],
+    "entradas_indice_impreso_no_promovidas": [],
+    "estado": "verificada"
+  },
+  "seleccion_version_catalogo": {
+    "acuerdo": "IEEN-JEE-023/2023",
+    "fecha": "2023-02-28",
+    "url": "https://ieenayarit.org/PDF/2023/Acuerdos/JEE/IEEN-JEE-023-2023-A1.pdf",
+    "fecha_maxima": "2023-02-28",
+    "reformas_en_catalogo": 0,
+    "criterio": "Mayor fecha entre vigente y cadena, no posición. Archivo descargado desde esa URL individual; recibo y SHA-256 conservados."
+  }
+}
