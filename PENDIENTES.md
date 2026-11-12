@@ -64,6 +64,29 @@ Electoral, que ya están aquí. Alcance acordado:
 
 Sinaloa sigue sin protección frente al cambio de enlaces: su catálogo se arma con JavaScript desde otro host y su lista no es observable desde el HTML servido. La corrección de enlaces congelados de Nayarit queda documentada en `Nayarit/reportes/actualizacion-enlaces-2026-11-09.md`.
 
+## Sinaloa: materia fiscal, decidido no cargarla por ahora
+
+**Decidido el 12 de noviembre de 2026.** Nayarit ya tiene su Ley de Ingresos
+y su Presupuesto de Egresos del ejercicio (ids 141 y 142); Sinaloa no, y es
+una decisión, no un olvido.
+
+La razón es la fuente. En Sinaloa es **una sola ley conjunta de ingresos y
+egresos publicada en ocho PDF del Periódico Oficial**, en el portal de
+Transparencia, sin versión en Word, y fuera del catálogo de «Leyes
+Estatales» que alimenta el acervo. Cargarla obligaría a romper una regla de
+fondo: cada ordenamiento tiene un texto y su versión es el SHA-256 de un
+original. Ocho archivos para un documento no cabe ahí sin extender la regla.
+
+Las opciones evaluadas fueron un ordenamiento en ocho partes —con la versión
+calculada sobre la concatenación ordenada— u ocho ordenamientos separados.
+Se descartaron las dos por ahora: la primera cambia un invariante del acervo
+y la segunda parte una ley en ocho entradas de índice.
+
+Mientras no se cargue, **la skill debe advertirlo cuando la consulta sea
+fiscal de Sinaloa**: no está, y la razón es que la fuente está fragmentada en
+el Periódico Oficial. Pendiente de incorporar a la skill en su próxima
+actualización.
+
 ## Auditoría integral — pendiente mayor
 
 **La biblioteca se ha venido corrigiendo a parches, cada uno a raíz del error

@@ -121,6 +121,31 @@ assert "categoria_que_no_existia" in open(_os.path.join(V.VIG, "reporte.md"),
                                           encoding="utf-8").read()
 print("una categoria nueva no se pierde por no estar en la lista  OK")
 
+# --- ejercicio siguiente: lo que no se reforma, se sustituye ---------------
+# Una ley de ingresos no cambia: la del ano que viene es otro archivo con otro
+# nombre. Vigilar el archivo vigente nunca lo detecta.
+c = V.urls_del_siguiente_ejercicio(
+    "https://x.gob.mx/leyes/ley_de_ingresos_del_estado_2026.pdf")
+assert c[0].endswith("ley_de_ingresos_del_estado_2027.pdf"), c
+
+# ano en la carpeta y en el archivo: se sustituyen los dos, y se prueba
+# tambien solo el ultimo por si el sitio versiona nada mas uno
+c = V.urls_del_siguiente_ejercicio("https://x.gob.mx/presupuesto/2026/pe_2026.pdf")
+assert "https://x.gob.mx/presupuesto/2027/pe_2027.pdf" in c, c
+assert "https://x.gob.mx/presupuesto/2026/pe_2027.pdf" in c, c
+
+# una URL sin ano no genera candidatas, y nunca se devuelve la misma
+assert V.urls_del_siguiente_ejercicio("https://x.gob.mx/leyes/codigo_civil.pdf") == []
+assert all(u != "https://x.gob.mx/a_2026.pdf"
+           for u in V.urls_del_siguiente_ejercicio("https://x.gob.mx/a_2026.pdf"))
+print("candidatas del ejercicio siguiente  OK")
+
+# un ordenamiento sin vigencia_anual no se prueba, aunque traiga ano
+assert V.revisar_ejercicio_anual(
+    {"entidad": "Federal", "id": 1, "nombre": "X", "url_pdf":
+     "https://x.gob.mx/a_2026.pdf", "vigencia_anual": False}) == []
+print("solo se prueban los marcados vigencia_anual  OK")
+
 print("\nTodas las pruebas pasaron.")
 
 
