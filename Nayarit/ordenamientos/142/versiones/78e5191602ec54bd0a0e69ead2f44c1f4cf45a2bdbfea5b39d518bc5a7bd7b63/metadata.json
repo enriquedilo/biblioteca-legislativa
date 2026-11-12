@@ -1,0 +1,60 @@
+{
+  "id": 142,
+  "nombre_catalogo": "Presupuesto de Egresos del Estado de Nayarit para el Ejercicio Fiscal 2026",
+  "nombre_oficial": "PRESUPUESTO DE EGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, PARA EL EJERCICIO FISCAL DE 2026",
+  "nombre_oficial_pendiente_de_cotejo": false,
+  "fuente": "https://congresonayarit.gob.mx/legislacion-estatal/",
+  "urls": {
+    "pdf": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes_ingresos_presupuesto/2026/presupuesto_egresos_2026.pdf",
+    "word": null
+  },
+  "fecha_descarga": "2026-11-12T00:09:20.501248+00:00",
+  "fecha_catalogo_sin_interpretar": null,
+  "ultima_reforma": null,
+  "evidencia_encabezado": [
+    "Título y ejercicio cotejados visualmente en página 1.",
+    "Decreto publicado en la Sección Quinta 1 de 3, Sección Quinta 2 de 3 y Sección Quinta 3 de 3 del Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el día lunes 29 de diciembre de 2025."
+  ],
+  "hash_sha256": {
+    "pdf": "e1f14694615be4baa045693d6649bf39e444fc46e2b4888776d09a8943e9246a"
+  },
+  "version": "78e5191602ec54bd0a0e69ead2f44c1f4cf45a2bdbfea5b39d518bc5a7bd7b63",
+  "origen_markdown": "PDF original; conserva texto, numeración impresa, fracciones, transitorios y notas",
+  "estatus": "Incluido en catálogo de Nayarit; vigencia jurídica no verificada",
+  "validacion": "Promovido con limitación explícita: tablas y gráficos solo en PDF",
+  "fecha_revision_conversion": "2026-11-12T00:10:15.674425+00:00",
+  "conversor": "Poppler pdftotext -layout / controles de Sinaloa adaptados a Nayarit v2",
+  "decreto_numero": null,
+  "po_publicacion": {
+    "numero": null,
+    "edicion": null,
+    "fecha": "2025-12-29",
+    "seccion": "Sección Quinta 1 de 3, Sección Quinta 2 de 3 y Sección Quinta 3 de 3"
+  },
+  "reformas": [],
+  "abroga": [],
+  "slug": "presupuesto-de-egresos-del-estado-de-nayarit",
+  "url_pdf": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes_ingresos_presupuesto/2026/presupuesto_egresos_2026.pdf",
+  "url_word": null,
+  "seccion_sitio": "Leyes de Ingresos y Presupuesto de Egresos",
+  "secciones_sitio": [
+    "Leyes de Ingresos y Presupuesto de Egresos"
+  ],
+  "nombre_catalogo_sitio": "Presupuesto de Egresos 2026",
+  "orden": "estatal",
+  "regimen": "general",
+  "tipo": "presupuesto",
+  "vigencia_anual": true,
+  "ejercicio_fiscal": 2026,
+  "formato_word_original": null,
+  "limitaciones_texto": {
+    "paginas_solo_pdf": [
+      437,
+      786,
+      823,
+      826,
+      832
+    ],
+    "descripcion": "Consultar PDF para las tablas actuariales, cifra y diagramas no extraíbles; no se aplicó OCR."
+  }
+}

@@ -118,6 +118,7 @@ def inventario(entidad):
             "url_word": urls.get("word") or d.get("url_word"),
             "sha_pdf": hs.get("pdf"),
             "sha_word": hs.get("word") or hs.get("doc") or hs.get("docx"),
+            "vigencia_anual": bool(d.get("vigencia_anual")),
         })
     return reg
 
@@ -299,6 +300,49 @@ def revisar_catalogo(entidad, previo, inventario_ent=()):
     return obs, hallazgos
 
 
+RE_ANIO = re.compile(r"(?<!\d)(20\d{2})(?!\d)")
+
+
+def urls_del_siguiente_ejercicio(url):
+    """Candidatas para el ejercicio siguiente, sustituyendo el año en la URL.
+
+    Las leyes de ingresos y los presupuestos no se reforman: se sustituyen
+    cada año por un archivo nuevo con otro nombre. Vigilar el archivo de 2026
+    no entera jamás de que se publicó el de 2027, porque el de 2026 sigue
+    donde estaba y sin cambios. Por eso se prueba la misma ruta con el año
+    siguiente."""
+    anios = RE_ANIO.findall(url or "")
+    if not anios:
+        return []
+    actual = max(int(a) for a in anios)
+    sig = str(actual + 1)
+    cands = [RE_ANIO.sub(lambda m: sig if m.group(1) == str(actual) else m.group(1), url)]
+    # Algunos sitios versionan la carpeta y no el archivo, o al revés: se
+    # prueba también sustituyendo solo la última aparición.
+    i = url.rfind(str(actual))
+    if i >= 0:
+        otra = url[:i] + sig + url[i + 4:]
+        if otra not in cands:
+            cands.append(otra)
+    return [c for c in cands if c != url]
+
+
+def revisar_ejercicio_anual(item):
+    """¿Ya se publicó el documento del ejercicio siguiente?"""
+    if not item.get("vigencia_anual") or not item.get("url_pdf"):
+        return []
+    for u in urls_del_siguiente_ejercicio(item["url_pdf"]):
+        cab, _, err = pedir(u, "HEAD")
+        if err or not cab:
+            continue
+        return [{"tipo": "ejercicio_siguiente_publicado", "entidad": item["entidad"],
+                 "id": item["id"], "nombre": item["nombre"], "url": u,
+                 "detalle": "el sitio ya publica el documento del ejercicio "
+                            "siguiente en %s; el archivado no cambia porque "
+                            "se sustituye, no se reforma" % u}]
+    return []
+
+
 def _clave(u):
     """Forma comparable de una URL. Las rutas del Congreso de Nayarit traen
     tramos en mayúsculas -QUE_HACEMOS/LEGISLACION_ESTATAL- y los enlaces del
@@ -359,6 +403,7 @@ ETIQUETAS = {
     "no_encontrado": "El archivo ya no está en su ruta (404)",
     "inaccesible": "No se pudo leer el archivo",
     "catalogo_movido": "La página de catálogo cambió",
+    "ejercicio_siguiente_publicado": "Se publicó el documento del ejercicio siguiente",
     "enlace_fuera_del_catalogo": "El catálogo dejó de enlazar el archivo archivado",
     "catalogo_inaccesible": "No se pudo leer la página de catálogo",
 }
@@ -392,6 +437,7 @@ def escribir_reporte(hallazgos, revisados, segundos, notas):
         # vez de desaparecer. Una categoría nueva que no se imprime equivale a
         # no detectarla: `enlace_fuera_del_catalogo` se perdió así.
         orden = ("modificado", "pendiente_de_actualizar",
+                 "ejercicio_siguiente_publicado",
                  "posible_modificacion", "enlace_fuera_del_catalogo",
                  "no_encontrado", "catalogo_movido", "inaccesible",
                  "catalogo_inaccesible")
@@ -460,6 +506,8 @@ def main():
                               a.forzar_descarga or primera)
             nuevo["ordenamientos"][clave] = obs
             revisados += 1
+            if not primera:
+                hs += revisar_ejercicio_anual(item)
             for h in hs:
                 h["entidad"] = ent
                 h["id"] = item["id"]

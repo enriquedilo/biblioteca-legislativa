@@ -99,7 +99,14 @@ def process(row,local=None):
     except Exception as e:
      download_issues.append({'archivo':kind,'url':url,'motivo':str(e)})
   else:download_issues.append({'archivo':kind,'url':None,'motivo':'Enlace ausente en el catálogo capturado'})
- if not files.get('pdf',b'').startswith(b'%PDF'):raise ValueError('PDF ausente o inválido; no se promueve versión')
+ pdf_data=files.get('pdf',b'')
+ if not pdf_data.startswith(b'%PDF'):
+  # Algunas publicaciones oficiales anteponen HTML al PDF. No alterar bytes.
+  offset=pdf_data.find(b'%PDF-')
+  if not 0 < offset < 1024:raise ValueError('PDF ausente o inválido; no se promueve versión')
+  reader=PdfReader(io.BytesIO(pdf_data))
+  if not len(reader.pages):raise ValueError('PDF sin páginas; no se promueve versión')
+  download_issues.append({'archivo':'pdf','url':row['url_pdf'],'motivo':'Cabecera PDF precedida por contenido ajeno; original íntegro conservado, sin recortar ni reparar.','offset_cabecera_pdf':offset})
  if 'word' in files:
   if files['word'].startswith(b'PK'):ext='docx'
   elif files['word'].startswith(bytes.fromhex('d0cf11e0a1b11ae1')):ext='doc'

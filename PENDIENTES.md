@@ -64,6 +64,29 @@ Electoral, que ya están aquí. Alcance acordado:
 
 Sinaloa sigue sin protección frente al cambio de enlaces: su catálogo se arma con JavaScript desde otro host y su lista no es observable desde el HTML servido. La corrección de enlaces congelados de Nayarit queda documentada en `Nayarit/reportes/actualizacion-enlaces-2026-11-09.md`.
 
+## Sinaloa: materia fiscal, decidido no cargarla por ahora
+
+**Decidido el 12 de noviembre de 2026.** Nayarit ya tiene su Ley de Ingresos
+y su Presupuesto de Egresos del ejercicio (ids 141 y 142); Sinaloa no, y es
+una decisión, no un olvido.
+
+La razón es la fuente. En Sinaloa es **una sola ley conjunta de ingresos y
+egresos publicada en ocho PDF del Periódico Oficial**, en el portal de
+Transparencia, sin versión en Word, y fuera del catálogo de «Leyes
+Estatales» que alimenta el acervo. Cargarla obligaría a romper una regla de
+fondo: cada ordenamiento tiene un texto y su versión es el SHA-256 de un
+original. Ocho archivos para un documento no cabe ahí sin extender la regla.
+
+Las opciones evaluadas fueron un ordenamiento en ocho partes —con la versión
+calculada sobre la concatenación ordenada— u ocho ordenamientos separados.
+Se descartaron las dos por ahora: la primera cambia un invariante del acervo
+y la segunda parte una ley en ocho entradas de índice.
+
+Mientras no se cargue, **la skill debe advertirlo cuando la consulta sea
+fiscal de Sinaloa**: no está, y la razón es que la fuente está fragmentada en
+el Periódico Oficial. Pendiente de incorporar a la skill en su próxima
+actualización.
+
 ## Auditoría integral — pendiente mayor
 
 **La biblioteca se ha venido corrigiendo a parches, cada uno a raíz del error
@@ -193,4 +216,15 @@ ID 75 actualizado el 11 de noviembre de 2026 a la enmienda del 18 de septiembre 
 
 Pendiente corregir vigilancia, solo diagnosticada por instrucción del usuario: `observar_catalogo` convierte a minúsculas la ruta completa de las URL y `_huerfanos` compara contra rutas con mayúsculas del inventario. La cobertura resulta 0 y se desactiva el control. Además, `escribir_reporte` omite `enlace_fuera_del_catalogo` en sus categorías. La captura del 9 de noviembre ya contenía el enlace nuevo del ID 75; no fue un cambio posterior. Véase [diagnóstico y actualización](Nayarit/reportes/IGUALDAD_2026-11-11.md).
 
-El ID 133 sigue sin PDF ni Word enlazados. Los 25 PDF fiscales de la sección 4 permanecen fuera por la exclusión inicial, detallada en el mismo reporte.
+El ID 133 sigue sin PDF ni Word enlazados. La exclusión fiscal se revisó: los dos ordenamientos estatales se incorporaron y las veinte leyes de ingresos municipales siguen excluidas por alcance.
+
+
+## Normas fiscales anuales estatales
+
+Nayarit: IDs 141 (Ley de Ingresos) y 142 (Presupuesto de Egresos), ejercicio 2026, fuera de la exclusión municipal y marcados `vigencia_anual: true`. **Revisar y refrescar cada diciembre o enero** desde los enlaces del catálogo para el nuevo ejercicio: conservar versiones anteriores, actualizar URLs y hashes, y comprobar el ejercicio antes de citar. Una URL anual que siga respondiendo no acredita que sea el ejercicio vigente. No crear una tarea programada por este apunte.
+
+Las veinte leyes de ingresos municipales continúan excluidas por decisión de alcance; no por arrastre de toda la sección fiscal.
+
+Sinaloa: incorporación fiscal pendiente de revisión del usuario. La fuente localizada es el Periódico Oficial, publicado en el portal de Transparencia del Gobierno estatal, en ocho PDF. No se ha cargado nada. Véase [fuentes y controles](Nayarit/reportes/FISCALES_2026.md).
+
+Índices del Presupuesto Nayarit/142: los anexos quedan dentro del tramo del séptimo transitorio. El parser existente además etiqueta «Derechos Humanos» como derogación sin fecha (falso positivo). Pendiente segmentar anexos y corregir esa detección, sin alterar el texto archivado. La cifra de notas del índice incluye ese falso positivo; no es una reforma nueva.

@@ -1,6 +1,6 @@
 {
  "entidad": "Nayarit",
- "generado": "2026-11-11T18:55:05.686224+00:00",
+ "generado": "2026-11-12T00:15:30.729813+00:00",
  "base_raw": "https://raw.githubusercontent.com/enriquedilo/biblioteca-legislativa/main/",
  "nota": "Rutas relativas a la raiz del repositorio, con la version vigente ya resuelta. Antepon base_raw para leer por HTTP. No uses el enlace actual/ por HTTP: es un symlink.",
  "ordenamientos": [
@@ -1431,6 +1431,26 @@
      }
     }
    ]
+  },
+  {
+   "id": 141,
+   "nombre": "Ley de Ingresos del Estado Libre y Soberano de Nayarit para el Ejercicio Fiscal 2026",
+   "nombre_oficial": "LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT; PARA EL EJERCICIO FISCAL 2026",
+   "tipo": "ley",
+   "texto": "Nayarit/ordenamientos/141/versiones/7e2d312addd7e58aed9dc5c65adb0c15959b785a527908b8ba1e1fe27afe3593/texto.md",
+   "metadata": "Nayarit/ordenamientos/141/versiones/7e2d312addd7e58aed9dc5c65adb0c15959b785a527908b8ba1e1fe27afe3593/metadata.json",
+   "validacion": "Nayarit/ordenamientos/141/versiones/7e2d312addd7e58aed9dc5c65adb0c15959b785a527908b8ba1e1fe27afe3593/validacion.json",
+   "articulado": "Nayarit/indices/articulos/141.json"
+  },
+  {
+   "id": 142,
+   "nombre": "Presupuesto de Egresos del Estado de Nayarit para el Ejercicio Fiscal 2026",
+   "nombre_oficial": "PRESUPUESTO DE EGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, PARA EL EJERCICIO FISCAL DE 2026",
+   "tipo": "presupuesto",
+   "texto": "Nayarit/ordenamientos/142/versiones/78e5191602ec54bd0a0e69ead2f44c1f4cf45a2bdbfea5b39d518bc5a7bd7b63/texto.md",
+   "metadata": "Nayarit/ordenamientos/142/versiones/78e5191602ec54bd0a0e69ead2f44c1f4cf45a2bdbfea5b39d518bc5a7bd7b63/metadata.json",
+   "validacion": "Nayarit/ordenamientos/142/versiones/78e5191602ec54bd0a0e69ead2f44c1f4cf45a2bdbfea5b39d518bc5a7bd7b63/validacion.json",
+   "articulado": "Nayarit/indices/articulos/142.json"
   }
  ]
 }
