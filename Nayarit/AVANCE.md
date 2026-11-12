@@ -2,7 +2,7 @@
 
 Actualizado: 11 de noviembre de 2026
 
-**Con versión: 139 de 140 identidades.** Incluye ID 78 histórico abrogado.
+**Con versión: 141 de 142 identidades.** Incluye ID 78 histórico abrogado.
 
 Lote 14 cerrado; archivos disponibles verificados. Catálogo agotado: no existe lote 15. ID 133 pendiente de originales; consultar incidencias.
 
@@ -184,3 +184,5 @@ IDs 48 y 98: nuevas versiones de la enmienda impresa del 26 de octubre de 2026; 
 Actualización 2026-11-11: ID 140 cargado; ID 78 conservado y marcado abrogado, con URLs trasladadas verificadas. 153 artículos y 12 transitorios nuevos. Cotejo de 163 enlaces vigentes: un nuevo faltante fuera de exclusiones fiscales (ya cargado) y actualización pendiente del ID 75. [Informe](reportes/JUSTICIA_ALTERNATIVA_2026-11-11.md).
 
 Actualización ID 75, 2026-11-11: enmienda del 18 de septiembre de 2026, anterior conservada. 38 artículos y 11 transitorios; otros 138 articulados sin cambios. [Actualización y diagnóstico de vigilancia](reportes/IGUALDAD_2026-11-11.md).
+
+Incorporación fiscal anual 2026: IDs 141 y 142 promovidos; 169 artículos y 12 transitorios añadidos. El 142 conserva limitaciones de tablas e imágenes expresamente autorizadas, con consulta al PDF. [Reporte](reportes/FISCALES_2026.md).

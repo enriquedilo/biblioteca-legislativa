@@ -193,4 +193,15 @@ ID 75 actualizado el 11 de noviembre de 2026 a la enmienda del 18 de septiembre 
 
 Pendiente corregir vigilancia, solo diagnosticada por instrucción del usuario: `observar_catalogo` convierte a minúsculas la ruta completa de las URL y `_huerfanos` compara contra rutas con mayúsculas del inventario. La cobertura resulta 0 y se desactiva el control. Además, `escribir_reporte` omite `enlace_fuera_del_catalogo` en sus categorías. La captura del 9 de noviembre ya contenía el enlace nuevo del ID 75; no fue un cambio posterior. Véase [diagnóstico y actualización](Nayarit/reportes/IGUALDAD_2026-11-11.md).
 
-El ID 133 sigue sin PDF ni Word enlazados. Los 25 PDF fiscales de la sección 4 permanecen fuera por la exclusión inicial, detallada en el mismo reporte.
+El ID 133 sigue sin PDF ni Word enlazados. La exclusión fiscal se revisó: los dos ordenamientos estatales se incorporaron y las veinte leyes de ingresos municipales siguen excluidas por alcance.
+
+
+## Normas fiscales anuales estatales
+
+Nayarit: IDs 141 (Ley de Ingresos) y 142 (Presupuesto de Egresos), ejercicio 2026, fuera de la exclusión municipal y marcados `vigencia_anual: true`. **Revisar y refrescar cada diciembre o enero** desde los enlaces del catálogo para el nuevo ejercicio: conservar versiones anteriores, actualizar URLs y hashes, y comprobar el ejercicio antes de citar. Una URL anual que siga respondiendo no acredita que sea el ejercicio vigente. No crear una tarea programada por este apunte.
+
+Las veinte leyes de ingresos municipales continúan excluidas por decisión de alcance; no por arrastre de toda la sección fiscal.
+
+Sinaloa: incorporación fiscal pendiente de revisión del usuario. La fuente localizada es el Periódico Oficial, publicado en el portal de Transparencia del Gobierno estatal, en ocho PDF. No se ha cargado nada. Véase [fuentes y controles](Nayarit/reportes/FISCALES_2026.md).
+
+Índices del Presupuesto Nayarit/142: los anexos quedan dentro del tramo del séptimo transitorio. El parser existente además etiqueta «Derechos Humanos» como derogación sin fecha (falso positivo). Pendiente segmentar anexos y corregir esa detección, sin alterar el texto archivado. La cifra de notas del índice incluye ese falso positivo; no es una reforma nueva.

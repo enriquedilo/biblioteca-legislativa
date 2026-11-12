@@ -1,6 +1,6 @@
 # Biblioteca Legislativa de Nayarit
 
-Catálogo local: 140 identidades propias; 139 con versión disponible, incluido el ID 78 abrogado para consulta histórica. Piloto: cuatro ordenamientos.
+Catálogo local: 142 identidades propias; 141 con versión disponible, incluido el ID 78 abrogado para consulta histórica. Piloto: cuatro ordenamientos.
 
 Versiones descargadas del Congreso; no certifican vigencia jurídica. Los números son IDs locales estables, no números de decreto.
 
@@ -150,3 +150,6 @@ Versiones descargadas del Congreso; no certifican vigencia jurídica. Los númer
 | 140 | Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Nayarit | [Markdown](ordenamientos/140/actual/texto.md) | [PDF](ordenamientos/140/actual/original.pdf) · [Word](ordenamientos/140/actual/original.docx) | 153 artículos y 12 transitorios verificados; abroga ID 78 |
 
 [Cotejo de catálogo y relación 78–140](reportes/JUSTICIA_ALTERNATIVA_2026-11-11.md).
+
+| 141 | Ley de Ingresos del Estado Libre y Soberano de Nayarit para el Ejercicio Fiscal 2026 | [Markdown](ordenamientos/141/actual/texto.md) | [PDF](ordenamientos/141/actual/original.pdf) | Conversión conservada; sin Word; cotejo visual con incidencias |
+| 142 | Presupuesto de Egresos del Estado de Nayarit para el Ejercicio Fiscal 2026 | [Markdown](ordenamientos/142/actual/texto.md) | [PDF](ordenamientos/142/actual/original.pdf) | Promovido con limitación explícita: tablas y gráficos solo en PDF |
