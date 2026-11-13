@@ -23,9 +23,9 @@ Hay dos vías. Usa la primera que esté disponible y **di cuál usaste** al resp
 
 la carpeta `Biblioteca_Legislativa` del equipo del usuario (su ruta absoluta varía según el equipo y la carpeta que se haya autorizado).
 
-La carpeta compartida puede aparecer montada con otra ruta. Identifícala buscando `Sinaloa/INDICE.md`, `Nayarit/INDICE.md`, `Federal/INDICE.md` o `IEEN/INDICE.md` dentro de la carpeta que el usuario haya autorizado. No busques en tareas ajenas. Este skill no concede permisos ni transporta los documentos.
+La carpeta compartida puede aparecer montada con otra ruta. Búscala por `Sinaloa/INDICE.md`, `Nayarit/INDICE.md`, `Federal/INDICE.md` o `IEEN/INDICE.md` dentro de la carpeta que el usuario haya autorizado. No busques en tareas ajenas. Este skill no concede permisos ni transporta los documentos.
 
-Los originales PDF y Word de **Sinaloa y Nayarit** están en esa misma carpeta. Los originales **federales** no: viven en la carpeta de trabajo de la conversión, una carpeta de trabajo aparte de la conversión federal, en `Federal/ordenamientos/<id>/actual/original.pdf` dentro de ella. Si necesitas cotejar un original federal y esa carpeta no está autorizada, dilo y pídela; no respondas sin él. Los originales del **IEEN** también quedan fuera de Git, pero su PDF es público: `metadata.json` guarda la URL del Instituto y el SHA-256, así que un cotejo se puede hacer descargando de la fuente.
+Los originales PDF y Word de **Sinaloa y Nayarit** están en esa misma carpeta. Los originales **federales** no: viven en una carpeta de trabajo aparte de la conversión federal, en `Federal/ordenamientos/<id>/actual/original.pdf` dentro de ella. Si necesitas cotejar un original federal y esa carpeta no está autorizada, dilo y pídela; no respondas sin él. Los originales del **IEEN** también quedan fuera de Git, pero su PDF es público: `metadata.json` guarda la URL del Instituto y el SHA-256, así que un cotejo se puede hacer descargando de la fuente.
 
 **2. El repositorio en GitHub**, cuando la Mac no esté conectada o la carpeta no esté autorizada:
 
@@ -104,6 +104,8 @@ FROM articulos WHERE articulos MATCH '(arancel OR honorarios) AND (perito OR per
 
 En cualquier discrepancia entre un índice y el `texto.md`, manda el texto. Los índices orientan la búsqueda; la cita se toma del documento.
 
+**La columna `pagina` de la base no es la página del pasaje**, sino la del rótulo donde empieza el artículo, y entre un cuarto y un tercio de las entradas cruzan un salto de página. Para citar, vuelve al `texto.md` y toma el marcador `<!-- PAGINA_PDF: n -->` inmediatamente anterior al pasaje, nunca el valor que devuelve la consulta.
+
 ## Los únicos ordenamientos sin texto en la biblioteca
 
 **Seis federales.** Catalogados, con su PDF y su SHA-256 conservados, pero su conversión no superó el control —o el PDF no trae capa de texto— y no se promovió: no tienen `actual/` ni entran en ningún índice. No se les aplicó OCR.
@@ -114,14 +116,19 @@ En cualquier discrepancia entre un índice y el `texto.md`, manda el texto. Los 
 | 413 | Reglamento de la LGS en Materia de Control Sanitario de Actividades, Establecimientos, Productos y Servicios (1988) |
 | 414 | Reglamento de la LGS en Materia de Control Sanitario de la Disposición de Órganos, Tejidos y Cadáveres (1985) |
 | 416 | Reglamento de la LGS en Materia de Investigación para la Salud (1987) |
-| 444 | Reglamento de la Ley Federal de Ganadería (1955) |
-| 446 | Reglamento del artículo 5º constitucional (1945) |
+| 444 | Reglamento de la Ley que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura (1955) |
+| 446 | Reglamento de la Ley Reglamentaria del artículo 5º constitucional, ejercicio de las profesiones en el D.F. (1945) |
 
 Su única fuente es el PDF de la Cámara, cuya URL y hash están en `Federal/reportes/pendientes-finales.json`.
 
 **Cuatro del IEEN**, por la misma razón: el 45 (reglas procesales de procedimientos sancionadores 2025) y el 104 (manual de operación de la Oficialía de Partes) son escaneos sin texto en ninguna página; el 48 (criterios de validez o nulidad del voto) y el 106 (manual de contabilidad gubernamental) pierden texto normativo en páginas interiores. Su URL pública está en `IEEN/catalogo/normatividad.json`.
 
-Si la consulta toca uno de estos diez, **dilo y ofrece su PDF**. No cites de memoria lo que dicen. **Las dos listas son exhaustivas**: cualquier otro ordenamiento sí tiene texto.
+Si la consulta toca uno de estos diez, **dilo y ofrece su PDF**. No cites de memoria lo que dicen. **Las dos listas son exhaustivas**: cualquier otro ordenamiento promovido sí tiene texto.
+
+Dos precisiones que importan cuando se busca por archivo y no por `rutas.json`:
+
+- **Cinco de los seis federales sí tienen un `texto.md` legible en el repositorio** —los ids 372, 413, 414, 416 y 446—, pese a no estar promovidos. No tienen `actual.json`, llevan `texto_conservado: false` y son transcripciones con basura de escaneo. Un `grep` o una lectura por HTTP puede encontrarlos: **nunca los cites**. El id 444 ni siquiera tiene carpeta.
+- **Nayarit 133**, Reglamento Interior de la Auditoría Superior, tampoco tiene texto, por una razón distinta: el Congreso no publica el archivo. No está en las dos listas anteriores porque no hubo conversión que rechazar.
 
 ## Vigencia: la compilación se toma como buena
 
@@ -130,6 +137,8 @@ El usuario trabaja con la compilación consolidada de los congresos, de la Cáma
 Lo que sí se advierte es lo concreto, y solo cuando afecta al texto citado:
 
 - **`estado_vigencia` en `rutas.json`.** Cuando un ordenamiento lo trae, respeta lo que dice. **Nayarit 78, Ley de Justicia Alternativa, está abrogada**: el Congreso la movió a su carpeta de ordenamientos abrogados y la sustituye la **Ley de Mecanismos Alternativos de Solución de Controversias, Nayarit 140**. Si la consulta toca la materia, responde con la 140 y menciona la 78 solo como antecedente, nunca como derecho vigente. Su texto se conserva para trabajo histórico.
+- **La base de búsqueda no sabe nada de vigencia.** La tabla `leyes` de `biblioteca.db` no tiene columna de estado, y `rutas.json` solo expone `estado_vigencia`, que en Federal no existe: `abrogacion_programada`, `vigencia_recuperada` y `vigencia_anual` viven únicamente en `metadata.json`. Un resultado de FTS de la Nayarit 78 abrogada se ve igual que el de una ley vigente. Antes de citar lo que devolvió una consulta transversal, lee la metadata del ordenamiento.
+- **Federal 203 y 281**: sus portadas imprimen la invalidez del decreto que expidió la respectiva ley, pero ese hecho no está en `rutas.json` ni en la base: el preámbulo queda fuera de la fila indexada del primer artículo. Lee la portada del `texto.md` antes de citarlas, y cuida la semejanza de nombre entre la 203 y la 223.
 - **Texto anulado que no se ve.** El acervo guarda texto plano y **el tachado es formato del PDF que no sobrevive a la conversión**. Cuando una compilación tacha lo que una sentencia dejó sin efectos, en el `texto.md` ese pasaje se lee igual que el vigente y la nota que lo explica suele estar al final, sin decir cuál es. Caso conocido: **IEEN 27**, Lineamientos dirigidos a los partidos políticos, página 14, sentencia del Tribunal Estatal Electoral en el recurso TEE-AP-09/2019. Si el `texto.md` o el `validacion.json` mencionan texto tachado, sin efectos, invalidez o sentencia, **adviertelo antes de citar y manda al PDF**, explicando por qué: no es cautela genérica, es que el texto plano no distingue lo anulado de lo vigente.
 - **Ley General del Sistema de Medios de Impugnación en Materia Electoral (ID 223)**: **no está abrogada**. Su `metadata.json` trae `vigencia_recuperada` porque la SCJN invalidó el decreto de 2023 que la abrogaba. Nunca la cites como abrogada.
 - **Código Federal de Procedimientos Civiles (ID 5)**: trae `abrogacion_programada` —abrogado por el decreto que expide el Código Nacional de Procedimientos Civiles y Familiares, con vigencia a más tardar al 1 de abril de 2027—. Adviértelo siempre que lo cites.
@@ -142,6 +151,8 @@ Si el usuario pregunta expresamente por vigencia al día de hoy, dile que el ace
 ## Lectura y verificación
 
 Lee `metadata.json` y `validacion.json` de la versión consultada para conocer fuente, descarga, revisión, correcciones y campos no localizados. `metadata.json` incluye `decreto_numero`, `po_publicacion`, `ultima_reforma`, `reformas`, `abroga`, y en Nayarit y Federal también `orden`, `regimen` y `tipo`. En Federal revisa además `abrogacion_programada`, `vigencia_recuperada` y `vigencia_anual`. En IEEN trae `seccion` —`electoral` o `interna`—, `acuerdo` —el del Consejo o de la Junta que aprobó la versión vigente, como `IEEN-CLE-015/2025`— y `reformas` con la cadena de acuerdos anteriores. Donde haya `estado_vigencia`, `abrogada_por` o `abroga`, respetarlos manda sobre cualquier inferencia.
+
+**El nombre de la carpeta de versión no es el SHA-256 del PDF.** Salvo en IEEN, el identificador de versión se deriva del mapa de hashes o de una corrección de metadata. Para verificar un original descargado, compáralo contra `metadata.json → hash_sha256`, nunca contra el nombre de la carpeta.
 
 **Un campo nulo o un arreglo vacío significa que el dato no está impreso, no que no exista.** En Sinaloa solo 10 de 151 documentos traen tabla explícita de reformas y 64 registran abrogación expresa. En Nayarit, 61 de 139 no imprimen la sección de publicación y 39 no imprimen fecha de última reforma. Es la regla de «solo lo impreso» funcionando, no una falla de extracción.
 
@@ -181,7 +192,17 @@ Para preguntas sobre el contenido archivado, usa la biblioteca como fuente y no 
 
 Las remisiones son detección léxica de nombres: no distinguen la remisión normativa de la cita incidental y no capturan las genéricas. El artículo 47 de la Ley de Profesiones de Sinaloa remite a «los aranceles respectivos» sin nombrar la Ley de Aranceles, y por eso no figura como arista. Trata `remisiones.json` como pista, no como mapa normativo. Tampoco hay remisiones entre entidades: que una ley estatal remita a una ley general no aparece en ningún índice, y eso incluye la relación entre un reglamento del IEEN y la Ley Electoral de Nayarit que lo funda.
 
-El conteo de artículos duplicados dentro de un mismo ordenamiento —unos 400 en el acervo— está sin diagnosticar: parte son ordinales impresos repetidos en listas finales de decretos y parte, errores de segmentación. Si un número de artículo devuelve dos entradas, compara su página y su texto antes de citar.
+**El número de artículo que devuelve el índice puede estar equivocado, no solo duplicado.** Una auditoría externa de noviembre de 2026 diagnosticó los ~400 duplicados del acervo y encontró cinco causas, todas vigentes hasta que se corrija el generador:
+
+- **Sufijo compuesto partido.** Cuando el rótulo se corta en dos líneas —`### Artículo 17-` y debajo `H Bis.`— el índice guarda solo `17`. Afecta a unas 130 entradas federales en 21 ordenamientos, unas 73 de Sinaloa en 13 y una de Nayarit. El Código Fiscal (Federal 6) es el caso más denso: 17-H Bis, 29-A Bis, 32-B Bis a Quinquies y 69-B Bis y Ter aparecen como 17, 29, 32 y 69.
+- **La letra «O» de serie leída como ordinal.** «145 O.-» se indexa como «145». Confirmado en Nayarit 58 y 67.
+- **Transitorios tipificados como cuerpo** cuando el título va en texto plano o no dice exactamente «TRANSITORIOS». Confirmado en Federal 241, 271 y 307.
+- **Encabezados espurios**: el conversor promovió a rótulo una remisión que venía a media frase. Confirmado en Nayarit 52 y 116, y en Sinaloa 5, 16, 19, 88, 102 y 108.
+- **Artículo de otra ley citado como propio**: el Código Civil Federal (Federal 2) tiene cinco entradas «54»; solo la de la página 8 es suya, las otras cuatro son el artículo 54 de la Ley del Notariado de 1946 transcrito en notas del compilador.
+
+**Y hay tres rótulos equivocados en el propio `texto.md`**, no solo en el índice: el conversor partió la palabra «Terminado» y se llevó «Ter» al encabezado. Son `ART. 1046. Ter` y `ART. 2340. Ter` en el Código Civil de Sinaloa (ID 1) y `Artículo 114. Ter` en el Código Familiar de Sinaloa (ID 4). Esos artículos **no existen**: el original dice 1046, 2340 y 114. Si una consulta cae en ellos, dilo y cita por el número real.
+
+Mientras esto no se corrija, en cualquier ordenamiento de los nombrados arriba **lee el rótulo completo en el `texto.md` y, si la cita va a un documento formal, compruébalo contra el PDF**. Que dos entradas compartan número sigue siendo señal de alarma, pero la ausencia de duplicado ya no garantiza que el número sea correcto.
 
 ## Regla de escritura
 
