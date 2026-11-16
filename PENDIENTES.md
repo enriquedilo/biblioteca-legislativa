@@ -1,230 +1,480 @@
 # Pendientes abiertos
 
-Lista corta de lo que falta en la biblioteca, para no depender de la memoria
-de una conversación. Quien cierre un punto lo borra de aquí.
+Lo que falta en la biblioteca, para no depender de la memoria de una
+conversación. Quien cierre un punto lo mueve a «Cerrado» con su fecha.
 
-Última revisión: 10 de noviembre de 2026.
+**Última revisión: 16 de noviembre de 2026.** Esta revisión consolida tres
+fuentes: los pendientes anteriores, las dos auditorías externas independientes
+del 12 de noviembre —una en Claude sobre el repositorio público, otra en Codex
+sobre el clon local con los originales— y el reporte de mantenimiento derivado
+de las auditorías de Salud Mental (Sinaloa) y Ley de Bienes (Nayarit).
 
-## Acervo electoral: en construcción
+Cada punto dice de dónde sale. `[Codex Hn]` y `[Claude Cn/An/Mn/Bn]` remiten a
+los hallazgos numerados de cada auditoría; `[Mant.]` al reporte de
+mantenimiento; `[Previo]` a lo que ya estaba registrado aquí.
 
-**Decidido el 9 de noviembre de 2026.** Se cargan en este mismo repositorio,
-no en una biblioteca aparte: el trabajo electoral cruza la Constitución
-federal, la LGIPE, la LGPP, la Constitución de Nayarit y la Ley Estatal
-Electoral, que ya están aquí. Alcance acordado:
+---
 
-- **IEEN completo**: los 51 documentos de `ieenayarit.org/normatividad/IEEN`
-  y los 21 de `/normatividad/Interna`. De los 51, siete son leyes del Congreso
-  de Nayarit que la biblioteca ya tiene por su fuente oficial y no se
-  duplican, y el Compendio Electoral 2021 queda fuera por ser una
-  recopilación de esas mismas leyes en un PDF de 207 MB. **Neto: 64.**
-- **Compendio normativo del INE**: 23 documentos servidos desde
-  `sidj.ine.mx/restWS…/app/doc/<id>/20/1`, con identificador numérico estable.
-  NormaINE, el repositorio de miles de acuerdos que está detrás, se consulta,
-  no se espeja.
-- **Solo texto vigente.** Los 75 acuerdos de reforma quedan anotados con su
-  fecha y su URL, sin convertir. Si después hace falta un texto anterior, se
-  promueve esa versión sin rehacer nada.
-- **Los acuerdos del Consejo quedan fuera por ahora.** Son cientos por año y
-  son materia de consulta puntual, no de acervo. Se evalúa después.
+## 1. Identidad del artículo citado — lo más grave
 
-### Ruta
+Hasta noviembre de 2026 la premisa de trabajo era que los índices orientan y el
+texto manda. **Eso dejó de ser suficiente**: hay rótulos equivocados en el
+propio `texto.md`, no solo en el índice. Mientras esto no se corrija, una cita
+puede llevar página correcta y número falso, que es el error más difícil de
+detectar y el único que llega a un documento formal sin avisar.
 
-1. **Catálogo.** `bin/catalogo_ieen.py` lee las dos páginas del IEEN y escribe
-   `IEEN/catalogo/normatividad.json` con la versión vigente de cada documento.
-   Hecho y probado; falta correrlo y publicar su salida.
-2. **Acervo IEEN.** Estructura igual a la de los otros tres acervos y carga en
-   lotes de unos doce ordenamientos, con cotejo por lote.
-3. **Vigilancia.** Adaptador del catálogo del IEEN en `bin/vigilancia.py`. El
-   sitio responde `Last-Modified` y `Content-Length` en los 72 documentos, así
-   que sirve la misma detección barata por cabecera.
-4. **INE.** Los 23 del compendio, con su propio adaptador de catálogo.
-5. **Vista electoral** en la capa de índices, que es regenerable.
+### 1.1 Rótulos inexistentes en el texto convertido `[Codex H1]`
 
-### Notas técnicas comprobadas
+El conversor partió la palabra «Terminado» y se llevó «Ter» al encabezado:
 
-- El arreglo `documentos` viene embebido en el HTML como literal de
-  JavaScript: claves sin comillas, escapes `\/` y `\uXXXX`, coma sobrante
-  antes del corchete. Se extrae sin navegador.
-- **Los anexos no vienen en orden constante**: unos van del más viejo al más
-  nuevo y otros al revés. La versión vigente se elige por fecha, nunca por
-  posición en la lista.
-- El lote 3 confirmó excepciones a la muestra inicial de PDF de texto: ID 45
-  es un escaneo sin capa; ID 48 tiene capa parcial; ID 50 es un escaneo con
-  texto ya incorporado por la fuente. No se aplicó OCR.
-- Dos ordenamientos del IEEN apuntan a PDF alojados en el sitio del Congreso
-  de Nayarit, y uno pesa 207 MB: los tres quedan resueltos por las reglas de
-  arriba.
-- Pendiente de confirmar en el primer lote: que «Ley de Justicia del Estado de
-  Nayarit» del catálogo del IEEN (`LJEN-07102020.pdf`) sea la Ley de Justicia
-  Electoral, que la biblioteca tiene como Nayarit 79.
-- Las URL del INE no pudieron verificarse desde el entorno de trabajo porque
-  el proxy bloquea `sidj.ine.mx`. Se verifican al llegar al paso 4.
+| Documento | Página | Rótulo archivado | Rótulo real |
+|---|---:|---|---|
+| Sinaloa 1, Código Civil | 53 | `ART. 1046. Ter` | 1046 |
+| Sinaloa 1, Código Civil | 154 | `ART. 2340. Ter` | 2340 |
+| Sinaloa 4, Código Familiar | 29 | `Artículo 114. Ter` | 114 |
 
-## Vigilancia del catálogo de Sinaloa
+El control de conservación los aprueba porque no se pierde ni sobra una letra.
+**Exige versión nueva del `texto.md` con el PDF delante**, no basta regenerar
+índices. Añadir regresión que compruebe el rótulo como unidad léxica,
+incluyendo la primera palabra del párrafo.
 
-Sinaloa sigue sin protección frente al cambio de enlaces: su catálogo se arma con JavaScript desde otro host y su lista no es observable desde el HTML servido. La corrección de enlaces congelados de Nayarit queda documentada en `Nayarit/reportes/actualizacion-enlaces-2026-11-09.md`.
+### 1.2 Artículo de otra ley rotulado como propio `[Claude C4]`
 
-## Sinaloa: materia fiscal, decidido no cargarla por ahora
+El Código Civil Federal (Federal 2) tiene cinco entradas «54». Solo la de la
+página 8 es suya; las otras cuatro —páginas 173, 197, 221 y 224— son el
+artículo 54 de la Ley del Notariado de 1946 transcrito en notas del compilador.
+El artículo 1777 queda además truncado antes de su nota.
 
-**Decidido el 12 de noviembre de 2026.** Nayarit ya tiene su Ley de Ingresos
-y su Presupuesto de Egresos del ejercicio (ids 141 y 142); Sinaloa no, y es
-una decisión, no un olvido.
+### 1.3 Encabezados espurios dentro del texto `[Claude C3]`
 
-La razón es la fuente. En Sinaloa es **una sola ley conjunta de ingresos y
-egresos publicada en ocho PDF del Periódico Oficial**, en el portal de
-Transparencia, sin versión en Word, y fuera del catálogo de «Leyes
-Estatales» que alimenta el acervo. Cargarla obligaría a romper una regla de
-fondo: cada ordenamiento tiene un texto y su versión es el SHA-256 de un
-original. Ocho archivos para un documento no cabe ahí sin extender la regla.
+El conversor promovió a rótulo una remisión que venía a media frase, de modo
+que el tramo queda atribuido a un artículo que no lo contiene. Verificados a
+mano: Nayarit 52 y 116; Sinaloa 5, 16, 19, 88, 102 y 108. El recuento de
+candidatos —rótulo seguido de línea que abre en minúscula o coma— da Federal
+27, Sinaloa 52, Nayarit 3, IEEN 5; no todos son espurios.
 
-Las opciones evaluadas fueron un ordenamiento en ocho partes —con la versión
-calculada sobre la concatenación ordenada— u ocho ordenamientos separados.
-Se descartaron las dos por ahora: la primera cambia un invariante del acervo
-y la segunda parte una ley en ocho entradas de índice.
+### 1.4 Los ~400 duplicados, ya diagnosticados
 
-Mientras no se cargue, **la skill debe advertirlo cuando la consulta sea
-fiscal de Sinaloa**: no está, y la razón es que la fuente está fragmentada en
-el Periódico Oficial. Pendiente de incorporar a la skill en su próxima
-actualización.
+`[Previo]` registraba 398 duplicados «sin diagnosticar» (Sinaloa 171, Nayarit
+7, Federal 220). Las dos auditorías los desarmaron en cinco causas
+reproducibles. Las tres primeras se corrigen en `bin/indices.py`:
 
-## Auditoría integral — pendiente mayor
+- **Sufijo compuesto partido** `[Claude C1] [Codex H2]`. Con el rótulo cortado
+  en dos líneas —`### Artículo 17-` y debajo `H Bis.`— el índice guarda `17`.
+  `RE_SUFIJO_SIG` solo acepta una letra seguida de punto o guion, y la línea 274
+  solo busca el sufijo siguiente cuando el reconocido está vacío, así que
+  `485 Bis-1` y `485 Bis-2` colapsan en `485 BIS`. Alcance estimado: ~130
+  entradas federales en 21 ordenamientos, ~73 de Sinaloa en 13, una de Nayarit.
+- **La letra «O» de serie leída como ordinal** `[Claude C2]`. `RE_ART` acepta
+  `(?:o|º|°)` con `IGNORECASE`, así que «145 O.-» se indexa como «145».
+  Confirmado en Nayarit 58 y 67.
+- **Transitorios tipificados como cuerpo** `[Claude C5] [Codex H3]`.
+  `RE_TRANS_TIT` exige que «TRANSITORIOS» sea encabezado Markdown y palabra
+  sola. Con el título en texto plano todo lo que sigue entra como `cuerpo`:
+  Federal 241 (quince transitorios de 1931 como artículos 1 a 15), Federal 307
+  (una fe de erratas como 27 artículos), Federal 271.
 
-**La biblioteca se ha venido corrigiendo a parches, cada uno a raíz del error
-que lo destapó.** Han funcionado, pero ninguno nació de una revisión
-sistemática: el índice que se detenía en DUODÉCIMO llevaba meses perdiendo
-2,651 transitorios, las remisiones salían distintas en cada corrida sin que
-nadie lo notara, y cuatro ordenamientos de Nayarit quedaron congelados dos
-meses mientras la alerta semanal decía «algo cambió» sin decir qué. Los tres
-se descubrieron de casualidad, no por buscarlos.
+Las otras dos son 1.2 y 1.3. **Orden obligado: corregir textos, luego el
+parser con sus regresiones, y solo entonces regenerar índices.**
 
-Hace falta una pasada completa y de una sola vez, antes de que el acervo
-crezca más. Lo que debe cubrir, con lo que hoy sabemos:
+### 1.5 La columna `pagina` de la base no es la del pasaje `[Claude A3]`
 
-**Integridad de los punteros.** Cada URL archivada contra el catálogo vigente,
-en los cuatro acervos. Incluye resolver la observabilidad del catálogo de
-Sinaloa, hoy el único sin protección contra el enlace congelado.
+La FTS guarda una fila por artículo con la página de su rótulo y elimina los
+marcadores del texto. Entre un cuarto y un tercio de las entradas cruzan un
+salto de página. El ejemplo del README invita a citar esa columna junto al
+snippet. **Ya advertido en la skill**; falta corregir el ejemplo del README y
+evaluar guardar el desplazamiento de cada salto.
 
-**Vigencia real.** Fecha de última reforma archivada contra la que publica
-cada fuente, ordenamiento por ordenamiento. No solo los que cambiaron de
-enlace: también los que la fuente actualizó sin que lo notáramos.
+### 1.6 El control de conversión no certifica estructura `[Claude A5]`
 
-**Altas que nunca entraron.** Ordenamientos publicados por los congresos
-después de la carga inicial y que no están en el acervo. Hoy no hay ningún
-control que los busque.
+«Conversión conservada» descansa en comparación léxica de frecuencias y orden
+de palabras. Los defectos 1.1 a 1.3 la superan porque no alteran el inventario
+de palabras. Falta un control de articulado: secuencia de numeración, rótulos
+seguidos de minúscula, rótulos que repiten número.
 
-**Consistencia estructural.** Que `version` sea el SHA-256 del original, que
-`actual` resuelva a un directorio existente, que no queden versiones huérfanas
-ni `metadata.json` apuntando a un texto que no es el suyo.
+---
 
-**Calidad del articulado.** Los 398 números de artículo duplicados dentro de
-un mismo ordenamiento; aperturas de artículo sin marcar; transitorios que
-absorben el resto del documento —el último de Nayarit 139 carga 18,665
-caracteres—; las notas del DOF, las declaratorias de invalidez de la SCJN y la
-tabla de la LIGIE, todas sin anclar.
+## 2. Vigilancia
 
-**Reproducibilidad.** Que regenerar los índices dos veces produzca exactamente
-lo mismo. Se corrigió en `remisiones.json`; falta comprobar el resto de la
-capa.
+Cuatro defectos reproducibles, con pruebas que fallan contra el código actual
+en el apéndice A de la auditoría de Codex. **Cerrarlos antes de ampliar la
+cobertura a IEEN e INE**, no después.
 
-**El proceso, no solo el dato.** Por qué una alerta se cerró dos veces como
-ruido. Una alerta que no se puede accionar enseña a ignorar la alarma, y ese
-es el fallo más caro de todos.
+### 2.1 La primera corrida descarta diferencias SHA confirmadas `[Codex H7]`
 
-## Skill
+`main` conserva solo `no_encontrado` e `inaccesible`; descarta `modificado`. El
+primer reporte puede decir «sin cambios» habiendo detectado contenido distinto
+del archivado.
 
-El acervo del IEEN obliga a actualizar la skill `biblioteca-legislativa` en
-dos momentos:
+### 2.2 `--entidad` borra el estado de los demás acervos `[Codex H8]`
 
-1. **Al fusionar el primer lote**: la descripción, que hoy dice «Sinaloa,
-   Nayarit y Federal». Es lo que decide si la skill se activa; sin ese cambio
-   una pregunta por un reglamento del IEEN puede no invocarla.
-2. **Al terminar los 64**: conteos reales, la numeración con huecos, que
-   siete números del catálogo del IEEN corresponden a ordenamientos de
-   Nayarit y no a IEEN, las dos secciones, el rotulado de artículos de los
-   reglamentos —que se conoce con el lote 1— y la receta de consulta
-   electoral cruzando Nayarit, Federal e IEEN en bloques rotulados.
+`main` inicializa el estado nuevo vacío, procesa solo la entidad pedida y
+reemplaza el archivo global. Revisar Sinaloa elimina las observaciones
+federales y de Nayarit.
 
-### Regla que debe quedar escrita en la skill: texto anulado que no se ve
+### 2.3 La alerta por prefijo no persiste `[Codex H5] [Claude M1]`
 
-**El acervo guarda texto plano; el tachado es formato del PDF y no sobrevive
-a la conversión.** Cuando una compilación marca con tachado el texto que una
-sentencia dejó sin efectos, en el `texto.md` ese pasaje **se lee igual que el
-vigente**, sin ninguna marca, y la nota que lo explica suele estar al final
-del documento y no dice qué pasaje es. Citar de ahí es citar como vigente algo
-anulado.
+La comparación es contra el prefijo observado en la corrida anterior, no contra
+la línea base archivada. A la semana siguiente coincide y el hallazgo
+desaparece aunque el acervo no se haya actualizado. La persistencia de
+pendientes solo usa `sha256` completo. Hoy afecta a la LIGIE (Federal 78, PDF
+de 18 MB y Word de 25 MB), que además es de vigencia anual.
 
-Caso conocido: **IEEN 27**, Lineamientos dirigidos a los partidos políticos,
-página 14: «El texto tachado se dejó sin efectos por sentencia del Tribunal
-Estatal Electoral de Nayarit, recurso de apelación TEE-AP-09/2019, notificada
-el 25 de mayo de 2020». Queda registrado en su `validacion.json`.
+### 2.4 Un alta nueva entra sin cotejo inicial `[Codex H6] [Claude M1]`
 
-La regla para la skill: si el `texto.md` o el `validacion.json` del documento
-consultado mencionan texto tachado, sin efectos, invalidez o sentencia,
-**advertirlo antes de citar y mandar al PDF original**, explicando por qué —no
-como cautela genérica, sino porque el tachado se perdió en la conversión y el
-texto plano no distingue lo anulado de lo vigente—. No es una advertencia de
-vigencia de las que el usuario pidió quitar: ahí el riesgo es concreto y está
-dentro del pasaje que se va a citar.
+Con estado global previo y sin observación anterior del archivo, `revisar`
+recibe `previo=None` y `forzar=False`; con cabeceras disponibles no descarga ni
+compara contra el SHA archivado, y la cabecera pasa a ser línea base sin
+verificar. Afecta a Nayarit 140, 141 y 142, que no están en `estado.json`.
+Corrección mínima: cotejo completo obligatorio en la primera observación de
+cada archivo, no solo en la primera corrida global.
 
-La skill instalada se actualiza con una tarjeta de revisión, no editando
-archivos. La copia de `skill/biblioteca-legislativa/SKILL.md` está
-desincronizada: hoy tiene una estructura vieja, de tres entidades, sin la
-regla de los enlaces `actual/` ni la de no advertir sobre cotejo. **Decidido:
-el repositorio queda público y se publica todo**, así que esa copia se deja
-idéntica a la instalada, con una nota de que es copia publicada y no la
-fuente.
+### 2.5 El IEEN no se vigila `[Previo] [Codex H9] [Claude M2]`
 
-## Calidad del índice
+`ENTIDADES = ("Sinaloa", "Nayarit", "Federal")` en `bin/vigilancia.py:30`, y
+`CATALOGOS` tampoco incluye al Instituto. Los 60 promovidos llevan desde su
+carga sin ninguna detección de cambio. Falta el adaptador de catálogo; el sitio
+responde `Last-Modified` y `Content-Length`, así que sirve la detección barata.
 
-- **398 números de artículo duplicados** dentro de un mismo ordenamiento
-  (Sinaloa 171, Nayarit 7, Federal 220). Sin diagnosticar. Parte serán
-  ordinales impresos repetidos en listas finales de decretos, parte errores de
-  segmentación.
-- **Federal**: las notas explicativas `Reforma DOF …`, las declaratorias de
-  invalidez de la SCJN y la tabla arancelaria de la LIGIE siguen sin anclarse a
-  artículo.
+### 2.6 El catálogo de Sinaloa no es observable `[Previo] [Codex H9]`
 
-## Infraestructura
+Se arma con JavaScript desde otro host y su lista no se ve en el HTML servido,
+así que la función de catálogo retorna `lista_no_observable` y no hay segunda
+consulta que detecte altas o sustituciones de enlace. El reporte debería
+distinguir «sin cambios observados» de «catálogo no evaluable», y publicarse
+una matriz explícita de cobertura por acervo.
 
-- **Enero de 2027**: el token de acceso personal de GitHub vence a mediados de
-  enero. Quedó acordado no regenerar otro, sino pasar la autenticación al
-  GitHub CLI (`gh auth login`), que guarda una credencial que se renueva sola
-  en el llavero del Mac, y revocar el token viejo.
-- El cron de la vigilancia está puesto los lunes a las 14:17 UTC, pero las
-  corridas caen entre cinco y ocho horas después. Es la cola de GitHub para
-  tareas programadas, no una falla del flujo.
+### 2.7 El workflow puede perder su propia constancia `[Claude M3]`
 
-## IEEN: pendientes del lote 3
+`.github/workflows/vigilancia.yml` hace `git push` sin `pull --rebase`. Si se
+fusiona un PR durante la corrida —unos 18 minutos— el push falla por no ser
+fast-forward y se pierde el registro de esa semana.
 
-45: sin texto en ninguna de sus cinco páginas. 48: capa parcial, con falta de
-texto interior en 7, 18 y 20. No aplica excepción de portada; sin `actual`, sin
-índices y sin OCR. Los IDs 40, 42 y 47 ya se promovieron tras cotejar sus
-portadas sin texto normativo. Véase [lote 3](IEEN/reportes/LOTE_3.md).
+### 2.8 Nombre temporal fijo en la generación FTS `[Codex H13] [Claude M7]`
 
-Al incorporar INE, cotejar IEEN/38 antes de duplicar: metadata contiene `emisor`
-y `deduplicacion` con clave `INE/CG517/2020:A1` y referencia IEEN/38.
+`bin/indices.py` usa `biblioteca_fts.db` dentro de `TMPDIR` y borra cualquier
+archivo previo con ese nombre. Dos procesos que regeneren entidades distintas
+se pisan. Usar ruta exclusiva por proceso y publicación atómica.
 
-## IEEN: pendientes del lote 4
+### 2.9 El cron se retrasa `[Previo]`
 
-104: acuerdo escaneado, solo marca de agua extraíble. 106: texto normativo y tablas en imagen en páginas interiores (evidencia: 117, 1073, 1075 y 1077). Ambos fuera por texto normativo como imagen conforme a los cuatro casos de IEEN/LEEME.md; sin OCR ni reconstrucción de tablas, sin `actual` y fuera de índices.
+Puesto los lunes a las 14:17 UTC, las corridas caen entre cinco y ocho horas
+después. Es la cola de GitHub para tareas programadas, no una falla del flujo.
+No requiere acción.
 
-103 y 105 ya promovidos con incidencias de página gráfica (15) y blanca (16), respectivamente. Las reglas gráficas del 103 se consultan en el PDF, no están en el texto. Los 64 candidatos IEEN están procesados: 60 promovidos y cuatro pendientes (45, 48, 104, 106). Véase [reporte del lote 4](IEEN/reportes/LOTE_4.md).
+---
 
-## Nayarit: control de enlaces huérfanos
+## 3. Vigencia y advertencias que no llegan a la consulta
 
-ID 75 actualizado el 11 de noviembre de 2026 a la enmienda del 18 de septiembre de 2026; anterior conservada e índices regenerados.
+### 3.1 La base de búsqueda no sabe nada de vigencia `[Claude A4]`
 
-Pendiente corregir vigilancia, solo diagnosticada por instrucción del usuario: `observar_catalogo` convierte a minúsculas la ruta completa de las URL y `_huerfanos` compara contra rutas con mayúsculas del inventario. La cobertura resulta 0 y se desactiva el control. Además, `escribir_reporte` omite `enlace_fuera_del_catalogo` en sus categorías. La captura del 9 de noviembre ya contenía el enlace nuevo del ID 75; no fue un cambio posterior. Véase [diagnóstico y actualización](Nayarit/reportes/IGUALDAD_2026-11-11.md).
+La tabla `leyes` de `biblioteca.db` no tiene columna de estado, y `rutas.json`
+solo expone `estado_vigencia`, que en Federal no existe. Un resultado de FTS de
+la Nayarit 78 abrogada se ve igual que el de una ley vigente, y
+`abrogacion_programada`, `vigencia_recuperada` y `vigencia_anual` quedan fuera.
+**Ya advertido en la skill**; falta exponerlo en el índice.
 
-El ID 133 sigue sin PDF ni Word enlazados. La exclusión fiscal se revisó: los dos ordenamientos estatales se incorporaron y las veinte leyes de ingresos municipales siguen excluidas por alcance.
+### 3.2 Federal 203 y 281 `[Codex H4]`
 
+Sus portadas imprimen la invalidez del decreto que expidió cada ley, pero el
+preámbulo queda fuera de la fila indexada del primer artículo y el hecho no
+aparece en `rutas.json`. Agrava la semejanza de nombre entre Federal 203 y 223.
 
-## Normas fiscales anuales estatales
+### 3.3 Texto anulado que no se ve `[Previo]`
 
-Nayarit: IDs 141 (Ley de Ingresos) y 142 (Presupuesto de Egresos), ejercicio 2026, fuera de la exclusión municipal y marcados `vigencia_anual: true`. **Revisar y refrescar cada diciembre o enero** desde los enlaces del catálogo para el nuevo ejercicio: conservar versiones anteriores, actualizar URLs y hashes, y comprobar el ejercicio antes de citar. Una URL anual que siga respondiendo no acredita que sea el ejercicio vigente. No crear una tarea programada por este apunte.
+El acervo guarda texto plano y el tachado es formato del PDF que no sobrevive a
+la conversión. Caso conocido: IEEN 27, página 14, sentencia TEE-AP-09/2019.
+**Regla ya incorporada a la skill.** Queda abierto si conviene marcarlo en
+`validacion.json` de forma que el índice pueda exponerlo.
 
-Las veinte leyes de ingresos municipales continúan excluidas por decisión de alcance; no por arrastre de toda la sección fiscal.
+---
 
-Sinaloa: incorporación fiscal pendiente de revisión del usuario. La fuente localizada es el Periódico Oficial, publicado en el portal de Transparencia del Gobierno estatal, en ocho PDF. No se ha cargado nada. Véase [fuentes y controles](Nayarit/reportes/FISCALES_2026.md).
+## 4. Integridad y especificación
 
-Índices del Presupuesto Nayarit/142: los anexos quedan dentro del tramo del séptimo transitorio. El parser existente además etiqueta «Derechos Humanos» como derogación sin fecha (falso positivo). Pendiente segmentar anexos y corregir esa detección, sin alterar el texto archivado. La cifra de notas del índice incluye ese falso positivo; no es una reforma nueva.
+### 4.1 Cinco federales rechazados tienen texto legible `[Claude A1]`
+
+Los ids 372, 413, 414, 416 y 446 **sí tienen `texto.md` versionado y legible**,
+pese a no estar promovidos. No tienen `actual.json` y llevan
+`texto_conservado: false`, pero abren con la misma línea genérica que cualquier
+conversión buena, y un `grep` o una lectura por HTTP puede encontrarlos y
+citarlos. El acervo IEEN resuelve esto bien: sus cuatro no promovidos abren con
+«EXTRACCIÓN DIAGNÓSTICA INCOMPLETA». **Federal debe adoptar ese rótulo o
+retirar esos textos.** Advertido en la skill mientras tanto.
+
+### 4.2 El id 444 está mal identificado y no tiene carpeta `[Claude A2]`
+
+README e índices lo llaman «Reglamento de la Ley Federal de Ganadería», que no
+existe en el catálogo. Es el Reglamento de la Ley que Crea el Fondo de Garantía
+y Fomento para la Agricultura, Ganadería y Avicultura. El 446 también estaba
+descrito de forma imprecisa. **Corregido en la skill**; falta en README y en
+`Federal/indices/README.md`.
+
+### 4.3 `version` no es el SHA-256 del original `[Codex H10] [Claude B8]`
+
+README, brief y un razonamiento de este archivo lo daban por invariante. Solo
+se cumple en los 60 documentos del IEEN. En Federal, Sinaloa y Nayarit el
+identificador se deriva del SHA del mapa de hashes (`bin/biblioteca.py:65`,
+`bin/nayarit/biblioteca.py:115`) o de una corrección de metadata
+(`bin/federal/metadatos.py:74`). No es corrupción: es una especificación mal
+escrita. **Corregido en la skill.** Falta definir por separado, y documentar, el
+hash de cada original y el identificador de versión de la representación.
+
+### 4.4 Enlaces de entrada desincronizados `[Codex H12] [Claude B6] [Claude B7]`
+
+`Sinaloa/INDICE.md:30` enlaza el ID 23 a la versión `2ffab4bc…` cuando
+`actual.json` y `rutas.json` seleccionan `4dc4c10d…`. Además los INDICE de
+Sinaloa (151 enlaces) y Nayarit (279) apuntan a `original.pdf` y `original.doc`,
+excluidos por `.gitignore`: en GitHub son enlaces rotos. Generar los enlaces
+desde `actual.json`/`rutas.json` y comprobarlos al publicar.
+
+### 4.5 Versiones sustituidas sin marca `[Claude, decisión cuestionada]`
+
+Hay 151 versiones no seleccionadas; en Sinaloa y Nayarit cerca de la mitad no
+trae señal de haber sido sustituida —Sinaloa 23 tiene ambas versiones con la
+misma `fecha_descarga` y metadata idéntica—. Conservarlas es correcto; dejarlas
+indistinguibles para quien llega por HTTP, `grep` o un enlace viejo, no.
+
+### 4.6 `actual/` no resuelve en todos los clones `[Claude B13]`
+
+Con `core.symlinks=false`, que es el valor por defecto en Windows, `actual` es
+un archivo de texto con una ruta dentro. La skill ya manda resolver por
+`rutas.json`; conviene que el README lo diga en vez de afirmar que «en un clon
+se resuelve».
+
+---
+
+## 5. Metadata y trazabilidad
+
+### 5.1 Nombres oficiales sin cotejar `[Mant. 1]`
+
+Sinaloa 145 de 151 y Nayarit 24 de 141 tienen `nombre_oficial` vacío con
+`nombre_oficial_pendiente_de_cotejo` en true. Federal e IEEN están completos.
+Verificado. Hoy no impide identificar ninguna ley porque el nombre se toma del
+encabezado del `texto.md`, que trae el nombre corto del catálogo y no la
+denominación oficial. Conviene llenar el campo y evaluar una lista de alias por
+ordenamiento.
+
+### 5.2 «Sin reformas» frente a «no impreso» `[Mant. 2]`
+
+Federal 139 de 447 y Nayarit 40 de 141 no traen `ultima_reforma`; Sinaloa está
+completo. Verificado. Con el campo vacío no se puede afirmar que una ley no ha
+sido reformada: la Ley de Bienes de Nayarit (ord. 20) obligó a comprobarlo en
+el sitio del Congreso.
+
+**IEEN es distinto y no debe «arreglarse»:** 59 de 60 no traen
+`ultima_reforma` porque el Instituto no imprime la anotación en el artículo; su
+cadena de reformas vive en `metadata.json` como lista de acuerdos. Lo que sí
+amerita revisión es que **solo 18 de 60 tienen esa cadena poblada**.
+
+Sobre la propuesta de un campo `sin_reformas: true`: afirma una ausencia dentro
+de un archivo cuya regla entera es «solo lo impreso». Si entra, debe entrar con
+procedencia —qué catálogo se consultó y en qué fecha—, no como booleano suelto.
+
+### 5.3 El campo `validacion` no discrimina `[Mant. 3]`
+
+Federal: los 447 traen exactamente la misma cadena. Nayarit: 133 de 141.
+Sinaloa: 134 de 151 en «pendiente de cotejo visual». Verificado. No es que haya
+muchos pendientes: es que el campo es constante y por tanto no informa.
+
+Se descarta la propuesta de un `apto_para_cita: sí/no`: colapsa el matiz que el
+acervo existe para conservar y hoy saldría «no» en 714 de 799 documentos. La
+forma útil es la **lista de incidencias por artículo**, que sí permitiría al
+índice advertir solo cuando el pasaje citado está afectado. Priorizar el cotejo
+de las leyes que más se intervienen: salud mental, víctimas, desplazamiento,
+desaparición, bienes.
+
+### 5.4 Fecha del último cotejo contra el catálogo `[Mant. 4]`
+
+La observación del reporte era que los ordenamientos de Nayarit se descargaron
+el 14 de septiembre; en realidad hay al menos seis fechas de descarga, del 14 de
+septiembre al 10 de noviembre. **La propuesta de fondo sigue siendo buena y es
+más barata de lo que parece:** `vigilancia/estado.json` ya guarda, por
+ordenamiento, la última observación contra el catálogo oficial con su fecha y la
+firma del archivo. El dato existe; falta exponerlo en `rutas.json` para que una
+respuesta pueda decir «vigente al …» y avisar cuando tenga antigüedad.
+
+---
+
+## 6. Alcance del acervo
+
+### 6.1 Acervo del INE `[Previo]`
+
+23 documentos del compendio, servidos desde `sidj.ine.mx/restWS…/app/doc/<id>/20/1`
+con identificador numérico estable, con su propio adaptador de catálogo.
+NormaINE se consulta, no se espeja. Las URL no pudieron verificarse desde el
+entorno de trabajo porque el proxy bloquea el host. Al incorporarlo, cotejar
+IEEN/38 antes de duplicar: su metadata trae `deduplicacion` con clave
+`INE/CG517/2020:A1`.
+
+### 6.2 IEEN: cuatro no promovidos `[Previo]`
+
+45 (reglas procesales de procedimientos sancionadores 2025) y 104 (manual de
+operación de la Oficialía de Partes) son escaneos sin texto; 48 (criterios de
+validez o nulidad del voto) y 106 (manual de contabilidad gubernamental)
+pierden texto normativo en páginas interiores. Sin `actual`, fuera de índices,
+sin OCR. Véanse los reportes de los lotes 3 y 4.
+
+Queda abierto que el 47 podría reconocer numerales en lugar de la segmentación
+por página que se le aplicó.
+
+### 6.3 Sinaloa: materia fiscal `[Previo]`
+
+Decidido el 12 de noviembre no cargarla por ahora. La fuente es una sola ley
+conjunta de ingresos y egresos en ocho PDF del Periódico Oficial, en el portal
+de Transparencia, sin Word y fuera del catálogo de «Leyes Estatales».
+Cargarla obligaría a romper la regla de un texto por ordenamiento. **La skill
+debe advertirlo cuando la consulta sea fiscal de Sinaloa**; sigue pendiente de
+incorporar.
+
+### 6.4 Normas fiscales anuales `[Previo]`
+
+Nayarit 141 y 142, ejercicio 2026, marcados `vigencia_anual`. **Revisar y
+refrescar cada diciembre o enero** desde los enlaces del catálogo: conservar
+versiones anteriores, actualizar URL y hashes, comprobar el ejercicio antes de
+citar. Una URL anual que siga respondiendo no acredita que sea el ejercicio
+vigente. Las veinte leyes de ingresos municipales siguen excluidas por alcance.
+
+### 6.5 Nayarit 133 `[Previo]`
+
+Reglamento Interior de la Auditoría Superior: está en el catálogo del Congreso
+pero el sitio no publica ni PDF ni Word. Sin cambios.
+
+### 6.6 Leyes de otras entidades `[Mant. 5]`
+
+Las auditorías de iniciativas citan leyes de otros estados verificadas en web
+—Ciudad de México, Zacatecas, Jalisco, Aguascalientes, Morelos, Chiapas,
+Guerrero, Oaxaca, Nuevo León—. Si las comparativas se vuelven frecuentes,
+**la forma no puede ser una colección temática**: rompería el invariante de un
+acervo por catálogo oficial y la regla de no mezclar entidades. Serían acervos
+nuevos, uno por congreso, aunque se cargue solo un subconjunto.
+
+### 6.7 Vista electoral en la capa de índices `[Previo]`
+
+Prevista como paso 5 del acervo electoral; no existe. Evaluar si sigue siendo
+necesaria ahora que la consulta electoral se resuelve cruzando `Nayarit/`,
+`IEEN/` y `Federal/` en bloques rotulados.
+
+---
+
+## 7. Proceso, pruebas y documentación
+
+### 7.1 Sin pruebas del parser de articulado y sin CI `[Claude M6]`
+
+`bin/ieen/pruebas_indices.py` tiene tres pruebas, ninguna sobre sufijos
+compuestos, la «O» de serie ni títulos de transitorios. Ninguna suite corre en
+integración continua: el único workflow es la vigilancia. Los casos de 1.4 son
+regresiones naturales.
+
+### 7.2 Índices publicados desfasados del código `[Claude M5]`
+
+`1c12ac6` agregó el conteo `secciones` y el tipo `seccion`, pero
+`Federal/indices/` y `Sinaloa/indices/` no se regeneraron. Al regenerar cambian
+811 archivos y el diff semántico solo agrega `secciones: 0`, así que el
+contenido es reproducible. Falta un paso que impida publicar índices
+desfasados.
+
+### 7.3 Modos inválidos aceptados en silencio `[Claude M7]`
+
+`python3 bin/indices.py tdo --entidad IEEN` imprime el encabezado y sale con
+código 0 sin generar nada. Quien teclee mal el modo cree haber regenerado.
+
+### 7.4 Cambios de contenido en `main` sin PR `[Claude M4]`
+
+`git log --first-parent --no-merges main` muestra 38 commits directos, entre
+ellos uno que actualiza la Constitución de Sinaloa y otro que cambia el parser
+de índices. El flujo declarado es rama y pull request. Decidir si la regla
+aplica siempre o se documenta la excepción. La vigilancia escribe directo en
+`main` por diseño, y eso causa 2.7.
+
+### 7.5 Documentación que no describe el repositorio `[Codex H11] [Claude B1–B5, B10–B14]`
+
+`README.md` y `LEEME.md` siguen describiendo **tres acervos y 737
+ordenamientos**; la suma de sus propias cifras da 739 y el total real con IEEN
+es 799. Las cifras de artículos y transitorios no corresponden a los índices
+actuales. `Federal/INDICE.md:7` dice «sin índices de búsqueda ni articulado»,
+que existen desde `8527e2d`. `Federal/indices/README.md` conserva cifras
+anteriores. `IEEN/AVANCE.md` dice «PR en borrador, sin merge», fusionado en
+`c4ab46a`. `IEEN/INDICE.md` tiene dos filas fuera de la tabla por una línea en
+blanco. `.gitignore` repite `original.rtf` y `original.txt`.
+
+**Generar los conteos desde los índices en vez de escribirlos a mano**, y
+separar la información vigente de los reportes históricos.
+
+### 7.6 Auditoría integral `[Previo]`
+
+El pendiente mayor registrado el 12 de noviembre queda **cumplido en su mayor
+parte** por las dos auditorías externas. Lo que ninguna cubrió y sigue abierto:
+
+- **Altas que nunca entraron**: ordenamientos publicados por los congresos
+  después de la carga inicial y ausentes del acervo. No hay control que los
+  busque.
+- **Vigencia real** ordenamiento por ordenamiento contra lo que publica cada
+  fuente hoy. Ambas auditorías fueron estáticas: ninguna alcanzó los sitios
+  oficiales.
+- **Cotejo de originales faltantes**: Codex verificó 646 originales presentes
+  contra su SHA declarado, sin una sola discrepancia, y comparó 15,680 páginas
+  de 323 PDF. Quedaron sin cotejar los 447 federales —la carpeta de originales
+  no estaba autorizada—, 13 PDF del IEEN (ids 9 a 21) y 16 estatales ausentes
+  del montaje.
+- **El proceso, no solo el dato.** Por qué una alerta se cerró dos veces como
+  ruido. Una alerta que no se puede accionar enseña a ignorar la alarma.
+
+### 7.7 Infraestructura `[Previo]`
+
+**Enero de 2027**: el token de acceso personal de GitHub vence a mediados de
+enero. Quedó acordado no regenerar otro, sino pasar la autenticación al GitHub
+CLI (`gh auth login`) y revocar el token viejo. Hay tarea programada.
+
+---
+
+## Cerrado desde la revisión del 10 de noviembre
+
+- **Acervo del IEEN**: los 64 candidatos procesados, 60 promovidos (ids 9–51
+  electoral, 101–121 interna). Catálogo, carga por lotes y cotejo, hechos.
+- **Skill actualizada** en sus dos momentos: descripción con los cuatro
+  acervos, conteos reales, numeración con huecos, las siete leyes del catálogo
+  del IEEN que viven en `Nayarit/`, las dos secciones, el rotulado de artículos
+  de los reglamentos y la receta de consulta electoral cruzada.
+- **Regla del texto anulado**, incorporada a la skill con el caso IEEN 27.
+- **Copia publicada de la skill sincronizada** (PR #22, 16 de noviembre). La
+  afirmación de que le faltaban la regla de los enlaces `actual/` y la de no
+  advertir sobre cotejo era incorrecta: ambas estaban. Lo que le faltaba era el
+  IEEN y la nota de copia publicada, ya resuelto. Las tres copias —instalada en
+  Claude, instalada en Codex y publicada— tienen hoy cuerpo idéntico.
+- **Control de enlaces huérfanos de Nayarit**: `_clave` y `_huerfanos` están
+  implementados y `enlace_fuera_del_catalogo` figura en las categorías del
+  reporte. Verificado en el código; sus pruebas pasan. Este archivo lo seguía
+  pidiendo.
+- **Nayarit 75** actualizado el 11 de noviembre a la enmienda del 18 de
+  septiembre de 2026, versión anterior conservada e índices regenerados.
+- **Nayarit 78** marcada abrogada con evidencia textual y página, cruzada en
+  ambas direcciones con la **140** que la sustituye.
+- **Normas fiscales de Nayarit**: ids 141 y 142 incorporados.
+- **Reproducibilidad de `remisiones.json`**: corregida. Regenerar los cuatro
+  acervos reproduce el contenido versionado salvo el campo `generado` y la
+  clave `secciones`.
+- **Identidad de la LJEN del catálogo del IEEN**: `YA_EN_LA_BIBLIOTECA` la
+  mapea a Nayarit 79, cuyo nombre de catálogo es «Ley de Justicia Electoral
+  para el Estado de Nayarit». Identidad confirmada; queda el cotejo de versión
+  contra el archivo `LJEN-07102020.pdf`.
+
+## Lo que las auditorías verificaron y está bien
+
+Conviene no perderlo de vista al leer la lista de arriba:
+
+- Los **646 originales presentes coinciden con su SHA-256 declarado**, sin una
+  sola discrepancia, incluidos los históricos.
+- En los **799 ordenamientos** con `actual.json`, el enlace resuelve al
+  directorio declarado. Cero enlaces rotos.
+- Los marcadores `PAGINA_PDF` van de 1 a N sin huecos en todos los textos
+  vigentes, y N coincide con `paginas_pdf` de `validacion.json`. En Federal y
+  Sinaloa los 24,935 pies «N de M» impresos coinciden con el marcador; solo
+  IEEN 117 desfasa uno por portada.
+- Las **121,182 entradas de índice** tienen `pagina_pdf` igual al último
+  marcador anterior a su `linea_inicio`.
+- Las 304 portadas federales con «Última Reforma DOF» coinciden con
+  `ultima_reforma.fecha`.
+- Las cuatro suites de pruebas existentes pasan.
+- El tratamiento de los no promovidos del **IEEN** —rótulo explícito en el
+  texto, `validacion` coherente, exclusión de índices— es el modelo que Federal
+  debería copiar.
