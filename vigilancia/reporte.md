@@ -1,31 +1,38 @@
 # Vigilancia de reformas
 
-Corrida: 2026-11-09 23:43 UTC · 736 ordenamientos revisados · 1062s
+Corrida: 2026-11-16 23:39 UTC · 739 ordenamientos revisados · 974s
 
-**4 archivo(s) cambiaron.** Requiere conversión y validación: pasa este reporte al pipeline de mantenimiento.
+**5 archivo(s) cambiaron.** Requiere conversión y validación: pasa este reporte al pipeline de mantenimiento.
 
 ## Archivo modificado en el sitio oficial
 
 | Entidad | ID | Ordenamiento | Archivo | Detalle |
 |---|---:|---|---|---|
-| Nayarit | 48 | Ley de Desarrollo Forestal Sustentable para el Estado de Nay | pdf | sha publicado d2ae06251c58… != archivado 8df50b165372… |
-| Nayarit | 48 | Ley de Desarrollo Forestal Sustentable para el Estado de Nay | word | sha publicado fc695d8395c8… != archivado 4c7c1378c6af… |
-| Nayarit | 98 | Ley de Protección a la Fauna para el Estado de Nayarit | pdf | sha publicado c9ff332843ec… != archivado c9771470653c… |
-| Nayarit | 98 | Ley de Protección a la Fauna para el Estado de Nayarit | word | sha publicado c5071b3b0643… != archivado c41f370ed0e6… |
+| Sinaloa | 66 | Ley de Pesca y Acuacultura Sustentables | pdf | sha publicado cf89082e6997… != archivado d2276b268e4d… |
+| Sinaloa | 66 | Ley de Pesca y Acuacultura Sustentables | word | sha publicado c84b4ba3b68b… != archivado 187cd95fd65d… |
+| Nayarit | 5 | Constitución Política del Estado Libre y Soberano de Nayarit | pdf | sha publicado c5e51f252b22… != archivado 6e7703b82604… |
+| Nayarit | 5 | Constitución Política del Estado Libre y Soberano de Nayarit | word | sha publicado 29ea7ddf9b68… != archivado 5b5a44a35b01… |
+| Nayarit | 36 | Ley de Cultura Física y Deporte para el Estado de Nayarit | pdf | sha publicado e14de4e0fad2… != archivado 66c05a829096… |
 
-## El archivo ya no está en su ruta (404)
+## Se publicó el documento del ejercicio siguiente
 
 | Entidad | ID | Ordenamiento | Archivo | Detalle |
 |---|---:|---|---|---|
-| Nayarit | 78 | Ley de Justicia Alternativa para el Estado de Nayarit | pdf | el archivo ya no está en esa ruta |
-| Nayarit | 78 | Ley de Justicia Alternativa para el Estado de Nayarit | word | el archivo ya no está en esa ruta |
+| Federal | 60 | LEY de Ingresos de la Federación para el Ejercicio Fiscal de | — | el sitio ya publica el documento del ejercicio siguiente en https://www.diputados.gob.mx/LeyesBiblio/pdf/LIF_2027.pdf; el archivado no cambia porque se sustituye, no se reforma |
+
+## El catálogo dejó de enlazar el archivo archivado
+
+| Entidad | ID | Ordenamiento | Archivo | Detalle |
+|---|---:|---|---|---|
+| Nayarit | 5 | Constitución Política del Estado Libre y Soberano de Nayarit | — | el catálogo ya no enlaza este archivo: el sitio publicó otro y la URL archivada quedó congelada |
+| Nayarit | 139 | Ley Municipal para el Estado de Nayarit | — | el catálogo ya no enlaza este archivo: el sitio publicó otro y la URL archivada quedó congelada |
 
 ## La página de catálogo cambió
 
 | Entidad | ID | Ordenamiento | Archivo | Detalle |
 |---|---:|---|---|---|
-| Nayarit | — | — | — | la lista del catálogo cambió (368 enlaces); desde la próxima corrida se dirá cuáles |
-| Federal | — | — | — | la lista del catálogo cambió (1545 enlaces); desde la próxima corrida se dirá cuáles |
+| Nayarit | — | — | — | el catálogo cambió — alta (2): Constitucion_Politica_del_Estado_Libre_y_Soberano_de_Nayarit.doc, Constitucion_Politica_del_Estado_Libre_y_Soberano_de_Nayarit.pdf; baja (2): constitucion_politica_del_estado_libre_y_soberano_de_nayarit-1.doc, constitucion_politica_del_estado_libre_y_soberano_de_nayarit-1.pdf |
+| Federal | — | — | — | el catálogo cambió — alta (9): LEDPDE.doc, LGFACR.doc, LIF_2027.doc, LEDPDE.pdf, LGFACR.pdf, LIF_2027.pdf, Ley_General_para_el_Fortalecimiento_y_Armonizacion_Catastral_y_Registral.pdf, Ley_de_Economia_Digital_para_Pagos_Digitales_y_Electronicos.pdf, Ley_de_Ingresos_2027.pdf |
 
 ---
 
