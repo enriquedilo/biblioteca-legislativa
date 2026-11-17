@@ -400,7 +400,29 @@ blanco. `.gitignore` repite `original.rtf` y `original.txt`.
 **Generar los conteos desde los índices en vez de escribirlos a mano**, y
 separar la información vigente de los reportes históricos.
 
-### 7.6 Auditoría integral `[Previo]`
+### 7.6 El conversor de Sinaloa no actualiza el enlace `actual` `[16-nov-2026]`
+
+`bin/biblioteca.py` escribe `actual.json` y la carpeta de la versión, pero no
+toca el enlace simbólico `actual`. Al reconvertir Sinaloa 66 el 16 de noviembre,
+`actual.json` quedó apuntando a la versión nueva y el enlace a la de septiembre:
+quien leyera por la ruta estable habría obtenido el texto anterior. Se corrigió
+a mano ese caso. Era el único incoherente de los 799 porque es el primer
+ordenamiento de Sinaloa que se reconvierte desde que existen los enlaces, así
+que **el defecto es latente en todo el acervo de Sinaloa**. Nayarit lo hace bien
+(`temp.symlink_to(...)` y `os.replace`), y de ahí se puede copiar.
+
+### 7.7 La conversión de Nayarit exige macOS y no lo declara `[16-nov-2026]`
+
+La extracción de los `.doc` usa `/usr/bin/textutil`. En Linux falla, pero la
+versión se escribe igual, con la misma etiqueta de validación que las buenas
+—«Conversión conservada; cotejo Word/PDF con incidencias»— y el fallo relegado a
+`incidencias_descarga`. Es decir: **una versión en la que el cotejo Word/PDF no
+corrió es indistinguible de una en la que sí**, salvo que alguien abra el
+archivo de validación. Un primer intento del 16 de noviembre se revirtió por
+esto. La etiqueta debe reflejar que el control no se ejecutó, o el conversor
+debe negarse a escribir la versión.
+
+### 7.8 Auditoría integral `[Previo]`
 
 El pendiente mayor registrado el 12 de noviembre queda **cumplido en su mayor
 parte** por las dos auditorías externas. Lo que ninguna cubrió y sigue abierto:
@@ -419,7 +441,7 @@ parte** por las dos auditorías externas. Lo que ninguna cubrió y sigue abierto
 - **El proceso, no solo el dato.** Por qué una alerta se cerró dos veces como
   ruido. Una alerta que no se puede accionar enseña a ignorar la alarma.
 
-### 7.7 Infraestructura `[Previo]`
+### 7.9 Infraestructura `[Previo]`
 
 **Enero de 2027**: el token de acceso personal de GitHub vence a mediados de
 enero. Quedó acordado no regenerar otro, sino pasar la autenticación al GitHub
