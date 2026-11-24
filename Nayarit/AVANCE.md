@@ -186,3 +186,8 @@ Actualización 2026-11-11: ID 140 cargado; ID 78 conservado y marcado abrogado, 
 Actualización ID 75, 2026-11-11: enmienda del 18 de septiembre de 2026, anterior conservada. 38 artículos y 11 transitorios; otros 138 articulados sin cambios. [Actualización y diagnóstico de vigilancia](reportes/IGUALDAD_2026-11-11.md).
 
 Incorporación fiscal anual 2026: IDs 141 y 142 promovidos; 169 artículos y 12 transitorios añadidos. El 142 conserva limitaciones de tablas e imágenes expresamente autorizadas, con consulta al PDF. [Reporte](reportes/FISCALES_2026.md).
+
+
+## 2026-11-24 — Actualización para cotejo
+
+Constitución (5): nuevo PDF de 188 páginas, 144 artículos y 436 transitorios sin cambios textuales detectados respecto de la versión anterior. Conservación validada; sin OCR. Versión y originales previos conservados. Incidencias Word/PDF y metadata registradas. Rama actualizacion/2026-11-24; pendiente de cotejo y merge. Véase vigilancia/conversiones/2026-11-24/REPORTE.md.
